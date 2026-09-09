@@ -119,6 +119,7 @@ catalog.source_counts = {
 
 await fs.mkdir("data/details", { recursive: true });
 await fs.mkdir("data/anime-details", { recursive: true });
+await fs.mkdir("data/seasons", { recursive: true });
 
 async function enrichTmdb(type, items, limit = 150) {
   const selected = items.slice(0, limit);
@@ -132,6 +133,26 @@ async function enrichTmdb(type, items, limit = 150) {
       await fs.writeFile(`data/details/${type}-${x.id}.json`, JSON.stringify(d, null, 2));
     }));
     console.log(`Enriched ${type}: ${Math.min(i + 8, selected.length)}/${selected.length}`);
+  }
+}
+
+async function enrichTvSeasons(items, limit = 150) {
+  const selected = items.slice(0, limit);
+  for (let i = 0; i < selected.length; i += 5) {
+    const batch = selected.slice(i, i + 5);
+    await Promise.all(batch.map(async (x) => {
+      try {
+        const d = await tmdb(`/tv/${x.id}`, { language: "ar-SA" });
+        const seasons = (d.seasons || []).filter((s) => s.season_number > 0);
+        for (const s of seasons) {
+          const season = await tmdb(`/tv/${x.id}/season/${s.season_number}`, { language: "ar-SA" });
+          await fs.writeFile(`data/seasons/tv-${x.id}-${s.season_number}.json`, JSON.stringify(season, null, 2));
+        }
+      } catch (e) {
+        console.log(`Season detail skipped ${x.id}: ${e.message}`);
+      }
+    }));
+    console.log(`Enriched TV seasons: ${Math.min(i + 5, selected.length)}/${selected.length}`);
   }
 }
 
@@ -152,6 +173,7 @@ async function enrichAnime(items, limit = 100) {
 
 await enrichTmdb("movie", catalog.movies);
 await enrichTmdb("tv", catalog.tv);
+await enrichTvSeasons(catalog.tv);
 await enrichAnime(catalog.anime);
 await fs.writeFile("data/catalog.json", JSON.stringify(catalog));
 console.log(`Catalog ready: ${catalog.source_counts.total} unique records (${catalog.movies.length} movies, ${catalog.tv.length} TV, ${catalog.anime.length} anime).`);
