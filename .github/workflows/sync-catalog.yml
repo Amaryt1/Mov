@@ -1,6 +1,10 @@
 name: Sync catalog
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - scripts/sync-tmdb.mjs
+      - .github/workflows/sync-catalog.yml
   schedule:
     - cron: "17 3 * * *"
 permissions:
