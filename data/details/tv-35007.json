@@ -1,0 +1,927 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [
+    {
+      "id": 2270400,
+      "credit_id": "64960c96955c6500e65e7dfc",
+      "name": "Thijs Chanowski",
+      "original_name": "Thijs Chanowski",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 3002179,
+      "credit_id": "64960c38bbd0b001252a1fb6",
+      "name": "Leen Valkenier",
+      "original_name": "Leen Valkenier",
+      "gender": 2,
+      "profile_path": "/3VyrNLMjLtBAZ1X6oIwPHNi86UU.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1968-09-29",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "أطفال"
+    }
+  ],
+  "homepage": "",
+  "id": 35007,
+  "in_production": false,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "1991-03-17",
+  "last_episode_to_air": {
+    "id": 6663900,
+    "name": "الحلقة 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "1991-03-17",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 24,
+    "show_id": 35007,
+    "still_path": null
+  },
+  "name": "De Fabeltjeskrant",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 274,
+      "logo_path": "/jJnRnPYp49BrUC44hrtwqGNkaQw.png",
+      "name": "RTL 4",
+      "origin_country": "NL"
+    },
+    {
+      "id": 1433,
+      "logo_path": "/eDObRs53SyWCHlnFoKTTnwZGPpB.png",
+      "name": "NPO 1",
+      "origin_country": "NL"
+    },
+    {
+      "id": 2737,
+      "logo_path": "/982W7v4h7zS9yO4VZIjHw1ORCl.png",
+      "name": "NOS",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 2736,
+  "number_of_seasons": 25,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "De Fabeltjeskrant",
+  "overview": "",
+  "popularity": 186.0537,
+  "poster_path": "/h2HFhwgU7xcIEpgDuuPHfh5NOVZ.jpg",
+  "production_companies": [
+    {
+      "id": 54900,
+      "logo_path": "/yCYeqZosRZFwBNJK4clARa3E4la.png",
+      "name": "Nederlandse Omroepstichting (NOS)",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1968-09-29",
+      "episode_count": 245,
+      "id": 346284,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-06-01",
+      "episode_count": 214,
+      "id": 346285,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-01-01",
+      "episode_count": 365,
+      "id": 346286,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-01-01",
+      "episode_count": 365,
+      "id": 346287,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-01-01",
+      "episode_count": 175,
+      "id": 346288,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-06-01",
+      "episode_count": 92,
+      "id": 346289,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-09-30",
+      "episode_count": 93,
+      "id": 346290,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-01",
+      "episode_count": 365,
+      "id": 346291,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-01",
+      "episode_count": 365,
+      "id": 346292,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-01",
+      "episode_count": 366,
+      "id": 346293,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-01",
+      "episode_count": 90,
+      "id": 346294,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346295,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346296,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346297,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346298,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346299,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346300,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346301,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346302,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346303,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346304,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346305,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346306,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-03-17",
+      "episode_count": 1,
+      "id": 346307,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 346308,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1699733,
+        "known_for_department": "Acting",
+        "name": "Frans van Dusschoten",
+        "original_name": "Frans van Dusschoten",
+        "popularity": 0.4635,
+        "profile_path": "/gSjopk7McAP6XwXIdg4bwAktS08.jpg",
+        "character": "",
+        "credit_id": "69122dd33a7b019fa89ac8b8",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4151104,
+        "known_for_department": "Acting",
+        "name": "Ger Smit",
+        "original_name": "Ger Smit",
+        "popularity": 0.6351,
+        "profile_path": null,
+        "character": "",
+        "credit_id": "69122de455b34f734fa0cd57",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 211258,
+        "known_for_department": "Acting",
+        "name": "Elsje Scherjon",
+        "original_name": "Elsje Scherjon",
+        "popularity": 0.6632,
+        "profile_path": "/A2MUaEZBpu4EGVwGHq6dH1sGjhe.jpg",
+        "character": "",
+        "credit_id": "69122dfd55b34f734fa0cd5b",
+        "order": 2
+      }
+    ],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/35007-de-fabeltjeskrant/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 11
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/bvbOrvK0hQveMB6SmQoAwIuRToh.jpg",
+        "id": 15,
+        "name": "Mister Rogers' Neighborhood",
+        "original_name": "Mister Rogers' Neighborhood",
+        "overview": "Mister Rogers' Neighborhood is an American children's television series that was created and hosted by namesake Fred Rogers. The series originated in 1963 as Misterogers on CBC Television, and was later debuted in 1966 as Misterogers' Neighborhood on the regional Eastern Educational Network, followed by its US network debut on February 19, 1968, and it aired on NET and its successor, PBS, until August 31, 2001. The series is aimed primarily at preschool ages 2 to 5, but has been stated by PBS as \"appropriate for all ages\". Mister Rogers' Neighborhood was produced by Pittsburgh, Pennsylvania, USA public broadcaster WQED and Rogers' non-profit production company Family Communications, Inc.; previously known as Small World Enterprises prior to 1971, the company was renamed The Fred Rogers Company after Rogers' death.",
+        "poster_path": "/qhbeRYVg120cBmc9XvGxvk6EmJF.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 22.311,
+        "first_air_date": "1968-02-19",
+        "softcore": false,
+        "vote_average": 6.123,
+        "vote_count": 126,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pRNtYKDkUFBkxlV2GCLzIvWpfFl.jpg",
+        "id": 973,
+        "name": "The Book of Pooh",
+        "original_name": "The Book of Pooh",
+        "overview": "The Book of Pooh is an American television series that aired on the Disney Channel. It is the third television series to feature the characters from the Disney franchise based on A. A. Milne's works; the other two were the live-action Welcome to Pooh Corner and the animated The New Adventures of Winnie the Pooh which ran from 1988-1991. It premiered on February 9, 2001, and completed its run on July 8, 2003. The show is produced by Shadow Projects, and Playhouse Disney. This is the first Pooh show where Jim Cummings voices Tigger filling in for the late Paul Winchell.\n\nIt was shown in U.K on a Channel 5 Block known as 'Milkshake!' as well as Playhouse Disney. It's run on Milkshake! ended around 2006 to 2007.",
+        "poster_path": "/vnXwJlVXCqyRE0qQn4Af102k183.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          10751
+        ],
+        "popularity": 13.9269,
+        "first_air_date": "2001-01-22",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 24,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4XKhVE10MOao7dieT4QP34vKk9K.jpg",
+        "id": 8379,
+        "name": "Clifford the Big Red Dog",
+        "original_name": "Clifford the Big Red Dog",
+        "overview": "The adventures of a larger-than-life red dog on Bridwell Island.",
+        "poster_path": "/tZLS8aT8Iqnbw8oMKIi1WHidCA1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 22.6442,
+        "first_air_date": "2000-09-04",
+        "softcore": false,
+        "vote_average": 6.67,
+        "vote_count": 91,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2McrDIPnOQvg1ZZlQ3vBMD0xIma.jpg",
+        "id": 2824,
+        "name": "The Adventures of Pete & Pete",
+        "original_name": "The Adventures of Pete & Pete",
+        "overview": "Pete and Pete are two redheaded brothers living in the somewhat surreal town of Wellsville. Pete, the older of the two, narrates the stories about their adventures in everyday life.",
+        "poster_path": "/hfDDYKx5v7esCSidKxrDLDGTu3m.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10762
+        ],
+        "popularity": 9.1495,
+        "first_air_date": "1993-11-28",
+        "softcore": false,
+        "vote_average": 7.696,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ry3j5NEF72tMezdEomGrVXb6pFB.jpg",
+        "id": 77606,
+        "name": "عودة الطفل الزعيم",
+        "original_name": "The Boss Baby: Back in Business",
+        "overview": "في مسلسل الرسوم المتحركة المقتبس عن فيلم حقق نجاحًا ساحقًا، يستدعي \"الطفل الزعيم\" شقيقه الأكبر \"تيم\" إلى الشركة ليعلمه فن إدارة العمل.",
+        "poster_path": "/ayzs9NLZCDWoUYxW40ShnufzjhC.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10762,
+          10765
+        ],
+        "popularity": 14.4126,
+        "first_air_date": "2018-04-06",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 1775,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9oORP9DqqkjaLOqsWygXm0eEoqg.jpg",
+        "id": 6616,
+        "name": "Bonkers",
+        "original_name": "Bonkers",
+        "overview": "Bonkers is an animated American television series that aired from September 4, 1993 to August 24, 1995 in first-run syndication. The syndicated run was available both separately, and as part of The Disney Afternoon. The show was last seen on Toon Disney, but was taken off the schedule in late 2004.",
+        "poster_path": "/eZW4rWFY356fBAGNG9SrsyU6WMH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 9.7501,
+        "first_air_date": "1993-09-04",
+        "softcore": false,
+        "vote_average": 6.733,
+        "vote_count": 45,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nAboNRbDqCHapI0Gn7eHMmtWH5h.jpg",
+        "id": 124920,
+        "name": "Rugrats",
+        "original_name": "Rugrats",
+        "overview": "A reinvention of the beloved 90s cartoon, Rugrats follows a group of adventurous babies as they discover the big world around them. Led by Tommy Pickles, this toddler crew explores the world from their pint-sized and wildly imaginative perspective.",
+        "poster_path": "/bk5bqkQVYC32lozZO6Z0ZLw32jv.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 20.2107,
+        "first_air_date": "2021-05-27",
+        "softcore": false,
+        "vote_average": 6.9,
+        "vote_count": 135,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cvzpcE68wfD8FenvQlXw8eKPGRX.jpg",
+        "id": 2429,
+        "name": "آآآه!!! وحوش حقيقية",
+        "original_name": "Aaahh!!! Real Monsters",
+        "overview": "ثلاثة وحوش صغيرة - إيكيس، أوبلينا، وكروم - يلتحقون بمعهد للوحوش تحت مكب نفايات المدينة ويتعلمون كيفية إخافة البشر",
+        "poster_path": "/fnh1Mi108eNKayutKLSqesFgaRv.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10765,
+          10762
+        ],
+        "popularity": 25.896,
+        "first_air_date": "1994-10-29",
+        "softcore": false,
+        "vote_average": 7.791,
+        "vote_count": 434,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nnH6rWF1osVe245jy9hKYAiz96o.jpg",
+        "id": 34921,
+        "name": "The Wiggles",
+        "original_name": "The Wiggles",
+        "overview": "A show geared for babies up to older toddlers. This show is full of music, teaching kids songs and easy dances.",
+        "poster_path": "/e4O9IXM3ZmuDsrEICslrwqCl7MT.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          10751
+        ],
+        "popularity": 19.4397,
+        "first_air_date": "1998-07-31",
+        "softcore": false,
+        "vote_average": 6.375,
+        "vote_count": 24,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/80KgNNF0bpoDvU5iNXT07Lgb2wL.jpg",
+        "id": 6673,
+        "name": "مغامرات فلاب جاك",
+        "original_name": "The Marvelous Misadventures of Flapjack",
+        "overview": "فتًى يافع تربّى في جوف حوت ناطق، يبحر صوب \"جزيرة السكاكر\" الساحرة، يصحبه القبطان كنَكلز، قرصانٌ عجوز قاسي الملامح.",
+        "poster_path": "/zBKpx0FiW1y7n4fY5EE891Csge3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10762
+        ],
+        "popularity": 19.1685,
+        "first_air_date": "2008-06-05",
+        "softcore": false,
+        "vote_average": 8.052,
+        "vote_count": 385,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4vR2Ctk0dBrEKIxwBaV3BCkYCRc.jpg",
+        "id": 177,
+        "name": "I Am Weasel",
+        "original_name": "I Am Weasel",
+        "overview": "The adventures of the noble, generous, intelligent and good-at-everything I.M. Weasel, who must compete once again with his arch-enemy, the bumbling, brainless and utterly talentless I.R. Baboon.",
+        "poster_path": "/ibSVhfayNItAAoGkI8bHYOHPQdH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 14.4238,
+        "first_air_date": "1997-07-22",
+        "softcore": false,
+        "vote_average": 7.143,
+        "vote_count": 213,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sFJQKAJ7WdQaGLssnOwFhlRMaSZ.jpg",
+        "id": 31499,
+        "name": "Fish Hooks",
+        "original_name": "Fish Hooks",
+        "overview": "This inventive animated comedy series, set inside a giant fish tank in Bud's Pet Shop, presents high school life as seen through the eyes of three BFFs (best fish friends), Bea, Milo and Oscar. Together they experience the typical life challenges and triumphs, including friendship, dating and sports, along with more atypical situations such as giant lobster attacks and, with the use of special land suits, school field trips to the hamster cages. The series was created by children's book illustrator Noah Z. Jones and features a notable voice cast. It's produced using an innovative mixture of digital animation and photo collage",
+        "poster_path": "/sejbZwyIgotzTRH9BdYqMKgtgIp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 22.2205,
+        "first_air_date": "2010-09-03",
+        "softcore": false,
+        "vote_average": 6.468,
+        "vote_count": 95,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8D0B336mD6QnXnxcA8zSQVpaGg3.jpg",
+        "id": 197429,
+        "name": "عودة الطفل الزعيم إلى المهد",
+        "original_name": "The Boss Baby: Back in the Crib",
+        "overview": "في إطار جريمة من جرائم الشركات، يعود تيد تمبلتون البالغ إلى الطفل الزعيم ليعيش متخفيا مع شقيقه تيم، متنكرا كأحد أطفاله.",
+        "poster_path": "/cLEteg0Vkc7wJSEBswddhOyZ58e.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762,
+          10765
+        ],
+        "popularity": 11.3398,
+        "first_air_date": "2022-05-19",
+        "softcore": false,
+        "vote_average": 7.398,
+        "vote_count": 162,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kNTaLz6t7JTaRyWZXpriBg6asGn.jpg",
+        "id": 17194,
+        "name": "نادين",
+        "original_name": "Madeline",
+        "overview": "تخوض فتاة صغيرة سلسلة من المغامرات المؤسفة، مما يثير قلق أصدقائها ومعلميها.",
+        "poster_path": "/kh1xdNqCYj4plWOyYjSIrPzzUvI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          35
+        ],
+        "popularity": 10.3452,
+        "first_air_date": "1988-11-07",
+        "softcore": false,
+        "vote_average": 5.819,
+        "vote_count": 36,
+        "origin_country": [
+          "CA",
+          "FR",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1X7jac5eNqfjyka4zh6kaiJrsaX.jpg",
+        "id": 618,
+        "name": "Brandy & Mr. Whiskers",
+        "original_name": "Brandy & Mr. Whiskers",
+        "overview": "Brandy & Mr. Whiskers is an American animated television series about a pampered yet spunky dog and a hyperactive rabbit who get stuck in the Amazon Rainforest together. The show originally aired from August 2004 to August 2006. It was televised in the United States by Disney Channel.",
+        "poster_path": "/58Ao40FU4uA35WUTyMcd6XdN1ns.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 12.3961,
+        "first_air_date": "2004-08-21",
+        "softcore": false,
+        "vote_average": 7.51,
+        "vote_count": 154,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pWZjTb2ixwVEzvnsvv3KYz5pvIs.jpg",
+        "id": 7248,
+        "name": "باص المدرسة العجيب",
+        "original_name": "The Magic School Bus",
+        "overview": "معلمة غريبة الأطوار تأخذ طلابها في رحلات ميدانية تعليمية رائعة بمساعدة حافلة مدرسية سحرية.",
+        "poster_path": "/3A70wxUpplD4V3IcL8WmNFBgAbV.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10751,
+          10759,
+          10762
+        ],
+        "popularity": 15.9526,
+        "first_air_date": "1994-09-10",
+        "softcore": false,
+        "vote_average": 7.7,
+        "vote_count": 134,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
+        "id": 232125,
+        "name": "أنا غروت",
+        "original_name": "I Am Groot",
+        "overview": "لا أحد يستطيع حماية المجرة من هذا الطفل المشاغب! استعدوا، فـ بيبي غروت يتصدر المشهد في مجموعته الخاصة من الحلقات القصيرة، حيث يستعرض أيام نشأته الأولى ومغامراته المليئة بالمشكلات بين النجوم.",
+        "poster_path": "/3QfQYECgu6DX5UUWCBvv1Fl0BAJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10765,
+          10762
+        ],
+        "popularity": 19.5276,
+        "first_air_date": "2022-08-10",
+        "softcore": false,
+        "vote_average": 7.033,
+        "vote_count": 523,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1pnaMzcTXU6LmBd9rf4ZvNGBnce.jpg",
+        "id": 61852,
+        "name": "هنري الخطير",
+        "original_name": "Henry Danger",
+        "overview": "تُرغم وظيفة جديدة بدوام جزئي \"هنري هارت\" على الموازنة بين حياة المراهق العادية وحياة البطل \"كيد دينجر\"، المساعد السرّي للبطل الخارق.",
+        "poster_path": "/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          10762,
+          10765
+        ],
+        "popularity": 37.7855,
+        "first_air_date": "2014-07-26",
+        "softcore": false,
+        "vote_average": 8.282,
+        "vote_count": 1171,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iRFXa8YSfUfM2d8CM2S4IuQQrcg.jpg",
+        "id": 12500,
+        "name": "Rainbow",
+        "original_name": "Rainbow",
+        "overview": "Children's puppet programme featuring music and stories. Join George, Bungle, Zippy, and all their friends at the Rainbow House, always an exciting place to be.",
+        "poster_path": "/cAORJWMV0ufuYrYSFrznDTh22AU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10762
+        ],
+        "popularity": 38.0388,
+        "first_air_date": "1972-10-16",
+        "softcore": false,
+        "vote_average": 6.75,
+        "vote_count": 20,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fLI3GFGDjYXIXO5ehdQkeE0zeS0.jpg",
+        "id": 1878,
+        "name": "The Backyardigans",
+        "original_name": "The Backyardigans",
+        "overview": "Meet five lively animal friends who love to sing, dance and use their imaginations to embark on outrageous adventures to magical places.",
+        "poster_path": "/dIB32UlWZ81M2HDtQVp72LGq8v8.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16
+        ],
+        "popularity": 11.1439,
+        "first_air_date": "2004-10-11",
+        "softcore": false,
+        "vote_average": 8.073,
+        "vote_count": 124,
+        "origin_country": [
+          "CA"
+        ]
+      }
+    ],
+    "total_pages": 26,
+    "total_results": 514
+  }
+}

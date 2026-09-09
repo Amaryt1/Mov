@@ -1,0 +1,2435 @@
+{
+  "adult": false,
+  "backdrop_path": "/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+  "created_by": [
+    {
+      "id": 5741,
+      "credit_id": "5256bdc619c2956ff6001be4",
+      "name": "مات غرينينغ",
+      "original_name": "Matt Groening",
+      "gender": 2,
+      "profile_path": "/2HmAw3AN93DGESPi3ibLZgBa8cT.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1989-12-17",
+  "genres": [
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    }
+  ],
+  "homepage": "https://www.fox.com/detail/series/SER000852IRHK/the-simpsons",
+  "id": 456,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-02-15",
+  "last_episode_to_air": {
+    "id": 6883535,
+    "name": "الحلقة 15",
+    "overview": "",
+    "vote_average": 8,
+    "vote_count": 5,
+    "air_date": "2026-02-15",
+    "episode_number": 15,
+    "episode_type": "finale",
+    "production_code": "37ABF05",
+    "runtime": 23,
+    "season_number": 37,
+    "show_id": 456,
+    "still_path": "/emCTXkkwqlJRC6wrj1qQVE8umsi.jpg"
+  },
+  "name": "آل سيمبسون",
+  "next_episode_to_air": {
+    "id": 7530182,
+    "name": "الحلقة 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-27",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "37ABF10",
+    "runtime": null,
+    "season_number": 38,
+    "show_id": 456,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 802,
+  "number_of_seasons": 38,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Simpsons",
+  "overview": "مغامرات ساخرة لعائلة متوسطة الدخل في مدينة سبرينقفيلدز الأمريكية  (للكبار فقط).",
+  "popularity": 256.8752,
+  "poster_path": "/voLbSUAVu1RfZWx0qeTFqVAixIO.jpg",
+  "production_companies": [
+    {
+      "id": 18,
+      "logo_path": "/uqhagSwM7NAkQWVCQhKTyoqF8XH.png",
+      "name": "Gracie Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 154887,
+      "logo_path": "/wLFPu95hIMmyLR5hdtvYaMuK0tG.png",
+      "name": "20th Television Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1987-04-15",
+      "episode_count": 82,
+      "id": 3581,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/oICoFoPJuEk5VJbEP2HYLEmEQi3.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-12-17",
+      "episode_count": 13,
+      "id": 3582,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/t544zSFUNyvmyeP4sHotlcEX3zH.jpg",
+      "season_number": 1,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1990-10-11",
+      "episode_count": 22,
+      "id": 3583,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/bRyDlUQQafSoIT052jpjLBMe8TH.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1991-09-18",
+      "episode_count": 24,
+      "id": 3584,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/9ghmIhWJJuTx3UHyfVVBXQoUGvI.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1992-09-24",
+      "episode_count": 22,
+      "id": 3585,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/voqu5a4drV1CXMjjZ0Mkw35n26l.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1993-09-30",
+      "episode_count": 22,
+      "id": 3586,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/9O7tIcS2KZk1ukMq3aOvoj8KIJZ.jpg",
+      "season_number": 5,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1994-09-04",
+      "episode_count": 25,
+      "id": 3587,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/qD20BnTxIdF1rcnX4BARmFshzKA.jpg",
+      "season_number": 6,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1995-09-17",
+      "episode_count": 25,
+      "id": 3588,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/blCeZS6BmN3wwmF40fuCZSeFwbB.jpg",
+      "season_number": 7,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1996-10-27",
+      "episode_count": 25,
+      "id": 3589,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/xLebCxRHSwXBW39a4OLmMSGChLs.jpg",
+      "season_number": 8,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1997-09-21",
+      "episode_count": 25,
+      "id": 3590,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/6PTYyLD8bSiNZf1PFdCQ9JyiIFW.jpg",
+      "season_number": 9,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "1998-08-23",
+      "episode_count": 23,
+      "id": 3591,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/A77xKuxA13aXA1mQd6YLAaTIErK.jpg",
+      "season_number": 10,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1999-09-26",
+      "episode_count": 22,
+      "id": 3592,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/7lgnlOENoCdub15UijLKTHawyhm.jpg",
+      "season_number": 11,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2000-11-01",
+      "episode_count": 21,
+      "id": 3593,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/jfxiyjRLoQq9LavlFNRBgjuweg5.jpg",
+      "season_number": 12,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2001-11-06",
+      "episode_count": 22,
+      "id": 3594,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/xflc3aV1SbP2bGeZNuu4AG6cIqH.jpg",
+      "season_number": 13,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2002-11-03",
+      "episode_count": 22,
+      "id": 3595,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/9IowK57TpeO09D4B46jd4J3wjPO.jpg",
+      "season_number": 14,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2003-11-02",
+      "episode_count": 22,
+      "id": 3596,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/bmMwmEfwmziKzWP2jiU0GMw8yKd.jpg",
+      "season_number": 15,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2004-11-07",
+      "episode_count": 21,
+      "id": 3597,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/ifjiG1gHGRyYmNDWRb9Ul9VCfEn.jpg",
+      "season_number": 16,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2005-09-11",
+      "episode_count": 22,
+      "id": 3598,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/evIWfK3hKFIExETjv6L2YS9J8fw.jpg",
+      "season_number": 17,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2006-09-10",
+      "episode_count": 22,
+      "id": 3599,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/kwb8AZAHyhn96dzn17mtTV3l8dl.jpg",
+      "season_number": 18,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2007-09-23",
+      "episode_count": 20,
+      "id": 3600,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/nLKZJ1ozVvYFtaOynzkShE8wN4k.jpg",
+      "season_number": 19,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2008-09-28",
+      "episode_count": 21,
+      "id": 3601,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/2CUdLX4K8fMlcdVPHUbciTYt4ri.jpg",
+      "season_number": 20,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2009-09-27",
+      "episode_count": 23,
+      "id": 3602,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/fEykf9XN4Cn5tJ17pOD2PObdjoc.jpg",
+      "season_number": 21,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2010-09-26",
+      "episode_count": 22,
+      "id": 3603,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/xUZeYO9NPkmXCcuRrr8PgXzk2Qd.jpg",
+      "season_number": 22,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2011-09-25",
+      "episode_count": 22,
+      "id": 3604,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/wlQnKb3pHBxtMivCjcvM8TDpBbv.jpg",
+      "season_number": 23,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2012-09-30",
+      "episode_count": 22,
+      "id": 3605,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/qGPFl3X6ukZ6fBQRiLxueLWQh9y.jpg",
+      "season_number": 24,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2013-09-29",
+      "episode_count": 22,
+      "id": 3606,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/iwlh2yoia66MCaZEqybsLSt3OHa.jpg",
+      "season_number": 25,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 22,
+      "id": 62103,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": "/9bGpb3vWygBogXpQBnTodFWaQte.jpg",
+      "season_number": 26,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2015-09-27",
+      "episode_count": 22,
+      "id": 68067,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": "/aw26dkO0PnxD0EfYWXCMUQLFNbI.jpg",
+      "season_number": 27,
+      "vote_average": 6.6
+    },
+    {
+      "air_date": "2016-09-25",
+      "episode_count": 22,
+      "id": 80361,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": "/j4GZ2oH5PEWEyZkwuZ41OYLb30W.jpg",
+      "season_number": 28,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2017-10-01",
+      "episode_count": 21,
+      "id": 91255,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": "/93JeevhHA93SpHZ5hxqJyOtB5Wf.jpg",
+      "season_number": 29,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2018-09-30",
+      "episode_count": 23,
+      "id": 110088,
+      "name": "الموسم 30",
+      "overview": "",
+      "poster_path": "/l18xQsO27KFJwsj35JaAsG95dN7.jpg",
+      "season_number": 30,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2019-09-29",
+      "episode_count": 22,
+      "id": 131143,
+      "name": "الموسم 31",
+      "overview": "",
+      "poster_path": "/1y2zzQhnAuFpRNovNMHWlubOaxw.jpg",
+      "season_number": 31,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2020-09-27",
+      "episode_count": 22,
+      "id": 156684,
+      "name": "الموسم 32",
+      "overview": "",
+      "poster_path": "/ifvEta1mmPGLu3E6lFnPSJAyBhh.jpg",
+      "season_number": 32,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "2021-09-26",
+      "episode_count": 22,
+      "id": 184349,
+      "name": "الموسم 33",
+      "overview": "",
+      "poster_path": "/sjg9DQMgZzUA0Uqfw7eL89gFXOr.jpg",
+      "season_number": 33,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2022-09-25",
+      "episode_count": 22,
+      "id": 296972,
+      "name": "الموسم 34",
+      "overview": "",
+      "poster_path": "/2C6Tuxep3eLeFB1vny8FIVXFIDz.jpg",
+      "season_number": 34,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2023-10-01",
+      "episode_count": 18,
+      "id": 336243,
+      "name": "الموسم 35",
+      "overview": "",
+      "poster_path": "/s7EtmSmdN6ENGwJFfzu9Bn9cgSW.jpg",
+      "season_number": 35,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2024-09-29",
+      "episode_count": 18,
+      "id": 384511,
+      "name": "الموسم 36",
+      "overview": "",
+      "poster_path": "/dl0S3pJSQUyBLPAOefMMujbtp4O.jpg",
+      "season_number": 36,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2025-09-28",
+      "episode_count": 15,
+      "id": 467353,
+      "name": "الموسم 37",
+      "overview": "",
+      "poster_path": "/nRdwZjv3TJZm6Vht76BWiUaQpLQ.jpg",
+      "season_number": 37,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2026-09-27",
+      "episode_count": 1,
+      "id": 529943,
+      "name": "الموسم 38",
+      "overview": "",
+      "poster_path": "/tnPBA5xCCR3EWgap15STjiD4MvO.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.022,
+  "vote_count": 10990,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 198,
+        "known_for_department": "Acting",
+        "name": "دان كاستلانيتا",
+        "original_name": "Dan Castellaneta",
+        "popularity": 1.9698,
+        "profile_path": "/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg",
+        "character": "Homer Simpson / Abe Simpson / Barney Gumble / Krusty the Clown / Groundskeeper Willie / Mayor Quimby (voice)",
+        "credit_id": "5256bdc319c2956ff600157c",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 199,
+        "known_for_department": "Acting",
+        "name": "جولي كافنر",
+        "original_name": "Julie Kavner",
+        "popularity": 2.5194,
+        "profile_path": "/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg",
+        "character": "Marge Simpson / Patty Bouvier / Selma Bouvier / Jacqueline Bouvier (voice)",
+        "credit_id": "5256bdc319c2956ff60015a0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 200,
+        "known_for_department": "Acting",
+        "name": "نانسي كارترايت",
+        "original_name": "Nancy Cartwright",
+        "popularity": 1.6438,
+        "profile_path": "/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg",
+        "character": "Bart Simpson / Maggie Simpson / Nelson Muntz / Ralph Wiggum (voice)",
+        "credit_id": "5256bdc319c2956ff6001554",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5586,
+        "known_for_department": "Acting",
+        "name": "ياردلي سميث",
+        "original_name": "Yeardley Smith",
+        "popularity": 3.4678,
+        "profile_path": "/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg",
+        "character": "Lisa Simpson / Maggie Simpson (voice)",
+        "credit_id": "5256bdc319c2956ff60015ba",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5587,
+        "known_for_department": "Acting",
+        "name": "هانك آزاريا",
+        "original_name": "Hank Azaria",
+        "popularity": 3.0992,
+        "profile_path": "/yFDw4b0jucuFWNnGcBPfpYUtn16.jpg",
+        "character": "Moe Szyslak / Chief Wiggum / Apu / Comic Book Guy / Carl Carlson / Superintendent Chalmers (voice)",
+        "credit_id": "5256bdc319c2956ff600167a",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6008,
+        "known_for_department": "Acting",
+        "name": "هاري شيرر",
+        "original_name": "Harry Shearer",
+        "popularity": 1.5994,
+        "profile_path": "/wZpovXxQQqP7kxXPy2yj6QMbM55.jpg",
+        "character": "Ned Flanders / Mr. Burns / Smithers / Principal Skinner / Lenny Leonard (voice)",
+        "credit_id": "5cf20dbe9251411cdbba646e",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1216672,
+        "known_for_department": "Production",
+        "name": "Bonita Pietila",
+        "original_name": "Bonita Pietila",
+        "popularity": 0.4317,
+        "profile_path": "/wfVp4MbOeVj2kjwA96a8Co4AF0g.jpg",
+        "credit_id": "6a907ce2a47aeeca9ba23810",
+        "department": "Production",
+        "job": "Original Casting"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/erbr2KDiQOUH95liJOZBRSa0DgS.jpg",
+        "id": 84503,
+        "name": "Close Enough",
+        "original_name": "Close Enough",
+        "overview": "يحاول زوجان تمالك نفسيهما أثناء الانتقال من اللهو في العشرينيات إلى تربية الأطفال في الثلاثينيات في هذا المسلسل من الرسوم المتحركة للبالغين.",
+        "poster_path": "/8aNYMcMyhv1m0MKibgCVmJrAeLs.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "popularity": 16.2134,
+        "first_air_date": "2020-07-09",
+        "softcore": false,
+        "vote_average": 7.912,
+        "vote_count": 393,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jtt37CowTFdy2Avg1HzzZYp1AA7.jpg",
+        "id": 82653,
+        "name": "Bless the Harts",
+        "original_name": "Bless the Harts",
+        "overview": "The lives of a group of Southerners who are always broke as a joke and struggling for the American dream of status and wealth. What they don’t realize is that they’re already rich — in friends, family and laughter.",
+        "poster_path": "/havvMQWenLDVRMF46ncF1vVoLLU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "popularity": 9.0482,
+        "first_air_date": "2019-09-29",
+        "softcore": false,
+        "vote_average": 6.471,
+        "vote_count": 51,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kP7pCxfml6erWC9aB72ALtNawJq.jpg",
+        "id": 126824,
+        "name": "The Patrick Star Show",
+        "original_name": "The Patrick Star Show",
+        "overview": "تابعوا باتريك ستار الشاب وهو يعيش في منزل عائلته، حيث يقدم برنامجه المنوع الخاص لأهل الحي من غرفة نومه التي كانت في الأصل غرفة تلفزيون.",
+        "poster_path": "/44zbV1t35gxgcSN7sTlkUY85GC9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          16
+        ],
+        "popularity": 32.6519,
+        "first_air_date": "2021-07-09",
+        "softcore": false,
+        "vote_average": 5.923,
+        "vote_count": 52,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vdcuZ7YHLemlTZ5NPfbctumWIg2.jpg",
+        "id": 9980,
+        "name": "وودي نقار الخشب",
+        "original_name": "The New Woody Woodpecker Show",
+        "overview": "وودي نقار الخشب أو وودي وود بيكر هو شخصية رسوم متحركة ويتمثل في طائر نقار الخشب يتميز بذكاءه وبضحكته الرنانة، تم إنتاجه في عام 1940، وقام بابتكار الشخصية والتر لانتز وبين هارداواي وأليكس لوفي وتم توزيعها من قبل إستوديوهات يونيفيرسال.",
+        "poster_path": "/oizXc3SnlSWDqPMmfe4koUj4RRo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 23.8634,
+        "first_air_date": "1999-05-08",
+        "softcore": false,
+        "vote_average": 6.711,
+        "vote_count": 76,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aAHC2D9XaLcFtJ5cWPf1BYARuJn.jpg",
+        "id": 1835,
+        "name": "Kenan & Kel",
+        "original_name": "Kenan & Kel",
+        "overview": "Set in Chicago, the show follows the kid-friendly misadventures of two high-school friends who are always scheming and dreaming. Kenan, who works at a grocery store, constantly devises crazy plans to strike it rich, while orange-soda-loving buddy Kel is always dragged along for the ride despite his track record for messing things up.",
+        "poster_path": "/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          10762
+        ],
+        "popularity": 17.6455,
+        "first_air_date": "1996-08-17",
+        "softcore": false,
+        "vote_average": 8.064,
+        "vote_count": 407,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4CSdS9p0AhLhxCo1hGuQINiE2Sa.jpg",
+        "id": 2122,
+        "name": "King of the Hill",
+        "original_name": "King of the Hill",
+        "overview": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+        "poster_path": "/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "popularity": 82.6381,
+        "first_air_date": "1997-01-12",
+        "softcore": false,
+        "vote_average": 7.412,
+        "vote_count": 695,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lGzltA2baJo3depl1ynoVG7lhdS.jpg",
+        "id": 10118,
+        "name": "Father Knows Best",
+        "original_name": "Father Knows Best",
+        "overview": "Family man Jim Anderson copes with the everyday problems among his wife Margaret and their three children as they experience day-to-day changes.",
+        "poster_path": "/5uvDdhz7Fq2OceIbmmOVpk2cSwx.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 35.4649,
+        "first_air_date": "1954-10-03",
+        "softcore": false,
+        "vote_average": 6.643,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pb1LLQKETjejzCrlCvrXuI3bEty.jpg",
+        "id": 33428,
+        "name": "MAD",
+        "original_name": "MAD",
+        "overview": "Mad is an American animated sketch comedy series created by Kevin Shinick and produced by Warner Bros. Animation. Based upon the magazine of the same name, each episode is a collection of short animated parodies of television shows, movies, games, celebrities, and other media using various types of animation instead of the usual animation style that Warner Bros. Animation is known for. The series premiered on the evening of September 6, 2010 on Cartoon Network. It has been described as a \"kid-friendly version of Robot Chicken\".",
+        "poster_path": "/lpMdJzQUD0gXafoFo5L92DNg9QU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 10.8914,
+        "first_air_date": "2010-09-06",
+        "softcore": false,
+        "vote_average": 7.963,
+        "vote_count": 258,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2CmVYL5aOebxlE4cUl5xU4kcgdc.jpg",
+        "id": 15632,
+        "name": "The Cleveland Show",
+        "original_name": "The Cleveland Show",
+        "overview": "The bizarre adventures of Cleveland Brown and his family.",
+        "poster_path": "/Qp4gvTc5Cp15VBdt77oXKQ54xF.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 27.8051,
+        "first_air_date": "2009-09-27",
+        "softcore": false,
+        "vote_average": 5.895,
+        "vote_count": 475,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4qcNKcng7HYlKJJ0DFYIH52gWNF.jpg",
+        "id": 4606,
+        "name": "غارفيلد والأصدقاء",
+        "original_name": "Garfield and Friends",
+        "overview": "The animated stories of Garfield the cat, Odie the dog, their owner Jon and the trouble they get into. And also Orson the Pig and his adventures on a farm with his fellow farm animals.",
+        "poster_path": "/pE6l6I1ICKOu4pDUXxkl87TTLZx.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 35.2117,
+        "first_air_date": "1988-09-17",
+        "softcore": false,
+        "vote_average": 7.282,
+        "vote_count": 410,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rICbGVKzn3FECkeiTHCagNv421w.jpg",
+        "id": 32605,
+        "name": "عرض لوني تونز",
+        "original_name": "The Looney Tunes Show",
+        "overview": "يعود باغز باني، دافي داك، وبقية شخصيات \"لوني تونز\" بمغامرات جديدة لجيل جديد من المشاهدين. تدور أحداث المسلسل الكرتوني حول باغز ودافي، وهما رفيقان في السكن، ينتقلان من الغابة إلى الضواحي، ويتفاعلان مع جيرانهما، الذين هم من الشخصيات المحبوبة الأخرى في \"لوني تونز\"، مثل سيلفستر، تويتي، بوركي بيغ، وفوجورن ليجورن",
+        "poster_path": "/bZWdejWhkgJmXjdQ70DjiJS7v7O.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762
+        ],
+        "popularity": 29.7039,
+        "first_air_date": "2011-05-03",
+        "softcore": false,
+        "vote_average": 8.113,
+        "vote_count": 581,
+        "origin_country": [
+          "DK",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8TLIyltOIjgN1qliQpQ3SCU9DrJ.jpg",
+        "id": 67117,
+        "name": "American Housewife",
+        "original_name": "American Housewife",
+        "overview": "A family comedy narrated by Katie, a strong-willed mother, raising her flawed family in a wealthy town filled with perfect wives and their perfect offspring.",
+        "poster_path": "/uDXPOk3fx1kPM1tQdrTdE2f76p2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 21.8339,
+        "first_air_date": "2016-10-11",
+        "softcore": false,
+        "vote_average": 7.686,
+        "vote_count": 183,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xYAwoJAjOWXYx5lWHFlwKHuhnxp.jpg",
+        "id": 98198,
+        "name": "Central Park",
+        "original_name": "Central Park",
+        "overview": "في هذه الكوميديا الموسيقية، يعيش Owen Tillerman وأسرته حياةً غير تقليدية في سنترال بارك الصاخبة التي يديرها Owen. الآن، هم مُضطرون إلى صدّ محاولات وريثة فندق غنية تريد تحويل الحديقة إلى مبانٍ سكنية.",
+        "poster_path": "/ckmEgQdbSAw0jiJFJT1a1W1LEFy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 41.3521,
+        "first_air_date": "2020-05-29",
+        "softcore": false,
+        "vote_average": 6.333,
+        "vote_count": 84,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y6nEgbjMUpYLnVUwZDzX95wH5Vj.jpg",
+        "id": 4239,
+        "name": "Married... with Children",
+        "original_name": "Married... with Children",
+        "overview": "Al Bundy is an unsuccessful middle aged shoe salesman with a miserable life and an equally dysfunctional family. He hates his job, his wife is lazy, his son is dysfunctional (especially with women), and his daughter is dim-witted and promiscuous.",
+        "poster_path": "/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 83.2294,
+        "first_air_date": "1987-04-05",
+        "softcore": false,
+        "vote_average": 7.734,
+        "vote_count": 1262,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4i5ALQiqsTQ2S28B0uZSvk6cV1E.jpg",
+        "id": 3288,
+        "name": "The Weekenders",
+        "original_name": "The Weekenders",
+        "overview": "Four friends, Tino, Carver, Lor, and Tish, spend each weekend discovering and creating new levels of fun, while negotiating the obligatory obstacles of adolescence.",
+        "poster_path": "/aqpaC32hWrf9jdPkLiS3u73OcyZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 11.992,
+        "first_air_date": "2000-02-26",
+        "softcore": false,
+        "vote_average": 8.182,
+        "vote_count": 33,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hdA9Tz16tfwfW1k7x66APoLrkdk.jpg",
+        "id": 103786,
+        "name": "مغامرات كاب هيد",
+        "original_name": "The Cuphead Show!",
+        "overview": "تابعوا مغامرات كاب هيد المندفع وشقيقه ماغمان الحذر لكن القابل للإقناع في هذه السلسلة المتحركة المقتبسة من لعبة الفيديو الشهيرة",
+        "poster_path": "/rXmt23rSTXYVIRZ6ip2l6roPQ6C.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "popularity": 14.9616,
+        "first_air_date": "2022-02-18",
+        "softcore": false,
+        "vote_average": 7.939,
+        "vote_count": 391,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bZwU0IGdCXeaans9nrPwkHONZe5.jpg",
+        "id": 9921,
+        "name": "مزرعة المشاغبين",
+        "original_name": "Back at the Barnyard",
+        "overview": "What do farm animals really do when the humans aren't looking? Just ask Otis, a carefree \"party cow\" who inherited the job of keeping the barn... and it's residents... in order. But instead of responsibility, Otis is driven by an insatiable need for fun, fun, fun. Along with his barnyard friends Pip, Pig and Freddy, Otis will stop at nothing in his pursuit of a good time... which usually means a few close calls with humans and other threats to what really goes on behind closed barndoors.",
+        "poster_path": "/9O988PZT6hOyA9Pqb14YAEA1r6C.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 21.248,
+        "first_air_date": "2007-09-29",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 140,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4bzSEBjVb3QwPaJ39Rp2gmH9Bug.jpg",
+        "id": 3690,
+        "name": "Tyler Perry's House of Payne",
+        "original_name": "Tyler Perry's House of Payne",
+        "overview": "A multigenerational, working-class family experience life's struggles with faith, love and, most importantly, humor. Curtis, aka 'Pops', the uncle and head of the household, has house and home turned upside down when an unexpected event forces his nephew, CJ, and CJ’s kids to move in, putting three generations under one roof. This chaotic living situation takes its toll on cranky Pops, who is reluctant to have his routine disturbed. In addition to CJ’s family, Pops and Ella’s son, Calvin, a wise-cracking, broke college student, hangs out at home, making it impossible for any peace and quiet. It soon becomes evident just how wide the gap is, as the family tries to find a way to coexist through all of life’s hilarious ups and downs.",
+        "poster_path": "/2NdUdJnZnwI6skvm6OXWrK2D42U.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 26.7052,
+        "first_air_date": "2007-06-06",
+        "softcore": false,
+        "vote_average": 7.538,
+        "vote_count": 65,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kgEFD11dQdi8tCUgdNX1Ul02LlW.jpg",
+        "id": 107124,
+        "name": "Animaniacs",
+        "original_name": "Animaniacs",
+        "overview": "يعود ياكو وواكو ودوت في مغامرات جديدة مليئة بالضحك، وفي بعض الأحيان، يوجهون انتقادات لاذعة لشخصيات ذات سلطة تحتاج إلى إعادة تقييم لغرورها. وينضم إلى عائلة وارنر كل من ستاربوكس وسيندي في أحدث لقاءاتهم، بينما تقود أفكار بينكي وبرين للسيطرة على العالم إلى مغامرات جديدة كلياً",
+        "poster_path": "/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 24.5639,
+        "first_air_date": "2020-11-20",
+        "softcore": false,
+        "vote_average": 8.428,
+        "vote_count": 601,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ebTL1Lyvr0LVBrMlhgQp6lqijC6.jpg",
+        "id": 115,
+        "name": "A Different World",
+        "original_name": "A Different World",
+        "overview": "A Different World is a spin-off series from The Cosby Show and originally centered on Denise Huxtable and the life of students at Hillman College, a fictional mixed but historically black college in the state of Virginia. After Bonet's departure in the first season, the remainder of the series primarily focused more on Southern belle Whitley Gilbert and mathematics whiz Dwayne Wayne. The series frequently depicted members of the major historically black fraternities and sororities.",
+        "poster_path": "/v7fuifcJjcqQxAsOjPviupcmFIZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 25.1696,
+        "first_air_date": "1987-09-24",
+        "softcore": false,
+        "vote_average": 7.118,
+        "vote_count": 76,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 45,
+    "total_results": 899
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 304978,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "心桥",
+        "overview": "",
+        "popularity": 1.0828,
+        "poster_path": "/pe0LkpTUZwz7NhrReafiEmsha7C.jpg",
+        "first_air_date": "2025-03-19",
+        "softcore": false,
+        "name": "心桥",
+        "vote_average": 3,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vhDErhLUBnyLdDNtgaeOYAfIoM2.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765,
+          10762
+        ],
+        "id": 472,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Megas XLR",
+        "overview": "",
+        "popularity": 7.326,
+        "poster_path": "/cKFsyZObYnse8vTXPA4V0pVmLPh.jpg",
+        "first_air_date": "2004-05-01",
+        "softcore": false,
+        "name": "Megas XLR",
+        "vote_average": 8.124,
+        "vote_count": 113
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 479,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Nobody's Watching",
+        "overview": "",
+        "popularity": 0.9987,
+        "poster_path": null,
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Nobody's Watching",
+        "vote_average": 5,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/htCFjaC5w7NY3wnMTPuPMsoM5WH.jpg",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "id": 431,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "One on One",
+        "overview": "",
+        "popularity": 16.7393,
+        "poster_path": "/wrPeock4PW1VV2bw8k1TuGet8hX.jpg",
+        "first_air_date": "2001-09-03",
+        "softcore": false,
+        "name": "One on One",
+        "vote_average": 7.947,
+        "vote_count": 38
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zmV1exzJK83jhqhrS1VRNHhiRZ4.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 437,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Mr. Belvedere",
+        "overview": "",
+        "popularity": 17.69,
+        "poster_path": "/vcEBQK5HgkWShxIluKt00nZKfA3.jpg",
+        "first_air_date": "1985-03-15",
+        "softcore": false,
+        "name": "Mr. Belvedere",
+        "vote_average": 6.792,
+        "vote_count": 48
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oCxyOx1egdfgCwaohYPJdtJ71au.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 441,
+        "origin_country": [
+          "GB",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Father of the Pride",
+        "overview": "",
+        "popularity": 7.1233,
+        "poster_path": "/eJ8kqnWfgeYb1XyKmRXCBs599pa.jpg",
+        "first_air_date": "2004-08-31",
+        "softcore": false,
+        "name": "Father of the Pride",
+        "vote_average": 5,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/luppCk9XUcs0gUEf9Sv7MhiJv4H.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 453,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Mister Ed",
+        "overview": "",
+        "popularity": 16.2386,
+        "poster_path": "/ykGlIpjTiyd4wYk617X73TL5FTS.jpg",
+        "first_air_date": "1961-01-05",
+        "softcore": false,
+        "name": "Mister Ed",
+        "vote_average": 6.768,
+        "vote_count": 56
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nfamvkzPP3hXO8KU8oraYZHQC6E.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 58838,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Growing Up Fisher",
+        "overview": "",
+        "popularity": 4.6597,
+        "poster_path": "/at9EVvRIzeOPt6F4mTidOiquiT9.jpg",
+        "first_air_date": "2014-02-23",
+        "softcore": false,
+        "name": "Growing Up Fisher",
+        "vote_average": 6.357,
+        "vote_count": 28
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f58UXFInoc2GLHTZHoxbqRzH4H6.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 275138,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Zipwaz Humphries",
+        "overview": "",
+        "popularity": 2.4487,
+        "poster_path": "/ur3iQ03x2mRCzwX1JEqWtZoMFq7.jpg",
+        "first_air_date": "2015-06-01",
+        "softcore": false,
+        "name": "Zipwaz Humphries",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dvVvzd6XZDOIThJJmsxzg8h2Zd5.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
+        "id": 124572,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ヒーラー・ガール",
+        "overview": "",
+        "popularity": 3.777,
+        "poster_path": "/g72GaMR0HTLpLtUVoQYvxvcGApX.jpg",
+        "first_air_date": "2022-04-04",
+        "softcore": false,
+        "name": "ヒーラー・ガール",
+        "vote_average": 6.2,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yXy8LRJPHSJcyPUZ1AntSyojcyM.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 124576,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "180秒で君の耳を幸せにできるか？",
+        "overview": "",
+        "popularity": 2.5519,
+        "poster_path": "/t2PMWSyGD3GEYaTHqMAFWAx6b6p.jpg",
+        "first_air_date": "2021-10-14",
+        "softcore": false,
+        "name": "180秒で君の耳を幸せにできるか？",
+        "vote_average": 4.8,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w6518nngLn8awWDRnqZGLvIpcSS.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 275202,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "La oficina",
+        "overview": "",
+        "popularity": 4.714,
+        "poster_path": "/uUEPJHIGiNeV69RIco01j5Yqu1F.jpg",
+        "first_air_date": "2026-03-13",
+        "softcore": false,
+        "name": "La oficina",
+        "vote_average": 9.329,
+        "vote_count": 73
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e7wogBtgQFjjFqimt7CnK2BARZJ.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 91803,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "러브포텐 - 순정의 시대",
+        "overview": "",
+        "popularity": 1.0088,
+        "poster_path": "/ui09aL4oGFbVFcKjnjY1VhRkCOI.jpg",
+        "first_air_date": "2013-11-04",
+        "softcore": false,
+        "name": "러브포텐 - 순정의 시대",
+        "vote_average": 2,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rzUFo6rVe7tiqZPrW8N3dJdpmEd.jpg",
+        "genre_ids": [
+          16,
+          10759
+        ],
+        "id": 91848,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "number24",
+        "overview": "",
+        "popularity": 7.266,
+        "poster_path": "/s0Ph6walJ6E6DhYuUdLN8O6li8R.jpg",
+        "first_air_date": "2020-01-08",
+        "softcore": false,
+        "name": "number24",
+        "vote_average": 6.467,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/scGf0TgtgMn2SEjy7TJoYXcd0q9.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 417,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Class",
+        "overview": "",
+        "popularity": 6.382,
+        "poster_path": "/9OkGxfZ5H20rO6ph1kW2kxt59BD.jpg",
+        "first_air_date": "2006-09-18",
+        "softcore": false,
+        "name": "The Class",
+        "vote_average": 6.9,
+        "vote_count": 27
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uwDpjQDl8agkdvsTnD08mmIFUIk.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 420,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Whatever Happened to the Likely Lads?",
+        "overview": "",
+        "popularity": 4.4102,
+        "poster_path": "/n9F822PC6D3rpbN89ztZPBDTeWf.jpg",
+        "first_air_date": "1973-01-09",
+        "softcore": false,
+        "name": "Whatever Happened to the Likely Lads?",
+        "vote_average": 7.682,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5wMtCWnnLEjQYbFXMwiGNzEIdsT.jpg",
+        "genre_ids": [
+          35,
+          10768
+        ],
+        "id": 425,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "It Ain't Half Hot Mum",
+        "overview": "",
+        "popularity": 6.3771,
+        "poster_path": "/xASZd2y6irrDdl2a8SgzffzMo0l.jpg",
+        "first_air_date": "1974-01-03",
+        "softcore": false,
+        "name": "It Ain't Half Hot Mum",
+        "vote_average": 7.3,
+        "vote_count": 19
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Lkw5pP0qg6iJGUjFObnpqSgUKV.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 428,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Arnie",
+        "overview": "",
+        "popularity": 4.2979,
+        "poster_path": "/1zecxYJyYAgM03w6skRb1p7SOHo.jpg",
+        "first_air_date": "1970-09-19",
+        "softcore": false,
+        "name": "Arnie",
+        "vote_average": 5.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sCmhbNkt6YTaPsPEI1lG9jRUz6R.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 429,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "Corner Gas",
+        "overview": "",
+        "popularity": 14.3706,
+        "poster_path": "/304lFTgMC3F53qKpDCguf7s7ZU1.jpg",
+        "first_air_date": "2004-01-22",
+        "softcore": false,
+        "name": "Corner Gas",
+        "vote_average": 8.041,
+        "vote_count": 61
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t2EfhNgUSfAP8tLQ6Q8A2hCRQCs.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 380,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Little Britain",
+        "overview": "",
+        "popularity": 19.2472,
+        "poster_path": "/d8ss1109kLq2Z4K1eO9575CCKBe.jpg",
+        "first_air_date": "2003-09-16",
+        "softcore": false,
+        "name": "Little Britain",
+        "vote_average": 7.048,
+        "vote_count": 260
+      }
+    ],
+    "total_pages": 2165,
+    "total_results": 43283
+  },
+  "watch/providers": {
+    "results": {
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=AT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
+            "provider_id": 230,
+            "provider_name": "Crave",
+            "display_priority": 14
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/o1Z73d95pgJMpS3iCfRDtK5XJgp.png",
+            "provider_id": 1838,
+            "provider_name": "Tivify",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/kMT8p43W3BsXBe9mqCIPDNepser.png",
+            "provider_id": 103,
+            "provider_name": "Channel 4",
+            "display_priority": 11
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/kMT8p43W3BsXBe9mqCIPDNepser.png",
+            "provider_id": 103,
+            "provider_name": "Channel 4",
+            "display_priority": 16
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+            "provider_id": 614,
+            "provider_name": "VI movies and tv",
+            "display_priority": 36
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=JP",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 5
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=RU",
+        "flatrate": [
+          {
+            "logo_path": "/oroIyNGCu4ltli1lI4m7em1IYE5.png",
+            "provider_id": 117,
+            "provider_name": "Kinopoisk",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=US",
+        "free": [
+          {
+            "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+            "provider_id": 486,
+            "provider_name": "Spectrum On Demand",
+            "display_priority": 119
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+            "provider_id": 2528,
+            "provider_name": "YouTube TV",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/a7ZF6Ng3d6KDMylLUMH1OjAeTqW.png",
+            "provider_id": 123,
+            "provider_name": "FXNow",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/b3KR9gzy7QkvLNyNzUROavLpsrq.png",
+            "provider_id": 2554,
+            "provider_name": "FOX One Amazon Channel",
+            "display_priority": 339
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/456-the-simpsons/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      }
+    }
+  }
+}

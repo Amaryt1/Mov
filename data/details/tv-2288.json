@@ -1,0 +1,2378 @@
+{
+  "adult": false,
+  "backdrop_path": "/n3Brk7roueE9HOwVmYlJx5j462g.jpg",
+  "created_by": [
+    {
+      "id": 54869,
+      "credit_id": "52572f17760ee3776a320b04",
+      "name": "بول شويرينغ",
+      "original_name": "Paul T. Scheuring",
+      "gender": 2,
+      "profile_path": "/2hNYumD0sMCDezKvTtDwginHP4L.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-08-29",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "",
+  "id": 2288,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2017-05-30",
+  "last_episode_to_air": {
+    "id": 1303881,
+    "name": "خلف العيون",
+    "overview": "المواجهة الأخيرة. مايكل يقلب الطاولة على أعدائه، ويعود إلى عائلته بعد تصفية الحسابات.",
+    "vote_average": 8,
+    "vote_count": 40,
+    "air_date": "2017-05-30",
+    "episode_number": 9,
+    "episode_type": "finale",
+    "production_code": "1AZM09",
+    "runtime": 45,
+    "season_number": 5,
+    "show_id": 2288,
+    "still_path": "/d21YkZrWDPGXzqvM4PVqWwU0vJN.jpg"
+  },
+  "name": "الهروب من السجن",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 19,
+      "logo_path": "/1DSpHrWyOORkL9N2QHX7Adt31mQ.png",
+      "name": "FOX",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 88,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Prison Break",
+  "overview": "يدخل مايكل سكوفيلد السجن عمدًا بعد أن يُحكم على شقيقه لينكولن بوروز بالإعدام بتهمة قتل لم يرتكبها، بعدما يقتنع مايكل بأن شقيقه وقع ضحية مؤامرة مدبرة. وبفضل ذكائه الهندسي وتخطيطه الدقيق، يضع مايكل خطة معقدة للهروب من سجن فوكس ريفر، ويستعين بعدد من السجناء لتحقيق هدفه. ومع اقتراب موعد تنفيذ حكم الإعدام، يبدأ مايكل في تنفيذ خطته وسط مراقبة الحراس والمخاطر المتزايدة، بينما يحاول في الوقت نفسه كشف المؤامرة التي أدت إلى سجن شقيقه وإنقاذه قبل فوات الأوان.",
+  "popularity": 119.881,
+  "poster_path": "/mj4keOCfUYLjpHITYMZ3pd0hz4W.jpg",
+  "production_companies": [
+    {
+      "id": 22548,
+      "logo_path": null,
+      "name": "Adelstein/Parouse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1556,
+      "logo_path": "/31h94rG9hzjprXoYNy3L1ErUya2.png",
+      "name": "20th Century Fox Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 12007,
+      "logo_path": null,
+      "name": "RAT Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 210499,
+      "logo_path": null,
+      "name": "Dawn Olmstead Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 210500,
+      "logo_path": null,
+      "name": "Adelstein Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 210501,
+      "logo_path": null,
+      "name": "One Light Road Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 333,
+      "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+      "name": "Original Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-10-11",
+      "episode_count": 10,
+      "id": 7135,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/r4I83zsnxdkoyrVcYpnmgT9EcUD.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-29",
+      "episode_count": 22,
+      "id": 7132,
+      "name": "الموسم 1",
+      "overview": "يسجن رجل بريء ويحكم عليه بالإعدام، وأمله الوحيد الآن في أخيه الأصغر الذي يفتعل جريمة لكي يرسل نفسه للسجن ويضع خطة من أجل هروبهم معًا، بالإضافة لبعض المدنيين الأخرين في السجن، تقابلهما مجموعة من المشاكل والمعضلات المشوقة والمثيرة فيحاولان حلها من أجل تنفيذ الخطة مهما كلفهما الأمر.",
+      "poster_path": "/UeJcx1hV0gJkvZEvv7t6PjtBq2.jpg",
+      "season_number": 1,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2006-08-21",
+      "episode_count": 22,
+      "id": 7133,
+      "name": "الموسم 2",
+      "overview": "بعد نجاحهم في الهرب، يفترق مايكل رفقة شقيقه لينك عن باقي السجناء، لتبدأ رحلة البحث عن الحقيقة، أو الهرب للأبد، ويحاول عميل المباحث الوصول إلى مايكل ولنكولن.",
+      "poster_path": "/sRZyjc1BVnVFnTkeU33TG9C6Djd.jpg",
+      "season_number": 2,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2007-09-17",
+      "episode_count": 13,
+      "id": 7134,
+      "name": "الموسم 3",
+      "overview": "يدخل مايكل سجن بنما بدلًا من سارة، ليجد نفسه مطالب مجددًا بالهرب مع حلفاء الماضي، ولكن في هذه المرة يصبح عليه تحرير أحد السجناء الذي يُدعى جيمس ويسلر في مقابل إنقاذ حياة سارة.",
+      "poster_path": "/vlEtqQFkz4oqXaKo5tQzR2gtmWw.jpg",
+      "season_number": 3,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2008-09-01",
+      "episode_count": 22,
+      "id": 7136,
+      "name": "الموسم 4",
+      "overview": "بعد هروب مايكل ولينك من سجن بنما واكتشافهما أن سارة ما زالت على قيد الحياة، يجمع مايكل فريقه القديم في محاولة لسرقة جهاز سري يُدعى سيلا في مقابل الحصول على حريتهم للأبد.",
+      "poster_path": "/iPngrAzUJ6tilHiZLYUXAqmazsO.jpg",
+      "season_number": 4,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2017-04-04",
+      "episode_count": 9,
+      "id": 75021,
+      "name": "الموسم 5",
+      "overview": "في الجزء الخامس وبعد مرور سبع سنوات على خبر وفاة (مايكل سكوفيلد) المزيف، يظهر من جديد في سجن أوجيجيا بصنعاء كإرهابي داعم لتنظيم داعش ويلقب نفسه ب(كانيل أوتيس)، يغامر إثنان من أصدقائه للسفر لليمن ومحاولة إرجاعه، تتزوج (سارة) زوجة (مايكل) من عميل سري كان المسؤول عن اختفاء مايكل وتزوير خبر وفاته.",
+      "poster_path": "/1YwzKyKGen3498Ui2AjD9FUTkG2.jpg",
+      "season_number": 5,
+      "vote_average": 7.9
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "هروب السجن",
+  "type": "Scripted",
+  "vote_average": 8.064,
+  "vote_count": 6142,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3972,
+        "known_for_department": "Acting",
+        "name": "وينتورث ميلر",
+        "original_name": "Wentworth Miller",
+        "popularity": 3.1252,
+        "profile_path": "/js09M98qo6rEyyIlTbRMI6XiZJH.jpg",
+        "character": "Michael Scofield",
+        "credit_id": "52572f15760ee3776a320742",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10862,
+        "known_for_department": "Acting",
+        "name": "دومينيك بورسيل",
+        "original_name": "Dominic Purcell",
+        "popularity": 2.5532,
+        "profile_path": "/5GtHSYdnH7o2x5UIm09XqqLoJKO.jpg",
+        "character": "Lincoln Burrows",
+        "credit_id": "52572f15760ee3776a320786",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 86468,
+        "known_for_department": "Acting",
+        "name": "سارة وين كوليز",
+        "original_name": "Sarah Wayne Callies",
+        "popularity": 2.7127,
+        "profile_path": "/uBtFalxNR1O0eARg0lsyLXkoJNG.jpg",
+        "character": "Sara Tancredi",
+        "credit_id": "52572f15760ee3776a320764",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17345,
+        "known_for_department": "Acting",
+        "name": "روكموند دنبار",
+        "original_name": "Rockmond Dunbar",
+        "popularity": 2.5216,
+        "profile_path": "/gim7zIrYkbKWsp2Kod7fp74fWyI.jpg",
+        "character": "Benjamin 'C-Note' Franklin",
+        "credit_id": "52572f16760ee3776a32085a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17343,
+        "known_for_department": "Acting",
+        "name": "روبرت نبر",
+        "original_name": "Robert Knepper",
+        "popularity": 3.1313,
+        "profile_path": "/lRncjvgCIm1muIkK94zJSH2i3d6.jpg",
+        "character": "Theodore 'T-Bag' Bagwell",
+        "credit_id": "52572f16760ee3776a320992",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 211596,
+        "known_for_department": "Acting",
+        "name": "عنبر لافي",
+        "original_name": "ענבר לביא",
+        "popularity": 4.4981,
+        "profile_path": "/rdcdfVavWaKc0UCCV9ufdQaLIpc.jpg",
+        "character": "Sheba",
+        "credit_id": "5c2f4e13c3a3685320a34f79",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3309,
+        "known_for_department": "Acting",
+        "name": "أوغسطس بريو",
+        "original_name": "Augustus Prew",
+        "popularity": 1.1938,
+        "profile_path": "/37cPl9BaiCY24eMMMOxlZuTkGo7.jpg",
+        "character": "David 'Whip' Martin",
+        "credit_id": "5c2f4e2492514122ac71a0c0",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11365,
+        "known_for_department": "Acting",
+        "name": "مارك فيورستين",
+        "original_name": "Mark Feuerstein",
+        "popularity": 2.0749,
+        "profile_path": "/1XsbDSx7hqhaY9Sjjx86iTp43S0.jpg",
+        "character": "Jacob Ness",
+        "credit_id": "5dbfbe6af1b5710010e7fee7",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583919,
+        "known_for_department": "Acting",
+        "name": "Said Bey",
+        "original_name": "Said Bey",
+        "popularity": 0.6174,
+        "profile_path": "/fgYSU3ARAShZKXxygUVOomRJgnM.jpg",
+        "character": "terrorist",
+        "credit_id": "6837a8eef3c16643464155aa",
+        "order": 24
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1312316,
+        "known_for_department": "Writing",
+        "name": "Vaun Wilmott",
+        "original_name": "Vaun Wilmott",
+        "popularity": 0.3874,
+        "profile_path": null,
+        "credit_id": "6522b4fac50ad2014dd281b6",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1931528,
+        "known_for_department": "Production",
+        "name": "Cathy Mickel Gibson",
+        "original_name": "Cathy Mickel Gibson",
+        "popularity": 0.6835,
+        "profile_path": null,
+        "credit_id": "6522b4baea84c700aeee7508",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152362,
+        "known_for_department": "Production",
+        "name": "David H. Jeffery",
+        "original_name": "David H. Jeffery",
+        "popularity": 0.4386,
+        "profile_path": null,
+        "credit_id": "6522b4c20cb33516f7435cd5",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3972,
+        "known_for_department": "Acting",
+        "name": "وينتورث ميلر",
+        "original_name": "Wentworth Miller",
+        "popularity": 3.1252,
+        "profile_path": "/js09M98qo6rEyyIlTbRMI6XiZJH.jpg",
+        "credit_id": "6522b4d0c50ad200eac2ffd8",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10862,
+        "known_for_department": "Acting",
+        "name": "دومينيك بورسيل",
+        "original_name": "Dominic Purcell",
+        "popularity": 2.5532,
+        "profile_path": "/5GtHSYdnH7o2x5UIm09XqqLoJKO.jpg",
+        "credit_id": "6522b4d7ab5e34011bd6b318",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 45627,
+        "known_for_department": "Directing",
+        "name": "Nelson McCormick",
+        "original_name": "Nelson McCormick",
+        "popularity": 0.9053,
+        "profile_path": "/kP4UNE4NKEWmWgc6VmUkTCC5bz3.jpg",
+        "credit_id": "6522b4ef07216600e2daa458",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1233038,
+        "known_for_department": "Writing",
+        "name": "Michael Horowitz",
+        "original_name": "Michael Horowitz",
+        "popularity": 0.4937,
+        "profile_path": null,
+        "credit_id": "6522b505ab5e3400e1d3a2f5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1231424,
+        "known_for_department": "Production",
+        "name": "Steve Beers",
+        "original_name": "Steve Beers",
+        "popularity": 0.6431,
+        "profile_path": null,
+        "credit_id": "6522b4e2ea84c700aeee751a",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11874,
+        "known_for_department": "Production",
+        "name": "Neal H. Moritz",
+        "original_name": "Neal H. Moritz",
+        "popularity": 0.9643,
+        "profile_path": "/xgCTFHhbQh3QyIT7ZvJGbEohzG8.jpg",
+        "credit_id": "6522b73cc50ad2012c1db9ee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215768,
+        "known_for_department": "Production",
+        "name": "Dawn Olmstead",
+        "original_name": "Dawn Olmstead",
+        "popularity": 0.7571,
+        "profile_path": "/yacKhcwoQ8GyBRdD87nbqXu0qEC.jpg",
+        "credit_id": "6522b528c50ad2012c1db8ca",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54869,
+        "known_for_department": "Writing",
+        "name": "بول شويرينغ",
+        "original_name": "Paul T. Scheuring",
+        "popularity": 0.9924,
+        "profile_path": "/2hNYumD0sMCDezKvTtDwginHP4L.jpg",
+        "credit_id": "6522b76a07216600c56b7337",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215767,
+        "known_for_department": "Production",
+        "name": "Marty Adelstein",
+        "original_name": "Marty Adelstein",
+        "popularity": 0.5928,
+        "profile_path": null,
+        "credit_id": "6522b6f8c50ad200eac300fd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11091,
+        "known_for_department": "Directing",
+        "name": "بريت راتنر",
+        "original_name": "Brett Ratner",
+        "popularity": 1.8254,
+        "profile_path": "/y40YzrI2ooWiWxfisx6zCZGueEu.jpg",
+        "credit_id": "6522b750c50ad2010b028e8f",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/39bifj2FNytJ2m1cqOBcWMTKgmV.jpg",
+        "id": 97951,
+        "name": "عمدة كينغستاون",
+        "original_name": "Mayor of Kingstown",
+        "overview": "تحكي قصة المسلسل عن عائلة (McLusky) وهم صناع قرار في مدينة (Kingstown)، ويتناول المسلسل مواضيع العنصرية المنهجية والفساد وعدم المساواة، ويقدم نظرة فاحصة على محاولتهم إحلال النظام والعدالة إلى المدينة التي لا تملك أيًا منهما.",
+        "poster_path": "/waMXdk42mtxLUFG2V9ceZtKNOCx.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 42.1655,
+        "first_air_date": "2021-11-14",
+        "softcore": false,
+        "vote_average": 7.963,
+        "vote_count": 667,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bPt7NTQQvrEIBIqwfgWOkjDTIZn.jpg",
+        "id": 76231,
+        "name": "Mayans M.C.",
+        "original_name": "Mayans M.C.",
+        "overview": "يخرج الصبي (إي زد رييس) من السجن بسبب سريان اتفاقية مبرمة بخصوص الحدود بين ولاية كاليفورنيا ودولة المكسيك، بحيث يجب عليه تغيير هويته بهوية جديدة تمكنه من بدء حياة جديدة بعيدة عن السجن.",
+        "poster_path": "/510A0upV9WRAynEgs1E2B3eBxi5.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 20.2095,
+        "first_air_date": "2018-09-04",
+        "softcore": false,
+        "vote_average": 7.972,
+        "vote_count": 842,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eQJwfyMqSra10ck8HOoiCrbQR32.jpg",
+        "id": 66025,
+        "name": "مملكة الحيوان",
+        "original_name": "Animal Kingdom",
+        "overview": "(جوشوا كودي) مراهق في السابعة عشرة من عمره، ينتقل مع أقاربه إلى مدينتهم الملطة على الشاطيء في (كاليفورنيا الجنوبية) بعد وفاة والدته إثر جرعة هيروين زائدة.",
+        "poster_path": "/rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 49.4416,
+        "first_air_date": "2016-06-14",
+        "softcore": false,
+        "vote_average": 7.774,
+        "vote_count": 566,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f1Z5X3iCCKK5FGu5VvzPkXO7eOl.jpg",
+        "id": 64199,
+        "name": "Sneaky Pete",
+        "original_name": "Sneaky Pete",
+        "overview": "رجل محتال هارب من رجل عصابات شرير يحتمي من ماضيه من خلال افتراض هوية زميله في زنزانة السجن ، بيت ، \"لم شمله\" مع عائلة بيت المنفصلة ، وهي مجموعة ملونة ومختلة وظيفيا تهدد بجره إلى عالم لا يقل خطورة عن العالم الذي يحاول الهروب منه - وربما يعطيه طعما للعائلة المحبة التي لم يكن لديه أبدا.",
+        "poster_path": "/nNpcea9lLHI4iv8QpOIvHveVnT9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 30.2696,
+        "first_air_date": "2015-08-07",
+        "softcore": false,
+        "vote_average": 7.499,
+        "vote_count": 429,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mcgZDwhMlrFsfpbvCeg5RY5mhiu.jpg",
+        "id": 1409,
+        "name": "أبناء الفوضى",
+        "original_name": "Sons of Anarchy",
+        "overview": "يعيش جاكس تيلر صراعاً ممزقاً بين ولائه لنادي دراجات نارية إجرامي أسسه والده وبين رغبته في حماية عائلته وتطهير النادي من تجارة الأسلحة، مدفوعاً بمذكرات والده التي تدعو لإنهاء العنف، مما يضعه في مواجهة مباشرة مع رئيس النادي \"كلاي\" وزوجته \"جيمّا\" التي تحاول فرض سيطرتها. تشهد الأحداث حروباً دموية ضد عصابات منافسة وتحقيقات فيدرالية، لتتحول القصة إلى مأساة عائلية تفرض على جاكس تضحيات مؤلمة لتأمين مستقبل أطفاله",
+        "poster_path": "/wvZvkPv1BZW9muE6hIo19JTqGSn.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 57.9273,
+        "first_air_date": "2008-09-03",
+        "softcore": false,
+        "vote_average": 8.407,
+        "vote_count": 3378,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4CtOMphAmfHJ6cztlAYjkdStkHP.jpg",
+        "id": 262280,
+        "name": "هويّات مزيّفة",
+        "original_name": "Legends",
+        "overview": "مع انتشار المخدرات في شوارع بريطانيا في التسعينيات، تتخفّى مجموعة من الموظفين الحكوميين للإطاحة بالعصابات المسؤولة عن ذلك.",
+        "poster_path": "/eYYTgBtsvvA3fC1feyvoqv0G9Gl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 11.228,
+        "first_air_date": "2026-05-07",
+        "softcore": false,
+        "vote_average": 7.541,
+        "vote_count": 110,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o2C222QdW4dmoyd2dgPlnCcI3cW.jpg",
+        "id": 155537,
+        "name": "Black Bird",
+        "original_name": "Black Bird",
+        "overview": "حين يستهل \"جيمي كين\" عقوبة سجن لعشر سنوات، يتلقى عرضاً استثنائياً: إن استطاع استخراج اعتراف من القاتل المشتبه به \"لاري هول\"، فسيستعيد حريته. وبالتالي، يصبح تنفيذ هذه المهمة تحدّي العمر.",
+        "poster_path": "/qu312pwM61NPTr7nexvovCClDNP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 17.5485,
+        "first_air_date": "2022-07-07",
+        "softcore": false,
+        "vote_average": 8.069,
+        "vote_count": 1061,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6g75a6wnJWrljoLJBjaNWcsK7Lq.jpg",
+        "id": 3322,
+        "name": "أوز",
+        "original_name": "Oz",
+        "overview": "تدور الأحداث في جناح \"مدينة الزمرد\" التجريبي بسجن \"أوزوالد\" الفيدرالي، حيث يتحول هدف إعادة التأهيل إلى صراع وحشي ودامي بين العصابات، ليكشف العمل الجانب المظلم للنفس البشرية.",
+        "poster_path": "/oTQ9PUnCgf9CimYeWuDGp8iaT07.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 35.9683,
+        "first_air_date": "1997-07-12",
+        "softcore": false,
+        "vote_average": 8.051,
+        "vote_count": 874,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4TdmuuwiIiKw3JOjIuhdgYxRXnN.jpg",
+        "id": 194764,
+        "name": "البطريق",
+        "original_name": "The Penguin",
+        "overview": "يتبع العمل قصة أوزوالد كوبلبوت، ورحلة صعوده إلى واحد من أشهر المجرمين ورجال العصابات في مدينة جوثام.",
+        "poster_path": "/gdBXJqwr1Em5Fz54EHODywJ3X5E.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 18.9712,
+        "first_air_date": "2024-09-19",
+        "softcore": false,
+        "vote_average": 8.347,
+        "vote_count": 1473,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9g5Lv52RSZ36R3NzmiNeTJ9f2fU.jpg",
+        "id": 247723,
+        "name": "حفلة الصيد",
+        "original_name": "The Hunting Party",
+        "overview": "تم تشكيل فريق صغير من المحققين لتعقب واعتقال أخطر القتلة الذين شهدتهم بلادنا على الإطلاق، والذين هربوا جميعاً من سجن سري للغاية من المفترض ألا يكون موجوداً.",
+        "poster_path": "/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 20.0183,
+        "first_air_date": "2025-01-19",
+        "softcore": false,
+        "vote_average": 7.154,
+        "vote_count": 104,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9aJ6KwLASA38WzdMRVjk7ILpuTv.jpg",
+        "id": 85021,
+        "name": "Gangs of London",
+        "original_name": "Gangs of London",
+        "overview": "يتناول العمل قصة سقوط لندن بسبب صراعات السلطة المضطربة لعصاباتها الدولية، وفراغ السلطة المفاجئ الذي نشأ عندما اغتيال رئيس أقوى عائلة إجرامية في مدينة لندن.",
+        "poster_path": "/fVgwa6wGw9ddGM5O7mqrrwB6gHK.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 23.2031,
+        "first_air_date": "2020-04-23",
+        "softcore": false,
+        "vote_average": 7.816,
+        "vote_count": 706,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+        "id": 153312,
+        "name": "ملك تولسا",
+        "original_name": "Tulsa King",
+        "overview": "في إطار من الجريمة والدراما، يتناول العمل قصة زعيم عصابات إيطالي يحاول إعادة تأسيس المافيا الإيطالية من جديد، ذلك في مدينة كانساس سيتي بولاية ميسوري.",
+        "poster_path": "/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 82.2627,
+        "first_air_date": "2022-11-13",
+        "softcore": false,
+        "vote_average": 8.304,
+        "vote_count": 2772,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6IfH0XyukdKPxk8vVGuFMX2aioE.jpg",
+        "id": 84303,
+        "name": "Jett",
+        "original_name": "Jett",
+        "overview": "Fresh out of prison, world-class thief Daisy ”Jett” Kowalski  is forced back into doing what she does best by dangerous and eccentric criminals determined to exploit her skills for their own ends.",
+        "poster_path": "/oVG2Cjk0qlZKpcRLMNaq5c7KWec.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 6.6052,
+        "first_air_date": "2019-06-14",
+        "softcore": false,
+        "vote_average": 6.814,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tT2MwxaST3Fx1Dg4u9v82sDrIu.jpg",
+        "id": 286709,
+        "name": "ذا ويستيز",
+        "original_name": "The Westies",
+        "overview": "تدور القصة حول عصابة صغيرة لكنها شديدة العنف تحاول الاستفادة من الأموال الضخمة الناتجة عن مشروع بناء مركز جافيتس للمؤتمرات. ورغم أن أفرادها أقل عددًا بكثير من عائلات المافيا الإيطالية، فإن سمعتها الدموية تمنحها نفوذًا يسمح لها بالدخول في صراع وتحالفات مع المافيا",
+        "poster_path": "/mvRiVmHyxjuwEBTz78PIZoaEy3S.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 13.5622,
+        "first_air_date": "2026-07-12",
+        "softcore": false,
+        "vote_average": 7.446,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ggAS074NNNiYMc83Ms25pB87iy0.jpg",
+        "id": 112693,
+        "name": "Kin",
+        "original_name": "Kin",
+        "overview": "The lives of a Dublin family embroiled in a gangland war and the consequences of their choices.",
+        "poster_path": "/2wTsgQQBruGQcjM0PjFr5l5MjEw.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 11.2643,
+        "first_air_date": "2021-09-09",
+        "softcore": false,
+        "vote_average": 7.679,
+        "vote_count": 81,
+        "origin_country": [
+          "IE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
+        "id": 278178,
+        "name": "سأعثر عليك",
+        "original_name": "I Will Find You",
+        "overview": "بعدما يُسجن أب ظلمًا بتهمة قتل ابنه، ينطلق في مهمة إنقاذ مستميتة إثر اكتشافه أنّ الفتى قد يكون على قيد الحياة.",
+        "poster_path": "/jxwgnBCorwC6vDqDamSy54W2S43.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 38.0643,
+        "first_air_date": "2026-06-18",
+        "softcore": false,
+        "vote_average": 8.201,
+        "vote_count": 479,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5PfCoV4e9DVRkOTowXAUi1yMn9k.jpg",
+        "id": 87773,
+        "name": "The Bay",
+        "original_name": "The Bay",
+        "overview": "Family Liaison Officer Lisa Armstrong becomes a little too emotionally involved with a case (to the point where she might compromise it) concerning a pair of missing Morecambe twins to whose distraught parents she is assigned.",
+        "poster_path": "/1ZbCq6t1aKssAhFOjvslUpt9W2x.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 10.2024,
+        "first_air_date": "2019-03-20",
+        "softcore": false,
+        "vote_average": 6.5,
+        "vote_count": 100,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vfe1cSviBFnNcgk76jwgdb5Wyek.jpg",
+        "id": 255570,
+        "name": "This City Is Ours",
+        "original_name": "This City Is Ours",
+        "overview": "Notorious gang boss Ronnie (Sean Bean) steps back from his criminal empire, triggering a violent power struggle between his volatile son Jamie (Jack McMullen) and trusted lieutenant Michael (James Nelson Joyce), who sees his chance to seize control. As rivalries ignite and loyalties fracture, the family behind the city’s cocaine trade descends into open war.",
+        "poster_path": "/fQpJFVWX8MCdOkwoutDw7tjhvgp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 6.1057,
+        "first_air_date": "2025-03-23",
+        "softcore": false,
+        "vote_average": 7.336,
+        "vote_count": 55,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mce2ZupMnD6fmIT5AcpriP3zNTA.jpg",
+        "id": 114922,
+        "name": "القلعة",
+        "original_name": "Citadel",
+        "overview": "منذ سنوات قد مُحي عقل العميلين الكبيرين \"ميسون كاين\" و\"نادية سينغ\"، لكن ينبغي أن يلبيا النداء للعودة إلى العمل تزامنًا مع ظهور قوى شريرة من الماضي. يساعد \"بيرنارد أورليك\" هذين العشيقين ليتذكرا الماضي وينقذا المستقبل.",
+        "poster_path": "/2WUnilzFVAqy1q0Kk5ece9vCtyz.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "popularity": 26.6833,
+        "first_air_date": "2023-04-27",
+        "softcore": false,
+        "vote_average": 6.869,
+        "vote_count": 576,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uhcFAFVRIjbpUbZY01VvQfAnGrz.jpg",
+        "id": 64836,
+        "name": "Good Behavior",
+        "original_name": "Good Behavior",
+        "overview": "Letty Dobesh is a thief and con artist fresh out of prison whose life is always one wrong turn and bad decision from implosions — just how she likes it. But when she overhears a hitman being hired to kill a man’s wife, she sets out to derail the job, launching her on a collision course with the killer, entangling them in a dangerous and seductive relationship.",
+        "poster_path": "/qnXx9TMHCfOHgEZ5vv76pPmIwTS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 8.6205,
+        "first_air_date": "2016-11-15",
+        "softcore": false,
+        "vote_average": 7.036,
+        "vote_count": 139,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 32,
+    "total_results": 639
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5JNsNiL9AOZ2lnGJbul2aM7qN41.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 91552,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Departure",
+        "overview": "",
+        "popularity": 12.9273,
+        "poster_path": "/b52lWChoqjtE6ZgMLK2XjA3unDW.jpg",
+        "first_air_date": "2019-07-10",
+        "softcore": false,
+        "name": "Departure",
+        "vote_average": 6.5,
+        "vote_count": 121
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9t110PF9GL9XVAasdeG2GFqeAb6.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 91555,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "All Elite Wrestling: Dynamite",
+        "overview": "",
+        "popularity": 102.1897,
+        "poster_path": "/2xAAC0Hwm9yxMn9ukgglfIuABc1.jpg",
+        "first_air_date": "2019-10-02",
+        "softcore": false,
+        "name": "All Elite Wrestling: Dynamite",
+        "vote_average": 7.9,
+        "vote_count": 88
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "id": 121,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Doctor Who",
+        "overview": "",
+        "popularity": 102.0769,
+        "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+        "first_air_date": "1963-11-23",
+        "softcore": false,
+        "name": "Doctor Who",
+        "vote_average": 7.923,
+        "vote_count": 717
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/48O83DvQJTt9zMDCkM77fiPjSWQ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 274978,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "ขอให้รักหาเราเจอ",
+        "overview": "",
+        "popularity": 0.911,
+        "poster_path": "/9kHuUZyFDnbGwyR0sRjuKu9yZz1.jpg",
+        "first_air_date": "2024-11-20",
+        "softcore": false,
+        "name": "ขอให้รักหาเราเจอ",
+        "vote_average": 7,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/SWyXSZpZ7B5VCgV9N5fTU3zWHO.jpg",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 124212,
+        "origin_country": [
+          "CA",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "I Escaped: Real Prison Breaks",
+        "overview": "",
+        "popularity": 1.7409,
+        "poster_path": "/l1dJwps4iHOK31Lfl38beDDad3h.jpg",
+        "first_air_date": "2010-07-13",
+        "softcore": false,
+        "name": "I Escaped: Real Prison Breaks",
+        "vote_average": 4.2,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uqe8ztakglkdklybrM0YnBoA2zB.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 91638,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Labirinto",
+        "overview": "",
+        "popularity": 3.3687,
+        "poster_path": "/io0pjUFoKdFR2BhfkqqrwSYCkn5.jpg",
+        "first_air_date": "1998-11-10",
+        "softcore": false,
+        "name": "Labirinto",
+        "vote_average": 7.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/monZWN2tGBUDNjZsV1OjhOWfJv3.jpg",
+        "genre_ids": [
+          99,
+          10764,
+          80
+        ],
+        "id": 58769,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "First Week In",
+        "overview": "",
+        "popularity": 0.9979,
+        "poster_path": "/rNfM1ksD4ob4v5Eb2FnvkuMHWy3.jpg",
+        "first_air_date": "2012-01-09",
+        "softcore": false,
+        "name": "First Week In",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5LU77x2BK2IFn0hhyA8GbqjzMt4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10751,
+          10765
+        ],
+        "id": 346,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "American Dragon: Jake Long",
+        "overview": "مسلسل التنين الأمريكي هو مسلسل كوميدي حركي عن بلوغ سن الرشد، يدور حول جايك لونغ، وهو فتى أمريكي آسيوي يبلغ من العمر 13 عامًا، يسعى جاهدًا لإيجاد التوازن في حياته كشاب مراهق يمارس رياضة التزلج على الألواح في نيويورك، بينما يتعلم إتقان قواه الخارقة (في هويته السرية) كالتنين الأمريكي، حامي وراعي جميع المخلوقات السحرية التي تعيش سرًا بين البشر",
+        "popularity": 18.9866,
+        "poster_path": "/sAgoJOdvuMa3DD0JDpos9bdaF9S.jpg",
+        "first_air_date": "2005-01-21",
+        "softcore": false,
+        "name": "التنين الأمريكي: جيك لونغ",
+        "vote_average": 7.76,
+        "vote_count": 526
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10759
+        ],
+        "id": 124473,
+        "origin_country": [
+          "FR"
+        ],
+        "original_language": "fr",
+        "original_name": "Histoire du Chevalier Des Grieux et de Manon Lescaut",
+        "overview": "",
+        "popularity": 1.4889,
+        "poster_path": "/jLHi11j6YMdMg6wuQhttuBXzlY7.jpg",
+        "first_air_date": "1981-03-10",
+        "softcore": false,
+        "name": "Histoire du Chevalier Des Grieux et de Manon Lescaut",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6GIf7uiQ4Y5xPzIRkTct2NIyBqK.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          9648,
+          37
+        ],
+        "id": 365,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Jericho",
+        "overview": "",
+        "popularity": 12.9826,
+        "poster_path": "/a57H9UsS388Av2LSLKO9inNmY7j.jpg",
+        "first_air_date": "2006-09-20",
+        "softcore": false,
+        "name": "Jericho",
+        "vote_average": 7.422,
+        "vote_count": 569
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6X36iMqzu18dbsmXGGBxj7UU8wW.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "id": 91962,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Emergence",
+        "overview": "",
+        "popularity": 6.0918,
+        "poster_path": "/xqquBr7LURe9CWTbCkMnvXtsilu.jpg",
+        "first_air_date": "2019-09-24",
+        "softcore": false,
+        "name": "Emergence",
+        "vote_average": 6.9,
+        "vote_count": 202
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8LaQ8T9iMQeU207awX2RPWLSTEf.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "id": 600,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Renegade",
+        "overview": "",
+        "popularity": 23.1563,
+        "poster_path": "/9ESXaOpVv2EsORITmUz9z26hqC8.jpg",
+        "first_air_date": "1992-09-19",
+        "softcore": false,
+        "name": "Renegade",
+        "vote_average": 6.709,
+        "vote_count": 151
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ozrQAkeaQxqEDfZKRwPiSMHj0ar.jpg",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 206817,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Demons & Saviors",
+        "overview": "",
+        "popularity": 4.0867,
+        "poster_path": "/xDSyBlftELmo0OTDUSPZM7iB9gc.jpg",
+        "first_air_date": "2023-08-03",
+        "softcore": false,
+        "name": "Demons & Saviors",
+        "vote_average": 6.5,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6a6bUjs6AoXt3KP5eA88HQSRtca.jpg",
+        "genre_ids": [
+          10759,
+          35
+        ],
+        "id": 476,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "She Spies",
+        "overview": "",
+        "popularity": 12.3459,
+        "poster_path": "/m5jLMLqMhFOq4zLr9bvEgPOaSzB.jpg",
+        "first_air_date": "2002-07-20",
+        "softcore": false,
+        "name": "She Spies",
+        "vote_average": 7.621,
+        "vote_count": 29
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oUhuPSzW9fQMoVmJn0rB4oMoZFo.jpg",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "id": 546,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Colditz",
+        "overview": "",
+        "popularity": 4.6906,
+        "poster_path": "/6wjnO0DpbUmvdQSLNt1nkbXYazV.jpg",
+        "first_air_date": "1972-10-19",
+        "softcore": false,
+        "name": "Colditz",
+        "vote_average": 7.714,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eFzPN76uNGNFU5CtRtrDvNw7Y1x.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 275464,
+        "origin_country": [
+          "CO"
+        ],
+        "original_language": "es",
+        "original_name": "Escupiré sobre sus tumbas",
+        "overview": "",
+        "popularity": 5.8894,
+        "poster_path": "/nssLYA0PvK3RVfBh2cV4JXyWXRN.jpg",
+        "first_air_date": "2024-10-28",
+        "softcore": false,
+        "name": "Escupiré sobre sus tumbas",
+        "vote_average": 7.8,
+        "vote_count": 59
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AcIQBuVJQlvToIHRXLsSxyNyKTU.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 92053,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "For Life",
+        "overview": "يؤدّي \"نيكولاس بينيك\"  و\"إنديرا فارما\"  و\"جوي براينت\"  بطولة هذا المسلسل عن رجل يكافح لعكس مسار السجن عن غير وجه حقّ، والذي يعاني منه هو أيضًا. وتصفه جريدة \"يو إس إيه توداي\" بأنّه \"ليس من صنف دراما المحاكم المعتادة\".",
+        "popularity": 6.464,
+        "poster_path": "/2WeCMpWSrOOJNXoruq5bq8qmKEx.jpg",
+        "first_air_date": "2020-02-11",
+        "softcore": false,
+        "name": "حكم مؤبد",
+        "vote_average": 7.843,
+        "vote_count": 280
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nSsfjnb6DePlWuNiygxfkGUMWIL.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          16,
+          18
+        ],
+        "id": 889,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "交響詩篇エウレカセブン",
+        "overview": "",
+        "popularity": 16.5081,
+        "poster_path": "/fbdM3vtY29PkipKrBb6NuTw7VDt.jpg",
+        "first_air_date": "2005-04-17",
+        "softcore": false,
+        "name": "交響詩篇エウレカセブン",
+        "vote_average": 7.408,
+        "vote_count": 71
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sgUyMqtDUdUYyatmAdwaLvLTOch.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 938,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Gabriel's Fire",
+        "overview": "",
+        "popularity": 4.8066,
+        "poster_path": "/6HZEkhJTZrXQaAiMVq8krPiEgsq.jpg",
+        "first_air_date": "1990-09-12",
+        "softcore": false,
+        "name": "Gabriel's Fire",
+        "vote_average": 6.875,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tUKU1WLqMtIZHUl8lP9bLAJx0nl.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 954,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Rockford Files",
+        "overview": "",
+        "popularity": 40.9616,
+        "poster_path": "/fniHEsTeqHMg41GlCYJxZVgtn7H.jpg",
+        "first_air_date": "1974-09-13",
+        "softcore": false,
+        "name": "The Rockford Files",
+        "vote_average": 7.611,
+        "vote_count": 131
+      }
+    ],
+    "total_pages": 3183,
+    "total_results": 63647
+  },
+  "watch/providers": {
+    "results": {
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=DE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=FR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=GB",
+        "ads": [
+          {
+            "logo_path": "/fcceE9Ktrv1j1lhFcnIOvuFxb0U.png",
+            "provider_id": 137,
+            "provider_name": "UKTV Play",
+            "display_priority": 27
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+            "provider_id": 122,
+            "provider_name": "Disney+",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+            "provider_id": 2336,
+            "provider_name": "JioHotstar",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+            "provider_id": 614,
+            "provider_name": "VI movies and tv",
+            "display_priority": 36
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=JP",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 9
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+            "provider_id": 122,
+            "provider_name": "Disney+",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=RU",
+        "buy": [
+          {
+            "logo_path": "/oroIyNGCu4ltli1lI4m7em1IYE5.png",
+            "provider_id": 117,
+            "provider_name": "Kinopoisk",
+            "display_priority": 21
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/oroIyNGCu4ltli1lI4m7em1IYE5.png",
+            "provider_id": 117,
+            "provider_name": "Kinopoisk",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/uzJAlKOjD4PCqqx3N1fwkmu0Ttb.png",
+            "provider_id": 497,
+            "provider_name": "Tele2 Play",
+            "display_priority": 20
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+            "provider_id": 122,
+            "provider_name": "Disney+",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/2288-prison-break/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      }
+    }
+  }
+}

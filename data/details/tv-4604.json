@@ -1,0 +1,4078 @@
+{
+  "adult": false,
+  "backdrop_path": "/4wVq9ICc4MI2XcssrumpCOhKLpI.jpg",
+  "created_by": [
+    {
+      "id": 18924,
+      "credit_id": "5975988ec3a36821db0084c5",
+      "name": "ألفرد غوغ",
+      "original_name": "Alfred Gough",
+      "gender": 2,
+      "profile_path": "/wZV1hProzjw9oR9HtjILDMn2K6A.jpg"
+    },
+    {
+      "id": 18923,
+      "credit_id": "5975989392514106a801fe34",
+      "name": "مايلز ميلر",
+      "original_name": "Miles Millar",
+      "gender": 2,
+      "profile_path": "/4phggQUKYg2WMMEy4JW8y6pKEVS.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2001-10-16",
+  "genres": [
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    },
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/tv/smallville",
+  "id": 4604,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2011-05-13",
+  "last_episode_to_air": {
+    "id": 333451,
+    "name": "الحلقة 21",
+    "overview": "",
+    "vote_average": 9.2,
+    "vote_count": 16,
+    "air_date": "2011-05-13",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "3X6020|3X6022",
+    "runtime": 84,
+    "season_number": 10,
+    "show_id": 4604,
+    "still_path": "/n84H7AfbFhJ8jHfbhZ55pEShG0h.jpg"
+  },
+  "name": "سمولفيل",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 21,
+      "logo_path": "/9GlDHjQj9c2dkfARCR3zlH87R66.png",
+      "name": "The WB",
+      "origin_country": "US"
+    },
+    {
+      "id": 71,
+      "logo_path": "/hEpcdJ4O6eitG9ADSnDXNUrlovS.png",
+      "name": "The CW",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 216,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Smallville",
+  "overview": "يرصد المسلسل القدرات العبقرية والعديدة لدي كلارك كينت (طوم ويلنج) حيث يقوم بعمليات إنقاذ واسعة تثير الشكوك حوله في بلدة سمولفيل. كلارك كينت سريع للغاية ويقال أنه يعرف طريقه للمشاكل جيدًا. كلارك كينت وُجد من قبل مارثا كينت (أنيت أوتول) وجوناثان كينت (جون شنايدر) في يوم لا يُنسى وتم تبنيه من قبل مارثا وجوناثان. ولكن هناك من ينبش وراء أصل كلارك كينت ويسعى بكل ما أوتي من قوة من أجل كشف سره.",
+  "popularity": 132.2971,
+  "poster_path": "/74UmeevNyZYR1kyIAwkoIQ1EzCw.jpg",
+  "production_companies": [
+    {
+      "id": 429,
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "name": "DC",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 2184,
+      "logo_path": null,
+      "name": "Tollin/Robbins Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 20356,
+      "logo_path": "/awFYFsOyoG3VttUmWvnhgZgXxxh.png",
+      "name": "Millar Gough Ink",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 38,
+      "id": 14028,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/mrrJu4MOgsDrhLKPc88RVg0iGfm.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-10-16",
+      "episode_count": 21,
+      "id": 14018,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/dc9a9n4g9Ibs485t5eBtyNG0mcr.jpg",
+      "season_number": 1,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2002-09-24",
+      "episode_count": 23,
+      "id": 14019,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/uSr3nf44jkWSswhNnToln9t1dLB.jpg",
+      "season_number": 2,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2003-10-01",
+      "episode_count": 22,
+      "id": 14020,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/f60xCocHvSKZE3hNh7JrlqVKg9V.jpg",
+      "season_number": 3,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2004-09-22",
+      "episode_count": 22,
+      "id": 14021,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/aVi3L1r9ZWOOSacAXvpIdoNCfWW.jpg",
+      "season_number": 4,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2005-09-29",
+      "episode_count": 22,
+      "id": 14022,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/ssd1X4oehoyv7AU75hwoGGX75nS.jpg",
+      "season_number": 5,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2006-09-28",
+      "episode_count": 22,
+      "id": 14023,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/r8xOSL0V4srx6KrWjgYY0ZqZfFS.jpg",
+      "season_number": 6,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2007-09-27",
+      "episode_count": 20,
+      "id": 14024,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/6lGHd6lBbpEkoq5pgI8XDRy2WYB.jpg",
+      "season_number": 7,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2008-09-18",
+      "episode_count": 22,
+      "id": 14025,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/jqEDADJiQbdtLMLSoXVulSiQkfh.jpg",
+      "season_number": 8,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2009-09-25",
+      "episode_count": 21,
+      "id": 14026,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/sxfkMgX4aEqvMQhDicf8LcbBWs3.jpg",
+      "season_number": 9,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2010-09-24",
+      "episode_count": 21,
+      "id": 14027,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/nUiw76eCg1uT8uz5Ibtu6FWYlgX.jpg",
+      "season_number": 10,
+      "vote_average": 8.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.189,
+  "vote_count": 4583,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11824,
+        "known_for_department": "Acting",
+        "name": "Tom Welling",
+        "original_name": "Tom Welling",
+        "popularity": 3.2662,
+        "profile_path": "/iLyXgCimAWNHSjkTXb7e5KgcMWh.jpg",
+        "character": "Clark Kent",
+        "credit_id": "5257751c760ee36aaa50e171",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46897,
+        "known_for_department": "Acting",
+        "name": "Erica Durance",
+        "original_name": "Erica Durance",
+        "popularity": 2.9813,
+        "profile_path": "/kshDl70fwwTHOvog60VFqMjCFUL.jpg",
+        "character": "Lois Lane",
+        "credit_id": "5257751c760ee36aaa50e3b3",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 138770,
+        "known_for_department": "Acting",
+        "name": "Cassidy Freeman",
+        "original_name": "Cassidy Freeman",
+        "popularity": 1.754,
+        "profile_path": "/6QooKF97oaUoIrW2lbx36aYYGZH.jpg",
+        "character": "Tess Mercer",
+        "credit_id": "52a4157f760ee35a172fb528",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222596,
+        "known_for_department": "Acting",
+        "name": "Justin Hartley",
+        "original_name": "Justin Hartley",
+        "popularity": 2.5162,
+        "profile_path": "/oo7vqWz30pA1tY6quUOnS6O0AgB.jpg",
+        "character": "Oliver Queen",
+        "credit_id": "52a415dc760ee37518196a87",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72445,
+        "known_for_department": "Writing",
+        "name": "Turi Meyer",
+        "original_name": "Turi Meyer",
+        "popularity": 0.5717,
+        "profile_path": null,
+        "credit_id": "57a8b5329251415cfb007e89",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1223889,
+        "known_for_department": "Writing",
+        "name": "Anne Cofell Saunders",
+        "original_name": "Anne Cofell Saunders",
+        "popularity": 0.5077,
+        "profile_path": "/qMq91XSmWzlDZJmkjIo9yag6orb.jpg",
+        "credit_id": "57a8aab49251417659006b9d",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11824,
+        "known_for_department": "Acting",
+        "name": "Tom Welling",
+        "original_name": "Tom Welling",
+        "popularity": 3.2662,
+        "profile_path": "/iLyXgCimAWNHSjkTXb7e5KgcMWh.jpg",
+        "credit_id": "5257752f760ee36aaa50eea8",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237458,
+        "known_for_department": "Production",
+        "name": "Tom Flores",
+        "original_name": "Tom Flores",
+        "popularity": 0.3501,
+        "profile_path": null,
+        "credit_id": "52577533760ee36aaa50f11b",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72446,
+        "known_for_department": "Writing",
+        "name": "Alfredo Septién",
+        "original_name": "Alfredo Septién",
+        "popularity": 0.637,
+        "profile_path": "/rOJbDVsNp1QtXvjQR4HFqYxLcjg.jpg",
+        "credit_id": "57a88355925141746f005fe1",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237463,
+        "known_for_department": "Production",
+        "name": "Christopher Petry",
+        "original_name": "Christopher Petry",
+        "popularity": 0.6299,
+        "profile_path": null,
+        "credit_id": "57a8878dc3a36835f6005472",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237465,
+        "known_for_department": "Production",
+        "name": "Cristina Verano",
+        "original_name": "Cristina Verano",
+        "popularity": 0.3317,
+        "profile_path": null,
+        "credit_id": "57a8891a9251415cfb0069b7",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237457,
+        "known_for_department": "Production",
+        "name": "Tim Scanlan",
+        "original_name": "Tim Scanlan",
+        "popularity": 0.486,
+        "profile_path": null,
+        "credit_id": "57a8b29792514177dc007302",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1237460,
+        "known_for_department": "Production",
+        "name": "Jae Marchant",
+        "original_name": "Jae Marchant",
+        "popularity": 0.3424,
+        "profile_path": null,
+        "credit_id": "57a88660925141777c0062ff",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237421,
+        "known_for_department": "Writing",
+        "name": "Brian Peterson",
+        "original_name": "Brian Peterson",
+        "popularity": 0.5042,
+        "profile_path": null,
+        "credit_id": "57a88292c3a3682617005c4b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1237420,
+        "known_for_department": "Writing",
+        "name": "Kelly Souders",
+        "original_name": "Kelly Souders",
+        "popularity": 0.3944,
+        "profile_path": null,
+        "credit_id": "52577533760ee36aaa50f1af",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1228529,
+        "known_for_department": "Directing",
+        "name": "James Marshall",
+        "original_name": "James Marshall",
+        "popularity": 0.6853,
+        "profile_path": "/6dexEtY8U7to4Z8KQeRgzIDYDme.jpg",
+        "credit_id": "5257752f760ee36aaa50eef0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53177,
+        "known_for_department": "Production",
+        "name": "Brian Robbins",
+        "original_name": "Brian Robbins",
+        "popularity": 1.0032,
+        "profile_path": "/sBHXouMBM9bon05a1Fy4QvBd11n.jpg",
+        "credit_id": "5257752e760ee36aaa50ee22",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17309,
+        "known_for_department": "Directing",
+        "name": "Greg Beeman",
+        "original_name": "Greg Beeman",
+        "popularity": 0.9399,
+        "profile_path": "/eMZIGB6jbIldPK4YyZ44uf7ZIGg.jpg",
+        "credit_id": "5257752e760ee36aaa50ed38",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1212141,
+        "known_for_department": "Production",
+        "name": "Joe Davola",
+        "original_name": "Joe Davola",
+        "popularity": 0.593,
+        "profile_path": null,
+        "credit_id": "5257752e760ee36aaa50edd4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53178,
+        "known_for_department": "Directing",
+        "name": "Michael Tollin",
+        "original_name": "Michael Tollin",
+        "popularity": 0.9063,
+        "profile_path": "/zZEUZh2Oh20wFBXaEfGvwqCBWmv.jpg",
+        "credit_id": "5257752e760ee36aaa50ed86",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20007,
+        "known_for_department": "Writing",
+        "name": "جيري سيغل",
+        "original_name": "Jerry Siegel",
+        "popularity": 1.7164,
+        "profile_path": "/tpkgpm3pHrkSNewoDasKz6Chpg4.jpg",
+        "credit_id": "597598cd92514157dd008458",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20008,
+        "known_for_department": "Writing",
+        "name": "جو شوستر",
+        "original_name": "Joe Shuster",
+        "popularity": 1.9315,
+        "profile_path": "/bb2RpPm1GZy45dxndVdlxNx7AvU.jpg",
+        "credit_id": "597598d8c3a3680cb7008fae",
+        "department": "Writing",
+        "job": "Characters"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/22kJFY1PBSWNsQ4dBJvaaBNgM62.jpg",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "id": 274875,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "트웰브",
+        "overview": "معركة ملحمية تندلع من جديد بين 12 ملاك وقوى الشر الساعية لإيقاظ قواها المكبّلة لغزو العالم الذي ضربته الفوضى.",
+        "popularity": 6.5526,
+        "poster_path": "/1e9Yv0ljhXAjP65V1QtAqXuKns7.jpg",
+        "first_air_date": "2025-08-23",
+        "softcore": false,
+        "name": "اثنا عشر",
+        "vote_average": 7.157,
+        "vote_count": 51
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fQs1GlpkJV9T17YlgIMPxzhZU7i.jpg",
+        "genre_ids": [
+          16,
+          10759
+        ],
+        "id": 91613,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "銀牙伝説ウィード",
+        "overview": "",
+        "popularity": 4.5003,
+        "poster_path": "/qRoO3GoLp3zuiBKjtFP1Sugg4KG.jpg",
+        "first_air_date": "2005-11-03",
+        "softcore": false,
+        "name": "銀牙伝説ウィード",
+        "vote_average": 8.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ky7IbwrjM4gmUPsPh4egXSBAYfL.jpg",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "id": 206476,
+        "origin_country": [
+          "IT"
+        ],
+        "original_language": "it",
+        "original_name": "Il mondo di Yor",
+        "overview": "",
+        "popularity": 1.1806,
+        "poster_path": "/Ai0APksjJNucsJbWaLywmbe9Bxg.jpg",
+        "first_air_date": "1983-07-01",
+        "softcore": false,
+        "name": "Il mondo di Yor",
+        "vote_average": 5,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "id": 121,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Doctor Who",
+        "overview": "",
+        "popularity": 102.0769,
+        "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+        "first_air_date": "1963-11-23",
+        "softcore": false,
+        "name": "Doctor Who",
+        "vote_average": 7.923,
+        "vote_count": 717
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jCXk0VvqiyulPBzHf1hDN1PK0mW.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "id": 126,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Unsolved Mysteries",
+        "overview": "",
+        "popularity": 18.9615,
+        "poster_path": "/1bOXbWqNsRU2ykPiE586I18coLf.jpg",
+        "first_air_date": "1988-10-05",
+        "softcore": false,
+        "name": "Unsolved Mysteries",
+        "vote_average": 7.699,
+        "vote_count": 153
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dlDynz58qyEqrd3gzxqfYB2JiUW.jpg",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "id": 184,
+        "origin_country": [
+          "CA",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Jeremiah",
+        "overview": "",
+        "popularity": 5.4251,
+        "poster_path": "/yBaq79cbv8Lmhaa7ej3z6GOp9zK.jpg",
+        "first_air_date": "2002-03-03",
+        "softcore": false,
+        "name": "Jeremiah",
+        "vote_average": 6.888,
+        "vote_count": 76
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3AObnfSKY8IyZblXVrv9bIBn2pd.jpg",
+        "genre_ids": [
+          10765,
+          16
+        ],
+        "id": 131,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Space Sentinels",
+        "overview": "",
+        "popularity": 4.0752,
+        "poster_path": "/pc4W8UW3hCbvSHrrbBFuCaGXhRu.jpg",
+        "first_air_date": "1977-09-10",
+        "softcore": false,
+        "name": "Space Sentinels",
+        "vote_average": 8.5,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q0bLjLCBZGhnMcRprx2gWRGdlrp.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          10751
+        ],
+        "id": 132,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Fantastic Four: World's Greatest Heroes",
+        "overview": "يخوض السيد فانتاستيك والمرأة الخفية والشعلة البشرية والشيء معارك ضد بعض من أعظم أعدائهم.",
+        "popularity": 7.8031,
+        "poster_path": "/isxbCuD1LEq0s574K53wmHQWrwQ.jpg",
+        "first_air_date": "2006-09-02",
+        "softcore": false,
+        "name": "المدهشون الأربعة",
+        "vote_average": 7.5,
+        "vote_count": 96
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q8Eiw6XBQ9urbaKmP9ChxkjOZmw.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10762
+        ],
+        "id": 216,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Duck Dodgers",
+        "overview": "",
+        "popularity": 20.7947,
+        "poster_path": "/d2PpdUKSTHSLsnlkScMyHkAxC2i.jpg",
+        "first_air_date": "2003-08-23",
+        "softcore": false,
+        "name": "Duck Dodgers",
+        "vote_average": 7.461,
+        "vote_count": 140
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qctEq0YR9onM1ZLBKSS1X73KoQ1.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 164,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Dark Skies",
+        "overview": "",
+        "popularity": 8.7442,
+        "poster_path": "/dtWcxTw4VGRyR7qNDlYFCdl5Q9.jpg",
+        "first_air_date": "1996-09-21",
+        "softcore": false,
+        "name": "Dark Skies",
+        "vote_average": 7.185,
+        "vote_count": 54
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/duSyAosVux4YgwJxbC9nRvxNFhL.jpg",
+        "genre_ids": [
+          10759,
+          10762,
+          10765
+        ],
+        "id": 274922,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "仮面ライダーBLACK RX",
+        "overview": "",
+        "popularity": 8.7574,
+        "poster_path": "/yVWzqaM9jBDFEqoGWYzmVJkQWC8.jpg",
+        "first_air_date": "1988-10-23",
+        "softcore": false,
+        "name": "仮面ライダーBLACK RX",
+        "vote_average": 9.125,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ketBtREiwFTMUlV9HqRmPxf6gT2.jpg",
+        "genre_ids": [
+          10765,
+          16
+        ],
+        "id": 196,
+        "origin_country": [
+          "GB",
+          "CA",
+          "ES"
+        ],
+        "original_language": "en",
+        "original_name": "Captain Star",
+        "overview": "",
+        "popularity": 2.2594,
+        "poster_path": "/w4Q0cfVPFHyvR5tEaoNwvppGGDK.jpg",
+        "first_air_date": "1997-07-08",
+        "softcore": false,
+        "name": "Captain Star",
+        "vote_average": 6.625,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cBJDOCMFAV4Ls8nZLRRj424RgID.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          10765,
+          10762
+        ],
+        "id": 203,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Sarah Jane Adventures",
+        "overview": "سارة جين سميث امرأة استثنائية حقًا، تعيش في عالمٍ مليء بالغموض والخطر والعجائب؛ عالمٌ تُعدّ فيه الكائنات الفضائية أمرًا شائعًا، والأرض فيه مُعرّضة لتهديدٍ دائم. عالمٌ لا تستطيع ماريا جاكسون، الفتاة العادية ظاهريًا، إلا أن تحلم به – إلى أن تنتقل للعيش في المنزل المجاور. لن يكون أي شيء عاديًا بعد الآن",
+        "popularity": 11.5707,
+        "poster_path": "/zeSqi1YmRn2qcAZLSiITj9P8Mva.jpg",
+        "first_air_date": "2007-09-24",
+        "softcore": false,
+        "name": "مغامرات سارة جين",
+        "vote_average": 7.1,
+        "vote_count": 116
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/adsc78pBssCRr3iTgzxgdCPI1v2.jpg",
+        "genre_ids": [
+          10751,
+          10765,
+          35,
+          18
+        ],
+        "id": 155,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "3rd Rock from the Sun",
+        "overview": "",
+        "popularity": 28.1524,
+        "poster_path": "/sUB4lZghNnwQywKqgjIfJsyBqI2.jpg",
+        "first_air_date": "1996-01-09",
+        "softcore": false,
+        "name": "3rd Rock from the Sun",
+        "vote_average": 7.508,
+        "vote_count": 580
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/56EA7Ex9vzg6MbeV2rVhx6QKMgI.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10762
+        ],
+        "id": 160,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Teenage Mutant Ninja Turtles",
+        "overview": "",
+        "popularity": 36.8048,
+        "poster_path": "/iwmUWYL7z8oHcQ6pOLwzZahMDzm.jpg",
+        "first_air_date": "1987-12-14",
+        "softcore": false,
+        "name": "سلاحف النينجا",
+        "vote_average": 7.758,
+        "vote_count": 861
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gH5HQbMsSfPc0R41JYTefjB7klZ.jpg",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "id": 314,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Star Trek: Enterprise",
+        "overview": "",
+        "popularity": 49.9293,
+        "poster_path": "/tsbBTABtNgu0ycsFpnIhiQ5woOM.jpg",
+        "first_air_date": "2001-09-26",
+        "softcore": false,
+        "name": "Star Trek: Enterprise",
+        "vote_average": 7.495,
+        "vote_count": 983
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ywK4VrR7vL56mDGXDLMtFypwqA8.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 253,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Star Trek",
+        "overview": "",
+        "popularity": 78.6991,
+        "poster_path": "/f2wbC7fxiOJqzTb6HPr4N6bsjLF.jpg",
+        "first_air_date": "1966-09-08",
+        "softcore": false,
+        "name": "Star Trek",
+        "vote_average": 7.992,
+        "vote_count": 1553
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q11VPQ7tkWYel77Q2ZvWwkUDEmW.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10751,
+          10762
+        ],
+        "id": 91656,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Twelve Forever",
+        "overview": "",
+        "popularity": 3.9232,
+        "poster_path": "/xJocMECVkXeBw0gRyjE5FEeiAmT.jpg",
+        "first_air_date": "2019-07-29",
+        "softcore": false,
+        "name": "Twelve Forever",
+        "vote_average": 6.72,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4yqH859U1oklGm4O5mFhrmtabKL.jpg",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "id": 236,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Flash",
+        "overview": "",
+        "popularity": 10.4724,
+        "poster_path": "/fi1GEdCbyWRDHpyJcB25YYK7fh4.jpg",
+        "first_air_date": "1990-09-20",
+        "softcore": false,
+        "name": "The Flash",
+        "vote_average": 7.446,
+        "vote_count": 532
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w6mvtiWPuzfV5lPJAXA2sQ8xqBL.jpg",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "id": 237,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Mortal Kombat: Conquest",
+        "overview": "",
+        "popularity": 7.6339,
+        "poster_path": "/4NvMgESPMT1Tl1qLP2TnNP4pcvX.jpg",
+        "first_air_date": "1998-10-03",
+        "softcore": false,
+        "name": "Mortal Kombat: Conquest",
+        "vote_average": 7.064,
+        "vote_count": 352
+      }
+    ],
+    "total_pages": 3117,
+    "total_results": 62335
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/lpItdOGWnECp6CSzTnXldQ6uY2B.jpg",
+        "id": 71340,
+        "name": "Krypton",
+        "original_name": "Krypton",
+        "overview": "Set two generations before the destruction of the legendary Man of Steel’s home planet, Krypton follows Superman’s grandfather — whose House of El was ostracized and shamed — as he fights to redeem his family’s honor and save his beloved world from chaos.",
+        "poster_path": "/kMMWb4zIZKBnO3lOpVBXCL1BeNI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 20.2348,
+        "first_air_date": "2018-03-21",
+        "softcore": false,
+        "vote_average": 7.115,
+        "vote_count": 508,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kv0vCJOoGyWQdDPK9vFnyvqqDHt.jpg",
+        "id": 71663,
+        "name": "البرق اﻷسود",
+        "original_name": "Black Lightning",
+        "overview": "يعود \"جيفرسون بيرس\" مدير المدرسة والبطل الخارق المتقاعد لمواجهة الخطر في رداء \"بلاك لايتنينغ\" الأسطوري بعد أن هدّدت إحدى العصابات أسرته.",
+        "poster_path": "/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 26.2298,
+        "first_air_date": "2018-01-16",
+        "softcore": false,
+        "vote_average": 6.914,
+        "vote_count": 977,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zoetbPF7jYY0jjY5js3x6r1QjSW.jpg",
+        "id": 1639,
+        "name": "Heroes",
+        "original_name": "Heroes",
+        "overview": "Common people discover that they have super powers. Their lives intertwine as a devastating event must be prevented.",
+        "poster_path": "/lf0TcOkheYUZKpeh7c8lqJHNk5O.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 55.6628,
+        "first_air_date": "2006-09-25",
+        "softcore": false,
+        "vote_average": 7.443,
+        "vote_count": 2661,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4amkATUf2mh5QL9OQ3WmHQqx9wk.jpg",
+        "id": 66190,
+        "name": "Marvel's Cloak & Dagger",
+        "original_name": "Marvel's Cloak & Dagger",
+        "overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
+        "poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 10.014,
+        "first_air_date": "2018-06-07",
+        "softcore": false,
+        "vote_average": 7.075,
+        "vote_count": 681,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8vNQ3i2Xa3mrCKn6eq2ce5hhegT.jpg",
+        "id": 89247,
+        "name": "بات ومن",
+        "original_name": "Batwoman",
+        "overview": "متسلحه بشغف كبير للعدالة الاجتماعية لتقول دائمًا ما تفكر به، تشتهر كيت كين في شوارع قوثام باسم - بات ومن - وهي مثليه متدربة تدريباً عالياً على مكافحة الجريمة التي تطفو على سطح المدينة. ومع ذلك، قبل أن تصبح منقذه، يجب عليها محاربة الشياطين التي تمنعها من أن تكون رمزًا لأمل مدينة فاسدة.",
+        "poster_path": "/iQyJp4kbm5PJBcKKnRPButOCv4O.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 13.4644,
+        "first_air_date": "2019-10-06",
+        "softcore": false,
+        "vote_average": 6.825,
+        "vote_count": 1606,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iWopHyAvuIDjGX10Yc3nn6UEebW.jpg",
+        "id": 1403,
+        "name": "مارفيل: عملاء شيلد",
+        "original_name": "Marvel's Agents of S.H.I.E.L.D.",
+        "overview": "العميل فيل كولسون من S.H.I.E.L.D. (قسم التدخل الداخلي والإنفاذ واللوجستيات الاستراتيجي) يجمع فريقًا من العملاء للتحقيق في الجديد، الغريب والمجهول في جميع أنحاء العالم، يحمي العادي من غير العادي.",
+        "poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 62.3559,
+        "first_air_date": "2013-09-24",
+        "softcore": false,
+        "vote_average": 7.487,
+        "vote_count": 3889,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sSJZVwCS0tFzcLSaQOjLpv5mFau.jpg",
+        "id": 79501,
+        "name": "دوامة الموت",
+        "original_name": "Doom Patrol",
+        "overview": "عانى أعضاء دوامة الموت من حوادث مروعة أعطتهم قدرات فائقة، لكنها تركتهم مشوهين. وقد وجد الفريق، المصابين بالصدمة والضطهاد، غرضاً من خلال - ذا تشيف - الذي جمعهم معاً للتحقيق في أغرب الظواهر الموجودة - ولحماية الأرض مما يعثرون عليه.",
+        "poster_path": "/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 26.5645,
+        "first_air_date": "2019-02-15",
+        "softcore": false,
+        "vote_average": 7.483,
+        "vote_count": 1487,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fjrye2LYD8fu4tuaQdZCrkTbGVe.jpg",
+        "id": 79340,
+        "name": "The Outpost",
+        "original_name": "The Outpost",
+        "overview": "Talon, the lone survivor of a race called the Blackbloods, sets off to the edge of civilisation to track her family's killers. On her journey she discovers she has supernatural powers which she must learn to harness in order to achieve her goals.",
+        "poster_path": "/pqHFkhlO4xRRNOzWEEl3yV9KXiu.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 13.751,
+        "first_air_date": "2018-07-10",
+        "softcore": false,
+        "vote_average": 7.457,
+        "vote_count": 282,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
+        "id": 95557,
+        "name": "المنيع",
+        "original_name": "INVINCIBLE",
+        "overview": "مارك غرايسون مراهق عادي يبلغ من العمر 17 عامًا، لكن حياته تتغير عندما يرث قوى خارقة من والده نولان، المعروف باسم أومني مان، أحد أقوى الأبطال الخارقين على الأرض. يبدأ مارك في اكتشاف قدراته وتعلم كيفية استخدامها، بينما يحاول الموازنة بين حياته كطالب وعائلته ودوره الجديد كبطل خارق. ومع ظهور تهديدات خطيرة وكشف أسرار صادمة عن والده، يجد مارك نفسه أمام صراعات تتجاوز حدود الأرض، ويضطر إلى مواجهة أعداء أقوياء واختبار معنى أن يكون بطلًا حقيقيًا.",
+        "poster_path": "/pKf7GfJcuU4ypEUjGnts2D83oqL.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 61.7173,
+        "first_air_date": "2021-03-25",
+        "softcore": false,
+        "vote_average": 8.632,
+        "vote_count": 6053,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
+        "id": 76479,
+        "name": "الرفاق",
+        "original_name": "The Boys",
+        "overview": "يعيش هيوي كامبل حياة هادئة إلى أن يفقد الشخص الذي يحبه في حادث مأساوي يتسبب فيه أحد الأبطال الخارقين، فيكتشف أن أصحاب القدرات الخارقة ليسوا أبطالًا مثاليين كما يعتقد الناس. يلتقي هيوي ببيلي بوتشر، الذي يقوده إلى مجموعة سرية تُعرف باسم الرفاق، مهمتها كشف فساد الأبطال الخارقين ومحاسبتهم. وفي الجهة الأخرى، يواجه هوملاندر ضغوطًا متزايدة للحفاظ على صورته المثالية أمام الجمهور. ومع تصاعد المواجهة بين الطرفين، تنكشف أسرار خطيرة تهدد بتغيير عالم الأبطال الخارقين بالكامل.",
+        "poster_path": "/l1S7IHu5S4VyYpP0Z4lh6MLfK6g.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 105.2921,
+        "first_air_date": "2019-07-25",
+        "softcore": false,
+        "vote_average": 8.435,
+        "vote_count": 13388,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gHJhN9AJV4PmJ7YpLFa9ldDWuG8.jpg",
+        "id": 75006,
+        "name": "The Umbrella Academy",
+        "original_name": "The Umbrella Academy",
+        "overview": "يكشف أشقاء متباعدون يمتلكون قوًى خارقة عن أسرار العائلة الصادمة، وعن خطر تلوح نُذره على البشرية، بعدما جمعتهم وفاة أبيهم.",
+        "poster_path": "/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 29.4663,
+        "first_air_date": "2019-02-15",
+        "softcore": false,
+        "vote_average": 8.456,
+        "vote_count": 10120,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2t9ROV4QPkJF7iBAW8z0ReqDUoB.jpg",
+        "id": 67195,
+        "name": "ليجون",
+        "original_name": "Legion",
+        "overview": "بعدما أقضّت مضجعه رؤى مزعجة، يبدأ \"ديفيد هالر\" الشاب في جمع ذكرياته المُبعثرة معًا ويدرك أنه قد يمتلك قوًى خاصة خارقة.",
+        "poster_path": "/xhJtYVTsdXQCIlB5hAXkMCPUG9y.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 15.8675,
+        "first_air_date": "2017-02-08",
+        "softcore": false,
+        "vote_average": 7.517,
+        "vote_count": 1595,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qCReQONjNVaW4QFN2V5vCOzPvex.jpg",
+        "id": 88987,
+        "name": "Helstrom",
+        "original_name": "Helstrom",
+        "overview": "Daimon and Ana Helstrom are the son and daughter of a mysterious and powerful serial killer. The siblings have a complicated dynamic as they track down the terrorizing worst of humanity — each with their attitude and skills.",
+        "poster_path": "/5QmcKsepYpO9XYsWNLwsiULoaAu.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 7.5151,
+        "first_air_date": "2020-10-16",
+        "softcore": false,
+        "vote_average": 6.694,
+        "vote_count": 252,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lUincM93AWXWQbq0Y3PIKu10HEL.jpg",
+        "id": 34967,
+        "name": "Falling Skies",
+        "original_name": "Falling Skies",
+        "overview": "Falling Skies opens in the chaotic aftermath of an alien attack that has left most of the world completely incapacitated. In the six months since the initial invasion, the few survivors have banded together outside major cities to begin the difficult task of fighting back. Each day is a test of survival as citizen soldiers work to protect the people in their care while also engaging in an insurgency campaign against the occupying alien force.",
+        "poster_path": "/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 37.7618,
+        "first_air_date": "2011-06-19",
+        "softcore": false,
+        "vote_average": 7.122,
+        "vote_count": 1384,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zW0v2YT74C6tRafzqqBkfSqLAN0.jpg",
+        "id": 52814,
+        "name": "هالو",
+        "original_name": "Halo",
+        "overview": "يصور المسلسل صراعًا ملحميًا في القرن السادس والعشرين بين البشرية وتهديدًا فضائيًا يُعرف باسم العهد ، حيث ينسج المسلسل قصصًا شخصية مرسومة بعمق بالحركة والمغامرة ورؤية غنية بالتخيل للمستقبل.",
+        "poster_path": "/rKlAQe02AUrwDqzfSGbLnwoNHPJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 30.4159,
+        "first_air_date": "2022-03-24",
+        "softcore": false,
+        "vote_average": 8.192,
+        "vote_count": 3261,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lodNd9ITHf32q8ybHArHqoWOcXf.jpg",
+        "id": 85949,
+        "name": "ستار تريك: بيكارد",
+        "original_name": "Star Trek: Picard",
+        "overview": "مرت سنوات عديدة منذ زوال - داتا - وبعد تدمير رومولوس وسحب دعم الاتحاد لإخلائه، استقال جان لوك بيكارد من ستارفليت احتجاجًا على ذلك.",
+        "poster_path": "/nIlAKIrLKxOeoEnc0Urb65yNCp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 34.2532,
+        "first_air_date": "2020-01-23",
+        "softcore": false,
+        "vote_average": 7.233,
+        "vote_count": 1946,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p4zxZJCQNTPYlMok9MCU4ai2gOf.jpg",
+        "id": 60611,
+        "name": "Believe",
+        "original_name": "Believe",
+        "overview": "Believe is about an unlikely relationship between a gifted young girl and a man sprung from prison, who has been tasked with protecting her from the evil elements that hunt her power.",
+        "poster_path": "/1h1txgv70Rl0b4OrNIJi6korazk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 8.3072,
+        "first_air_date": "2014-03-10",
+        "softcore": false,
+        "vote_average": 6.781,
+        "vote_count": 180,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aBES9VQIw3YwPXhVw3XLZtK4Eeq.jpg",
+        "id": 78670,
+        "name": "Impulse",
+        "original_name": "Impulse",
+        "overview": "16-year-old Henry Coles is an outsider in her new town of Reston, New York. With a major chip on her shoulder and no friends, she remains withdrawn and isolated, but everything changes when a traumatic encounter with a classmate triggers something deep within Henry— unleashing a power she cannot control.",
+        "poster_path": "/sMZMj1gCDZA9eZzHpEmDMpQ0Iur.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 9.9763,
+        "first_air_date": "2018-06-06",
+        "softcore": false,
+        "vote_average": 7.626,
+        "vote_count": 310,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
+        "id": 62643,
+        "name": "DC's Legends of Tomorrow",
+        "original_name": "DC's Legends of Tomorrow",
+        "overview": "عندما الأبطال لا يكفون لوحدهم … العالم بحاجة الأساطير. بعد أن شاهدوا  المستقبل، وقرروا انهم سوف يحاولون جاهدين لمنع حدوث ذلك ، يتم تكليف مسافر  عبر زمن ومانع للكوارث (ريب هانتر ) ان يعمل بتجميع مجموعة متباينة من كل  من الأبطال و الأشرار لمواجهة هذا  التهديد الذي لا يمكن وقفها – وليس فقط  كوكب الأرض في خطر ، ولكن الوقت نفسه في خطر . فهل يمكن لهذا الفريق هزيمة  تهديد الشرير الخالد والذي على عكس أي شيء شاهدوا من قبل ؟",
+        "poster_path": "/qNgAcg4gNYbZ9mySLB9ZX4ehZb6.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 56.129,
+        "first_air_date": "2016-01-21",
+        "softcore": false,
+        "vote_average": 7.246,
+        "vote_count": 2515,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nYxqUQaYGUv3pgMfe9BQ2WtUMQu.jpg",
+        "id": 86423,
+        "name": "Locke & Key",
+        "original_name": "Locke & Key",
+        "overview": "ينتقل ثلاثة أشقّاء مع والدتهم إلى منزل أسلافهم بعد مقتل والدهم، حيث يعثرون على مفاتيح سحريّة تمتلك قوًى خارقة، وتكشف عن أسرار خفيّة.",
+        "poster_path": "/zuxGfRKziGHPogipnEXXykdDmyT.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 19.1701,
+        "first_air_date": "2020-02-07",
+        "softcore": false,
+        "vote_average": 7.737,
+        "vote_count": 1502,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 25,
+    "total_results": 497
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 12
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 151
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 152
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 69
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 91
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 92
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 103
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BF": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 80
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 25
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 10
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 91
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 109
+          }
+        ]
+      },
+      "CD": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 76
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 69
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 217
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 218
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 11
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/g8P4BJ2Wrya0VkbGUxBoUqpXtSs.png",
+            "provider_id": 1967,
+            "provider_name": "Molotov TV",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 85
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/9o7nQnmlVE94XqPcMhVPGycatxU.png",
+            "provider_id": 147,
+            "provider_name": "M6+",
+            "display_priority": 23
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=GB",
+        "ads": [
+          {
+            "logo_path": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+            "provider_id": 41,
+            "provider_name": "ITVX",
+            "display_priority": 22
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+            "provider_id": 2300,
+            "provider_name": "ITVX Premium",
+            "display_priority": 113
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=IE",
+        "buy": [
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 71
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 87
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=JP",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 9
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/mrzVKXhM1vryerBWd65emU9TfUm.png",
+            "provider_id": 2284,
+            "provider_name": "HBO Max on U-Next",
+            "display_priority": 28
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 12
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MW": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 70
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 14
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=PG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 30
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 11
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 13
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "VA": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=VA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/tv/4604-smallville/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      }
+    }
+  }
+}

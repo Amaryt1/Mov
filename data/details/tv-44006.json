@@ -1,0 +1,3743 @@
+{
+  "adult": false,
+  "backdrop_path": "/14LzHqJrFcHk7ruMNCXpEkB0Thg.jpg",
+  "created_by": [
+    {
+      "id": 8161,
+      "credit_id": "54435d6ec3a3683df2004048",
+      "name": "ديريك هاس",
+      "original_name": "Derek Haas",
+      "gender": 2,
+      "profile_path": "/a2kkIGmfxO45TrFgvARHi8rCqlQ.jpg"
+    },
+    {
+      "id": 7865,
+      "credit_id": "54435d7ac3a3683df7003f44",
+      "name": "Michael Brandt",
+      "original_name": "Michael Brandt",
+      "gender": 2,
+      "profile_path": "/13p3xvGWhCbSNgv9S2DiBcPnoWQ.jpg"
+    }
+  ],
+  "episode_run_time": [
+    42
+  ],
+  "first_air_date": "2012-10-10",
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "http://www.nbc.com/chicago-fire",
+  "id": 44006,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-13",
+  "last_episode_to_air": {
+    "id": 7083173,
+    "name": "الحلقة 21",
+    "overview": "",
+    "vote_average": 7.7,
+    "vote_count": 3,
+    "air_date": "2026-05-13",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 14,
+    "show_id": 44006,
+    "still_path": "/4xeSuiLkMREdyzJswJkIYMo7gG5.jpg"
+  },
+  "name": "شيكاغو فاير",
+  "next_episode_to_air": {
+    "id": 7420740,
+    "name": "الحلقة 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-07",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 15,
+    "show_id": 44006,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 296,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Chicago Fire",
+  "overview": "يتناول العمل قصة حياة مجموعة من رجال اﻹطفاء، في قسم مكافحة الحرائق بشيكاغو، والصعاب التي يواجهونها يوميًا، بالإضافة إلى علاقتهم ببعضهم البعض، والتي يشوبها العديد من التغيرات.",
+  "popularity": 120.7462,
+  "poster_path": "/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
+  "production_companies": [
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-02-11",
+      "episode_count": 1,
+      "id": 203963,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/bXsGNwm5702NN7q5satF71aHBDM.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-10",
+      "episode_count": 24,
+      "id": 53207,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/fTVZTV41lI9EFPTEjwRBmierHUE.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2013-09-24",
+      "episode_count": 22,
+      "id": 53209,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/wqsi6oKOc8hGA8153pJEM5Pc9jQ.jpg",
+      "season_number": 2,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2014-09-23",
+      "episode_count": 23,
+      "id": 62049,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/28WoFa8Fqc2g8kAWGTCoe7xhfEI.jpg",
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2015-10-13",
+      "episode_count": 23,
+      "id": 71116,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/xiK4j8nYKn1J6XF9BQTPMnnw9u3.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2016-10-11",
+      "episode_count": 22,
+      "id": 79977,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/mBnkMUXCNpHbMS3cVAxxduzK8QU.jpg",
+      "season_number": 5,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2017-09-28",
+      "episode_count": 23,
+      "id": 91758,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/cGnO7EgUtA0iCChGRp7nmV4gCwv.jpg",
+      "season_number": 6,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2018-09-26",
+      "episode_count": 22,
+      "id": 105455,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/pvM5Jjq8naDLLWe1Q3y7E5kGq7X.jpg",
+      "season_number": 7,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2019-09-25",
+      "episode_count": 20,
+      "id": 126164,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/ayxFXKJ5P2C3giEr9Kr6SbrdnwR.jpg",
+      "season_number": 8,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2020-11-11",
+      "episode_count": 16,
+      "id": 160633,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/6AccYL0eb7uzHn98IKaNjvJbyuA.jpg",
+      "season_number": 9,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2021-09-22",
+      "episode_count": 22,
+      "id": 202463,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/yrV8eSwhCkMAJVZUK65PXTfYOqq.jpg",
+      "season_number": 10,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2022-09-21",
+      "episode_count": 22,
+      "id": 299104,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/iiI1YU8akLYWdWuX1qHuMYPvSHC.jpg",
+      "season_number": 11,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2024-01-17",
+      "episode_count": 13,
+      "id": 366615,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/2yaeYNplMuLGNjBigMFsek7UZmq.jpg",
+      "season_number": 12,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2024-09-25",
+      "episode_count": 22,
+      "id": 401568,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/8IN24YxfyHMBhY1RNw7ctGUZ1JI.jpg",
+      "season_number": 13,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2025-10-01",
+      "episode_count": 21,
+      "id": 467368,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
+      "season_number": 14,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2026-10-07",
+      "episode_count": 1,
+      "id": 524275,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/aQX9liZ9ppjLfKM4rEzto15lCYd.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.409,
+  "vote_count": 2436,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 210271,
+        "known_for_department": "Acting",
+        "name": "Taylor Kinney",
+        "original_name": "Taylor Kinney",
+        "popularity": 2.5198,
+        "profile_path": "/lOYVNwhlvah02OnrGIZkFpyr4Wf.jpg",
+        "character": "Kelly Severide",
+        "credit_id": "52596688760ee346619b9b85",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27552,
+        "known_for_department": "Acting",
+        "name": "David Eigenberg",
+        "original_name": "David Eigenberg",
+        "popularity": 2.0198,
+        "profile_path": "/3JOY715n7Low0Y1a9YZAzhNjvZM.jpg",
+        "character": "Christopher Herrmann",
+        "credit_id": "54314a8f0e0a2646490033f0",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 36091,
+        "known_for_department": "Acting",
+        "name": "Christian Stolte",
+        "original_name": "Christian Stolte",
+        "popularity": 1.5488,
+        "profile_path": "/hE460cJmuckGHWKGdSgmPxD9ixY.jpg",
+        "character": "Randy 'Mouch' McHolland",
+        "credit_id": "5259668a760ee346619b9c6d",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1525940,
+        "known_for_department": "Acting",
+        "name": "Miranda Rae Mayo",
+        "original_name": "Miranda Rae Mayo",
+        "popularity": 2.0384,
+        "profile_path": "/dvCagUBHBNGwsozC8KS3tFPtCcj.jpg",
+        "character": "Stella Kidd",
+        "credit_id": "57eb3bb2c3a36837fe000e05",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2317307,
+        "known_for_department": "Acting",
+        "name": "Hanako Greensmith",
+        "original_name": "Hanako Greensmith",
+        "popularity": 1.0584,
+        "profile_path": "/bm5JcCwJpTfyGlJQxx6wZysKu2n.jpg",
+        "character": "Violet Mikami",
+        "credit_id": "60103c1db2e07400400b5f9a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1522345,
+        "known_for_department": "Acting",
+        "name": "Jocelyn Hudon",
+        "original_name": "Jocelyn Hudon",
+        "popularity": 1.8362,
+        "profile_path": "/quI2sUAc3opQ3Bb2H2OMHEMchGf.jpg",
+        "character": "Paramedic Lyla 'Lizzie' Novak",
+        "credit_id": "665d3f08e35dd816646fb9bb",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1994105,
+        "known_for_department": "Acting",
+        "name": "Da'Vinchi",
+        "original_name": "Da'Vinchi",
+        "popularity": 0.9961,
+        "profile_path": "/9CHXT3NKUZDPUyNMkwDj5zLMUTT.jpg",
+        "character": "Marcus Burke",
+        "credit_id": "6a6a7ce4f7b77936e827d772",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1272291,
+        "known_for_department": "Acting",
+        "name": "Matthew Daddario",
+        "original_name": "Matthew Daddario",
+        "popularity": 1.8884,
+        "profile_path": "/s3y6xA1U8rJCcw4KmBv5xjjHJ7w.jpg",
+        "character": "",
+        "credit_id": "6a8e4adf354b0be7b2e05012",
+        "order": 23
+      }
+    ],
+    "crew": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/oF4vSGnXIPcRUpCSsYOIVQFQnco.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 30286,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Big Easy",
+        "overview": "",
+        "popularity": 5.4695,
+        "poster_path": "/2w2KcR741vJsxqMQag6C4hnWw0l.jpg",
+        "first_air_date": "1996-08-11",
+        "softcore": false,
+        "name": "The Big Easy",
+        "vote_average": 9,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5gS8wSehHMBdAIErIj2nP6Hdg6M.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 93152,
+        "origin_country": [
+          "HK"
+        ],
+        "original_language": "cn",
+        "original_name": "廉政行動2019",
+        "overview": "",
+        "popularity": 2.5022,
+        "poster_path": "/2b2ccndz6XwWhG6kpI5IZYpWGIN.jpg",
+        "first_air_date": "2019-03-23",
+        "softcore": false,
+        "name": "廉政行動2019",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aSye04zKzWtUP3U6Cl4bOXc5Ih9.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 1911,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bones",
+        "overview": "تدور أحداثه حول مجموعة من الجرائم، حيث يقوم مجموعة من المحققين الفيدراليين بالتحقيق في كل جرائم القتل، ودراسة تفاصيلها الدقيقة، ويكتشفوا سبب القتل عن طريق عظام الضحايا.",
+        "popularity": 130.7207,
+        "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+        "first_air_date": "2005-09-13",
+        "softcore": false,
+        "name": "عظام",
+        "vote_average": 8.176,
+        "vote_count": 3581
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nGdcSYIgYaMSjqMu7CYAW025ygi.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 1937,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Baywatch Nights",
+        "overview": "",
+        "popularity": 18.4229,
+        "poster_path": "/3UVQpYZ65r855CttLRCov8SKqBB.jpg",
+        "first_air_date": "1995-09-30",
+        "softcore": false,
+        "name": "Baywatch Nights",
+        "vote_average": 6.186,
+        "vote_count": 43
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fHG12iJ6OdmOFXnGcBO9CCSdR9c.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 208270,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "火线出击",
+        "overview": "",
+        "popularity": 2.3985,
+        "poster_path": "/cB4weuBYvE6znY9uquMOM5pkfNu.jpg",
+        "first_air_date": "2017-02-27",
+        "softcore": false,
+        "name": "火线出击",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6K7ufYt6v4Ww2LfPXkVtYE27FGP.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 60796,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Stalker",
+        "overview": "",
+        "popularity": 8.1428,
+        "poster_path": "/pHw8OgL3U7Ys8D8hlbOnlgH7ExM.jpg",
+        "first_air_date": "2014-10-01",
+        "softcore": false,
+        "name": "Stalker",
+        "vote_average": 6.7,
+        "vote_count": 157
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tCjXy1iCsr2BVlNczafnkZ40LPn.jpg",
+        "genre_ids": [
+          18,
+          80,
+          10765
+        ],
+        "id": 60866,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "iZombie",
+        "overview": "تحاول طالبة طب تحولت إلى زومبي الحفاظ على إنسانيتها عبر تناول الأدمغة في المشرحة، وتكتشف أنها اكتسبت موهبة جديدة خارقة لحل الجرائم.",
+        "popularity": 29.681,
+        "poster_path": "/q4nqNwAhzVR7JuYctrWJvUWz3xR.jpg",
+        "first_air_date": "2015-03-17",
+        "softcore": false,
+        "name": "iZombie",
+        "vote_average": 7.794,
+        "vote_count": 2967
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 2458,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "CSI: NY",
+        "overview": "",
+        "popularity": 58.0396,
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "first_air_date": "2004-09-22",
+        "softcore": false,
+        "name": "CSI: NY",
+        "vote_average": 7.32,
+        "vote_count": 774
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hpEz9LVpzXTV6o1ZVi120WyTQSJ.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 2343,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Lewis",
+        "overview": "",
+        "popularity": 31.5383,
+        "poster_path": "/etyCA64joFB2jGJFWZPUYczVbvf.jpg",
+        "first_air_date": "2007-02-18",
+        "softcore": false,
+        "name": "Lewis",
+        "vote_average": 7.6,
+        "vote_count": 121
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1fLufp1ZI2cofG4rV2xYYk4ahSS.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 2406,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Crossing Jordan",
+        "overview": "",
+        "popularity": 49.1639,
+        "poster_path": "/bywFoHoLZvW2vxDc7n4ToAKkR0y.jpg",
+        "first_air_date": "2001-09-24",
+        "softcore": false,
+        "name": "Crossing Jordan",
+        "vote_average": 7.176,
+        "vote_count": 165
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zG1K7njAaHcLElUKqNRqmVEbXdh.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 61244,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Happy Valley",
+        "overview": "",
+        "popularity": 11.9231,
+        "poster_path": "/xZK5iQSrn2mouZEk2PwyLPCwa4u.jpg",
+        "first_air_date": "2014-04-29",
+        "softcore": false,
+        "name": "Happy Valley",
+        "vote_average": 7.9,
+        "vote_count": 416
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3qaIDtU8gtHBj4m2K4s4upMrplG.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 2583,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Prime Suspect",
+        "overview": "",
+        "popularity": 16.7036,
+        "poster_path": "/vhlbnMgz9hBouXWmxBS2RjFC03S.jpg",
+        "first_air_date": "1991-04-07",
+        "softcore": false,
+        "name": "Prime Suspect",
+        "vote_average": 7.835,
+        "vote_count": 103
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2ECsYV9dRb0YKF0stV7fzB4mX3y.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 61448,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Suspects",
+        "overview": "",
+        "popularity": 5.6251,
+        "poster_path": "/yak88sPje9rEc8pHHE8dGIjg19f.jpg",
+        "first_air_date": "2014-02-12",
+        "softcore": false,
+        "name": "Suspects",
+        "vote_average": 5.565,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/teYN6NiaRWm2opLrNyPOfd8rjcp.jpg",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "id": 61537,
+        "origin_country": [
+          "IE"
+        ],
+        "original_language": "en",
+        "original_name": "Amber",
+        "overview": "",
+        "popularity": 3.1201,
+        "poster_path": "/2wOZRusimaAveuhylkgy5FGo3YV.jpg",
+        "first_air_date": "2014-01-19",
+        "softcore": false,
+        "name": "Amber",
+        "vote_average": 5.727,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 2733,
+        "origin_country": [
+          "US",
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "In a Heartbeat",
+        "overview": "",
+        "popularity": 2.563,
+        "poster_path": "/mF3CtiXva6jZ8qnGAbOaU1lOQrz.jpg",
+        "first_air_date": "2000-08-26",
+        "softcore": false,
+        "name": "In a Heartbeat",
+        "vote_average": 8,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gEEp2TJC8gLVzLmdR8m7dxgPB3p.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          35
+        ],
+        "id": 61387,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "NCIS: New Orleans",
+        "overview": "يحقق المكتب الميداني بقيادة العميل الخاص دواين برايد فى الجرائم التى تورط فيها عسكريون حيث تدور اﻷحداث في مدينة تتميز بالموسيقي والمتعة ونابضة بالحيوية وبرغم ذلك تحدث فيها الكثير من الجرائم .",
+        "popularity": 61.178,
+        "poster_path": "/1WJJUUZODmRTcFydLDBUtiztL6x.jpg",
+        "first_air_date": "2014-09-23",
+        "softcore": false,
+        "name": "NCIS: New Orleans",
+        "vote_average": 7.288,
+        "vote_count": 478
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e014XdmeBhOsouYYRUzAY05dBKQ.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 2651,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Profiler",
+        "overview": "",
+        "popularity": 22.2687,
+        "poster_path": "/rZPFS2CRMZOy2LV4hE64KBxAbGg.jpg",
+        "first_air_date": "1996-09-21",
+        "softcore": false,
+        "name": "Profiler",
+        "vote_average": 7.034,
+        "vote_count": 74
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sgUyMqtDUdUYyatmAdwaLvLTOch.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 938,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Gabriel's Fire",
+        "overview": "",
+        "popularity": 4.8066,
+        "poster_path": "/6HZEkhJTZrXQaAiMVq8krPiEgsq.jpg",
+        "first_air_date": "1990-09-12",
+        "softcore": false,
+        "name": "Gabriel's Fire",
+        "vote_average": 6.875,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sA75aetDQryaJej3I8Vw44E3dxG.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "id": 59312,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Bletchley Circle",
+        "overview": "",
+        "popularity": 5.2459,
+        "poster_path": "/1BUErHvxmwmuxPhBBsL3gNDu0oF.jpg",
+        "first_air_date": "2012-09-06",
+        "softcore": false,
+        "name": "The Bletchley Circle",
+        "vote_average": 7.614,
+        "vote_count": 149
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7LMnV3ZnaXckXRcOrhVODnXKPgi.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 92308,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "情有千千劫",
+        "overview": "",
+        "popularity": 2.1755,
+        "poster_path": "/7VyeLer8sGo4RU1c5X4r5ZU0GYp.jpg",
+        "first_air_date": "2002-07-12",
+        "softcore": false,
+        "name": "情有千千劫",
+        "vote_average": 9,
+        "vote_count": 2
+      }
+    ],
+    "total_pages": 2637,
+    "total_results": 52723
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+        "id": 58841,
+        "name": "شيكاغو بي.دي.",
+        "original_name": "Chicago P.D.",
+        "overview": "تدور أحداث المسلسل عن (مقاطعة 21) التي تجاور قسم شرطة (شيكاجو)، وهى المقاطعة التي تتألف من مجموعتين مختلفتين، الأولى منهما تتمثل في رجال شرطة بزيهم الرسمي، والثانية هي وحدة الاستخبارات.",
+        "poster_path": "/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 111.7367,
+        "first_air_date": "2014-01-08",
+        "softcore": false,
+        "vote_average": 8.424,
+        "vote_count": 2628,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nz6vpYyN1pEwBYeoAVIu2316d0z.jpg",
+        "id": 69158,
+        "name": "The Good Fight",
+        "original_name": "The Good Fight",
+        "overview": "تبدأ أحداث هذا المسلسل بعد مرور عام واحد من أحداث الحلقة الأخيرة من مسلسل \"الزوجة الصالحة\" / The Good Wife، حيث تتسبب عملية احتيال مالي ضخمة في تقويض سمعة المحامية الشابة \"مايا ريندل\" واستنفاد مدخرات عرابتها ومرشدتها \"ديان لوكهارت\"، لتضطر المحاميتان مكرهتين إلى مغادرة شركة \"لوكهارات\" و\"لي\" والانضمام إلى \"لوكا كوين\" في إحدى شركات المحاماة البارزة في \"شيكاغو\".",
+        "poster_path": "/8qoOHOfbUbrCcHZnDVxGcwOWinV.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 31.2699,
+        "first_air_date": "2017-02-19",
+        "softcore": false,
+        "vote_average": 7.571,
+        "vote_count": 351,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bmPIJET1BbQqvUEYSfjdz0BxGRR.jpg",
+        "id": 4344,
+        "name": "Rescue Me",
+        "original_name": "Rescue Me",
+        "overview": "The aftermath of 9/11 has left the firefighters of the NYFD traumatized, and no one more so than Tommy Gavin. Recently separated from his wife and their three kids, Tommy drifts between sorrow and anger as he tries to shake the recurring nightmares of his fallen comrades, especially his late cousin, Jimmy Keefe. Working alongside veterans like Lt. “Lou” Shea, Franco Rivera and Sean Garrity, and rookie Mike Lombardi, Tommy battles alcohol and drugs as he struggles to remain first and foremost a New York City firefighter.",
+        "poster_path": "/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 40.0107,
+        "first_air_date": "2004-07-21",
+        "softcore": false,
+        "vote_average": 7.544,
+        "vote_count": 192,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/en3zftWPQb5Ue6aA8W88RQbtqzd.jpg",
+        "id": 4588,
+        "name": "ER",
+        "original_name": "ER",
+        "overview": "ER explores the inner workings of an urban teaching hospital and the critical issues faced by the dedicated physicians and staff of its overburdened emergency room.",
+        "poster_path": "/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 54.4341,
+        "first_air_date": "1994-09-19",
+        "softcore": false,
+        "vote_average": 7.827,
+        "vote_count": 958,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ulXewCeBreYuw1fpjpibYQ66RRv.jpg",
+        "id": 72071,
+        "name": "The Chi",
+        "original_name": "The Chi",
+        "overview": "A relevant, timely and distinctive coming-of-age story following a half dozen interrelated characters in the South Side of Chicago. The story centers on Brandon, an ambitious and confident young man who dreams about opening a restaurant of his own someday, but is conflicted between the promise of a new life and his responsibility to his mother and teenage brother back in the South Side.",
+        "poster_path": "/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 36.2387,
+        "first_air_date": "2018-01-07",
+        "softcore": false,
+        "vote_average": 7.839,
+        "vote_count": 223,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8hMDtSWCZPtD5iZIDLDpNkGfaCi.jpg",
+        "id": 5375,
+        "name": "Emergency!",
+        "original_name": "Emergency!",
+        "overview": "The crew of Los Angeles County Fire Department Station 51, particularly the paramedic team, and Rampart Hospital respond to emergencies in their operating area.",
+        "poster_path": "/or94yBr8bwDPYYY3n8OIu0Q32S3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 33.4891,
+        "first_air_date": "1972-01-22",
+        "softcore": false,
+        "vote_average": 7.953,
+        "vote_count": 53,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aijJqFjhyRA8g7xRg6KUdoExynk.jpg",
+        "id": 106388,
+        "name": "Shining Girls",
+        "original_name": "Shining Girls",
+        "overview": "بعد أعوام من هجوم عنيف تركها في واقع متغير باستمرار، تكتشف \"كيربي مازراتشي\" أن جريمة قتل حديثة مرتبطة بالاعتداء عليها. تتعاون مع المراسل المخضرم \"دان فيلازكويز\" لفهم حاضرها المتغير ومواجهة ماضيها.",
+        "poster_path": "/qmN97JxhZHgCThRqgzaiSF7C2mj.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 10.8133,
+        "first_air_date": "2022-04-28",
+        "softcore": false,
+        "vote_average": 7.473,
+        "vote_count": 222,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7WyWk8bWgbWKqnhNEj8PYt4VjPo.jpg",
+        "id": 67993,
+        "name": "Chicago Justice",
+        "original_name": "Chicago Justice",
+        "overview": "The State's Attorney's dedicated team of prosecutors and investigators navigates heated city politics and controversy head-on, while fearlessly pursuing justice.",
+        "poster_path": "/hZ76A8l1JoONy2NoL0BF4AU2g3c.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 7.5081,
+        "first_air_date": "2017-03-01",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 181,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4F7IE2OEcHsWZwIu1OvXDyiRD84.jpg",
+        "id": 215995,
+        "name": "Smoke",
+        "original_name": "Smoke",
+        "overview": "يُضطر محقق حرائق إلى التعاون مع شرطية مباحث، ويثير سباقهما لإيقاف مشعلين للحرائق لعبة ملتوية من الأسرار والشكوك.",
+        "poster_path": "/c6xRvQCL07MVNamjfVU2an600q9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 14.3417,
+        "first_air_date": "2025-06-26",
+        "softcore": false,
+        "vote_average": 6.119,
+        "vote_count": 130,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x2jNLrYw1s9i6kihEJqsBQgs9nR.jpg",
+        "id": 62650,
+        "name": "Chicago Med",
+        "original_name": "Chicago Med",
+        "overview": "رحلة مشوقة عاطفية عبر الفوضى اليومية لأحدث مركز صدمات حديث في المدينة وإلى حياة الأطباء والممرضات والموظفين الشجعان الذين يحملون كل ذلك معًا.",
+        "poster_path": "/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 78.8973,
+        "first_air_date": "2015-11-17",
+        "softcore": false,
+        "vote_average": 8.3,
+        "vote_count": 1275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e014XdmeBhOsouYYRUzAY05dBKQ.jpg",
+        "id": 2651,
+        "name": "Profiler",
+        "original_name": "Profiler",
+        "overview": "Rachel Burke is a criminal profiler, one of the best, actually.\n\nShe, along with a sophisticated team of specialists on the FBI's Violent Crimes Task Force in Atlanta, investigates crimes throughout the country.\n\nTogether, they solve the toughest of cases while trying to live their lives as best they can.",
+        "poster_path": "/rZPFS2CRMZOy2LV4hE64KBxAbGg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 22.2687,
+        "first_air_date": "1996-09-21",
+        "softcore": false,
+        "vote_average": 7.034,
+        "vote_count": 74,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aVcchR91KUPU98JtWhnGcobnGgT.jpg",
+        "id": 4955,
+        "name": "The Dresden Files",
+        "original_name": "The Dresden Files",
+        "overview": "A Chicago-based wizard works as a private investigator.",
+        "poster_path": "/rujRcP9fZAk7Sq0U8iDITOXouCW.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18,
+          10759
+        ],
+        "popularity": 6.8633,
+        "first_air_date": "2007-01-21",
+        "softcore": false,
+        "vote_average": 6.972,
+        "vote_count": 125,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hiKKRRIJ9WB7mGxzhheQVcDIfYO.jpg",
+        "id": 10370,
+        "name": "The Hitchhiker",
+        "original_name": "The Hitchhiker",
+        "overview": "A young hitchhiker introduces characters who are about to experience a frightening and sometimes supernatural incident of some kind in this moody anthology series.",
+        "poster_path": "/AmOBNQXTMPsi3NvcadHxfM4xEVZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 17.9194,
+        "first_air_date": "1983-11-23",
+        "softcore": false,
+        "vote_average": 6.25,
+        "vote_count": 32,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qzi8rTS2KpkrYNWxC1tt7xkRlTY.jpg",
+        "id": 156933,
+        "name": "Presumed Innocent",
+        "original_name": "Presumed Innocent",
+        "overview": "جريمة قتل مريعة تقلب مكتب النائب العام رأساً على عقب عندما يُتهم أحد أعضاءه بارتكاب الجريمة، ويبدأ المتهم بالمعاناة ليحافظ على شمل عائلته.",
+        "poster_path": "/7MXg0BxuSRWz2yKc03M40du2mrc.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 27.3483,
+        "first_air_date": "2024-06-11",
+        "softcore": false,
+        "vote_average": 7.84,
+        "vote_count": 674,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7ebnWh0t5WKK1owCcr0UZIROHjd.jpg",
+        "id": 98657,
+        "name": "61st Street",
+        "original_name": "61st Street",
+        "overview": "Moses Johnson is a promising high-school athlete with a bright future who’s accused of murdering a police officer during a drug bust gone wrong. Swept up into the infamously corrupt Chicago criminal justice system, Moses’ case is taken up by ageing public defender Franklin Roberts, who sees this as his chance to finally challenge the institutional racism at the heart of the judicial system.",
+        "poster_path": "/bTEfmPiaDpsDu5oZKNSrhnF2ci5.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 5.9714,
+        "first_air_date": "2022-04-10",
+        "softcore": false,
+        "vote_average": 6.167,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+        "id": 4057,
+        "name": "عقول اجرامية",
+        "original_name": "Criminal Minds",
+        "overview": "يقوم نخبة من مكتب التحقيقات الفيدرالي (FBI) بتحليل العقول الإجرامية الأكثر التواءا في البلاد، بتوقع تحركاتهم التالية قبل أن يضربون مرة أخرى.",
+        "poster_path": "/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 199.6252,
+        "first_air_date": "2005-09-22",
+        "softcore": false,
+        "vote_average": 8.3,
+        "vote_count": 4164,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
+        "id": 80748,
+        "name": "FBI",
+        "original_name": "FBI",
+        "overview": "من أجل الحفاظ على أن يسود اﻷمن واﻷمان في مدينة نيويورك، تدور احداث المسلسل عن دراما المغامرات واﻹثارة في مكتب التحقيقات الفيدرالية اﻷمريكية واستخدامهم كل وسائل التفكير والتكنولوجيا الحديثة.",
+        "poster_path": "/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "popularity": 98.5883,
+        "first_air_date": "2018-09-25",
+        "softcore": false,
+        "vote_average": 7.9,
+        "vote_count": 944,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o9orbqMK19LlQLHt3XVtnf3RR2H.jpg",
+        "id": 29574,
+        "name": "Mike Hammer",
+        "original_name": "Mike Hammer",
+        "overview": "Private detective Mike Hammer hunts down criminals on the mean streets of New York City.",
+        "poster_path": "/5Kr6dVI7V0lbroMFLNxUdcd578l.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 8.1651,
+        "first_air_date": "1984-01-28",
+        "softcore": false,
+        "vote_average": 6.714,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5ziXtCZye3NowgFJCBrK3kTd7vn.jpg",
+        "id": 60726,
+        "name": "للابد",
+        "original_name": "Forever",
+        "overview": "الدكتور هنري مورغان ، الفاحص الطبي النجم في مدينة نيويورك ، لديه سر. إنه لا يدرس الموتى فقط لحل القضايا الجنائية ، بل يفعل ذلك لحل اللغز الذي استعصى عليه لمدة 200 عام - الجواب على خلوده الذي لا يمكن تفسيره. هذه الحياة الطويلة أعطت هنري مهارات ملحوظة في الملاحظة مما أثار إعجاب شريكه الجديد ،\n\nالمحقق جو مارتينيز. كل أسبوع ، ستكشف قضية جديدة وصداقتهما الناشئة طبقات من ماضي هنري الطويل والملون. فقط أفضل أصدقائه وصديقه ، آبي يعرف سر هنري.",
+        "poster_path": "/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648,
+          10765
+        ],
+        "popularity": 14.8137,
+        "first_air_date": "2014-09-22",
+        "softcore": false,
+        "vote_average": 7.827,
+        "vote_count": 663,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
+        "id": 1486,
+        "name": "21 Jump Street",
+        "original_name": "21 Jump Street",
+        "overview": "تدور أحداث مسلسل \"21 Jump Street\" حول مجموعة من رجال الشرطة الشباب الذين يستخدمون مظهرهم الشاب للتخفي وحل الجرائم التي تشمل المراهقين والشباب",
+        "poster_path": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 34.0052,
+        "first_air_date": "1987-04-12",
+        "softcore": false,
+        "vote_average": 7.27,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 36,
+    "total_results": 712
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 60
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/jGLRnvajVBg3QXikgHiI0HdG9Qe.png",
+            "provider_id": 321,
+            "provider_name": "Sky X",
+            "display_priority": 18
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=AU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/nhp23IYeFqZm4J2ZseUzSPuZ1UM.png",
+            "provider_id": 246,
+            "provider_name": "7plus",
+            "display_priority": 19
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/1Hzele1xJnA7xfQyWKNQnTnWAio.png",
+            "provider_id": 385,
+            "provider_name": "BINGE",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qRZkZY5kgqXaLr4QFp7ON0wG5rB.png",
+            "provider_id": 134,
+            "provider_name": "Foxtel Now",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 92
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "BF": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 30
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 29
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BR",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 13
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+            "provider_id": 307,
+            "provider_name": "Globoplay",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+            "provider_id": 484,
+            "provider_name": "Claro tv+",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 80
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 83
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/dLpf8SgUM19VcFyMrK2KFcsF52i.png",
+            "provider_id": 146,
+            "provider_name": "iciTouTV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 109
+          },
+          {
+            "logo_path": "/iyXO5Abg68XdO00nTzXcC1YD7mf.png",
+            "provider_id": 2171,
+            "provider_name": "Citytvplus Amazon Channel",
+            "display_priority": 113
+          },
+          {
+            "logo_path": "/cpTEoKdYe8z2exgnhKfHPXa8oPq.png",
+            "provider_id": 1985,
+            "provider_name": "Citytvplus",
+            "display_priority": 121
+          }
+        ]
+      },
+      "CD": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CL",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 56
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 43
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 44
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=CZ",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 42
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/2o26YwA7tXQ7I6CSrMvO9Rj4oNi.png",
+            "provider_id": 30,
+            "provider_name": "WOW",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png",
+            "provider_id": 2412,
+            "provider_name": "Magenta TV+",
+            "display_priority": 191
+          },
+          {
+            "logo_path": "/mIR4wc2DLEIbn9TbtemvoX4zb26.png",
+            "provider_id": 2660,
+            "provider_name": "Wow Fiction Amazon Channel",
+            "display_priority": 216
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=DK",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/hPIVVR7yvR0PrTe7eHR2I5nAFis.png",
+            "provider_id": 1961,
+            "provider_name": "Allente",
+            "display_priority": 38
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/zTJg0WVErBkcJv4S9FkQRUyXjnq.png",
+            "provider_id": 167,
+            "provider_name": "Claro video",
+            "display_priority": 9
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=ES",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/53JKjrhdG4z8DQ4pfdbHoAgPWeO.png",
+            "provider_id": 2241,
+            "provider_name": "Movistar Plus+",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/o1Z73d95pgJMpS3iCfRDtK5XJgp.png",
+            "provider_id": 1838,
+            "provider_name": "Tivify",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=FR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 85
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 44
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 98
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=HR",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 37
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 11
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+            "provider_id": 2336,
+            "provider_name": "JioHotstar",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+            "provider_id": 614,
+            "provider_name": "VI movies and tv",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 71
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 8
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 24
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=IT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 87
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=JP",
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 9
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=LV",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MW": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=MW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=MX",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 59
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 70
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=NL",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/jY3kxKfekzgpEDtghtK9elh4G6T.png",
+            "provider_id": 472,
+            "provider_name": "NLZIET",
+            "display_priority": 22
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=NO",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+            "provider_id": 578,
+            "provider_name": "Strim",
+            "display_priority": 28
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=NZ",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 47
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/zTJg0WVErBkcJv4S9FkQRUyXjnq.png",
+            "provider_id": 167,
+            "provider_name": "Claro video",
+            "display_priority": 10
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=PG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=PL",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 27
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=PT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 44
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=RO",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=SE",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=SK",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 47
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tRQ9JpyxNgfwxPxzOa82QTytxH9.png",
+            "provider_id": 627,
+            "provider_name": "Voyo",
+            "display_priority": 41
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 15
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=US",
+        "ads": [
+          {
+            "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+            "provider_id": 79,
+            "provider_name": "NBC",
+            "display_priority": 48
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+            "provider_id": 386,
+            "provider_name": "Peacock Premium",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+            "provider_id": 2528,
+            "provider_name": "YouTube TV",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+            "provider_id": 79,
+            "provider_name": "NBC",
+            "display_priority": 48
+          },
+          {
+            "logo_path": "/7Z4egOqWISqraA0SS5CldDzRyh3.png",
+            "provider_id": 322,
+            "provider_name": "USA Network",
+            "display_priority": 93
+          },
+          {
+            "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+            "provider_id": 387,
+            "provider_name": "Peacock Premium Plus",
+            "display_priority": 214
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+            "provider_id": 486,
+            "provider_name": "Spectrum On Demand",
+            "display_priority": 119
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "VA": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=VA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/tv/44006-chicago-fire/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      }
+    }
+  }
+}

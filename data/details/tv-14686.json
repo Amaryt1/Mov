@@ -1,0 +1,876 @@
+{
+  "adult": false,
+  "backdrop_path": "/2o0cVL6fOa06aXd5xogZhD1h4ce.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "2006-09-04",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "أوبرا صابونية"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "http://www.awz.de/",
+  "id": 14686,
+  "in_production": true,
+  "languages": [
+    "de",
+    "fr"
+  ],
+  "last_air_date": "2021-12-13",
+  "last_episode_to_air": {
+    "id": 3396697,
+    "name": "الحلقة 233",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2021-12-13",
+    "episode_number": 233,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 16,
+    "show_id": 14686,
+    "still_path": null
+  },
+  "name": "Alles was zählt",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 207,
+      "logo_path": "/g5w1CvcMMBnxmXcsFUTLVBhH9Qp.png",
+      "name": "RTL",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 3663,
+  "number_of_seasons": 18,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Alles was zählt",
+  "overview": "",
+  "popularity": 213.0052,
+  "poster_path": "/2qup6w78HhDiSii7v8vYgfEsz6E.jpg",
+  "production_companies": [
+    {
+      "id": 2018,
+      "logo_path": null,
+      "name": "Grundy UFA",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2006-09-04",
+      "episode_count": 82,
+      "id": 60476,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 250,
+      "id": 87022,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 251,
+      "id": 87023,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-02",
+      "episode_count": 252,
+      "id": 87024,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 247,
+      "id": 87025,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 251,
+      "id": 87026,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 250,
+      "id": 87027,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 247,
+      "id": 87028,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 245,
+      "id": 87029,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-02",
+      "episode_count": 250,
+      "id": 87030,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 254,
+      "id": 87031,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 252,
+      "id": 87032,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-02",
+      "episode_count": 250,
+      "id": 106642,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 250,
+      "id": 191605,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-02",
+      "episode_count": 240,
+      "id": 191606,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 91,
+      "id": 191607,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 506699,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 506826,
+      "name": "الموسم 2026",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2026,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.875,
+  "vote_count": 8,
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/24plaX4WSNEbqx74MzZBLPwlpBE.jpg",
+        "id": 1054,
+        "name": "The Young and the Restless",
+        "original_name": "The Young and the Restless",
+        "overview": "The rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Baldwin and Winters families.",
+        "poster_path": "/mN3kMuh7Cy9byeySK6pymnpIOZO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 19.9543,
+        "first_air_date": "1973-03-26",
+        "softcore": false,
+        "vote_average": 7.012,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5GXW5SRUO8oWLOAaOhK1nxiCZEV.jpg",
+        "id": 236921,
+        "name": "Vuelve a mí",
+        "original_name": "Vuelve a mí",
+        "overview": "The kidnapping of her son unleashes a storm in Nuria García's life who, in the most difficult moment, meets Santiago Zepeda; together, they find redemption in the face of adversity.",
+        "poster_path": "/sGgYl7voI8T34azn5biA0MRpG3c.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 7.7004,
+        "first_air_date": "2023-10-09",
+        "softcore": false,
+        "vote_average": 8.55,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kGxPVyra9Lvf5tPmTXnMEBpwOip.jpg",
+        "id": 45789,
+        "name": "Storm of Love",
+        "original_name": "Sturm der Liebe",
+        "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
+        "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 186.6215,
+        "first_air_date": "2005-09-26",
+        "softcore": false,
+        "vote_average": 6,
+        "vote_count": 39,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Mc3flEYVk5u0kZyBHeKMAbmNCM.jpg",
+        "id": 6467,
+        "name": "Chicago Hope",
+        "original_name": "Chicago Hope",
+        "overview": "Chicago Hope is an American medical drama television series, created by David E. Kelley. It ran on CBS from September 18, 1994, to May 4, 2000. The series is set in a fictional private charity hospital in Chicago, Illinois.",
+        "poster_path": "/x8ic33t4NurJul1oXmvKwKtWH28.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 52.2205,
+        "first_air_date": "1994-09-18",
+        "softcore": false,
+        "vote_average": 7.165,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Rvq9wwTDyH1k1Qg660KXTknTfG.jpg",
+        "id": 1948,
+        "name": "Degrassi",
+        "original_name": "Degrassi",
+        "overview": "The life of a group of adolescents going through the trials and tribulations of teendom at Degrassi Community School.",
+        "poster_path": "/AfqQ4lZAi9LWyhnHm3VCpm2hLpB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 34.0899,
+        "first_air_date": "2001-10-14",
+        "softcore": false,
+        "vote_average": 7.593,
+        "vote_count": 114,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h8A6J31szyLPWU2HXS2wZkp8aQa.jpg",
+        "id": 3437,
+        "name": "Hotel",
+        "original_name": "Hotel",
+        "overview": "Hotel is an American prime time drama series which aired on ABC from September 21, 1983 to May 5, 1988 in the timeslot following Dynasty.\n\nBased on Arthur Hailey's 1965 novel of the same name, the series was produced by Aaron Spelling and set in the elegant and fictitious St. Gregory Hotel in San Francisco. Establishing shots of the hotel were filmed in front of The Fairmont San Francisco atop the Nob Hill neighborhood. Episodes followed the activities of passing guests, as well as the personal and professional lives of the hotel staff.",
+        "poster_path": "/bYOQJm7O7cEPvkcMp3VI6TSP6Eg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 26.4736,
+        "first_air_date": "1982-08-21",
+        "softcore": false,
+        "vote_average": 6.846,
+        "vote_count": 26,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wnyMAP1Xep5BUwTqMq2KBHjRHws.jpg",
+        "id": 1021,
+        "name": "Casualty",
+        "original_name": "Casualty",
+        "overview": "Drama series about the staff and patients at Holby City Hospital's emergency department, charting the ups and downs in their personal and professional lives.",
+        "poster_path": "/ahqMUNIUeGIBQSkShEV32085IFZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 60.2281,
+        "first_air_date": "1986-09-06",
+        "softcore": false,
+        "vote_average": 6.2,
+        "vote_count": 88,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Am2ZRSkoOQd00kmhUF7QtOFbLWQ.jpg",
+        "id": 3828,
+        "name": "Hill Street Blues",
+        "original_name": "Hill Street Blues",
+        "overview": "A realistic glimpse into the daily lives of the officers and detectives at an urban police station.",
+        "poster_path": "/elvCmYxmwVzv2va3rLKponOJOfm.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 41.2752,
+        "first_air_date": "1981-01-15",
+        "softcore": false,
+        "vote_average": 7.618,
+        "vote_count": 127,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nHhczDKcSsnNFWDHVTMhXcnh9zF.jpg",
+        "id": 95004,
+        "name": "Tyler Perry's The Oval",
+        "original_name": "Tyler Perry's The Oval",
+        "overview": "A seemingly perfect interracial first family becomes the White House's newest residents. But behind closed doors they unleash a torrent of lies, cheating and corruption.",
+        "poster_path": "/vtYuACIAniAyr33HpyfkXFNmgFe.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "popularity": 20.0404,
+        "first_air_date": "2019-10-23",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 98,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oZ2ST23FHaAWgN2A04oTBQU9lqE.jpg",
+        "id": 133908,
+        "name": "SkyMed",
+        "original_name": "SkyMed",
+        "overview": "Life, death and drama at 20,000 feet. The series weaves together intense character journeys and high-stakes medical rescues, as we follow the triumphs, heartbreaks and tribulations of budding nurses and pilots flying air ambulances in remote Northern Canada. They’re all in over their heads, and on their own, with no one to rely on but each other.",
+        "poster_path": "/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 8.6544,
+        "first_air_date": "2022-07-10",
+        "softcore": false,
+        "vote_average": 6.661,
+        "vote_count": 93,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1lBEfsnzUkxtxzvFwimENpM6bEP.jpg",
+        "id": 6127,
+        "name": "Agatha Christie's Marple",
+        "original_name": "Agatha Christie's Marple",
+        "overview": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over.",
+        "poster_path": "/nVswrZQpqQND9TgwgbWgz18KgAo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 35.7072,
+        "first_air_date": "2004-12-12",
+        "softcore": false,
+        "vote_average": 7.834,
+        "vote_count": 148,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dgccDynwRvjMAixMjrsd1JHgicn.jpg",
+        "id": 33841,
+        "name": "R. L. Stine's The Haunting Hour",
+        "original_name": "R. L. Stine's The Haunting Hour",
+        "overview": "R. L. Stine's The Haunting Hour is a Canadian/American original anthology horror-fantasy series, with episodes each half an hour long. The series is based on The Haunting Hour: Don't Think About It Movie, and the books The Haunting Hour and Nightmare Hour anthology by R. L. Stine.",
+        "poster_path": "/keZqyr8EQLCjHejuZ3U4HAopxrY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          18
+        ],
+        "popularity": 22.5968,
+        "first_air_date": "2010-10-29",
+        "softcore": false,
+        "vote_average": 8.207,
+        "vote_count": 225,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Zef1eiCoLb7vWutWNAa3zeyxd6.jpg",
+        "id": 2751,
+        "name": "The New Alfred Hitchcock Presents",
+        "original_name": "The New Alfred Hitchcock Presents",
+        "overview": "The New Alfred Hitchcock Presents is an American anthology series that aired on NBC from 1985 to 1986, and on the USA Network from 1987 to 1989. The series is an updated re-imagining of the classic 1955 series Alfred Hitchcock Presents.",
+        "poster_path": "/ndCyWSRuAMHNEjtTrEsDue7D1Uq.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 19.157,
+        "first_air_date": "1985-09-29",
+        "softcore": false,
+        "vote_average": 7.242,
+        "vote_count": 64,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tMZZ8W30TtGRcydsxrtXcL3j7YT.jpg",
+        "id": 341,
+        "name": "Brothers and Sisters",
+        "original_name": "Brothers and Sisters",
+        "overview": "The close-knit Walker family deals with struggles and triumphs.",
+        "poster_path": "/u49srJvTHKlgdakN4SQzFysfBlu.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 38.2785,
+        "first_air_date": "2006-09-24",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 201,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/72zLfNDaL8JpfLDwmQ2b8DPbeHc.jpg",
+        "id": 21762,
+        "name": "Parenthood",
+        "original_name": "Parenthood",
+        "overview": "The trials and tribulations of the very large, colorful and imperfect Braverman family.",
+        "poster_path": "/9KjKLJrrUI1sU9bNsQaQ5H8kTyY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 31.0723,
+        "first_air_date": "2010-03-02",
+        "softcore": false,
+        "vote_average": 7.465,
+        "vote_count": 187,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/60IFA2WovZfCXJYxhpwC3DU1uTD.jpg",
+        "id": 214259,
+        "name": "Joan",
+        "original_name": "Joan",
+        "overview": "A penniless mother makes an impulsive decision in the jewellery shop where she works, and is propelled into a different world.",
+        "poster_path": "/x0l9OYTcwO2BvCZcFWEnAA8YEZ1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 18.0525,
+        "first_air_date": "2024-09-29",
+        "softcore": false,
+        "vote_average": 6.6,
+        "vote_count": 52,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5puZfo53LmwAkqOGObg59X3qmC7.jpg",
+        "id": 241549,
+        "name": "Murder in a Small Town",
+        "original_name": "Murder in a Small Town",
+        "overview": "ينتقل كارل ألبرغ إلى بلدة ساحلية هادئة لتهدئة نفسه التي أرهقتها أعمال الشرطة في المدينة الكبيرة، لكنه يجد نفسه مضطراً إلى الاستعانة بكل مهاراته لحل جرائم القتل التي تستمر في الظهور على شاطئه",
+        "poster_path": "/r8rdmK4vSIhNDQAtbamEFL2kLhG.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 20.1417,
+        "first_air_date": "2024-09-24",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 64,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sMEohaNKA30mv5iQgPcTd5uj6bM.jpg",
+        "id": 223438,
+        "name": "The Couple Next Door",
+        "original_name": "The Couple Next Door",
+        "overview": "ينتقل زوجان شابان إلى حي راقي لبدء حياة عائلية، ولكنهما سرعان ما يعلقان داخل شبكة معقدة من الرغبة والخيانة مع جيرانهما الجدد.",
+        "poster_path": "/ifQ5ffAI6KfywBcSGoGU1YWO3yC.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 8.9021,
+        "first_air_date": "2023-11-27",
+        "softcore": false,
+        "vote_average": 5.853,
+        "vote_count": 51,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wixjwQv8aPfIwbc7euj0fPPsMjT.jpg",
+        "id": 3216,
+        "name": "Baretta",
+        "original_name": "Baretta",
+        "overview": "Baretta is an American detective television series which ran on ABC from 1975 to 1978. The show was a milder version of a successful 1973–74 ABC series, Toma, starring Tony Musante as chameleon-like, real-life New Jersey police officer David Toma. While popular, Toma received intense criticism at the time for its realistic and frequent depiction of police and criminal violence. When Musante left the series after a single season, the concept was retooled as Baretta, with Robert Blake in the title role.",
+        "poster_path": "/xayGSRT2GbcFTwNIqt6l355v29F.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.8278,
+        "first_air_date": "1975-01-17",
+        "softcore": false,
+        "vote_average": 6.536,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jE378K4gP68vDrEPDIxWbpqaJO8.jpg",
+        "id": 14733,
+        "name": "Rich Man, Poor Man",
+        "original_name": "Rich Man, Poor Man",
+        "overview": "Based on the best-selling 1969 novel by Irwin Shaw, the series follows the divergent career courses of the impoverished German American Jordache brothers.",
+        "poster_path": "/8LmpOZ8JVzHEgHGLi3opMWsqOdt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 6.4802,
+        "first_air_date": "1976-02-01",
+        "softcore": false,
+        "vote_average": 7.859,
+        "vote_count": 32,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 36,
+    "total_results": 714
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25927,
+        "known_for_department": "Acting",
+        "name": "Silvan-Pierre Leirich",
+        "original_name": "Silvan-Pierre Leirich",
+        "popularity": 0.6013,
+        "profile_path": null,
+        "character": "Richard Steinkamp",
+        "credit_id": "5790af34c3a3681d1a000c59",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25924,
+        "known_for_department": "Acting",
+        "name": "Tatjana Clasing",
+        "original_name": "Tatjana Clasing",
+        "popularity": 0.8791,
+        "profile_path": "/r25Vjin4alureerHFfmNPYssbG4.jpg",
+        "character": "Simone Steinkamp",
+        "credit_id": "52583487760ee36aaa91fe7e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 583908,
+        "known_for_department": "Acting",
+        "name": "André Dietz",
+        "original_name": "André Dietz",
+        "popularity": 0.627,
+        "profile_path": null,
+        "character": "Ingo Zadek",
+        "credit_id": "52583488760ee36aaa91fe95",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2081337,
+        "known_for_department": "Acting",
+        "name": "Sam Eisenstein",
+        "original_name": "Sam Eisenstein",
+        "popularity": 0.3013,
+        "profile_path": null,
+        "character": "Marian Öztürk",
+        "credit_id": "5b43cb660e0a2670f9020bee",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 72217,
+        "known_for_department": "Acting",
+        "name": "Igor Dolgatschew",
+        "original_name": "Igor Dolgatschew",
+        "popularity": 0.2911,
+        "profile_path": "/jp5h9zE4GBNbFwLAQRC7kwzuedT.jpg",
+        "character": "Deniz Öztürk",
+        "credit_id": "5a88135c9251410ac404b1cd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1071718,
+        "known_for_department": "Acting",
+        "name": "Julia Augustin",
+        "original_name": "Julia Augustin",
+        "popularity": 0.8059,
+        "profile_path": null,
+        "character": "Vanessa Steinkamp",
+        "credit_id": "5a8813b70e0a265453051e8b",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1832498,
+        "known_for_department": "Acting",
+        "name": "Lars Korten",
+        "original_name": "Lars Korten",
+        "popularity": 0.3124,
+        "profile_path": null,
+        "character": "Christoph Lukowski",
+        "credit_id": "5b43cb8a9251414f3c021656",
+        "order": 11
+      }
+    ],
+    "crew": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  },
+  "watch/providers": {
+    "results": {
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/14686-alles-was-zahlt/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 50
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/14686-alles-was-zahlt/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 19
+          }
+        ]
+      }
+    }
+  },
+  "videos": {
+    "results": []
+  }
+}

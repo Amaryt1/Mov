@@ -1,0 +1,2578 @@
+{
+  "adult": false,
+  "backdrop_path": "/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+  "belongs_to_collection": null,
+  "budget": 500000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "رعب"
+    },
+    {
+      "id": 14,
+      "name": "فانتازيا"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
+    }
+  ],
+  "homepage": "",
+  "id": 1232569,
+  "imdb_id": "tt30887701",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Pinocchio: Unstrung",
+  "overview": "",
+  "popularity": 106.9509,
+  "poster_path": "/xBpMpebpMF0g9y6JLsn46kbWZTh.jpg",
+  "production_companies": [
+    {
+      "id": 155744,
+      "logo_path": "/qwVw2UPwBOQZkhOb3LyHgID5xKQ.png",
+      "name": "Jagged Edge Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2026-07-22",
+  "revenue": 821127,
+  "runtime": 82,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "بينوكيو : UNSTRUNG",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 92,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5752734,
+        "known_for_department": "Acting",
+        "name": "Jude Evan Lloyd",
+        "original_name": "Jude Evan Lloyd",
+        "popularity": 0.7959,
+        "profile_path": "/vBbtBNsGKOZPvmdlyG6lUUkcNwF.jpg",
+        "cast_id": 67,
+        "character": "Pinocchio (voice)",
+        "credit_id": "68f0eb7e82c914a0c6389ecc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4916781,
+        "known_for_department": "Acting",
+        "name": "Cameron Bell",
+        "original_name": "Cameron Bell",
+        "popularity": 0.8068,
+        "profile_path": "/4pHVLu11DmVMJDgGo1X5rZH53Uh.jpg",
+        "cast_id": 32,
+        "character": "James",
+        "credit_id": "66d44ed2f199494501ae2f28",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3901,
+        "known_for_department": "Acting",
+        "name": "ريتشارد بريك",
+        "original_name": "Richard Brake",
+        "popularity": 2.5747,
+        "profile_path": "/JwsiErANShzPSdYsNoiNYdrSg1.jpg",
+        "cast_id": 35,
+        "character": "Geppetto",
+        "credit_id": "6724ddca3449481baca99658",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3909217,
+        "known_for_department": "Acting",
+        "name": "Jessica Balmer",
+        "original_name": "Jessica Balmer",
+        "popularity": 0.9345,
+        "profile_path": "/fhb5Oj719yH7z5f2lYU2r8Lyu46.jpg",
+        "cast_id": 37,
+        "character": "Mia",
+        "credit_id": "6726d0a1c0bc0749d0d884d6",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5692794,
+        "known_for_department": "Acting",
+        "name": "Jack Art Gray",
+        "original_name": "Jack Art Gray",
+        "popularity": 0.4452,
+        "profile_path": "/7C9o6X4g3lj9OsrD24ztL01GxVL.jpg",
+        "cast_id": 66,
+        "character": "Dudley",
+        "credit_id": "68c9a6cca59cd175768c5540",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5139,
+        "known_for_department": "Acting",
+        "name": "روبرت إنجلوند",
+        "original_name": "Robert Englund",
+        "popularity": 2.6708,
+        "profile_path": "/cjGEkiavinHa1dnetDvnEhlD2Wm.jpg",
+        "cast_id": 34,
+        "character": "Cricket (voice)",
+        "credit_id": "6724dda63449481baca99625",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 185065,
+        "known_for_department": "Acting",
+        "name": "Emma Tate",
+        "original_name": "Emma Tate",
+        "popularity": 1.0605,
+        "profile_path": "/in8SZAA5dG6wW1LBCU10j1J7W8V.jpg",
+        "cast_id": 68,
+        "character": "Woodmother (voice)",
+        "credit_id": "69489e3dbba2840a8a812710",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4438472,
+        "known_for_department": "Acting",
+        "name": "Toni Olabanji",
+        "original_name": "Toni Olabanji",
+        "popularity": 0.4683,
+        "profile_path": "/48XYJ3UBF2uIeeAO2e12vHg37yX.jpg",
+        "cast_id": 47,
+        "character": "Trey",
+        "credit_id": "67ca1d38a001960f78cb459a",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6363580,
+        "known_for_department": "Acting",
+        "name": "Luca Marandola",
+        "original_name": "Luca Marandola",
+        "popularity": 0.4101,
+        "profile_path": "/9u9WsKV69ijFZD1gKiz4TIpFZeh.jpg",
+        "cast_id": 82,
+        "character": "Logan",
+        "credit_id": "6a60560e1bde4e238c718340",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5060873,
+        "known_for_department": "Acting",
+        "name": "Karolina Ugrenyuk",
+        "original_name": "Karolina Ugrenyuk",
+        "popularity": 1.2381,
+        "profile_path": "/AqyQiGLHKDjXrAL1kjqU0t9h3wZ.jpg",
+        "cast_id": 44,
+        "character": "Amanda",
+        "credit_id": "67ca1ba0dba14916062b36d9",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2994717,
+        "known_for_department": "Acting",
+        "name": "Mya Brown",
+        "original_name": "Mya Brown",
+        "popularity": 0.4948,
+        "profile_path": "/upVZnHxevcVoqFNM8I0U4tBARQ9.jpg",
+        "cast_id": 85,
+        "character": "Georgia",
+        "credit_id": "6a66c5eb6d999b9a93b34377",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482026,
+        "known_for_department": "Acting",
+        "name": "Scott Chambers",
+        "original_name": "Scott Chambers",
+        "popularity": 1.1866,
+        "profile_path": "/pANsw8kWaQzSwuVmr1Em5di9u4o.jpg",
+        "cast_id": 65,
+        "character": "Christopher Robin",
+        "credit_id": "6886f53b126c47dd6516ca05",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4258420,
+        "known_for_department": "Acting",
+        "name": "Belinda Fenty",
+        "original_name": "Belinda Fenty",
+        "popularity": 0.5024,
+        "profile_path": "/9iElvEBifuzwUzBgdAualy5Iivm.jpg",
+        "cast_id": 48,
+        "character": "Dentist",
+        "credit_id": "67ca1d8baa523c748a2b3471",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3323741,
+        "known_for_department": "Acting",
+        "name": "Kelly Rian Sanson",
+        "original_name": "Kelly Rian Sanson",
+        "popularity": 1.4465,
+        "profile_path": "/bx6qQl6mF5tQB8cL4BMq7nnNnUs.jpg",
+        "cast_id": 36,
+        "character": "Miss Daniels",
+        "credit_id": "6724de33771f5cb149557f7c",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2830098,
+        "known_for_department": "Acting",
+        "name": "Jay Robertson",
+        "original_name": "Jay Robertson",
+        "popularity": 0.3891,
+        "profile_path": "/y27syRUKC9Wgvoa6Eww1J7SPgY6.jpg",
+        "cast_id": 41,
+        "character": "Drunk Driver",
+        "credit_id": "6726d3a99dcc2dd534743ee6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4138362,
+        "known_for_department": "Acting",
+        "name": "Amanda Jane York",
+        "original_name": "Amanda Jane York",
+        "popularity": 0.5495,
+        "profile_path": "/mMtaAgBiRR5ObzrXEGNMUGEmLic.jpg",
+        "cast_id": 45,
+        "character": "Drunk Driver’s Wife",
+        "credit_id": "67ca1bd51f9ef3532dafb797",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4097903,
+        "known_for_department": "Acting",
+        "name": "Charlotte Coleman",
+        "original_name": "Charlotte Coleman",
+        "popularity": 0.732,
+        "profile_path": "/hLMhHjT8T3jtxtXcH9NTSVzPrgL.jpg",
+        "cast_id": 39,
+        "character": "Nurse",
+        "credit_id": "6726d2685af29e88553aecd3",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2994715,
+        "known_for_department": "Acting",
+        "name": "Andrew Rolfe",
+        "original_name": "Andrew Rolfe",
+        "popularity": 0.5341,
+        "profile_path": "/hroH0eAiwUYopzBhCg2MXGV4vcy.jpg",
+        "cast_id": 46,
+        "character": "Doctor",
+        "credit_id": "67ca1be930f4444c6b2b35aa",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4041888,
+        "known_for_department": "Acting",
+        "name": "Peter DeSouza-Feighoney",
+        "original_name": "Peter DeSouza-Feighoney",
+        "popularity": 1.0074,
+        "profile_path": "/reYy9iCjdmOEdKpTkhxD4quNNMP.jpg",
+        "cast_id": 33,
+        "character": "Michael Darling",
+        "credit_id": "66ef2bfbc237258e4c2603c1",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4850332,
+        "known_for_department": "Acting",
+        "name": "Elliott Spilling",
+        "original_name": "Elliott Spilling",
+        "popularity": 0.3284,
+        "profile_path": "/rvKSHfmz73gLdUHBnidYYhAPqCx.jpg",
+        "cast_id": 86,
+        "character": "Zach",
+        "credit_id": "6a66c617dde1e64cf0001709",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4063150,
+        "known_for_department": "Acting",
+        "name": "Ardy Yusuf",
+        "original_name": "Ardy Yusuf",
+        "popularity": 0.3256,
+        "profile_path": "/BhR2J0mLFjt9xUZjsFC5ndNmNP.jpg",
+        "cast_id": 83,
+        "character": "Joey",
+        "credit_id": "6a641835742b41e4b695d7a3",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3438693,
+        "known_for_department": "Acting",
+        "name": "Alex Butler",
+        "original_name": "Alex Butler",
+        "popularity": 0.4049,
+        "profile_path": "/bsX3iYEz4EsgYabM0s93ey9o7XK.jpg",
+        "cast_id": 42,
+        "character": "Patient",
+        "credit_id": "678cf6ba1afc346467651b73",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1508760,
+        "known_for_department": "Acting",
+        "name": "Marcus Massey",
+        "original_name": "Marcus Massey",
+        "popularity": 0.4913,
+        "profile_path": "/zc9ZKD32JPDLabXWraX43O6BN4c.jpg",
+        "cast_id": 114,
+        "character": "Documentary Narrator (voice)",
+        "credit_id": "6a8e5c3e34e786815831b589",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6250324,
+        "known_for_department": "Acting",
+        "name": "Holly Robertson",
+        "original_name": "Holly Robertson",
+        "popularity": 0.3063,
+        "profile_path": "/cuDnxJzxjDGCytKOlQwZYaDBYoQ.jpg",
+        "cast_id": 78,
+        "character": "School Girl",
+        "credit_id": "6a1a3ea6d921b761ed0795b6",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6250328,
+        "known_for_department": "Acting",
+        "name": "Liliana Polkowska",
+        "original_name": "Liliana Polkowska",
+        "popularity": 0.2972,
+        "profile_path": "/hfrYEVQv7AGueiKPDet4dsTY6pr.jpg",
+        "cast_id": 79,
+        "character": "School Girl with Teddy Bear",
+        "credit_id": "6a1a3f29c247b91f87972ff0",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6370048,
+        "known_for_department": "Acting",
+        "name": "Rohan Kit Johnson",
+        "original_name": "Rohan Kit Johnson",
+        "popularity": 0.6883,
+        "profile_path": "/bHMvNg44OPRjTYbNnL0AzOzc8Aq.jpg",
+        "cast_id": 84,
+        "character": "School Boy",
+        "credit_id": "6a654930b33515419cb8c067",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372459,
+        "known_for_department": "Acting",
+        "name": "William Turnbull",
+        "original_name": "William Turnbull",
+        "popularity": 0.2913,
+        "profile_path": null,
+        "cast_id": 87,
+        "character": "Brian",
+        "credit_id": "6a66c6328b24a8ff81c6b823",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5841465,
+        "known_for_department": "Acting",
+        "name": "Hector Baldwin",
+        "original_name": "Hector Baldwin",
+        "popularity": 0.2607,
+        "profile_path": null,
+        "cast_id": 88,
+        "character": "School Boy",
+        "credit_id": "6a66c6676d999b9a93b3437e",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372465,
+        "known_for_department": "Acting",
+        "name": "Thomas Blower",
+        "original_name": "Thomas Blower",
+        "popularity": 0.264,
+        "profile_path": null,
+        "cast_id": 89,
+        "character": "School Boy",
+        "credit_id": "6a66c6b0b70ece5d8379ff92",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372468,
+        "known_for_department": "Acting",
+        "name": "Mila Bohan",
+        "original_name": "Mila Bohan",
+        "popularity": 0.3061,
+        "profile_path": null,
+        "cast_id": 90,
+        "character": "School Girl",
+        "credit_id": "6a66c6d43c1d5787f6b344f3",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5238006,
+        "known_for_department": "Acting",
+        "name": "Riley Bottomley",
+        "original_name": "Riley Bottomley",
+        "popularity": 0.2608,
+        "profile_path": null,
+        "cast_id": 91,
+        "character": "School Kid",
+        "credit_id": "6a66c6ea99196ad40c15d1fa",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6174093,
+        "known_for_department": "Acting",
+        "name": "Khaleesi Briar-Rose",
+        "original_name": "Khaleesi Briar-Rose",
+        "popularity": 0.267,
+        "profile_path": null,
+        "cast_id": 92,
+        "character": "School kid",
+        "credit_id": "6a66c7088b24a8ff81c6b84b",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372474,
+        "known_for_department": "Acting",
+        "name": "Robin Burns",
+        "original_name": "Robin Burns",
+        "popularity": 0.2751,
+        "profile_path": null,
+        "cast_id": 93,
+        "character": "School Boy",
+        "credit_id": "6a66c7618554890012b343d1",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372478,
+        "known_for_department": "Acting",
+        "name": "Adrian Burton",
+        "original_name": "Adrian Burton",
+        "popularity": 0.285,
+        "profile_path": null,
+        "cast_id": 94,
+        "character": "Teacher",
+        "credit_id": "6a66c78840b21d6f0563369b",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5237990,
+        "known_for_department": "Acting",
+        "name": "Kristian Burton",
+        "original_name": "Kristian Burton",
+        "popularity": 0.2585,
+        "profile_path": null,
+        "cast_id": 95,
+        "character": "School kid",
+        "credit_id": "6a66c7a868a1f1edd6aafde2",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372483,
+        "known_for_department": "Acting",
+        "name": "Leila Elford",
+        "original_name": "Leila Elford",
+        "popularity": 0.2588,
+        "profile_path": null,
+        "cast_id": 96,
+        "character": "School kid",
+        "credit_id": "6a66c80068a1f1edd6aafdf3",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1952395,
+        "known_for_department": "Acting",
+        "name": "Wesley Lloyd",
+        "original_name": "Wesley Lloyd",
+        "popularity": 0.4054,
+        "profile_path": null,
+        "cast_id": 97,
+        "character": "Hospital Staff",
+        "credit_id": "6a66c886c59e36a0972950b1",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372486,
+        "known_for_department": "Acting",
+        "name": "Oliver Mulvihill",
+        "original_name": "Oliver Mulvihill",
+        "popularity": 0.2563,
+        "profile_path": null,
+        "cast_id": 98,
+        "character": "School boy",
+        "credit_id": "6a66c89c769f72e7326335f1",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5237991,
+        "known_for_department": "Acting",
+        "name": "John Pond",
+        "original_name": "John Pond",
+        "popularity": 0.2437,
+        "profile_path": null,
+        "cast_id": 99,
+        "character": "School boy",
+        "credit_id": "6a66c8c2c5859afe22cb2a49",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5238000,
+        "known_for_department": "Acting",
+        "name": "Aryan Rahman",
+        "original_name": "Aryan Rahman",
+        "popularity": 0.2867,
+        "profile_path": null,
+        "cast_id": 100,
+        "character": "School boy",
+        "credit_id": "6a66c8dbae9b7166ba6335d8",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5321355,
+        "known_for_department": "Acting",
+        "name": "Dexter Rodger",
+        "original_name": "Dexter Rodger",
+        "popularity": 0.387,
+        "profile_path": null,
+        "cast_id": 101,
+        "character": "School kid",
+        "credit_id": "6a66c91e9b191a9001cb2a1b",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5839622,
+        "known_for_department": "Acting",
+        "name": "Faye Sutcliffe",
+        "original_name": "Faye Sutcliffe",
+        "popularity": 0.4349,
+        "profile_path": null,
+        "cast_id": 102,
+        "character": "Nurse",
+        "credit_id": "6a66c953abad0d7488c6b777",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4888101,
+        "known_for_department": "Acting",
+        "name": "Bevan Thomas",
+        "original_name": "Bevan Thomas",
+        "popularity": 0.3175,
+        "profile_path": null,
+        "cast_id": 103,
+        "character": "School Boy",
+        "credit_id": "6a66c97c6167caa89115d089",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5238001,
+        "known_for_department": "Acting",
+        "name": "Felix Uden",
+        "original_name": "Felix Uden",
+        "popularity": 0.2586,
+        "profile_path": null,
+        "cast_id": 104,
+        "character": "School kid extra",
+        "credit_id": "6a66c995e42357227e001631",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5238003,
+        "known_for_department": "Acting",
+        "name": "Hector Uden",
+        "original_name": "Hector Uden",
+        "popularity": 0.2546,
+        "profile_path": null,
+        "cast_id": 105,
+        "character": "School kid extra",
+        "credit_id": "6a66c9b91adc3e82517a0233",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372497,
+        "known_for_department": "Acting",
+        "name": "Aaliyah Francis Usher-James",
+        "original_name": "Aaliyah Francis Usher-James",
+        "popularity": 0.2591,
+        "profile_path": null,
+        "cast_id": 106,
+        "character": "School girl extra",
+        "credit_id": "6a66c9d0822fcee7d10016d7",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5565171,
+        "known_for_department": "Acting",
+        "name": "Hywel Webb",
+        "original_name": "Hywel Webb",
+        "popularity": 0.2604,
+        "profile_path": null,
+        "cast_id": 107,
+        "character": "Hospital Porter / Nurse",
+        "credit_id": "6a66c9eb5a4fd83d6b7a01a4",
+        "order": 46
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6372503,
+        "known_for_department": "Acting",
+        "name": "Thomas Shaffer",
+        "original_name": "Thomas Shaffer",
+        "popularity": 0.2757,
+        "profile_path": null,
+        "cast_id": 108,
+        "character": "Patron (uncredited)",
+        "credit_id": "6a66ca59fd869f46c915d11b",
+        "order": 47
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67372,
+        "known_for_department": "Writing",
+        "name": "Carlo Collodi",
+        "original_name": "Carlo Collodi",
+        "popularity": 1.2871,
+        "profile_path": "/rDMX3LW7rAJbMlmbkT8ZSAKe8WF.jpg",
+        "credit_id": "65ef87bf7304b5017abeb7f4",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3122176,
+        "known_for_department": "Production",
+        "name": "Rhys Frake-Waterfield",
+        "original_name": "Rhys Frake-Waterfield",
+        "popularity": 1.3294,
+        "profile_path": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg",
+        "credit_id": "66b36cf7cb9c829927886a04",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482026,
+        "known_for_department": "Acting",
+        "name": "Scott Chambers",
+        "original_name": "Scott Chambers",
+        "popularity": 1.1866,
+        "profile_path": "/pANsw8kWaQzSwuVmr1Em5di9u4o.jpg",
+        "credit_id": "66b36be975d97e3eb82b13a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1480607,
+        "known_for_department": "Production",
+        "name": "Nicole Holland",
+        "original_name": "Nicole Holland",
+        "popularity": 0.6744,
+        "profile_path": "/xXqEm0OiSGMJGnCs78YeYeAyTkR.jpg",
+        "credit_id": "66b36e0dccefcf2f9458ef5a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1480608,
+        "known_for_department": "Production",
+        "name": "Stuart Alson",
+        "original_name": "Stuart Alson",
+        "popularity": 0.4771,
+        "profile_path": "/oqeOAcZkqiVl1BWWiDhdJ4Tx5hH.jpg",
+        "credit_id": "66b36dfbeca5552fee2b1523",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491704,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Todd Masters",
+        "original_name": "Todd Masters",
+        "popularity": 0.8151,
+        "profile_path": "/7yvsloILeAFHxmdYq7I8SSFVwMq.jpg",
+        "credit_id": "66b36e2c5e88f587f9a87933",
+        "department": "Crew",
+        "job": "Makeup Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3122176,
+        "known_for_department": "Production",
+        "name": "Rhys Frake-Waterfield",
+        "original_name": "Rhys Frake-Waterfield",
+        "popularity": 1.3294,
+        "profile_path": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg",
+        "credit_id": "66b36cec3139e04832886a89",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3122176,
+        "known_for_department": "Production",
+        "name": "Rhys Frake-Waterfield",
+        "original_name": "Rhys Frake-Waterfield",
+        "popularity": 1.3294,
+        "profile_path": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg",
+        "credit_id": "66cba36872ec07b8042d66a9",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1971403,
+        "known_for_department": "Camera",
+        "name": "Vince Knight",
+        "original_name": "Vince Knight",
+        "popularity": 0.4142,
+        "profile_path": "/5GW2eMQG9C0kiIdumVtSiBIq3ve.jpg",
+        "credit_id": "67912735be9a9aa78277615a",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3553540,
+        "known_for_department": "Acting",
+        "name": "Jenny Miller",
+        "original_name": "Jenny Miller",
+        "popularity": 0.8181,
+        "profile_path": "/jcBgqQrFtkycmhkuCPJ1XycIaB9.jpg",
+        "credit_id": "67ca3772aa523c748a2b3848",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4138362,
+        "known_for_department": "Acting",
+        "name": "Amanda Jane York",
+        "original_name": "Amanda Jane York",
+        "popularity": 0.5495,
+        "profile_path": "/mMtaAgBiRR5ObzrXEGNMUGEmLic.jpg",
+        "credit_id": "67ca37a1dcc9c03ff0cb4868",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5512268,
+        "known_for_department": "Art",
+        "name": "Lok Lam Kitty Ma",
+        "original_name": "Lok Lam Kitty Ma",
+        "popularity": 0.3575,
+        "profile_path": null,
+        "credit_id": "6852890c96b4f226dab6e50e",
+        "department": "Art",
+        "job": "Art Department Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1968395,
+        "known_for_department": "Sound",
+        "name": "Andrew Scott Bell",
+        "original_name": "Andrew Scott Bell",
+        "popularity": 0.6506,
+        "profile_path": "/gIpdWpSFJqJfBM8EE81LzntgPFW.jpg",
+        "credit_id": "685be743da8bbbb5660433c3",
+        "department": "Crew",
+        "job": "Compositor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1968395,
+        "known_for_department": "Sound",
+        "name": "Andrew Scott Bell",
+        "original_name": "Andrew Scott Bell",
+        "popularity": 0.6506,
+        "profile_path": "/gIpdWpSFJqJfBM8EE81LzntgPFW.jpg",
+        "credit_id": "6860556e47bca74fa5229253",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1776,
+        "known_for_department": "Directing",
+        "name": "فرانسيس فورد كوبولا",
+        "original_name": "Francis Ford Coppola",
+        "popularity": 3.885,
+        "profile_path": "/IwGgkmW6IoJ9vuNF0T9CU3FYUX.jpg",
+        "credit_id": "6861cdb56e7c294367fdcc75",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4724905,
+        "known_for_department": "Visual Effects",
+        "name": "Paula Anne Booker-Harrison",
+        "original_name": "Paula Anne Booker-Harrison",
+        "popularity": 0.3317,
+        "profile_path": "/yMzCHsQmlZ7ut5c6nWRwKPcyHOq.jpg",
+        "credit_id": "686539d30101b97c1ebb3f52",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4095038,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Tequila Louise Carter",
+        "original_name": "Tequila Louise Carter",
+        "popularity": 0.3918,
+        "profile_path": null,
+        "credit_id": "686539fe884546e768784068",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Effects Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4698502,
+        "known_for_department": "Production",
+        "name": "Max Arlott",
+        "original_name": "Max Arlott",
+        "popularity": 0.3218,
+        "profile_path": null,
+        "credit_id": "68653a3818efc7169a430c97",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2960391,
+        "known_for_department": "Production",
+        "name": "Carlos Rincon",
+        "original_name": "Carlos Rincon",
+        "popularity": 0.3731,
+        "profile_path": "/tzgsAtv3oudyRtfTAVDVRB7jZ5B.jpg",
+        "credit_id": "6878a478e529351afa203cff",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4605442,
+        "known_for_department": "Art",
+        "name": "Jamie Sneddon",
+        "original_name": "Jamie Sneddon",
+        "popularity": 0.3144,
+        "profile_path": null,
+        "credit_id": "6878a48d47e9bf0829af0d07",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4246926,
+        "known_for_department": "Art",
+        "name": "Iveta Veleva​​​​​​​",
+        "original_name": "Iveta Veleva​​​​​​​",
+        "popularity": 0.2977,
+        "profile_path": null,
+        "credit_id": "6878a496786069ed5d5faba3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3122176,
+        "known_for_department": "Production",
+        "name": "Rhys Frake-Waterfield",
+        "original_name": "Rhys Frake-Waterfield",
+        "popularity": 1.3294,
+        "profile_path": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg",
+        "credit_id": "6883dee122300a50a772e270",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1725146,
+        "known_for_department": "Directing",
+        "name": "Dan Allen",
+        "original_name": "Dan Allen",
+        "popularity": 0.7319,
+        "profile_path": "/xnQbjC9xGqMPVzMzLrhqYo15cN.jpg",
+        "credit_id": "68857eb1e50e3bcc5516c0e1",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3122176,
+        "known_for_department": "Production",
+        "name": "Rhys Frake-Waterfield",
+        "original_name": "Rhys Frake-Waterfield",
+        "popularity": 1.3294,
+        "profile_path": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg",
+        "credit_id": "68857ebe03dfd1f10216ce6d",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3167882,
+        "known_for_department": "Visual Effects",
+        "name": "Seb Cox",
+        "original_name": "Seb Cox",
+        "popularity": 0.5704,
+        "profile_path": "/ywN8qGmLBr7ULc9kxBt4dBbc8aa.jpg",
+        "credit_id": "6965ace129841a924b98c06b",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4429409,
+        "known_for_department": "Acting",
+        "name": "Lewis Santer",
+        "original_name": "Lewis Santer",
+        "popularity": 0.7076,
+        "profile_path": "/itfxF8FK4LasNtlwCAJv9a3T82D.jpg",
+        "credit_id": "69a62f147c6285249f97da26",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6103416,
+        "known_for_department": "Art",
+        "name": "Daniel Medina",
+        "original_name": "Daniel Medina",
+        "popularity": 0.2604,
+        "profile_path": "/1jZeeE9cJAptyyHPLJwJIQOq9Pf.jpg",
+        "credit_id": "69c88bac8cbbdbb45efc51c8",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6103416,
+        "known_for_department": "Art",
+        "name": "Daniel Medina",
+        "original_name": "Daniel Medina",
+        "popularity": 0.2604,
+        "profile_path": "/1jZeeE9cJAptyyHPLJwJIQOq9Pf.jpg",
+        "credit_id": "69c88c82fcd62cd617b4246e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4605251,
+        "known_for_department": "Art",
+        "name": "Mariano Mattos",
+        "original_name": "Mariano Mattos",
+        "popularity": 0.3694,
+        "profile_path": "/v7da5zwSqHd8fupc6a7ZbbKn2mE.jpg",
+        "credit_id": "69c88ca348a679e328c68651",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4605251,
+        "known_for_department": "Art",
+        "name": "Mariano Mattos",
+        "original_name": "Mariano Mattos",
+        "popularity": 0.3694,
+        "profile_path": "/v7da5zwSqHd8fupc6a7ZbbKn2mE.jpg",
+        "credit_id": "69c88cb7869afebd7eb42438",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4916781,
+        "known_for_department": "Acting",
+        "name": "Cameron Bell",
+        "original_name": "Cameron Bell",
+        "popularity": 0.8068,
+        "profile_path": "/4pHVLu11DmVMJDgGo1X5rZH53Uh.jpg",
+        "credit_id": "69f7ede7aa49a5eca5a0ad2e",
+        "department": "Crew",
+        "job": "Cinematography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5594769,
+        "known_for_department": "Sound",
+        "name": "Rhys Warrington",
+        "original_name": "Rhys Warrington",
+        "popularity": 0.5301,
+        "profile_path": "/bHAGkziulOtovrQ9z1rVwBgrjQ4.jpg",
+        "credit_id": "69fb52c02887634d2eb9ab8b",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4916781,
+        "known_for_department": "Acting",
+        "name": "Cameron Bell",
+        "original_name": "Cameron Bell",
+        "popularity": 0.8068,
+        "profile_path": "/4pHVLu11DmVMJDgGo1X5rZH53Uh.jpg",
+        "credit_id": "6a17b875f64188d57d156aa7",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2169049,
+        "known_for_department": "Acting",
+        "name": "Andy van Veen",
+        "original_name": "Andy van Veen",
+        "popularity": 0.3001,
+        "profile_path": "/4BspdVrUfuEuxZAYZkFiuI9tJzr.jpg",
+        "credit_id": "6a1b7128bdbdd7aaeb52badb",
+        "department": "Crew",
+        "job": "Chef"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65677,
+        "known_for_department": "Writing",
+        "name": "Don Mancini",
+        "original_name": "Don Mancini",
+        "popularity": 1.1783,
+        "profile_path": "/5f05lY18vZltliZ4JuteHHKdULl.jpg",
+        "credit_id": "6a52611d4ce835a2509a9ad7",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2446347,
+        "known_for_department": "Production",
+        "name": "David Coppa",
+        "original_name": "David Coppa",
+        "popularity": 0.3262,
+        "profile_path": null,
+        "credit_id": "6a8e423b3ddc1c2ee0460214",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5505092,
+        "known_for_department": "Production",
+        "name": "Lizzy G. O’Connor",
+        "original_name": "Lizzy G. O’Connor",
+        "popularity": 0.2834,
+        "profile_path": null,
+        "credit_id": "6a8e4278c8a80e9aa5245211",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4618443,
+        "known_for_department": "Sound",
+        "name": "Ryan Hatton",
+        "original_name": "Ryan Hatton",
+        "popularity": 0.4306,
+        "profile_path": null,
+        "credit_id": "6a8e4297ad8803e01fc36a13",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3122176,
+        "known_for_department": "Production",
+        "name": "Rhys Frake-Waterfield",
+        "original_name": "Rhys Frake-Waterfield",
+        "popularity": 1.3294,
+        "profile_path": "/a0ETg5j54Nca7dO2s9Tfhco0u40.jpg",
+        "credit_id": "6a8e4437198570f086c36ab4",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1482026,
+        "known_for_department": "Acting",
+        "name": "Scott Chambers",
+        "original_name": "Scott Chambers",
+        "popularity": 1.1866,
+        "profile_path": "/pANsw8kWaQzSwuVmr1Em5di9u4o.jpg",
+        "credit_id": "6a8e4440e76451e0f21b3d33",
+        "department": "Production",
+        "job": "Location Manager"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/sfUgGs1KtMWpcywgPWmH4c7J8eC.jpg",
+        "id": 16342,
+        "title": "The Children",
+        "original_title": "The Children",
+        "overview": "A relaxing Christmas vacation turns into a terrifying fight for survival as the children begin to turn on their parents.",
+        "poster_path": "/vTyc2ahe0qq7BVBlPD3L4zAl7WU.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "popularity": 2.2244,
+        "release_date": "2008-12-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.075,
+        "vote_count": 427
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kSeU4uk19t82k6Cao7hc6ktDYhF.jpg",
+        "id": 913290,
+        "title": "بربري",
+        "original_title": "Barbarian",
+        "overview": "‫خلال سفرها إلى \"ديترويت\"، تستأجر امرأة شابة (جورجينا كامبل) منزلاً. لكن حين تصل في وقت متأخر من الليل، تكتشف أن هناك حجزاً آخر في الوقت نفسه وأن هناك رجلاً غريباً (بيل سكارسغارد) يقيم في المنزل بالفعل. رغم فطنتها، إلّا أنها تقرر أن تمضي الأمسية في المنزل. سرعان ما تشدّها أصوات غامضة إلى أجزاء أخرى من المنزل، حيث تثبت الأمور المرعبة التي تكتشفها أن هناك ما يثير الرعب أكثر من ضيف غير متوقع في المنزل. من استوديوهات \"تونتيث سنتشري\" و\"يو ريجنسي\"، يلعب (جاستن لونغ) البطولة أيضاً في \"Barbarian\". الفيلم من تأليف وإخراج (زاك كريغر).",
+        "poster_path": "/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "popularity": 13.6988,
+        "release_date": "2022-09-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.87,
+        "vote_count": 3475
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/48LdnfGahm8LuM2cg7LFWEmrTEd.jpg",
+        "id": 1081208,
+        "title": "The Dogs",
+        "original_title": "The Dogs",
+        "overview": "After fleeing his psychotic father, a young teen and his mom seek refuge in a remote farmhouse, only to face a pack of ferocious dogs and the sinister spirits that haunt the property.",
+        "poster_path": "/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53,
+          9648
+        ],
+        "popularity": 4.0131,
+        "release_date": "2025-06-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.401,
+        "vote_count": 71
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y5uIU4LMXPpINIpTDT6ry1lu9P4.jpg",
+        "id": 10351,
+        "title": "Wishmaster",
+        "original_title": "Wishmaster",
+        "overview": "The Djinn, having been released from his ancient prison, seeks to capture the soul of the woman who discovered him, thereby opening a portal and freeing his fellow Djinn to take over the earth.",
+        "poster_path": "/4BwP7ruojwdGr73iD9UWKSA7M19.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          14
+        ],
+        "popularity": 5.7211,
+        "release_date": "1997-09-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.121,
+        "vote_count": 730
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hqS6WKgGBKZITXLCiBBIBfxvE2J.jpg",
+        "id": 795522,
+        "title": "The Spine of Night",
+        "original_title": "The Spine of Night",
+        "overview": "When ancient dark magic falls into sinister hands and unleashes ages of suffering onto mankind, a group of heroes from different eras and cultures must band together in order to defeat it at all costs.",
+        "poster_path": "/9uERhKRCtgDztLsx5Pg36j61rqC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          14,
+          28,
+          27
+        ],
+        "popularity": 3.2344,
+        "release_date": "2021-10-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.005,
+        "vote_count": 102
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tNa19CK0CQZl5rxZ35QRdKAT2s0.jpg",
+        "id": 460885,
+        "title": "ماندي",
+        "original_title": "Mandy",
+        "overview": "ريد و ماندي يعيشان حياه تقودها المحبة والسلام. ولكن عندما يدمر الملجأه، يصعد ريد إلى رحلة خيالية مليئة بالثأر الدموي.",
+        "poster_path": "/m0yf7J7HsKeK6E81SMRcX8vx6mH.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          28,
+          27
+        ],
+        "popularity": 6.4824,
+        "release_date": "2018-09-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.205,
+        "vote_count": 2228
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nO8lpaJLo1UVIXL7eM5ewwudvtY.jpg",
+        "id": 10836,
+        "title": "Dagon",
+        "original_title": "Dagon",
+        "overview": "A boating accident off the coast of Spain sends Paul and his girlfriend Barbara to the decrepit fishing village of Imboca. As night falls, people start to disappear and things not quite human start to appear. Paul is pursued by the entire town. Running for his life, he uncovers Imboca's secret..they worship Dagon, a monstrous god of the sea...and Dagon's unholy offspring are on the loose...",
+        "poster_path": "/8S648eMKObi8ERFS7cSYDocxSaZ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          27,
+          53
+        ],
+        "popularity": 4.2851,
+        "release_date": "2001-10-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.123,
+        "vote_count": 493
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lhiLBuFJcRC0wkjsj04vfAfZWPm.jpg",
+        "id": 10361,
+        "title": "Ginger Snaps 2: Unleashed",
+        "original_title": "Ginger Snaps 2: Unleashed",
+        "overview": "Brigitte has escaped the confines of Bailey Downs but she's not alone. Another werewolf is tailing her closely and her sister's specter haunts her. An overdose of Monkshood - the poison that is keeping her transformation at bay - leads to her being incarcerated in a rehabilitation clinic for drug addicts where her only friend is an eccentric young girl by the name of Ghost.",
+        "poster_path": "/no1Qw1jMGrH77fIuWxwYZ7BIhHa.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          14
+        ],
+        "popularity": 3.0305,
+        "release_date": "2004-01-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 377
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/frIVSxnqgQfEOedXxZHH5y3lSJR.jpg",
+        "id": 333357,
+        "title": "Stephanie",
+        "original_title": "Stephanie",
+        "overview": "After a mysterious global crisis, a young girl is left alone to hide from a malevolent power that stalks her home. Her parents eventually return and the struggle begins to save their daughter.",
+        "poster_path": "/saH984W3ZGjRX0NMCEsuKh8VUP9.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 2.0866,
+        "release_date": "2017-04-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.165,
+        "vote_count": 264
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ucLGZ3zBRFDhdlRNhvXdkjXkNyd.jpg",
+        "id": 298250,
+        "title": "Jigsaw",
+        "original_title": "Jigsaw",
+        "overview": "تنتشر جثث القتلى في كافة أرجاء المدينة، ومع سير التحقيق حول هوية المتسبب في هذه الميتات الشنيعة، تشير كل الأدلة إلى رجل واحد وهو (جون كرامر)، لكن كيف يحدث هذا بينما هو ميت منذ قرابة عقد من الزمان؟",
+        "poster_path": "/7RwHxhdUNS996JPFNB9a7CJtlwR.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 8.2075,
+        "release_date": "2017-10-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.208,
+        "vote_count": 4046
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tcV7eCdGFN3RzB2ByWRrH5Xf7cU.jpg",
+        "id": 10185,
+        "title": "The Midnight Meat Train",
+        "original_title": "The Midnight Meat Train",
+        "overview": "A photographer's obsessive pursuit of dark subject matter leads him into the path of a serial killer who stalks late night commuters, ultimately butchering them in the most gruesome ways.",
+        "poster_path": "/x5YbfyUA8huK0shr008xwzNVJ5Y.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          14
+        ],
+        "popularity": 5.9663,
+        "release_date": "2008-08-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.195,
+        "vote_count": 1303
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+        "id": 176,
+        "title": "Saw",
+        "original_title": "Saw",
+        "overview": "(آدم) و(جوردون) رجلان غريبان عن بعضهما البعض، يستيقظان في غرفة غريبة بمكان غير معلوم ومعهم جثة رجل لا يعرفونه داخل الغرفة، فضلًا عن أدوات عشوائية وألغاز متباينة متناثرة حولهم؛ فيبدآن التساؤل عن مُدبر كل هذه الأمور واستنباط ما يمكنهما التوصل إليه مما هو متاح لهما بالمكان.",
+        "poster_path": "/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          80
+        ],
+        "popularity": 19.612,
+        "release_date": "2004-10-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.427,
+        "vote_count": 10302
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/g15PR8eQV9DehSWlagvdnJZqoRq.jpg",
+        "id": 602734,
+        "title": "Spiral: From the Book of Saw",
+        "original_title": "Spiral: From the Book of Saw",
+        "overview": "يقوم مجرم وعبقري بتنفيذ خطة صادمة لسفك الدماء من جديد، ليجد ضابط  وزميله أنفسهما في مواجهة جرائم.",
+        "poster_path": "/cTvSDfBuXTZTdRCNduGMANd7VEP.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 11.064,
+        "release_date": "2021-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.886,
+        "vote_count": 2355
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uzlGbsQkpK6C3ZiqRqKw9CwK0Do.jpg",
+        "id": 9945,
+        "title": "Vampires",
+        "original_title": "Vampires",
+        "overview": "يقود صياد مصاصي الدماء جاك كرو فريقًا من المرتزقة لمطاردة مصاص دماء شرس يسعى للحصول على صليب قديم يمنحه القدرة على مقاومة ضوء الشمس.",
+        "poster_path": "/4JhaFBPwyC5IM1rKaRR07Gzutse.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          14,
+          27
+        ],
+        "popularity": 5.61,
+        "release_date": "1998-10-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.311,
+        "vote_count": 1402
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7lWaPb80r6BsL9V436Cgs6SYklb.jpg",
+        "id": 1160003,
+        "title": "Night of the Hunted",
+        "original_title": "Night of the Hunted",
+        "overview": "When an unsuspecting woman stops at a remote gas station in the dead of night, she's made the plaything of a sociopath sniper with a secret vendetta. To survive, she must not only dodge his bullets and fight for her life, but also figure out who wants her dead and why.",
+        "poster_path": "/84YOsylmgr181BHrTKlmaKs8IzV.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "popularity": 4.0302,
+        "release_date": "2023-10-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 194
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xqhTXB86dkKe4jalwUFIjiFgaYB.jpg",
+        "id": 297608,
+        "title": "The Taking of Deborah Logan",
+        "original_title": "The Taking of Deborah Logan",
+        "overview": "What starts as a poignant medical documentary about Deborah Logan's descent into Alzheimer's disease and her daughter's struggles as caregiver degenerates into a maddening portrayal of dementia at its most frightening, as hair-raising events begin to plague the family and crew and an unspeakable malevolence threatens to tear the very fabric of sanity from them all.",
+        "poster_path": "/77i7EBUyQKOUiZeYQ5tWDGQb0AI.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "popularity": 6.7681,
+        "release_date": "2014-10-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.566,
+        "vote_count": 1535
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7GAgYVK29A4NADWhPbqC9c44X7P.jpg",
+        "id": 9871,
+        "title": "Ginger Snaps",
+        "original_title": "Ginger Snaps",
+        "overview": "The story of two outcast sisters, Ginger and Brigitte, in the mindless suburban town of Bailey Downs. On the night of Ginger's first period, she is savagely attacked by a wild creature. Ginger's wounds miraculously heal but something is not quite right. Now Brigitte must save her sister and save herself.",
+        "poster_path": "/ozohDiJd7Oi65NEf8B0ya7lR9Fr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          14
+        ],
+        "popularity": 4.301,
+        "release_date": "2000-12-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.931,
+        "vote_count": 1029
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/M4flX60WzUuKFruXTp3OhLxhnv.jpg",
+        "id": 13515,
+        "title": "Mirrors",
+        "original_title": "Mirrors",
+        "overview": "An ex-cop and his family are the target of an evil force that is using mirrors as a gateway into their home.",
+        "poster_path": "/bt5a4ThyLpLTsia2e2ZTLzQjXO0.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 6.0931,
+        "release_date": "2008-08-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.309,
+        "vote_count": 2117
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+        "id": 1330421,
+        "title": "Bone Lake",
+        "original_title": "Bone Lake",
+        "overview": "تذهب شابة وصديقها لقضاء عطلة رومانسية في منزل منعزل على ضفاف بحيرة، لكنهما يكتشفان أن المنزل حُجز أيضًا لزوجين غامضين. وسرعان ما تتحول الإقامة المشتركة إلى لعبة نفسية مليئة بالأسرار والتلاعب، وتنتهي بصراع دموي من أجل البقاء.",
+        "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "popularity": 8.3531,
+        "release_date": "2025-10-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.864,
+        "vote_count": 246
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4lYkJp44zjCCQFSOL99tff6zoA3.jpg",
+        "id": 354251,
+        "title": "Southbound",
+        "original_title": "Southbound",
+        "overview": "The film contains five stories set on desolate stretches of a desert highway. Two men on the run from their past, a band on its way to a gig, a man struggling to get home, a brother in search of his long-lost sister and a family on vacation are forced to confront their worst fears and darkest secrets in these interwoven tales.",
+        "poster_path": "/ehXtB1jlMx8FBlsX9JLhSQkvlZp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          53,
+          27,
+          878
+        ],
+        "popularity": 3.9042,
+        "release_date": "2015-09-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.895,
+        "vote_count": 700
+      }
+    ],
+    "total_pages": 3,
+    "total_results": 49
+  },
+  "watch/providers": {
+    "results": {
+      "AT": {
+        "link": "https://www.themoviedb.org/movie/1232569-pinocchio-unstrung/watch?locale=AT",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 19
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 19
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/1232569-pinocchio-unstrung/watch?locale=CA",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/movie/1232569-pinocchio-unstrung/watch?locale=CH",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/movie/1232569-pinocchio-unstrung/watch?locale=DE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/movie/1232569-pinocchio-unstrung/watch?locale=EG",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/1232569-pinocchio-unstrung/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/1232569-pinocchio-unstrung/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/1232569-pinocchio-unstrung/watch?locale=IE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1232569-pinocchio-unstrung/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      }
+    }
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/92C1qvCfarT0GVNtRujJywONi39.jpg",
+        "genre_ids": [
+          28,
+          12,
+          14,
+          878
+        ],
+        "id": 849,
+        "title": "Krull",
+        "original_language": "en",
+        "original_title": "Krull",
+        "overview": "",
+        "popularity": 6.994,
+        "poster_path": "/izDbySIrTmID0Nh6UqcWrUvOMjU.jpg",
+        "release_date": "1983-07-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.044,
+        "vote_count": 644
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          14,
+          10749
+        ],
+        "id": 809,
+        "title": "شريك 2",
+        "original_language": "en",
+        "original_title": "Shrek 2",
+        "overview": "يبدأ الجزء الثاني من حيث انتهى الجزء الأول، بعدما تحولت الأميرة فيونا إلى غولة قبيحة وتزوجت شريك وعاشا معا في مستنقعة، يتوجب على فيونا وشريك زيارة والديها الملك والملكة بعد فترة غياب عنهما طويلة، لكنهما يصابان بصدمة كبيرة، بعد لقائهما مع ابنتهما في هيئتها الجديدة، تتقبل الملكة الأم الواقع الجديد الأليم، بينما يرفضه الملك ويقرر التخلص من شريك، وبعد فشله بجميع المؤامرات، يلجأ إلى الجنية العرابة لتعيد له ابنته بصورتها الحقيقة، ولكنها تشترط عليه أن تتزوج من ابنها المغرور.",
+        "popularity": 21.1784,
+        "poster_path": "/gbn4OmfFNnzp9pfXDYh7CbxgqLN.jpg",
+        "release_date": "2004-05-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.328,
+        "vote_count": 13745
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+        "genre_ids": [
+          14,
+          12,
+          16,
+          35,
+          10751
+        ],
+        "id": 810,
+        "title": "شريك 3",
+        "original_language": "en",
+        "original_title": "Shrek the Third",
+        "overview": "عندما يسقط حماه -الملك هارولد- مريضًا، يصبح شريك الوريث المنتظر للأرض البعيدة، من أجل عدم التخلي عن حبيبته، يجند شريك أصدقائه الحمار والقط لتثبيت أرتي المتمرد الملك الجديد، ولكن الأميرة فيونا، تنظم مسيرات مجموعة من الصديقات الملكية لدرء انقلاب من قبل الأمير الساحر.",
+        "popularity": 21.6595,
+        "poster_path": "/t3bVJm42Dr9VB6ZOr8rrLZ0V2kR.jpg",
+        "release_date": "2007-05-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.314,
+        "vote_count": 9978
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          12,
+          14,
+          10749
+        ],
+        "id": 812,
+        "title": "علاء الدين",
+        "original_language": "en",
+        "original_title": "Aladdin",
+        "overview": "علاء الدين هو طفل شوارع يعيش في مدينة كبيرة مزدحمة مع صديقه المخلص القرد (آبو)، ليصادف في المدينة الأميرة ياسمين، ويحبها، فيذهب إلى السجن و يتورط في مؤامرة لحكم الأرض من تخطيط مستشار السلطان (جعفر) بمساعدة مصباح غامض.",
+        "popularity": 21.0882,
+        "poster_path": "/wegx7wEkOZszm4HNlBVn7wKKtui.jpg",
+        "release_date": "1992-11-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.657,
+        "vote_count": 12241
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg",
+        "genre_ids": [
+          35,
+          27,
+          14
+        ],
+        "id": 814,
+        "title": "An American Werewolf in London",
+        "original_language": "en",
+        "original_title": "An American Werewolf in London",
+        "overview": "",
+        "popularity": 9.5419,
+        "poster_path": "/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+        "release_date": "1981-08-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.387,
+        "vote_count": 2785
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+        "genre_ids": [
+          14,
+          18,
+          10752
+        ],
+        "id": 1417,
+        "title": "متاهة بان",
+        "original_language": "es",
+        "original_title": "El laberinto del fauno",
+        "overview": "في إسبانيا ما بعد الحرب الأهلية، تنتقل \"أوفيليا\" البالغة من العمر 10 سنوات مع والدتها الحامل للعيش تحت سيطرة زوج أمها القاسي. تنجذب \"أوفيليا\" إلى متاهة غامضة، حيث تلتقي بكائن فاون يخبرها بأنها قد تكون أميرة مفقودة من مملكة تقع تحت الأرض. وللعودة إلى والدها الحقيقي، يجب عليها إكمال سلسلة من المهام الغريبة والخطيرة، التي تجعل الحدود بين الواقع والخيال غير واضحة.",
+        "popularity": 18.4448,
+        "poster_path": "/qx0ROTFkMSbnR6g0zGDRE4cGuWY.jpg",
+        "release_date": "2006-10-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.768,
+        "vote_count": 11714
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7bBeUxfZZ1zTxJ4IgOK1M9V3aMi.jpg",
+        "genre_ids": [
+          18,
+          14
+        ],
+        "id": 1574775,
+        "title": "کشیدن نخ‌ها",
+        "original_language": "fa",
+        "original_title": "کشیدن نخ‌ها",
+        "overview": "",
+        "popularity": 0.4667,
+        "poster_path": "/5dbCvBMuyQH2rwIFi0w30rFQ3px.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6mYkt6TLIONY4T4GoAeCrCD7EpB.jpg",
+        "genre_ids": [
+          28,
+          27,
+          878
+        ],
+        "id": 263416,
+        "title": "Dead Sea",
+        "original_language": "en",
+        "original_title": "Dead Sea",
+        "overview": "",
+        "popularity": 0.8965,
+        "poster_path": "/bc7zTttPdDMLjOWmpnUGab0ZyNs.jpg",
+        "release_date": "2014-04-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 3.675,
+        "vote_count": 40
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2UtydOviCcrxG8EUrBMQBPSmIgh.jpg",
+        "genre_ids": [
+          35,
+          28,
+          27
+        ],
+        "id": 1575025,
+        "title": "Premiere of the Dead",
+        "original_language": "en",
+        "original_title": "Premiere of the Dead",
+        "overview": "",
+        "popularity": 1.2438,
+        "poster_path": "/pSqMuTw6RJNsCuagh4NXX15wOVV.jpg",
+        "release_date": "2025-10-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5UX6M0aEphiW6Xmy5rpYX75glbo.jpg",
+        "genre_ids": [
+          14,
+          27,
+          35
+        ],
+        "id": 927,
+        "title": "مخلوقات الغريملين",
+        "original_language": "en",
+        "original_title": "Gremlins",
+        "overview": "يجلب أحد الأشخاص إلى منزله مخلوقًا وديعًا كهدية عيد الميلاد لابنه، لكنه يلد جيشًا مرعبًا من الوحوش الشيطانية الصغيرة.",
+        "popularity": 12.8693,
+        "poster_path": "/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+        "release_date": "1984-06-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.145,
+        "vote_count": 7134
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 1574809,
+        "title": "Puppet",
+        "original_language": "en",
+        "original_title": "Puppet",
+        "overview": "",
+        "popularity": 0.6002,
+        "poster_path": null,
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jHjOY9vgE7maH2HRk2fd9lOPg8.jpg",
+        "genre_ids": [
+          18,
+          14
+        ],
+        "id": 1024,
+        "title": "Heavenly Creatures",
+        "original_language": "en",
+        "original_title": "Heavenly Creatures",
+        "overview": "تنتقل جولييت المراهقة الثرية ومبكرة النضوج من إنجلترا إلى نيوزيلندا مع أسرتها ، وسرعان ما تصادق بولين الهادئة والممتدة من خلال حبها المشترك للخيال والأدب. عندما يبدأ آباؤهم في الشك في أن علاقتهم الشديدة والوسواس المتزايدة أصبحت غير صحية ، تدبر الفتيات خطة خبيثة لأولئك الذين يهددون بإبقائهم منفصلين.",
+        "popularity": 3.0917,
+        "poster_path": "/uvb86wVCIqD3Rlbr0GTNgWDF7Zo.jpg",
+        "release_date": "1994-09-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.96,
+        "vote_count": 1060
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nJ0jz1J3zNja31UEMeklhgFeMw5.jpg",
+        "genre_ids": [
+          53,
+          878,
+          9648
+        ],
+        "id": 1090,
+        "title": "The Thirteenth Floor",
+        "original_language": "en",
+        "original_title": "The Thirteenth Floor",
+        "overview": "",
+        "popularity": 6.8943,
+        "poster_path": "/7oaie3ZBc9UuWZLF24crro1pone.jpg",
+        "release_date": "1999-04-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.079,
+        "vote_count": 1612
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8ScGUtKTupr5rVLiXRmffjKMRhH.jpg",
+        "genre_ids": [
+          14,
+          18,
+          53,
+          10749
+        ],
+        "id": 1491,
+        "title": "المخادع",
+        "original_language": "en",
+        "original_title": "The Illusionist",
+        "overview": "بنظرته على أرستقراطي جميل ، يستخدم المخادع الموهوب أيزنهايم قواه لإبعادها عن ولي العهد المخطوبة. لكن مخطط أيزنهايم يخلق اضطرابًا داخل النظام الملكي ويثير شكوك مفتش عنيد.",
+        "popularity": 8.7979,
+        "poster_path": "/1O9jUvqkHaGBMVRyOJz1AlkmALW.jpg",
+        "release_date": "2006-08-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.301,
+        "vote_count": 5465
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+        "genre_ids": [
+          12,
+          14
+        ],
+        "id": 673,
+        "title": "هاري بوتر وسجين أزكابان",
+        "original_language": "en",
+        "original_title": "Harry Potter and the Prisoner of Azkaban",
+        "overview": "يعود هاري بوتر ورون وهيرميون إلى مدرسة هوجورتس للسحر والشعوذة لبدء عامهم الدراسي الثالث، حيث يخوضون غمار لغز سجين هارب يُشكّل خطرًا جسيمًا على الساحر الشاب.",
+        "popularity": 37.2156,
+        "poster_path": "/cjkm4EKCT3SF11wUnJ4dwPqcJfk.jpg",
+        "release_date": "2004-05-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.01,
+        "vote_count": 23596
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+        "genre_ids": [
+          27,
+          35,
+          14
+        ],
+        "id": 765,
+        "title": "الشر المميت 2",
+        "original_language": "en",
+        "original_title": "Evil Dead II",
+        "overview": "آشلي ويليامز ورفاقه يحاولون النجاة من لعنة أيقظت شيء شرير من عمق الغابة، وذلك بعد لجوئهم إلى كوخ ناء في الغابة، خاصة بعد عثورهم على شريط مسجل لبروفيسور وكتاب الشرور.",
+        "popularity": 9.6046,
+        "poster_path": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg",
+        "release_date": "1987-03-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.528,
+        "vote_count": 3640
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bHKj3m3eLlU2wJQBlAs7wv6ZMBv.jpg",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "id": 768,
+        "title": "من الجحيم",
+        "original_language": "en",
+        "original_title": "From Hell",
+        "overview": "في لندن عام 1888، يحقق مفتش من شرطة سكوتلانديارد في سلسلة جرائم قتل مروعة منسوبة إلى جاك السفاح، بينما تقوده تحرياته إلى أسرار ومؤامرات غامضة",
+        "popularity": 6.7125,
+        "poster_path": "/t2WpWM8nBO4sULXr2bDfNEt4qgr.jpg",
+        "release_date": "2001-02-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.686,
+        "vote_count": 3085
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pg93fJ6x0m2XOvTOgTR3NA6F4Vc.jpg",
+        "genre_ids": [
+          27,
+          14,
+          16
+        ],
+        "id": 444663,
+        "title": "Debbie Does Damnation",
+        "original_language": "en",
+        "original_title": "Debbie Does Damnation",
+        "overview": "",
+        "popularity": 1.4757,
+        "poster_path": "/tu2fdLRQk7j8uvh86eiwabXG0Vc.jpg",
+        "release_date": "1999-11-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qSP072apfe2EEcd5Qg9vGYy2OLw.jpg",
+        "genre_ids": [
+          12,
+          878,
+          28,
+          9648
+        ],
+        "id": 262504,
+        "title": "سلسلة المختلفة: المخلصة",
+        "original_language": "en",
+        "original_title": "Allegiant",
+        "overview": "تدور احداث فيلم حول تهرب (تريس) مع (فور) خلف الحائط القريب من مدينة (شيكاجو)، تاركين مدينتهما وعائلاتهما بهدف البحث عن حل للمدينة المتورطة، وعليهما اتخاذ قرارهما بالوثوق في بعضهما البعض وإنقاذ مدينتهما والعالم من وراءهما، بتخليصهم من السلطة الغاشمة التي عملت على تقسيمهم لسنوات من خلال تلك المواجهة.",
+        "popularity": 11.8315,
+        "poster_path": "/raWaUngHhTqE3UMqxfRmj9bnw1u.jpg",
+        "release_date": "2016-03-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.103,
+        "vote_count": 7099
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lao4tAa7y5QX5benDMyIeeRiTCb.jpg",
+        "genre_ids": [
+          14,
+          28,
+          53
+        ],
+        "id": 834,
+        "title": "Underworld: Evolution",
+        "original_language": "en",
+        "original_title": "Underworld: Evolution",
+        "overview": "تعرض أحداث الفيلم الحرب بين مصاصي الدماء والمذؤوبين، حيث يعود إلى بدايات الخلاف القديم بين القبيلتين: (سيلين) مصاصة الدماء الجميلة و(مايكل) الذئب الهجين، في محاولة لكشف أسرار أسلافهما، حيث سيكون هذا العمل حكاية جديدة عن التآمر والحب المحرم، والتي تأخذهما إلى معركة لإنهاء كل الحروب.",
+        "popularity": 8.1709,
+        "poster_path": "/oJaQG353uOzOqffQ5K2hg03k4Vp.jpg",
+        "release_date": "2006-01-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.605,
+        "vote_count": 4488
+      }
+    ],
+    "total_pages": 6126,
+    "total_results": 122507
+  }
+}

@@ -1,0 +1,1350 @@
+{
+  "adult": false,
+  "backdrop_path": "/kGxPVyra9Lvf5tPmTXnMEBpwOip.jpg",
+  "created_by": [
+    {
+      "id": 1256862,
+      "credit_id": "52596cf1760ee34661a11131",
+      "name": "Bea Schmidt",
+      "original_name": "Bea Schmidt",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    50
+  ],
+  "first_air_date": "2005-09-26",
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 10766,
+      "name": "أوبرا صابونية"
+    }
+  ],
+  "homepage": "",
+  "id": 45789,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-02-03",
+  "last_episode_to_air": {
+    "id": 7010105,
+    "name": "الحلقة 50",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-02-03",
+    "episode_number": 50,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 50,
+    "season_number": 22,
+    "show_id": 45789,
+    "still_path": "/hyDp6Q44OkDfSyfBmIxnfTKHPZ4.jpg"
+  },
+  "name": "Sturm der Liebe",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 4535,
+  "number_of_seasons": 22,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Sturm der Liebe",
+  "overview": "",
+  "popularity": 186.6215,
+  "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+  "production_companies": [
+    {
+      "id": 99996,
+      "logo_path": "/liznTlaTMPe5rcFO5wSTSJAzyKj.png",
+      "name": "Bavaria Fiction",
+      "origin_country": "DE"
+    },
+    {
+      "id": 25162,
+      "logo_path": null,
+      "name": "Bavaria Fernsehproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-09-26",
+      "episode_count": 313,
+      "id": 91102,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/7lepnXbhtOiT8hvoDdvmB0TY9bZ.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-02-01",
+      "episode_count": 207,
+      "id": 91103,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/bNRnl5uCoqUOR3MWDLzWEmXq3o6.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-12-19",
+      "episode_count": 183,
+      "id": 91104,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/64my7t1S2yHHadBDA45uJ12lVjF.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-09",
+      "episode_count": 211,
+      "id": 91105,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/tS8Sst8leI05SMRIOdlbTotY3fj.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-15",
+      "episode_count": 203,
+      "id": 91106,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/4H871VRjGh13Mu519BejOVUBACI.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-06",
+      "episode_count": 274,
+      "id": 91107,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/xN04jVI91vdbHVNJzIuyNOkK65A.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-11",
+      "episode_count": 209,
+      "id": 91108,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/g00q4QC7fWcybfpWwgKbKA9uphE.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-06",
+      "episode_count": 214,
+      "id": 91109,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/zGrzBdkrbe6v4tVITIPii1PPQoo.jpg",
+      "season_number": 8,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2013-08-05",
+      "episode_count": 252,
+      "id": 91110,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/bvvWdgyyOqyvmuVB11TgzbkSTqj.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-11",
+      "episode_count": 200,
+      "id": 91111,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/8M4h1P6mCZ7VPvdQbffFkgMRhwB.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-07-30",
+      "episode_count": 233,
+      "id": 91112,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/J1NZAVs0RGN8xZVWVKo1dZJQsB.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-07-26",
+      "episode_count": 193,
+      "id": 91113,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/3E4AAnt8Y9pHQ1v6TvFFhrcdirm.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-05-23",
+      "episode_count": 120,
+      "id": 91114,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/jKxhLlWr4DeXx0Fsh89dj7lnWkw.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-11-20",
+      "episode_count": 207,
+      "id": 93674,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/i5rB6qORyOmIry3oZOZPNGQrCVv.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-19",
+      "episode_count": 245,
+      "id": 126386,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/4LDf43tErk2k5mnDtgln4YQD1Q8.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-11-06",
+      "episode_count": 251,
+      "id": 188672,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/6MmyTmwERYapxnsueU5pRWEtSuy.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-12-22",
+      "episode_count": 214,
+      "id": 366879,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/ykzX3wYvBRSm9xnmPtOQLrWVLbT.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-12-01",
+      "episode_count": 228,
+      "id": 366878,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/k2jW78v5X5ueliQscdfrarIyv6I.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 194,
+      "id": 356974,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/1hghjpxXGPFaSHvtwesqO6QkEZP.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-11-22",
+      "episode_count": 183,
+      "id": 366880,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/gxMQGb1zHMN5mqQuNodbC9U6w8L.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-12-04",
+      "episode_count": 151,
+      "id": 422685,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/1azB3CxhzW07Ll06MLZeI4fiR5m.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-28",
+      "episode_count": 50,
+      "id": 462837,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/3aMgu2uNb0t4FG9j1BGRVpSIooF.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6,
+  "vote_count": 39,
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/h8A6J31szyLPWU2HXS2wZkp8aQa.jpg",
+        "id": 3437,
+        "name": "Hotel",
+        "original_name": "Hotel",
+        "overview": "Hotel is an American prime time drama series which aired on ABC from September 21, 1983 to May 5, 1988 in the timeslot following Dynasty.\n\nBased on Arthur Hailey's 1965 novel of the same name, the series was produced by Aaron Spelling and set in the elegant and fictitious St. Gregory Hotel in San Francisco. Establishing shots of the hotel were filmed in front of The Fairmont San Francisco atop the Nob Hill neighborhood. Episodes followed the activities of passing guests, as well as the personal and professional lives of the hotel staff.",
+        "poster_path": "/bYOQJm7O7cEPvkcMp3VI6TSP6Eg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 26.4736,
+        "first_air_date": "1982-08-21",
+        "softcore": false,
+        "vote_average": 6.846,
+        "vote_count": 26,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/24plaX4WSNEbqx74MzZBLPwlpBE.jpg",
+        "id": 1054,
+        "name": "The Young and the Restless",
+        "original_name": "The Young and the Restless",
+        "overview": "The rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Baldwin and Winters families.",
+        "poster_path": "/mN3kMuh7Cy9byeySK6pymnpIOZO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 19.9543,
+        "first_air_date": "1973-03-26",
+        "softcore": false,
+        "vote_average": 7.012,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5GXW5SRUO8oWLOAaOhK1nxiCZEV.jpg",
+        "id": 236921,
+        "name": "Vuelve a mí",
+        "original_name": "Vuelve a mí",
+        "overview": "The kidnapping of her son unleashes a storm in Nuria García's life who, in the most difficult moment, meets Santiago Zepeda; together, they find redemption in the face of adversity.",
+        "poster_path": "/sGgYl7voI8T34azn5biA0MRpG3c.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 7.7004,
+        "first_air_date": "2023-10-09",
+        "softcore": false,
+        "vote_average": 8.55,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/72zLfNDaL8JpfLDwmQ2b8DPbeHc.jpg",
+        "id": 21762,
+        "name": "Parenthood",
+        "original_name": "Parenthood",
+        "overview": "The trials and tribulations of the very large, colorful and imperfect Braverman family.",
+        "poster_path": "/9KjKLJrrUI1sU9bNsQaQ5H8kTyY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 31.0723,
+        "first_air_date": "2010-03-02",
+        "softcore": false,
+        "vote_average": 7.465,
+        "vote_count": 187,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/brYNyCDlPoSskLhupEYMYulyyOB.jpg",
+        "id": 2822,
+        "name": "Felicity",
+        "original_name": "Felicity",
+        "overview": "Felicity Porter, a sensitive and intelligent girl from the San Francisco Bay Area, decides to give up a slot at Stanford University's pre-med program to follow her long time crush to college in New York City. Things get even more complicated when she meets her dorm's resident advisor and they fall in love.",
+        "poster_path": "/i6gZ7fVpLBK3l5FkxCzMtEtT7Bz.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 30.5125,
+        "first_air_date": "1998-09-29",
+        "softcore": false,
+        "vote_average": 6.559,
+        "vote_count": 94,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tMZZ8W30TtGRcydsxrtXcL3j7YT.jpg",
+        "id": 341,
+        "name": "Brothers and Sisters",
+        "original_name": "Brothers and Sisters",
+        "overview": "The close-knit Walker family deals with struggles and triumphs.",
+        "poster_path": "/u49srJvTHKlgdakN4SQzFysfBlu.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 38.2785,
+        "first_air_date": "2006-09-24",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 201,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rtMPDlUDXbIAcewFbYsa1nbuo0j.jpg",
+        "id": 78508,
+        "name": "DRUCK",
+        "original_name": "DRUCK",
+        "overview": "Druck follows a group of friends in their teen life in Berlin and deals with daily and current events, like friendship, love and the search for their own identity. Every season centers on a new character.",
+        "poster_path": "/vhyrWHKmviYvIAGZ5gW6Tw9n9ih.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.553,
+        "first_air_date": "2018-03-23",
+        "softcore": false,
+        "vote_average": 8.3,
+        "vote_count": 26,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wfpiyCRN8H3rbDz3ErOWwNUx8i9.jpg",
+        "id": 55029,
+        "name": "Cosita Linda",
+        "original_name": "Cosita Linda",
+        "overview": "Cosita Linda is an upcoming Spanish-language telenovela to be produced by Venevisión International in conjunction with Univision Studios. The telenovela will be an adaptation of the 2003 Venezuelan telenovela Cosita Rica written by Leonardo Padrón.\n\nAna Lorena Sánchez and Christian Meier will star as the main protagonists while Pedro Moreno and Zuleyka Rivera will portray the main antagonists.\n\nOfficial production of Cosita Linda began on May 31, 2013.",
+        "poster_path": "/qKrnFOCrVZ5SRFqSY2t0QsPEHsS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.1682,
+        "first_air_date": "2014-01-27",
+        "softcore": false,
+        "vote_average": 6.852,
+        "vote_count": 27,
+        "origin_country": [
+          "VE",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7yEbqUxa0UcWCQ0LsIHLnPLO98C.jpg",
+        "id": 33155,
+        "name": "Offspring",
+        "original_name": "Offspring",
+        "overview": "An exuberant drama set in Melbourne's Fitzroy, centering on Nina Proudman and her struggle to deal with her fabulously messy family, her hunt for a decent love life and her tendency to overthink and fly off into fantasy.",
+        "poster_path": "/m0lZo55EY4Mxf5MdkYoVoIkOR8W.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 10.8931,
+        "first_air_date": "2010-08-22",
+        "softcore": false,
+        "vote_average": 6.9,
+        "vote_count": 27,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p4yhSieDPF9zRMUbr9Ar4XrjbST.jpg",
+        "id": 68780,
+        "name": "Star",
+        "original_name": "Star",
+        "overview": "Star is a tough-as-nails young woman who came up in the foster care system and decides one day to take control of her destiny. She tracks down her sister, Simone, and her Instagram bestie, Alexandra, and together, the trio journeys to Atlanta with the hope of becoming music superstars.",
+        "poster_path": "/poQgqeiKzA50etdQoJxELMA6M4s.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 15.4319,
+        "first_air_date": "2016-12-14",
+        "softcore": false,
+        "vote_average": 7.976,
+        "vote_count": 144,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oZ2ST23FHaAWgN2A04oTBQU9lqE.jpg",
+        "id": 133908,
+        "name": "SkyMed",
+        "original_name": "SkyMed",
+        "overview": "Life, death and drama at 20,000 feet. The series weaves together intense character journeys and high-stakes medical rescues, as we follow the triumphs, heartbreaks and tribulations of budding nurses and pilots flying air ambulances in remote Northern Canada. They’re all in over their heads, and on their own, with no one to rely on but each other.",
+        "poster_path": "/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 8.6544,
+        "first_air_date": "2022-07-10",
+        "softcore": false,
+        "vote_average": 6.661,
+        "vote_count": 93,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fM7OxNnULTgN19JChMPIv2OSiNx.jpg",
+        "id": 10860,
+        "name": "Road to Avonlea",
+        "original_name": "Road to Avonlea",
+        "overview": "In the fictional small town of Avonlea, Prince Edward Island, in the early 20th century, 10-year-old Montreal heiress Sara Stanley is sent by her wealthy father to live with her two maiden aunts, Hetty and Olivia King, to be near her late mother's side of the family.",
+        "poster_path": "/2392PwVEfsMOMgYD5q0KaRWbjhP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "popularity": 17.5039,
+        "first_air_date": "1990-01-07",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 40,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2yYWgVDLWWCodMqgR7bzxDnTjv.jpg",
+        "id": 1867,
+        "name": "The Shining",
+        "original_name": "The Shining",
+        "overview": "A new caretaker moves with his family into the mysterious Overlook Hotel for the winter.",
+        "poster_path": "/YTH851DpQxoWFRu9gAYwPM56Yy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 6.9166,
+        "first_air_date": "1997-04-27",
+        "softcore": false,
+        "vote_average": 6.348,
+        "vote_count": 355,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Mc3flEYVk5u0kZyBHeKMAbmNCM.jpg",
+        "id": 6467,
+        "name": "Chicago Hope",
+        "original_name": "Chicago Hope",
+        "overview": "Chicago Hope is an American medical drama television series, created by David E. Kelley. It ran on CBS from September 18, 1994, to May 4, 2000. The series is set in a fictional private charity hospital in Chicago, Illinois.",
+        "poster_path": "/x8ic33t4NurJul1oXmvKwKtWH28.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 52.2205,
+        "first_air_date": "1994-09-18",
+        "softcore": false,
+        "vote_average": 7.165,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ofiNBOL7gpuzqXEqWBprF90CtY7.jpg",
+        "id": 2327,
+        "name": "Dawson's Creek",
+        "original_name": "Dawson's Creek",
+        "overview": "Dawson's Creek is an American teen drama that portrays the fictional lives of a close-knit group of teenagers through high school and college.",
+        "poster_path": "/arT93dBemanftfWTcf9I0JRIlxU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 38.9043,
+        "first_air_date": "1998-01-20",
+        "softcore": false,
+        "vote_average": 7.315,
+        "vote_count": 627,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rvlQ6u2ZR8phyOtQSmaOOP9pOPv.jpg",
+        "id": 18856,
+        "name": "Hawthorne",
+        "original_name": "Hawthorne",
+        "overview": "Christina Hawthorne is a compassionate and headstrong Chief Nursing Officer heading up a group of dedicated nurses at Richmond Trinity Hospital on the hospital's front lines. She does everything in her power to help her patients. When necessary, she takes on doctors and administrators who are overworked, distracted or just unable to see the human being behind the hospital chart. But the long days at the hospital and Hawthorne’s intense focus on helping others take a toll on her personal life.",
+        "poster_path": "/bZuFnSA7RtgEQJUBdHqbhtlbpmp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.0524,
+        "first_air_date": "2009-06-16",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 48,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3q4C0QTGU6NoqcW5SV64a21Nn2o.jpg",
+        "id": 15571,
+        "name": "Holocaust",
+        "original_name": "Holocaust",
+        "overview": "Berlin, Germany, 1935. The day Karl Weiss, a Jewish painter, and Inga Helms, a Christian woman, marry, is the one in which both of them and the entire Weiss family are caught up in the maelstrom of the Nazi regime, the storms of World War II and the horrors of the criminal Final Solution, the Holocaust, the Shoah; while Erik Dorf, an ambitious lawyer, undertakes his fall into hell at the hands of the sinister Reinhard Heydrich.",
+        "poster_path": "/gK1gnzIOwZWuTqp4HGEPmjTMijg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 4.634,
+        "first_air_date": "1978-04-16",
+        "softcore": false,
+        "vote_average": 7.3,
+        "vote_count": 76,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/60jKAbSaOphy1RAOzJeqNxeNKuG.jpg",
+        "id": 70837,
+        "name": "Charité",
+        "original_name": "Charité",
+        "overview": "Berlin, 1888. After penniless Ida’s life is saved at the Charité Hospital she must work off the treatment costs. While she becomes acquainted with the most brilliant physicians of this era at the world-famous hospital, the self-determined young woman discovers her passion for medicine.",
+        "poster_path": "/5CD8MfminpPROOHoiIWguujmu2S.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.2831,
+        "first_air_date": "2017-03-21",
+        "softcore": false,
+        "vote_average": 7.315,
+        "vote_count": 127,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/coh0nl5ov1o42fy7f74MDMvme2I.jpg",
+        "id": 211564,
+        "name": "Sullivan's Crossing",
+        "original_name": "Sullivan's Crossing",
+        "overview": "After Neurosurgeon Maggie Sullivan’s personal and professional life are thrown into turmoil she returns home to Sullivan’s Crossing. While there, Maggie is forced to navigate her complicated present while confronting the painful past she has chosen to ignore for years.",
+        "poster_path": "/nYRnuQNR13nEYaXkOZaY0qIWl2K.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 20.4836,
+        "first_air_date": "2023-03-19",
+        "softcore": false,
+        "vote_average": 8.103,
+        "vote_count": 78,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/irOWKJO2OXBwAwUtsVDsf6JS3qM.jpg",
+        "id": 120835,
+        "name": "Smother",
+        "original_name": "Smother",
+        "overview": "On the rugged coast of County Clare, Val Ahern's husband is found dead at the foot of a cliff the morning after a family party. The matriarch starts to dig into the family's secrets to find out who might be responsible.",
+        "poster_path": "/liE0KylYp5uzqONbDT07bVUUNUa.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 4.6816,
+        "first_air_date": "2021-03-07",
+        "softcore": false,
+        "vote_average": 6.455,
+        "vote_count": 21,
+        "origin_country": [
+          "IE"
+        ]
+      }
+    ],
+    "total_pages": 36,
+    "total_results": 713
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9gPKqSsOTy5duRghQOaVO435HZk.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 60621,
+        "origin_country": [
+          "ES"
+        ],
+        "original_language": "es",
+        "original_name": "El Príncipe",
+        "overview": "",
+        "popularity": 4.159,
+        "poster_path": "/9edkwqws2gstULZDzDMBJEBulkA.jpg",
+        "first_air_date": "2014-02-04",
+        "softcore": false,
+        "name": "El Príncipe",
+        "vote_average": 7.1,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oi3fIpEXqRy8J4Ph4QSRA7xxJuZ.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 60632,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "El color de la pasión",
+        "overview": "",
+        "popularity": 8.6546,
+        "poster_path": "/jjsl79Tsuu7rd25oExLEpwoJz6P.jpg",
+        "first_air_date": "2014-03-17",
+        "softcore": false,
+        "name": "El color de la pasión",
+        "vote_average": 7.6,
+        "vote_count": 164
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yec9CEAVgwVLiXHfqMKeMN3pff5.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "id": 60637,
+        "origin_country": [
+          "CO"
+        ],
+        "original_language": "es",
+        "original_name": "Griselda Blanco: La viuda negra",
+        "overview": "",
+        "popularity": 8.0605,
+        "poster_path": "/xkdGdQDXzL6uKDgSJRz3oJqOcrC.jpg",
+        "first_air_date": "2014-02-23",
+        "softcore": false,
+        "name": "Griselda Blanco: La viuda negra",
+        "vote_average": 7.428,
+        "vote_count": 361
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xgk5tcorb1IfhezMaRUaKOYfiri.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 60638,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "Cadenas de amargura",
+        "overview": "",
+        "popularity": 4.097,
+        "poster_path": "/q2F4aojsspbSmRn4HvazL4XvMzK.jpg",
+        "first_air_date": "1991-01-01",
+        "softcore": false,
+        "name": "Cadenas de amargura",
+        "vote_average": 7.4,
+        "vote_count": 132
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/51mJGmmlFUq6gnUeeZomjPSim48.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 60639,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "Capricho",
+        "overview": "",
+        "popularity": 11.0458,
+        "poster_path": "/at1dvQ7kraVB5khrEOLmSzpbQke.jpg",
+        "first_air_date": "1993-01-11",
+        "softcore": false,
+        "name": "Capricho",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eVWtB7O39WA4cY9Ei8JOSuYh2oO.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 60640,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "La Gata",
+        "overview": "",
+        "popularity": 7.8489,
+        "poster_path": "/be88AXUaU6mcd3IKbHvVrmfZQqS.jpg",
+        "first_air_date": "2014-05-05",
+        "softcore": false,
+        "name": "La Gata",
+        "vote_average": 7.566,
+        "vote_count": 68
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rYoT59MhhQNHtMwarJCGF9qCPPt.jpg",
+        "genre_ids": [
+          10766,
+          35,
+          18
+        ],
+        "id": 60642,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "Qué pobres tan ricos",
+        "overview": "",
+        "popularity": 8.4898,
+        "poster_path": "/AiQ56hQBPsiWM8fTCUk45vk3Jz7.jpg",
+        "first_air_date": "2013-11-11",
+        "softcore": false,
+        "name": "Qué pobres tan ricos",
+        "vote_average": 7.682,
+        "vote_count": 132
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yp4oaPfTtnPNJvBz16jjp8yLg3f.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 60644,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "La Malquerida",
+        "overview": "",
+        "popularity": 4.2361,
+        "poster_path": "/irIdM3ZKxVjCJosscYULsV7DjWR.jpg",
+        "first_air_date": "2014-06-02",
+        "softcore": false,
+        "name": "La Malquerida",
+        "vote_average": 7.376,
+        "vote_count": 165
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hx7B8vmn1Et1mQpPu8QsRBPNlIa.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 126304,
+        "origin_country": [
+          "IT"
+        ],
+        "original_language": "it",
+        "original_name": "Generazione 56k",
+        "overview": "",
+        "popularity": 2.3766,
+        "poster_path": "/btw9Aj0Dmb0wws7DdEdbaAGPhtK.jpg",
+        "first_air_date": "2021-07-01",
+        "softcore": false,
+        "name": "Generazione 56k",
+        "vote_average": 7.129,
+        "vote_count": 61
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1920,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Twin Peaks",
+        "overview": "عُثر على جثة لورا بالمر على شاطئ بالقرب من بلدة توين بيكس الصغيرة في ولاية واشنطن. استُدعي العميل الخاص في مكتب التحقيقات الفيدرالي، ديل كوبر، للتحقيق في وفاتها الغامضة، ليكشف عن شبكة من الألغاز تقوده في نهاية المطاف إلى أعماق الغابة المحيطة ونفسه",
+        "popularity": 53.8821,
+        "poster_path": "/fgJJMIA8zFeRErCgCvs73Tsr28d.jpg",
+        "first_air_date": "1990-04-08",
+        "softcore": false,
+        "name": "توين بيكس",
+        "vote_average": 8.341,
+        "vote_count": 2690
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pXpK8GnLL0wZkfelg5lCVSOnytN.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 1950,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Everwood",
+        "overview": "",
+        "popularity": 47.3022,
+        "poster_path": "/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg",
+        "first_air_date": "2002-09-16",
+        "softcore": false,
+        "name": "Everwood",
+        "vote_average": 7.6,
+        "vote_count": 238
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 30166,
+        "origin_country": [
+          "DE"
+        ],
+        "original_language": "de",
+        "original_name": "Alisa - Folge deinem Herzen",
+        "overview": "",
+        "popularity": 13.2331,
+        "poster_path": "/f8sgLYtzpd0aV8RS7K89tzVu9xb.jpg",
+        "first_air_date": "2009-03-02",
+        "softcore": false,
+        "name": "Alisa - Folge deinem Herzen",
+        "vote_average": 3,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xtMhBn1RTKR7cYjAVZXvuZ88A4O.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10765
+        ],
+        "id": 30180,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "DearS",
+        "overview": "",
+        "popularity": 4.6025,
+        "poster_path": "/lKydkmuKjmQpNKrOzwMUSVmCgPq.jpg",
+        "first_air_date": "2004-07-10",
+        "softcore": false,
+        "name": "DearS",
+        "vote_average": 6.25,
+        "vote_count": 34
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v53kRgOkDaA0MpfX3LW2siq01QM.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 93111,
+        "origin_country": [
+          "CZ"
+        ],
+        "original_language": "cs",
+        "original_name": "Hotel Herbich",
+        "overview": "",
+        "popularity": 3.9318,
+        "poster_path": null,
+        "first_air_date": "2000-01-10",
+        "softcore": false,
+        "name": "Hotel Herbich",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iUw7jdtKuT2hqx2YfqzTaCzCPUF.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 30313,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "Lo Que Es el Amor",
+        "overview": "",
+        "popularity": 5.6946,
+        "poster_path": "/sJDmrs5R7mUsqu1g0TJOZS5GoRD.jpg",
+        "first_air_date": "2001-06-25",
+        "softcore": false,
+        "name": "Lo Que Es el Amor",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2yYWgVDLWWCodMqgR7bzxDnTjv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 1867,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Shining",
+        "overview": "",
+        "popularity": 6.9166,
+        "poster_path": "/YTH851DpQxoWFRu9gAYwPM56Yy.jpg",
+        "first_air_date": "1997-04-27",
+        "softcore": false,
+        "name": "The Shining",
+        "vote_average": 6.348,
+        "vote_count": 355
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/akjmJsCDpvDP5tLoAQCF9AiWqJb.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 208249,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "마녀의 게임",
+        "overview": "",
+        "popularity": 2.4311,
+        "poster_path": "/83UPj5ZUk1IjoTR2BHed4oWOBLX.jpg",
+        "first_air_date": "2022-10-11",
+        "softcore": false,
+        "name": "마녀의 게임",
+        "vote_average": 6.8,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wRVB9wcaqdlNv3wuQGdPW0dF4j0.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10751
+        ],
+        "id": 2147,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Torkelsons",
+        "overview": "",
+        "popularity": 7.0947,
+        "poster_path": "/iJN1EczX0FiLy0H6JaWxbF1J7Uo.jpg",
+        "first_air_date": "1991-09-21",
+        "softcore": false,
+        "name": "The Torkelsons",
+        "vote_average": 8.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xD05i9Ro3IGNcF6SuzJz9RCgMh4.jpg",
+        "genre_ids": [
+          18,
+          10766,
+          35
+        ],
+        "id": 208360,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "Preciosa",
+        "overview": "",
+        "popularity": 5.1825,
+        "poster_path": "/fQwN9mtmNnUSnRzLVbETrzHg41B.jpg",
+        "first_air_date": "1998-04-27",
+        "softcore": false,
+        "name": "Preciosa",
+        "vote_average": 5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rDZqLIbCLW6wpMNgLTQ1Sg39bSf.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 208372,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "Amor de nadie",
+        "overview": "",
+        "popularity": 7.9607,
+        "poster_path": "/nVreXD8QAqeqgdt1vEVGo3mZpCv.jpg",
+        "first_air_date": "1990-09-10",
+        "softcore": false,
+        "name": "Amor de nadie",
+        "vote_average": 8,
+        "vote_count": 2
+      }
+    ],
+    "total_pages": 2698,
+    "total_results": 53947
+  },
+  "watch/providers": {
+    "results": {
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/45789-sturm-der-liebe/watch?locale=AT",
+        "free": [
+          {
+            "logo_path": "/rgL7v9IL1wTxkb9xBXG5fWs8qnC.png",
+            "provider_id": 2151,
+            "provider_name": "ORF ON",
+            "display_priority": 66
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/qF2LbROaQnSQknEyru1mrdMxqy0.png",
+            "provider_id": 2065,
+            "provider_name": "ARD Plus Amazon channel ",
+            "display_priority": 114
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/45789-sturm-der-liebe/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/iwv2QRXX0bke0kK3b1v6P1uT4u6.png",
+            "provider_id": 1902,
+            "provider_name": "ARD Plus",
+            "display_priority": 94
+          },
+          {
+            "logo_path": "/oMSdb3qt0nY9cbHPvDFbqGNl7Oq.png",
+            "provider_id": 2037,
+            "provider_name": "ARD Plus Apple TV channel",
+            "display_priority": 107
+          },
+          {
+            "logo_path": "/qF2LbROaQnSQknEyru1mrdMxqy0.png",
+            "provider_id": 2065,
+            "provider_name": "ARD Plus Amazon channel ",
+            "display_priority": 172
+          },
+          {
+            "logo_path": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png",
+            "provider_id": 2412,
+            "provider_name": "Magenta TV+",
+            "display_priority": 191
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/45789-sturm-der-liebe/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/iGb7XGcCiCZyBgBqIdSEBiOxNc4.png",
+            "provider_id": 109,
+            "provider_name": "Timvision",
+            "display_priority": 9
+          }
+        ]
+      }
+    }
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1237276,
+        "known_for_department": "Acting",
+        "name": "Dirk Galuba",
+        "original_name": "Dirk Galuba",
+        "popularity": 1.0707,
+        "profile_path": "/yYjGRTKpBW2XHaBfoA8ilJtmXDq.jpg",
+        "character": "Werner Saalfeld",
+        "credit_id": "52596ce4760ee34661a10fe1",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18730,
+        "known_for_department": "Acting",
+        "name": "Sepp Schauer",
+        "original_name": "Sepp Schauer",
+        "popularity": 0.6261,
+        "profile_path": "/9uULTWVv1p4CR5LUfIvt2lo0HP3.jpg",
+        "character": "Alfons Sonnbichler",
+        "credit_id": "52596ce6760ee34661a1101c",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 43686,
+        "known_for_department": "Acting",
+        "name": "Antje Hagen",
+        "original_name": "Antje Hagen",
+        "popularity": 0.7391,
+        "profile_path": "/8r3c92gsghsNFlf40GUMuCIGIb9.jpg",
+        "character": "Hildegard Sonnbichler",
+        "credit_id": "52596ce4760ee34661a10ff9",
+        "order": 5
+      }
+    ],
+    "crew": []
+  }
+}

@@ -1,0 +1,5848 @@
+{
+  "adult": false,
+  "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+  "belongs_to_collection": {
+    "id": 87096,
+    "name": "مجموعة أفاتار",
+    "poster_path": "/3C5brXxnBxfkeKWwA1Fh4xvy4wr.jpg",
+    "backdrop_path": "/4uwX70EzaWVcGUXMtXPoexlNAff.jpg"
+  },
+  "budget": 350000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "خيال علمي"
+    },
+    {
+      "id": 12,
+      "name": "مغامرة"
+    },
+    {
+      "id": 14,
+      "name": "فانتازيا"
+    }
+  ],
+  "homepage": "",
+  "id": 83533,
+  "imdb_id": "tt1757678",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Avatar: Fire and Ash",
+  "overview": "في أعقاب الحرب المدمرة ضد منظمة إدارة تنمية الموارد (RDA) وفقدان ابنهما الأكبر، يواجه جيك سولي ونيتيري تهديدًا جديدًا على باندورا: شعب الرماد، قبيلة نافي عنيفة ومتعطشة للسلطة بقيادة فارانغ القاسي. يجب على عائلة جيك أن تقاتل من أجل بقائها ومستقبل باندورا في صراع يدفعهم إلى أقصى حدودهم العاطفية والجسدية.",
+  "popularity": 64.0908,
+  "poster_path": "/2G3dQUuoFWPvNxVamp5RvogGv83.jpg",
+  "production_companies": [
+    {
+      "id": 127928,
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 574,
+      "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+      "name": "Lightstorm Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-17",
+  "revenue": 1485999890,
+  "runtime": 198,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "أفاتار: النار و الرماد",
+  "video": false,
+  "vote_average": 7.646,
+  "vote_count": 4288,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65731,
+        "known_for_department": "Acting",
+        "name": "سام ورذينجتن",
+        "original_name": "Sam Worthington",
+        "popularity": 5.0927,
+        "profile_path": "/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg",
+        "cast_id": 1,
+        "character": "Jake",
+        "credit_id": "52fe48a89251416c91094013",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8691,
+        "known_for_department": "Acting",
+        "name": "زوي سالدانا",
+        "original_name": "Zoe Saldaña",
+        "popularity": 10.3566,
+        "profile_path": "/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg",
+        "cast_id": 2,
+        "character": "Neytiri",
+        "credit_id": "52fe48a89251416c91094017",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 10205,
+        "known_for_department": "Acting",
+        "name": "Sigourney Weaver",
+        "original_name": "Sigourney Weaver",
+        "popularity": 6.2216,
+        "profile_path": "/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg",
+        "cast_id": 19,
+        "character": "Kiri",
+        "credit_id": "581fa0dd92514168b30050fb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 32747,
+        "known_for_department": "Acting",
+        "name": "Stephen Lang",
+        "original_name": "Stephen Lang",
+        "popularity": 4.4516,
+        "profile_path": "/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg",
+        "cast_id": 122,
+        "character": "Quaritch",
+        "credit_id": "692c32667898fdbbc1e73f05",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 566331,
+        "known_for_department": "Acting",
+        "name": "أونا تشابلن",
+        "original_name": "Oona Chaplin",
+        "popularity": 3.8781,
+        "profile_path": "/uYnBSVKcFgw48Wxts01Dh5Gxlar.jpg",
+        "cast_id": 123,
+        "character": "Varang",
+        "credit_id": "692c32806f3957e5ad1ec35b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1895760,
+        "known_for_department": "Acting",
+        "name": "Jack Champion",
+        "original_name": "Jack Champion",
+        "popularity": 2.1923,
+        "profile_path": "/7qgRRgap16cVI85WsBdzFLOzYiP.jpg",
+        "cast_id": 134,
+        "character": "Spider",
+        "credit_id": "692c330ea4ddc4c99524f0f1",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 204,
+        "known_for_department": "Acting",
+        "name": "كيت وينسليت",
+        "original_name": "Kate Winslet",
+        "popularity": 5.167,
+        "profile_path": "/6qNnMsKtKz9si5rabpUEG85UfHp.jpg",
+        "cast_id": 124,
+        "character": "Ronal",
+        "credit_id": "692c32907b386dc01c247f10",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7248,
+        "known_for_department": "Acting",
+        "name": "كليف كورتيس",
+        "original_name": "Cliff Curtis",
+        "popularity": 3.177,
+        "profile_path": "/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg",
+        "cast_id": 125,
+        "character": "Tonowari",
+        "credit_id": "692c32a2a69f951f809ae258",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59231,
+        "known_for_department": "Acting",
+        "name": "جويل مور",
+        "original_name": "Joel David Moore",
+        "popularity": 2.4978,
+        "profile_path": "/mMVhVglj6BZFuvqAXnEibce08k7.jpg",
+        "cast_id": 126,
+        "character": "Norm",
+        "credit_id": "692c32ab0ce27bbdb39ae389",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30485,
+        "known_for_department": "Acting",
+        "name": "كارول كريستين هيلاريا باوندر",
+        "original_name": "CCH Pounder",
+        "popularity": 3.5615,
+        "profile_path": "/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg",
+        "cast_id": 127,
+        "character": "Mo'at",
+        "credit_id": "692c32b5df91733db0e73ebd",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36190,
+        "known_for_department": "Acting",
+        "name": "إدي فالكو",
+        "original_name": "Edie Falco",
+        "popularity": 2.9262,
+        "profile_path": "/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg",
+        "cast_id": 128,
+        "character": "General Ardmore",
+        "credit_id": "692c32c267a6756ecee73ea3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 129527,
+        "known_for_department": "Acting",
+        "name": "Brendan Cowell",
+        "original_name": "Brendan Cowell",
+        "popularity": 1.1967,
+        "profile_path": "/9Bjc4wYjqAJXMwmy6rKsYq2PeWV.jpg",
+        "cast_id": 129,
+        "character": "Scoresby",
+        "credit_id": "692c32d18a215e79ee1ec2dd",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55936,
+        "known_for_department": "Acting",
+        "name": "جيماين كليمان",
+        "original_name": "Jemaine Clement",
+        "popularity": 2.6207,
+        "profile_path": "/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg",
+        "cast_id": 130,
+        "character": "Dr. Garvin",
+        "credit_id": "692c32de0ce27bbdb39ae398",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1771,
+        "known_for_department": "Acting",
+        "name": "Giovanni Ribisi",
+        "original_name": "Giovanni Ribisi",
+        "popularity": 3.5234,
+        "profile_path": "/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg",
+        "cast_id": 131,
+        "character": "Selfridge",
+        "credit_id": "692c32e8aa5de724143b871f",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11207,
+        "known_for_department": "Acting",
+        "name": "ديفيد ثيوليس",
+        "original_name": "David Thewlis",
+        "popularity": 6.609,
+        "profile_path": "/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg",
+        "cast_id": 132,
+        "character": "Peylak",
+        "credit_id": "692c32f5284767d4853b877b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1663672,
+        "known_for_department": "Acting",
+        "name": "Britain Dalton",
+        "original_name": "Britain Dalton",
+        "popularity": 0.7968,
+        "profile_path": "/asX3eJr9oHNs1ZgRYGwsZRAntqS.jpg",
+        "cast_id": 133,
+        "character": "Lo'ak",
+        "credit_id": "692c3302dab08678e81eca6c",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1895788,
+        "known_for_department": "Acting",
+        "name": "Trinity Jo-Li Bliss",
+        "original_name": "Trinity Jo-Li Bliss",
+        "popularity": 1.6074,
+        "profile_path": "/a3WQPKhMHOZ5TjdnqStTfquzVB7.jpg",
+        "cast_id": 135,
+        "character": "Tuk",
+        "credit_id": "692c331b6d6fa17c8817d014",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1729393,
+        "known_for_department": "Acting",
+        "name": "Jamie Flatters",
+        "original_name": "Jamie Flatters",
+        "popularity": 1.2802,
+        "profile_path": "/94adVPuUSt26vCGNt1iJJ5JUdBH.jpg",
+        "cast_id": 136,
+        "character": "Neteyam",
+        "credit_id": "692c332767a6756ecee73ea7",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1140237,
+        "known_for_department": "Acting",
+        "name": "Bailey Bass",
+        "original_name": "Bailey Bass",
+        "popularity": 1.3775,
+        "profile_path": "/jgDeNfX6PEAoMdpXmThZxM7drvn.jpg",
+        "cast_id": 137,
+        "character": "Tsireya",
+        "credit_id": "692c3333d8cdacaaf424f0aa",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1632658,
+        "known_for_department": "Acting",
+        "name": "Filip Geljo",
+        "original_name": "Filip Geljo",
+        "popularity": 1.2377,
+        "profile_path": "/ukjo4s33MFTFwOwuYXW1NuPd00a.jpg",
+        "cast_id": 138,
+        "character": "Aonung",
+        "credit_id": "692c333d81860e562517ceea",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1615098,
+        "known_for_department": "Acting",
+        "name": "Duane Evans Jr.",
+        "original_name": "Duane Evans Jr.",
+        "popularity": 0.5195,
+        "profile_path": "/tqTeJG1QEwddgU97UNkEW6nOsm0.jpg",
+        "cast_id": 139,
+        "character": "Rotxo",
+        "credit_id": "692c3349484afb9a6aaa4153",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 98215,
+        "known_for_department": "Acting",
+        "name": "مات جيرالد",
+        "original_name": "Matt Gerald",
+        "popularity": 2.5761,
+        "profile_path": "/six7c3aZpiEomHjj4ZYokq8Vgtx.jpg",
+        "cast_id": 140,
+        "character": "Recom Wainfleet",
+        "credit_id": "692c3364484afb9a6aaa4157",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95697,
+        "known_for_department": "Acting",
+        "name": "Dileep Rao",
+        "original_name": "Dileep Rao",
+        "popularity": 1.205,
+        "profile_path": "/jRNn8SZqFXuI5wOOlHwYsWh0hXs.jpg",
+        "cast_id": 141,
+        "character": "Max Patel",
+        "credit_id": "692c3370eb003f46282484ed",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3819114,
+        "known_for_department": "Acting",
+        "name": "Daniel Lough",
+        "original_name": "Daniel Lough",
+        "popularity": 0.3319,
+        "profile_path": null,
+        "cast_id": 142,
+        "character": "Spider Double",
+        "credit_id": "692c33ab19515be16c17cf6a",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 91443,
+        "known_for_department": "Acting",
+        "name": "Kevin Dorman",
+        "original_name": "Kevin Dorman",
+        "popularity": 0.7367,
+        "profile_path": "/jByqQyo6VsnbtXwKGidaadSBOPb.jpg",
+        "cast_id": 143,
+        "character": "Ardmore Adjutant / Troupe",
+        "credit_id": "692c33b996fd6a318e9ae31b",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1152021,
+        "known_for_department": "Acting",
+        "name": "Keston John",
+        "original_name": "Keston John",
+        "popularity": 1.0817,
+        "profile_path": "/zEqkvuCDDgiErHg3XNyoG5TulUg.jpg",
+        "cast_id": 144,
+        "character": "Tarsem",
+        "credit_id": "692c33c7a4ddc4c99524f0fe",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1186027,
+        "known_for_department": "Crew",
+        "name": "Alicia Vela-Bailey",
+        "original_name": "Alicia Vela-Bailey",
+        "popularity": 1.1042,
+        "profile_path": "/avxkIPEgSMzTe6SloYSQAwDIDwj.jpg",
+        "cast_id": 145,
+        "character": "Ikeyni / Troupe",
+        "credit_id": "692c33d2fe255cb6878fb590",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3159723,
+        "known_for_department": "Acting",
+        "name": "Johnny Alexander",
+        "original_name": "Johnny Alexander",
+        "popularity": 0.3969,
+        "profile_path": "/w5m1RB2neDlWNunRAuaG3Qb9guO.jpg",
+        "cast_id": 146,
+        "character": "Riku / Troupe",
+        "credit_id": "692c33dc6d6fa17c8817d01e",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2144852,
+        "known_for_department": "Acting",
+        "name": "Jamie Landau",
+        "original_name": "Jamie Landau",
+        "popularity": 0.654,
+        "profile_path": "/tmFawQ5z4ADaAqoAJOaVfDq0egd.jpg",
+        "cast_id": 147,
+        "character": "Ops Centre Weapons Officer / Troupe",
+        "credit_id": "692c33e8d014e0c5aaaa40bd",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2231488,
+        "known_for_department": "Acting",
+        "name": "Graham Vincent",
+        "original_name": "Graham Vincent",
+        "popularity": 0.6072,
+        "profile_path": "/lIdHyV6lLIaH54Wr8XkrLSijcud.jpg",
+        "cast_id": 148,
+        "character": "Ops Centre Weapons Tech",
+        "credit_id": "692c33f76d91b296f0aa4106",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1062457,
+        "known_for_department": "Acting",
+        "name": "Phil Brown",
+        "original_name": "Phil Brown",
+        "popularity": 0.3763,
+        "profile_path": "/uWKV2UGIhqbPh72acugNdJiyF9Q.jpg",
+        "cast_id": 149,
+        "character": "Stringer",
+        "credit_id": "692c3406cb99370e1f1ec36e",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41785,
+        "known_for_department": "Acting",
+        "name": "Joel Tobeck",
+        "original_name": "Joel Tobeck",
+        "popularity": 1.2047,
+        "profile_path": "/8pzK6mGsSxZ4hGAx1KFhsVRepT4.jpg",
+        "cast_id": 150,
+        "character": "Neuroscientist",
+        "credit_id": "692c341157e635f97f8fb68b",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 25134,
+        "known_for_department": "Acting",
+        "name": "Shane Rangi",
+        "original_name": "Shane Rangi",
+        "popularity": 0.5083,
+        "profile_path": "/9iRumjckKw5PP9TiDedMLhrIpOm.jpg",
+        "cast_id": 151,
+        "character": "Matador Co-Pilot",
+        "credit_id": "692c341e03ba9d59468fb5ec",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2082773,
+        "known_for_department": "Production",
+        "name": "Grant Roa",
+        "original_name": "Grant Roa",
+        "popularity": 0.2798,
+        "profile_path": null,
+        "cast_id": 153,
+        "character": "Factory Ship First Mate",
+        "credit_id": "692c3451d8b3309a78247ef0",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4263912,
+        "known_for_department": "Acting",
+        "name": "Howard Cyster",
+        "original_name": "Howard Cyster",
+        "popularity": 0.2996,
+        "profile_path": null,
+        "cast_id": 154,
+        "character": "Factory Ship Tech",
+        "credit_id": "692c346cb7be9ec2409ae2e7",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1452945,
+        "known_for_department": "Acting",
+        "name": "Robert Okumu",
+        "original_name": "Robert Okumu",
+        "popularity": 0.454,
+        "profile_path": "/wJkDw2dTYankbtdWpsp5Qkyqn0o.jpg",
+        "cast_id": 155,
+        "character": "Ta'unui Olo'eyktan",
+        "credit_id": "692c347d66adac63cb24f0a0",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10964,
+        "known_for_department": "Acting",
+        "name": "لاز ألونسو",
+        "original_name": "Laz Alonso",
+        "popularity": 3.4175,
+        "profile_path": "/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg",
+        "cast_id": 156,
+        "character": "Tsu'tey",
+        "credit_id": "692c348caa5de724143b8731",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15853,
+        "known_for_department": "Acting",
+        "name": "ويس ستودي",
+        "original_name": "Wes Studi",
+        "popularity": 2.1678,
+        "profile_path": "/28vlZlyIVR4B1p5knjbzj4CtNPE.jpg",
+        "cast_id": 157,
+        "character": "E'ytukan",
+        "credit_id": "692c34966d6fa17c8817d02f",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5887756,
+        "known_for_department": "Acting",
+        "name": "Dai Daniel",
+        "original_name": "Dai Daniel",
+        "popularity": 0.3055,
+        "profile_path": null,
+        "cast_id": 203,
+        "character": "Seawasp Pilot",
+        "credit_id": "6945cae4ea99e4dfdb8eaf3a",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847536,
+        "known_for_department": "Acting",
+        "name": "Slaine McKenzie",
+        "original_name": "Slaine McKenzie",
+        "popularity": 0.2861,
+        "profile_path": null,
+        "cast_id": 159,
+        "character": "Escort Leader",
+        "credit_id": "692c35016b139e4f62247e87",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847537,
+        "known_for_department": "Acting",
+        "name": "Tim Parsons",
+        "original_name": "Tim Parsons",
+        "popularity": 0.3236,
+        "profile_path": null,
+        "cast_id": 160,
+        "character": "Mako Sub Pilot #1",
+        "credit_id": "692c351e284767d4853b8792",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2748186,
+        "known_for_department": "Acting",
+        "name": "Daniel Bos",
+        "original_name": "Daniel Bos",
+        "popularity": 0.3931,
+        "profile_path": "/f0yDZx5jV741YfCG81pSZpzGyff.jpg",
+        "cast_id": 161,
+        "character": "Mako Sub #1 Gunner",
+        "credit_id": "692c35323906db8a128fb4cf",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847541,
+        "known_for_department": "Acting",
+        "name": "Christopher Moore",
+        "original_name": "Christopher Moore",
+        "popularity": 0.303,
+        "profile_path": null,
+        "cast_id": 162,
+        "character": "Mako Sub #2 Pilot",
+        "credit_id": "692c3561f1f8ede11d1ec33a",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847542,
+        "known_for_department": "Acting",
+        "name": "Braedyn Humphries",
+        "original_name": "Braedyn Humphries",
+        "popularity": 0.2805,
+        "profile_path": null,
+        "cast_id": 163,
+        "character": "Mako Sub #2 Gunner",
+        "credit_id": "692c35719b04999a6924f0b8",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5195878,
+        "known_for_department": "Acting",
+        "name": "Wilson Sze",
+        "original_name": "Wilson Sze",
+        "popularity": 0.5072,
+        "profile_path": null,
+        "cast_id": 164,
+        "character": "Dragon Pilot",
+        "credit_id": "692c35837de3cc4f963b8749",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1304429,
+        "known_for_department": "Acting",
+        "name": "Tapiwa Soropa",
+        "original_name": "Tapiwa Soropa",
+        "popularity": 0.4543,
+        "profile_path": "/uJzIrzQzt50PAx74MpJ1Tzqes2g.jpg",
+        "cast_id": 165,
+        "character": "Skel Trooper",
+        "credit_id": "692c3590d014e0c5aaaa40c1",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847543,
+        "known_for_department": "Acting",
+        "name": "Jordan Fitzgerald",
+        "original_name": "Jordan Fitzgerald",
+        "popularity": 0.2584,
+        "profile_path": null,
+        "cast_id": 166,
+        "character": "Skel Trooper",
+        "credit_id": "692c35a3b088b4bb2217d019",
+        "order": 46
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847544,
+        "known_for_department": "Acting",
+        "name": "Heston Hawe",
+        "original_name": "Heston Hawe",
+        "popularity": 0.2767,
+        "profile_path": null,
+        "cast_id": 167,
+        "character": "Skel Trooper",
+        "credit_id": "692c35af948be8e8ed247ebe",
+        "order": 47
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2234536,
+        "known_for_department": "Crew",
+        "name": "Kacie Borrowman",
+        "original_name": "Kacie Borrowman",
+        "popularity": 0.9763,
+        "profile_path": "/3MotoGRgucLFFkcGf3MbaOWudT2.jpg",
+        "cast_id": 170,
+        "character": "Troupe",
+        "credit_id": "692c36147de3cc4f963b8751",
+        "order": 48
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5836653,
+        "known_for_department": "Acting",
+        "name": "Courtney Rosemont",
+        "original_name": "Courtney Rosemont",
+        "popularity": 0.376,
+        "profile_path": null,
+        "cast_id": 171,
+        "character": "Troupe",
+        "credit_id": "692c362247f8991a9324f0c1",
+        "order": 49
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2328938,
+        "known_for_department": "Acting",
+        "name": "Jennifer Stafford",
+        "original_name": "Jennifer Stafford",
+        "popularity": 0.5028,
+        "profile_path": "/gwxZVKL4A5qN1jJcaUCCNGmvncr.jpg",
+        "cast_id": 173,
+        "character": "Troupe",
+        "credit_id": "692c364163680a89c6aa4170",
+        "order": 50
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1519702,
+        "known_for_department": "Acting",
+        "name": "Jake McLean",
+        "original_name": "Jake McLean",
+        "popularity": 0.4026,
+        "profile_path": null,
+        "cast_id": 174,
+        "character": "Troupe",
+        "credit_id": "692c364f8a98c2bb76aa4116",
+        "order": 51
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 939043,
+        "known_for_department": "Acting",
+        "name": "Kevin Henderson",
+        "original_name": "Kevin Henderson",
+        "popularity": 0.5548,
+        "profile_path": "/9K9s39pwcpfxpySSoFJDdqaIFPy.jpg",
+        "cast_id": 175,
+        "character": "Troupe",
+        "credit_id": "692c365ffe255cb6878fb5a2",
+        "order": 52
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1573322,
+        "known_for_department": "Acting",
+        "name": "Shawn Driscoll",
+        "original_name": "Shawn Driscoll",
+        "popularity": 0.665,
+        "profile_path": "/sBAEMtl9OrHwn9nipY8Sthec0uz.jpg",
+        "cast_id": 177,
+        "character": "Troupe",
+        "credit_id": "692c36732dfa531b7424f130",
+        "order": 53
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1578261,
+        "known_for_department": "Acting",
+        "name": "Devereau Chumrau",
+        "original_name": "Devereau Chumrau",
+        "popularity": 0.5415,
+        "profile_path": null,
+        "cast_id": 178,
+        "character": "Troupe",
+        "credit_id": "692c367ba69f951f809ae25d",
+        "order": 54
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5847547,
+        "known_for_department": "Acting",
+        "name": "Tarikura Kapea",
+        "original_name": "Tarikura Kapea",
+        "popularity": 0.2771,
+        "profile_path": null,
+        "cast_id": 179,
+        "character": "Troupe",
+        "credit_id": "692c368b3906db8a128fb4de",
+        "order": 55
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1827117,
+        "known_for_department": "Acting",
+        "name": "Victoria Atkin",
+        "original_name": "Victoria Atkin",
+        "popularity": 0.5258,
+        "profile_path": "/lErwNo0odcEGXkoM2jih7046znM.jpg",
+        "cast_id": 180,
+        "character": "Troupe",
+        "credit_id": "692c3699ac50f3b7258fb5ed",
+        "order": 56
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5441388,
+        "known_for_department": "Acting",
+        "name": "Brooke St. Johns",
+        "original_name": "Brooke St. Johns",
+        "popularity": 0.2844,
+        "profile_path": null,
+        "cast_id": 181,
+        "character": "Troupe",
+        "credit_id": "692c36ab97de3bd09d24f113",
+        "order": 57
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5847549,
+        "known_for_department": "Acting",
+        "name": "Eyalla Tu'ipuluto",
+        "original_name": "Eyalla Tu'ipuluto",
+        "popularity": 0.2818,
+        "profile_path": null,
+        "cast_id": 182,
+        "character": "Troupe",
+        "credit_id": "692c36b81b3191df783b87d6",
+        "order": 58
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42286,
+        "known_for_department": "Acting",
+        "name": "Julene Renee",
+        "original_name": "Julene Renee",
+        "popularity": 0.8847,
+        "profile_path": "/pzWcaUAFX4DK1JLXn7rGHCZBVFt.jpg",
+        "cast_id": 183,
+        "character": "Troupe",
+        "credit_id": "692c36c53906db8a128fb4e2",
+        "order": 59
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2710,
+        "known_for_department": "Directing",
+        "name": "جيمس كاميرون",
+        "original_name": "James Cameron",
+        "popularity": 3.9301,
+        "profile_path": "/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+        "credit_id": "608525184cd91200587f22a9",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2710,
+        "known_for_department": "Directing",
+        "name": "جيمس كاميرون",
+        "original_name": "James Cameron",
+        "popularity": 3.9301,
+        "profile_path": "/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+        "credit_id": "52fe48a89251416c9109401d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1654408,
+        "known_for_department": "Sound",
+        "name": "Simon Franglen",
+        "original_name": "Simon Franglen",
+        "popularity": 0.8155,
+        "profile_path": "/7i8uSCQ7novcO0oNvS40UkXknkm.jpg",
+        "credit_id": "627931dfa80236141463d7cb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2084671,
+        "known_for_department": "Directing",
+        "name": "Maria Battle-Campbell",
+        "original_name": "Maria Battle-Campbell",
+        "popularity": 0.3656,
+        "profile_path": null,
+        "credit_id": "65201657c50ad200eac1aba3",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 956198,
+        "known_for_department": "Crew",
+        "name": "Garrett Warren",
+        "original_name": "Garrett Warren",
+        "popularity": 0.9563,
+        "profile_path": "/1GatUXTMfwyi6ZwJs1fC4c2NAih.jpg",
+        "credit_id": "65201638967cc73425f38c54",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3324194,
+        "known_for_department": "Art",
+        "name": "Daniel Koene",
+        "original_name": "Daniel Koene",
+        "popularity": 0.3783,
+        "profile_path": null,
+        "credit_id": "619f544a35db450043389270",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6039,
+        "known_for_department": "Writing",
+        "name": "شاين ساليرنو",
+        "original_name": "Shane Salerno",
+        "popularity": 0.9656,
+        "profile_path": "/1VcCN0nfmEItZQfGqxIJMdoi4T8.jpg",
+        "credit_id": "637f91eda410c800848186e7",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2710,
+        "known_for_department": "Directing",
+        "name": "جيمس كاميرون",
+        "original_name": "James Cameron",
+        "popularity": 3.9301,
+        "profile_path": "/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+        "credit_id": "639d734ab5400200c3b5983b",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67803,
+        "known_for_department": "Writing",
+        "name": "أماندا سيلفر",
+        "original_name": "Amanda Silver",
+        "popularity": 1.7593,
+        "profile_path": "/j26E4ifZClUceVocOmDG9sWm7uP.jpg",
+        "credit_id": "63b6c2758ee49c00df28b9b4",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67802,
+        "known_for_department": "Writing",
+        "name": "ريك جافا",
+        "original_name": "Rick Jaffa",
+        "popularity": 1.029,
+        "profile_path": "/hjxAQXUppDd2StwzJ4ACYGrP5Vg.jpg",
+        "credit_id": "63b6c2337ac829007ccd1443",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 67803,
+        "known_for_department": "Writing",
+        "name": "أماندا سيلفر",
+        "original_name": "Amanda Silver",
+        "popularity": 1.7593,
+        "profile_path": "/j26E4ifZClUceVocOmDG9sWm7uP.jpg",
+        "credit_id": "63b6c29507e281007ef96d6f",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58871,
+        "known_for_department": "Editing",
+        "name": "John Refoua",
+        "original_name": "John Refoua",
+        "popularity": 0.7051,
+        "profile_path": "/qvWv4ohokCGX6PxVqJhVugZNRqI.jpg",
+        "credit_id": "63b6c2d58ee49c00a1808f4a",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 507,
+        "known_for_department": "Writing",
+        "name": "جوش فريدمان",
+        "original_name": "Josh Friedman",
+        "popularity": 2.9599,
+        "profile_path": "/uThNFxSfRXGIGwsFU3SEutSqVwL.jpg",
+        "credit_id": "63b6c215b9a0bd02b43b0839",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67802,
+        "known_for_department": "Writing",
+        "name": "ريك جافا",
+        "original_name": "Rick Jaffa",
+        "popularity": 1.029,
+        "profile_path": "/hjxAQXUppDd2StwzJ4ACYGrP5Vg.jpg",
+        "credit_id": "63b6c28707e28100afa165ad",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1721,
+        "known_for_department": "Editing",
+        "name": "ستيفن إي. ريفكين",
+        "original_name": "Stephen E. Rivkin",
+        "popularity": 0.9981,
+        "profile_path": "/804bmnoxrmlBYXGLh2ZOG7L8tfs.jpg",
+        "credit_id": "63b6c3028ee49c00a1808f5f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2710,
+        "known_for_department": "Directing",
+        "name": "جيمس كاميرون",
+        "original_name": "James Cameron",
+        "popularity": 3.9301,
+        "profile_path": "/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+        "credit_id": "581f9e7fc3a368555000505a",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 995644,
+        "known_for_department": "Art",
+        "name": "Dylan Cole",
+        "original_name": "Dylan Cole",
+        "popularity": 0.626,
+        "profile_path": null,
+        "credit_id": "581f9fcbc3a368555b004d97",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8529,
+        "known_for_department": "Production",
+        "name": "جون لاندو",
+        "original_name": "Jon Landau",
+        "popularity": 1.0001,
+        "profile_path": "/9KKHK9oiK87aqahsLazQr4Lvyq4.jpg",
+        "credit_id": "581f9f59c3a368555f005252",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2710,
+        "known_for_department": "Directing",
+        "name": "جيمس كاميرون",
+        "original_name": "James Cameron",
+        "popularity": 3.9301,
+        "profile_path": "/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+        "credit_id": "581f9f06c3a368555b004ca4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2710,
+        "known_for_department": "Directing",
+        "name": "جيمس كاميرون",
+        "original_name": "James Cameron",
+        "popularity": 3.9301,
+        "profile_path": "/2Hh4Jos62luf90CCglP5K32qaWO.jpg",
+        "credit_id": "581f9f9ac3a368555600505b",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1289015,
+        "known_for_department": "Art",
+        "name": "Ben Procter",
+        "original_name": "Ben Procter",
+        "popularity": 0.5381,
+        "profile_path": null,
+        "credit_id": "581f9feb92514168a700569f",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1387215,
+        "known_for_department": "Art",
+        "name": "Zachary Fannin",
+        "original_name": "Zachary Fannin",
+        "popularity": 0.4331,
+        "profile_path": null,
+        "credit_id": "662565c87a97ab01638cd161",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8523,
+        "known_for_department": "Camera",
+        "name": "Russell Carpenter",
+        "original_name": "Russell Carpenter",
+        "popularity": 0.7237,
+        "profile_path": "/lUvCkzSLCJe7HcQGSIO4wLHuRF.jpg",
+        "credit_id": "5b823cf60e0a264592022b7e",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 226504,
+        "known_for_department": "Crew",
+        "name": "Tim Wong",
+        "original_name": "Tim Wong",
+        "popularity": 0.5799,
+        "profile_path": "/nK1cr03CxVrqKBLdKuc8CgNtQ68.jpg",
+        "credit_id": "66a394ad665f08a3063867ba",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1565649,
+        "known_for_department": "Art",
+        "name": "Ed Symon",
+        "original_name": "Ed Symon",
+        "popularity": 0.376,
+        "profile_path": null,
+        "credit_id": "67645af1b05011d6f3a4f9d2",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1797242,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Vinnie Ashton",
+        "original_name": "Vinnie Ashton",
+        "popularity": 0.393,
+        "profile_path": null,
+        "credit_id": "6769c8a1416a3443b5a9d87d",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132608,
+        "known_for_department": "Sound",
+        "name": "توني جونسون",
+        "original_name": "Tony Johnson",
+        "popularity": 0.8608,
+        "profile_path": null,
+        "credit_id": "676a06ec2a8e1b33ea7eb51a",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6347,
+        "known_for_department": "Production",
+        "name": "Margery Simkin",
+        "original_name": "Margery Simkin",
+        "popularity": 1.2876,
+        "profile_path": "/4k2WBcsejt4VJtz3V5NDZP24eKN.jpg",
+        "credit_id": "6772dfea3fc76ea588928a83",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2144533,
+        "known_for_department": "Art",
+        "name": "Vanessa Cole",
+        "original_name": "Vanessa Cole",
+        "popularity": 0.556,
+        "profile_path": null,
+        "credit_id": "67910bd8bca8037dab28bcf5",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1376902,
+        "known_for_department": "Sound",
+        "name": "Gwendolyn Yates Whittle",
+        "original_name": "Gwendolyn Yates Whittle",
+        "popularity": 0.8219,
+        "profile_path": null,
+        "credit_id": "6797a2f6760f51e17d2b4429",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132604,
+        "known_for_department": "Art",
+        "name": "Andy McLaren",
+        "original_name": "Andy McLaren",
+        "popularity": 0.6571,
+        "profile_path": null,
+        "credit_id": "67a600e4937d2e9b6066d0d0",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7230,
+        "known_for_department": "Editing",
+        "name": "Nicolas De Toth",
+        "original_name": "Nicolas De Toth",
+        "popularity": 0.5983,
+        "profile_path": "/rxa9GuC6XySgnc5YclXqHqE1GwY.jpg",
+        "credit_id": "67dc9820c505f52e35f2cd93",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1401804,
+        "known_for_department": "Crew",
+        "name": "Stuart Thorp",
+        "original_name": "Stuart Thorp",
+        "popularity": 0.619,
+        "profile_path": "/eTWDnKBCQqJiWA7W6vhgGvjD1U2.jpg",
+        "credit_id": "68235bf3a11532efe87e83a9",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4915461,
+        "known_for_department": "Crew",
+        "name": "Hamish Drummond",
+        "original_name": "Hamish Drummond",
+        "popularity": 0.4138,
+        "profile_path": null,
+        "credit_id": "683560f11ce59bcc97b6bbba",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3166046,
+        "known_for_department": "Visual Effects",
+        "name": "Charles Lai",
+        "original_name": "Charles Lai",
+        "popularity": 0.5099,
+        "profile_path": null,
+        "credit_id": "686483bd3785fcd21a4d0e5b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1401971,
+        "known_for_department": "Visual Effects",
+        "name": "Jeff White",
+        "original_name": "Jeff White",
+        "popularity": 0.5168,
+        "profile_path": "/ygGyaIYwkNzwKOJnZUWWtOiJBdU.jpg",
+        "credit_id": "686483caef48c113b58c2621",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1401970,
+        "known_for_department": "Visual Effects",
+        "name": "Nigel Sumner",
+        "original_name": "Nigel Sumner",
+        "popularity": 0.4592,
+        "profile_path": "/tVDalySIjPMFDAdEUiEs5EswjCJ.jpg",
+        "credit_id": "686483d272c8b20fdef8408d",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1717327,
+        "known_for_department": "Visual Effects",
+        "name": "David Crispino",
+        "original_name": "David Crispino",
+        "popularity": 0.4977,
+        "profile_path": "/png56tT82N48zcmeLWzULo4rWiF.jpg",
+        "credit_id": "686483de3744b8e1e1bb3c12",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1425978,
+        "known_for_department": "Sound",
+        "name": "Gary Summers",
+        "original_name": "Gary Summers",
+        "popularity": 0.915,
+        "profile_path": null,
+        "credit_id": "6880101a6bf9cee73a55d8c8",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8527,
+        "known_for_department": "Costume & Make-Up",
+        "name": "ديبورا لين سكوت",
+        "original_name": "Deborah L. Scott",
+        "popularity": 1.2281,
+        "profile_path": "/dDeKEOecx13vSMMHgYbjbGcsA7K.jpg",
+        "credit_id": "68a7cfcee7c74e7311c56da2",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76054,
+        "known_for_department": "Art",
+        "name": "Luke Freeborn",
+        "original_name": "Luke Freeborn",
+        "popularity": 0.6192,
+        "profile_path": null,
+        "credit_id": "68b9b466f2a67aba9e4e4e4f",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042213,
+        "known_for_department": "Visual Effects",
+        "name": "ريتشارد بانهام",
+        "original_name": "Richard Baneham",
+        "popularity": 0.7987,
+        "profile_path": null,
+        "credit_id": "68d5694a2a2a6230b83bfb6d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21567,
+        "known_for_department": "Production",
+        "name": "راي سانشيني",
+        "original_name": "Rae Sanchini",
+        "popularity": 0.4781,
+        "profile_path": null,
+        "credit_id": "68d5696009fe0f3975ac337c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3718,
+        "known_for_department": "Production",
+        "name": "David Valdes",
+        "original_name": "David Valdes",
+        "popularity": 0.7636,
+        "profile_path": "/4gbCUGBWd4WeRsu9DeknpJUMlvz.jpg",
+        "credit_id": "68d5697b5c638adc56816cd3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2144852,
+        "known_for_department": "Acting",
+        "name": "Jamie Landau",
+        "original_name": "Jamie Landau",
+        "popularity": 0.654,
+        "profile_path": "/tmFawQ5z4ADaAqoAJOaVfDq0egd.jpg",
+        "credit_id": "68dc4c6397e02aea2ebb1764",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1401785,
+        "known_for_department": "Production",
+        "name": "Brigitte Yorke",
+        "original_name": "Brigitte Yorke",
+        "popularity": 0.3471,
+        "profile_path": null,
+        "credit_id": "68dc4c749221e538142df593",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2084671,
+        "known_for_department": "Directing",
+        "name": "Maria Battle-Campbell",
+        "original_name": "Maria Battle-Campbell",
+        "popularity": 0.3656,
+        "profile_path": null,
+        "credit_id": "68dc4c79dc61a5e019e1c636",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 76594,
+        "known_for_department": "Acting",
+        "name": "مايلي سايرس",
+        "original_name": "Miley Cyrus",
+        "popularity": 2.971,
+        "profile_path": "/7slnMlDLR1O65U3Hr8gcOmxDlZz.jpg",
+        "credit_id": "68fa781da1507c0464f29f28",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1418395,
+        "known_for_department": "Visual Effects",
+        "name": "جو ليتري",
+        "original_name": "Joe Letteri",
+        "popularity": 1.0592,
+        "profile_path": "/h78NwmQqVNr1xcrjPfqpM0nuJO2.jpg",
+        "credit_id": "6912612bb5004f2d5ea0ccfe",
+        "department": "Visual Effects",
+        "job": "Senior Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3503,
+        "known_for_department": "Sound",
+        "name": "Brent Burge",
+        "original_name": "Brent Burge",
+        "popularity": 0.6311,
+        "profile_path": null,
+        "credit_id": "692c84ddfb2fe0186a113ce0",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1406069,
+        "known_for_department": "Sound",
+        "name": "Michael Hedges",
+        "original_name": "Michael Hedges",
+        "popularity": 0.9128,
+        "profile_path": null,
+        "credit_id": "692c84fc63cff73df6286223",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2198418,
+        "known_for_department": "Sound",
+        "name": "Alexis Feodoroff",
+        "original_name": "Alexis Feodoroff",
+        "popularity": 0.4463,
+        "profile_path": null,
+        "credit_id": "692c8503fd7f09f420511ced",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042213,
+        "known_for_department": "Visual Effects",
+        "name": "ريتشارد بانهام",
+        "original_name": "Richard Baneham",
+        "popularity": 0.7987,
+        "profile_path": null,
+        "credit_id": "692c85676f8a6b082edc2d94",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1401799,
+        "known_for_department": "Visual Effects",
+        "name": "Eric Saindon",
+        "original_name": "Eric Saindon",
+        "popularity": 0.8957,
+        "profile_path": "/sqiPRjZxoqGNKKsd3bkIwFX6Rrh.jpg",
+        "credit_id": "692c857d839356a8bd3e9ebf",
+        "department": "Visual Effects",
+        "job": "Senior Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58871,
+        "known_for_department": "Editing",
+        "name": "John Refoua",
+        "original_name": "John Refoua",
+        "popularity": 0.7051,
+        "profile_path": "/qvWv4ohokCGX6PxVqJhVugZNRqI.jpg",
+        "credit_id": "692ccf34fb266fec8328633a",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1403540,
+        "known_for_department": "Editing",
+        "name": "Jason Gaudio",
+        "original_name": "Jason Gaudio",
+        "popularity": 0.3886,
+        "profile_path": null,
+        "credit_id": "692d0a8c45cfe84e1626ec0f",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1486822,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sarah Rubano",
+        "original_name": "Sarah Rubano",
+        "popularity": 0.2977,
+        "profile_path": null,
+        "credit_id": "693b789ecf643201cbc3bbad",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1486822,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sarah Rubano",
+        "original_name": "Sarah Rubano",
+        "popularity": 0.2977,
+        "profile_path": null,
+        "credit_id": "693b78a4f0b29073c70c150e",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3165942,
+        "known_for_department": "Sound",
+        "name": "Julian Howarth",
+        "original_name": "Julian Howarth",
+        "popularity": 0.6575,
+        "profile_path": null,
+        "credit_id": "693b78e6e964ae6bb5012f64",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 900,
+        "known_for_department": "Sound",
+        "name": "Christopher Boyes",
+        "original_name": "Christopher Boyes",
+        "popularity": 1.4279,
+        "profile_path": "/tRNZcb36mHpVcVXsP1KFEEHJVK1.jpg",
+        "credit_id": "693b793729c2921ae3e0b9ae",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3310572,
+        "known_for_department": "Crew",
+        "name": "Léa Catania",
+        "original_name": "Léa Catania",
+        "popularity": 0.5436,
+        "profile_path": "/c46aVRwAHkNHDV9vvvU8vveeDSj.jpg",
+        "credit_id": "694557bb244c5cf7e115476b",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131532,
+        "known_for_department": "Crew",
+        "name": "J.J. Perry",
+        "original_name": "J.J. Perry",
+        "popularity": 1.5644,
+        "profile_path": "/57assDPZceZ4x7YWrkPE5FqVn1f.jpg",
+        "credit_id": "694557e097580a80ae8eac7f",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1205743,
+        "known_for_department": "Crew",
+        "name": "Steve Upton",
+        "original_name": "Steve Upton",
+        "popularity": 0.4723,
+        "profile_path": null,
+        "credit_id": "694557f6f42b9c6f79fb0529",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5886845,
+        "known_for_department": "Crew",
+        "name": "Marissa Vela-Bailey",
+        "original_name": "Marissa Vela-Bailey",
+        "popularity": 0.2835,
+        "profile_path": null,
+        "credit_id": "6945580474ec27ff2d0725a8",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1186027,
+        "known_for_department": "Crew",
+        "name": "Alicia Vela-Bailey",
+        "original_name": "Alicia Vela-Bailey",
+        "popularity": 1.1042,
+        "profile_path": "/avxkIPEgSMzTe6SloYSQAwDIDwj.jpg",
+        "credit_id": "6945ce1a2ee03d54d91548be",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2256935,
+        "known_for_department": "Crew",
+        "name": "Chris Denison",
+        "original_name": "Chris Denison",
+        "popularity": 0.4366,
+        "profile_path": "/sQTpXNkQECdKJxvqQwak2IMNR3y.jpg",
+        "credit_id": "6945ce404935b2e332fb08d7",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1634442,
+        "known_for_department": "Crew",
+        "name": "Josh Yadon",
+        "original_name": "Josh Yadon",
+        "popularity": 0.3894,
+        "profile_path": "/qIXnzlxbepuyesqieaB26tef0JM.jpg",
+        "credit_id": "6945ce78527d4cf069fb0793",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2161465,
+        "known_for_department": "Crew",
+        "name": "Juliana Potter",
+        "original_name": "Juliana Potter",
+        "popularity": 0.6743,
+        "profile_path": "/iHF62sWKxyWXbwArmO9r7nkrbRB.jpg",
+        "credit_id": "6945ce8232b230feb18eae3c",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2255121,
+        "known_for_department": "Crew",
+        "name": "Scott Marsh",
+        "original_name": "Scott Marsh",
+        "popularity": 0.343,
+        "profile_path": null,
+        "credit_id": "6945ce8f9aecf23af68119c8",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1694985,
+        "known_for_department": "Crew",
+        "name": "Katie Rowe",
+        "original_name": "Katie Rowe",
+        "popularity": 0.551,
+        "profile_path": "/5al18x7Ck9dEGwHe6BKyNpDcDjn.jpg",
+        "credit_id": "6945ceec4ac07071242fb6b9",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1265829,
+        "known_for_department": "Crew",
+        "name": "Bryan McCoy",
+        "original_name": "Bryan McCoy",
+        "popularity": 0.7912,
+        "profile_path": "/xlb0t2dG5qfC4LjZPYnbg6PCpfp.jpg",
+        "credit_id": "6945cf4b488148d062b1bff4",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2147622,
+        "known_for_department": "Crew",
+        "name": "Cord Walker",
+        "original_name": "Cord Walker",
+        "popularity": 0.3474,
+        "profile_path": null,
+        "credit_id": "6945cf6374ec27ff2d072786",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1321750,
+        "known_for_department": "Crew",
+        "name": "Kurt D. Lott",
+        "original_name": "Kurt D. Lott",
+        "popularity": 0.6345,
+        "profile_path": "/lPUdu9RkkSy6xLxKRbVMV3Ruh2W.jpg",
+        "credit_id": "6945cf853a9b0e8374072845",
+        "department": "Crew",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1654408,
+        "known_for_department": "Sound",
+        "name": "Simon Franglen",
+        "original_name": "Simon Franglen",
+        "popularity": 0.8155,
+        "profile_path": "/7i8uSCQ7novcO0oNvS40UkXknkm.jpg",
+        "credit_id": "6945cfe253a825795c154888",
+        "department": "Sound",
+        "job": "Conductor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8529,
+        "known_for_department": "Production",
+        "name": "جون لاندو",
+        "original_name": "Jon Landau",
+        "popularity": 1.0001,
+        "profile_path": "/9KKHK9oiK87aqahsLazQr4Lvyq4.jpg",
+        "credit_id": "695ca728bd6aedf1d76bdb1d",
+        "department": "Crew",
+        "job": "In Memory Of"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3718,
+        "known_for_department": "Production",
+        "name": "David Valdes",
+        "original_name": "David Valdes",
+        "popularity": 0.7636,
+        "profile_path": "/4gbCUGBWd4WeRsu9DeknpJUMlvz.jpg",
+        "credit_id": "695ca7e945aadeb1c202922f",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33302,
+        "known_for_department": "Camera",
+        "name": "Richard Bluck",
+        "original_name": "Richard Bluck",
+        "popularity": 0.4381,
+        "profile_path": null,
+        "credit_id": "695ca807ec385a82f89f8e30",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 33302,
+        "known_for_department": "Camera",
+        "name": "Richard Bluck",
+        "original_name": "Richard Bluck",
+        "popularity": 0.4381,
+        "profile_path": null,
+        "credit_id": "695ca81da230b3eb4a6bdbe1",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2017048,
+        "known_for_department": "Production",
+        "name": "Peter Litvack",
+        "original_name": "Peter Litvack",
+        "popularity": 0.3248,
+        "profile_path": null,
+        "credit_id": "695ca8609235fc9bf1dd0577",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1424619,
+        "known_for_department": "Visual Effects",
+        "name": "Nicky Muir",
+        "original_name": "Nicky Muir",
+        "popularity": 0.3457,
+        "profile_path": null,
+        "credit_id": "695ca887ef9e9354a39f8661",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1683357,
+        "known_for_department": "Art",
+        "name": "Aashrita Kamath",
+        "original_name": "Aashrita Kamath",
+        "popularity": 0.3183,
+        "profile_path": null,
+        "credit_id": "695ca8a9392e1c2516178de9",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12653,
+        "known_for_department": "Art",
+        "name": "Kim Sinclair",
+        "original_name": "Kim Sinclair",
+        "popularity": 0.4879,
+        "profile_path": null,
+        "credit_id": "695ca8b919900fac8ddd0565",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71127,
+        "known_for_department": "Camera",
+        "name": "Peter Zuccarini",
+        "original_name": "Peter Zuccarini",
+        "popularity": 0.49,
+        "profile_path": null,
+        "credit_id": "695ca8eeca9203a168178e84",
+        "department": "Camera",
+        "job": "Underwater Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 122607,
+        "known_for_department": "Crew",
+        "name": "Carla Meyer",
+        "original_name": "Carla Meyer",
+        "popularity": 0.4496,
+        "profile_path": "/dorx0PBYS2vml5z0j9EZT1mlKfN.jpg",
+        "credit_id": "695ca8faca9203a168178e87",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1466025,
+        "known_for_department": "Art",
+        "name": "Brad Elliott",
+        "original_name": "Brad Elliott",
+        "popularity": 0.6229,
+        "profile_path": null,
+        "credit_id": "695ca92fcf74ef15e6dd053f",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4215370,
+        "known_for_department": "Art",
+        "name": "Melissa Spicer",
+        "original_name": "Melissa Spicer",
+        "popularity": 0.4505,
+        "profile_path": null,
+        "credit_id": "695ca93dcf74ef15e6dd0548",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 66696,
+        "known_for_department": "Production",
+        "name": "Daren Hicks",
+        "original_name": "Daren Hicks",
+        "popularity": 0.4775,
+        "profile_path": null,
+        "credit_id": "695ca978576c45c3a1178e09",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5921431,
+        "known_for_department": "Production",
+        "name": "Katie McGinley",
+        "original_name": "Katie McGinley",
+        "popularity": 0.2621,
+        "profile_path": null,
+        "credit_id": "695ca9bfa066acdf8b6bdb22",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3236298,
+        "known_for_department": "Production",
+        "name": "Kate Mulligan",
+        "original_name": "Kate Mulligan",
+        "popularity": 0.3264,
+        "profile_path": null,
+        "credit_id": "695ca9cde9240e88fcdd0572",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2600172,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Hana Scott-Suhrstedt",
+        "original_name": "Hana Scott-Suhrstedt",
+        "popularity": 0.3515,
+        "profile_path": null,
+        "credit_id": "695ca9f4dc491d3f65178eee",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2576293,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Shealyn Biron",
+        "original_name": "Shealyn Biron",
+        "popularity": 0.3561,
+        "profile_path": null,
+        "credit_id": "695caa017cdfaf687fdc2c23",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1421665,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carrie Bauer",
+        "original_name": "Carrie Bauer",
+        "popularity": 0.3521,
+        "profile_path": null,
+        "credit_id": "695caa164cd5d2727964b946",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1394072,
+        "known_for_department": "Camera",
+        "name": "Cameron McLean",
+        "original_name": "Cameron McLean",
+        "popularity": 0.2979,
+        "profile_path": null,
+        "credit_id": "695caa5610b9420f5d9f86af",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1394072,
+        "known_for_department": "Camera",
+        "name": "Cameron McLean",
+        "original_name": "Cameron McLean",
+        "popularity": 0.2979,
+        "profile_path": null,
+        "credit_id": "695caa606f5fd063619f8671",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095506,
+        "known_for_department": "Camera",
+        "name": "Sam Bailey",
+        "original_name": "Sam Bailey",
+        "popularity": 0.3081,
+        "profile_path": null,
+        "credit_id": "695caa8cc98c09db4cdc2c86",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4566394,
+        "known_for_department": "Camera",
+        "name": "Angelu Cayanan",
+        "original_name": "Angelu Cayanan",
+        "popularity": 0.3212,
+        "profile_path": "/p9dGTBHOBWuLDQCRXtIHWEaeXy8.jpg",
+        "credit_id": "695caaa310e426ec9d64b966",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2095507,
+        "known_for_department": "Camera",
+        "name": "Gary Matthews",
+        "original_name": "Gary Matthews",
+        "popularity": 0.2936,
+        "profile_path": null,
+        "credit_id": "695caab0239aea501f64ba54",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2910880,
+        "known_for_department": "Camera",
+        "name": "Samuel Fraser",
+        "original_name": "Samuel Fraser",
+        "popularity": 0.2792,
+        "profile_path": null,
+        "credit_id": "695caabe18d468cd699f8660",
+        "department": "Camera",
+        "job": "Second Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3277808,
+        "known_for_department": "Acting",
+        "name": "Timon Zeiss",
+        "original_name": "Timon Zeiss",
+        "popularity": 0.3488,
+        "profile_path": null,
+        "credit_id": "695caad1904eb9e6e76bdb06",
+        "department": "Camera",
+        "job": "Camera Intern"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1407740,
+        "known_for_department": "Lighting",
+        "name": "Len Levine",
+        "original_name": "Len Levine",
+        "popularity": 0.4059,
+        "profile_path": null,
+        "credit_id": "695caaee834c08e5f164b9f6",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4994760,
+        "known_for_department": "Lighting",
+        "name": "Daniel Riffel ICLS",
+        "original_name": "Daniel Riffel ICLS",
+        "popularity": 0.3133,
+        "profile_path": null,
+        "credit_id": "695cab03793f089df8dd05a2",
+        "department": "Lighting",
+        "job": "Chief Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 135294,
+        "known_for_department": "Lighting",
+        "name": "David Brown",
+        "original_name": "David Brown",
+        "popularity": 0.3325,
+        "profile_path": null,
+        "credit_id": "695cab47965964078b0291eb",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3677481,
+        "known_for_department": "Lighting",
+        "name": "Craig Farrand",
+        "original_name": "Craig Farrand",
+        "popularity": 0.3061,
+        "profile_path": null,
+        "credit_id": "695cab5e6a63d84f0124cfb8",
+        "department": "Lighting",
+        "job": "Rigging Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1759814,
+        "known_for_department": "Sound",
+        "name": "Ben Greaves",
+        "original_name": "Ben Greaves",
+        "popularity": 0.5501,
+        "profile_path": null,
+        "credit_id": "695caba872c4512b8a6bdb86",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2821234,
+        "known_for_department": "Sound",
+        "name": "Jamie Gambell",
+        "original_name": "Jamie Gambell",
+        "popularity": 0.3972,
+        "profile_path": null,
+        "credit_id": "695cabbd9ed0a5d2dfdc2b8b",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2464147,
+        "known_for_department": "Sound",
+        "name": "Kayla Croft",
+        "original_name": "Kayla Croft",
+        "popularity": 0.3609,
+        "profile_path": null,
+        "credit_id": "695cabc972c4512b8a6bdb89",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1923918,
+        "known_for_department": "Sound",
+        "name": "Zach Wrobel",
+        "original_name": "Zach Wrobel",
+        "popularity": 0.5356,
+        "profile_path": null,
+        "credit_id": "695cabd3c9a6ea45e724cf3d",
+        "department": "Sound",
+        "job": "Utility Sound"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1406873,
+        "known_for_department": "Sound",
+        "name": "Josh Gold",
+        "original_name": "Josh Gold",
+        "popularity": 0.6394,
+        "profile_path": "/h2DkaxXLo6K7EGZ8ouuktxSzR7G.jpg",
+        "credit_id": "695cac28b633d49491178e93",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1457322,
+        "known_for_department": "Sound",
+        "name": "Matt Stutter",
+        "original_name": "Matt Stutter",
+        "popularity": 0.4281,
+        "profile_path": null,
+        "credit_id": "695cac36cc0979422c64b976",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1424615,
+        "known_for_department": "Sound",
+        "name": "Melanie Graham",
+        "original_name": "Melanie Graham",
+        "popularity": 0.4447,
+        "profile_path": null,
+        "credit_id": "695cac4714614ea4bb178ea5",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1191112,
+        "known_for_department": "Sound",
+        "name": "Martin Kwok",
+        "original_name": "Martin Kwok",
+        "popularity": 0.4432,
+        "profile_path": null,
+        "credit_id": "695cac6fb633d49491178e97",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1042213,
+        "known_for_department": "Visual Effects",
+        "name": "ريتشارد بانهام",
+        "original_name": "Richard Baneham",
+        "popularity": 0.7987,
+        "profile_path": null,
+        "credit_id": "695d4506956119e4da64bebd",
+        "department": "Directing",
+        "job": "Second Unit Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1506377,
+        "known_for_department": "Visual Effects",
+        "name": "دانييل باريت",
+        "original_name": "Daniel Barrett",
+        "popularity": 0.9201,
+        "profile_path": null,
+        "credit_id": "695d453fa230b3eb4a6bdf85",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4453089,
+        "known_for_department": "Visual Effects",
+        "name": "Pavani Rao Boddapati",
+        "original_name": "Pavani Rao Boddapati",
+        "popularity": 0.3614,
+        "profile_path": null,
+        "credit_id": "695d462ceed502dbcbdd07e4",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2482372,
+        "known_for_department": "Visual Effects",
+        "name": "Sam Cole",
+        "original_name": "Sam Cole",
+        "popularity": 0.3247,
+        "profile_path": null,
+        "credit_id": "695d4671c98c09db4cdc2f82",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3848627,
+        "known_for_department": "Visual Effects",
+        "name": "Yann Larochette",
+        "original_name": "Yann Larochette",
+        "popularity": 0.286,
+        "profile_path": null,
+        "credit_id": "695d4691a4ae8f23679f2cad",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1567911,
+        "known_for_department": "Visual Effects",
+        "name": "Lori C. Miller",
+        "original_name": "Lori C. Miller",
+        "popularity": 0.3632,
+        "profile_path": null,
+        "credit_id": "695d46a1956119e4da64bed5",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1483230,
+        "known_for_department": "Visual Effects",
+        "name": "Sergei Nevshupov",
+        "original_name": "Sergei Nevshupov",
+        "popularity": 0.311,
+        "profile_path": null,
+        "credit_id": "695d46b5956119e4da64bee6",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1418381,
+        "known_for_department": "Visual Effects",
+        "name": "Mike Perry",
+        "original_name": "Mike Perry",
+        "popularity": 0.3925,
+        "profile_path": null,
+        "credit_id": "695d46c55dee36ec1f6bdd68",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2152263,
+        "known_for_department": "Visual Effects",
+        "name": "Marco Revelant",
+        "original_name": "Marco Revelant",
+        "popularity": 0.3171,
+        "profile_path": null,
+        "credit_id": "695d46d3834c08e5f164bf2e",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1458131,
+        "known_for_department": "Visual Effects",
+        "name": "Francois Sugny",
+        "original_name": "Francois Sugny",
+        "popularity": 0.3344,
+        "profile_path": null,
+        "credit_id": "695d46e23a0e1d731d0293e0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5923277,
+        "known_for_department": "Visual Effects",
+        "name": "Rachel Reed",
+        "original_name": "Rachel Reed",
+        "popularity": 0.371,
+        "profile_path": null,
+        "credit_id": "695da60d8f08a78eb93f5b4b",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1948307,
+        "known_for_department": "Visual Effects",
+        "name": "Stacy Bissell",
+        "original_name": "Stacy Bissell",
+        "popularity": 0.3903,
+        "profile_path": "/3phdhmD5hbDELmbIqG8QjOObJgL.jpg",
+        "credit_id": "695da62f2cf3e67f19cfd0ab",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5923282,
+        "known_for_department": "Crew",
+        "name": "Gianluca Pizzaia",
+        "original_name": "Gianluca Pizzaia",
+        "popularity": 0.2801,
+        "profile_path": null,
+        "credit_id": "695da6a25ace9af46acea766",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5923283,
+        "known_for_department": "Crew",
+        "name": "Markus Sterner",
+        "original_name": "Markus Sterner",
+        "popularity": 0.2911,
+        "profile_path": null,
+        "credit_id": "695da6ab98a18c50aecfd0ef",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5923284,
+        "known_for_department": "Visual Effects",
+        "name": "Caitlin Jessen",
+        "original_name": "Caitlin Jessen",
+        "popularity": 0.3345,
+        "profile_path": null,
+        "credit_id": "695da6b45437ddd7d1cea73f",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1077876,
+        "known_for_department": "Sound",
+        "name": "Andrew Wyatt",
+        "original_name": "Andrew Wyatt",
+        "popularity": 1.1161,
+        "profile_path": "/fR7z8lsUVlSGVn98i2sz4EEgq0T.jpg",
+        "credit_id": "6980cb2f836f3248a8fd4ab1",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77071,
+        "known_for_department": "Sound",
+        "name": "مارك رونسون",
+        "original_name": "Mark Ronson",
+        "popularity": 7.4468,
+        "profile_path": "/8GTi2eUkcirPDtYMh1GlvjACvTv.jpg",
+        "credit_id": "6980cb348fb65bc1e91ff25e",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1654408,
+        "known_for_department": "Sound",
+        "name": "Simon Franglen",
+        "original_name": "Simon Franglen",
+        "popularity": 0.8155,
+        "profile_path": "/7i8uSCQ7novcO0oNvS40UkXknkm.jpg",
+        "credit_id": "6980cb3a168c149c9b1bde19",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2454671,
+        "known_for_department": "Visual Effects",
+        "name": "Graham Binding",
+        "original_name": "Graham Binding",
+        "popularity": 0.4868,
+        "profile_path": null,
+        "credit_id": "6991bb8c6b5136333a0651c0",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1401788,
+        "known_for_department": "Visual Effects",
+        "name": "Steve Ingram",
+        "original_name": "Steve Ingram",
+        "popularity": 0.5666,
+        "profile_path": null,
+        "credit_id": "699a1d77653fc0ed87e8ee90",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1648088,
+        "known_for_department": "Lighting",
+        "name": "Scott Barnes",
+        "original_name": "Scott Barnes",
+        "popularity": 0.4138,
+        "profile_path": null,
+        "credit_id": "69accd632ef5c1ff95fcb668",
+        "department": "Lighting",
+        "job": "Lighting Programmer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2151930,
+        "known_for_department": "Visual Effects",
+        "name": "Blaine Toderian",
+        "original_name": "Blaine Toderian",
+        "popularity": 0.3143,
+        "profile_path": null,
+        "credit_id": "69e582facfd53abafe549e44",
+        "department": "Visual Effects",
+        "job": "Visual Effects"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4398752,
+        "known_for_department": "Production",
+        "name": "David Rowell",
+        "original_name": "David Rowell",
+        "popularity": 0.3583,
+        "profile_path": null,
+        "credit_id": "6a00a4845f96a0f0eeed8472",
+        "department": "Production",
+        "job": "Production Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4308260,
+        "known_for_department": "Crew",
+        "name": "Bronte Coluccio",
+        "original_name": "Bronte Coluccio",
+        "popularity": 0.4099,
+        "profile_path": "/ywsuczTaHkW6XPPlWb9VsyoYofJ.jpg",
+        "credit_id": "6a1cbda4a0f9c3ab7465ed08",
+        "department": "Crew",
+        "job": "Stunt Double"
+      }
+    ]
+  },
+  "watch/providers": {
+    "results": {
+      "AR": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=AR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=AT",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 19
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 19
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=BE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=BR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/4UK8ibAWSubGXnPoQT5EZbgd0yF.png",
+            "provider_id": 622,
+            "provider_name": "UPC TV",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=CL",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=CO",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=CV",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 11
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 11
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=CZ",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 29
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 29
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/oSAgKUlwEg10oKl8CI9poUAlafz.png",
+            "provider_id": 133,
+            "provider_name": "Videobuster",
+            "display_priority": 23
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=DK",
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=EE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=EG",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=ES",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=FI",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=FR",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/zbXVTncv6m6ojLjPQJeW7u0SYKp.png",
+            "provider_id": 2601,
+            "provider_name": "Pathé Home",
+            "display_priority": 54
+          },
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/zbXVTncv6m6ojLjPQJeW7u0SYKp.png",
+            "provider_id": 2601,
+            "provider_name": "Pathé Home",
+            "display_priority": 54
+          },
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=GH",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=GR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=HU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 26
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 26
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=IL",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+            "provider_id": 2336,
+            "provider_name": "JioHotstar",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=IS",
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 24
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 24
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/iGb7XGcCiCZyBgBqIdSEBiOxNc4.png",
+            "provider_id": 109,
+            "provider_name": "Timvision",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/iGb7XGcCiCZyBgBqIdSEBiOxNc4.png",
+            "provider_id": 109,
+            "provider_name": "Timvision",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=JP",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=LT",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 7
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 7
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=LV",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=MX",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=MZ",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png",
+            "provider_id": 71,
+            "provider_name": "Pathé Thuis",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/sLa7ctMpAoKdxIS72mHl7xuhONL.png",
+            "provider_id": 697,
+            "provider_name": "meJane",
+            "display_priority": 40
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png",
+            "provider_id": 71,
+            "provider_name": "Pathé Thuis",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/sLa7ctMpAoKdxIS72mHl7xuhONL.png",
+            "provider_id": 697,
+            "provider_name": "meJane",
+            "display_priority": 40
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=NO",
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=PL",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png",
+            "provider_id": 2669,
+            "provider_name": "Pilot WP",
+            "display_priority": 63
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/8mtdz2Y3NW5NfiSZiBFhngFSy3S.png",
+            "provider_id": 505,
+            "provider_name": "Player",
+            "display_priority": 11
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png",
+            "provider_id": 2669,
+            "provider_name": "Pilot WP",
+            "display_priority": 63
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=PT",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 44
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 44
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=RO",
+        "rent": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=SE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=SI",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=SK",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=TR",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=TW",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=UA",
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 5
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/movie/83533-avatar-fire-and-ash/watch?locale=ZA",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 3
+          }
+        ]
+      }
+    }
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          878,
+          27
+        ],
+        "id": 816899,
+        "title": "Nurture of the Beast",
+        "original_language": "en",
+        "original_title": "Nurture of the Beast",
+        "overview": "",
+        "popularity": 0.5276,
+        "poster_path": "/rnRqce23qcih9zRH2Q1SyZ6iXKa.jpg",
+        "release_date": "2016-01-23",
+        "softcore": false,
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          14,
+          10749
+        ],
+        "id": 809,
+        "title": "شريك 2",
+        "original_language": "en",
+        "original_title": "Shrek 2",
+        "overview": "يبدأ الجزء الثاني من حيث انتهى الجزء الأول، بعدما تحولت الأميرة فيونا إلى غولة قبيحة وتزوجت شريك وعاشا معا في مستنقعة، يتوجب على فيونا وشريك زيارة والديها الملك والملكة بعد فترة غياب عنهما طويلة، لكنهما يصابان بصدمة كبيرة، بعد لقائهما مع ابنتهما في هيئتها الجديدة، تتقبل الملكة الأم الواقع الجديد الأليم، بينما يرفضه الملك ويقرر التخلص من شريك، وبعد فشله بجميع المؤامرات، يلجأ إلى الجنية العرابة لتعيد له ابنته بصورتها الحقيقة، ولكنها تشترط عليه أن تتزوج من ابنها المغرور.",
+        "popularity": 21.1784,
+        "poster_path": "/gbn4OmfFNnzp9pfXDYh7CbxgqLN.jpg",
+        "release_date": "2004-05-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.328,
+        "vote_count": 13746
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+        "genre_ids": [
+          14,
+          12,
+          16,
+          35,
+          10751
+        ],
+        "id": 810,
+        "title": "شريك 3",
+        "original_language": "en",
+        "original_title": "Shrek the Third",
+        "overview": "عندما يسقط حماه -الملك هارولد- مريضًا، يصبح شريك الوريث المنتظر للأرض البعيدة، من أجل عدم التخلي عن حبيبته، يجند شريك أصدقائه الحمار والقط لتثبيت أرتي المتمرد الملك الجديد، ولكن الأميرة فيونا، تنظم مسيرات مجموعة من الصديقات الملكية لدرء انقلاب من قبل الأمير الساحر.",
+        "popularity": 21.6595,
+        "poster_path": "/t3bVJm42Dr9VB6ZOr8rrLZ0V2kR.jpg",
+        "release_date": "2007-05-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.314,
+        "vote_count": 9979
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xI1tAzzUk2v9nON6DLAHzcOLK42.jpg",
+        "genre_ids": [
+          35,
+          12,
+          80
+        ],
+        "id": 817,
+        "title": "Austin Powers: The Spy Who Shagged Me",
+        "original_language": "en",
+        "original_title": "Austin Powers: The Spy Who Shagged Me",
+        "overview": "",
+        "popularity": 8.468,
+        "poster_path": "/jiF7UShERJFn5RtgfBK2lIJrOTc.jpg",
+        "release_date": "1999-06-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.322,
+        "vote_count": 3790
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fBzwSM5zl4xp9L3rFu1PihmY0vh.jpg",
+        "genre_ids": [
+          16,
+          14,
+          12
+        ],
+        "id": 1361,
+        "title": "The Return of the King",
+        "original_language": "en",
+        "original_title": "The Return of the King",
+        "overview": "",
+        "popularity": 2.4361,
+        "poster_path": "/lTwUT4NsSyUQlHV20Mx3C96JHq4.jpg",
+        "release_date": "1980-05-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.41,
+        "vote_count": 227
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53,
+          10752
+        ],
+        "id": 1369,
+        "title": "Rambo: First Blood Part II",
+        "original_language": "en",
+        "original_title": "Rambo: First Blood Part II",
+        "overview": "أطلقت الحكومة سراح جون رامبو من السجن للقيام بمهمة سرية للغاية إلى آخر مكان على وجه الأرض يريد العودة إليه - أدغال فيتنام.",
+        "popularity": 13.8166,
+        "poster_path": "/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
+        "release_date": "1985-05-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.67,
+        "vote_count": 4457
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53,
+          10752
+        ],
+        "id": 1370,
+        "title": "Rambo III",
+        "original_language": "en",
+        "original_title": "Rambo III",
+        "overview": "لقد أثر القتال على رامبو ، لكنه بدأ أخيرًا في إيجاد السلام الداخلي في أحد الأديرة. عندما طلب صديق ومعلم رامبو الكولونيل تراوتمان مساعدته في مهمة سرية للغاية إلى أفغانستان ، رفض رامبو ولكن يجب أن يعيد النظر عندما يتم القبض على تراوتمان.",
+        "popularity": 11.1055,
+        "poster_path": "/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
+        "release_date": "1988-05-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.209,
+        "vote_count": 3578
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          878
+        ],
+        "id": 445308,
+        "title": "Bridgebuilders",
+        "original_language": "en",
+        "original_title": "Bridgebuilders",
+        "overview": "",
+        "popularity": 1.0364,
+        "poster_path": null,
+        "release_date": "2015-03-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53,
+          878,
+          27
+        ],
+        "id": 445089,
+        "title": "The Greater Evil",
+        "original_language": "en",
+        "original_title": "The Greater Evil",
+        "overview": "",
+        "popularity": 0.9098,
+        "poster_path": "/vqgeAteAfczNHBKHCHU6IHyWIWt.jpg",
+        "release_date": "2015-10-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ew3x9p8A28p3sLE8OaHwUsb1mSQ.jpg",
+        "genre_ids": [
+          878,
+          18,
+          14
+        ],
+        "id": 991,
+        "title": "The Man Who Fell to Earth",
+        "original_language": "en",
+        "original_title": "The Man Who Fell to Earth",
+        "overview": "",
+        "popularity": 3.8888,
+        "poster_path": "/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
+        "release_date": "1976-03-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.468,
+        "vote_count": 618
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+        "genre_ids": [
+          27,
+          9648,
+          878
+        ],
+        "id": 1091,
+        "title": "الشيء",
+        "original_language": "en",
+        "original_title": "The Thing",
+        "overview": "في شتاء عام 1982، يكتشف فريق بحثي مكون من اثني عشر رجلًا في محطة أبحاث نائية في القطب الجنوبي كائنًا فضائيًا مدفونًا في الثلج لأكثر من 100,000 عام. وسرعان ما ينفصل المخلوق المتغير الشكل عن الجليد، ويعيث فسادًا ويخلق الرعب... ويصبح واحدًا منهم.",
+        "popularity": 17.5636,
+        "poster_path": "/91WfYGg36RLV0zYPccBtJJfF6pi.jpg",
+        "release_date": "1982-06-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.072,
+        "vote_count": 8231
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          27,
+          878,
+          53
+        ],
+        "id": 444971,
+        "title": "The Water Tower",
+        "original_language": "en",
+        "original_title": "The Water Tower",
+        "overview": "",
+        "popularity": 0.5709,
+        "poster_path": null,
+        "release_date": "2013-08-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bYKeB9uUcPmvikjouEEQ86uvPw9.jpg",
+        "genre_ids": [
+          12,
+          28,
+          53
+        ],
+        "id": 956,
+        "title": "المهمة: المستحيلة 3",
+        "original_language": "en",
+        "original_title": "Mission: Impossible III",
+        "overview": "يتقاعد العميل (إيثان هانت) من عمليات التدريب، لكن يُطلب منه العودة للعمل مرة أخرى لمواجهة تاجر سلاح ومعلومات دولية، يقوم (إيثان) بإعادة لم شمل فريقه بهدف تنفيذ مهمة جديدة، وتتعرض زوجته للخطر أثناء تنفيذ العملية، ويُضطر إيثان لتمديد وقت المهمة بهدف إنقاذ زوجته.",
+        "popularity": 12.8902,
+        "poster_path": "/iRpGoulWNMAWDUNtshUTetOTgtx.jpg",
+        "release_date": "2006-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.766,
+        "vote_count": 7827
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+        "genre_ids": [
+          878,
+          18
+        ],
+        "id": 1398,
+        "title": "مطارد",
+        "original_language": "ru",
+        "original_title": "Сталкер",
+        "overview": "بالقرب من مدينة رمادية اللون وغير مسماة تقع المنطقة، وهي مكان تحرسه الأسلاك الشائكة والجنود، وحيث تقع قوانين الفيزياء العادية ضحية للشذوذ المتكرر. يقوم أحد المطاردين بإرشاد رجلين إلى المنطقة، وتحديدًا إلى منطقة تتحقق فيها الرغبات الدفينة.",
+        "popularity": 11.6251,
+        "poster_path": "/mzJxTxIODATNaYUwyJ2C2XPkhXW.jpg",
+        "release_date": "1979-05-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.084,
+        "vote_count": 2594
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+        "genre_ids": [
+          27,
+          878
+        ],
+        "id": 923,
+        "title": "Dawn of the Dead",
+        "original_language": "en",
+        "original_title": "Dawn of the Dead",
+        "overview": "",
+        "popularity": 7.1245,
+        "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+        "release_date": "1978-09-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.484,
+        "vote_count": 2369
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yzQ0mkz1OUJKtUK1NWp53jiGcaJ.jpg",
+        "genre_ids": [
+          35,
+          878,
+          12
+        ],
+        "id": 926,
+        "title": "غالاكسي كويست",
+        "original_language": "en",
+        "original_title": "Galaxy Quest",
+        "overview": "بعد مرور عقود على نجاح مسلسل خيال علمي، تستعين كائنات فضائية حقيقية بنجوم العرض الذين أفل نجمهم لإنجاز مهمة إنقاذ بين المجرات.",
+        "popularity": 9.8414,
+        "poster_path": "/qIblwqypxtKNHtM6Mx8cneJcL7R.jpg",
+        "release_date": "1999-12-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 2632
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iR3tV8NXFls4UKzPA60D4zrI7Jh.jpg",
+        "genre_ids": [
+          35,
+          27,
+          14
+        ],
+        "id": 928,
+        "title": "Gremlins 2: The New Batch",
+        "original_language": "en",
+        "original_title": "Gremlins 2: The New Batch",
+        "overview": "",
+        "popularity": 6.8784,
+        "poster_path": "/35F5yD7MljvBE2AC0NHAVCoPGEi.jpg",
+        "release_date": "1990-06-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.525,
+        "vote_count": 2990
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o1jr0UqVjxIZ1JnFzuVLN4ulWey.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          12
+        ],
+        "id": 950,
+        "title": "العصر الجليدي 2∶ الذوبان",
+        "original_language": "en",
+        "original_title": "Ice Age: The Meltdown",
+        "overview": "تدور أحداث الفيلم الكارتوني حول الماموث ماني والكسول سيد والنمر دييجو والسنجاب التعيس سكرات، حين يكتشفوا ذات يوم بأن العصر الجليدي قد أوشك على نهايته وإنهيار عالمهم بالذوبان، لتبدأ رحلة جميع الحيوانات للنجاة بأنفسهم إلى مناطق مرتفعة، لتبدأ الأحداث فى الإثارة والتشويق والمغامرة.",
+        "popularity": 14.8079,
+        "poster_path": "/arI2pYJODRIvXMP5CEoIL24l5Ze.jpg",
+        "release_date": "2006-03-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.726,
+        "vote_count": 10529
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/24DZfupDlhXeTchmcOkoGRhP5Vg.jpg",
+        "genre_ids": [
+          12,
+          28,
+          53
+        ],
+        "id": 955,
+        "title": "المهمة: المستحيلة 2",
+        "original_language": "en",
+        "original_title": "Mission: Impossible II",
+        "overview": "تدور أحداث القصة حول سرقة فيروس مميت يُدعى (كميرا) والمصل الخاص به، يتعين على العميل (إيثان هانت) منع انتشار الفيروس، والذي يؤدي للوفاة في حالة الإصابة به خلال ساعات معدودة، يكون على إيثان أن يسترجع مصل الفيروس من (شين آمبروز) الذي ينوي بيع المصل المضاد لمجموعة من الإرهابيين للحصول على الأموال الطائلة بعد نشر الفيروس في العالم كله، يستعين إيثان باللصة المحترفة (نياه) لمساعدته في استرجاع المصل والفيروس، إلا أنه سرعان ما يقع في حبها، يسعى إيثان لإنقاذ حبيبته من موت محتم بعد أن تصاب بالفيروس، في الوقت الذي يتوجب عليه إفشال مخطط نشر الفيروس.",
+        "popularity": 14.6789,
+        "poster_path": "/iPVZ3b4A4NlPZnFUF1e8nUFJSgW.jpg",
+        "release_date": "2000-05-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.138,
+        "vote_count": 7791
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 1574840,
+        "title": "The Mummy 4",
+        "original_language": "en",
+        "original_title": "The Mummy 4",
+        "overview": "",
+        "popularity": 4.5578,
+        "poster_path": "/ihR2uqtz5Gn37g5gIZ2SEO2n6N1.jpg",
+        "release_date": "2027-10-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 4197,
+    "total_results": 83929
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/kJsPVzdyBrYHLomuNv5SJDXUQ2f.jpg",
+        "id": 76600,
+        "title": "أفاتار: أسلوب المياه",
+        "original_title": "Avatar: The Way of Water",
+        "overview": "يحاول كل من جيك سولي ونيتيري أن يقوما بكل ما في وسعهما كي يظل معًا، ولكن يتحتم عليهما مفارقة منزلهما واكتشاف أرجاء شتى على كوكب باندورا لينهيا ما بدآه.",
+        "poster_path": "/cBajHfu0jK6P0DRr5iG17oH19Bb.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 31.7906,
+        "release_date": "2022-12-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.584,
+        "vote_count": 14600
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/FUnAVgaTs5xZWXcVzPJNxd9qGA.jpg",
+        "id": 934632,
+        "title": "‫Rebel Moon - جزء 2: حافرة الندوب",
+        "original_title": "Rebel Moon - Part Two: The Scargiver",
+        "overview": "يتأهب المتمردون لخوض معركة ضد قوات \"الكوكب الأم\" الشرسة، في الوقت الذي تتوطّد فيه الأواصر ويبرز الأبطال وتُولَد الأساطير.",
+        "poster_path": "/4EPP0c41tKiy804RzfwWkMJRITt.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "popularity": 9.6609,
+        "release_date": "2024-04-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.068,
+        "vote_count": 1574
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "id": 299534,
+        "title": "المنتقمون: نهاية اللعبة",
+        "original_title": "Avengers: Endgame",
+        "overview": "بعد الأحداث المدمّرة لفيلم Avengers: Infinity War، أصبح الكون في حالة خراب بسبب أفعال الفضائي المجنون، ثانوس. وبمساعدة الحلفاء المتبقين، يجب على المنتقمين أن يجتمعوا مرة أخرى من أجل التراجع عن أفعال ثانوس وإعادة النظام إلى الكون مرة أخيرة، مهما كانت العواقب التي قد تنتظرهم.",
+        "poster_path": "/ydgRpTwwiBkBL1GtNJdTUmNnRVR.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          878,
+          28
+        ],
+        "popularity": 58.0672,
+        "release_date": "2019-04-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.2,
+        "vote_count": 28594
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/npDrIM6ZbuD7nUxI7ZzNBxs4IRF.jpg",
+        "id": 54138,
+        "title": "Star Trek Into Darkness",
+        "original_title": "Star Trek Into Darkness",
+        "overview": "تتدخل قوة إرهابية خطيرة داخل الإسطول الفضائي وتتمكن من تدمير كل ما أمامها، وتترك العالم في كارثة حقيقية؛ وهنا ينبغي على طاقم سفينة الفضاء العودة إلى الوطن ومحاولة محاربة تلك القوة الخارقة، فيحاول كابتن (كيرك) أن يقود الفريق في حرب فضائية ضارية للسيطرة على سلاح دمار شامل يتحكم به رجل واحد، وسيكون عليه التضحية بعائلته وفريقه ﻹنقاذ العالم.",
+        "poster_path": "/Aim3kVNh1MPIxPEFeJrl9e9Uf1a.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 11.03,
+        "release_date": "2013-05-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.319,
+        "vote_count": 9855
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sUJrnMbL2xLMjMHk4VdReNrL7BK.jpg",
+        "id": 188927,
+        "title": "ستار تريك: إلى مابعد",
+        "original_title": "Star Trek Beyond",
+        "overview": "يدور الفيلم عن فريق مشروع (USS Enterprise) بقيادة كابتن (جايمس تي كريك)، الذي يتعرض لهجوم عنيف غير قابل للردع بواسطة موجة كبيرة من فضائيين غير معلومين، يدمرون لهم مشروعهم ليتركوهم بمفردهم على كوكب جديد بمواجهة عدو جديد لا يرحم.",
+        "poster_path": "/wI5VghYNYLktDRPUa5rrVcVA1h7.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 9.752,
+        "release_date": "2016-07-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.79,
+        "vote_count": 7245
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+        "id": 447365,
+        "title": "حرّاس المجرّة المجلد ٣",
+        "original_title": "Guardians of the Galaxy Vol. 3",
+        "overview": "لا يزال بيتر كويل يعاني من صدمة فقدان غامورا، فيحشد فريقه للدفاع عن الكون وعن أحد أفرادهم - وهي مهمة قد تعني نهاية الحراس إذا لم تنجح.",
+        "poster_path": "/a5WD4e0OKof3ZbiazFskYtn5LWf.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "popularity": 38.5653,
+        "release_date": "2023-05-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.931,
+        "vote_count": 8776
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+        "id": 330459,
+        "title": "روغ وان: قصة من حرب النجوم",
+        "original_title": "Rogue One: A Star Wars Story",
+        "overview": "في زمن يسوده الصراع، تتحد مجموعة من الأبطال غير المتوقعين بقيادة الشابة المتمردة جين إيرسو والجاسوس كاسيان أندور في مهمة انتحارية وسرية للغاية لسرقة المخططات الهندسية لـ \"نجم الموت\"، وهو السلاح الفتاك والمدمر للمجرات الذي أُجبر والد جين على تصميمه لصالح الإمبراطورية؛ ومع اكتشاف وجود ثغرة أمنية خفية وضعها والدها في قلب السلاح لتدميره، يخوض هذا الفريق معركة يائسة وسباقاً ملحمياً ضد الزمن وقوات الإمبراطورية الغاشمة، بهدف إيصال المخططات لتحالف الثوار ومنح المجرة فرصة جديدة للأمل والسلام.",
+        "poster_path": "/iU47HAJPrdwTopXVhK61V8VG7pa.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 16.3996,
+        "release_date": "2016-12-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.51,
+        "vote_count": 16730
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w4d1jESRZK12oTMMgmh0IWqlHw.jpg",
+        "id": 848326,
+        "title": "⁧Rebel Moon⁧ - جزء 1: طفلة من رحم النار",
+        "original_title": "Rebel Moon - Part One: A Child of Fire",
+        "overview": "حين تهدد قوى \"الكوكب الأم\" الغاشمة قرية زراعية آمنة تقع على قمر ناءٍ، تصبح امرأة غريبة وغامضة أمل أهلها الوحيد للنجاة.",
+        "poster_path": "/9VVngWFiQJbcYm1DSrFg71ASuex.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "popularity": 8.5104,
+        "release_date": "2023-12-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.219,
+        "vote_count": 2686
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7LZ0K4FsALrt7OeNIGOVLNuKQRU.jpg",
+        "id": 348350,
+        "title": "سولو: قصة من حرب النجوم",
+        "original_title": "Solo: A Star Wars Story",
+        "overview": "من خلال سلسلة من المغامرات الجريئة العميقة داخل عالم الجريمة المظلم والخطر، يلتقي هان سولو مع مساعده المستقبلي تشيوباكا ويواجهون المقامر الشهير لاندو.",
+        "poster_path": "/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "popularity": 12.881,
+        "release_date": "2018-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.552,
+        "vote_count": 9486
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/auJKGst3vXpJozHZh4nMFs0xWIU.jpg",
+        "id": 181812,
+        "title": "حرب النجوم: صعود سكاي ووكر",
+        "original_title": "Star Wars: The Rise of Skywalker",
+        "overview": "بعد ظهور تهديد جديد من الماضي، يعود الإمبراطور بالباتين ويهدد بإغراق المجرة في الظلام. تنطلق راي مع أصدقائها في مهمة للعثور على طريقه ومواجهة قواته، بينما تزداد المواجهة بينها وبين كايلو رين. وفي معركتهم الأخيرة، يتعين على راي أن تواجه ماضيها وتختار الطريق الذي سيحدد مصير الجيداي والمجرة.",
+        "poster_path": "/rqRDIBwn9dlmUVpWlwaQlfia6pJ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "popularity": 17.6254,
+        "release_date": "2019-12-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.248,
+        "vote_count": 11123
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+        "id": 283995,
+        "title": "حرّاس المجرّة المجلد ٢",
+        "original_title": "Guardians of the Galaxy Vol. 2",
+        "overview": "يُكافح حراس المجرة للحفاظ على تماسكهم كفريق واحد، بينما يواجهون مشاكلهم العائلية الشخصية، ولا سيما لقاء ستار-لورد مع والده، الكائن السماوي الطموح إيغو.",
+        "poster_path": "/3kGckArA1uCjkbzwMmFFyGx0J4N.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "popularity": 27.5137,
+        "release_date": "2017-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.609,
+        "vote_count": 23404
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cxvr2IOTwHcQa3EqMoQ8RHCkqBG.jpg",
+        "id": 1894,
+        "title": "حرب النجوم الجزء الثاني: هجوم المستنسخين",
+        "original_title": "Star Wars: Episode II - Attack of the Clones",
+        "overview": "بعد عشر سنوات من أحداث الجزء الأول، يجد أوبي وان كينوبي وتلميذه أناكين سكاي ووكر نفسيهما في خضم مؤامرة تهدد جمهورية المجرة. وبينما يحاول أوبي وان كشف من يقف وراء محاولة اغتيال السيناتور بادمي أميدالا، تتطور علاقة أناكين وبادمي وسط تصاعد التوترات، لتندلع حرب ضخمة بين الجمهورية والانفصاليين وتبدأ معها مرحلة جديدة من الصراع.",
+        "poster_path": "/a3aCIfPCNicyMW5tTX4mLi5oidC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "popularity": 11.2877,
+        "release_date": "2002-05-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.597,
+        "vote_count": 14661
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg",
+        "id": 13475,
+        "title": "Star Trek",
+        "original_title": "Star Trek",
+        "overview": "يقع مصير المجرة في أيدي أعداء ألداء. أحدهم ، جيمس كيرك ، هو فتى جانح يبحث عن الإثارة في أيوا. الآخر ، سبوك ، فولكان ، نشأ في مجتمع قائم على المنطق يرفض كل المشاعر. مع تصادم الغريزة النارية مع العقل الهادئ ، فإن شراكتهم غير المتوقعة ولكن القوية هي الشيء الوحيد القادر على قيادة طاقمهم خلال خطر لا يمكن تصوره ، والذهاب بجرأة إلى حيث لم يذهب أحد من قبل. بدأت المغامرة البشرية مرة أخرى.",
+        "poster_path": "/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "popularity": 14.4605,
+        "release_date": "2009-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.436,
+        "vote_count": 10706
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+        "id": 1895,
+        "title": "حرب النجوم الجزء الثالث: انتقام السيث",
+        "original_title": "Star Wars: Episode III - Revenge of the Sith",
+        "overview": "مع اقتراب حرب المستنسخين من نهايتها، يزداد نفوذ المستشار بالباتين بينما يعيش أناكين سكاي ووكر صراعًا داخليًا بسبب رؤاه التي تنبئ بفقدان بادمي. يستغل بالباتين خوفه ويغريه بالجانب المظلم، فينقلب أناكين على الجيداي ويتحول إلى دارث فيدر، بينما تنهار الجمهورية ويولد إمبراطورية جديدة تغير مصير المجرة إلى الأبد.",
+        "poster_path": "/e2A7YzbdmRpmqF6TSqbM8p904sL.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "popularity": 12.9961,
+        "release_date": "2005-05-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.473,
+        "vote_count": 15270
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tMOukv9bSjVW2AMevSmkU5l9sGb.jpg",
+        "id": 15035,
+        "title": "Fire and Ice",
+        "original_title": "Fire and Ice",
+        "overview": "The villainous Nekron and his mother, Queen Juliana, plot against the human race from their frigid fortress. Creating mass destruction with huge glaciers, mother and son incur the wrath of Larn, a warrior whose entire village was destroyed by ice. When Nekron's underlings kidnap the beautiful Princess Teegra, Larn sets out to rescue her, assisted by the fierce and enigmatic Darkwolf.",
+        "poster_path": "/v0fi9KgmdsUsGtopxxRzbtQ5NIX.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          14,
+          878,
+          12
+        ],
+        "popularity": 4.9677,
+        "release_date": "1983-03-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.686,
+        "vote_count": 368
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+        "id": 118340,
+        "title": "حرّاس المجرّة",
+        "original_title": "Guardians of the Galaxy",
+        "overview": "يتعين على مجموعة من المجرمين بين المجرات أن يتحدوا لإيقاف محارب متعصب يخطط لتطهير الكون.",
+        "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "popularity": 16.0987,
+        "release_date": "2014-07-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.907,
+        "vote_count": 30264
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j9ZV0UOagjQ4seR8Hd5N6JfwdTP.jpg",
+        "id": 320288,
+        "title": "عنقاء الظلام",
+        "original_title": "Dark Phoenix",
+        "overview": "يواجه \"الإكس-مِن\" أقوى وأخطر خصم مرّ عليهم على الإطلاق، عندما تبدأ إحدى عضوات الفريق، \"جين غراي\"، في فقدان السيطرة على قواها.  وخلال مهمة إنقاذ في الفضاء الخارجي، تكاد \"جين\" أن تلقى حتفها بعد تعرضها لقوة كونية غامضة. وعندما تعود إلى الأرض، لا تجعلها هذه القوة أكثر قوة فحسب، بل تجعلها أيضًا أكثر اضطرابًا وخطورة.  ومع تزايد فقدانها للسيطرة على نفسها، يجد الإكس-مِن أنفسهم مضطرين للتكاتف من أجل إنقاذها وإنقاذ روحها، بينما يواجهون في الوقت نفسه كائنات فضائية تسعى لاستغلال قواها الجديدة للسيطرة على المجرة.",
+        "poster_path": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "popularity": 19.3887,
+        "release_date": "2019-06-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.959,
+        "vote_count": 7280
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wxr4Z6E83h14CogsZOzDm1vuDX3.jpg",
+        "id": 91314,
+        "title": "المتحولون: عصر الانقراض",
+        "original_title": "Transformers: Age of Extinction",
+        "overview": "في جو الخيال العلمي الممزوج بالحركة والمغامرات، يرصد الفيلم قصة رجلٍ يُدعى (كيد) يعمل كميكانيكي، ويعيش برفقة ابنته (تيسا). في يوم من الأيام يكتشف (كيد) و(تيسا) شيئًا غريبًا يقلب حياتهما رأسًا على عقب، فتسلك حياة ذلك الرجل منعطفًا من الغموض لم يألفه من قبل، حيث يجد الخداع والانتقام يحيط به، ويبدأ مسئول حكومي مريض بجنون الارتياب في مطاردته.",
+        "poster_path": "/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "popularity": 16.1491,
+        "release_date": "2014-06-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.972,
+        "vote_count": 8931
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hmv300bqfZmxvdXCtCsruDH0ycT.jpg",
+        "id": 453405,
+        "title": "رجل الجوزاء",
+        "original_title": "Gemini Man",
+        "overview": "هنري بروغان هو قاتل من النخبة يبلغ من العمر 51 عاما وهو مستعد لاستدعائه بعد الانتهاء من وظيفته رقم 72. تنقلب خططه رأسا على عقب عندما يصبح هدفا لعميل غامض يمكنه على ما يبدو التنبؤ بكل تحركاته. لرعبه ، سرعان ما يتعلم بروغان أن الرجل الذي يحاول قتله هو نسخة أصغر وأسرع واستنساخا من نفسه.",
+        "poster_path": "/uTALxjQU8e1lhmNjP9nnJ3t2pRU.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53,
+          18
+        ],
+        "popularity": 9.5985,
+        "release_date": "2019-10-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.256,
+        "vote_count": 5570
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zYARGakIhHUvPuVJzlbqU40FrnV.jpg",
+        "id": 17445,
+        "title": "Green Lantern: First Flight",
+        "original_title": "Green Lantern: First Flight",
+        "overview": "Test pilot Hal Jordan finds himself recruited as the newest member of the intergalactic police force, The Green Lantern Corps.",
+        "poster_path": "/ii48ohKJrDPyrGGOBVJ8XSxr5Xk.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878,
+          16
+        ],
+        "popularity": 5.3164,
+        "release_date": "2009-07-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.946,
+        "vote_count": 516
+      }
+    ],
+    "total_pages": 16,
+    "total_results": 302
+  }
+}

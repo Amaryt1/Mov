@@ -1,0 +1,2757 @@
+{
+  "adult": false,
+  "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+  "created_by": [
+    {
+      "id": 61354,
+      "credit_id": "54e4718ec3a3684897002f30",
+      "name": "أنتوني هوروويتز",
+      "original_name": "Anthony Horowitz",
+      "gender": 2,
+      "profile_path": "/vaMCduuCGEz1ws3LyM6XTgrZdAM.jpg"
+    },
+    {
+      "id": 1428479,
+      "credit_id": "55d454f592514102cf0018bf",
+      "name": "Caroline Graham",
+      "original_name": "Caroline Graham",
+      "gender": 1,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    90
+  ],
+  "first_air_date": "1997-03-23",
+  "genres": [
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
+    }
+  ],
+  "homepage": "http://www.itv.com/midsomermurders/",
+  "id": 764,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-12-30",
+  "last_episode_to_air": {
+    "id": 4938545,
+    "name": "الحلقة 2",
+    "overview": "",
+    "vote_average": 3,
+    "vote_count": 5,
+    "air_date": "2025-12-30",
+    "episode_number": 2,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 93,
+    "season_number": 24,
+    "show_id": 764,
+    "still_path": "/xo4Uqb4c7yLN1im7Iylxryoy9DX.jpg"
+  },
+  "name": "Midsomer Murders",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 144,
+  "number_of_seasons": 25,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Midsomer Murders",
+  "overview": "",
+  "popularity": 192.0578,
+  "poster_path": "/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+  "production_companies": [
+    {
+      "id": 70930,
+      "logo_path": null,
+      "name": "Bentley Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3448,
+      "logo_path": "/dcA8JDfnnQPMaq8lv2CCiYrNe0S.png",
+      "name": "ITV",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-06-15",
+      "episode_count": 1,
+      "id": 215483,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/Aixn2IQnp2PSKQjprNMg7kvRcAv.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-03-23",
+      "episode_count": 5,
+      "id": 2250,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/hpigYNT9IzrxtfzI8EKpdi7JnlH.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1999-01-20",
+      "episode_count": 4,
+      "id": 2248,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/j1nfxSKvxQCTastdpeoYgT6npR8.jpg",
+      "season_number": 2,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "1999-12-31",
+      "episode_count": 4,
+      "id": 2249,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/biWRVCklKtmDHrIKYmGqOrG0jb8.jpg",
+      "season_number": 3,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2000-09-10",
+      "episode_count": 6,
+      "id": 2247,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/4uiguW1OD3mUYmIyoq1H0igWWIW.jpg",
+      "season_number": 4,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2002-06-16",
+      "episode_count": 4,
+      "id": 2252,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/kTzj1tmKYLLPI78V8u5ttRuT7QY.jpg",
+      "season_number": 5,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2003-01-03",
+      "episode_count": 5,
+      "id": 2251,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/rKgN0olLl5QsACqqoMi7JC11M03.jpg",
+      "season_number": 6,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2003-11-02",
+      "episode_count": 6,
+      "id": 2253,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/nkVRnMf3ea3bZaC3mSMmRFIpHrI.jpg",
+      "season_number": 7,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2004-10-10",
+      "episode_count": 9,
+      "id": 2255,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/lvlGX9VutwIxcSqbncXG0U6qDB0.jpg",
+      "season_number": 8,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2005-10-09",
+      "episode_count": 8,
+      "id": 2256,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/ktgbelJYRfECmvQaEdXnTVjFJRZ.jpg",
+      "season_number": 9,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2006-11-12",
+      "episode_count": 8,
+      "id": 2246,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/mDlUc53Zi7CyVJNX8GhjHP1IGzJ.jpg",
+      "season_number": 10,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 7,
+      "id": 2254,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/muJMsCgrXVOfdH42O3eTAe6OuRz.jpg",
+      "season_number": 11,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2009-07-22",
+      "episode_count": 7,
+      "id": 2257,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/1au5yo7ZZluWpBsRyLCGhEDVOnG.jpg",
+      "season_number": 12,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2010-02-10",
+      "episode_count": 8,
+      "id": 2258,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/vTUVfJsgBkZgYcDoodPlQ7qqTcj.jpg",
+      "season_number": 13,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2011-03-23",
+      "episode_count": 8,
+      "id": 2260,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/oiXEyI8zC8vVz6WNL1BWY2rbL5L.jpg",
+      "season_number": 14,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2012-02-01",
+      "episode_count": 6,
+      "id": 2261,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/kb1kHkNbxFtNPH3dOvkVi1F0eOJ.jpg",
+      "season_number": 15,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2013-12-24",
+      "episode_count": 5,
+      "id": 59564,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/eSU5a0IC2OmuZfkwVHbMPqQss7p.jpg",
+      "season_number": 16,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2015-01-28",
+      "episode_count": 4,
+      "id": 64697,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/tg4uPyxAcrt9Q1ToQuMnAdSe0VH.jpg",
+      "season_number": 17,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2016-01-06",
+      "episode_count": 6,
+      "id": 73574,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/1CrMCFwqHI6vyLJNCbcG8zoNXpx.jpg",
+      "season_number": 18,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2016-12-18",
+      "episode_count": 6,
+      "id": 82889,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/g3pky2CfUkCp9U5LTuEL1ue1gGs.jpg",
+      "season_number": 19,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2019-03-10",
+      "episode_count": 6,
+      "id": 103790,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/w7zJifl9tDMf2Bp9vcmeFhFX86i.jpg",
+      "season_number": 20,
+      "vote_average": 5.9
+    },
+    {
+      "air_date": "2020-01-21",
+      "episode_count": 4,
+      "id": 137075,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/dPC6m7bthz7XvRcOKi6RpKqCyZS.jpg",
+      "season_number": 21,
+      "vote_average": 5.4
+    },
+    {
+      "air_date": "2021-04-04",
+      "episode_count": 6,
+      "id": 189178,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/h9Suh9wAkt6vsrdqM6uPAV8LGJx.jpg",
+      "season_number": 22,
+      "vote_average": 4.2
+    },
+    {
+      "air_date": "2024-04-14",
+      "episode_count": 4,
+      "id": 320311,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/s2mWBa39zMWeYod9l6blpaCt3Nh.jpg",
+      "season_number": 23,
+      "vote_average": 2.4
+    },
+    {
+      "air_date": "2025-12-29",
+      "episode_count": 4,
+      "id": 366708,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/A1rUQlUPo300IKCeVDINinoUWdf.jpg",
+      "season_number": 24,
+      "vote_average": 3.3
+    },
+    {
+      "air_date": null,
+      "episode_count": 4,
+      "id": 486338,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/30Ujr08k6dwxBA86o5ohVPL9Fc6.jpg",
+      "season_number": 25,
+      "vote_average": 3.5
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 372,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 87097,
+        "known_for_department": "Acting",
+        "name": "Neil Dudgeon",
+        "original_name": "Neil Dudgeon",
+        "popularity": 2.0153,
+        "profile_path": "/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg",
+        "character": "DCI John Barnaby",
+        "credit_id": "54c12b709251412489001c4f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1332982,
+        "known_for_department": "Acting",
+        "name": "Nick Hendrix",
+        "original_name": "Nick Hendrix",
+        "popularity": 1.42,
+        "profile_path": "/eHheRwz9nnfgP9JiHJxCvift91T.jpg",
+        "character": "DS Jamie Winter",
+        "credit_id": "5c517a280e0a2601d6c9bb29",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1190276,
+        "known_for_department": "Acting",
+        "name": "Fiona Dolman",
+        "original_name": "Fiona Dolman",
+        "popularity": 1.7264,
+        "profile_path": "/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg",
+        "character": "Sarah Barnaby",
+        "credit_id": "5253943019c29579402b6819",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 30320,
+        "known_for_department": "Acting",
+        "name": "Annette Badland",
+        "original_name": "Annette Badland",
+        "popularity": 4.5856,
+        "profile_path": "/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg",
+        "character": "Fleur Perkins",
+        "credit_id": "656f3c023dc31300c4fb3ea3",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231647,
+        "known_for_department": "Production",
+        "name": "Michele Buck",
+        "original_name": "Michele Buck",
+        "popularity": 0.51,
+        "profile_path": null,
+        "credit_id": "6a510b96bb98a61a5a152b09",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2800256,
+        "known_for_department": "Production",
+        "name": "Ian Strachan",
+        "original_name": "Ian Strachan",
+        "popularity": 0.4113,
+        "profile_path": null,
+        "credit_id": "6a5102d5699f998cc4e2d8f8",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1443840,
+        "known_for_department": "Production",
+        "name": "Louise Cross",
+        "original_name": "Louise Cross",
+        "popularity": 0.4012,
+        "profile_path": null,
+        "credit_id": "6a510c0c6dd0ca921366c0e2",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1470768,
+        "known_for_department": "Sound",
+        "name": "Jim Parker",
+        "original_name": "Jim Parker",
+        "popularity": 0.6241,
+        "profile_path": null,
+        "credit_id": "5564a2af92514116cb0040d1",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1428479,
+        "known_for_department": "Writing",
+        "name": "Caroline Graham",
+        "original_name": "Caroline Graham",
+        "popularity": 0.7456,
+        "profile_path": null,
+        "credit_id": "54e4716fc3a368654c000eeb",
+        "department": "Writing",
+        "job": "Novel"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 8
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 37
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=AT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=AU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/wy6HfNZHCKX2q9gTGk0Rgutd0VA.png",
+            "provider_id": 135,
+            "provider_name": "ABC iview",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+            "provider_id": 212,
+            "provider_name": "Hoopla",
+            "display_priority": 64
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/1Hzele1xJnA7xfQyWKNQnTnWAio.png",
+            "provider_id": 385,
+            "provider_name": "BINGE",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qRZkZY5kgqXaLr4QFp7ON0wG5rB.png",
+            "provider_id": 134,
+            "provider_name": "Foxtel Now",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+            "provider_id": 151,
+            "provider_name": "BritBox",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+            "provider_id": 87,
+            "provider_name": "Acorn TV",
+            "display_priority": 28
+          },
+          {
+            "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+            "provider_id": 196,
+            "provider_name": "AcornTV Amazon Channel",
+            "display_priority": 29
+          },
+          {
+            "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+            "provider_id": 526,
+            "provider_name": "AMC+",
+            "display_priority": 51
+          },
+          {
+            "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+            "provider_id": 528,
+            "provider_name": "AMC+ Amazon Channel",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+            "provider_id": 1854,
+            "provider_name": "AMC Plus Apple TV channel",
+            "display_priority": 54
+          },
+          {
+            "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+            "provider_id": 1852,
+            "provider_name": "Britbox Apple TV channel",
+            "display_priority": 56
+          },
+          {
+            "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+            "provider_id": 2034,
+            "provider_name": "Acorn TV Apple TV channel",
+            "display_priority": 60
+          },
+          {
+            "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+            "provider_id": 197,
+            "provider_name": "BritBox Amazon Channel",
+            "display_priority": 73
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 92
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/vI485YpeCXQTapVyG1nKihS0Uzp.png",
+            "provider_id": 378,
+            "provider_name": "9Now",
+            "display_priority": 17
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=BE",
+        "ads": [
+          {
+            "logo_path": "/i4rN5aI5cNEHVtmrJ4rEVlRNwBX.png",
+            "provider_id": 461,
+            "provider_name": "RTBF Auvio",
+            "display_priority": 13
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 32
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=BR",
+        "ads": [
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+            "provider_id": 2077,
+            "provider_name": "Plex Channel",
+            "display_priority": 51
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 11
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=CA",
+        "ads": [
+          {
+            "logo_path": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+            "provider_id": 73,
+            "provider_name": "Tubi TV",
+            "display_priority": 19
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 79
+          },
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 95
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/dLpf8SgUM19VcFyMrK2KFcsF52i.png",
+            "provider_id": 146,
+            "provider_name": "iciTouTV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+            "provider_id": 197,
+            "provider_name": "BritBox Amazon Channel",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+            "provider_id": 196,
+            "provider_name": "AcornTV Amazon Channel",
+            "display_priority": 26
+          },
+          {
+            "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+            "provider_id": 87,
+            "provider_name": "Acorn TV",
+            "display_priority": 31
+          },
+          {
+            "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+            "provider_id": 2034,
+            "provider_name": "Acorn TV Apple TV channel",
+            "display_priority": 101
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+            "provider_id": 212,
+            "provider_name": "Hoopla",
+            "display_priority": 8
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gliWKhLJVdm7QwL1braBCRko5dx.png",
+            "provider_id": 381,
+            "provider_name": "Canal+",
+            "display_priority": 37
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=CL",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 32
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 23
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 33
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 23
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 32
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/gPo7UTwHFEWCT7RlRL1czQs6KPI.png",
+            "provider_id": 1928,
+            "provider_name": "Prima Plus",
+            "display_priority": 26
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/gPo7UTwHFEWCT7RlRL1czQs6KPI.png",
+            "provider_id": 1928,
+            "provider_name": "Prima Plus",
+            "display_priority": 26
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=DE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=DK",
+        "free": [
+          {
+            "logo_path": "/d9Kk5xDt4qotYFJyXhEg1m1NuWs.png",
+            "provider_id": 620,
+            "provider_name": "DRTV",
+            "display_priority": 28
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9qaPqL05vA0LHMIj7I2lz8X26Eh.png",
+            "provider_id": 383,
+            "provider_name": "TV 2",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+            "provider_id": 151,
+            "provider_name": "BritBox",
+            "display_priority": 32
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=DO",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 32
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 31
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/bWrdc66M5z0FJgznkdRdPueU2S.png",
+            "provider_id": 373,
+            "provider_name": "Go3",
+            "display_priority": 9
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=FI",
+        "free": [
+          {
+            "logo_path": "/panQnRtGRa7AofXjBpG55WssWTu.png",
+            "provider_id": 323,
+            "provider_name": "Yle Areena",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+            "provider_id": 151,
+            "provider_name": "BritBox",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/gBha9E4jehvgjTrLSm82VW8SxnS.png",
+            "provider_id": 2029,
+            "provider_name": "MTV Katsomo",
+            "display_priority": 39
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=FR",
+        "rent": [
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/gliWKhLJVdm7QwL1braBCRko5dx.png",
+            "provider_id": 381,
+            "provider_name": "Canal+",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 85
+          },
+          {
+            "logo_path": "/dZtmGfUhFagm7YNk1Idol1T2t7e.png",
+            "provider_id": 2535,
+            "provider_name": "France TV Amazon Channel",
+            "display_priority": 86
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+            "provider_id": 2300,
+            "provider_name": "ITVX Premium",
+            "display_priority": 113
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+            "provider_id": 41,
+            "provider_name": "ITVX",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/gtrodk4KHe58sQU7RcF1qAOb6Gc.png",
+            "provider_id": 593,
+            "provider_name": "STV Player",
+            "display_priority": 39
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=GF",
+        "ads": [
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 26
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=GT",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 23
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 32
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=GY",
+        "ads": [
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 5
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=HN",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 32
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/ozvOiPMMjhOMXpcUYMDK5ut6puz.png",
+            "provider_id": 285,
+            "provider_name": "BBC Player Amazon Channel",
+            "display_priority": 58
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 87
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/bWrdc66M5z0FJgznkdRdPueU2S.png",
+            "provider_id": 373,
+            "provider_name": "Go3",
+            "display_priority": 9
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=LV",
+        "free": [
+          {
+            "logo_path": "/c3VWbO3jlaEYCcldar6KvjYIK3l.png",
+            "provider_id": 2701,
+            "provider_name": "LTV7",
+            "display_priority": 37
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 70
+          },
+          {
+            "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+            "provider_id": 196,
+            "provider_name": "AcornTV Amazon Channel",
+            "display_priority": 71
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+            "provider_id": 73,
+            "provider_name": "Tubi TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 45
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=NI",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 15
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=NL",
+        "ads": [
+          {
+            "logo_path": "/iVAJklPcCjj15989GVJufXqsVtS.png",
+            "provider_id": 360,
+            "provider_name": "NPO Start",
+            "display_priority": 19
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/jY3kxKfekzgpEDtghtK9elh4G6T.png",
+            "provider_id": 472,
+            "provider_name": "NLZIET",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/eIplw9Hv4Q5RyHtofKZwjeRufz6.png",
+            "provider_id": 1986,
+            "provider_name": "NPO Plus",
+            "display_priority": 45
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+            "provider_id": 578,
+            "provider_name": "Strim",
+            "display_priority": 28
+          },
+          {
+            "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+            "provider_id": 151,
+            "provider_name": "BritBox",
+            "display_priority": 33
+          },
+          {
+            "logo_path": "/r5LXOt96llVEmgwAQeheJuxUaMR.png",
+            "provider_id": 1852,
+            "provider_name": "Britbox Apple TV channel",
+            "display_priority": 37
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=NZ",
+        "free": [
+          {
+            "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+            "provider_id": 212,
+            "provider_name": "Hoopla",
+            "display_priority": 36
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+            "provider_id": 87,
+            "provider_name": "Acorn TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/wsCUflcmL4dCkzBUaGP8cj1cTkh.png",
+            "provider_id": 526,
+            "provider_name": "AMC+",
+            "display_priority": 33
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=PA",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 32
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 23
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+            "provider_id": 2077,
+            "provider_name": "Plex Channel",
+            "display_priority": 33
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/19i0ihHvFzvK0GF5qQ6Wc4UnkOf.png",
+            "provider_id": 2214,
+            "provider_name": "CDA Premium",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png",
+            "provider_id": 2669,
+            "provider_name": "Pilot WP",
+            "display_priority": 63
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=PY",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 31
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=RU",
+        "flatrate": [
+          {
+            "logo_path": "/j5NFNAdVCTTRLL2fP2MvJcYZgKz.png",
+            "provider_id": 115,
+            "provider_name": "Okko",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=SE",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 35
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/vMU9xqjyIsOplkdSCRveond8fxV.png",
+            "provider_id": 493,
+            "provider_name": "SVT",
+            "display_priority": 18
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/uzJAlKOjD4PCqqx3N1fwkmu0Ttb.png",
+            "provider_id": 497,
+            "provider_name": "Tele2 Play",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/eZeWGG6DDIi4Kmu1z9RfTeZtqZX.png",
+            "provider_id": 151,
+            "provider_name": "BritBox",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/8sxwkXfXhlIHkAlkZ64kTU9BNyT.png",
+            "provider_id": 1944,
+            "provider_name": "TV4 Play",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+            "provider_id": 197,
+            "provider_name": "BritBox Amazon Channel",
+            "display_priority": 56
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=SV",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 32
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+            "provider_id": 2528,
+            "provider_name": "YouTube TV",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/3aWmgZsNAqdOt8ClxIFT4pnmHrM.png",
+            "provider_id": 87,
+            "provider_name": "Acorn TV",
+            "display_priority": 54
+          },
+          {
+            "logo_path": "/7BBOk6Av1TFqWqEhxBYyTJucGuL.png",
+            "provider_id": 196,
+            "provider_name": "AcornTV Amazon Channel",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/dneArfNvYnCY0LQwDs6n0wVLpPh.png",
+            "provider_id": 197,
+            "provider_name": "BritBox Amazon Channel",
+            "display_priority": 87
+          },
+          {
+            "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+            "provider_id": 486,
+            "provider_name": "Spectrum On Demand",
+            "display_priority": 119
+          },
+          {
+            "logo_path": "/1MRjoHouZAWsBCdXjjkPWEDtyV0.png",
+            "provider_id": 2034,
+            "provider_name": "Acorn TV Apple TV channel",
+            "display_priority": 181
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+            "provider_id": 207,
+            "provider_name": "The Roku Channel",
+            "display_priority": 29
+          },
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 72
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 124
+          },
+          {
+            "logo_path": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+            "provider_id": 2077,
+            "provider_name": "Plex Channel",
+            "display_priority": 127
+          },
+          {
+            "logo_path": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+            "provider_id": 613,
+            "provider_name": "Amazon Prime Video Free with Ads",
+            "display_priority": 140
+          },
+          {
+            "logo_path": "/n6E9OeoQicCDd43PnLsMpVIVYFK.png",
+            "provider_id": 1963,
+            "provider_name": "Xumo Play",
+            "display_priority": 167
+          },
+          {
+            "logo_path": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+            "provider_id": 73,
+            "provider_name": "Tubi TV",
+            "display_priority": 347
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/6fcYLKQIjGnrswtH7WxjjoSiyy3.png",
+            "provider_id": 83,
+            "provider_name": "The CW",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+            "provider_id": 212,
+            "provider_name": "Hoopla",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+            "provider_id": 2409,
+            "provider_name": "Fawesome",
+            "display_priority": 143
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=UY",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 23
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 31
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/764-midsomer-murders/watch?locale=VE",
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 19
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 29
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/1SCpDtSS1m0l7XVfeRuQETnqIQn.jpg",
+        "genre_ids": [
+          9648,
+          35,
+          18
+        ],
+        "id": 1895,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Jonathan Creek",
+        "overview": "",
+        "popularity": 13.0059,
+        "poster_path": "/yvBej2dWaOBTVVJkdnPxoMX75aD.jpg",
+        "first_air_date": "1997-05-09",
+        "softcore": false,
+        "name": "Jonathan Creek",
+        "vote_average": 7.571,
+        "vote_count": 77
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iK7tPi9j4d34g5p6bNKmGVba95K.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 1908,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Miami Vice",
+        "overview": "",
+        "popularity": 54.0525,
+        "poster_path": "/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg",
+        "first_air_date": "1984-09-16",
+        "softcore": false,
+        "name": "Miami Vice",
+        "vote_average": 7.438,
+        "vote_count": 536
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cWpmxJNlQWOVF2wPH4TjzIozRZ.jpg",
+        "genre_ids": [
+          80,
+          99
+        ],
+        "id": 305997,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Harlan Coben's Final Twist",
+        "overview": "",
+        "popularity": 5.3314,
+        "poster_path": "/qwUeHTIRGKWZr2rnpqSh21PvMLS.jpg",
+        "first_air_date": "2026-01-07",
+        "softcore": false,
+        "name": "Harlan Coben's Final Twist",
+        "vote_average": 6,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ku271NPFqnUgpyL6buIw0lz1cUj.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126276,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "猎狼者",
+        "overview": "",
+        "popularity": 2.1262,
+        "poster_path": "/ffT1wVAxDRgYUhQAcbVcTJJk7Bq.jpg",
+        "first_air_date": "2021-05-24",
+        "softcore": false,
+        "name": "猎狼者",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oF4vSGnXIPcRUpCSsYOIVQFQnco.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 30286,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Big Easy",
+        "overview": "",
+        "popularity": 5.4695,
+        "poster_path": "/2w2KcR741vJsxqMQag6C4hnWw0l.jpg",
+        "first_air_date": "1996-08-11",
+        "softcore": false,
+        "name": "The Big Easy",
+        "vote_average": 9,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 93168,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "A Confession",
+        "overview": "",
+        "popularity": 4.4283,
+        "poster_path": "/6c6q8m5PCiXv3TlxmM0vIcLylb0.jpg",
+        "first_air_date": "2019-09-02",
+        "softcore": false,
+        "name": "A Confession",
+        "vote_average": 7.062,
+        "vote_count": 89
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rL5CblmMvXje9CeQvrOl1MPkvrd.jpg",
+        "genre_ids": [
+          99,
+          80,
+          9648
+        ],
+        "id": 126396,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Sophie: A Murder in West Cork",
+        "overview": "",
+        "popularity": 1.3416,
+        "poster_path": "/ggM1EUJ4KbxMY5uyZ6X0zfznoHY.jpg",
+        "first_air_date": "2021-06-30",
+        "softcore": false,
+        "name": "Sophie: A Murder in West Cork",
+        "vote_average": 6.39,
+        "vote_count": 50
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/czvNMbnwOqR76Rz7u1CpBcJMIHM.jpg",
+        "genre_ids": [
+          9648
+        ],
+        "id": 93198,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "面具背后",
+        "overview": "",
+        "popularity": 2.4382,
+        "poster_path": "/sbr5IK0NtBVFWaasg7UWL7xgu2b.jpg",
+        "first_air_date": "2019-04-01",
+        "softcore": false,
+        "name": "面具背后",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7hde5HC3Va7U6Cl4O4xRXaCsGUP.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 93206,
+        "origin_country": [
+          "NO"
+        ],
+        "original_language": "no",
+        "original_name": "Besatt",
+        "overview": "",
+        "popularity": 2.1988,
+        "poster_path": "/rWWByfvrIBkuBuAtbsYDrFBoeod.jpg",
+        "first_air_date": "2019-10-31",
+        "softcore": false,
+        "name": "Besatt",
+        "vote_average": 5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A9ttUJVTw6VpbIvX3mMuTHW6PVW.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 93216,
+        "origin_country": [
+          "TR"
+        ],
+        "original_language": "tr",
+        "original_name": "Kuzey Yıldızı: İlk Aşk",
+        "overview": "يلدز تحب كوزاي منذ ان ولدت و لم ترى عيناها غيره. أمّا كوزاي الذي خطب يلدز و ذهب لإسطنبول لإتمام دراسته وقع في غرام امرأة اخرى هناك و تزوجها و انجب منها 3 بنات! سيضطر كوزاي لاحقاً لترك اسطنبول و العودة الى قريته مع بناته و سيحاول جعل بناته يتقبلن قريته لكن يلدز عزمت على اعادته من حيث اتى و جعله يندم على ما فعله سابقاً و هو ما سيجعل العائلتان تقعان في موقف لا تحسدان عليه.",
+        "popularity": 6.3918,
+        "poster_path": "/tm36QXjmyxY1I0PyqC31fJQ6Pae.jpg",
+        "first_air_date": "2019-09-14",
+        "softcore": false,
+        "name": "نجمة الشمال",
+        "vote_average": 8.308,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ck4HYEqNV2n2lGfii5HAKckFbBW.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 2059,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Rosemary & Thyme",
+        "overview": "",
+        "popularity": 6.3449,
+        "poster_path": "/lqWPl0dZK1EPjUH0iZgEJuCtvuO.jpg",
+        "first_air_date": "2003-08-31",
+        "softcore": false,
+        "name": "Rosemary & Thyme",
+        "vote_average": 7.403,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iTccszzHWk0uV3opwgK40J9Y0hL.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 2072,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Bill",
+        "overview": "",
+        "popularity": 24.2537,
+        "poster_path": "/bMd4T647b9YdkbQvULyndBNV8uL.jpg",
+        "first_air_date": "1984-10-16",
+        "softcore": false,
+        "name": "The Bill",
+        "vote_average": 6.755,
+        "vote_count": 47
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dzq83RHwQcnP6WGJ6YkenIqeaa5.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 60574,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Peaky Blinders",
+        "overview": "تركزت إنجلترا على عصابة قامت بخياطة شفرات الحلاقة في قمم قبعاتها، ورئيسها الشرس تومي شيلبي، الذي يريد الصعود إلى أعلى العالم.",
+        "popularity": 81.2773,
+        "poster_path": "/wDgEshHZzwFIkjuOEbvhqMxWD6q.jpg",
+        "first_air_date": "2013-09-12",
+        "softcore": false,
+        "name": "بيكي بلايندرز",
+        "vote_average": 8.526,
+        "vote_count": 11356
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "id": 60585,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bosch",
+        "overview": "تدور أحداث القصة حول محقق الجرائم الجنائية بوش والذي يجسد شخصيته الفنان تيتوس ويليفر . يحقق بوش في جريمة مقتل طفل وففي نفس الأثناء يواجه قضية قتله لمجرم متسلسل في المحكمة الفدرالية، لتتنقل القصة ما بين التحري والمحاكمة.",
+        "popularity": 52.3387,
+        "poster_path": "/zCltiygaUiAkh5dpuZ2KIFA8WBI.jpg",
+        "first_air_date": "2015-01-14",
+        "softcore": false,
+        "name": "بوش",
+        "vote_average": 7.924,
+        "vote_count": 756
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aPtygCQY7FOBO0Ns3bKhafR9HrI.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 60605,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "cy",
+        "original_name": "Y Gwyll",
+        "overview": "",
+        "popularity": 6.9455,
+        "poster_path": "/uyYp5sZqTkviCtRjQNuOuqWTssM.jpg",
+        "first_air_date": "2013-10-29",
+        "softcore": false,
+        "name": "Y Gwyll",
+        "vote_average": 7.232,
+        "vote_count": 112
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aSye04zKzWtUP3U6Cl4bOXc5Ih9.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 1911,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bones",
+        "overview": "تدور أحداثه حول مجموعة من الجرائم، حيث يقوم مجموعة من المحققين الفيدراليين بالتحقيق في كل جرائم القتل، ودراسة تفاصيلها الدقيقة، ويكتشفوا سبب القتل عن طريق عظام الضحايا.",
+        "popularity": 130.7207,
+        "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+        "first_air_date": "2005-09-13",
+        "softcore": false,
+        "name": "عظام",
+        "vote_average": 8.176,
+        "vote_count": 3581
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fWkeaZVZ28Bk3lskvpPVoO2mRZF.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 1949,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Dream Team",
+        "overview": "",
+        "popularity": 19.6706,
+        "poster_path": "/io9rdX5RcnTZeGbA7cRjkCkkOFC.jpg",
+        "first_air_date": "1997-10-07",
+        "softcore": false,
+        "name": "Dream Team",
+        "vote_average": 7.5,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 126491,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "New Scotland Yard Files",
+        "overview": "",
+        "popularity": 1.24,
+        "poster_path": "/lTvOrWbZ8EPddQidO9adqy4USVz.jpg",
+        "first_air_date": "2020-03-12",
+        "softcore": false,
+        "name": "New Scotland Yard Files",
+        "vote_average": 5.6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5ziXtCZye3NowgFJCBrK3kTd7vn.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648,
+          10765
+        ],
+        "id": 60726,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Forever",
+        "overview": "الدكتور هنري مورغان ، الفاحص الطبي النجم في مدينة نيويورك ، لديه سر. إنه لا يدرس الموتى فقط لحل القضايا الجنائية ، بل يفعل ذلك لحل اللغز الذي استعصى عليه لمدة 200 عام - الجواب على خلوده الذي لا يمكن تفسيره. هذه الحياة الطويلة أعطت هنري مهارات ملحوظة في الملاحظة مما أثار إعجاب شريكه الجديد ،\n\nالمحقق جو مارتينيز. كل أسبوع ، ستكشف قضية جديدة وصداقتهما الناشئة طبقات من ماضي هنري الطويل والملون. فقط أفضل أصدقائه وصديقه ، آبي يعرف سر هنري.",
+        "popularity": 14.8137,
+        "poster_path": "/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg",
+        "first_air_date": "2014-09-22",
+        "softcore": false,
+        "name": "للابد",
+        "vote_average": 7.827,
+        "vote_count": 663
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j9LbgzMsVTnC817Pevpl3igRG5.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 60741,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Ascension",
+        "overview": "",
+        "popularity": 5.634,
+        "poster_path": "/lBfc0PXqQkRYTmIyN2fmbhy365e.jpg",
+        "first_air_date": "2014-12-15",
+        "softcore": false,
+        "name": "Ascension",
+        "vote_average": 6.603,
+        "vote_count": 360
+      }
+    ],
+    "total_pages": 3016,
+    "total_results": 60309
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/6LQdA5QPX7tjxPxD3l6hufGA2Ko.jpg",
+        "id": 39185,
+        "name": "Vera",
+        "original_name": "Vera",
+        "overview": "A sharp detective with a messy life, DCI Vera Stanhope patrols her “patch” of northeast England, pursuing the truth in cases of murder, kidnapping, and blackmail. Vera is obsessive about her work and faces the world with caustic wit, guile and courage.",
+        "poster_path": "/yeYImRVVEX6LM2151oEkmNUKLVR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 40.8427,
+        "first_air_date": "2011-05-01",
+        "softcore": false,
+        "vote_average": 7.393,
+        "vote_count": 177,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hpEz9LVpzXTV6o1ZVi120WyTQSJ.jpg",
+        "id": 2343,
+        "name": "Lewis",
+        "original_name": "Lewis",
+        "overview": "Inspector Robert Lewis and Sergeant James Hathaway solve the tough cases that the learned inhabitants of Oxford throw at them.",
+        "poster_path": "/etyCA64joFB2jGJFWZPUYczVbvf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 31.5383,
+        "first_air_date": "2007-02-18",
+        "softcore": false,
+        "vote_average": 7.6,
+        "vote_count": 121,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bWTk5MoSYmtr34EQWXsEAFBeNiS.jpg",
+        "id": 1167,
+        "name": "The Inspector Lynley Mysteries",
+        "original_name": "The Inspector Lynley Mysteries",
+        "overview": "DS Barbara Havers is assigned to work with the upper-crust DI Thomas Lynley to solve murders.",
+        "poster_path": "/d68bISjO6e6cOtgeygJO471FUIh.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 13.005,
+        "first_air_date": "2002-04-08",
+        "softcore": false,
+        "vote_average": 7.364,
+        "vote_count": 44,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wixjwQv8aPfIwbc7euj0fPPsMjT.jpg",
+        "id": 3216,
+        "name": "Baretta",
+        "original_name": "Baretta",
+        "overview": "Baretta is an American detective television series which ran on ABC from 1975 to 1978. The show was a milder version of a successful 1973–74 ABC series, Toma, starring Tony Musante as chameleon-like, real-life New Jersey police officer David Toma. While popular, Toma received intense criticism at the time for its realistic and frequent depiction of police and criminal violence. When Musante left the series after a single season, the concept was retooled as Baretta, with Robert Blake in the title role.",
+        "poster_path": "/xayGSRT2GbcFTwNIqt6l355v29F.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.8278,
+        "first_air_date": "1975-01-17",
+        "softcore": false,
+        "vote_average": 6.536,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xnT4XnJhMFExcV8dUNiIwIDF3OD.jpg",
+        "id": 97085,
+        "name": "Van der Valk",
+        "original_name": "Detective Van der Valk",
+        "overview": "Set against the backdrop of the city of Amsterdam, Piet Van der Valk and his team investigate a series of high-profile cases immersed in the worlds of art, politics, addiction, mysticism and the fashion industry.",
+        "poster_path": "/hXhLu31ro2O8C5vRBzLjFP4yACO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 17.0378,
+        "first_air_date": "2020-01-01",
+        "softcore": false,
+        "vote_average": 6.5,
+        "vote_count": 52,
+        "origin_country": [
+          "NL"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kcl9SVzvtMJCGwx5PD1x04Ijnw7.jpg",
+        "id": 33091,
+        "name": "The Glades",
+        "original_name": "The Glades",
+        "overview": "This crime series follows Jim, a Chicago cop who gets kicked off the force after being shot and wrongfully accused by his ex-captain of having an affair with his wife. After receiving his payout, Jim decides to moves to a small Florida town to join the state police.",
+        "poster_path": "/44mkq0KpOngpJSs22m0LdP37Jpp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 15.9503,
+        "first_air_date": "2010-07-11",
+        "softcore": false,
+        "vote_average": 6.969,
+        "vote_count": 145,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eUr4FdIkP2fgyrnH76Xb1OTxbwk.jpg",
+        "id": 61565,
+        "name": "The Brokenwood Mysteries",
+        "original_name": "The Brokenwood Mysteries",
+        "overview": "In a seemingly quiet country town the newest resident, Detective Inspector Mike Shepherd, finds that murder lurks in even the most homely location.",
+        "poster_path": "/eWrrFMrBjZXtpXJzAtDz7MfoEQB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 21.7878,
+        "first_air_date": "2014-09-28",
+        "softcore": false,
+        "vote_average": 7.6,
+        "vote_count": 93,
+        "origin_country": [
+          "NZ"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jB3CQHS4zBzD00yZG936WmsH6P4.jpg",
+        "id": 790,
+        "name": "Agatha Christie's Poirot",
+        "original_name": "Agatha Christie's Poirot",
+        "overview": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions.",
+        "poster_path": "/6f4IVfbn8knb7RjdZlGLuW5guDc.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 108.1509,
+        "first_air_date": "1989-01-08",
+        "softcore": false,
+        "vote_average": 8.188,
+        "vote_count": 580,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wofevfOdZrHPqFnhZTkHHV25IOO.jpg",
+        "id": 587,
+        "name": "Barnaby Jones",
+        "original_name": "Barnaby Jones",
+        "overview": "Barnaby Jones is a television detective series starring Buddy Ebsen and Lee Meriwether as father- and daughter-in-law who run a private detective firm in Los Angeles. The show ran on CBS from January 28, 1973 to April 3, 1980, beginning as a midseason replacement. William Conrad guest starred as Frank Cannon of Cannon on the first episode of Barnaby Jones, \"Requiem for a Son\" and the two series had a two-part crossover episode in 1975, \"The Deadly Conspiracy\".",
+        "poster_path": "/wn1kkCGHJcUQ7C8umfQH9LL2zXR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.85,
+        "first_air_date": "1973-01-28",
+        "softcore": false,
+        "vote_average": 7.097,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k7w3VSy1F4pW5HeoZjk2wn73AXS.jpg",
+        "id": 45194,
+        "name": "Dragnet",
+        "original_name": "Dragnet",
+        "overview": "Police Detective Sgt. Joe Friday and his partners investigate crimes in Los Angeles.",
+        "poster_path": "/tvozcbojiCAHIFar7kdaGfwSWew.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 19.2663,
+        "first_air_date": "1967-01-12",
+        "softcore": false,
+        "vote_average": 6.957,
+        "vote_count": 23,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/52UMX6fg1PHgkgZicP8eBktR7Ay.jpg",
+        "id": 44264,
+        "name": "Endeavour",
+        "original_name": "Endeavour",
+        "overview": "The early days of a young Endeavour Morse, whose experiences as a detective constable with the Oxford City Police will ultimately shape his future.",
+        "poster_path": "/suX3F5e8XN9emrb52CQSwt2mRwx.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 23.2571,
+        "first_air_date": "2013-04-14",
+        "softcore": false,
+        "vote_average": 8.1,
+        "vote_count": 294,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg",
+        "id": 93168,
+        "name": "A Confession",
+        "original_name": "A Confession",
+        "overview": "The story of how Detective Superintendent Steve Fulcher deliberately breached police procedure and protocol to catch a killer, a decision that ultimately cost him his career and reputation.",
+        "poster_path": "/6c6q8m5PCiXv3TlxmM0vIcLylb0.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 4.4283,
+        "first_air_date": "2019-09-02",
+        "softcore": false,
+        "vote_average": 7.062,
+        "vote_count": 89,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eE8q2gfFrcvk99dbr8i3a62SjjW.jpg",
+        "id": 2468,
+        "name": "The Streets of San Francisco",
+        "original_name": "The Streets of San Francisco",
+        "overview": "Two police officers, the older Lt. Stone and the young upstart Inspector Keller, investigate murders and other serious crimes in San Francisco. Stone would become a second father to Keller as he learned the rigors and procedures of detective work.",
+        "poster_path": "/9Hpeu6FfEsWuy2rED3JuAMdNKhk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 12.1481,
+        "first_air_date": "1972-09-23",
+        "softcore": false,
+        "vote_average": 7.075,
+        "vote_count": 106,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7lYBvjfgrguOUgnS9NrpysHtaCq.jpg",
+        "id": 4582,
+        "name": "Ironside",
+        "original_name": "Ironside",
+        "overview": "When an assassin's bullet confines him to a wheelchair for life ending his career as Chief of Detectives, Robert T. Ironside becomes a consultant to the police department. Detective Sergeant Ed Brown and policewoman Eve Whitfield join with him to crack varied and fascinating cases. Ex-con Mark Sanger is employed by the chief as home help but eventually becomes a fully fledged member of the team also. Officer Whitfield leaves after 4 years service, and is replaced by Officer Fran Belding.",
+        "poster_path": "/Fu9Sv0pQ0s89uWwwXcaG0kiNW7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 55.1088,
+        "first_air_date": "1967-03-28",
+        "softcore": false,
+        "vote_average": 6.789,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i46T9MnizqIYuRHINZfr8enXsot.jpg",
+        "id": 85586,
+        "name": "Coroner",
+        "original_name": "Coroner",
+        "overview": "Jenny Cooper investigates unexplained or sudden deaths in the city of Toronto. Fierce and quick-witted, Jenny is a newly-widowed single mother with secrets of her own to unearth.",
+        "poster_path": "/7zEVxcNEDxVtRf29zvjjy6cazm4.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 15.3645,
+        "first_air_date": "2019-01-07",
+        "softcore": false,
+        "vote_average": 6.953,
+        "vote_count": 247,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+        "id": 1620,
+        "name": "CSI: Miami",
+        "original_name": "CSI: Miami",
+        "overview": "The show follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
+        "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 113.0501,
+        "first_air_date": "2002-09-23",
+        "softcore": false,
+        "vote_average": 7.688,
+        "vote_count": 1741,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7398a0SJBEH8i7hGQL94No4lUqT.jpg",
+        "id": 157409,
+        "name": "Signora Volpe",
+        "original_name": "Signora Volpe",
+        "overview": "After years as an MI6 operative, Sylvia winds up in a village in Umbria visiting her sister Isabel and becomes involved in a murder investigation.",
+        "poster_path": "/wEhY7XzejGMPc4vWpJwfwhRAg3N.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 7.9653,
+        "first_air_date": "2022-05-02",
+        "softcore": false,
+        "vote_average": 7.181,
+        "vote_count": 48,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/quVbFfkM3vV6FrbS7INnqNL9hRy.jpg",
+        "id": 130273,
+        "name": "Annika",
+        "original_name": "Annika",
+        "overview": "The sharp, witty and enigmatic DI Annika Strandhed, as she heads up a new specialist Marine Homicide Unit (MHU) that is tasked with investigating the unexplained, brutal, and seemingly unfathomable murders.",
+        "poster_path": "/8jRoGLyOnTMyLhWajG0ye6KKw0h.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "popularity": 7.7275,
+        "first_air_date": "2021-08-17",
+        "softcore": false,
+        "vote_average": 6.95,
+        "vote_count": 70,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tUKU1WLqMtIZHUl8lP9bLAJx0nl.jpg",
+        "id": 954,
+        "name": "The Rockford Files",
+        "original_name": "The Rockford Files",
+        "overview": "Cranky but likable L.A. PI Jim Rockford pulls no punches (but takes plenty of them). An ex-con sent to the slammer for a crime he didn't commit, Rockford takes on cases others don't want, aided by his tough old man, his lawyer girlfriend and some shady associates from his past.",
+        "poster_path": "/fniHEsTeqHMg41GlCYJxZVgtn7H.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 40.9616,
+        "first_air_date": "1974-09-13",
+        "softcore": false,
+        "vote_average": 7.611,
+        "vote_count": 131,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5pYgyjVT016dlW2EYgblqqONzAo.jpg",
+        "id": 3114,
+        "name": "Silk Stalkings",
+        "original_name": "Silk Stalkings",
+        "overview": "Silk Stalkings is a crime drama television series.  The series portrays the daily lives of two detectives who solve sexually-based crimes of passion among the ultra-rich of Palm Beach, Florida.",
+        "poster_path": "/yrJeF2eA1I6JZiN4WOCl1l6PL9f.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 22.1234,
+        "first_air_date": "1991-11-07",
+        "softcore": false,
+        "vote_average": 6.2,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 12,
+    "total_results": 238
+  }
+}

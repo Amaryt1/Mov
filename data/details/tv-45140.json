@@ -1,0 +1,3693 @@
+{
+  "adult": false,
+  "backdrop_path": "/bIHCUqaapZdRjd2kzSDiwzYyrpC.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2013-04-23",
+  "genres": [
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    }
+  ],
+  "homepage": "https://www.cartoonnetwork.com/video/teen-titans-go/index.html",
+  "id": 45140,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-08-22",
+  "last_episode_to_air": {
+    "id": 7016503,
+    "name": "الحلقة 48",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-05",
+    "episode_number": 48,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 11,
+    "season_number": 9,
+    "show_id": 45140,
+    "still_path": null
+  },
+  "name": "تين تايتنز غو!",
+  "next_episode_to_air": {
+    "id": 7016502,
+    "name": "الحلقة 49",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-12",
+    "episode_number": 49,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 9,
+    "show_id": 45140,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 56,
+      "logo_path": "/c5OC6oVCg6QP4eqzW6XIq17CQjI.png",
+      "name": "Cartoon Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 454,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Teen Titans Go!",
+  "overview": "يعود \"روبن\" و\"ستارفاير\" و\"رايفن\" و\"بيست بوي\" و\"سايبورغ\" في مغامرات كوميدية جديدة تمامًا. قد يكونون أبطالًا خارقين ينقذون العالم كل يوم... ولكن لا يزال هناك شخص ما يجب أن يقوم بالغسيل!",
+  "popularity": 142.2582,
+  "poster_path": "/rTmOlkGGXmFJuA779CFjxaYxbCf.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 9993,
+      "logo_path": "/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "name": "DC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-09-12",
+      "episode_count": 8,
+      "id": 106587,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/aMzzTQcD4KZImTK9Ey4xSMf0sva.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-04-23",
+      "episode_count": 52,
+      "id": 53754,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/egKg8aJ6YoflGxYgPKYNY2MFN5Y.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2014-06-12",
+      "episode_count": 52,
+      "id": 63981,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/lBZFpFfBAcEGFDl25Am9AweMy13.jpg",
+      "season_number": 2,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2015-07-31",
+      "episode_count": 53,
+      "id": 69528,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/pnKVOYB4wEtlAtrAbLv8bwmPKGW.jpg",
+      "season_number": 3,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2016-10-20",
+      "episode_count": 52,
+      "id": 69745,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/M6teRruxKFIJlAHwTLc1pcsyse.jpg",
+      "season_number": 4,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2018-06-25",
+      "episode_count": 54,
+      "id": 106585,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/dSIUL3hBBeqU9utXKRVtcjLvnHx.jpg",
+      "season_number": 5,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2019-11-27",
+      "episode_count": 50,
+      "id": 134466,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/k5Qgm8skxBUl0eastmKWbrXbl5D.jpg",
+      "season_number": 6,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2021-04-17",
+      "episode_count": 53,
+      "id": 193449,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/qISxSuMJetA2MJYf31qszL8qm1E.jpg",
+      "season_number": 7,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2023-02-06",
+      "episode_count": 36,
+      "id": 328007,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/q1lAtqSz9zUeIBiHgd36cDqwqCG.jpg",
+      "season_number": 8,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2025-03-01",
+      "episode_count": 52,
+      "id": 443276,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/73y5Vvp8WTEEDyGwJJTySz82TOI.jpg",
+      "season_number": 9,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.421,
+  "vote_count": 731,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 113916,
+        "known_for_department": "Acting",
+        "name": "Scott Menville",
+        "original_name": "Scott Menville",
+        "popularity": 1.8081,
+        "profile_path": "/iLoApH8LbyJSKFmdgWxNR314GGa.jpg",
+        "character": "Robin (voice)",
+        "credit_id": "5b539d35c3a3680b6801ddcd",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60227,
+        "known_for_department": "Acting",
+        "name": "Greg Cipes",
+        "original_name": "Greg Cipes",
+        "popularity": 1.9017,
+        "profile_path": "/x6kE9Ox4sR3HnrF6qtnjGNgujzV.jpg",
+        "character": "Beast Boy (voice)",
+        "credit_id": "5b539d11c3a3680b5f0163f5",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65640,
+        "known_for_department": "Acting",
+        "name": "Khary Payton",
+        "original_name": "Khary Payton",
+        "popularity": 2.3066,
+        "profile_path": "/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg",
+        "character": "Cyborg (voice)",
+        "credit_id": "5b539d5ec3a3680b5f0164bb",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15762,
+        "known_for_department": "Acting",
+        "name": "تارا سترونغ",
+        "original_name": "Tara Strong",
+        "popularity": 4.7279,
+        "profile_path": "/Cm3X7CCSuYbjW1ZKJ8vxCj4SI7.jpg",
+        "character": "Raven (voice)",
+        "credit_id": "5b539d8b0e0a262317019fee",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 113919,
+        "known_for_department": "Acting",
+        "name": "Hynden Walch",
+        "original_name": "Hynden Walch",
+        "popularity": 3.2154,
+        "profile_path": "/oFfZaFF1o724BuZ3cLK6tl9L03.jpg",
+        "character": "Starfire (voice)",
+        "credit_id": "5b539dab9251411f84018579",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 236392,
+        "known_for_department": "Writing",
+        "name": "Arnold Drake",
+        "original_name": "Arnold Drake",
+        "popularity": 0.6545,
+        "profile_path": null,
+        "credit_id": "61a17e567f1d83008ee7a58b",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1919964,
+        "known_for_department": "Sound",
+        "name": "大貫亜美",
+        "original_name": "大貫亜美",
+        "popularity": 1.0123,
+        "profile_path": "/mH5qMd2EqGwU5UlW8aFaCszBfaO.jpg",
+        "credit_id": "61a183d385c0a20021696d92",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 135520,
+        "known_for_department": "Writing",
+        "name": "مارف وولفمان",
+        "original_name": "Marv Wolfman",
+        "popularity": 1.3929,
+        "profile_path": "/rf9tFlKXpqsm7uHILuFgRzoBNs6.jpg",
+        "credit_id": "61a17e610cb3350093605e14",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1726488,
+        "known_for_department": "Writing",
+        "name": "جورج بيريز",
+        "original_name": "George Pérez",
+        "popularity": 1.2199,
+        "profile_path": "/9FBgan1WokYEBYglMnY7bMy8q1H.jpg",
+        "credit_id": "61a17e6d85c0a20044e3abb4",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1896,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "61a17ec9058224006420f4ee",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1053023,
+        "known_for_department": "Acting",
+        "name": "吉村由美",
+        "original_name": "吉村由美",
+        "popularity": 0.9344,
+        "profile_path": "/6cevmyNwS9u5Z0Apjaucgab65Mg.jpg",
+        "credit_id": "61a183c9180dea0025ecb6c5",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1990379,
+        "known_for_department": "Sound",
+        "name": "Andy Sturmer",
+        "original_name": "Andy Sturmer",
+        "popularity": 0.3836,
+        "profile_path": null,
+        "credit_id": "61a183f57f1d830044a47818",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1046102,
+        "known_for_department": "Production",
+        "name": "ليزا شافير",
+        "original_name": "Lisa Schaffer",
+        "popularity": 0.4103,
+        "profile_path": null,
+        "credit_id": "651f8fa4ea84c7012d6a4316",
+        "department": "Production",
+        "job": "Casting"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 25
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 12
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jGLRnvajVBg3QXikgHiI0HdG9Qe.png",
+            "provider_id": 321,
+            "provider_name": "Sky X",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 151
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 152
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=AU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/wy6HfNZHCKX2q9gTGk0Rgutd0VA.png",
+            "provider_id": 135,
+            "provider_name": "ABC iview",
+            "display_priority": 20
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/6dOWQKIRIxDmX5FD4g5dPsHxFn3.png",
+            "provider_id": 21,
+            "provider_name": "Stan",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 91
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 103
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 39
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 62
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 22
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 29
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/cCrds5zk6NV8LBu6D00YkJ8sQ3s.png",
+            "provider_id": 2329,
+            "provider_name": "Cartoon Network Amazon Channel",
+            "display_priority": 99
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 25
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 10
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/wPp7weSjZxe7H7kGzFOfJsOj8aH.png",
+            "provider_id": 589,
+            "provider_name": "TELETOON+ Amazon Channel",
+            "display_priority": 67
+          },
+          {
+            "logo_path": "/63tEiSxrgEAufhx2jfxzt2zPtVL.png",
+            "provider_id": 606,
+            "provider_name": "StackTV Amazon Channel",
+            "display_priority": 71
+          },
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 88
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/9DoQOfCz9S9j4cif3Cqx3ebk3FP.png",
+            "provider_id": 210,
+            "provider_name": "Sky",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 76
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 69
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/gzlCSbeTdiLJNxdZuMKNhW8X7cy.png",
+            "provider_id": 1939,
+            "provider_name": "Lepsi TV",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/2o26YwA7tXQ7I6CSrMvO9Rj4oNi.png",
+            "provider_id": 30,
+            "provider_name": "WOW",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          },
+          {
+            "logo_path": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png",
+            "provider_id": 2412,
+            "provider_name": "Magenta TV+",
+            "display_priority": 191
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 217
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 218
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/hPIVVR7yvR0PrTe7eHR2I5nAFis.png",
+            "provider_id": 1961,
+            "provider_name": "Allente",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 40
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 37
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 87
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 21
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=FR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 73
+          },
+          {
+            "logo_path": "/dZtmGfUhFagm7YNk1Idol1T2t7e.png",
+            "provider_id": 2535,
+            "provider_name": "France TV Amazon Channel",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 104
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+            "provider_id": 175,
+            "provider_name": "Netflix Kids",
+            "display_priority": 30
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+            "provider_id": 2300,
+            "provider_name": "ITVX Premium",
+            "display_priority": 113
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 176
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/nIViE3wOPV5Jyv45T7hetHyG6iS.png",
+            "provider_id": 41,
+            "provider_name": "ITVX",
+            "display_priority": 22
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 37
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 34
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+            "provider_id": 175,
+            "provider_name": "Netflix Kids",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 67
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+            "provider_id": 2336,
+            "provider_name": "JioHotstar",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 24
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 85
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 86
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=JP",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 25
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 27
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 12
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=LV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 27
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 34
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=MU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 14
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/79nAQ85lpvo9OZQ0oHpbjYhMt15.png",
+            "provider_id": 563,
+            "provider_name": "KPN",
+            "display_priority": 30
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 75
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 41
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=NZ",
+        "ads": [
+          {
+            "logo_path": "/1RZw1lIi2R42ElHV5yrAXi7zLtn.png",
+            "provider_id": 395,
+            "provider_name": "TVNZ+",
+            "display_priority": 12
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 67
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=PG",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 14
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 32
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 18
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 34
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 30
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 29
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/uzJAlKOjD4PCqqx3N1fwkmu0Ttb.png",
+            "provider_id": 497,
+            "provider_name": "Tele2 Play",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 44
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 65
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=SG",
+        "free": [
+          {
+            "logo_path": "/aj4EXUQKE0xT5F3JxblWDm0UemY.png",
+            "provider_id": 2686,
+            "provider_name": "Mewatch",
+            "display_priority": 43
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 29
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 11
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 30
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 29
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 13
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 37
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=UA",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 18
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 151
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 152
+          },
+          {
+            "logo_path": "/mNpEftvWICfa94sxzdGegPkBmCn.png",
+            "provider_id": 2370,
+            "provider_name": "DC Amazon Channel",
+            "display_priority": 376
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/tv/45140-teen-titans-go/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/u2V7vzwYL4UFCBdZeHlGWB3nLbu.jpg",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "id": 206737,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "TAROMAN 岡本太郎式特撮活劇",
+        "overview": "",
+        "popularity": 2.1171,
+        "poster_path": "/8gB4vyicKmkpXbSjHQlVfzZzvqp.jpg",
+        "first_air_date": "2022-07-19",
+        "softcore": false,
+        "name": "TAROMAN 岡本太郎式特撮活劇",
+        "vote_average": 7,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yCzjTeA9rDViKXwQwW8nqQhoXee.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 238586,
+        "origin_country": [
+          "ES"
+        ],
+        "original_language": "ca",
+        "original_name": "Quico",
+        "overview": "",
+        "popularity": 6.7578,
+        "poster_path": "/aVgumoM9EOXF0pQ29qW936LcAm0.jpg",
+        "first_air_date": "1992-09-17",
+        "softcore": false,
+        "name": "Quico",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vhDErhLUBnyLdDNtgaeOYAfIoM2.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765,
+          10762
+        ],
+        "id": 472,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Megas XLR",
+        "overview": "",
+        "popularity": 7.326,
+        "poster_path": "/cKFsyZObYnse8vTXPA4V0pVmLPh.jpg",
+        "first_air_date": "2004-05-01",
+        "softcore": false,
+        "name": "Megas XLR",
+        "vote_average": 8.124,
+        "vote_count": 113
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/d8bAI2EDM7L2q94wDZfjb82KRoh.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "id": 91801,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "魔入りました！入間くん",
+        "overview": "سوزوكي إيروما، إنسان، 14 سنة، يجد نفسه في أحد الأيام يُؤخذ قسرًا إلى عالم الشياطين. ما زاد الطين بلّة هو أنّ مالكه الشغوف والذي عيّن نفسه \"جدًّا\" له هو في الواقع المدير الشيطان لمدرسته الجديدة. لأجل النجاة، على إيروما أن يتعامل مع طالبٍ متجبّر يتحدّاه في نزال وفتاة تواجه مشاكل تكيّف والكثير من المخلوقات المخيفة الأخرى! أيمكن لهذا المسالم المُطْلق أن يتفادى الحبال والسّهام التي تُقذف عليه؟ بينما يقاوم بيأس، لُطف إيروما الفطريّ بدأ يستهوي الأعداء",
+        "popularity": 41.7613,
+        "poster_path": "/5o1PjfSTASqjUH6giJXiskDbXpj.jpg",
+        "first_air_date": "2019-10-05",
+        "softcore": false,
+        "name": "مرحبًا بك في مدرسة الشياطين! إيروما-كن",
+        "vote_average": 8.3,
+        "vote_count": 304
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2dUiV8MqQesrLhb8FALnaqHwjub.jpg",
+        "genre_ids": [
+          10765,
+          10759,
+          10762
+        ],
+        "id": 410,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "星獣戦隊ギンガマン",
+        "overview": "",
+        "popularity": 8.7935,
+        "poster_path": "/k4akv3Eu90mR0E0WP6TlAzQBPym.jpg",
+        "first_air_date": "1998-02-22",
+        "softcore": false,
+        "name": "星獣戦隊ギンガマン",
+        "vote_average": 6.75,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2CqC0XVbK2mdEkVVDDKXi1jWG0M.jpg",
+        "genre_ids": [
+          10765,
+          16,
+          35,
+          10759,
+          80
+        ],
+        "id": 416,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Harvey Birdman, Attorney at Law",
+        "overview": "",
+        "popularity": 9.3506,
+        "poster_path": "/tBVSDa48aOcq7vF0xLFprRWZgbh.jpg",
+        "first_air_date": "2000-12-30",
+        "softcore": false,
+        "name": "Harvey Birdman, Attorney at Law",
+        "vote_average": 7.969,
+        "vote_count": 129
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oWTJSWA79bgn4AqgCrgqroI2Tsj.jpg",
+        "genre_ids": [
+          16,
+          35,
+          80,
+          10765,
+          9648,
+          10759,
+          10762
+        ],
+        "id": 430,
+        "origin_country": [
+          "CA",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Adventures of Sam & Max: Freelance Police",
+        "overview": "",
+        "popularity": 4.1542,
+        "poster_path": "/iodMKLGmlNQSA1MHpK0yPzdnIP9.jpg",
+        "first_air_date": "1997-10-04",
+        "softcore": false,
+        "name": "The Adventures of Sam & Max: Freelance Police",
+        "vote_average": 8.3,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rtEMlcl7d76dNKmZSr7bmWWtRqz.jpg",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "id": 354,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "My Hero",
+        "overview": "",
+        "popularity": 6.9603,
+        "poster_path": "/ultFCYTFjTudEsCrGLFr4Sugdbf.jpg",
+        "first_air_date": "2000-02-04",
+        "softcore": false,
+        "name": "My Hero",
+        "vote_average": 6.469,
+        "vote_count": 32
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A8We2BSM6hJ1VWzncssnU2fFsft.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "id": 513,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Batman Beyond",
+        "overview": "مع اجتياح الأشرار الجدد لمدينة غوثام المستقبلية، يتخلى بروس واين المُسنّ عن عباءة باتمان الذي كان لا يُقهر. ولكن عندما يعثر المراهق المضطرب تيري ماكجينيس على سرّ فارس الظلام، يتشكل تحالف جديد، ويولد باتمان جديد منتصر",
+        "popularity": 25.1343,
+        "poster_path": "/rpbHPyhLstNd5qgtjaDMdPtyPeQ.jpg",
+        "first_air_date": "1999-01-10",
+        "softcore": false,
+        "name": "باتمان بيوند",
+        "vote_average": 8.176,
+        "vote_count": 630
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nLzFrOdNzBx1qTkjmKaOhRUp2iy.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          10762
+        ],
+        "id": 518,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "VR Troopers",
+        "overview": "",
+        "popularity": 6.8384,
+        "poster_path": "/71bZ8qGxCeCwPXjdAJQTyerjYe6.jpg",
+        "first_air_date": "1994-09-03",
+        "softcore": false,
+        "name": "VR Troopers",
+        "vote_average": 8.265,
+        "vote_count": 49
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hBHAbkwyGXTFPkhmEd1ma5JNRbw.jpg",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "id": 530,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "機動刑事ジバン",
+        "overview": "",
+        "popularity": 7.2782,
+        "poster_path": "/lFSbnv0xXRE8l3bzBDrkW2yUUI6.jpg",
+        "first_air_date": "1989-01-29",
+        "softcore": false,
+        "name": "機動刑事ジバン",
+        "vote_average": 7.942,
+        "vote_count": 224
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg",
+        "genre_ids": [
+          10759,
+          35,
+          10751,
+          10765
+        ],
+        "id": 58981,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Thundermans",
+        "overview": "تعرّفوا على عائلة ثاندرمان، وهي عائلة نموذجية تعيش في الضواحي، لكنها تمتلك قوى خارقة مذهلة. تدور أحداث القصة حول توأم ثاندرمان البالغين من العمر 14 عامًا، واللذين يتشاركان نفس الحمام، ونفس المدرسة، ونفس الأشقاء الصغار المزعجين. ما هو الفرق الوحيد بينهما؟ الأخت طالبة متفوقة ذات شخصية مرحة للغاية، وتتطلع بشدة لأن تصبح بطلة خارقة في يوم من الأيام، أما شقيقها التوأم فهو شرير خارق.",
+        "popularity": 28.897,
+        "poster_path": "/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
+        "first_air_date": "2013-10-14",
+        "softcore": false,
+        "name": "The Thundermans",
+        "vote_average": 8.002,
+        "vote_count": 610
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ilKbbbCYjerHXQr6NRuKPu9DBsJ.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "id": 604,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Teen Titans",
+        "overview": "يُقاتل هؤلاء الأبطال الخارقون الخمسة من أجل الحقيقة والعدالة وآخر قطعة بيتزا، مُثبتين أنك لست صغيرًا جدًا لإنقاذ الكوكب. يُدافع فريق \"تين تايتنز\" عن الأرض وما وراءها، مُستخدمين فنون القتال والأدوات المُتطورة لمُحاربة الأشرار",
+        "popularity": 28.4061,
+        "poster_path": "/7DCq6XbJx5WGKPvSMBxYK9uJQWQ.jpg",
+        "first_air_date": "2003-07-19",
+        "softcore": false,
+        "name": "تين تايتنز",
+        "vote_average": 8.346,
+        "vote_count": 1360
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4PhaaA593zHfAyYUIXVWTih3qcD.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          10765
+        ],
+        "id": 605,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Sabrina, the Teenage Witch",
+        "overview": "",
+        "popularity": 46.8416,
+        "poster_path": "/nNhj3coHNVVJPVM7fm5PEYVTCMO.jpg",
+        "first_air_date": "1996-09-27",
+        "softcore": false,
+        "name": "Sabrina, the Teenage Witch",
+        "vote_average": 7.778,
+        "vote_count": 1246
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gnK2nptRXra4RnKgGqAWFSqP5aG.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "id": 607,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Powerpuff Girls",
+        "overview": "",
+        "popularity": 63.6127,
+        "poster_path": "/4UsOLQMVIKrdGZZEAq4XtjUYdiC.jpg",
+        "first_air_date": "1998-11-18",
+        "softcore": false,
+        "name": "الفتيات الخارقات",
+        "vote_average": 7.515,
+        "vote_count": 1028
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "id": 615,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Futurama",
+        "overview": "يحكي المسلسل مغامرات صبي توصيل البيتزا (فيليب جي فراي) في مدينة نيويورك في أواخر القرن العشرين الذي تم تجميده عن غير قصد لألف عام، بعدها وجد عملاً في القرن الحادي والثلاثين المستقبلي في شركة التوصيل بين الكواكب Planet Express.",
+        "popularity": 100.3427,
+        "poster_path": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+        "first_air_date": "1999-03-28",
+        "softcore": false,
+        "name": "فيوتشراما",
+        "vote_average": 8.363,
+        "vote_count": 3892
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qvVVVDhUj0mn3XpV4vBrJNp8rxH.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 560,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Hammerman",
+        "overview": "",
+        "popularity": 2.6533,
+        "poster_path": "/zY4PA5Wz5M09WyEu4OBHheVz3Om.jpg",
+        "first_air_date": "1991-09-07",
+        "softcore": false,
+        "name": "Hammerman",
+        "vote_average": 4.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nxLnHONYNPOUtJ6IzuUFU75uTdx.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 555,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "That's My Bush!",
+        "overview": "",
+        "popularity": 4.6179,
+        "poster_path": "/lsj64zEKadkrHq0mia6LmKqHN1N.jpg",
+        "first_air_date": "2001-04-04",
+        "softcore": false,
+        "name": "That's My Bush!",
+        "vote_average": 6.635,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wxxdBqLjEf0IuRLF7DfORm85OtK.jpg",
+        "genre_ids": [
+          10759,
+          10762,
+          10765
+        ],
+        "id": 59041,
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_name": "Hero - Bhakti Hi Shakti Hai",
+        "overview": "",
+        "popularity": 6.8327,
+        "poster_path": "/xWX66szqmnGFokRzdZJtqCB2paG.jpg",
+        "first_air_date": "2005-05-30",
+        "softcore": false,
+        "name": "Hero - Bhakti Hi Shakti Hai",
+        "vote_average": 5.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ypjekzMRMvdrx4PRA7v1DNyCmTR.jpg",
+        "genre_ids": [
+          10762,
+          16,
+          10765,
+          10759,
+          18
+        ],
+        "id": 668,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "X-Men: Evolution",
+        "overview": "يضم هذا الإصدار من X-Men كلاً من سايكلوبس، وجين غراي، وروغ، ونايت كراولر، وشادوكات، وسبايك وهم مراهقون يقاتلون من أجل عالم يخشاهم ويكرههم.",
+        "popularity": 19.5462,
+        "poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
+        "first_air_date": "2000-11-04",
+        "softcore": false,
+        "name": "إكس مان: التطور",
+        "vote_average": 7.957,
+        "vote_count": 541
+      }
+    ],
+    "total_pages": 2805,
+    "total_results": 56088
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/oBY4hKjS80M60gEvtJ3gtqPTVpn.jpg",
+        "id": 68837,
+        "name": "Justice League Action",
+        "original_name": "Justice League Action",
+        "overview": "Batman, Superman and Wonder Woman lead the DC Super Heroes against their most infamous foes.",
+        "poster_path": "/AdTh5kAXYwo0dwHONqCFO7y8Jmf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          10762
+        ],
+        "popularity": 15.6293,
+        "first_air_date": "2016-12-16",
+        "softcore": false,
+        "vote_average": 7.2,
+        "vote_count": 93,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gXeCzYmCRBlpbbhhKrYM1ZpIDAA.jpg",
+        "id": 34391,
+        "name": "مارفل: الرجل العنكبوت الخارق",
+        "original_name": "Marvel's Ultimate Spider-Man",
+        "overview": "أثناء تدريبه من قبل منظمة شيلد، يحارب سبايدرمان الشر مع فريق جديد من زملائه المراهقين",
+        "poster_path": "/jK3pc8XOQT8UgdvSjMFk8xLQOxE.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 26.7693,
+        "first_air_date": "2012-04-01",
+        "softcore": false,
+        "vote_average": 7.69,
+        "vote_count": 1051,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/95kE8pZICnHLtBg1Qk7ppzg4Ku5.jpg",
+        "id": 1977,
+        "name": "Loonatics Unleashed",
+        "original_name": "Loonatics Unleashed",
+        "overview": "Ace Bunny, Tech E. Coyote, Danger Duck, and friends are transformed into superheroes when a meteor hits the planet 700 years in the future. Now they spend their time making jokes while blasting monsters and asteroids with “neutron cannons” and whatever other weapons they have at hand.",
+        "poster_path": "/oHGY83FvCpMqBGjftalcBzI6tIx.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          35
+        ],
+        "popularity": 9.7649,
+        "first_air_date": "2005-09-17",
+        "softcore": false,
+        "vote_average": 7.9,
+        "vote_count": 156,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z3RpjgmF9AjuhTog4yLLG3QGLPN.jpg",
+        "id": 46922,
+        "name": "بن 10: أومنيفرس",
+        "original_name": "Ben 10: Omniverse",
+        "overview": "هزيمة الأشرار مجرد جزء من هوايات البطل الخارق. ومع قليل من المساعدة من شريكه المبتدئ الجديد، يقوم بن باستكشاف الجانب الغريب في عالم الكائنات الفضائية وأعداء من الماضي الذين يبحثون عن الثأر، بينما يطارده صياد غامض! لقد عاد بن تنيسون من جديد وبجعبته عشرة كائنات فضائية جديدة وفرصة المزيد من المتعة أكثر من ذي قبل!",
+        "poster_path": "/yY8mOS4ZR0P8JKvyWl8LhCKZ3HT.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          10762
+        ],
+        "popularity": 22.835,
+        "first_air_date": "2012-08-01",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 542,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ySxWguK7c9iB8VLoARu94n4yZn3.jpg",
+        "id": 84200,
+        "name": "فرقة العدالة بلا حدود",
+        "original_name": "Justice League Unlimited",
+        "overview": "يعود أقوى أبطال المجرة لمحاربة الأشرار المتحالفين والمؤامرات الإجرامية التي تهدد الكون",
+        "poster_path": "/vRRvCUREeqqnp3hHdqep83eQjdP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 16.2095,
+        "first_air_date": "2004-07-31",
+        "softcore": false,
+        "vote_average": 8.308,
+        "vote_count": 891,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mYKYwihv940xGyDt2XckkBryNnP.jpg",
+        "id": 2901,
+        "name": "Fantastic Four",
+        "original_name": "Fantastic Four",
+        "overview": "When Reed Richards, Sue and Johnny Storm and pilot Ben Grimm take a premature space flight on a new shuttle, they find themselves massively bombarded with cosmic radiation. Barely managing to re-enter and land safely, the quartet find themselves forever transformed with superpowers. Deciding to use these new powers to help people, they form the Fantastic Four, a superhero team dedicated to the protection of Earth from menaces like the Latverian King Dr. Doom and Galactus, the planet consumer.",
+        "poster_path": "/jPVGruDYZtImosRkNv7eZhqxT1p.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10762,
+          10765
+        ],
+        "popularity": 12.7484,
+        "first_air_date": "1994-09-24",
+        "softcore": false,
+        "vote_average": 6.575,
+        "vote_count": 87,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7p0QLfjFx1iJzJ6iB82mp7E9qIH.jpg",
+        "id": 40044,
+        "name": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+        "original_name": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+        "overview": "Joined by the Agents of S.M.A.S.H., a humorously dysfunctional group of teammates who double as family, Hulk tackles threats that are too enormous for any other heroes to handle.",
+        "poster_path": "/gkGIiIIkHOeVXzwjBNFTRqTCnqF.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 9.4389,
+        "first_air_date": "2013-08-11",
+        "softcore": false,
+        "vote_average": 6.2,
+        "vote_count": 85,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s1pIx94IaokrvqTC5p4rGuECKbW.jpg",
+        "id": 99583,
+        "name": "Danger Force",
+        "original_name": "Danger Force",
+        "overview": "Captain Man has a new crew of superhero sidekicks - Danger Force. Captain Man and Schwoz create a fake school to train the kids to harness their uncontrollable superpowers to fight crime.",
+        "poster_path": "/gsvZYRnpcYJoefRlFWFKx9o0P4H.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          10765
+        ],
+        "popularity": 13.1461,
+        "first_air_date": "2020-03-28",
+        "softcore": false,
+        "vote_average": 7.881,
+        "vote_count": 290,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ilKbbbCYjerHXQr6NRuKPu9DBsJ.jpg",
+        "id": 604,
+        "name": "تين تايتنز",
+        "original_name": "Teen Titans",
+        "overview": "يُقاتل هؤلاء الأبطال الخارقون الخمسة من أجل الحقيقة والعدالة وآخر قطعة بيتزا، مُثبتين أنك لست صغيرًا جدًا لإنقاذ الكوكب. يُدافع فريق \"تين تايتنز\" عن الأرض وما وراءها، مُستخدمين فنون القتال والأدوات المُتطورة لمُحاربة الأشرار",
+        "poster_path": "/7DCq6XbJx5WGKPvSMBxYK9uJQWQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 28.4061,
+        "first_air_date": "2003-07-19",
+        "softcore": false,
+        "vote_average": 8.346,
+        "vote_count": 1360,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1pnaMzcTXU6LmBd9rf4ZvNGBnce.jpg",
+        "id": 61852,
+        "name": "هنري الخطير",
+        "original_name": "Henry Danger",
+        "overview": "تُرغم وظيفة جديدة بدوام جزئي \"هنري هارت\" على الموازنة بين حياة المراهق العادية وحياة البطل \"كيد دينجر\"، المساعد السرّي للبطل الخارق.",
+        "poster_path": "/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          10762,
+          10765
+        ],
+        "popularity": 37.7855,
+        "first_air_date": "2014-07-26",
+        "softcore": false,
+        "vote_average": 8.282,
+        "vote_count": 1171,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gPJZKiqBU5OVPhalvNDkU6NF8jQ.jpg",
+        "id": 15804,
+        "name": "باتمان الجرأة والشجاعة",
+        "original_name": "Batman: The Brave and the Bold",
+        "overview": "تعتمد فكرة المسلسل على \"التعاون المشترك\"؛ حيث لا يقاتل باتمان الجريمة وحده في مدينة غوثام فقط، بل في كل حلقة يتحد مع بطل خارق مختلف من عالم DC (مثل بلو بيتل، أكوامان، أو القناص الأخضر) لمواجهة أشرار خارقين أو تهديدات كونية.",
+        "poster_path": "/tv2mOIRcPP4H0DhOH84xPgqui7d.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 25.2587,
+        "first_air_date": "2008-11-14",
+        "softcore": false,
+        "vote_average": 7.611,
+        "vote_count": 287,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2CsVkDPeCs0VZ3pTE6aLFlW1lUp.jpg",
+        "id": 4028,
+        "name": "Legion of Super Heroes",
+        "original_name": "Legion of Super Heroes",
+        "overview": "The series centers on a young Superman's adventures in the 31st century, fighting alongside a group of futuristic superheroes known as the Legion of Super-Heroes.",
+        "poster_path": "/bz92ox9DKUTJr1Or1CqJ8zWffi2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          10762
+        ],
+        "popularity": 10.3814,
+        "first_air_date": "2006-09-23",
+        "softcore": false,
+        "vote_average": 7.674,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tSbZytA2RSLVXgEjTNTb27ZkvjZ.jpg",
+        "id": 21781,
+        "name": "The Super Hero Squad Show",
+        "original_name": "The Super Hero Squad Show",
+        "overview": "The Super Hero Squad Show is an American cartoon series by Marvel Animation. It is based on the Marvel Super Hero Squad action figure line from Hasbro, which portray the Avengers, the X-Men, and various other characters of the Marvel Universe in a cartoonish super-deformed-style. It is also a self-aware parody of the Marvel characters, with influences taken from on the comedic Mini Marvels series of parody comic books, in that the heroes tend to find themselves in comedic situations, and have cartoonish bents in comparison to their usually serious personalities, and is an overall comedic take on the Avengers. The series' animation was produced by Film Roman and Marvel Animation.",
+        "poster_path": "/3CdaaPZdU1Xv2c6hDaSVWhsXtuO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          35
+        ],
+        "popularity": 14.8211,
+        "first_air_date": "2009-09-14",
+        "softcore": false,
+        "vote_average": 7.504,
+        "vote_count": 130,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hF2Dnx9g6pm87UJ6RJ58PrpdMWQ.jpg",
+        "id": 1269,
+        "name": "سبايدرمان وأصدقاؤه المذهلون",
+        "original_name": "Spider-Man and His Amazing Friends",
+        "overview": "سبايدرمان وأصدقاؤه المذهلون هو مسلسل رسوم متحركة أمريكي من إنتاج مارفل برودكشنز، من بطولة شخصيات مارفل كوميكس المعروفة، سبايدرمان وآيسمان، بالإضافة إلى شخصية أصلية تُدعى فايرستار. وقد خاضوا، كفريق ثلاثي يُعرف باسم أصدقاء سبايدرمان، معارك ضد العديد من الأشرار",
+        "poster_path": "/fG5wT0tJ8HIqGBSHe47uQJhmI1A.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          10762
+        ],
+        "popularity": 7.8314,
+        "first_air_date": "1981-09-12",
+        "softcore": false,
+        "vote_average": 7.539,
+        "vote_count": 266,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c4zV2ysi5Qlns4CPjRJj3hBGMSx.jpg",
+        "id": 2287,
+        "name": "باتمان",
+        "original_name": "Batman",
+        "overview": "يعيش رجل الأعمال الثري بروس واين وتلميذه ديك غرايسون حياة مزدوجة: فهما في الواقع ثنائي مكافحة الجريمة باتمان وروبن. يقود عمود باتمان السري في قصر واين إلى كهف باتمان، حيث يتصل به مفوض الشرطة غوردون غالبًا ليُبلغه بأحدث حالات الطوارئ التي تُهدد مدينة غوثام. ينطلق باتمان وروبن مسرعين إلى مسرح الجريمة في سيارة باتمان، وعليهما (بمساعدة حزام باتمان الموثوق) إحباط جهود مجموعة متنوعة من المجرمين المحترفين، بمن فيهم ريدلر، والجوكر، وكات وومان، وبينغوين.",
+        "poster_path": "/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          10759
+        ],
+        "popularity": 38.2915,
+        "first_air_date": "1966-01-12",
+        "softcore": false,
+        "vote_average": 7.307,
+        "vote_count": 617,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cR5vNlDF55vkgvj6y8aiMaiyD10.jpg",
+        "id": 1618,
+        "name": "Justice League",
+        "original_name": "Justice League",
+        "overview": "The long-awaited rebirth of the greatest superhero team of all time: Batman, Superman, Wonder Woman, The Flash, Hawkgirl, Green Lantern, and Martian Manhunter.",
+        "poster_path": "/caIAQIoM9NLZofT8fz8t47W1gYe.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 14.7287,
+        "first_air_date": "2001-11-17",
+        "softcore": false,
+        "vote_average": 8.219,
+        "vote_count": 621,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/44TJgVKPto88kOF2R036dgkjJms.jpg",
+        "id": 1300,
+        "name": "The Avengers: United They Stand",
+        "original_name": "The Avengers: United They Stand",
+        "overview": "When the planet is threatened by Super Villains, time traveling conquerors, alien invaders, mythical monsters or mad robots bent on the total destruction of humanity, when the forces of evil are so overwhelming that no single hero has the power to save the world, when there is no hope left… the AVENGERS ASSEMBLE!",
+        "poster_path": "/oNd4XaBeBkOOJYKK5k76zz2Debg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 8.7157,
+        "first_air_date": "1999-10-30",
+        "softcore": false,
+        "vote_average": 6.6,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wumQlzmEGhABxD84c6sFUq4qSug.jpg",
+        "id": 2164,
+        "name": "أبطال مارفل الخارقون",
+        "original_name": "The Marvel Super Heroes",
+        "overview": "تتميز هذه السلسلة الكرتونية، التي تتميز برسوم متحركة محدودة للغاية، بخمسة من أشهر الأبطال الخارقين من مارفل كوميكس: هالك الخارق، ثور الجبار، كابتن أمريكا، الرجل الحديدي، وساب مارينر",
+        "poster_path": "/nkY0h3WxWWKIxrcpUJdziMV3IN3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          10762
+        ],
+        "popularity": 10.5025,
+        "first_air_date": "1966-09-05",
+        "softcore": false,
+        "vote_average": 6.7,
+        "vote_count": 22,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/swwvH7QkYA59SkzR88b27MNhR4s.jpg",
+        "id": 10223,
+        "name": "Superman",
+        "original_name": "Superman",
+        "overview": "One of the greatest superheroes of all time, Superman, takes to the air in this action-packed animated series. Disguised as Clark Kent, Superman uses his powers to overcome the forces of evil in a tireless crusade against crime and injustice.",
+        "poster_path": "/3f7IqbwUqtp5iRNMHXj7cUoTPOk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10762,
+          10765
+        ],
+        "popularity": 10.0063,
+        "first_air_date": "1988-09-17",
+        "softcore": false,
+        "vote_average": 7.235,
+        "vote_count": 34,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dr34CKL43c1yYKoXkDHrrcdN1Tk.jpg",
+        "id": 10724,
+        "name": "Aquaman",
+        "original_name": "Aquaman",
+        "overview": "Aquaman is a Filmation animated series that premiered on CBS on September 9, 1967, and ended June 1970. It is a 30-minute version of The Superman/Aquaman Hour of Adventure, repackaged without the Superman and Superboy segments. The show is composed of previously-aired adventures featuring the DC Comics superheroes Aquaman and his sidekick Aqualad, the Atom, the Flash and Kid Flash, the Green Lantern and Hawkman. The Justice League of America and Teen Titans are also featured in team adventures.",
+        "poster_path": "/346THllqSorcNec6HvIMy0NmqFi.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10751,
+          10765
+        ],
+        "popularity": 17.128,
+        "first_air_date": "1967-09-09",
+        "softcore": false,
+        "vote_average": 7.2,
+        "vote_count": 98,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 43,
+    "total_results": 860
+  }
+}

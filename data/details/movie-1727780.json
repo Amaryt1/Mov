@@ -1,0 +1,1213 @@
+{
+  "adult": false,
+  "backdrop_path": "/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "إثارة"
+    }
+  ],
+  "homepage": "",
+  "id": 1727780,
+  "imdb_id": "tt28638842",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Borderline",
+  "overview": "",
+  "popularity": 49.0285,
+  "poster_path": "/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+  "production_companies": [
+    {
+      "id": 303697,
+      "logo_path": null,
+      "name": "Gen1 Entertainment, LLC",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2026-07-17",
+  "revenue": 0,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Borderline",
+  "video": false,
+  "vote_average": 5.969,
+  "vote_count": 16,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6334059,
+        "known_for_department": "Production",
+        "name": "Marissa Arguijo",
+        "original_name": "Marissa Arguijo",
+        "popularity": 0.5196,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Melina",
+        "credit_id": "6a4daaea48fbce88a77b981f",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2488033,
+        "known_for_department": "Acting",
+        "name": "Michael-Eoin Stanney",
+        "original_name": "Michael-Eoin Stanney",
+        "popularity": 0.421,
+        "profile_path": "/ybgdmLiPWu0P9RH1lgGBR49d0Rt.jpg",
+        "cast_id": 8,
+        "character": "Shawn",
+        "credit_id": "6a4daaf924a13ed1964ce7b0",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1005130,
+        "known_for_department": "Acting",
+        "name": "Marcus Jean Pirae",
+        "original_name": "Marcus Jean Pirae",
+        "popularity": 0.6529,
+        "profile_path": "/4XD78iRQJpx0uTQRg98Dfzgyb69.jpg",
+        "cast_id": 9,
+        "character": "Brett",
+        "credit_id": "6a4dab159f4f1af26a0b6309",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6334068,
+        "known_for_department": "Acting",
+        "name": "Dominic Hernandez",
+        "original_name": "Dominic Hernandez",
+        "popularity": 0.4809,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Diego",
+        "credit_id": "6a4dab74e6ef03d18224a365",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 172880,
+        "known_for_department": "Acting",
+        "name": "Nigel Vonas",
+        "original_name": "Nigel Vonas",
+        "popularity": 0.5013,
+        "profile_path": "/hhFFUHGXU8kSDjvJZPEVFCVsagz.jpg",
+        "cast_id": 11,
+        "character": "Detective Linquist",
+        "credit_id": "6a4daba32e1d88871b4ce867",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6334069,
+        "known_for_department": "Acting",
+        "name": "Oscar Alejandro",
+        "original_name": "Oscar Alejandro",
+        "popularity": 0.5776,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Detective Delgado",
+        "credit_id": "6a4dabdb48fbce88a77b982e",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3608633,
+        "known_for_department": "Directing",
+        "name": "Ryan Jordan",
+        "original_name": "Ryan Jordan",
+        "popularity": 0.2902,
+        "profile_path": null,
+        "credit_id": "6a4daa04b439bb055c7b96be",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6334059,
+        "known_for_department": "Production",
+        "name": "Marissa Arguijo",
+        "original_name": "Marissa Arguijo",
+        "popularity": 0.5196,
+        "profile_path": null,
+        "credit_id": "6a4daa2f43a9b0c01fc80903",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6334060,
+        "known_for_department": "Writing",
+        "name": "Jeff Cohen",
+        "original_name": "Jeff Cohen",
+        "popularity": 0.4001,
+        "profile_path": null,
+        "credit_id": "6a4daa652dfc8dfc2bc807d4",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6334062,
+        "known_for_department": "Camera",
+        "name": "Donovan Randolph",
+        "original_name": "Donovan Randolph",
+        "popularity": 0.3546,
+        "profile_path": null,
+        "credit_id": "6a4daa920a24617a7a16de63",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6334059,
+        "known_for_department": "Production",
+        "name": "Marissa Arguijo",
+        "original_name": "Marissa Arguijo",
+        "popularity": 0.5196,
+        "profile_path": null,
+        "credit_id": "6a4daaaa2929bf56c44ce7c1",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3608633,
+        "known_for_department": "Directing",
+        "name": "Ryan Jordan",
+        "original_name": "Ryan Jordan",
+        "popularity": 0.2902,
+        "profile_path": null,
+        "credit_id": "6a4daacccc48906422f9027a",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/8n6ZCFJWwK7UiX7NYuIEvHLRPYG.jpg",
+        "genre_ids": [
+          28,
+          9648,
+          53
+        ],
+        "id": 9268,
+        "title": "الماحي",
+        "original_language": "en",
+        "original_title": "Eraser",
+        "overview": "واجب المارشال الفيدرالي جون كروجر هو الحفاظ على سلامة وإخفاء الشهود ضمن البرنامج الحكومي الخاص بحماية الشهود، والآن عليه حماية لي كولين التي اكتشفت بدون قصد مخططًا لتهريب واحد من أكثر الأسلحة تقدمًا وأحدثها على الإطلاق، والذي يمكن أن يغير ميزان القوى في العالم إلى الأبد.",
+        "popularity": 10.2253,
+        "poster_path": "/1FUV5ZmEkbxvqwQW0az4tFFOSmo.jpg",
+        "release_date": "1996-06-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 2111
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z2TeugkpWa1bYHjzlCVa5Y58cSr.jpg",
+        "genre_ids": [
+          53,
+          28,
+          878
+        ],
+        "id": 269173,
+        "title": "The Anomaly",
+        "original_language": "en",
+        "original_title": "The Anomaly",
+        "overview": "",
+        "popularity": 3.2675,
+        "poster_path": "/s56VZf9TsFmRSJ549nCI8RgKTr.jpg",
+        "release_date": "2014-06-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.969,
+        "vote_count": 351
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ctDqJtlMwASOKoQi7sacSVae3EI.jpg",
+        "genre_ids": [
+          28,
+          80,
+          53,
+          37
+        ],
+        "id": 1428,
+        "title": "Once Upon a Time in Mexico",
+        "original_language": "en",
+        "original_title": "Once Upon a Time in Mexico",
+        "overview": "",
+        "popularity": 8.0961,
+        "poster_path": "/ETUpGxmLocsfER8GT8w5sOkRG0.jpg",
+        "release_date": "2003-09-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.318,
+        "vote_count": 2478
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aRqTPOPt8BOHE0ngppM9jnuuaeS.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1571,
+        "title": "Live Free or Die Hard",
+        "original_language": "en",
+        "original_title": "Live Free or Die Hard",
+        "overview": "يكلف العميل (جون ماكلاين) بالتحقيق في جريمة إرهابية مختلفة، حيث تم اختراق أجهزة الكمبيوتر الخاصة بقسم الجريمة بالمباحث الفيدرالية، وذلك يوم الاستقلال الوطني للولايات المتحدة اﻷمريكية (4 يوليو)، حيث مهمته هي إيجاد المجرمين المحتملين ﻻرتكاب تلك الجريمة والقبض عليهم.",
+        "popularity": 10.4715,
+        "poster_path": "/31TT47YjBl7a7uvJ3ff1nrirXhP.jpg",
+        "release_date": "2007-06-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.643,
+        "vote_count": 6500
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cDtefl7KGnKrDziEUXetMnztvqr.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1573,
+        "title": "Die Hard 2",
+        "original_language": "en",
+        "original_title": "Die Hard 2",
+        "overview": "تدور اﻷحداث الدرامية في لوس انجلوس، عن عصابة إرهابية قامت بخطف طائرة، وذلك لإنقاذ تاجر مخدرات من المثول أمام العدالة، وقد اضطر العميل (جون ماكلين) بمواجهة تلك العصابة.",
+        "popularity": 13.4185,
+        "poster_path": "/ybki0UWO3OPhaM6MSniuKC7sy1R.jpg",
+        "release_date": "1990-07-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.967,
+        "vote_count": 6575
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dDE6EIaFsPFJPLXHG1ghuPQc7ST.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648,
+          53,
+          28
+        ],
+        "id": 1642,
+        "title": "الشبكة",
+        "original_language": "en",
+        "original_title": "The Net",
+        "overview": "تتعرّض محلّلة نظم حواسيب للاستهداف بعد أن تكتشف مؤامرة بالصدفة عبر قرص مرن غامض، ممّا يجبرها على الهروب لتبرئة اسمها.",
+        "popularity": 6.827,
+        "poster_path": "/dtupntUFMD5iXBo8HLfALt2ET4R.jpg",
+        "release_date": "1995-07-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.053,
+        "vote_count": 1573
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bwDTWOd0SCFWfRw8ophhykOgUBS.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1647,
+        "title": "The Recruit",
+        "original_language": "en",
+        "original_title": "The Recruit",
+        "overview": "يجب على متدرب لامع في وكالة المخابرات المركزية أن يثبت جدارته في المزرعة ، وهي أرض التدريب السرية للوكالة ، حيث يتعلم مراقبة ظهره وعدم الثقة بأحد.",
+        "popularity": 7.0688,
+        "poster_path": "/xInKytrHV3EJeCAulOpn5Q0bMxh.jpg",
+        "release_date": "2003-01-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.406,
+        "vote_count": 1982
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5jCpCFrku6wmCZOYZWhHOC2j8IU.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1669,
+        "title": "صيد أكتوبر الأحمر",
+        "original_language": "en",
+        "original_title": "The Hunt for Red October",
+        "overview": "حين تتجه غواصة نووية سوفيتية نحو المياه الأمريكية وتزرع أجهزة مسح فوق صوتية، يهرع الأمريكيون ومحلّل الاستخبارات المركزية \"جاك رايان\" للردّ.",
+        "popularity": 14.5694,
+        "poster_path": "/yVl7zidse4KiWtGMqHFtZCx4X3N.jpg",
+        "release_date": "1990-03-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.386,
+        "vote_count": 3747
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53
+        ],
+        "id": 1396121,
+        "title": "Peter: El precio de la juventud",
+        "original_language": "es",
+        "original_title": "Peter: El precio de la juventud",
+        "overview": "",
+        "popularity": 0.6101,
+        "poster_path": "/vQ1ioUxwk3yCcIAsA7j7NSK0jtn.jpg",
+        "release_date": "2024-11-19",
+        "softcore": false,
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iVpjSpgPlWMU1dSi5pOIg2BTlX1.jpg",
+        "genre_ids": [
+          28,
+          80,
+          18,
+          53
+        ],
+        "id": 1619,
+        "title": "The Way of the Gun",
+        "original_language": "en",
+        "original_title": "The Way of the Gun",
+        "overview": "",
+        "popularity": 4.3284,
+        "poster_path": "/wrjMMdgn1a4ChlaBmlzKnb78nr6.jpg",
+        "release_date": "2000-09-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.368,
+        "vote_count": 516
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9LMIoURuLvxEVKMib4DoVVcJJ5l.jpg",
+        "genre_ids": [
+          28,
+          53,
+          18
+        ],
+        "id": 1620,
+        "title": "القاتل المحترف",
+        "original_language": "en",
+        "original_title": "Hitman",
+        "overview": "يقوم العميل 47، وهو قاتل مأجور معدل جينيًا ومحترف للغاية، بتصفية أهدافه بدقة متناهية لصالح منظمة سرية للغاية. لكن عندما يتعرض للخيانة والغدر في قلب روسيا عقب إنهاء إحدى المهام، يتحول الصياد إلى فريسة. يجد العميل 47 نفسه فجأة محاصرًا في لعبة حياة أو موت وسط مؤامرة سياسية دولية، ومطاردًا من قِبل الإنتربول والمخابرات الروسية على حد سواء، بينما تحاول امرأة غامضة تحريك ما تبقى من إنسانيته وضمان بقائه.",
+        "popularity": 9.2723,
+        "poster_path": "/h69UJOOKlrHcvhl5H2LY74N61DQ.jpg",
+        "release_date": "2007-11-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.172,
+        "vote_count": 3757
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ksT0nX66UpCVBdvXiXW1byaZtjo.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          53
+        ],
+        "id": 1985,
+        "title": "The Constant Gardener",
+        "original_language": "en",
+        "original_title": "The Constant Gardener",
+        "overview": "",
+        "popularity": 6.6162,
+        "poster_path": "/nkXq7V7mmJVbvwZGr3nxkHo7HkS.jpg",
+        "release_date": "2005-08-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.989,
+        "vote_count": 1768
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27,
+          53,
+          9648
+        ],
+        "id": 1575534,
+        "title": "The Observance",
+        "original_language": "en",
+        "original_title": "The Observance",
+        "overview": "",
+        "popularity": 3.026,
+        "poster_path": "/tDC1KDiL7ih6lDTaZBKjOxQOhmo.jpg",
+        "release_date": "2026-02-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/PrMb3oeEluauy0q9ZO5xL33A6C.jpg",
+        "genre_ids": [
+          878,
+          28,
+          53
+        ],
+        "id": 180,
+        "title": "تقرير الأقلية",
+        "original_language": "en",
+        "original_title": "Minority Report",
+        "overview": "بعد مرور عشر سنوات من انتهاء عصر الجريمة في ولاية واشنطن الأمريكية، يحاول الجميع عيش حياة طبيعية بالرغم من المعاناة التي تولدها رؤى المستقبل والجرائم المستقبلية لمنعها وتأثيرها على كل من يرتبط بتلك الرؤى.",
+        "popularity": 14.2888,
+        "poster_path": "/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg",
+        "release_date": "2002-06-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.354,
+        "vote_count": 9909
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nGJTamFPZ9V4JX5YpiOS0UDuwmx.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "id": 174,
+        "title": "Star Trek VI: The Undiscovered Country",
+        "original_language": "en",
+        "original_title": "Star Trek VI: The Undiscovered Country",
+        "overview": "في هذا الجزء الجديد من سلسلة أفلام الخيال العلمي (ستار تريك)، يجب على طاقم الإنتربرايز وقف مؤامرة لمنع عقد معاهدة سلام بين امبراطورية كلنجون والاتحاد.",
+        "popularity": 5.1679,
+        "poster_path": "/tvTOJD7Gz668GLy2nNdLRQvpPsv.jpg",
+        "release_date": "1991-12-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.037,
+        "vote_count": 1466
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zqLR4jm0lPFGnyN55QBSf4pzz5n.jpg",
+        "genre_ids": [
+          9648,
+          53
+        ],
+        "id": 260,
+        "title": "The 39 Steps",
+        "original_language": "en",
+        "original_title": "The 39 Steps",
+        "overview": "يجد ريتشارد نفسه متورطاً بجريمة قتل جاسوسة ألقت بنفسها عليه، ليهرب نحو مرتفعات اسكتلندا محاولاً إثبات براءته وتفكيك شبكة \"الخطوات التسعغمائة\" الغامضة.",
+        "popularity": 5.3888,
+        "poster_path": "/oC81jK6aAug4MA0xzYVngHmjsZS.jpg",
+        "release_date": "1935-06-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.304,
+        "vote_count": 1086
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aYcnDyLMnpKce1FOYUpZrXtgUye.jpg",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "id": 274,
+        "title": "صمت الحملان",
+        "original_language": "en",
+        "original_title": "The Silence of the Lambs",
+        "overview": "كلاريس ستارلينج طالبة متفوقة في أكاديمية التدريب التابعة لمكتب التحقيقات الفيدرالي. يريد جاك كروفورد من كلاريس إجراء مقابلة مع الدكتور هانيبال ليكتر ، وهو طبيب نفسي لامع ومختل عقليًا عنيفًا ، ويقضي الحياة خلف القضبان بسبب جرائم قتل وأكل لحوم البشر. يعتقد كروفورد أن ليكتر قد يكون لديه نظرة ثاقبة للقضية وأن ستارلينج ، بصفتها امرأة شابة جذابة ، قد تكون مجرد الطعم لجذبه.",
+        "popularity": 6.6854,
+        "poster_path": "/wFHGONr3HZ6nslEoxhE3JR0DN2W.jpg",
+        "release_date": "1991-02-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.345,
+        "vote_count": 18463
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bxh7ybql4p24u9WsX1GI9v9PDLg.jpg",
+        "genre_ids": [
+          53,
+          80,
+          18
+        ],
+        "id": 466,
+        "title": "Klute",
+        "original_language": "en",
+        "original_title": "Klute",
+        "overview": "",
+        "popularity": 4.8158,
+        "poster_path": "/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
+        "release_date": "1971-06-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.777,
+        "vote_count": 534
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+        "genre_ids": [
+          18,
+          53,
+          9648
+        ],
+        "id": 345,
+        "title": "عيون مغلقة على اتساعها",
+        "original_language": "en",
+        "original_title": "Eyes Wide Shut",
+        "overview": "بعد أن اعترفت أليس ، زوجة الدكتور بيل هارفورد ، بوجود تخيلات جنسية عن رجل قابلته ، أصبح بيل مهووسًا بممارسة الجنس. يكتشف مجموعة جنسية سرية ويحضر أحد اجتماعاتهم - وسرعان ما يكتشف أنه فوق رأسه.",
+        "popularity": 22.7868,
+        "poster_path": "/xeIPQU1ZSKjs6rq3NiZb2OSeGHH.jpg",
+        "release_date": "1999-07-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 7273
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9JfHzVeOOnZC67d0BqB70FgTnYy.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 1199675,
+        "title": "Spearphishing 2",
+        "original_language": "en",
+        "original_title": "Spearphishing 2",
+        "overview": "",
+        "popularity": 0.7553,
+        "poster_path": "/wG99hnhWAzEXNAaX1OJgHcGu3LM.jpg",
+        "release_date": "2022-08-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 3365,
+    "total_results": 67291
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/4VoHeMD5EugrxmEfeUgxXpXyzuR.jpg",
+        "id": 1480,
+        "title": "لمسة شريرة",
+        "original_title": "Touch of Evil",
+        "overview": "يؤدي تفجير في بلدة حدودية إلى جر المحقق المكسيكي ميغيل فارغاس إلى تحقيق شرطي مليء بالفساد بقيادة النقيب الفاسد هانك كوينلان، مما يشعل صراعاً دموياً على السلطة والعدالة والحقيقة",
+        "poster_path": "/1pvRgmfBaoMczIJBOi9gCOZ4FMC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "popularity": 4.4152,
+        "release_date": "1958-03-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.742,
+        "vote_count": 1640
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jztSvvmOUEP8V85xadxMRoE5e2O.jpg",
+        "id": 22021,
+        "title": "Coffy",
+        "original_title": "Coffy",
+        "overview": "After her younger sister gets involved in drugs and is severely injured by contaminated heroin, a nurse sets out on a mission of vengeance and vigilante justice, killing drug dealers, pimps, and mobsters who cross her path.",
+        "poster_path": "/sN00Cvlahl6JLC2TAUBL0jZOqD3.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "popularity": 3.9099,
+        "release_date": "1973-06-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.568,
+        "vote_count": 315
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9xjUZjuYyehv2qnqMH0oR9nSTft.jpg",
+        "id": 9702,
+        "title": "Bound by Honor",
+        "original_title": "Bound by Honor",
+        "overview": "Based on the true life experiences of poet Jimmy Santiago Baca, the film focuses on two Indigenous Latino American half-brothers Paco and Cruz, and their bi-racial (half-Indigenous Latino American and half-European American) cousin Miklo. It opens in 1972, as the three are members of an East L.A. gang known as the \"Vatos Locos\", and the story focuses on how a violent crime and the influence of narcotics alter their lives. Miklo is incarcerated and sent to San Quentin, where he makes a \"home\" for himself. Cruz becomes an exceptional artist, but a heroin addiction overcomes him with tragic results. Paco becomes a cop and an enemy to his \"carnal\", Miklo.",
+        "poster_path": "/8t9ojZ7fyn5iTqKCVjGvJ6nMacN.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          53
+        ],
+        "popularity": 11.153,
+        "release_date": "1993-02-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.215,
+        "vote_count": 1617
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tnwMCH4yLBY4qpe6Nr4n66u4U3f.jpg",
+        "id": 400535,
+        "title": "سكاريو: يوم الجندي",
+        "original_title": "Sicario: Day of the Soldado",
+        "overview": "عندما يُشتبه أنّ للعصابات المكسيكيّة يدًا في الإرهاب، يلجأ عميل فيدراليّ إلى قاتل طلبًا للمساعدة... حتّى تتحوّل الحرب إلى مسألة شخصيّة.",
+        "poster_path": "/qcLYofEhNh51Sk1jUWjmKHLzkqw.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 14.5934,
+        "release_date": "2018-06-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.943,
+        "vote_count": 4176
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hYVAvYJXE4taTIh2y6F5mGJWfPm.jpg",
+        "id": 245916,
+        "title": "Kill the Messenger",
+        "original_title": "Kill the Messenger",
+        "overview": "A reporter becomes the target of a vicious smear campaign that drives him to the point of suicide after he exposes the CIA's role in arming Contra rebels in Nicaragua and importing cocaine into California. Based on the true story of journalist Gary Webb.",
+        "poster_path": "/8gaNZiKZHvKCqMDByY00dUIV0YC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648,
+          53,
+          36
+        ],
+        "popularity": 4.2971,
+        "release_date": "2014-10-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.626,
+        "vote_count": 946
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uFdLjtlgCbEtkQfBiZQPLfVryr5.jpg",
+        "id": 20762,
+        "title": "The Substitute",
+        "original_title": "The Substitute",
+        "overview": "When an inner-city Miami schoolteacher gets her knee broken after standing up to the school's gang leader, her mercenary combat specialist boyfriend goes undercover as a substitute teacher to take down the punk. Soon he discovers a conspiracy of criminals at work, and must reassemble his team from his last jungle raid to stop them.",
+        "poster_path": "/7vfzvhPMNauUXrVxVOPEfpOsful.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          18,
+          53
+        ],
+        "popularity": 5.2283,
+        "release_date": "1996-04-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.014,
+        "vote_count": 601
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n9SyYytuvTXXZY6yx9Yu4iPobN2.jpg",
+        "id": 9455,
+        "title": "The Corruptor",
+        "original_title": "The Corruptor",
+        "overview": "Danny is a young cop partnered with Nick, a seasoned but ethically tainted veteran. As the two try to stop a gang war in Chinatown, Danny relies on Nick but grows increasingly uncomfortable with the way Nick gets things done.",
+        "poster_path": "/1Eg34AuZG1jtAvdM8xGHW5jiwCF.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53,
+          18
+        ],
+        "popularity": 5.3026,
+        "release_date": "1999-03-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.09,
+        "vote_count": 323
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gddUsvfyySrM5k8B8wwJy2VRlBx.jpg",
+        "id": 6977,
+        "title": "لا بلد للعجائز",
+        "original_title": "No Country for Old Men",
+        "overview": "يتعثر Llewelyn Moss على جثث الموتى ، ومليوني دولار وكنزًا من الهيروين في صحراء تكساس ، لكن القاتل المنهجي أنطون تشيجور يأتي للبحث عنه ، مع المأمور المحلي إد توم بيل في طريقه. يتلاشى دور الفريسة والحيوان بينما يتصادم السعي العنيف وراء المال والعدالة.",
+        "poster_path": "/9aIdpQ1FOcb9hSu4KOmrgN5KAfl.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53,
+          37
+        ],
+        "popularity": 20.1111,
+        "release_date": "2007-11-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.95,
+        "vote_count": 13736
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+        "id": 1054867,
+        "title": "معركة تلو الأخرى",
+        "original_title": "One Battle After Another",
+        "overview": "يعيش الثائر السابق \"بوب\" في حالة من الهواجس والبارانويا تحت تأثير المخدرات، معتمدًا على حياة معزولة بعيدًا عن الشبكة برفقة ابنته \"ويلا\" المفعمة بالحيوية والاعتماد على الذات. لكن حين يظهر عدوه اللدود من جديد بعد ستة عشر عامًا وتختفي ابنته، يضطر ذلك الثائر المعتزل إلى الانطلاق في رحلة بحث عنها، ليواجه كلاهما عواقب ماضيه.",
+        "poster_path": "/uGWHftQOEkR9Pc3GWKU6dOq8v8w.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          80,
+          35
+        ],
+        "popularity": 31.8033,
+        "release_date": "2025-09-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.334,
+        "vote_count": 4213
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
+        "id": 1469354,
+        "title": "Border Hunters",
+        "original_title": "Border Hunters",
+        "overview": "After his police officer brother is killed by a drug dealer who flees to the protection of his cartel-connected uncle in Mexico, an American man with a diverse law enforcement/military background goes south of the border to get revenge",
+        "poster_path": "/6TNFZnJ5CU0uFQxGaO9dbqriiI7.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 4.6817,
+        "release_date": "2025-10-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.207,
+        "vote_count": 58
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mYU1NFj8U99yX4sXEGcvEGQ7RQG.jpg",
+        "id": 538207,
+        "title": "نموت صغارا",
+        "original_title": "We Die Young",
+        "overview": "لوكاس، فتى في الرابعة عشرة من عمره، انضم إلى عالم العصابات في واشنطن العاصمة، مصمم على ألا يسلك شقيقه ذو العشر سنوات نفس الطريق. عندما يأتي أحد قدامى المحاربين في حرب أفغانستان إلى الحي، تلوح في الأفق فرصة.",
+        "poster_path": "/1rvsmRHfjIalt2LBDrEkyKFOQgo.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          28,
+          80,
+          53
+        ],
+        "popularity": 4.4927,
+        "release_date": "2019-05-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 362
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/paaOfARLLJTV2IfqsPwM7pxxSHp.jpg",
+        "id": 11963,
+        "title": "Three Days of the Condor",
+        "original_title": "Three Days of the Condor",
+        "overview": "When bookish CIA researcher Joe Turner finds all his co-workers dead, he, together with a woman he has kidnapped, must work together to outwit those responsible until he determines who he can really trust.",
+        "poster_path": "/zinwtZqdb7gnc4zMu8dfkK1fMN3.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          9648
+        ],
+        "popularity": 6.1971,
+        "release_date": "1975-09-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.273,
+        "vote_count": 1414
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg",
+        "id": 273481,
+        "title": "سكاريو",
+        "original_title": "Sicario",
+        "overview": "يروي الفيلم قصة عميلة في المباحث الفيدرالية الأمريكية تدعى كيت مايسي ، والتي تنتمي لمنطقة (توسكين) الواقعة في (أريزونا)، وتقوم بالسفر عبر الحدود الفاصلة بين (الولايات المتحدة الأمريكية) و(المكسيك) بتكليف مباشر من أحد المسئولين الكبار بصحبة مجموعة من المرتزقة في سبيل القبض على واحد من أباطرة تجارة المخدرات.",
+        "poster_path": "/tUFX7vX14HfX69UsRLn5sbTapx.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 18.1338,
+        "release_date": "2015-09-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.428,
+        "vote_count": 9840
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c2B8gl2ZLbelWxS0ZODPKGJxdWX.jpg",
+        "id": 9882,
+        "title": "The Siege",
+        "original_title": "The Siege",
+        "overview": "أدى الاختطاف الأمريكي السري لأحد الإرهابيين المشتبه بهم من وطنه في الشرق الأوسط إلى موجة من الهجمات الإرهابية في نيويورك. يحاول أحد كبار عملاء مكتب التحقيقات الفيدرالي وفريقه تحديد موقع خلايا العدو وإخراجها من الخدمة ، ولكن يجب أيضًا التعامل مع جنرال بالجيش أصبح مارقًا وعميلة وكالة المخابرات المركزية الأمريكية ذات ولاءات غير مؤكدة.",
+        "poster_path": "/gbeeWu8rYaIYMyq9ayN1AepjNxP.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          28,
+          53,
+          80
+        ],
+        "popularity": 7.3176,
+        "release_date": "1998-11-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.291,
+        "vote_count": 1547
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/34WzsXWrGjVKVD1C9zyB0bs5e6q.jpg",
+        "id": 26712,
+        "title": "The Enforcer",
+        "original_title": "The Enforcer",
+        "overview": "After years of investigation, Assistant District Attorney Martin Ferguson has managed to build a solid case against an elusive gangster whose top lieutenant is about to testify.",
+        "poster_path": "/k7FAq6mmLfsC6htX6f5zKwbw8LF.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "popularity": 3.7829,
+        "release_date": "1951-02-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 117
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9mM8uRktDd5WH2sSMVOLBfK0EUL.jpg",
+        "id": 30941,
+        "title": "The Anderson Tapes",
+        "original_title": "The Anderson Tapes",
+        "overview": "Thief Duke Anderson—just released from ten years in jail—takes up with his old girlfriend in her posh apartment block, and makes plans to rob the entire building. What he doesn't know is that his every move is being recorded on audio and video, although he is not the subject of any surveillance.",
+        "poster_path": "/6pjMMwqnL4qkl5pFnlfAqp0cNn9.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53,
+          28
+        ],
+        "popularity": 2.9877,
+        "release_date": "1971-06-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.133,
+        "vote_count": 188
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lM2KRVmNgKaCwBdIuQcHIt8Z7NE.jpg",
+        "id": 325173,
+        "title": "Close Range",
+        "original_title": "Close Range",
+        "overview": "جندي مارق تحول إلى خارج عن القانون يجد نفسه منخرطاً في صراع لا هوادة فيه مع شريف فاسد ونوابه المطيعين وعصابة مخدرات خطيرة من أجل حماية أخته وابنتها الصغيرة",
+        "poster_path": "/pzE3dfnmiNqjqLygS4HbMADFKa8.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 2.1817,
+        "release_date": "2015-11-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 339
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oAFd9y3myakKyTAwcv0YIpxt08Z.jpg",
+        "id": 1511556,
+        "title": "Under Fire",
+        "original_title": "Under Fire",
+        "overview": "Story unfolds in the scorching heat of the Mexico border, where rival drug dealers Griff and Abbott arrive at a remote drop point for a routine drug deal. But when the exchange goes down, both reveal undercover badges — Griff is FBI, Abbott is DEA — and neither knew they were working the same case.",
+        "poster_path": "/dIQcDDuDPewwELfhmYMnt25AyZ6.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          53,
+          18
+        ],
+        "popularity": 2.7194,
+        "release_date": "2025-08-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.49,
+        "vote_count": 51
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3a3Ch56Y7n8ouiAXPdFDmVLnvWz.jpg",
+        "id": 19384,
+        "title": "Dark Angel",
+        "original_title": "Dark Angel",
+        "overview": "يحقق الشرطي جاك كاين في سلسلة جرائم غامضة مرتبطة بتجارة المخدرات، لكنه يكتشف أن القاتل ليس بشريًا، بل كائن فضائي يقتل مدمني الهيروين ليستخرج مادة مخدرة من أدمغتهم. ويضطر كاين للتعاون مع عميل من مكتب التحقيقات الفيدرالي لإيقافه.",
+        "poster_path": "/zwsesgAluQKDmdAA2nhlEc4FhFd.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          878
+        ],
+        "popularity": 6.1011,
+        "release_date": "1990-01-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.157,
+        "vote_count": 397
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l48O8fatTpS1nccR2MtJnh4EqRb.jpg",
+        "id": 20287,
+        "title": "عداءٌ قاتل",
+        "original_title": "Extreme Prejudice",
+        "overview": "يطارد حارس حدود في تكساس صديق طفولته الذي أصبح زعيمًا خطيرًا لعصابة تهريب مخدرات، لكن وصول فريق عسكري سري إلى المنطقة يحول المواجهة إلى صراع دموي تتداخل فيه الولاءات والمؤامرات.",
+        "poster_path": "/fqN3duCLrjcsF8dfiP1XCCtlWZC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80,
+          18,
+          37
+        ],
+        "popularity": 2.77,
+        "release_date": "1987-04-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.257,
+        "vote_count": 201
+      }
+    ],
+    "total_pages": 37,
+    "total_results": 737
+  },
+  "watch/providers": {
+    "results": {
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/1727780-borderline/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 79
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1727780-borderline/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 124
+          }
+        ]
+      }
+    }
+  }
+}

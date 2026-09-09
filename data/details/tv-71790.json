@@ -1,0 +1,3753 @@
+{
+  "adult": false,
+  "backdrop_path": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+  "created_by": [
+    {
+      "id": 1193190,
+      "credit_id": "591e2cb19251414ab1026495",
+      "name": "Aaron Rahsaan Thomas",
+      "original_name": "Aaron Rahsaan Thomas",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1216733,
+      "credit_id": "6469ef34a5046e0124682ce1",
+      "name": "شون ريان",
+      "original_name": "Shawn Ryan",
+      "gender": 2,
+      "profile_path": "/49EdiYMjYg0FzTI10zPyubxIPk7.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2017-11-02",
+  "genres": [
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/swat/",
+  "id": 71790,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2025-05-16",
+  "last_episode_to_air": {
+    "id": 6179931,
+    "name": "الحلقة 22",
+    "overview": "",
+    "vote_average": 5.5,
+    "vote_count": 6,
+    "air_date": "2025-05-16",
+    "episode_number": 22,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 8,
+    "show_id": 71790,
+    "still_path": "/fjdwW20lGA1F7fzw0ksa12zosoo.jpg"
+  },
+  "name": "S.W.A.T.",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 163,
+  "number_of_seasons": 8,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "S.W.A.T.",
+  "overview": "يتتبع المسلسل حياة ملازم من القوات الخاصة، ولد وترعرع في لوس أنجلوس، ويسلط الضوء على صراعه الداخلي بين وفائه تجاه الشارع والحياة في مدينته، وبين زملائه الضباط، وذلك بعد توليه قيادة وحدة خاصة مدربة تدريبًا عاليًا، والتي تعتبر المحطة الأخيرة لكشف الجرائم في لوس أنجلوس.",
+  "popularity": 122.397,
+  "poster_path": "/1l7vsAIkqOzrqiPwjO27Cb5QdfJ.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 34530,
+      "logo_path": "/5gUhbUIVYd94aIhHJJFMfBxkD0.png",
+      "name": "Perfect Storm Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 333,
+      "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+      "name": "Original Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 72407,
+      "logo_path": null,
+      "name": "MiddKid Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 263156,
+      "logo_path": null,
+      "name": "Kansas ART Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-11-02",
+      "episode_count": 22,
+      "id": 88501,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/oW61C2vQfAT33324CklzzuEdyxw.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2018-09-27",
+      "episode_count": 23,
+      "id": 108338,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/5LkqvZwp0LXzpumpnFp5eMgaMGE.jpg",
+      "season_number": 2,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2019-10-02",
+      "episode_count": 21,
+      "id": 126169,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/dM1WYFrRtnkOZR1oVtCpBhscoPu.jpg",
+      "season_number": 3,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2020-11-11",
+      "episode_count": 18,
+      "id": 165720,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/ushSkKB8aeLsyyW2c7S7CCmEmRA.jpg",
+      "season_number": 4,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2021-10-01",
+      "episode_count": 22,
+      "id": 202002,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/7Bttz4hEspKlpU0Me57dkHNR3nf.jpg",
+      "season_number": 5,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2022-10-07",
+      "episode_count": 22,
+      "id": 298433,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/pWQOWeVWxKGFzQXuUx7qQ4xU8La.jpg",
+      "season_number": 6,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2024-02-16",
+      "episode_count": 13,
+      "id": 365562,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/1l7vsAIkqOzrqiPwjO27Cb5QdfJ.jpg",
+      "season_number": 7,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2024-10-18",
+      "episode_count": 22,
+      "id": 402120,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/1rTEcLsnOoKXfDdGlbg0RHDvoaE.jpg",
+      "season_number": 8,
+      "vote_average": 4.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Canceled",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.036,
+  "vote_count": 1602,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50266,
+        "known_for_department": "Acting",
+        "name": "شيمار مور",
+        "original_name": "Shemar Moore",
+        "popularity": 3.5335,
+        "profile_path": "/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg",
+        "character": "Daniel 'Hondo' Harrelson",
+        "credit_id": "591e2df692514149f3027203",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 108889,
+        "known_for_department": "Acting",
+        "name": "Jay Harrington",
+        "original_name": "Jay Harrington",
+        "popularity": 3.4714,
+        "profile_path": "/jsCjf0L0K97dPvSR9yJhoM8pN84.jpg",
+        "character": "David 'Deacon' Kay",
+        "credit_id": "591e2e45c3a368799b026263",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1353288,
+        "known_for_department": "Acting",
+        "name": "David Lim",
+        "original_name": "David Lim",
+        "popularity": 1.6423,
+        "profile_path": "/5NrK9bMn893aku8hXeIDSqVj0mC.jpg",
+        "character": "Victor Tan",
+        "credit_id": "5984c23fc3a368756400b929",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117437,
+        "known_for_department": "Acting",
+        "name": "Patrick St. Esprit",
+        "original_name": "Patrick St. Esprit",
+        "popularity": 3.2977,
+        "profile_path": "/1yrW51oGJEElYqG3BzX0N1Ky7Rd.jpg",
+        "character": "Robert 'Bob' Hicks",
+        "credit_id": "5b9f0dc5c3a36833af01349c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 963547,
+        "known_for_department": "Acting",
+        "name": "Anna Enger Ritch",
+        "original_name": "Anna Enger Ritch",
+        "popularity": 3.1102,
+        "profile_path": "/zggeLj7KevpvTwhnFSqg2mgIFC1.jpg",
+        "character": "Zoe Powell",
+        "credit_id": "6610164fde11e5017c2b8e7a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 997406,
+        "known_for_department": "Acting",
+        "name": "Niko Pepaj",
+        "original_name": "Niko Pepaj",
+        "popularity": 2.0225,
+        "profile_path": "/bu2fl5zSyrAjji3fn4hJGLbpFjA.jpg",
+        "character": "Miguel Alfaro",
+        "credit_id": "6610bb8cd768fe0162416362",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 209196,
+        "known_for_department": "Acting",
+        "name": "Annie Ilonzeh",
+        "original_name": "Annie Ilonzeh",
+        "popularity": 1.6373,
+        "profile_path": "/CTJr6V472oxa92GDCd3Eqh4jDd.jpg",
+        "character": "Devin Gamble",
+        "credit_id": "6713f0100cb6252f99086e90",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1926056,
+        "known_for_department": "Writing",
+        "name": "Kent Rotherham",
+        "original_name": "Kent Rotherham",
+        "popularity": 0.4391,
+        "profile_path": null,
+        "credit_id": "6831a02994584af5ae054966",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6311199,
+        "known_for_department": "Sound",
+        "name": "Alex Stacey",
+        "original_name": "Alex Stacey",
+        "popularity": 0.2831,
+        "profile_path": null,
+        "credit_id": "6a3f495eb8c203bcbe4d566b",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193190,
+        "known_for_department": "Writing",
+        "name": "Aaron Rahsaan Thomas",
+        "original_name": "Aaron Rahsaan Thomas",
+        "popularity": 0.9544,
+        "profile_path": null,
+        "credit_id": "6469f7a4d1857201802d3757",
+        "department": "Production",
+        "job": "Executive Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5150389,
+        "known_for_department": "Crew",
+        "name": "Glen Enzen",
+        "original_name": "Glen Enzen",
+        "popularity": 0.2304,
+        "profile_path": null,
+        "credit_id": "677346274111599e38129b4d",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1193190,
+        "known_for_department": "Writing",
+        "name": "Aaron Rahsaan Thomas",
+        "original_name": "Aaron Rahsaan Thomas",
+        "popularity": 0.9544,
+        "profile_path": null,
+        "credit_id": "5f448d7d99d5c30034b93bbe",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1668158,
+        "known_for_department": "Production",
+        "name": "Nicolas Bradley",
+        "original_name": "Nicolas Bradley",
+        "popularity": 0.2947,
+        "profile_path": null,
+        "credit_id": "5f448d894772150032637227",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50266,
+        "known_for_department": "Acting",
+        "name": "شيمار مور",
+        "original_name": "Shemar Moore",
+        "popularity": 3.5335,
+        "profile_path": "/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg",
+        "credit_id": "5f448d90414291003652ff09",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15749,
+        "known_for_department": "Writing",
+        "name": "Robert Hamner",
+        "original_name": "Robert Hamner",
+        "popularity": 0.9076,
+        "profile_path": null,
+        "credit_id": "6469e39a006b010126f64b4c",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 172756,
+        "known_for_department": "Sound",
+        "name": "روبرت دونكان",
+        "original_name": "Robert Duncan",
+        "popularity": 0.3149,
+        "profile_path": null,
+        "credit_id": "6455e91bdaf57c01703ce4fb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29707,
+        "known_for_department": "Sound",
+        "name": "Barry De Vorzon",
+        "original_name": "Barry De Vorzon",
+        "popularity": 0.5471,
+        "profile_path": "/x0cBT6lnOR3AX1Ky2SvmaRerNAq.jpg",
+        "credit_id": "6455e940daf57c013690f16f",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/pF0qkRsrHkdYadPWY9AMeFZfcwk.jpg",
+        "id": 108978,
+        "name": "ريتشر",
+        "original_name": "Reacher",
+        "overview": "يصل جاك ريتشر، الضابط السابق في الشرطة العسكرية، إلى بلدة مارغريف الصغيرة، لكنه يجد نفسه متورطًا في قضية قتل غامضة بعد وقت قصير من وصوله. يكتشف ريتشر أن الجريمة ليست حادثًا عابرًا، بل جزء من مؤامرة كبيرة تضم رجال أعمال ومسؤولين وشخصيات نافذة في البلدة. يتعاون مع الضابطة روسكو كونكلين والمحقق أوسكار فينلي لكشف الحقيقة، مستفيدًا من خبرته العسكرية وقدرته على التحقيق ومواجهة خصومه. ومع اتساع دائرة الخطر، يجد ريتشر نفسه في مواجهة شبكة إجرامية مستعدة لفعل أي شيء لإخفاء أسرارها.",
+        "poster_path": "/Aq8xZcOwCwXw5xH28BLL32oMm0W.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80
+        ],
+        "popularity": 583.5827,
+        "first_air_date": "2022-02-03",
+        "softcore": false,
+        "vote_average": 8.11,
+        "vote_count": 3248,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8hMDtSWCZPtD5iZIDLDpNkGfaCi.jpg",
+        "id": 5375,
+        "name": "Emergency!",
+        "original_name": "Emergency!",
+        "overview": "The crew of Los Angeles County Fire Department Station 51, particularly the paramedic team, and Rampart Hospital respond to emergencies in their operating area.",
+        "poster_path": "/or94yBr8bwDPYYY3n8OIu0Q32S3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 33.4891,
+        "first_air_date": "1972-01-22",
+        "softcore": false,
+        "vote_average": 7.953,
+        "vote_count": 53,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AuQGIa3ZarPdS0bhWjQWJR0mhJj.jpg",
+        "id": 1414,
+        "name": "الدرع",
+        "original_name": "The Shield",
+        "overview": "قصة دائرة شرطة لوس أنجلوس داخل المدينة حيث لا يتجاوز بعض رجال الشرطة كسر القواعد أو العمل ضد شركائهم للحفاظ على سلامة الشوارع ومصالحهم الذاتية سليمة.",
+        "poster_path": "/9tslGvwOKTd9Dz4GOdvkxAkh9bR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 51.9189,
+        "first_air_date": "2002-03-12",
+        "softcore": false,
+        "vote_average": 8.176,
+        "vote_count": 898,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q4CvEUdq9mVveQfbv5jAgKJA0QZ.jpg",
+        "id": 201992,
+        "name": "The Rookie: Feds",
+        "original_name": "The Rookie: Feds",
+        "overview": "Special Agent Simone Clark, the oldest rookie in the FBI, is a force of nature, the living embodiment of a dream deferred – and she works together with her new colleagues at the Los Angeles office of the Bureau to bring down the country’s toughest criminals.",
+        "poster_path": "/ttqpW20UVabyy8DQFWe56ov1JHS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 18.0128,
+        "first_air_date": "2022-09-27",
+        "softcore": false,
+        "vote_average": 6.955,
+        "vote_count": 122,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",
+        "id": 1973,
+        "name": "24",
+        "original_name": "24",
+        "overview": "يتناول العمل قصة جاك باور، وكيل الاتحاد الفدرالي، بوصفه عضوًا في وحدة مكافحة الإرهاب في لوس أنجلوس، فيجب عليه وقف القنابل والفيروسات ومحاولات الاغتيال، وعادة إنقاذ من يهتم بأمرهم.",
+        "poster_path": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 103.5369,
+        "first_air_date": "2001-11-06",
+        "softcore": false,
+        "vote_average": 7.785,
+        "vote_count": 1873,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mL5qHLgVWqeoH5bbj6Q1gdyldhM.jpg",
+        "id": 1450,
+        "name": "The Closer",
+        "original_name": "The Closer",
+        "overview": "Deputy Police Chief Brenda Leigh Johnson transfers from Atlanta to LA to head up a special unit of the LAPD that handles sensitive, high-profile murder cases. Johnson's quirky personality and hard-nosed approach often rubs her colleagues the wrong way, but her reputation as one of the world's best interrogator eventually wins over even her toughest critics.",
+        "poster_path": "/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 75.5954,
+        "first_air_date": "2005-06-13",
+        "softcore": false,
+        "vote_average": 7.804,
+        "vote_count": 355,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i3WNbk47niwSrWe3Q81vqpSndiY.jpg",
+        "id": 32632,
+        "name": "Law & Order: LA",
+        "original_name": "Law & Order: LA",
+        "overview": "From the tony Beverly Hills to the seedy side of Hollywood, LAPD’s elite Robbery Homicide Division is on the case. Fusing classic ripped-from-the-headlines storytelling with the backdrop of LA, the series delves into the high profile crimes of the west coast.",
+        "poster_path": "/mxYWv7XeeUqT0ikW9ccIyjeJKTQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 12.5957,
+        "first_air_date": "2010-09-29",
+        "softcore": false,
+        "vote_average": 6.837,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l72pu2f4Ox6Xjwd4KUBSK45Xylf.jpg",
+        "id": 18797,
+        "name": "Dark Blue",
+        "original_name": "Dark Blue",
+        "overview": "Wandering in and out of he underbelly of Los Angeles, where criminals roam free under the veil of night or hide in the shadows of day, is routine for Lieutenant Carter Shaw and his special undercover task force. This team understands that to bring down a criminal, one must first get on their level.",
+        "poster_path": "/wtCGJl9xOSKKHHo77Txnljykmem.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 9.4474,
+        "first_air_date": "2009-07-15",
+        "softcore": false,
+        "vote_average": 6.919,
+        "vote_count": 37,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wIoLcxlk5lh8na0P8kdbLIBWd9D.jpg",
+        "id": 75797,
+        "name": "The Oath",
+        "original_name": "The Oath",
+        "overview": "Explore a gang world we've never seen before: gangs that are made up of the very men and women sworn to uphold the law – cops. Only select officers make the cut, but once inside, gang members will do what they must to protect each other from enemies inside and outside their ranks.",
+        "poster_path": "/ouEeuz1XsMRnPPVC9pzxgM2DpBB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 8.327,
+        "first_air_date": "2018-03-08",
+        "softcore": false,
+        "vote_average": 6.367,
+        "vote_count": 45,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4CtOMphAmfHJ6cztlAYjkdStkHP.jpg",
+        "id": 262280,
+        "name": "هويّات مزيّفة",
+        "original_name": "Legends",
+        "overview": "مع انتشار المخدرات في شوارع بريطانيا في التسعينيات، تتخفّى مجموعة من الموظفين الحكوميين للإطاحة بالعصابات المسؤولة عن ذلك.",
+        "poster_path": "/eYYTgBtsvvA3fC1feyvoqv0G9Gl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "popularity": 11.228,
+        "first_air_date": "2026-05-07",
+        "softcore": false,
+        "vote_average": 7.541,
+        "vote_count": 110,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+        "id": 285807,
+        "name": "الخصمان اللدودان",
+        "original_name": "Nemesis",
+        "overview": "يصبح محقّق عنيد من شرطة \"لوس أنجلوس\" مهووسًا بالقبض على لصّ محنك يقف وراء سلسلة من عمليات السطو الجريئة... ولن تكون الغلبة إلا لواحد منهما.",
+        "poster_path": "/9mDtRLBZ1UfMhXZdWb2Jg3g6JI2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 22.9559,
+        "first_air_date": "2026-05-14",
+        "softcore": false,
+        "vote_average": 7.697,
+        "vote_count": 109,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
+        "id": 1486,
+        "name": "21 Jump Street",
+        "original_name": "21 Jump Street",
+        "overview": "تدور أحداث مسلسل \"21 Jump Street\" حول مجموعة من رجال الشرطة الشباب الذين يستخدمون مظهرهم الشاب للتخفي وحل الجرائم التي تشمل المراهقين والشباب",
+        "poster_path": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 34.0052,
+        "first_air_date": "1987-04-12",
+        "softcore": false,
+        "vote_average": 7.27,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bPt7NTQQvrEIBIqwfgWOkjDTIZn.jpg",
+        "id": 76231,
+        "name": "Mayans M.C.",
+        "original_name": "Mayans M.C.",
+        "overview": "يخرج الصبي (إي زد رييس) من السجن بسبب سريان اتفاقية مبرمة بخصوص الحدود بين ولاية كاليفورنيا ودولة المكسيك، بحيث يجب عليه تغيير هويته بهوية جديدة تمكنه من بدء حياة جديدة بعيدة عن السجن.",
+        "poster_path": "/510A0upV9WRAynEgs1E2B3eBxi5.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 20.2095,
+        "first_air_date": "2018-09-04",
+        "softcore": false,
+        "vote_average": 7.972,
+        "vote_count": 842,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
+        "id": 239826,
+        "name": "بالارد",
+        "original_name": "Ballard",
+        "overview": "تغوص المحققة \"بالارد\" في شبكة من الجرائم والفساد في أثناء مطاردتها لقاتل متسلسل عديم الرحمة وتكشف النقاب عن مؤامرة شريرة في سلك الشرطة تهدد كل أهدافها ومبادئها. مُثقلة بذكريات أليمة من الماضي، يتوجب على \"بالارد\" أن تتفوق ذكاءً على المجرمين وزملائها على حد سواء لإحقاق العدالة التي طال انتظارها للضحايا وعائلاتهم.",
+        "poster_path": "/9Fwz6qwnW6PNIkwHWlx0VXL7LpZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 15.8351,
+        "first_air_date": "2025-07-09",
+        "softcore": false,
+        "vote_average": 7.242,
+        "vote_count": 198,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
+        "id": 75219,
+        "name": "9-1-1",
+        "original_name": "9-1-1",
+        "overview": "برنامج تليفزيوني يستعرض تجارب التوتر العالي، لضباط الشرطة والمساعدين الطبيين، ورجال الإطفاء الذين يعيشون أكثر المخاوف والمخاطر الحرجة أثناء ممارسة وظيفتهم، حيث يجب على هؤلاء المستجيبين لحالات الطواريء أن يوازنوا بين واجبهم بإنقاذ البشر وتعاملاتهم في حياتهم الخاصة.",
+        "poster_path": "/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "popularity": 108.8362,
+        "first_air_date": "2018-01-03",
+        "softcore": false,
+        "vote_average": 8.223,
+        "vote_count": 2848,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/npNbRiUGU29nz464ERJiAkxH997.jpg",
+        "id": 5383,
+        "name": "Alien Nation",
+        "original_name": "Alien Nation",
+        "overview": "Detective Matthew Sikes, a Los Angeles police officer reluctantly works with \"Newcomer\" alien George Francisco. Sikes also has an 'on again off again' flirtation with a female Newcomer, Cathy Frankel.",
+        "poster_path": "/mSnZFa4Yv3dFCMdcyJXjlq0lj4c.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 7.4628,
+        "first_air_date": "1989-09-18",
+        "softcore": false,
+        "vote_average": 6.986,
+        "vote_count": 138,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/akshc6F3VmhJpvniRRlgqDt1ndT.jpg",
+        "id": 73544,
+        "name": "المحارب",
+        "original_name": "Warrior",
+        "overview": "مستوحاة من كتابات الراحل بروس لي ، تتابع هذه الدراما الإجرامية المليئة بالإثارة معجزة فنون القتال آه ساهم ، الذي هاجر من الصين إلى سان فرانسيسكو في ظروف غامضة وأصبح يعمل لصالح أسوأ شخص في الحي الصيني.",
+        "poster_path": "/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759,
+          37
+        ],
+        "popularity": 17.7392,
+        "first_air_date": "2019-04-05",
+        "softcore": false,
+        "vote_average": 7.965,
+        "vote_count": 681,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lU3esiXkPlIccL8FUcrSE7LzOzy.jpg",
+        "id": 284736,
+        "name": "Boston Blue",
+        "original_name": "Boston Blue",
+        "overview": "NYPD Detective Danny Reagan takes a job with the Boston PD and is paired with Detective Lena Silver, part of a law enforcement family comprised of District Attorney Mae Silver, Police Superintendent Sarah Silver, rookie cop Jonah Silver and Rev. Edwin Peters. Reagan hopes to reconnect with his son, Sean, in Boston.",
+        "poster_path": "/81IhL3ckAgJ9J8vHazlUA5BNs8G.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 29.097,
+        "first_air_date": "2025-10-17",
+        "softcore": false,
+        "vote_average": 7.049,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eQJwfyMqSra10ck8HOoiCrbQR32.jpg",
+        "id": 66025,
+        "name": "مملكة الحيوان",
+        "original_name": "Animal Kingdom",
+        "overview": "(جوشوا كودي) مراهق في السابعة عشرة من عمره، ينتقل مع أقاربه إلى مدينتهم الملطة على الشاطيء في (كاليفورنيا الجنوبية) بعد وفاة والدته إثر جرعة هيروين زائدة.",
+        "poster_path": "/rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 49.4416,
+        "first_air_date": "2016-06-14",
+        "softcore": false,
+        "vote_average": 7.784,
+        "vote_count": 565,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3mDSrhLUX2cAhaPqurNBslPh8rz.jpg",
+        "id": 106158,
+        "name": "القانون والنظام: الجريمة المنظمة",
+        "original_name": "Law & Order: Organized Crime",
+        "overview": "The detectives of the Organized Crime Control Bureau work to dismantle New York City's most vicious and violent illegal enterprises.",
+        "poster_path": "/4AvB6Dg8eAbfWv5WOqzCCv2zS90.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 29.4358,
+        "first_air_date": "2021-04-01",
+        "softcore": false,
+        "vote_average": 7.932,
+        "vote_count": 307,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 32,
+    "total_results": 633
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "id": 60585,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bosch",
+        "overview": "تدور أحداث القصة حول محقق الجرائم الجنائية بوش والذي يجسد شخصيته الفنان تيتوس ويليفر . يحقق بوش في جريمة مقتل طفل وففي نفس الأثناء يواجه قضية قتله لمجرم متسلسل في المحكمة الفدرالية، لتتنقل القصة ما بين التحري والمحاكمة.",
+        "popularity": 52.3387,
+        "poster_path": "/zCltiygaUiAkh5dpuZ2KIFA8WBI.jpg",
+        "first_air_date": "2015-01-14",
+        "softcore": false,
+        "name": "بوش",
+        "vote_average": 7.924,
+        "vote_count": 756
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qS46u0uZlVL7ylBELwh2djGX0oQ.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 60616,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "My Mad Fat Diary",
+        "overview": "",
+        "popularity": 5.551,
+        "poster_path": "/nxAaKVzxnGeXSrMjHMtzo523DaC.jpg",
+        "first_air_date": "2013-01-14",
+        "softcore": false,
+        "name": "My Mad Fat Diary",
+        "vote_average": 7.938,
+        "vote_count": 154
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "id": 1972,
+        "origin_country": [
+          "CA",
+          "US",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Battlestar Galactica",
+        "overview": "عندما يظهر العدو القديم سيلونس، ويقوم بتدمير 12 مستعمرة، يقوم فريق جالاكتيكا بحماية أسطول صغير من المدنيين، كآخر نوع من البشر، في الرحلة المتوجهة إلى المستعمرة الثالثة عشر، وهي الأرض.",
+        "popularity": 40.9804,
+        "poster_path": "/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
+        "first_air_date": "2004-10-18",
+        "softcore": false,
+        "name": "Battlestar Galactica",
+        "vote_average": 8.205,
+        "vote_count": 1845
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/be6mDIMv7cg8duWkcYVnTB8rphO.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "id": 1973,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "24",
+        "overview": "يتناول العمل قصة جاك باور، وكيل الاتحاد الفدرالي، بوصفه عضوًا في وحدة مكافحة الإرهاب في لوس أنجلوس، فيجب عليه وقف القنابل والفيروسات ومحاولات الاغتيال، وعادة إنقاذ من يهتم بأمرهم.",
+        "popularity": 103.5369,
+        "poster_path": "/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+        "first_air_date": "2001-11-06",
+        "softcore": false,
+        "name": "24",
+        "vote_average": 7.782,
+        "vote_count": 1874
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1920,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Twin Peaks",
+        "overview": "عُثر على جثة لورا بالمر على شاطئ بالقرب من بلدة توين بيكس الصغيرة في ولاية واشنطن. استُدعي العميل الخاص في مكتب التحقيقات الفيدرالي، ديل كوبر، للتحقيق في وفاتها الغامضة، ليكشف عن شبكة من الألغاز تقوده في نهاية المطاف إلى أعماق الغابة المحيطة ونفسه",
+        "popularity": 53.8821,
+        "poster_path": "/fgJJMIA8zFeRErCgCvs73Tsr28d.jpg",
+        "first_air_date": "1990-04-08",
+        "softcore": false,
+        "name": "توين بيكس",
+        "vote_average": 8.336,
+        "vote_count": 2692
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k16YijUgyXWnDCQPLTuVr7dVPFl.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 1940,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Entourage",
+        "overview": "",
+        "popularity": 51.1692,
+        "poster_path": "/siVOE6ZYzFQfVY7j0hakoqzr8Yf.jpg",
+        "first_air_date": "2004-07-18",
+        "softcore": false,
+        "name": "Entourage",
+        "vote_average": 7.362,
+        "vote_count": 669
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xV1YvbmHzrFWBFvT0KGvXBxdQGJ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 30191,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Outsider",
+        "overview": "",
+        "popularity": 5.5764,
+        "poster_path": "/g6Z14qTpELq28RsbP3QSFy3Ecyq.jpg",
+        "first_air_date": "1968-09-18",
+        "softcore": false,
+        "name": "The Outsider",
+        "vote_average": 6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iK7tPi9j4d34g5p6bNKmGVba95K.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 1908,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Miami Vice",
+        "overview": "",
+        "popularity": 54.0525,
+        "poster_path": "/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg",
+        "first_air_date": "1984-09-16",
+        "softcore": false,
+        "name": "Miami Vice",
+        "vote_average": 7.438,
+        "vote_count": 536
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aqYMD2xX1EoCDIonbxl7IhuLOQ0.jpg",
+        "genre_ids": [
+          9648,
+          80
+        ],
+        "id": 93091,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "冷案",
+        "overview": "",
+        "popularity": 2.3649,
+        "poster_path": "/eo1CVVRbHiBzaKc2S4x7nBAKafe.jpg",
+        "first_air_date": "2019-03-04",
+        "softcore": false,
+        "name": "冷案",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 239826,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Ballard",
+        "overview": "تغوص المحققة \"بالارد\" في شبكة من الجرائم والفساد في أثناء مطاردتها لقاتل متسلسل عديم الرحمة وتكشف النقاب عن مؤامرة شريرة في سلك الشرطة تهدد كل أهدافها ومبادئها. مُثقلة بذكريات أليمة من الماضي، يتوجب على \"بالارد\" أن تتفوق ذكاءً على المجرمين وزملائها على حد سواء لإحقاق العدالة التي طال انتظارها للضحايا وعائلاتهم.",
+        "popularity": 15.8351,
+        "poster_path": "/9Fwz6qwnW6PNIkwHWlx0VXL7LpZ.jpg",
+        "first_air_date": "2025-07-09",
+        "softcore": false,
+        "name": "بالارد",
+        "vote_average": 7.242,
+        "vote_count": 198
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gcbRLjVlsCtIF5e1WtcKsAmWusY.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 126270,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Esplendor",
+        "overview": "",
+        "popularity": 8.5034,
+        "poster_path": "/16dPhLaqqEAQCdoxTKp6HCvdjFY.jpg",
+        "first_air_date": "2000-01-31",
+        "softcore": false,
+        "name": "Esplendor",
+        "vote_average": 8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iMFsQ7yyToYg7SkS9Ml0by9UJ0X.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 2025,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Beverly Hills, 90210",
+        "overview": "",
+        "popularity": 57.0393,
+        "poster_path": "/b7BYfkhu653D894krwGO1ysIKTf.jpg",
+        "first_air_date": "1990-10-04",
+        "softcore": false,
+        "name": "Beverly Hills, 90210",
+        "vote_average": 7.286,
+        "vote_count": 843
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hsmYzDPyfiv3IlkxZsbeO92C7mP.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
+        "id": 60728,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "キルラキル",
+        "overview": "بطلة هذا الأنمي هي ساتسوكي كيورين وهي رئيسة مجلس الطلبة وتفرض سيطرتها بالقوة إلا أن قدوم ريوكو ماتوي سيقلب موازين القوى.تابعو الأنمي واستمتعو",
+        "popularity": 16.4988,
+        "poster_path": "/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg",
+        "first_air_date": "2013-10-04",
+        "softcore": false,
+        "name": "كيل لا كيل kill la kill",
+        "vote_average": 8.2,
+        "vote_count": 558
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4eufRkflTkrmmONcswo02A4S6en.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 2046,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Alias",
+        "overview": "",
+        "popularity": 17.2104,
+        "poster_path": "/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
+        "first_air_date": "2001-09-30",
+        "softcore": false,
+        "name": "Alias",
+        "vote_average": 6.809,
+        "vote_count": 726
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pBbZzT2fZwAn7x11Bg7ycmhmccR.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 2084,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Miss Match",
+        "overview": "",
+        "popularity": 7.4431,
+        "poster_path": "/8T8UwddEe3LrgwxVhkUxmv8jfeE.jpg",
+        "first_air_date": "2003-09-26",
+        "softcore": false,
+        "name": "Miss Match",
+        "vote_average": 6.588,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3owZjnu73mREBPR22FafNpuDpwI.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 60791,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "American Crime",
+        "overview": "",
+        "popularity": 12.9593,
+        "poster_path": "/7L0DPc1HB4rPA2ZidnE2la7Pqt0.jpg",
+        "first_air_date": "2015-03-05",
+        "softcore": false,
+        "name": "American Crime",
+        "vote_average": 6.739,
+        "vote_count": 134
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6K7ufYt6v4Ww2LfPXkVtYE27FGP.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 60796,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Stalker",
+        "overview": "",
+        "popularity": 8.1428,
+        "poster_path": "/pHw8OgL3U7Ys8D8hlbOnlgH7ExM.jpg",
+        "first_air_date": "2014-10-01",
+        "softcore": false,
+        "name": "Stalker",
+        "vote_average": 6.7,
+        "vote_count": 157
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nfbBsEbyOOf9i1KJPhteOlPZr2Y.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 2093,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Matlock",
+        "overview": "",
+        "popularity": 31.2917,
+        "poster_path": "/2eGYyekQjcAXVmcYW1g4keR4plV.jpg",
+        "first_air_date": "1986-03-03",
+        "softcore": false,
+        "name": "Matlock",
+        "vote_average": 7.049,
+        "vote_count": 142
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oFO1g8otqXCz3Frb3Lq7GsdbVuN.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 2134,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Gentle Touch",
+        "overview": "",
+        "popularity": 6.0744,
+        "poster_path": "/uiTy0RD7J0OdqHl7GshB9zxmYAe.jpg",
+        "first_air_date": "1980-04-11",
+        "softcore": false,
+        "name": "The Gentle Touch",
+        "vote_average": 7.2,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n8ixZMMDxKImmxAp6Rdef56eZ3.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          35,
+          18
+        ],
+        "id": 2142,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Fastlane",
+        "overview": "",
+        "popularity": 8.169,
+        "poster_path": "/4ifuFAUqRrD8AwfQYy3yprqtzgf.jpg",
+        "first_air_date": "2002-09-18",
+        "softcore": false,
+        "name": "Fastlane",
+        "vote_average": 6.467,
+        "vote_count": 30
+      }
+    ],
+    "total_pages": 3188,
+    "total_results": 63750
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 15
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/jGLRnvajVBg3QXikgHiI0HdG9Qe.png",
+            "provider_id": 321,
+            "provider_name": "Sky X",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/gliWKhLJVdm7QwL1braBCRko5dx.png",
+            "provider_id": 381,
+            "provider_name": "Canal+",
+            "display_priority": 56
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 62
+          },
+          {
+            "logo_path": "/nor5QyGmfv9AtJI2qPhOVdBa3hA.png",
+            "provider_id": 2134,
+            "provider_name": "AXN Black Amazon Channel",
+            "display_priority": 64
+          },
+          {
+            "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+            "provider_id": 2745,
+            "provider_name": "Sony Pictures Core Amazon Channel",
+            "display_priority": 160
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=AU",
+        "ads": [
+          {
+            "logo_path": "/nhp23IYeFqZm4J2ZseUzSPuZ1UM.png",
+            "provider_id": 246,
+            "provider_name": "7plus",
+            "display_priority": 19
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/1Hzele1xJnA7xfQyWKNQnTnWAio.png",
+            "provider_id": 385,
+            "provider_name": "BINGE",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qRZkZY5kgqXaLr4QFp7ON0wG5rB.png",
+            "provider_id": 134,
+            "provider_name": "Foxtel Now",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/6dOWQKIRIxDmX5FD4g5dPsHxFn3.png",
+            "provider_id": 21,
+            "provider_name": "Stan",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 92
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+            "provider_id": 307,
+            "provider_name": "Globoplay",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+            "provider_id": 484,
+            "provider_name": "Claro tv+",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BY": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CA",
+        "ads": [
+          {
+            "logo_path": "/v53oSfNUIyC1gKy8ICKb2KguUGr.png",
+            "provider_id": 449,
+            "provider_name": "Global TV",
+            "display_priority": 45
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/f8793PGMyrigh8uPd9BiK2jLV7N.png",
+            "provider_id": 469,
+            "provider_name": "Club Illico",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/63tEiSxrgEAufhx2jfxzt2zPtVL.png",
+            "provider_id": 606,
+            "provider_name": "StackTV Amazon Channel",
+            "display_priority": 71
+          },
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 88
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 91
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/9DoQOfCz9S9j4cif3Cqx3ebk3FP.png",
+            "provider_id": 210,
+            "provider_name": "Sky",
+            "display_priority": 8
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CU": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gliWKhLJVdm7QwL1braBCRko5dx.png",
+            "provider_id": 381,
+            "provider_name": "Canal+",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/i2b7mxkUywkzwVVNUTPpIIKXsTt.png",
+            "provider_id": 2536,
+            "provider_name": "Oneplay",
+            "display_priority": 35
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/2o26YwA7tXQ7I6CSrMvO9Rj4oNi.png",
+            "provider_id": 30,
+            "provider_name": "WOW",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          },
+          {
+            "logo_path": "/nor5QyGmfv9AtJI2qPhOVdBa3hA.png",
+            "provider_id": 2134,
+            "provider_name": "AXN Black Amazon Channel",
+            "display_priority": 117
+          },
+          {
+            "logo_path": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png",
+            "provider_id": 2412,
+            "provider_name": "Magenta TV+",
+            "display_priority": 191
+          },
+          {
+            "logo_path": "/mIR4wc2DLEIbn9TbtemvoX4zb26.png",
+            "provider_id": 2660,
+            "provider_name": "Wow Fiction Amazon Channel",
+            "display_priority": 216
+          },
+          {
+            "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+            "provider_id": 2745,
+            "provider_name": "Sony Pictures Core Amazon Channel",
+            "display_priority": 231
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 30
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/53JKjrhdG4z8DQ4pfdbHoAgPWeO.png",
+            "provider_id": 2241,
+            "provider_name": "Movistar Plus+",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/o1Z73d95pgJMpS3iCfRDtK5XJgp.png",
+            "provider_id": 1838,
+            "provider_name": "Tivify",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=FR",
+        "ads": [
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+            "provider_id": 2745,
+            "provider_name": "Sony Pictures Core Amazon Channel",
+            "display_priority": 112
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 44
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+            "provider_id": 2745,
+            "provider_name": "Sony Pictures Core Amazon Channel",
+            "display_priority": 177
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+            "provider_id": 2745,
+            "provider_name": "Sony Pictures Core Amazon Channel",
+            "display_priority": 92
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 8
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 11
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eBWPJM5uHLjiuYmPQKz8LPLza7o.png",
+            "provider_id": 2180,
+            "provider_name": "Sony Pictures Amazon Channel",
+            "display_priority": 55
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=IT",
+        "ads": [
+          {
+            "logo_path": "/7ozv1wBDkjN2LYUQ0sAHElAJ1qg.png",
+            "provider_id": 222,
+            "provider_name": "Rai Play",
+            "display_priority": 16
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 10
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=JP",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 9
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 71
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ppQIS7UMtBwJSspSoGqDR8wO1Gr.png",
+            "provider_id": 97,
+            "provider_name": "Watcha",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 27
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 25
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=LV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=MU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/dI7GHS1st3jWH8eW21x5YnJdUFN.png",
+            "provider_id": 2754,
+            "provider_name": "Howdy Amazon Channel",
+            "display_priority": 87
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3IdfSLRjSoDoo9lrpvX4oxZmnVi.png",
+            "provider_id": 72,
+            "provider_name": "Videoland",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/gliWKhLJVdm7QwL1braBCRko5dx.png",
+            "provider_id": 381,
+            "provider_name": "Canal+",
+            "display_priority": 14
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+            "provider_id": 578,
+            "provider_name": "Strim",
+            "display_priority": 28
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/68KYULhVkHI6TVrmPSE0LlPXB1U.png",
+            "provider_id": 273,
+            "provider_name": "Neon TV",
+            "display_priority": 6
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eP8ouMk5uIDebPWNto76rNstMqE.png",
+            "provider_id": 2296,
+            "provider_name": "Viaplay Amazon Channel",
+            "display_priority": 48
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 23
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/cXs0FUYcosrwsq7sHWdtaTOkFLd.png",
+            "provider_id": 452,
+            "provider_name": "RTPplay",
+            "display_priority": 12
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=RU",
+        "flatrate": [
+          {
+            "logo_path": "/oroIyNGCu4ltli1lI4m7em1IYE5.png",
+            "provider_id": 117,
+            "provider_name": "Kinopoisk",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 28
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/uzJAlKOjD4PCqqx3N1fwkmu0Ttb.png",
+            "provider_id": 497,
+            "provider_name": "Tele2 Play",
+            "display_priority": 20
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gliWKhLJVdm7QwL1braBCRko5dx.png",
+            "provider_id": 381,
+            "provider_name": "Canal+",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/tRQ9JpyxNgfwxPxzOa82QTytxH9.png",
+            "provider_id": 627,
+            "provider_name": "Voyo",
+            "display_priority": 41
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 25
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/d67wyFHwK84A0vC7PslzaMqYGif.png",
+            "provider_id": 1826,
+            "provider_name": "TOD TV",
+            "display_priority": 24
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=UA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+            "provider_id": 2383,
+            "provider_name": "Philo",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+            "provider_id": 2528,
+            "provider_name": "YouTube TV",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 151
+          },
+          {
+            "logo_path": "/tKembbxL7cYdDvFK70xBecbN0G8.png",
+            "provider_id": 634,
+            "provider_name": "Starz Roku Premium Channel",
+            "display_priority": 351
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/tv/71790-s-w-a-t/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    }
+  }
+}

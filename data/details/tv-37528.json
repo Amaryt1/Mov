@@ -1,0 +1,1239 @@
+{
+  "adult": false,
+  "backdrop_path": "/1E8PabwfDIaxREyfe9fxfINqauu.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2001-03-10",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "واقع"
+    }
+  ],
+  "homepage": "http://mitelefe.com/gran-hermano/",
+  "id": 37528,
+  "in_production": true,
+  "languages": [
+    "es"
+  ],
+  "last_air_date": "2026-08-19",
+  "last_episode_to_air": {
+    "id": 7775638,
+    "name": "الحلقة 167",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-08",
+    "episode_number": 167,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 80,
+    "season_number": 13,
+    "show_id": 37528,
+    "still_path": null
+  },
+  "name": "Gran hermano",
+  "next_episode_to_air": {
+    "id": 7775639,
+    "name": "الحلقة 168",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-09",
+    "episode_number": 168,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 13,
+    "show_id": 37528,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 96,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    },
+    {
+      "id": 2485,
+      "logo_path": "/cvG7iQpaFmQlZ7XkBq985ASTQei.png",
+      "name": "América TV",
+      "origin_country": "AR"
+    }
+  ],
+  "number_of_episodes": 883,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_name": "Gran hermano",
+  "overview": "",
+  "popularity": 277.446,
+  "poster_path": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+  "production_companies": [
+    {
+      "id": 8046,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    },
+    {
+      "id": 110888,
+      "logo_path": "/ApVEmLRyrJtQxhIesrXXi2EQfOP.png",
+      "name": "Kuarzo Entertainment Argentina",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2001-03-09",
+      "episode_count": 18,
+      "id": 341754,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2001-08-03",
+      "episode_count": 18,
+      "id": 528830,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-14",
+      "episode_count": 18,
+      "id": 528833,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-08",
+      "episode_count": 34,
+      "id": 529004,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-08-08",
+      "episode_count": 35,
+      "id": 530764,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-12-12",
+      "episode_count": 39,
+      "id": 533034,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-11-02",
+      "episode_count": 52,
+      "id": 533061,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-04-28",
+      "episode_count": 24,
+      "id": 341755,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-05-18",
+      "episode_count": 15,
+      "id": 533245,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-10-17",
+      "episode_count": 144,
+      "id": 341756,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/snIRCY6Qhei08YUNQjjZI2gc4CK.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-12-10",
+      "episode_count": 171,
+      "id": 461835,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/3JPu4k2SP0TOlt9LZAGcddMIk8d.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-12-02",
+      "episode_count": 162,
+      "id": 461836,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-02-23",
+      "episode_count": 170,
+      "id": 502682,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/6l9cTIYgrJDXEFtLrwmgjZdtc2U.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 4.5,
+  "vote_count": 4,
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/avhmusUsXztQw5152QyWgXyoe0G.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 355,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Bachelor",
+        "overview": "",
+        "popularity": 20.5667,
+        "poster_path": "/6JQpAiVuQYgDoB9Ce3qoO3hMtFF.jpg",
+        "first_air_date": "2002-03-25",
+        "softcore": false,
+        "name": "The Bachelor",
+        "vote_average": 5.068,
+        "vote_count": 73
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764
+        ],
+        "id": 28723,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Mansion",
+        "overview": "",
+        "popularity": 1.0796,
+        "poster_path": "/2R1MjF2t9kHwp5c9kBKlXQ3Fxlf.jpg",
+        "first_air_date": "2004-10-02",
+        "softcore": false,
+        "name": "The Mansion",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2Ipy5SjGhc6N4LCaUTUreQwO84x.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 579,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Biggest Loser",
+        "overview": "",
+        "popularity": 13.352,
+        "poster_path": "/s5R2Ge8f5i0cx5vwOCllxzPWVJp.jpg",
+        "first_air_date": "2004-10-19",
+        "softcore": false,
+        "name": "The Biggest Loser",
+        "vote_average": 5.417,
+        "vote_count": 30
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Pr8yC3CjgUiYxO9EtC3RnlXolV.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 124945,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "All That Glitters: Britain's Next Jewellery Star",
+        "overview": "",
+        "popularity": 1.3448,
+        "poster_path": "/c2qWbQjDnEaBtUeMRBxxRB73Rzw.jpg",
+        "first_air_date": "2021-04-13",
+        "softcore": false,
+        "name": "All That Glitters: Britain's Next Jewellery Star",
+        "vote_average": 5,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764
+        ],
+        "id": 29000,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Ground Rules!",
+        "overview": "",
+        "popularity": 0.694,
+        "poster_path": null,
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Ground Rules!",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uTy0OKzXvZDfnxi2Aa13gAHfSQ7.jpg",
+        "genre_ids": [
+          10764,
+          10767
+        ],
+        "id": 238909,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Sente o Clima",
+        "overview": "",
+        "popularity": 1.0323,
+        "poster_path": "/ixm5mOrxj990x3GNdAU60PYyWU2.jpg",
+        "first_air_date": "2023-09-05",
+        "softcore": false,
+        "name": "Sente o Clima",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764
+        ],
+        "id": 29201,
+        "origin_country": [
+          "US",
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "House Rules",
+        "overview": "",
+        "popularity": 1.1241,
+        "poster_path": "/hoLYRwGO2NY6TeqU0VRx1rAdgpr.jpg",
+        "first_air_date": "2003-10-10",
+        "softcore": false,
+        "name": "House Rules",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iztBdRKpdSUWrapZ6KhEe1mMn41.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 92255,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Family Food Fight",
+        "overview": "",
+        "popularity": 1.3535,
+        "poster_path": "/fTsj2D7i2OorPUovGHlMx7Aef48.jpg",
+        "first_air_date": "2019-06-20",
+        "softcore": false,
+        "name": "Family Food Fight",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764,
+          18,
+          37
+        ],
+        "id": 92301,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Last Cowboy",
+        "overview": "",
+        "popularity": 2.8662,
+        "poster_path": "/cfuLF7Kg4jiJHlejnQsNsWWE33S.jpg",
+        "first_air_date": "2019-07-24",
+        "softcore": false,
+        "name": "The Last Cowboy",
+        "vote_average": 7.6,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pRUmn7XfzgBI5wvPLjrNick7etV.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 276012,
+        "origin_country": [
+          "FI"
+        ],
+        "original_language": "fi",
+        "original_name": "#Metsähaaste",
+        "overview": "",
+        "popularity": 1.8705,
+        "poster_path": "/ePnRp76CGKsiwbZfYZ3wgYiTmM7.jpg",
+        "first_air_date": "2017-09-01",
+        "softcore": false,
+        "name": "#Metsähaaste",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fw8paXWrnGnGxiy79xO6LxMB6Xt.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 125318,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Crime Scene Kitchen",
+        "overview": "",
+        "popularity": 3.5764,
+        "poster_path": "/ohSpJIrcB53EBCkSNSCEOyVUdVM.jpg",
+        "first_air_date": "2021-05-26",
+        "softcore": false,
+        "name": "Crime Scene Kitchen",
+        "vote_average": 7.389,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zALPXDg6LOeSsN7kEmvryM7ZEZB.jpg",
+        "genre_ids": [
+          10764,
+          18
+        ],
+        "id": 92436,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Solitários",
+        "overview": "",
+        "popularity": 1.2805,
+        "poster_path": "/iDZtHtt0g2R2Sazi2uAOlcqiMi.jpg",
+        "first_air_date": "2010-01-11",
+        "softcore": false,
+        "name": "Solitários",
+        "vote_average": 5,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gnIBMgCVIlyPvhcNKoZY2ERhBYG.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 125509,
+        "origin_country": [
+          "CL"
+        ],
+        "original_language": "es",
+        "original_name": "Amores perros",
+        "overview": "",
+        "popularity": 1.3126,
+        "poster_path": "/qyiM5EfBHurmDDEUJg69vfQI7bR.jpg",
+        "first_air_date": "2016-03-04",
+        "softcore": false,
+        "name": "Amores perros",
+        "vote_average": 2,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z6EIkeSbqK1lQWXr2vmy10fmWDU.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 92611,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "RuPaul's Drag Race UK",
+        "overview": "",
+        "popularity": 32.9974,
+        "poster_path": "/iCsb4VpqcVOi7swUKKG61Glgalv.jpg",
+        "first_air_date": "2019-10-03",
+        "softcore": false,
+        "name": "RuPaul's Drag Race UK",
+        "vote_average": 7.1,
+        "vote_count": 59
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fwL9QB8froBubReYK4ZeSOBX7HL.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 59960,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "Big Brother Canada",
+        "overview": "",
+        "popularity": 14.6134,
+        "poster_path": "/bwnXtwqveuuVnQ8OjDNAmYCHHEX.jpg",
+        "first_air_date": "2013-02-27",
+        "softcore": false,
+        "name": "Big Brother Canada",
+        "vote_average": 5.1,
+        "vote_count": 40
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dBG1Dw1NUrOBTPu4oPRdO9qauzI.jpg",
+        "genre_ids": [
+          18,
+          10764
+        ],
+        "id": 276479,
+        "origin_country": [
+          "DE"
+        ],
+        "original_language": "de",
+        "original_name": "My Style Rocks",
+        "overview": "",
+        "popularity": 0.986,
+        "poster_path": "/9zVnqS4DckRLVIAIF9o7GzpJGBa.jpg",
+        "first_air_date": "2024-10-15",
+        "softcore": false,
+        "name": "My Style Rocks",
+        "vote_average": 1.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6ZdtUlvnAI37XBKF1x8d5YDakey.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 1576,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Playing It Straight",
+        "overview": "",
+        "popularity": 0.9057,
+        "poster_path": "/jyUD3jQNpPEVpmJfriXGXspSEPr.jpg",
+        "first_air_date": "2004-03-12",
+        "softcore": false,
+        "name": "Playing It Straight",
+        "vote_average": 3.667,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mYfPDtXq6Mfds0VJAOCPvPP9guz.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 92808,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Ink Master: Grudge Match",
+        "overview": "",
+        "popularity": 1.1656,
+        "poster_path": "/38a1L0vk7KS8P5PIeL6mSC8Qkp.jpg",
+        "first_air_date": "2019-10-01",
+        "softcore": false,
+        "name": "Ink Master: Grudge Match",
+        "vote_average": 6.6,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764
+        ],
+        "id": 125956,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Siwas Dance Pop Revolution",
+        "overview": "",
+        "popularity": 2.5099,
+        "poster_path": "/nGmaT3WX4i5v1i5bWErdJiIyU2I.jpg",
+        "first_air_date": "2021-11-04",
+        "softcore": false,
+        "name": "Siwas Dance Pop Revolution",
+        "vote_average": 9.2,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lycPrrqLISPjhWjQkJJPac2hGJ3.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 92897,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "fr",
+        "original_name": "Viens voir mes rénos!",
+        "overview": "",
+        "popularity": 1.9731,
+        "poster_path": "/tohPOSqJ3TNR4Z18Vad80ag5WE0.jpg",
+        "first_air_date": "2019-08-23",
+        "softcore": false,
+        "name": "Viens voir mes rénos!",
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 966,
+    "total_results": 19309
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qgYK2c5Yl6h0K7s0ClLa3lIcKuV.jpg",
+        "id": 204082,
+        "name": "لعبة الحبّار: التحدي",
+        "original_name": "Squid Game: The Challenge",
+        "overview": "في برنامج المسابقات الواقعي هذا المستوحى من \"لعبة الحبّار\"، يضع 456 لاعبًا مهاراتهم على المحك للفوز بجائزة قدرها 4.56 مليون دولار من شأنها أن تغيّر مجرى حياتهم.",
+        "poster_path": "/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.1292,
+        "first_air_date": "2023-11-22",
+        "softcore": false,
+        "vote_average": 6.471,
+        "vote_count": 645,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mSkisNewxu55Ivar5EubhcIuoqn.jpg",
+        "id": 30957,
+        "name": "The Amazing Race",
+        "original_name": "The Amazing Race",
+        "overview": "This reality competition sees teams embark on a trek around the world to amazing destinations where they must compete in a series of challenges, some mental and some physical. Only when the tasks are completed will they learn of their next location. Teams who are the farthest behind will gradually be eliminated as the contest progresses, with the first team to arrive at the final destination winning the race and the $1 million prize.",
+        "poster_path": "/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 42.3144,
+        "first_air_date": "2001-09-05",
+        "softcore": false,
+        "vote_average": 6.908,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8mOsaLN92QZNoKG5QH16RIS6uQh.jpg",
+        "id": 72095,
+        "name": "Fear Factor",
+        "original_name": "Fear Factor",
+        "overview": "This refresh of the breakthrough series is hosted by Ludacris and custom-created for a new generation. Filled with new stunts inspired by urban legends, popular scary movies and viral videos from today’s cultural zeitgeist, contestants will confront their fears, be pushed beyond their comfort zones and take action against some of their biggest stressors.",
+        "poster_path": "/jJ7rgZSPSRKvZKITrC9moKZi72J.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 3.4801,
+        "first_air_date": "2017-05-30",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p1rQJ5bljPSk3LoCo5UKRkpsiSd.jpg",
+        "id": 249522,
+        "name": "ألعاب الوحوش",
+        "original_name": "Beast Games",
+        "overview": "جمعتُ 1000 شخص للتنافس على جائزة نقدية بقيمة 5,000,000 دولار، وهي أكبر جائزة نقدية في تاريخ التلفزيون! كما سنقدم جزيرة خاصة، سيارات لامبورغيني، وملايين أخرى كجوائز نقدية خلال المنافسة! شاهدوا لتكتشفوا أعظم عرض تم إنتاجه على الإطلاق!",
+        "poster_path": "/zmghDBWmg7omic6b5ZiZBCR2iAE.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 17.6759,
+        "first_air_date": "2024-12-19",
+        "softcore": false,
+        "vote_average": 7.395,
+        "vote_count": 244,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t9cRI8CKYWlLFhdZF020UIpCim4.jpg",
+        "id": 17404,
+        "name": "Chopped",
+        "original_name": "Chopped",
+        "overview": "A high energy, fast paced cooking competition that challenges four up-and-coming chefs to turn a selection of everyday ingredients into an extraordinary three-course meal. After each course, a contestant gets “chopped” by our panel of esteemed culinary luminaries until the last man or woman left standing claims victory.",
+        "poster_path": "/x7g390tj73dtlGX3ajZrlQRcRpO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 39.0451,
+        "first_air_date": "2009-01-13",
+        "softcore": false,
+        "vote_average": 6.462,
+        "vote_count": 66,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kSFEIZS3HplqY1uN9U1GR0aEKlP.jpg",
+        "id": 62481,
+        "name": "Beat Bobby Flay",
+        "original_name": "Beat Bobby Flay",
+        "overview": "Two talented chefs go head-to-head for the chance to Beat Bobby Flay. To get to Bobby the chefs must first face off against each other, creating a spectacular dish with a secret ingredient of Bobby's choice. Judges Alex Guarnaschelli and Jeff Mauro know Bobby's strengths and his weaknesses. Their goal: Pick the chef who has the skills to take down Bobby Flay in his own arena. The winning chef gets to challenge Bobby with his or her surprise signature dish. If Bobby goes down, the winner can tell the world, \"I beat Bobby Flay!\"",
+        "poster_path": "/vY8Bep9K9oFSz0C9gnTVipfBciU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 40.1073,
+        "first_air_date": "2013-08-24",
+        "softcore": false,
+        "vote_average": 6.259,
+        "vote_count": 29,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3oZgE4220UrqaaiZXxz5MtNCVxJ.jpg",
+        "id": 12513,
+        "name": "Operación triunfo",
+        "original_name": "Operación triunfo",
+        "overview": "Reality-show talent contest aimed to find the country's next solo singing sensation, putting a selection of hopefuls through their paces by getting them to sing a variety of cover versions of popular songs, with tutoring from various professionals.",
+        "poster_path": "/8Qfq22zP5PeUKJfN5bFPFJtJz5i.jpg",
+        "media_type": "tv",
+        "original_language": "es",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 90.2082,
+        "first_air_date": "2001-10-22",
+        "softcore": false,
+        "vote_average": 6.522,
+        "vote_count": 23,
+        "origin_country": [
+          "ES"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bT3QDDmgQkWEJeJ7T6uONJAT3CG.jpg",
+        "id": 33665,
+        "name": "The Great Food Truck Race",
+        "original_name": "The Great Food Truck Race",
+        "overview": "The Great Food Truck Race is a reality television series, that originally aired on August 15, 2010, on Food Network, with Tyler Florence as the host. It features competing food trucks. The fourth season premiered on August 18, 2013.",
+        "poster_path": "/pOCKDH03m10eIjliYb9Q8KpRZZk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.4859,
+        "first_air_date": "2010-08-15",
+        "softcore": false,
+        "vote_average": 6.571,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xofeABH3VZK2TYiVUJGcvcOCwef.jpg",
+        "id": 210939,
+        "name": "من هو المُخبر؟",
+        "original_name": "The Mole",
+        "overview": "A high-stakes competition series where twelve players work together in challenges to add money to a pot that only one of them will win at the end. Among the players is one person who has secretly been designated \"the Mole\" and tasked with sabotaging the group's money-making efforts. In the end, one player will outlast their competition and expose the Mole to win the prize pot.",
+        "poster_path": "/wVipX97HY7UYiWIR6BdmnQLKEXy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 12.657,
+        "first_air_date": "2022-10-07",
+        "softcore": false,
+        "vote_average": 6.89,
+        "vote_count": 68,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qZBdFzdwP8GWyPcg89y7jVKdg8t.jpg",
+        "id": 16358,
+        "name": "Total Wipeout",
+        "original_name": "Total Wipeout",
+        "overview": "Each week, 20 contestants compete in a series of challenges in an attempt to win £10,000. These challenges are based in large pools of water or mud and generally involve large assault courses that participants must cross.",
+        "poster_path": "/vl5zPBbtqFoMJ1LBHirCTdaFLhj.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.3691,
+        "first_air_date": "2009-01-03",
+        "softcore": false,
+        "vote_average": 6.069,
+        "vote_count": 29,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dLLNFo9wjOqCZn9i86mW2nRl4De.jpg",
+        "id": 2778,
+        "name": "Wheel of Fortune",
+        "original_name": "Wheel of Fortune",
+        "overview": "This game show sees contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.",
+        "poster_path": "/4S36URhKU4sBL1gC2B5UxmTlZMl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10764
+        ],
+        "popularity": 46.4671,
+        "first_air_date": "1983-09-19",
+        "softcore": false,
+        "vote_average": 6.889,
+        "vote_count": 81,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9CRHv34ZZ58o6KzwH9IGfEbUC4k.jpg",
+        "id": 30810,
+        "name": "Pointless",
+        "original_name": "Pointless",
+        "overview": "Quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else can think of.",
+        "poster_path": "/dZCnPXsQnRtK7meIDnHL9T4HkYo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 21.2142,
+        "first_air_date": "2009-08-24",
+        "softcore": false,
+        "vote_average": 6.5,
+        "vote_count": 44,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nzDVzGquqMRs9fp5X5dHqNJvTXK.jpg",
+        "id": 94064,
+        "name": "LEGO Masters",
+        "original_name": "LEGO Masters",
+        "overview": "Teams of LEGO enthusiasts go head-to-head, with infinite possibilities and an unlimited supply of LEGO bricks. Teams of two will compete against each other in ambitious brick-building challenges to be crowned the country's most talented amateur LEGO builders.  Based on the hit British reality-competition series of the same name.",
+        "poster_path": "/cuRaXy34MGIxKa8VzG5QQcQUXp6.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10764
+        ],
+        "popularity": 10.0491,
+        "first_air_date": "2020-02-05",
+        "softcore": false,
+        "vote_average": 7.245,
+        "vote_count": 53,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uQeAtZxD6bzwfTlbeXBNdtzflIO.jpg",
+        "id": 203326,
+        "name": "Come Dine with Me Mexico",
+        "original_name": "Divina Comida México",
+        "overview": "Sixteen Mexican celebrities open their homes and prepare a dinner in which they will show who is the best host.",
+        "poster_path": "/uAhwKdHnkA7aHkY7x3YWOnvKnly.jpg",
+        "media_type": "tv",
+        "original_language": "es",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 7.6723,
+        "first_air_date": "2022-10-27",
+        "softcore": false,
+        "vote_average": 7.826,
+        "vote_count": 23,
+        "origin_country": [
+          "MX"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vg4QxGpweriMUGkcXNgjbFDqWFK.jpg",
+        "id": 16395,
+        "name": "مستر شيف أستراليا",
+        "original_name": "MasterChef Australia",
+        "overview": "مقتبس عن البرنامج البريطاني الشهير (MasterChef)، تأتي النسخة الأسترالية من هذا البرنامج الشهير للبحث عن أفضل طاهي من خلال مسابقة شرسة بين نخبة من أمهر الطهاة.",
+        "poster_path": "/m5akdtbWznF8KpOewKyKw0C36s1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 28.2151,
+        "first_air_date": "2009-04-27",
+        "softcore": false,
+        "vote_average": 7.042,
+        "vote_count": 84,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zCHxV4Ldj4IwgzOITBQrKNnizru.jpg",
+        "id": 82108,
+        "name": "Celebrity Family Feud",
+        "original_name": "Celebrity Family Feud",
+        "overview": "Celebrity Family Feud pits celebrities and their families against each other in a contest to name the most popular responses to survey-type questions posed to 100 people.",
+        "poster_path": "/peOOcVU2GxYTAMNGPAr5NkCxBGe.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 15.8208,
+        "first_air_date": "2015-06-21",
+        "softcore": false,
+        "vote_average": 7.689,
+        "vote_count": 45,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pUU6KpgQAwYWkgD6wooSzGhNcgy.jpg",
+        "id": 1508,
+        "name": "Dancing with the Stars",
+        "original_name": "Dancing with the Stars",
+        "overview": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+        "poster_path": "/5ropLAggzraCNoT6QPltb9lxeP3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "popularity": 67.6022,
+        "first_air_date": "2005-06-01",
+        "softcore": false,
+        "vote_average": 6.1,
+        "vote_count": 136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sb5Meuv56DrFbaKfONRGUBJAPZf.jpg",
+        "id": 71957,
+        "name": "World of Dance",
+        "original_name": "World of Dance",
+        "overview": "Dancers battle in heats of artistry, precision and athleticism in this reality-competition show.",
+        "poster_path": "/syR1jnNWkCBKVjPXA2FmCcdXxJI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.1725,
+        "first_air_date": "2017-05-30",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ac0B0qGk8exaojvfWFkk3SWuom9.jpg",
+        "id": 57755,
+        "name": "MasterChef Junior",
+        "original_name": "MasterChef Junior",
+        "overview": "American version of the culinary competition series that gives talented kids between the ages of 8 and 13 the chance to showcase their culinary abilities and passion for food through a series of delicious challenges. Celebrated food experts coach and encourage the promising hopefuls to cook like pros and teach them the tricks of the trade along the way.",
+        "poster_path": "/eF6jXEiUcUtwrg3k4aI7qSTVJpR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 8.2552,
+        "first_air_date": "2013-09-27",
+        "softcore": false,
+        "vote_average": 6.694,
+        "vote_count": 49,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/inBfvJ9ELARuVk0Vmx0RHblgrSt.jpg",
+        "id": 76912,
+        "name": "Celebrity Big Brother",
+        "original_name": "Celebrity Big Brother",
+        "overview": "Follow a group of American celebrities living together in a house outfitted with 87 HD cameras and more than 100 microphones, recording their every move 24 hours a day. Each week, someone will be voted out of the house, with the last remaining Houseguest receiving a grand prize.",
+        "poster_path": "/4LpkmwUrtLFoVoR0HqIXgweLfQT.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 5.4814,
+        "first_air_date": "2018-02-07",
+        "softcore": false,
+        "vote_average": 6.075,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 9,
+    "total_results": 161
+  },
+  "watch/providers": {
+    "results": {}
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3467694,
+        "known_for_department": "Acting",
+        "name": "Santiago del Moro",
+        "original_name": "Santiago del Moro",
+        "popularity": 0.4657,
+        "profile_path": "/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg",
+        "character": "Host",
+        "credit_id": "6a53031a7410a59caa8597ed",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3465867,
+        "known_for_department": "Acting",
+        "name": "Gastón Trezeguet",
+        "original_name": "Gastón Trezeguet",
+        "popularity": 0.561,
+        "profile_path": null,
+        "character": "Panelist",
+        "credit_id": "6a5306644026e64e57859757",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6342326,
+        "known_for_department": "Acting",
+        "name": "Ceferino Reato",
+        "original_name": "Ceferino Reato",
+        "popularity": 0.4814,
+        "profile_path": null,
+        "character": "Panelist",
+        "credit_id": "6a530693cc933cfa0f36554b",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2071118,
+        "known_for_department": "Acting",
+        "name": "Maria Sol Perez",
+        "original_name": "Maria Sol Perez",
+        "popularity": 0.6176,
+        "profile_path": "/fCLyI8x6fnrq0gIYqyLsc567lJH.jpg",
+        "character": "Panelist",
+        "credit_id": "6a5306bc00613df032419883",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3467694,
+        "known_for_department": "Acting",
+        "name": "Santiago del Moro",
+        "original_name": "Santiago del Moro",
+        "popularity": 0.4657,
+        "profile_path": "/zPnVAp9dX7df0GPp3B68iP3XVNc.jpg",
+        "credit_id": "6a53006977b7affc813bb4c2",
+        "department": "Crew",
+        "job": "Presenter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6341060,
+        "known_for_department": "Directing",
+        "name": "Pablo Milutinovic",
+        "original_name": "Pablo Milutinovic",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a525392dbbea8bb88ab0a1b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215602,
+        "known_for_department": "Creator",
+        "name": "John de Mol",
+        "original_name": "John de Mol",
+        "popularity": 1.385,
+        "profile_path": "/6bfVzvwF0EALA7f6Kya50eLXVzD.jpg",
+        "credit_id": "6a52550640554f7ebe595e9c",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215602,
+        "known_for_department": "Creator",
+        "name": "John de Mol",
+        "original_name": "John de Mol",
+        "popularity": 1.385,
+        "profile_path": "/6bfVzvwF0EALA7f6Kya50eLXVzD.jpg",
+        "credit_id": "6a52ffcf7b307fd43085976d",
+        "department": "Crew",
+        "job": "Creator"
+      }
+    ]
+  }
+}

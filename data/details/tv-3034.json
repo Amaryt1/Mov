@@ -1,0 +1,1858 @@
+{
+  "adult": false,
+  "backdrop_path": "/A4iwF1mpDq8HScQ3MZMhMJuT93k.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "1970-11-29",
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
+    }
+  ],
+  "homepage": "http://www.daserste.de/tatort",
+  "id": 3034,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-05-03",
+  "last_episode_to_air": {
+    "id": 7109979,
+    "name": "الحلقة 16",
+    "overview": "",
+    "vote_average": 7,
+    "vote_count": 2,
+    "air_date": "2026-05-03",
+    "episode_number": 16,
+    "episode_type": "standard",
+    "production_code": "1338",
+    "runtime": 90,
+    "season_number": 57,
+    "show_id": 3034,
+    "still_path": "/jyxqWXoiD2PiCMt3tE72Wn0hfel.jpg"
+  },
+  "name": "Tatort",
+  "next_episode_to_air": {
+    "id": 7734009,
+    "name": "الحلقة 17",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-13",
+    "episode_number": 17,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 89,
+    "season_number": 57,
+    "show_id": 3034,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 189,
+      "logo_path": "/k1poBlW9HGDnIyZU67BtH3BXQuz.png",
+      "name": "ORF 1",
+      "origin_country": "AT"
+    },
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    },
+    {
+      "id": 571,
+      "logo_path": "/txYJaM2VKunNRk3JooH1mnsVSOg.png",
+      "name": "SRF 1",
+      "origin_country": "CH"
+    },
+    {
+      "id": 2118,
+      "logo_path": "/yMnlNdwOHo3YrqPFXVYgvz3pimN.png",
+      "name": "ORF 2",
+      "origin_country": "AT"
+    }
+  ],
+  "number_of_episodes": 1338,
+  "number_of_seasons": 57,
+  "origin_country": [
+    "AT",
+    "DE",
+    "CH"
+  ],
+  "original_language": "de",
+  "original_name": "Tatort",
+  "overview": "",
+  "popularity": 126.7741,
+  "poster_path": "/j73WOp6ArCy8vK4vreIdSunoXAr.jpg",
+  "production_companies": [
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    },
+    {
+      "id": 986,
+      "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
+      "name": "ARD Degeto",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1995-10-31",
+      "episode_count": 22,
+      "id": 82135,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/hptePbC4rUOqBXsNZ6ubzsXzBmg.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-11-29",
+      "episode_count": 2,
+      "id": 60378,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/6TAYXllilCc5poENxNsfG8AXcDh.jpg",
+      "season_number": 1,
+      "vote_average": 6.4
+    },
+    {
+      "air_date": "1971-01-10",
+      "episode_count": 11,
+      "id": 60379,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/gGxLhorzl8vYC1v3sgs8w2XRc5D.jpg",
+      "season_number": 2,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "1972-01-09",
+      "episode_count": 11,
+      "id": 60380,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/5ZIxNyUXw1vtSt7ZuzCCkYf4FJH.jpg",
+      "season_number": 3,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "1973-01-07",
+      "episode_count": 11,
+      "id": 60381,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/wiij5aPEq1Kpg1Lc6SJG7gyGBCS.jpg",
+      "season_number": 4,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "1974-01-20",
+      "episode_count": 11,
+      "id": 60382,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/25FMMhSTmOPYUcmxLvI6tcerOHn.jpg",
+      "season_number": 5,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "1975-01-19",
+      "episode_count": 12,
+      "id": 60383,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/rf1C0uVJdUEoLwtnPQnFlVfNHVD.jpg",
+      "season_number": 6,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "1976-01-18",
+      "episode_count": 11,
+      "id": 60385,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/ccifmRRFORZtRc4kXwo346JuzIo.jpg",
+      "season_number": 7,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1977-01-02",
+      "episode_count": 13,
+      "id": 60386,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/tn4UpRCx89OTwY2MEN8X5z40pd.jpg",
+      "season_number": 8,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1978-01-01",
+      "episode_count": 12,
+      "id": 60387,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/67HpcAPbrc7GAejkOHry8DN1hDp.jpg",
+      "season_number": 9,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1979-01-14",
+      "episode_count": 13,
+      "id": 60388,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/n9SzQ9Iryk76tWvVFMVKUsKhl7d.jpg",
+      "season_number": 10,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1980-01-13",
+      "episode_count": 12,
+      "id": 60395,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/7gDOet43QV1dYkoWdb0lv6zcnlY.jpg",
+      "season_number": 11,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "1981-01-11",
+      "episode_count": 12,
+      "id": 60396,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/7PZbf3WSHWTfXiRIq5s0E2QVB8a.jpg",
+      "season_number": 12,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1982-01-10",
+      "episode_count": 12,
+      "id": 60401,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/y5Zp2sHsDABHFo3741NqnZvQFEY.jpg",
+      "season_number": 13,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "1983-01-09",
+      "episode_count": 9,
+      "id": 60402,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/kFyhfVOSYeIl5EHYXI25EFfst0V.jpg",
+      "season_number": 14,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1984-01-08",
+      "episode_count": 12,
+      "id": 60403,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/CiVRil1FhR9DmLvX2khCek4bch.jpg",
+      "season_number": 15,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "1985-01-06",
+      "episode_count": 12,
+      "id": 60406,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/35jNuvpLsVMUMaY9YL15ah8Q92e.jpg",
+      "season_number": 16,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1986-01-26",
+      "episode_count": 12,
+      "id": 60407,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/1DdsIMCdkjf02cEcWzLLCc7g7eX.jpg",
+      "season_number": 17,
+      "vote_average": 8
+    },
+    {
+      "air_date": "1987-01-25",
+      "episode_count": 12,
+      "id": 60408,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/uhmp0ZARifO3wogOJTEwJti7BBL.jpg",
+      "season_number": 18,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "1988-01-24",
+      "episode_count": 14,
+      "id": 60419,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/klF33gWdYXitjf0lgwnrlCwwMj.jpg",
+      "season_number": 19,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1989-01-22",
+      "episode_count": 12,
+      "id": 60420,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/geBdJlnyEyymhEJUnmroUdv61lB.jpg",
+      "season_number": 20,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1990-01-21",
+      "episode_count": 11,
+      "id": 60422,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/e8gg686BkrXScdYE0oKXeLVtfH2.jpg",
+      "season_number": 21,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1991-01-01",
+      "episode_count": 15,
+      "id": 60424,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/gplmYBTryOhgMVKdCEZ9KQ8ETSp.jpg",
+      "season_number": 22,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "1992-01-19",
+      "episode_count": 15,
+      "id": 60426,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/lnI7AMaaXhniXEMnSa8q99voFNo.jpg",
+      "season_number": 23,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1993-01-03",
+      "episode_count": 18,
+      "id": 60431,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/30fuHPssEBxVS0Ah02XLRi8plJo.jpg",
+      "season_number": 24,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1994-01-23",
+      "episode_count": 15,
+      "id": 60435,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/eGNMWiUbCHuqbCLBmDiu0Y17Tm3.jpg",
+      "season_number": 25,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1995-01-01",
+      "episode_count": 22,
+      "id": 60439,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": "/72XhBsTtJA2kS2kAhjBC7HQmS4y.jpg",
+      "season_number": 26,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 27,
+      "id": 60481,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": "/1CGkrJDpn6PQIfvZoqXsHupYrAn.jpg",
+      "season_number": 27,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1997-01-12",
+      "episode_count": 27,
+      "id": 60486,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": "/v96aGJl0sqAOjkFRvBSYWj4oT3e.jpg",
+      "season_number": 28,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1998-01-18",
+      "episode_count": 26,
+      "id": 60487,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": "/q3Qp6OsvjPwf6oVmIRmuuDLLip4.jpg",
+      "season_number": 29,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1999-01-10",
+      "episode_count": 29,
+      "id": 60488,
+      "name": "الموسم 30",
+      "overview": "",
+      "poster_path": "/Ade3q7VjKrXCx0667SqWROHJnyR.jpg",
+      "season_number": 30,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2000-01-02",
+      "episode_count": 29,
+      "id": 60489,
+      "name": "الموسم 31",
+      "overview": "",
+      "poster_path": "/tORIFsTpFsMmcCFxf05v6aFOxj5.jpg",
+      "season_number": 31,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2001-01-07",
+      "episode_count": 29,
+      "id": 60490,
+      "name": "الموسم 32",
+      "overview": "",
+      "poster_path": "/8b31mlSm3hGVeKRX5D0z1DNhyIf.jpg",
+      "season_number": 32,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2002-01-06",
+      "episode_count": 31,
+      "id": 60491,
+      "name": "الموسم 33",
+      "overview": "",
+      "poster_path": "/ls9aNKJEieg9dbHX5y3ukmkwYl5.jpg",
+      "season_number": 33,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2003-01-05",
+      "episode_count": 33,
+      "id": 60492,
+      "name": "الموسم 34",
+      "overview": "",
+      "poster_path": "/tM0kC3QcwP8n8AEbAfak5mjvzpT.jpg",
+      "season_number": 34,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2004-01-04",
+      "episode_count": 30,
+      "id": 60493,
+      "name": "الموسم 35",
+      "overview": "",
+      "poster_path": "/aV0qLgXFbZ2HNWlHEcbnukLt2yE.jpg",
+      "season_number": 35,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2005-01-02",
+      "episode_count": 35,
+      "id": 60494,
+      "name": "الموسم 36",
+      "overview": "",
+      "poster_path": "/yRLlcqXlEruxybMKAj2J3dTqMp3.jpg",
+      "season_number": 36,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 32,
+      "id": 60495,
+      "name": "الموسم 37",
+      "overview": "",
+      "poster_path": "/qTaOh8jLTVt4ldjxvPJGt2Lk2Mi.jpg",
+      "season_number": 37,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 35,
+      "id": 60496,
+      "name": "الموسم 38",
+      "overview": "",
+      "poster_path": "/uZJMpM69uUsPwA35opNpzR3lTuU.jpg",
+      "season_number": 38,
+      "vote_average": 4.6
+    },
+    {
+      "air_date": "2008-01-06",
+      "episode_count": 31,
+      "id": 60497,
+      "name": "الموسم 39",
+      "overview": "",
+      "poster_path": "/y5l3bNVmwccucgpBiyhqt5uYRcm.jpg",
+      "season_number": 39,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2009-01-04",
+      "episode_count": 34,
+      "id": 60498,
+      "name": "الموسم 40",
+      "overview": "",
+      "poster_path": "/voc7C1pJnKqgyYvSNMzf76eyKLS.jpg",
+      "season_number": 40,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2010-01-03",
+      "episode_count": 35,
+      "id": 60499,
+      "name": "الموسم 41",
+      "overview": "",
+      "poster_path": "/jYRWWrIzXPqqPVvmTGvoihn4SUE.jpg",
+      "season_number": 41,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2011-01-02",
+      "episode_count": 36,
+      "id": 60500,
+      "name": "الموسم 42",
+      "overview": "",
+      "poster_path": "/5INJDC3XAM2V3r6tshnx0lHQ2dd.jpg",
+      "season_number": 42,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 35,
+      "id": 60501,
+      "name": "الموسم 43",
+      "overview": "",
+      "poster_path": "/zVGTWIfuJV9lBEgrunzAGM5Dy0P.jpg",
+      "season_number": 43,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 36,
+      "id": 60502,
+      "name": "الموسم 44",
+      "overview": "",
+      "poster_path": "/97a44OYKh95t0rJzaCXissSvKww.jpg",
+      "season_number": 44,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 36,
+      "id": 60503,
+      "name": "الموسم 45",
+      "overview": "",
+      "poster_path": "/wbc5SR1s5W0g6MXo0FUvuZ1kiDd.jpg",
+      "season_number": 45,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 40,
+      "id": 64214,
+      "name": "الموسم 46",
+      "overview": "",
+      "poster_path": "/9ijV4mOVa0XfDcpKP0I24yGhPPh.jpg",
+      "season_number": 46,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 37,
+      "id": 73280,
+      "name": "الموسم 47",
+      "overview": "",
+      "poster_path": "/pkM4RqgmBSaNwPF3VCEaF0CMKd6.jpg",
+      "season_number": 47,
+      "vote_average": 5.5
+    },
+    {
+      "air_date": "2017-01-08",
+      "episode_count": 35,
+      "id": 79651,
+      "name": "الموسم 48",
+      "overview": "",
+      "poster_path": "/r4rC9YTKvIACcOu04QJBd58vQ6j.jpg",
+      "season_number": 48,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 37,
+      "id": 96683,
+      "name": "الموسم 49",
+      "overview": "",
+      "poster_path": "/kvSiwvlucrmOaLXHgGiClgZHNDJ.jpg",
+      "season_number": 49,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 37,
+      "id": 114475,
+      "name": "الموسم 50",
+      "overview": "",
+      "poster_path": "/1PKdc559pZPlDkEQLvRZZsV7UrR.jpg",
+      "season_number": 50,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 36,
+      "id": 138850,
+      "name": "الموسم 51",
+      "overview": "",
+      "poster_path": "/mx9oteKRBRrVbA8O5W4gCzFQmja.jpg",
+      "season_number": 51,
+      "vote_average": 5.8
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 33,
+      "id": 174506,
+      "name": "الموسم 52",
+      "overview": "",
+      "poster_path": "/9q1A6nT4avCcaazz9yjUowXiww4.jpg",
+      "season_number": 52,
+      "vote_average": 5.6
+    },
+    {
+      "air_date": "2022-01-01",
+      "episode_count": 36,
+      "id": 237846,
+      "name": "الموسم 53",
+      "overview": "",
+      "poster_path": "/wdXFj2zJei1hiyKvDKp8SwLlz2d.jpg",
+      "season_number": 53,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 35,
+      "id": 319266,
+      "name": "الموسم 54",
+      "overview": "",
+      "poster_path": "/sZ4oQcUqyDsnBAGzCvx3q39LTpz.jpg",
+      "season_number": 54,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 32,
+      "id": 366730,
+      "name": "الموسم 55",
+      "overview": "",
+      "poster_path": "/9bqjfH2WQYWDRH7yDzel0hcElSq.jpg",
+      "season_number": 55,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 36,
+      "id": 430427,
+      "name": "الموسم 56",
+      "overview": "",
+      "poster_path": "/852efz9KqTeoUHRN8IhKVyqhkWu.jpg",
+      "season_number": 56,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2026-01-01",
+      "episode_count": 21,
+      "id": 485811,
+      "name": "الموسم 57",
+      "overview": "",
+      "poster_path": "/qJhxxeZEQwRzw0sBv4NEjLbPEq0.jpg",
+      "season_number": 57,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.204,
+  "vote_count": 125,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/3034-tatort/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 62
+          },
+          {
+            "logo_path": "/qF2LbROaQnSQknEyru1mrdMxqy0.png",
+            "provider_id": 2065,
+            "provider_name": "ARD Plus Amazon channel ",
+            "display_priority": 114
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/3034-tatort/watch?locale=CA",
+        "free": [
+          {
+            "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+            "provider_id": 212,
+            "provider_name": "Hoopla",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/lLCtT8BA42vuYn23UxuPPQDrLap.png",
+            "provider_id": 427,
+            "provider_name": "Mhz Choice",
+            "display_priority": 44
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/3034-tatort/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qF2LbROaQnSQknEyru1mrdMxqy0.png",
+            "provider_id": 2065,
+            "provider_name": "ARD Plus Amazon channel ",
+            "display_priority": 60
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/3034-tatort/watch?locale=DE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/oMSdb3qt0nY9cbHPvDFbqGNl7Oq.png",
+            "provider_id": 2037,
+            "provider_name": "ARD Plus Apple TV channel",
+            "display_priority": 107
+          },
+          {
+            "logo_path": "/qF2LbROaQnSQknEyru1mrdMxqy0.png",
+            "provider_id": 2065,
+            "provider_name": "ARD Plus Amazon channel ",
+            "display_priority": 172
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/3034-tatort/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/3034-tatort/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/6kINh90KLGRqWa9HS2oj4JI1ipO.png",
+            "provider_id": 291,
+            "provider_name": "MZ Choice Amazon Channel",
+            "display_priority": 71
+          },
+          {
+            "logo_path": "/lLCtT8BA42vuYn23UxuPPQDrLap.png",
+            "provider_id": 427,
+            "provider_name": "Mhz Choice",
+            "display_priority": 82
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 202
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+            "provider_id": 207,
+            "provider_name": "The Roku Channel",
+            "display_priority": 29
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+            "provider_id": 212,
+            "provider_name": "Hoopla",
+            "display_priority": 36
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/u4K0mJLCcJ2XIRkFLj01eOeVph8.jpg",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "id": 238581,
+        "origin_country": [
+          "ES"
+        ],
+        "original_language": "es",
+        "original_name": "Una vida menos en Canarias",
+        "overview": "",
+        "popularity": 1.6164,
+        "poster_path": "/9wRdLzrThgh3hpu6rKfGqHpoFbr.jpg",
+        "first_air_date": "2024-01-28",
+        "softcore": false,
+        "name": "Una vida menos en Canarias",
+        "vote_average": 5.357,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 28768,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Mr. Rose",
+        "overview": "",
+        "popularity": 1.5828,
+        "poster_path": "/teTXRfurpAmqQ2uIA6GXtEBbb0h.jpg",
+        "first_air_date": "1967-02-17",
+        "softcore": false,
+        "name": "Mr. Rose",
+        "vote_average": 7,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bblnBLNL8w45P8QYXsbC8b1GlLs.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 474,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Nash Bridges",
+        "overview": "",
+        "popularity": 31.1032,
+        "poster_path": "/hJeHSCFoxWN2Pt2lg56CKOi9g87.jpg",
+        "first_air_date": "1996-03-29",
+        "softcore": false,
+        "name": "Nash Bridges",
+        "vote_average": 6.557,
+        "vote_count": 114
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ylCMaSBPemstvqS13W3n57NcWvf.jpg",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "id": 91830,
+        "origin_country": [
+          "RU"
+        ],
+        "original_language": "ru",
+        "original_name": "Вeликолепная пятёрка",
+        "overview": "",
+        "popularity": 48.3267,
+        "poster_path": "/7GOwhwqKpoFeGVCX3JVCv699zV7.jpg",
+        "first_air_date": "2019-05-27",
+        "softcore": false,
+        "name": "Вeликолепная пятёрка",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oWTJSWA79bgn4AqgCrgqroI2Tsj.jpg",
+        "genre_ids": [
+          16,
+          35,
+          80,
+          10765,
+          9648,
+          10759,
+          10762
+        ],
+        "id": 430,
+        "origin_country": [
+          "CA",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Adventures of Sam & Max: Freelance Police",
+        "overview": "",
+        "popularity": 4.1542,
+        "poster_path": "/iodMKLGmlNQSA1MHpK0yPzdnIP9.jpg",
+        "first_air_date": "1997-10-04",
+        "softcore": false,
+        "name": "The Adventures of Sam & Max: Freelance Police",
+        "vote_average": 8.3,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uU3tSAxLwjY1YTCavhj80r2C97j.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 396,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The District",
+        "overview": "",
+        "popularity": 23.8272,
+        "poster_path": "/hnd8bGqWZhtEdCwDf5YXdIDaJei.jpg",
+        "first_air_date": "2000-10-07",
+        "softcore": false,
+        "name": "The District",
+        "vote_average": 6.857,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80
+        ],
+        "id": 58786,
+        "origin_country": [
+          "DE"
+        ],
+        "original_language": "de",
+        "original_name": "Die Wache",
+        "overview": "",
+        "popularity": 21.2774,
+        "poster_path": null,
+        "first_air_date": "1994-01-03",
+        "softcore": false,
+        "name": "Die Wache",
+        "vote_average": 3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 58841,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Chicago P.D.",
+        "overview": "تدور أحداث المسلسل عن (مقاطعة 21) التي تجاور قسم شرطة (شيكاجو)، وهى المقاطعة التي تتألف من مجموعتين مختلفتين، الأولى منهما تتمثل في رجال شرطة بزيهم الرسمي، والثانية هي وحدة الاستخبارات.",
+        "popularity": 111.7367,
+        "poster_path": "/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+        "first_air_date": "2014-01-08",
+        "softcore": false,
+        "name": "شيكاغو بي.دي.",
+        "vote_average": 8.421,
+        "vote_count": 2629
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2CAFagyKOpG6Xl2xt22ZvhlY8TS.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 485,
+        "origin_country": [
+          "AU",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Police Rescue",
+        "overview": "",
+        "popularity": 10.4215,
+        "poster_path": "/rTv6gOPCtrNn4Q83e0L4l3ppir4.jpg",
+        "first_air_date": "1991-02-14",
+        "softcore": false,
+        "name": "Police Rescue",
+        "vote_average": 6.7,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r2T5JhXySW6EdTO76hG6gbITD7O.jpg",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "id": 509,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "CHiPs",
+        "overview": "",
+        "popularity": 7.9522,
+        "poster_path": "/1464ScbUZQ22RjFtRtGiv4i2Zrs.jpg",
+        "first_air_date": "1977-09-15",
+        "softcore": false,
+        "name": "CHiPs",
+        "vote_average": 6.824,
+        "vote_count": 153
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gQYwrYJUf8Vq8biFFqkHCj4QsOk.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 512,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Third Watch",
+        "overview": "",
+        "popularity": 39.3381,
+        "poster_path": "/rWQmgNLdyZGIL6Xuo9ImL0Kh6wt.jpg",
+        "first_air_date": "1999-09-23",
+        "softcore": false,
+        "name": "Third Watch",
+        "vote_average": 7.941,
+        "vote_count": 238
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/62TMbi34WJupGcmcWQ21ZScg42U.jpg",
+        "genre_ids": [
+          35,
+          80,
+          10759
+        ],
+        "id": 520,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Sledge Hammer!",
+        "overview": "",
+        "popularity": 12.8066,
+        "poster_path": "/exYBfVOkRDg9f7HlRIDZ6gy3A73.jpg",
+        "first_air_date": "1986-09-23",
+        "softcore": false,
+        "name": "Sledge Hammer!",
+        "vote_average": 8,
+        "vote_count": 179
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sCY4N87OYPe3UAMdpnODCb1STup.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 124601,
+        "origin_country": [
+          "DK"
+        ],
+        "original_language": "da",
+        "original_name": "Hvide Sande",
+        "overview": "",
+        "popularity": 5.3191,
+        "poster_path": "/evcZ0HndXg7SDpuWMHtSj1YFiaj.jpg",
+        "first_air_date": "2021-05-03",
+        "softcore": false,
+        "name": "Hvide Sande",
+        "vote_average": 6.286,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3Xtc2iqCBXoXFmD8GhVdYaIY111.jpg",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "id": 124727,
+        "origin_country": [
+          "HK"
+        ],
+        "original_language": "cn",
+        "original_name": "逆天奇案",
+        "overview": "",
+        "popularity": 5.0136,
+        "poster_path": "/o8ygqy0d7xrW1Qhpc3Fdaio7Y2d.jpg",
+        "first_air_date": "2021-05-03",
+        "softcore": false,
+        "name": "逆天奇案",
+        "vote_average": 8.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "id": 304919,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Safe Houses",
+        "overview": "",
+        "popularity": 3.1985,
+        "poster_path": null,
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Safe Houses",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zAYP32L0uBWx136DzKURvpdTVB1.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 28727,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Angel Street",
+        "overview": "",
+        "popularity": 4.0426,
+        "poster_path": "/fKSHrrhwUuWEcUyfu1bGrlAiI2i.jpg",
+        "first_air_date": "1992-09-15",
+        "softcore": false,
+        "name": "Angel Street",
+        "vote_average": 7,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/27qMrYslAN7LGMpXWKHNm0EkVRy.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 91875,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Prodigal Son",
+        "overview": "مسلسل تحقيقات تدور أحداثه حول (مالكوم برايت) أحد أمهر علماء النفس الجنائيين، الذي يساعد شرطة “نيويورك” لحل الجرائم والقبض على القتلة والمجرمين مستخدمًا عبقريته وخبرته مع والده القاتل المتسلسل المعروف باسم “الجراح”.",
+        "popularity": 13.848,
+        "poster_path": "/sp5BL7O4SnnTnXf9ECNrXbJQyqt.jpg",
+        "first_air_date": "2019-09-23",
+        "softcore": false,
+        "name": "Prodigal Son",
+        "vote_average": 8.076,
+        "vote_count": 470
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lihyja08c8Z5nCGncDU1xvx1ayE.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 58951,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Reckless",
+        "overview": "",
+        "popularity": 3.6863,
+        "poster_path": "/dPhc4IpzLTV7nu663kAhhQQr0UP.jpg",
+        "first_air_date": "2014-06-29",
+        "softcore": false,
+        "name": "Reckless",
+        "vote_average": 7,
+        "vote_count": 29
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uAMN1SGszrIqgEbg4OFAVBm3A66.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 636,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Kung Fu: The Legend Continues",
+        "overview": "",
+        "popularity": 21.6102,
+        "poster_path": "/ncY99oMyS8kZvFcloSV4WNxqYjE.jpg",
+        "first_air_date": "1993-01-27",
+        "softcore": false,
+        "name": "Kung Fu: The Legend Continues",
+        "vote_average": 6.681,
+        "vote_count": 58
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o6nO13jLqRXR4x9pyLzrKIZYoWs.jpg",
+        "genre_ids": [
+          18,
+          10759,
+          80,
+          9648
+        ],
+        "id": 563,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "Stingers",
+        "overview": "",
+        "popularity": 11.0774,
+        "poster_path": "/efYtjb6gf0ftENlVv0vDtMyyeJS.jpg",
+        "first_air_date": "1998-09-29",
+        "softcore": false,
+        "name": "Stingers",
+        "vote_average": 8.167,
+        "vote_count": 6
+      }
+    ],
+    "total_pages": 2888,
+    "total_results": 57742
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 14210,
+        "name": "Polizeiruf 110",
+        "original_name": "Polizeiruf 110",
+        "overview": "Polizeiruf 110 is a long-running German language detective television series. The first episode was broadcast 27 June 1971 in the German Democratic Republic, and after the dissolution of Fernsehen der DDR the series was picked up by ARD. It was originally created as a counterpart to the West German series Tatort, and quickly became a public favorite.",
+        "poster_path": "/6ZZadTzWhvC6msfEm5G4F4IFgBY.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          80
+        ],
+        "popularity": 29.548,
+        "first_air_date": "1971-06-27",
+        "softcore": false,
+        "vote_average": 6.25,
+        "vote_count": 26,
+        "origin_country": [
+          "DE",
+          "XG"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Am2ZRSkoOQd00kmhUF7QtOFbLWQ.jpg",
+        "id": 3828,
+        "name": "Hill Street Blues",
+        "original_name": "Hill Street Blues",
+        "overview": "A realistic glimpse into the daily lives of the officers and detectives at an urban police station.",
+        "poster_path": "/elvCmYxmwVzv2va3rLKponOJOfm.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 41.2752,
+        "first_air_date": "1981-01-15",
+        "softcore": false,
+        "vote_average": 7.618,
+        "vote_count": 127,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eBoBenOIiQA9i9pkoZ25poBgCg9.jpg",
+        "id": 37971,
+        "name": "The Old Fox",
+        "original_name": "Der Alte",
+        "overview": "A police department, lead by an older, experienced detective solve crimes together.",
+        "poster_path": "/mdgVarlF8LQgFFQMpUXTyb0EM9T.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 74.4222,
+        "first_air_date": "1977-04-11",
+        "softcore": false,
+        "vote_average": 6.3,
+        "vote_count": 20,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aRimNw72sdpdvd0i3LqAxkwYdJ1.jpg",
+        "id": 4521,
+        "name": "Jake and the Fatman",
+        "original_name": "Jake and the Fatman",
+        "overview": "Jake and the Fatman is a television crime drama starring William Conrad as prosecutor J. L. \"Fatman\" McCabe and Joe Penny as investigator Jake Styles.\n\nThe series ran on CBS for five seasons from 1987 to 1992. Diagnosis: Murder was a spin-off of this series.",
+        "poster_path": "/3WBkepiTwgemGDZadyJTV5SmS4l.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "popularity": 26.4975,
+        "first_air_date": "1987-09-26",
+        "softcore": false,
+        "vote_average": 6.2,
+        "vote_count": 55,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nGdcSYIgYaMSjqMu7CYAW025ygi.jpg",
+        "id": 1937,
+        "name": "Baywatch Nights",
+        "original_name": "Baywatch Nights",
+        "overview": "Baywatch Nights is an American police and science fiction drama series that aired in syndication from 1995 to 1997. Created by Douglas Schwartz, David Hasselhoff, and Gregory J. Bonann, the series is a spin-off from the popular television series, Baywatch.",
+        "poster_path": "/3UVQpYZ65r855CttLRCov8SKqBB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 18.4229,
+        "first_air_date": "1995-09-30",
+        "softcore": false,
+        "vote_average": 6.186,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5puZfo53LmwAkqOGObg59X3qmC7.jpg",
+        "id": 241549,
+        "name": "Murder in a Small Town",
+        "original_name": "Murder in a Small Town",
+        "overview": "ينتقل كارل ألبرغ إلى بلدة ساحلية هادئة لتهدئة نفسه التي أرهقتها أعمال الشرطة في المدينة الكبيرة، لكنه يجد نفسه مضطراً إلى الاستعانة بكل مهاراته لحل جرائم القتل التي تستمر في الظهور على شاطئه",
+        "poster_path": "/r8rdmK4vSIhNDQAtbamEFL2kLhG.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 20.1417,
+        "first_air_date": "2024-09-24",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 64,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4pNHwINB5yGbVoZk5Ck0iPApctZ.jpg",
+        "id": 1059,
+        "name": "T. J. Hooker",
+        "original_name": "T. J. Hooker",
+        "overview": "Sergeant Thomas Jefferson Hooker is a tough-as-nails veteran police officer with the LCPD who turns his back on a gold badge and goes back to patrolling the streets and training recruits. Along with his young partners in blue, Hooker take on Lake City's toughest criminals.",
+        "poster_path": "/zcHUwD20mqMD4g8LKdpKD12QRhE.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 28.7537,
+        "first_air_date": "1982-03-13",
+        "softcore": false,
+        "vote_average": 6.521,
+        "vote_count": 97,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5FrnNiMyQIKeSYRD4hR5b0uRaTF.jpg",
+        "id": 925,
+        "name": "77 Sunset Strip",
+        "original_name": "77 Sunset Strip",
+        "overview": "Stu Bailey and Jeff Spencer are the wisecracking, womanizing private-detective heroes of this Warner Brothers drama. They work out of an office located at 77 Sunset Strip in Los Angeles, California, right next door to a snazzy restaurant where Kookie works as a valet. The finger-snapping, slang-talking Kookie occasionally helps Stu and Jeff with their cases, and eventually becomes a full-fledged member of the detective agency. Rex Randolph and J.R. Hale also join the firm, and Suzanne is their leggy secretary.",
+        "poster_path": "/3E533YY70yC3upv49XkeDcvd5z0.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 13.9628,
+        "first_air_date": "1958-10-10",
+        "softcore": false,
+        "vote_average": 7.2,
+        "vote_count": 26,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jB3CQHS4zBzD00yZG936WmsH6P4.jpg",
+        "id": 790,
+        "name": "Agatha Christie's Poirot",
+        "original_name": "Agatha Christie's Poirot",
+        "overview": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions.",
+        "poster_path": "/6f4IVfbn8knb7RjdZlGLuW5guDc.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 108.1509,
+        "first_air_date": "1989-01-08",
+        "softcore": false,
+        "vote_average": 8.19,
+        "vote_count": 580,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wixjwQv8aPfIwbc7euj0fPPsMjT.jpg",
+        "id": 3216,
+        "name": "Baretta",
+        "original_name": "Baretta",
+        "overview": "Baretta is an American detective television series which ran on ABC from 1975 to 1978. The show was a milder version of a successful 1973–74 ABC series, Toma, starring Tony Musante as chameleon-like, real-life New Jersey police officer David Toma. While popular, Toma received intense criticism at the time for its realistic and frequent depiction of police and criminal violence. When Musante left the series after a single season, the concept was retooled as Baretta, with Robert Blake in the title role.",
+        "poster_path": "/xayGSRT2GbcFTwNIqt6l355v29F.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.8278,
+        "first_air_date": "1975-01-17",
+        "softcore": false,
+        "vote_average": 6.536,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iTccszzHWk0uV3opwgK40J9Y0hL.jpg",
+        "id": 2072,
+        "name": "The Bill",
+        "original_name": "The Bill",
+        "overview": "The daily lives of the men and women at Sun Hill Police Station as they fight crime on the streets of London. From bomb threats to armed robbery and drug raids to the routine demands of policing this ground-breaking series focuses as much on crime as it does on the personal lives of its characters.",
+        "poster_path": "/bMd4T647b9YdkbQvULyndBNV8uL.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 24.2537,
+        "first_air_date": "1984-10-16",
+        "softcore": false,
+        "vote_average": 6.755,
+        "vote_count": 47,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bWTk5MoSYmtr34EQWXsEAFBeNiS.jpg",
+        "id": 1167,
+        "name": "The Inspector Lynley Mysteries",
+        "original_name": "The Inspector Lynley Mysteries",
+        "overview": "DS Barbara Havers is assigned to work with the upper-crust DI Thomas Lynley to solve murders.",
+        "poster_path": "/d68bISjO6e6cOtgeygJO471FUIh.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 13.005,
+        "first_air_date": "2002-04-08",
+        "softcore": false,
+        "vote_average": 7.364,
+        "vote_count": 44,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j55LbVtDKcnQDOhOymeB1w0B78a.jpg",
+        "id": 4583,
+        "name": "Derrick",
+        "original_name": "Derrick",
+        "overview": "Derrick was a German TV series produced by Telenova Film und Fernsehproduktion in association with ZDF, ORF and SRG between 1974 and 1998 about Detective Chief Inspector Stephan Derrick and his loyal assistant Inspector Harry Klein, who solve murder cases in Munich and surroundings.",
+        "poster_path": "/5HPuyO4V3rcoMgPZmgcdKJrdXUI.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 32.6772,
+        "first_air_date": "1974-10-20",
+        "softcore": false,
+        "vote_average": 6.01,
+        "vote_count": 52,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l9CJh1u4JtWGzNTNJgg6He2yrLL.jpg",
+        "id": 39249,
+        "name": "Wilsberg",
+        "original_name": "Wilsberg",
+        "overview": "Georg Wilsberg is an antiquarian in Münster. He used to be a lawyer but lost his license. Since then he has been working as a private detective. The always clammy Wilsberg urgently needs this income. In addition, he depends on the support of his friends, especially because of the car.",
+        "poster_path": "/jJrTBO049FLoPhDNB0YZTetkX87.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 9.3426,
+        "first_air_date": "1995-02-20",
+        "softcore": false,
+        "vote_average": 7.8,
+        "vote_count": 23,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1lBEfsnzUkxtxzvFwimENpM6bEP.jpg",
+        "id": 6127,
+        "name": "Agatha Christie's Marple",
+        "original_name": "Agatha Christie's Marple",
+        "overview": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over.",
+        "poster_path": "/nVswrZQpqQND9TgwgbWgz18KgAo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 35.7072,
+        "first_air_date": "2004-12-12",
+        "softcore": false,
+        "vote_average": 7.834,
+        "vote_count": 148,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wofevfOdZrHPqFnhZTkHHV25IOO.jpg",
+        "id": 587,
+        "name": "Barnaby Jones",
+        "original_name": "Barnaby Jones",
+        "overview": "Barnaby Jones is a television detective series starring Buddy Ebsen and Lee Meriwether as father- and daughter-in-law who run a private detective firm in Los Angeles. The show ran on CBS from January 28, 1973 to April 3, 1980, beginning as a midseason replacement. William Conrad guest starred as Frank Cannon of Cannon on the first episode of Barnaby Jones, \"Requiem for a Son\" and the two series had a two-part crossover episode in 1975, \"The Deadly Conspiracy\".",
+        "poster_path": "/wn1kkCGHJcUQ7C8umfQH9LL2zXR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.85,
+        "first_air_date": "1973-01-28",
+        "softcore": false,
+        "vote_average": 7.097,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7398a0SJBEH8i7hGQL94No4lUqT.jpg",
+        "id": 157409,
+        "name": "Signora Volpe",
+        "original_name": "Signora Volpe",
+        "overview": "After years as an MI6 operative, Sylvia winds up in a village in Umbria visiting her sister Isabel and becomes involved in a murder investigation.",
+        "poster_path": "/wEhY7XzejGMPc4vWpJwfwhRAg3N.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 7.9653,
+        "first_air_date": "2022-05-02",
+        "softcore": false,
+        "vote_average": 7.181,
+        "vote_count": 48,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1P6x7gNgnFvlZTcRIak0HQadZbx.jpg",
+        "id": 13266,
+        "name": "Inspector George Gently",
+        "original_name": "Inspector George Gently",
+        "overview": "Crime drama set in the 1960s about an old-school detective trying to come to terms with a time when the lines between the police and criminals have become blurred.",
+        "poster_path": "/3xfuZKWVxNnXhL8C6wVSnfM9Uj9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80
+        ],
+        "popularity": 10.5785,
+        "first_air_date": "2008-04-08",
+        "softcore": false,
+        "vote_average": 7.904,
+        "vote_count": 68,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lt6sueOPDt721p9nqtpXKa3VZGu.jpg",
+        "id": 3572,
+        "name": "Kojak",
+        "original_name": "Kojak",
+        "overview": "A bald, lollipop sucking police detective with a fiery righteous attitude battles crime in New York City.",
+        "poster_path": "/7F1eH97Bpi8zQbc172drbJCsOsG.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 14.5129,
+        "first_air_date": "1973-10-24",
+        "softcore": false,
+        "vote_average": 7.289,
+        "vote_count": 154,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uR2qF4WHN3pnCHUvuELKHcwDVio.jpg",
+        "id": 120317,
+        "name": "Grace",
+        "original_name": "Grace",
+        "overview": "Brighton based Detective Superintendent Roy Grace is a hard-working police officer who has given his life to the job, but his career is currently at rock bottom. He’s fixated by the disappearance of his beloved wife, Sandy, and running enquiries into long forgotten cold cases with little prospect of success. Following another reprimand for his unorthodox police methods, Grace is walking a career tightrope and risks being moved from the job he loves most.",
+        "poster_path": "/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 18.6172,
+        "first_air_date": "2021-03-14",
+        "softcore": false,
+        "vote_average": 6.775,
+        "vote_count": 91,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 32,
+    "total_results": 621
+  }
+}

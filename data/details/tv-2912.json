@@ -1,0 +1,1510 @@
+{
+  "adult": false,
+  "backdrop_path": "/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+  "created_by": [
+    {
+      "id": 97128,
+      "credit_id": "52574a3c760ee36aaa123bd2",
+      "name": "ميرف غريفين",
+      "original_name": "Merv Griffin",
+      "gender": 2,
+      "profile_path": "/tYU8HL88jJvQb4zZVJi988Jeux9.jpg"
+    }
+  ],
+  "episode_run_time": [
+    22
+  ],
+  "first_air_date": "1984-09-10",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "واقع"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
+    }
+  ],
+  "homepage": "http://www.jeopardy.com/",
+  "id": 2912,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-24",
+  "last_episode_to_air": {
+    "id": 7519596,
+    "name": "الحلقة 230",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2026-07-24",
+    "episode_number": 230,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 42,
+    "show_id": 2912,
+    "still_path": null
+  },
+  "name": "Jeopardy!",
+  "next_episode_to_air": {
+    "id": 7668836,
+    "name": "الحلقة 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-14",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 43,
+    "show_id": 2912,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 184,
+      "logo_path": null,
+      "name": "Syndication",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 9394,
+  "number_of_seasons": 43,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Jeopardy!",
+  "overview": "",
+  "popularity": 142.1382,
+  "poster_path": "/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+  "production_companies": [
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 10471,
+      "logo_path": "/tHIwIKoXdLKA8Nt3XeRInh71OvD.png",
+      "name": "Columbia TriStar Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 62313,
+      "logo_path": null,
+      "name": "Jeopardy Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 119837,
+      "logo_path": null,
+      "name": "Merv Griffin Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1983-09-18",
+      "episode_count": 11,
+      "id": 9401,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-09-10",
+      "episode_count": 162,
+      "id": 9367,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1985-09-09",
+      "episode_count": 194,
+      "id": 9368,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-09-08",
+      "episode_count": 231,
+      "id": 9369,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-09-07",
+      "episode_count": 220,
+      "id": 9370,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-09-05",
+      "episode_count": 215,
+      "id": 9371,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-09-04",
+      "episode_count": 201,
+      "id": 9372,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-03",
+      "episode_count": 212,
+      "id": 9373,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-02",
+      "episode_count": 194,
+      "id": 9374,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-07",
+      "episode_count": 229,
+      "id": 9375,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1993-09-06",
+      "episode_count": 230,
+      "id": 9378,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-09-05",
+      "episode_count": 213,
+      "id": 9380,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-09-04",
+      "episode_count": 229,
+      "id": 9381,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-09-02",
+      "episode_count": 218,
+      "id": 9383,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-01",
+      "episode_count": 230,
+      "id": 9385,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-09-07",
+      "episode_count": 230,
+      "id": 9386,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-06",
+      "episode_count": 230,
+      "id": 9387,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-04",
+      "episode_count": 230,
+      "id": 9389,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-09-03",
+      "episode_count": 229,
+      "id": 9390,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-02",
+      "episode_count": 230,
+      "id": 9392,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-08",
+      "episode_count": 230,
+      "id": 9393,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-09-06",
+      "episode_count": 230,
+      "id": 9394,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-12",
+      "episode_count": 230,
+      "id": 9395,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-09-11",
+      "episode_count": 230,
+      "id": 9396,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-09-10",
+      "episode_count": 230,
+      "id": 9397,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/4oQeIPhQdhGIfDv4XOpx6ovY7w5.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-08",
+      "episode_count": 230,
+      "id": 9398,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-14",
+      "episode_count": 230,
+      "id": 9399,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-13",
+      "episode_count": 230,
+      "id": 9400,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-19",
+      "episode_count": 230,
+      "id": 176960,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 28,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2012-09-17",
+      "episode_count": 230,
+      "id": 176961,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": "/l3DmfjuJl2ux1WXzsjtjljUZHoR.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-16",
+      "episode_count": 230,
+      "id": 9402,
+      "name": "الموسم 30",
+      "overview": "",
+      "poster_path": "/1H7g10a25KyjhcptPeDhRiezptU.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-15",
+      "episode_count": 230,
+      "id": 176962,
+      "name": "الموسم 31",
+      "overview": "",
+      "poster_path": "/w6IuAySlbGtxY1A2uUpkrVjnXMr.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-09-14",
+      "episode_count": 230,
+      "id": 176963,
+      "name": "الموسم 32",
+      "overview": "",
+      "poster_path": "/wJmIG2CIjGM4ChEFf6PcV762eIB.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-12",
+      "episode_count": 230,
+      "id": 176849,
+      "name": "الموسم 33",
+      "overview": "",
+      "poster_path": "/gznNccjuVhNEjYt8IUopLuBh6GV.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-11",
+      "episode_count": 230,
+      "id": 176680,
+      "name": "الموسم 34",
+      "overview": "",
+      "poster_path": "/gznNccjuVhNEjYt8IUopLuBh6GV.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-10",
+      "episode_count": 230,
+      "id": 176725,
+      "name": "الموسم 35",
+      "overview": "",
+      "poster_path": "/mK0a4VYtDpi3wfXOBbzlmZBErQ4.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-09",
+      "episode_count": 190,
+      "id": 176665,
+      "name": "الموسم 36",
+      "overview": "",
+      "poster_path": "/8CqBrGO5JLR7OMmBmLXzdLshkP5.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 230,
+      "id": 175754,
+      "name": "الموسم 37",
+      "overview": "",
+      "poster_path": "/aSIHw2DyO6QqW2k2Ak5J2JPojG.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-13",
+      "episode_count": 240,
+      "id": 202365,
+      "name": "الموسم 38",
+      "overview": "",
+      "poster_path": "/6Iwg6enhbWr54vVSmvD1ttPAQSj.jpg",
+      "season_number": 38,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 230,
+      "id": 308231,
+      "name": "الموسم 39",
+      "overview": "",
+      "poster_path": "/67JYOtGQLYRldIgZMgHr0dyjlIn.jpg",
+      "season_number": 39,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2023-09-11",
+      "episode_count": 236,
+      "id": 349424,
+      "name": "الموسم 40",
+      "overview": "",
+      "poster_path": "/7dJGVVaxTIwJOGkyYHGcXSIMeHg.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-09",
+      "episode_count": 230,
+      "id": 403730,
+      "name": "الموسم 41",
+      "overview": "",
+      "poster_path": "/taNO6AeuSgBtoiPDsmHVINrzIJA.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-08",
+      "episode_count": 230,
+      "id": 467865,
+      "name": "الموسم 42",
+      "overview": "",
+      "poster_path": "/jIESEWjYAhqLKIP3cRl0kDafcIW.jpg",
+      "season_number": 42,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2026-09-14",
+      "episode_count": 1,
+      "id": 535831,
+      "name": "الموسم 43",
+      "overview": "",
+      "poster_path": "/taNO6AeuSgBtoiPDsmHVINrzIJA.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.899,
+  "vote_count": 163,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213789,
+        "known_for_department": "Acting",
+        "name": "Johnny Gilbert",
+        "original_name": "Johnny Gilbert",
+        "popularity": 0.7061,
+        "profile_path": "/kaemnryG3n9coES6AwsU2YJHRnD.jpg",
+        "character": "Self - Announcer (voice)",
+        "credit_id": "64774b2389d97f00db4e45b8",
+        "order": 3
+      }
+    ],
+    "crew": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/zRWdC7skxqvIXNw1mJUugmp7XFm.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 2012,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Greed",
+        "overview": "",
+        "popularity": 5.1218,
+        "poster_path": "/c4j6M68UPzPNSALGiomuspkkeUV.jpg",
+        "first_air_date": "1999-11-04",
+        "softcore": false,
+        "name": "Greed",
+        "vote_average": 8.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9MYtg6BVfjorm99eaaoKSGJLBim.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 239839,
+        "origin_country": [
+          "HU"
+        ],
+        "original_language": "hu",
+        "original_name": "Az Árulók – Gyilkosság a kastélyban",
+        "overview": "",
+        "popularity": 2.4042,
+        "poster_path": "/rSqjeomnFSbe57AfODT8Y0LQsgE.jpg",
+        "first_air_date": "2023-11-20",
+        "softcore": false,
+        "name": "Az Árulók – Gyilkosság a kastélyban",
+        "vote_average": 9,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p0umYdTa7csDT9SkZX8DD52Sy4a.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 2051,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Price Is Right",
+        "overview": "",
+        "popularity": 37.8949,
+        "poster_path": "/7MSqORrf1RZsmLUTQ2XoEJEtzt5.jpg",
+        "first_air_date": "1972-09-04",
+        "softcore": false,
+        "name": "The Price Is Right",
+        "vote_average": 6.342,
+        "vote_count": 95
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/987IQPC5RLbYwcsDJawocZPir8d.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 126565,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Um, Actually...",
+        "overview": "",
+        "popularity": 16.0141,
+        "poster_path": "/dHfhbQotRZ7qGPls6gd8pwCDxAO.jpg",
+        "first_air_date": "2018-09-28",
+        "softcore": false,
+        "name": "Um, Actually...",
+        "vote_average": 8.8,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4CEUzMB3sbaaRq4VkWxC1jwyhBT.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 126584,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Al Murray's Great British Pub Quiz",
+        "overview": "",
+        "popularity": 1.7951,
+        "poster_path": "/eClXBTnTXJn3VHtSeOlhGgTe0bq.jpg",
+        "first_air_date": "2019-03-07",
+        "softcore": false,
+        "name": "Al Murray's Great British Pub Quiz",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cH4Bv028hl2onIOQyhHzNjOe5oK.jpg",
+        "genre_ids": [
+          10751,
+          10764
+        ],
+        "id": 93276,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Supermarket Sweep",
+        "overview": "",
+        "popularity": 2.0117,
+        "poster_path": "/pmln5HA38FshaC8gk5hwpySCaFX.jpg",
+        "first_air_date": "2019-09-09",
+        "softcore": false,
+        "name": "Supermarket Sweep",
+        "vote_average": 9,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764
+        ],
+        "id": 2212,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bargain Hunters",
+        "overview": "",
+        "popularity": 0.5683,
+        "poster_path": null,
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Bargain Hunters",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8pkg23Ru5oQ4p2bYr7kiWsoStNu.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 93300,
+        "origin_country": [
+          "NL"
+        ],
+        "original_language": "nl",
+        "original_name": "Chantals Pyjama Party",
+        "overview": "",
+        "popularity": 2.5095,
+        "poster_path": "/l634hHd32QvWLBNhD7yIgwiTeIJ.jpg",
+        "first_air_date": "2019-09-05",
+        "softcore": false,
+        "name": "Chantals Pyjama Party",
+        "vote_average": 6,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1wPR9zEiVALDRc546zQX72nhRaw.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 93314,
+        "origin_country": [
+          "IN"
+        ],
+        "original_language": "hi",
+        "original_name": "Kisko Milega Cash",
+        "overview": "",
+        "popularity": 0.8738,
+        "poster_path": "/nHM3kFe6D7bhwpXUYZ8HII2Bxet.jpg",
+        "first_air_date": "2008-03-03",
+        "softcore": false,
+        "name": "Kisko Milega Cash",
+        "vote_average": 4,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hX3W0mT9QU0gEfB8xwgz6oavjLG.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 239962,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Deal Or No Deal",
+        "overview": "",
+        "popularity": 9.146,
+        "poster_path": "/mra0cGasvbJHQuB3WikfeI98fFj.jpg",
+        "first_air_date": "2023-11-20",
+        "softcore": false,
+        "name": "Deal Or No Deal",
+        "vote_average": 5.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bmqbuK2fB5skmVwZeLTqun68waa.jpg",
+        "genre_ids": [
+          10764,
+          35
+        ],
+        "id": 61018,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Whose Line Is It Anyway?",
+        "overview": "",
+        "popularity": 15.3367,
+        "poster_path": "/iAIiJFlGCnmNO1fLtXxsM0IKo8H.jpg",
+        "first_air_date": "1998-08-05",
+        "softcore": false,
+        "name": "Whose Line Is It Anyway?",
+        "vote_average": 7.854,
+        "vote_count": 376
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764,
+          35
+        ],
+        "id": 306291,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "마피아 댄스",
+        "overview": "",
+        "popularity": 2.5565,
+        "poster_path": "/d18ZdslBVgtrX8BgndltxcsdqQ7.jpg",
+        "first_air_date": "2018-08-18",
+        "softcore": false,
+        "name": "마피아 댄스",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dOulnfttcBrLLOC9v6CEI4J1w3d.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 208398,
+        "origin_country": [
+          "FR"
+        ],
+        "original_language": "fr",
+        "original_name": "Les Traîtres",
+        "overview": "",
+        "popularity": 17.1493,
+        "poster_path": "/vJ9JaLDeFzpdHsJOZ4RAHwKskk3.jpg",
+        "first_air_date": "2022-08-17",
+        "softcore": false,
+        "name": "Les Traîtres",
+        "vote_average": 7.65,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2E7c9eEn9MtQLSDkVrhzCqmVQSa.jpg",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "id": 208430,
+        "origin_country": [
+          "BE"
+        ],
+        "original_language": "nl",
+        "original_name": "Het Jachtseizoen",
+        "overview": "",
+        "popularity": 6.5254,
+        "poster_path": "/55KQN34iT8PjeJCr93L2gwklMnl.jpg",
+        "first_air_date": "2022-09-01",
+        "softcore": false,
+        "name": "Het Jachtseizoen",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ugfqOlydCZgNpkzjPyh6uB8c5Xk.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 2176,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "Deal or No Deal",
+        "overview": "",
+        "popularity": 4.13,
+        "poster_path": "/3eRoldzJROXBRwpshp65DyN0xZ2.jpg",
+        "first_air_date": "2003-07-13",
+        "softcore": false,
+        "name": "Deal or No Deal",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6LticHg0oRlwxLQHA6AcqRRbmJo.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 61086,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Food Fighters",
+        "overview": "",
+        "popularity": 0.9301,
+        "poster_path": "/kNpgK66jsCzaRGo0fzYcpBxrVM1.jpg",
+        "first_air_date": "2014-07-22",
+        "softcore": false,
+        "name": "Food Fighters",
+        "vote_average": 2,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ffAaWfqo6WcGNj2d2J2KzfWEp6C.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 208458,
+        "origin_country": [
+          "NO"
+        ],
+        "original_language": "no",
+        "original_name": "Forræder",
+        "overview": "",
+        "popularity": 13.5858,
+        "poster_path": "/cV572Bwii3JlVxvmncBqzLl8gWr.jpg",
+        "first_air_date": "2022-09-09",
+        "softcore": false,
+        "name": "Forræder",
+        "vote_average": 5,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ms6ldaiHeAkJxicCHs5b4IULhrn.jpg",
+        "genre_ids": [
+          10751
+        ],
+        "id": 30763,
+        "origin_country": [
+          "FR"
+        ],
+        "original_language": "fr",
+        "original_name": "Le Juste Prix",
+        "overview": "",
+        "popularity": 13.6857,
+        "poster_path": "/sNJmEmhAjL9tTt3zUVY4XF0OMIo.jpg",
+        "first_air_date": "1987-12-13",
+        "softcore": false,
+        "name": "Le Juste Prix",
+        "vote_average": 5.4,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9CRHv34ZZ58o6KzwH9IGfEbUC4k.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 30810,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Pointless",
+        "overview": "",
+        "popularity": 21.2142,
+        "poster_path": "/dZCnPXsQnRtK7meIDnHL9T4HkYo.jpg",
+        "first_air_date": "2009-08-24",
+        "softcore": false,
+        "name": "Pointless",
+        "vote_average": 6.5,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qBe5dU7rIkk0PwN3nthNhJKoGpc.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 208503,
+        "origin_country": [
+          "RU"
+        ],
+        "original_language": "ru",
+        "original_name": "Фарт",
+        "overview": "",
+        "popularity": 1.2189,
+        "poster_path": "/dRMqA4PLeXA0reyZg6du1tJ4gUq.jpg",
+        "first_air_date": "2022-02-21",
+        "softcore": false,
+        "name": "Фарт",
+        "vote_average": 7,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 1469,
+    "total_results": 29361
+  },
+  "watch/providers": {
+    "results": {
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/2912-jeopardy/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
+            "provider_id": 230,
+            "provider_name": "Crave",
+            "display_priority": 14
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/2912-jeopardy/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+            "provider_id": 2383,
+            "provider_name": "Philo",
+            "display_priority": 17
+          }
+        ]
+      }
+    }
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/dLLNFo9wjOqCZn9i86mW2nRl4De.jpg",
+        "id": 2778,
+        "name": "Wheel of Fortune",
+        "original_name": "Wheel of Fortune",
+        "overview": "This game show sees contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.",
+        "poster_path": "/4S36URhKU4sBL1gC2B5UxmTlZMl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10764
+        ],
+        "popularity": 46.4671,
+        "first_air_date": "1983-09-19",
+        "softcore": false,
+        "vote_average": 6.889,
+        "vote_count": 81,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9CRHv34ZZ58o6KzwH9IGfEbUC4k.jpg",
+        "id": 30810,
+        "name": "Pointless",
+        "original_name": "Pointless",
+        "overview": "Quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else can think of.",
+        "poster_path": "/dZCnPXsQnRtK7meIDnHL9T4HkYo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 21.2142,
+        "first_air_date": "2009-08-24",
+        "softcore": false,
+        "vote_average": 6.5,
+        "vote_count": 44,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qgYK2c5Yl6h0K7s0ClLa3lIcKuV.jpg",
+        "id": 204082,
+        "name": "لعبة الحبّار: التحدي",
+        "original_name": "Squid Game: The Challenge",
+        "overview": "في برنامج المسابقات الواقعي هذا المستوحى من \"لعبة الحبّار\"، يضع 456 لاعبًا مهاراتهم على المحك للفوز بجائزة قدرها 4.56 مليون دولار من شأنها أن تغيّر مجرى حياتهم.",
+        "poster_path": "/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.1292,
+        "first_air_date": "2023-11-22",
+        "softcore": false,
+        "vote_average": 6.471,
+        "vote_count": 645,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p1rQJ5bljPSk3LoCo5UKRkpsiSd.jpg",
+        "id": 249522,
+        "name": "ألعاب الوحوش",
+        "original_name": "Beast Games",
+        "overview": "جمعتُ 1000 شخص للتنافس على جائزة نقدية بقيمة 5,000,000 دولار، وهي أكبر جائزة نقدية في تاريخ التلفزيون! كما سنقدم جزيرة خاصة، سيارات لامبورغيني، وملايين أخرى كجوائز نقدية خلال المنافسة! شاهدوا لتكتشفوا أعظم عرض تم إنتاجه على الإطلاق!",
+        "poster_path": "/zmghDBWmg7omic6b5ZiZBCR2iAE.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 17.6759,
+        "first_air_date": "2024-12-19",
+        "softcore": false,
+        "vote_average": 7.369,
+        "vote_count": 245,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/saCYLtfiYHxvnQzAQTP4mc6YHtX.jpg",
+        "id": 133723,
+        "name": "Harry Potter: Hogwarts Tournament of Houses",
+        "original_name": "Harry Potter: Hogwarts Tournament of Houses",
+        "overview": "وضع مشجعو العالم السحري معرفتهم بهاري بوتر على المحك للحصول على الشرف النهائي ليتم تسميتهم بطلا لكأس البيت.",
+        "poster_path": "/tEHHfzqHnfNJUp4L30wQeYl2xRo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "popularity": 4.5133,
+        "first_air_date": "2021-11-28",
+        "softcore": false,
+        "vote_average": 7.3,
+        "vote_count": 300,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p0umYdTa7csDT9SkZX8DD52Sy4a.jpg",
+        "id": 2051,
+        "name": "The Price Is Right",
+        "original_name": "The Price Is Right",
+        "overview": "\"Come on down!\" The Price Is Right features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. ",
+        "poster_path": "/7MSqORrf1RZsmLUTQ2XoEJEtzt5.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 37.8949,
+        "first_air_date": "1972-09-04",
+        "softcore": false,
+        "vote_average": 6.342,
+        "vote_count": 95,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zCHxV4Ldj4IwgzOITBQrKNnizru.jpg",
+        "id": 82108,
+        "name": "Celebrity Family Feud",
+        "original_name": "Celebrity Family Feud",
+        "overview": "Celebrity Family Feud pits celebrities and their families against each other in a contest to name the most popular responses to survey-type questions posed to 100 people.",
+        "poster_path": "/peOOcVU2GxYTAMNGPAr5NkCxBGe.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 15.8208,
+        "first_air_date": "2015-06-21",
+        "softcore": false,
+        "vote_average": 7.689,
+        "vote_count": 45,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gqyCVTqZDHm39lD3wZrbswUh2d3.jpg",
+        "id": 7934,
+        "name": "Cash Cab",
+        "original_name": "Cash Cab",
+        "overview": "American version of the game show where unassuming people enter the “Cash Cab” as simple passengers taking a normal taxi ride, only to be shocked when they discover that they're instant contestants! Ben Bailey, the host and driver, then drives them to their destination asking general knowledge questions along the way.",
+        "poster_path": "/hl67ta4DuammWCh6ug3l5sokLkb.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 5.2015,
+        "first_air_date": "2005-12-05",
+        "softcore": false,
+        "vote_average": 7.3,
+        "vote_count": 26,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bT3QDDmgQkWEJeJ7T6uONJAT3CG.jpg",
+        "id": 33665,
+        "name": "The Great Food Truck Race",
+        "original_name": "The Great Food Truck Race",
+        "overview": "The Great Food Truck Race is a reality television series, that originally aired on August 15, 2010, on Food Network, with Tyler Florence as the host. It features competing food trucks. The fourth season premiered on August 18, 2013.",
+        "poster_path": "/pOCKDH03m10eIjliYb9Q8KpRZZk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.4859,
+        "first_air_date": "2010-08-15",
+        "softcore": false,
+        "vote_average": 6.571,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xofeABH3VZK2TYiVUJGcvcOCwef.jpg",
+        "id": 210939,
+        "name": "من هو المُخبر؟",
+        "original_name": "The Mole",
+        "overview": "A high-stakes competition series where twelve players work together in challenges to add money to a pot that only one of them will win at the end. Among the players is one person who has secretly been designated \"the Mole\" and tasked with sabotaging the group's money-making efforts. In the end, one player will outlast their competition and expose the Mole to win the prize pot.",
+        "poster_path": "/wVipX97HY7UYiWIR6BdmnQLKEXy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 12.657,
+        "first_air_date": "2022-10-07",
+        "softcore": false,
+        "vote_average": 6.89,
+        "vote_count": 68,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pUU6KpgQAwYWkgD6wooSzGhNcgy.jpg",
+        "id": 1508,
+        "name": "Dancing with the Stars",
+        "original_name": "Dancing with the Stars",
+        "overview": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+        "poster_path": "/5ropLAggzraCNoT6QPltb9lxeP3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "popularity": 67.6022,
+        "first_air_date": "2005-06-01",
+        "softcore": false,
+        "vote_average": 6.1,
+        "vote_count": 136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qZBdFzdwP8GWyPcg89y7jVKdg8t.jpg",
+        "id": 16358,
+        "name": "Total Wipeout",
+        "original_name": "Total Wipeout",
+        "overview": "Each week, 20 contestants compete in a series of challenges in an attempt to win £10,000. These challenges are based in large pools of water or mud and generally involve large assault courses that participants must cross.",
+        "poster_path": "/vl5zPBbtqFoMJ1LBHirCTdaFLhj.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.3691,
+        "first_air_date": "2009-01-03",
+        "softcore": false,
+        "vote_average": 6.069,
+        "vote_count": 29,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vGAnwSVEdfVV6M9BiAfAvKFwuqJ.jpg",
+        "id": 88754,
+        "name": "LEGO Masters",
+        "original_name": "LEGO Masters",
+        "overview": "Eight pairs of Brick heads are pitted against each other in a quest to impress with their creativity, design and flair, driven by their unparalleled passion for the possibilities that will start with a single LEGO brick.",
+        "poster_path": "/cS3fgG76OB4f9cjxdAaoB3l6aXR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10764
+        ],
+        "popularity": 12.3358,
+        "first_air_date": "2019-04-28",
+        "softcore": false,
+        "vote_average": 7.813,
+        "vote_count": 24,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nnH6rWF1osVe245jy9hKYAiz96o.jpg",
+        "id": 34921,
+        "name": "The Wiggles",
+        "original_name": "The Wiggles",
+        "overview": "A show geared for babies up to older toddlers. This show is full of music, teaching kids songs and easy dances.",
+        "poster_path": "/e4O9IXM3ZmuDsrEICslrwqCl7MT.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          10751
+        ],
+        "popularity": 19.4397,
+        "first_air_date": "1998-07-31",
+        "softcore": false,
+        "vote_average": 6.375,
+        "vote_count": 24,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/utFM4lkrQ5lX2KNDjwMYLzFBrX3.jpg",
+        "id": 61789,
+        "name": "Alaskan Bush People",
+        "original_name": "Alaskan Bush People",
+        "overview": "Deep in the Alaskan wilderness lives a newly discovered family who was born and raised wild. Billy Brown, his wife Ami and their seven grown children – 5 boys and 2 girls – are so far removed from civilization that they often go six to nine months of the year without seeing an outsider. They’ve developed their own accent and dialect, refer to themselves as a \"wolf pack,\" and at night, all nine sleep together in a one-room cabin. Simply put, they are unlike any other family in America. Recently, according to the Browns, the cabin where they lived for years was seized and burned to the ground for being in the wrong location on public land.",
+        "poster_path": "/uUrQfZHcnaSwmW7ZtkLEQ1lmpYl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "popularity": 10.6871,
+        "first_air_date": "2014-05-06",
+        "softcore": false,
+        "vote_average": 6.433,
+        "vote_count": 67,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8vtsgp1BT5L4paj1aHMLOILIRmH.jpg",
+        "id": 69886,
+        "name": "Ultimate Beastmaster",
+        "original_name": "Ultimate Beastmaster",
+        "overview": "In this intense obstacle course series, elite athletes from the U.S. and other countries compete for cash prizes, individual glory and national pride.",
+        "poster_path": "/fTyEg49HD4ekxdgYtcIL9pw2gfB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10764
+        ],
+        "popularity": 5.1669,
+        "first_air_date": "2017-02-24",
+        "softcore": false,
+        "vote_average": 5.965,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hy8Fq9b1AymJP28NT2kMH3QXGg9.jpg",
+        "id": 6326,
+        "name": "Dog Whisperer",
+        "original_name": "Dog Whisperer",
+        "overview": "Cesar Millan has been called the Dr. Phil for Dogs. With an uncanny ability to rehabilitate problem dogs of all shapes and sizes. Each episode of the Dog Whisperer documents the remarkable transformations that take place under Cesar's guidance and teaching, helping dogs and their owners live happier lives together.",
+        "poster_path": "/mRtOuQZmfyCKyjeBlcsY2hXNmV9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10764
+        ],
+        "popularity": 13.0399,
+        "first_air_date": "2004-09-13",
+        "softcore": false,
+        "vote_average": 6.789,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mnL7KFg49vPtn9VGaKdRJLer7R2.jpg",
+        "id": 84910,
+        "name": "The Masked Singer",
+        "original_name": "The Masked Singer",
+        "overview": "Celebrities compete in a singing competition with one major twist: each singer is shrouded from head to toe in an elaborate costume, complete with full face mask to conceal his or her identity. One singer will be eliminated each week, ultimately revealing his or her true identity.",
+        "poster_path": "/sT0TpxenCsghbRZ7NiEJg2ubzZx.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 26.2537,
+        "first_air_date": "2019-01-02",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 122,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mSkisNewxu55Ivar5EubhcIuoqn.jpg",
+        "id": 30957,
+        "name": "The Amazing Race",
+        "original_name": "The Amazing Race",
+        "overview": "This reality competition sees teams embark on a trek around the world to amazing destinations where they must compete in a series of challenges, some mental and some physical. Only when the tasks are completed will they learn of their next location. Teams who are the farthest behind will gradually be eliminated as the contest progresses, with the first team to arrive at the final destination winning the race and the $1 million prize.",
+        "poster_path": "/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 42.3144,
+        "first_air_date": "2001-09-05",
+        "softcore": false,
+        "vote_average": 6.908,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jzkSqv00uImypVLSUpg16rBjwdW.jpg",
+        "id": 37678,
+        "name": "The Voice",
+        "original_name": "The Voice",
+        "overview": "The strongest vocalists from across the United states compete in a blockbusters vocal competition, the winner becomes “The Voice.” The show's innovative format features four stages of competition: the blind auditions, the battle rounds, the knockouts and, finally, the live performance shows.",
+        "poster_path": "/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 121.1431,
+        "first_air_date": "2011-04-26",
+        "softcore": false,
+        "vote_average": 5.9,
+        "vote_count": 225,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 13,
+    "total_results": 253
+  }
+}

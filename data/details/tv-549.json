@@ -1,0 +1,3269 @@
+{
+  "adult": false,
+  "backdrop_path": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+  "created_by": [
+    {
+      "id": 117443,
+      "credit_id": "5253851c19c2957940204dd0",
+      "name": "دك ولف",
+      "original_name": "Dick Wolf",
+      "gender": 2,
+      "profile_path": "/tRMEuYNVFjXYJ7gh1sGJSxq9Vwq.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1990-09-13",
+  "genres": [
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "http://www.nbc.com/law-order",
+  "id": 549,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-14",
+  "last_episode_to_air": {
+    "id": 7105766,
+    "name": "الحلقة 21",
+    "overview": "",
+    "vote_average": 8.7,
+    "vote_count": 3,
+    "air_date": "2026-05-14",
+    "episode_number": 21,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 25,
+    "show_id": 549,
+    "still_path": "/a4oHHQfAISDt49mxurOY5WhXJkE.jpg"
+  },
+  "name": "القانون والنظام",
+  "next_episode_to_air": {
+    "id": 7420835,
+    "name": "الحلقة 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-08",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 26,
+    "show_id": 549,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 545,
+  "number_of_seasons": 26,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Law & Order",
+  "overview": "في حالات مستمدة من الأحداث الراهنة، يقوم رجال الشرطة بالتحقيق في جرائم خطيرة وغالبًا ما تكون قاتلة، حيث يقومون بتحليل الأدلة واستجواب المشتبه بهم حتى يتم اعتقال شخص ما. ثم يقوم مكتب الادعاء ببناء قضية لإدانة الجاني من خلال إثبات إدانته بما يفوق الشك العادل. يعمل هذان الفريقان المتخصصان معًا على التنقل في جميع جوانب النظام القضائي الجنائي المعقد لجعل نيويورك مكانًا أكثر أمانًا.",
+  "popularity": 215.7596,
+  "poster_path": "/3BSTL8BrYQFCcBzodFA1rJlKU93.jpg",
+  "production_companies": [
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 8301,
+      "logo_path": "/zrcVDabl14MNfPwxL8DC2IyR12t.png",
+      "name": "Universal Media Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "SG",
+      "name": "Singapore"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 1684,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/vVUVEqs0KwplqHvv2GyCj2tpMSr.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-09-13",
+      "episode_count": 22,
+      "id": 1664,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/hGrkBU5p60zZj9bMByo9cegZfhl.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "1991-09-17",
+      "episode_count": 22,
+      "id": 1665,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/nykyEGoMsVPnyrnoUL0g93YJPQZ.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1992-09-23",
+      "episode_count": 22,
+      "id": 1666,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/emKji2D1tLAJsFad84ENA4PufI5.jpg",
+      "season_number": 3,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1993-09-15",
+      "episode_count": 22,
+      "id": 1667,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/fiSP98l9G7zjC0sBWwQ02Nmhpub.jpg",
+      "season_number": 4,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1994-09-21",
+      "episode_count": 23,
+      "id": 1668,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/v8yqfobOp6jSDomgcOnotfsGM2i.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1995-09-20",
+      "episode_count": 23,
+      "id": 1669,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/5GaJYO3BXCUaHKXr9e7wC1IARwo.jpg",
+      "season_number": 6,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "1996-09-18",
+      "episode_count": 23,
+      "id": 1671,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/mEGBAiPkZcp4GgPv7CQmFhOEWrK.jpg",
+      "season_number": 7,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1997-09-24",
+      "episode_count": 24,
+      "id": 1670,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/caieRmySO32CyyoPydhxGh7iN33.jpg",
+      "season_number": 8,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1998-09-23",
+      "episode_count": 24,
+      "id": 1672,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/OuntFFHJqftivArTHjnFu1jSPM.jpg",
+      "season_number": 9,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "1999-09-22",
+      "episode_count": 24,
+      "id": 1673,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/fnYm6dcs1bmYvl3afnGxofsVgyw.jpg",
+      "season_number": 10,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2000-10-18",
+      "episode_count": 24,
+      "id": 1675,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/u5MyTy53EWtnsMQewECGfNDywme.jpg",
+      "season_number": 11,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2001-09-26",
+      "episode_count": 24,
+      "id": 1674,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/xAazzYBfFquWWqes5dozpQ0x4jW.jpg",
+      "season_number": 12,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2002-10-02",
+      "episode_count": 24,
+      "id": 1676,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/2DzgIJzKVY9OfYxRMJjJLIZRhfi.jpg",
+      "season_number": 13,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2003-09-24",
+      "episode_count": 24,
+      "id": 1677,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/26ByCQKroHuBs7ZgbkwHTsHvU77.jpg",
+      "season_number": 14,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2004-09-22",
+      "episode_count": 24,
+      "id": 1678,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/z07aBZ5euhdhl0hyzWhwU1mGsrN.jpg",
+      "season_number": 15,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2005-09-21",
+      "episode_count": 22,
+      "id": 1680,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/vo1hHZ1Bpt7XOYDqab7rqw5VTZL.jpg",
+      "season_number": 16,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2006-09-22",
+      "episode_count": 22,
+      "id": 1679,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/zjSZrjqz9f3n6XoPYpaIgzwDQT3.jpg",
+      "season_number": 17,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 18,
+      "id": 1682,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/q0nVi8xzk7DHpeFnQ678f8asYxC.jpg",
+      "season_number": 18,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2008-11-05",
+      "episode_count": 22,
+      "id": 1681,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/fIIoj3EzsHcgF9Yd0ISWKinmLX8.jpg",
+      "season_number": 19,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2009-09-25",
+      "episode_count": 23,
+      "id": 1683,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/yoISWagCsb16Hnoi16Ot1nur2FV.jpg",
+      "season_number": 20,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2022-02-24",
+      "episode_count": 10,
+      "id": 219379,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/l7qr5Q5iJXeja9iDmdXagoUZ0Vm.jpg",
+      "season_number": 21,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2022-09-22",
+      "episode_count": 22,
+      "id": 299108,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/77OPlbsvX3pzoFbyfpcE3GXMCod.jpg",
+      "season_number": 22,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2024-01-18",
+      "episode_count": 13,
+      "id": 366617,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/m9zTQr4TYS98UFSiA1k0mMfECPe.jpg",
+      "season_number": 23,
+      "vote_average": 8.4
+    },
+    {
+      "air_date": "2024-10-03",
+      "episode_count": 22,
+      "id": 401571,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/6vFL8S6Cci8s7SHWXz60xOisGBC.jpg",
+      "season_number": 24,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2025-09-25",
+      "episode_count": 21,
+      "id": 467359,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+      "season_number": 25,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2026-10-08",
+      "episode_count": 1,
+      "id": 524281,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "الحقيقة تهم.",
+  "type": "Scripted",
+  "vote_average": 7.265,
+  "vote_count": 712,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
+        "id": 2458,
+        "name": "CSI: NY",
+        "original_name": "CSI: NY",
+        "overview": "Follow the investigations of a team of NYPD forensic scientists and police officers identified as \"Crime Scene Investigators\".",
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 58.0396,
+        "first_air_date": "2004-09-22",
+        "softcore": false,
+        "vote_average": 7.32,
+        "vote_count": 774,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7WyWk8bWgbWKqnhNEj8PYt4VjPo.jpg",
+        "id": 67993,
+        "name": "Chicago Justice",
+        "original_name": "Chicago Justice",
+        "overview": "The State's Attorney's dedicated team of prosecutors and investigators navigates heated city politics and controversy head-on, while fearlessly pursuing justice.",
+        "poster_path": "/hZ76A8l1JoONy2NoL0BF4AU2g3c.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 7.5081,
+        "first_air_date": "2017-03-01",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 181,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/81X6pHKk07JXDJEiUmaajNsTK2g.jpg",
+        "id": 72745,
+        "name": "Instinct",
+        "original_name": "Instinct",
+        "overview": "Dr. Dylan Reinhart, a gifted author, university professor and former CIA operative is lured back to his old life by tenacious top NYPD Detective Lizzie Needham. Though Dylan and Lizzie initially clash, when it comes to catching killers, they make an ideal team.",
+        "poster_path": "/pAW6Xrc3E1yg6N5ZMJ4pgRg9T8N.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 10.468,
+        "first_air_date": "2018-03-18",
+        "softcore": false,
+        "vote_average": 6.847,
+        "vote_count": 137,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i3WNbk47niwSrWe3Q81vqpSndiY.jpg",
+        "id": 32632,
+        "name": "Law & Order: LA",
+        "original_name": "Law & Order: LA",
+        "overview": "From the tony Beverly Hills to the seedy side of Hollywood, LAPD’s elite Robbery Homicide Division is on the case. Fusing classic ripped-from-the-headlines storytelling with the backdrop of LA, the series delves into the high profile crimes of the west coast.",
+        "poster_path": "/mxYWv7XeeUqT0ikW9ccIyjeJKTQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 12.5957,
+        "first_air_date": "2010-09-29",
+        "softcore": false,
+        "vote_average": 6.837,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x0ys5kgsKVTuhPMntsZTOffj5MO.jpg",
+        "id": 95272,
+        "name": "Lincoln Rhyme: Hunt for the Bone Collector",
+        "original_name": "Lincoln Rhyme: Hunt for the Bone Collector",
+        "overview": "Former NYPD detective and forensic genius Lincoln Rhyme was at the top of his game until a serious accident at the hands of a notorious serial killer forced him out of the field. When Amelia Sachs, an intuitive young officer who has a gift for profiling, finds herself hot on the killer's trail, Rhyme finds a partner for this new game of cat and mouse.",
+        "poster_path": "/vIgxUeQRtnspj0BLm3H7rawSqPK.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 8.4251,
+        "first_air_date": "2020-01-10",
+        "softcore": false,
+        "vote_average": 7.4,
+        "vote_count": 147,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
+        "id": 80748,
+        "name": "FBI",
+        "original_name": "FBI",
+        "overview": "من أجل الحفاظ على أن يسود اﻷمن واﻷمان في مدينة نيويورك، تدور احداث المسلسل عن دراما المغامرات واﻹثارة في مكتب التحقيقات الفيدرالية اﻷمريكية واستخدامهم كل وسائل التفكير والتكنولوجيا الحديثة.",
+        "poster_path": "/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "popularity": 98.5883,
+        "first_air_date": "2018-09-25",
+        "softcore": false,
+        "vote_average": 7.9,
+        "vote_count": 944,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rNlYsPO8oqZrxedntqqzfyPJNzq.jpg",
+        "id": 61056,
+        "name": "كيف تفلت بجريمة قتل",
+        "original_name": "How to Get Away with Murder",
+        "overview": "تتورط محامية الدفاع الجنائية اللامعة وأستاذة القانون \"أناليس كيتينغ\" وخمسة من طلابها في قضية قتل ملتوية.",
+        "poster_path": "/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 45.2967,
+        "first_air_date": "2014-09-25",
+        "softcore": false,
+        "vote_average": 7.817,
+        "vote_count": 1816,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o9orbqMK19LlQLHt3XVtnf3RR2H.jpg",
+        "id": 29574,
+        "name": "Mike Hammer",
+        "original_name": "Mike Hammer",
+        "overview": "Private detective Mike Hammer hunts down criminals on the mean streets of New York City.",
+        "poster_path": "/5Kr6dVI7V0lbroMFLNxUdcd578l.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 8.1651,
+        "first_air_date": "1984-01-28",
+        "softcore": false,
+        "vote_average": 6.714,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vac3SIBwaqB3RoFbEO0yJd8PbYJ.jpg",
+        "id": 202296,
+        "name": "East New York",
+        "original_name": "East New York",
+        "overview": "Regina Haywood is the newly promoted deputy inspector of East New York, a working-class neighborhood at the edge of Brooklyn. She leads a diverse group of officers and detectives, some of whom are reluctant to deploy her creative methods of serving and protecting in the midst of social upheaval and the early seeds of gentrification.",
+        "poster_path": "/vOos5pwq3tzPCwFohG80i2SXAgR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 8.2297,
+        "first_air_date": "2022-10-02",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oMeCp8jXpSyI41vHsjMkFfIJReh.jpg",
+        "id": 2171,
+        "name": "Cold Case",
+        "original_name": "Cold Case",
+        "overview": "The Philadelphia homicide squad's lone female detective finds her calling when she is assigned cases that have never been solved. Detective Lilly Rush combines her natural instincts with the updated technology available today to bring about justice for all the victims she can.",
+        "poster_path": "/5dmiNE8UdAqIyjjwZZWsjMhhV0b.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 54.3923,
+        "first_air_date": "2003-09-28",
+        "softcore": false,
+        "vote_average": 7.735,
+        "vote_count": 455,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pLC7Iv0YyEn6L1uwgNs4z4hIJyf.jpg",
+        "id": 4040,
+        "name": "New York Undercover",
+        "original_name": "New York Undercover",
+        "overview": "New York Undercover is an American police drama The series stars Detective J.C. Williams and Detective Eddie Torres, two undercover detectives in New York City's Fourth Precinct who were assigned to investigate various crimes and gang-related cases.",
+        "poster_path": "/14dtuuJXd3drJZISX4FGbcfOPOv.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 27.8177,
+        "first_air_date": "1994-09-08",
+        "softcore": false,
+        "vote_average": 7.263,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+        "id": 58841,
+        "name": "شيكاغو بي.دي.",
+        "original_name": "Chicago P.D.",
+        "overview": "تدور أحداث المسلسل عن (مقاطعة 21) التي تجاور قسم شرطة (شيكاجو)، وهى المقاطعة التي تتألف من مجموعتين مختلفتين، الأولى منهما تتمثل في رجال شرطة بزيهم الرسمي، والثانية هي وحدة الاستخبارات.",
+        "poster_path": "/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 111.7367,
+        "first_air_date": "2014-01-08",
+        "softcore": false,
+        "vote_average": 8.427,
+        "vote_count": 2627,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uGGmIOPc2QLNF4t3Ro46wRcYr3t.jpg",
+        "id": 194,
+        "name": "NYPD Blue",
+        "original_name": "NYPD Blue",
+        "overview": "Police drama set in New York City, exploring the internal and external struggles of the fictional 15th precinct of Manhattan. Each episode typically intertwined several plots involving an ensemble cast.",
+        "poster_path": "/hrdusQVSArJPRGnB5bHzd2ISP4V.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 67.3628,
+        "first_air_date": "1993-09-21",
+        "softcore": false,
+        "vote_average": 7.039,
+        "vote_count": 179,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u3HllpiOl4C9FnjSAQeh3ftB4cv.jpg",
+        "id": 228026,
+        "name": "Law & Order Toronto: Criminal Intent",
+        "original_name": "Law & Order Toronto: Criminal Intent",
+        "overview": "An elite squad of detectives investigate high-profile crime and corruption in metro Toronto.",
+        "poster_path": "/eqD7W5EGue5Nvg0BNEnoRyMQAcz.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 20.5468,
+        "first_air_date": "2024-02-22",
+        "softcore": false,
+        "vote_average": 7.4,
+        "vote_count": 42,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j8NSaQJqnSOx8vsxwEukY3oATNj.jpg",
+        "id": 64513,
+        "name": "American Crime Story",
+        "original_name": "American Crime Story",
+        "overview": "An anthology series centered around some of history's most famous criminal investigations.",
+        "poster_path": "/dtIS3Qk8ny1FWQLiuJ77MTDX5bZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 27.312,
+        "first_air_date": "2016-02-02",
+        "softcore": false,
+        "vote_average": 7.579,
+        "vote_count": 1076,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+        "id": 2734,
+        "name": "القانون والنظام: وحدة الضحايا الخاصة",
+        "original_name": "Law & Order: Special Victims Unit",
+        "overview": "في نظام العدالة الجنائية، تعتبر الجرائم الجنسية شنيعة بشكل خاص. في مدينة نيويورك، المحققون المتخصصون الذين يحققون في هذه الجنايات الشريرة هم أعضاء فريق من النخبة يعرف باسم وحدة الضحايا الخاصة. هذه قصصهم.",
+        "poster_path": "/uzfP3ILGEXhSbhfCOsgCDZW7ojk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 272.4683,
+        "first_air_date": "1999-09-20",
+        "softcore": false,
+        "vote_average": 7.962,
+        "vote_count": 4335,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Q9FMVA1UvX8cnNImaZc0dlpMdB.jpg",
+        "id": 204490,
+        "name": "Criminal Record",
+        "original_name": "Criminal Record",
+        "overview": "في قلب \"لندن\"، على إثر مكالمة مجهولة المصدر، يدخل محققان عبقريان، ألا وهما امرأة في المراحل الأولى من مسيرتها المهنية ورجل ذو علاقات بأشخاص ذوي نفوذ مصرّ على حماية إرثه، في صراع يتمحور حول تصحيح خطأ قضائي قديم.",
+        "poster_path": "/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 12.9539,
+        "first_air_date": "2024-01-10",
+        "softcore": false,
+        "vote_average": 6.485,
+        "vote_count": 167,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ghK8kicVKOdj58cSCb05VDeJdJd.jpg",
+        "id": 56401,
+        "name": "King & Maxwell",
+        "original_name": "King & Maxwell",
+        "overview": "Sean King and Michelle Maxwell aren't your typical pair of private investigators. As discredited Secret Service agents, their unique skills often give them a leg up on suspects and conventional law enforcement. He's charming and always one step ahead of the game; she's a fearless force to be reckoned with. As a team, they're unstoppable.",
+        "poster_path": "/5kKzx5q7tbuKVLTMBH4EKHhVAQl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 14.2276,
+        "first_air_date": "2013-06-10",
+        "softcore": false,
+        "vote_average": 6.919,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uBYyvlqcOi6CxmWdokVrb7JICLg.jpg",
+        "id": 153657,
+        "name": "Bosch: Legacy",
+        "original_name": "Bosch: Legacy",
+        "overview": "يبدأ بوش الفصل التالي من حياته المهنية ويجد نفسه يعمل مع عدوه السابق ، هوني تشاندلر.",
+        "poster_path": "/ge5gFKCO6m7MuGyjwjoGvqo2q2m.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 22.4033,
+        "first_air_date": "2022-05-05",
+        "softcore": false,
+        "vote_average": 7.952,
+        "vote_count": 280,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n5ELbp4GXH4nnNkCvQTPH5fetUJ.jpg",
+        "id": 66023,
+        "name": "Marcella",
+        "original_name": "Marcella",
+        "overview": "Marcella is shocked to the core of her being when her husband Jason leaves her unexpectedly, confessing he no longer loves her. Heartbroken, Marcella returns to the Met’s Murder Squad. Ten years ago Marcella gave up her fast-tracked police career to marry and devote her life to her family. With the abrupt end to her marriage and isolated from her 13 year old daughter and 10 year old son, Marcella throws herself into work to stop herself from falling apart.",
+        "poster_path": "/k0FUUaaHYEcNrcEnIbPcmO6LIIA.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 8.7951,
+        "first_air_date": "2016-04-04",
+        "softcore": false,
+        "vote_average": 6.893,
+        "vote_count": 294,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 41,
+    "total_results": 805
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "id": 60585,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bosch",
+        "overview": "تدور أحداث القصة حول محقق الجرائم الجنائية بوش والذي يجسد شخصيته الفنان تيتوس ويليفر . يحقق بوش في جريمة مقتل طفل وففي نفس الأثناء يواجه قضية قتله لمجرم متسلسل في المحكمة الفدرالية، لتتنقل القصة ما بين التحري والمحاكمة.",
+        "popularity": 52.3387,
+        "poster_path": "/zCltiygaUiAkh5dpuZ2KIFA8WBI.jpg",
+        "first_air_date": "2015-01-14",
+        "softcore": false,
+        "name": "بوش",
+        "vote_average": 7.933,
+        "vote_count": 754
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aPtygCQY7FOBO0Ns3bKhafR9HrI.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 60605,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "cy",
+        "original_name": "Y Gwyll",
+        "overview": "",
+        "popularity": 6.9455,
+        "poster_path": "/uyYp5sZqTkviCtRjQNuOuqWTssM.jpg",
+        "first_air_date": "2013-10-29",
+        "softcore": false,
+        "name": "Y Gwyll",
+        "vote_average": 7.232,
+        "vote_count": 112
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/krM10WIhfOKI0JVVSzGq1qQXC9P.jpg",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 208086,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Hotel Custody",
+        "overview": "",
+        "popularity": 0.8669,
+        "poster_path": "/iCThWmeyyAjv9DQlulUwxAAGsIc.jpg",
+        "first_air_date": "2022-08-18",
+        "softcore": false,
+        "name": "Hotel Custody",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5ziXtCZye3NowgFJCBrK3kTd7vn.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648,
+          10765
+        ],
+        "id": 60726,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Forever",
+        "overview": "الدكتور هنري مورغان ، الفاحص الطبي النجم في مدينة نيويورك ، لديه سر. إنه لا يدرس الموتى فقط لحل القضايا الجنائية ، بل يفعل ذلك لحل اللغز الذي استعصى عليه لمدة 200 عام - الجواب على خلوده الذي لا يمكن تفسيره. هذه الحياة الطويلة أعطت هنري مهارات ملحوظة في الملاحظة مما أثار إعجاب شريكه الجديد ،\n\nالمحقق جو مارتينيز. كل أسبوع ، ستكشف قضية جديدة وصداقتهما الناشئة طبقات من ماضي هنري الطويل والملون. فقط أفضل أصدقائه وصديقه ، آبي يعرف سر هنري.",
+        "popularity": 14.8137,
+        "poster_path": "/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg",
+        "first_air_date": "2014-09-22",
+        "softcore": false,
+        "name": "للابد",
+        "vote_average": 7.827,
+        "vote_count": 663
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aSye04zKzWtUP3U6Cl4bOXc5Ih9.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 1911,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bones",
+        "overview": "تدور أحداثه حول مجموعة من الجرائم، حيث يقوم مجموعة من المحققين الفيدراليين بالتحقيق في كل جرائم القتل، ودراسة تفاصيلها الدقيقة، ويكتشفوا سبب القتل عن طريق عظام الضحايا.",
+        "popularity": 130.7207,
+        "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+        "first_air_date": "2005-09-13",
+        "softcore": false,
+        "name": "عظام",
+        "vote_average": 8.178,
+        "vote_count": 3580
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6rnycSpcPmM7JX1WXbWFbfxcBpj.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 1926,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Ed",
+        "overview": "",
+        "popularity": 11.1795,
+        "poster_path": "/dkbqibIYSx2wtQRCF37O5Vnnjx8.jpg",
+        "first_air_date": "2000-10-08",
+        "softcore": false,
+        "name": "Ed",
+        "vote_average": 7.642,
+        "vote_count": 53
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oF4vSGnXIPcRUpCSsYOIVQFQnco.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 30286,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Big Easy",
+        "overview": "",
+        "popularity": 5.4695,
+        "poster_path": "/2w2KcR741vJsxqMQag6C4hnWw0l.jpg",
+        "first_air_date": "1996-08-11",
+        "softcore": false,
+        "name": "The Big Easy",
+        "vote_average": 9,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nGdcSYIgYaMSjqMu7CYAW025ygi.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 1937,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Baywatch Nights",
+        "overview": "",
+        "popularity": 18.4229,
+        "poster_path": "/3UVQpYZ65r855CttLRCov8SKqBB.jpg",
+        "first_air_date": "1995-09-30",
+        "softcore": false,
+        "name": "Baywatch Nights",
+        "vote_average": 6.186,
+        "vote_count": 43
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uVrT03OGHXfedwPdCur4v2CFsOz.jpg",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "id": 1945,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Traveler",
+        "overview": "",
+        "popularity": 5.1442,
+        "poster_path": "/wUHt1W2yNmobzTWaiM7OCZ1mWXh.jpg",
+        "first_air_date": "2007-05-10",
+        "softcore": false,
+        "name": "Traveler",
+        "vote_average": 6.649,
+        "vote_count": 37
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 30182,
+        "origin_country": [
+          "GB",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Close and True",
+        "overview": "",
+        "popularity": 1.5952,
+        "poster_path": "/e4lJG7QFfTTBMYovs0fWd3i4LLv.jpg",
+        "first_air_date": "2000-11-23",
+        "softcore": false,
+        "name": "Close and True",
+        "vote_average": 8.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5gS8wSehHMBdAIErIj2nP6Hdg6M.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 93152,
+        "origin_country": [
+          "HK"
+        ],
+        "original_language": "cn",
+        "original_name": "廉政行動2019",
+        "overview": "",
+        "popularity": 2.5022,
+        "poster_path": "/2b2ccndz6XwWhG6kpI5IZYpWGIN.jpg",
+        "first_air_date": "2019-03-23",
+        "softcore": false,
+        "name": "廉政行動2019",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 93168,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "A Confession",
+        "overview": "",
+        "popularity": 4.4283,
+        "poster_path": "/6c6q8m5PCiXv3TlxmM0vIcLylb0.jpg",
+        "first_air_date": "2019-09-02",
+        "softcore": false,
+        "name": "A Confession",
+        "vote_average": 7.062,
+        "vote_count": 89
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3J5rPQtETWuEyY9BPr2Lt7FGg7x.jpg",
+        "genre_ids": [
+          10759,
+          10762,
+          18,
+          10765,
+          9648
+        ],
+        "id": 239741,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "仮面ライダークウガ",
+        "overview": "",
+        "popularity": 92.6644,
+        "poster_path": "/iMG3gbf2WUOFKKLdB5c4YX5YWu3.jpg",
+        "first_air_date": "2000-01-30",
+        "softcore": false,
+        "name": "仮面ライダークウガ",
+        "vote_average": 9,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iTccszzHWk0uV3opwgK40J9Y0hL.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 2072,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Bill",
+        "overview": "",
+        "popularity": 24.2537,
+        "poster_path": "/bMd4T647b9YdkbQvULyndBNV8uL.jpg",
+        "first_air_date": "1984-10-16",
+        "softcore": false,
+        "name": "The Bill",
+        "vote_average": 6.755,
+        "vote_count": 47
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pBbZzT2fZwAn7x11Bg7ycmhmccR.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 2084,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Miss Match",
+        "overview": "",
+        "popularity": 7.4431,
+        "poster_path": "/8T8UwddEe3LrgwxVhkUxmv8jfeE.jpg",
+        "first_air_date": "2003-09-26",
+        "softcore": false,
+        "name": "Miss Match",
+        "vote_average": 6.588,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6K7ufYt6v4Ww2LfPXkVtYE27FGP.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 60796,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Stalker",
+        "overview": "",
+        "popularity": 8.1428,
+        "poster_path": "/pHw8OgL3U7Ys8D8hlbOnlgH7ExM.jpg",
+        "first_air_date": "2014-10-01",
+        "softcore": false,
+        "name": "Stalker",
+        "vote_average": 6.7,
+        "vote_count": 157
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nfbBsEbyOOf9i1KJPhteOlPZr2Y.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 2093,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Matlock",
+        "overview": "",
+        "popularity": 31.2917,
+        "poster_path": "/2eGYyekQjcAXVmcYW1g4keR4plV.jpg",
+        "first_air_date": "1986-03-03",
+        "softcore": false,
+        "name": "Matlock",
+        "vote_average": 7.092,
+        "vote_count": 141
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/58r87j7AtfbUwod8QJrUFqqJWZX.jpg",
+        "genre_ids": [
+          80
+        ],
+        "id": 60809,
+        "origin_country": [
+          "DE",
+          "AT"
+        ],
+        "original_language": "de",
+        "original_name": "Der Bulle von Tölz",
+        "overview": "",
+        "popularity": 9.7381,
+        "poster_path": "/k37ID8JQmksdLXunof9XgfWsTGc.jpg",
+        "first_air_date": "1996-01-14",
+        "softcore": false,
+        "name": "Der Bulle von Tölz",
+        "vote_average": 8.077,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n8ixZMMDxKImmxAp6Rdef56eZ3.jpg",
+        "genre_ids": [
+          10759,
+          80,
+          35,
+          18
+        ],
+        "id": 2142,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Fastlane",
+        "overview": "",
+        "popularity": 8.169,
+        "poster_path": "/4ifuFAUqRrD8AwfQYy3yprqtzgf.jpg",
+        "first_air_date": "2002-09-18",
+        "softcore": false,
+        "name": "Fastlane",
+        "vote_average": 6.467,
+        "vote_count": 30
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80
+        ],
+        "id": 60946,
+        "origin_country": [
+          "DE"
+        ],
+        "original_language": "de",
+        "original_name": "Sperling",
+        "overview": "",
+        "popularity": 2.3801,
+        "poster_path": null,
+        "first_air_date": "1996-03-02",
+        "softcore": false,
+        "name": "Sperling",
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 2898,
+    "total_results": 57955
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 23
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 25
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 60
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/jGLRnvajVBg3QXikgHiI0HdG9Qe.png",
+            "provider_id": 321,
+            "provider_name": "Sky X",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 50
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=AU",
+        "ads": [
+          {
+            "logo_path": "/nhp23IYeFqZm4J2ZseUzSPuZ1UM.png",
+            "provider_id": 246,
+            "provider_name": "7plus",
+            "display_priority": 19
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/1Hzele1xJnA7xfQyWKNQnTnWAio.png",
+            "provider_id": 385,
+            "provider_name": "BINGE",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qRZkZY5kgqXaLr4QFp7ON0wG5rB.png",
+            "provider_id": 134,
+            "provider_name": "Foxtel Now",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 92
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 25
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 56
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=BG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 30
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 19
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 29
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=BR",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 13
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+            "provider_id": 484,
+            "provider_name": "Claro tv+",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 80
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 83
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
+            "provider_id": 230,
+            "provider_name": "Crave",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/f8793PGMyrigh8uPd9BiK2jLV7N.png",
+            "provider_id": 469,
+            "provider_name": "Club Illico",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 109
+          },
+          {
+            "logo_path": "/iyXO5Abg68XdO00nTzXcC1YD7mf.png",
+            "provider_id": 2171,
+            "provider_name": "Citytvplus Amazon Channel",
+            "display_priority": 113
+          },
+          {
+            "logo_path": "/cpTEoKdYe8z2exgnhKfHPXa8oPq.png",
+            "provider_id": 1985,
+            "provider_name": "Citytvplus",
+            "display_priority": 121
+          },
+          {
+            "logo_path": "/6EuODonAziRYWv90wAtEmUjk78R.png",
+            "provider_id": 2604,
+            "provider_name": "Crave Amazon Channel",
+            "display_priority": 137
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 43
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 56
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=CO",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 44
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 23
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 42
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=DE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/2o26YwA7tXQ7I6CSrMvO9Rj4oNi.png",
+            "provider_id": 30,
+            "provider_name": "WOW",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 19
+          },
+          {
+            "logo_path": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png",
+            "provider_id": 2578,
+            "provider_name": "RTL+ Max Amazon Channel",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png",
+            "provider_id": 2412,
+            "provider_name": "Magenta TV+",
+            "display_priority": 191
+          },
+          {
+            "logo_path": "/mIR4wc2DLEIbn9TbtemvoX4zb26.png",
+            "provider_id": 2660,
+            "provider_name": "Wow Fiction Amazon Channel",
+            "display_priority": 216
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=DK",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/hPIVVR7yvR0PrTe7eHR2I5nAFis.png",
+            "provider_id": 1961,
+            "provider_name": "Allente",
+            "display_priority": 38
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=EE",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/MY2vJySdvDiDQrIYUQgxJK1Sen.png",
+            "provider_id": 338,
+            "provider_name": "Ruutu",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 33
+          },
+          {
+            "logo_path": "/gBha9E4jehvgjTrLSm82VW8SxnS.png",
+            "provider_id": 2029,
+            "provider_name": "MTV Katsomo",
+            "display_priority": 39
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=FR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 62
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 85
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=GR",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 37
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 31
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=HU",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 23
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=IE",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+            "provider_id": 2336,
+            "provider_name": "JioHotstar",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 8
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 87
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=JP",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=LT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=LV",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 24
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=MX",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 59
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 70
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 11
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=NO",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+            "provider_id": 578,
+            "provider_name": "Strim",
+            "display_priority": 28
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=NZ",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=PG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 14
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 32
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 7
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 27
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=PT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 44
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 28
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=RO",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 19
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 26
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 8
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 26
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 33
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 47
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 30
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/d67wyFHwK84A0vC7PslzaMqYGif.png",
+            "provider_id": 1826,
+            "provider_name": "TOD TV",
+            "display_priority": 24
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 37
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=US",
+        "free": [
+          {
+            "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+            "provider_id": 486,
+            "provider_name": "Spectrum On Demand",
+            "display_priority": 119
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+            "provider_id": 386,
+            "provider_name": "Peacock Premium",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+            "provider_id": 2383,
+            "provider_name": "Philo",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+            "provider_id": 2528,
+            "provider_name": "YouTube TV",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+            "provider_id": 79,
+            "provider_name": "NBC",
+            "display_priority": 48
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 151
+          },
+          {
+            "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+            "provider_id": 387,
+            "provider_name": "Peacock Premium Plus",
+            "display_priority": 214
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+            "provider_id": 79,
+            "provider_name": "NBC",
+            "display_priority": 48
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "VA": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=VA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/549-law-order/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,686 @@
+{
+  "adult": false,
+  "backdrop_path": "/pptMFFYI3Rs15I8HovmJTrnTM8L.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "2003-04-28",
+  "genres": [],
+  "homepage": "http://g4tv.com/xplay",
+  "id": 4304,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2013-01-23",
+  "last_episode_to_air": {
+    "id": 6949318,
+    "name": "الحلقة 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2013-01-23",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 2013,
+    "show_id": 4304,
+    "still_path": "/qa6ajRpczwNly6ZRNjSS0sdrEyU.jpg"
+  },
+  "name": "Xplay",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2101,
+      "logo_path": "/pNE1La0x9MZJAFe8Z2QTEMG1wmq.png",
+      "name": "TechTV",
+      "origin_country": "US"
+    },
+    {
+      "id": 2102,
+      "logo_path": "/fmHYPuOlLRah8sp7ZYUNg2LqsMF.png",
+      "name": "G4TechTV",
+      "origin_country": "US"
+    },
+    {
+      "id": 231,
+      "logo_path": "/apAZlt5T2uvebXaEN4f5Zw4C1pK.png",
+      "name": "G4",
+      "origin_country": "CA"
+    },
+    {
+      "id": 164,
+      "logo_path": "/apAZlt5T2uvebXaEN4f5Zw4C1pK.png",
+      "name": "G4",
+      "origin_country": "US"
+    },
+    {
+      "id": 834,
+      "logo_path": "/46lTha6b37IjPBYl0Fp2lSSuDP2.png",
+      "name": "ZDTV",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 638,
+  "number_of_seasons": 10,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Xplay",
+  "overview": "",
+  "popularity": 139.7696,
+  "poster_path": "/7ynD7g4U9hOODu1Jzf6VN4zQc6a.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "seasons": [
+    {
+      "air_date": "2011-07-21",
+      "episode_count": 5,
+      "id": 12697,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-04-28",
+      "episode_count": 88,
+      "id": 12693,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-12",
+      "episode_count": 122,
+      "id": 12694,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-04",
+      "episode_count": 135,
+      "id": 12692,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-03",
+      "episode_count": 133,
+      "id": 12695,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 111,
+      "id": 12696,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-29",
+      "episode_count": 15,
+      "id": 12699,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-05-15",
+      "episode_count": 5,
+      "id": 450545,
+      "name": "الموسم 1999",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1999,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-07-13",
+      "episode_count": 21,
+      "id": 12698,
+      "name": "الموسم 2011",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2011,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 7,
+      "id": 12700,
+      "name": "الموسم 2012",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2012,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-23",
+      "episode_count": 1,
+      "id": 78572,
+      "name": "الموسم 2013",
+      "overview": "",
+      "poster_path": "/u4UHQjAyNR12qB6bjaBfSbMfxOj.jpg",
+      "season_number": 2013,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 4,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/msgQvKwgtgqSkQ5upqVljFPfkpg.jpg",
+        "id": 130077,
+        "name": "Chicago Party Aunt",
+        "original_name": "Chicago Party Aunt",
+        "overview": "Chicago Party Aunt Diane is an idolized troublemaker with a talent for avoiding adulthood — and a soft spot for her soul-searching nephew.",
+        "poster_path": "/2iGvVnhvIpzyPLqK18LvgQ3PgPk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 14.0896,
+        "first_air_date": "2021-09-17",
+        "softcore": false,
+        "vote_average": 6.069,
+        "vote_count": 80,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5FHVsxPLn1t8w9NEhcucuwSC3yp.jpg",
+        "id": 6000,
+        "name": "Celebrity Juice",
+        "original_name": "Celebrity Juice",
+        "overview": "The outrageous comedy panel show hosted by the irrepressible Keith Lemon. Each episode sees top celebrities going head to head in a series of hilarious rounds unlike any other panel show.",
+        "poster_path": "/5wnYgf4qu8gXmPP9KherAbt2iTD.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 24.6663,
+        "first_air_date": "2008-09-24",
+        "softcore": false,
+        "vote_average": 6.7,
+        "vote_count": 29,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/acJDjIEdm66k2oKsr0xbOPvn0wH.jpg",
+        "id": 2225,
+        "name": "Who Wants to Be a Millionaire?",
+        "original_name": "Who Wants to Be a Millionaire?",
+        "overview": "American version of the tense gameshow where contestants tackle a series of multiple-choice questions to win large cash prizes.",
+        "poster_path": "/oZ7fBwLRgKYyJcliFOfp03xv6Mk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 50.7786,
+        "first_air_date": "1999-08-16",
+        "softcore": false,
+        "vote_average": 6.31,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ahBt2NR6C3GZQYhhAptOAjnVno8.jpg",
+        "id": 1795,
+        "name": "Jackass",
+        "original_name": "Jackass",
+        "overview": "Join sadomasochistic superheroes Johnny Knoxville, Bam Margera, and the rest of the Jackass crew as they terrorize your TV screens and everyone that gets in their way (especially themselves) with their own sick and twisted interpretation of physical entertainment.  Their brand of pranks, goofball antics, and unabashed brutal comedy are sure to bring new meaning to the phrase \"Don't Try This At Home!\"",
+        "poster_path": "/qfvWWe29efaM501aPu8GcNEYP3V.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 17.2878,
+        "first_air_date": "2000-04-12",
+        "softcore": false,
+        "vote_average": 6.702,
+        "vote_count": 307,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zhLrML5jLVIlln5QFZdYHgtmFXr.jpg",
+        "id": 1790,
+        "name": "Family Feud",
+        "original_name": "Family Feud",
+        "overview": "Two families compete against each other in a contest to name the most popular responses to a survey question posed to 100 people.",
+        "poster_path": "/2eY3KyYvvjg2jn2ifTGkwdipCAC.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10764
+        ],
+        "popularity": 39.709,
+        "first_air_date": "1999-09-20",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 44,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bCxDv8mq7m1iMJjjODdxnWiTJwM.jpg",
+        "id": 82094,
+        "name": "Whiskey Cavalier",
+        "original_name": "Whiskey Cavalier",
+        "overview": "Following an emotional breakup, tough but tender FBI super-agent Will Chase (codename: “Whiskey Cavalier”) is assigned to work with badass CIA operative Frankie Trowbridge (codename: “Fiery Tribune”). Together, they lead an inter-agency team of flawed, funny and heroic spies who periodically save the world (and each other) while navigating the rocky roads of friendship, romance and office politics.",
+        "poster_path": "/vDw6JCPcMbGYaeMWz1AEcwdlGaA.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          80
+        ],
+        "popularity": 17.0419,
+        "first_air_date": "2019-02-27",
+        "softcore": false,
+        "vote_average": 6.885,
+        "vote_count": 187,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kgEFD11dQdi8tCUgdNX1Ul02LlW.jpg",
+        "id": 107124,
+        "name": "Animaniacs",
+        "original_name": "Animaniacs",
+        "overview": "يعود ياكو وواكو ودوت في مغامرات جديدة مليئة بالضحك، وفي بعض الأحيان، يوجهون انتقادات لاذعة لشخصيات ذات سلطة تحتاج إلى إعادة تقييم لغرورها. وينضم إلى عائلة وارنر كل من ستاربوكس وسيندي في أحدث لقاءاتهم، بينما تقود أفكار بينكي وبرين للسيطرة على العالم إلى مغامرات جديدة كلياً",
+        "poster_path": "/wmPZzLov9OhiknK4jW4qE6mgvHf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 24.5639,
+        "first_air_date": "2020-11-20",
+        "softcore": false,
+        "vote_average": 8.428,
+        "vote_count": 601,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mftiCiSsw4DFdlbfjN3cpkmMe0c.jpg",
+        "id": 243875,
+        "name": "جورجي وماندي: الزواج الأول",
+        "original_name": "Georgie & Mandy's First Marriage",
+        "overview": "يروي المسلسل الكوميدي قصة جورجي وماندي، شابين يواجهان تحديات الزواج المبكر وتربية طفلهما الأول. وسط مواقف طريفة ومؤثرة، يستكشف العمل موضوعات الأسرة، الحب، والنمو الشخصي بأسلوب مرح ودافئ.",
+        "poster_path": "/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 40.0572,
+        "first_air_date": "2024-10-17",
+        "softcore": false,
+        "vote_average": 8.014,
+        "vote_count": 243,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3gTIwbdGPE5d448o0dqOtYeDXBx.jpg",
+        "id": 539,
+        "name": "Squidbillies",
+        "original_name": "Squidbillies",
+        "overview": "Squidbillies is an animated television series about the Cuylers, an impoverished family of anthropomorphic hillbilly mud squids living in the Appalachian region of Georgia's mountains. The show is produced by Williams Street Studios for the Adult Swim programming block of Cartoon Network and premiered on October 16, 2005. It is written by Dave Willis, co-creator of Aqua Teen Hunger Force, and Jim Fortier, previously of The Brak Show, both of whom worked on the Adult Swim series Space Ghost Coast to Coast. The animation is done by Awesome Incorporated, with background design by Ben Prisk.",
+        "poster_path": "/ffXx3qq4eopQMof6M26tZ2yiiT3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "popularity": 20.4759,
+        "first_air_date": "2005-10-16",
+        "softcore": false,
+        "vote_average": 6.919,
+        "vote_count": 86,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8HPHGHm6kahoxu4rnNfmzmmaEpJ.jpg",
+        "id": 88028,
+        "name": "Dead Pixels",
+        "original_name": "Dead Pixels",
+        "overview": "Meg, Nicky and Usman's lives all revolve around their obsession for the massively popular fantasy game Kingdom Scrolls, a mystical, magical and most importantly virtual world of wizards and wyverns. But when gaming n00b Russell bumbles into their team, the group find themselves increasingly forced to deal with the real world.",
+        "poster_path": "/g5oLCCg8g0hmfFuOtiwEQ9SDiDY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.4964,
+        "first_air_date": "2019-03-28",
+        "softcore": false,
+        "vote_average": 6.671,
+        "vote_count": 79,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ikS12cRIPV1ZDVmCVKMNfMmow9Y.jpg",
+        "id": 1554,
+        "name": "QI",
+        "original_name": "QI",
+        "overview": "Comedy quiz show full of quirky facts, in which contestants are rewarded more if their answers are 'quite interesting'.",
+        "poster_path": "/9zWVsauqP7GM9E1N9WDYVf9CWe3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 45.8773,
+        "first_air_date": "2003-09-11",
+        "softcore": false,
+        "vote_average": 7.931,
+        "vote_count": 288,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4i5ALQiqsTQ2S28B0uZSvk6cV1E.jpg",
+        "id": 3288,
+        "name": "The Weekenders",
+        "original_name": "The Weekenders",
+        "overview": "Four friends, Tino, Carver, Lor, and Tish, spend each weekend discovering and creating new levels of fun, while negotiating the obligatory obstacles of adolescence.",
+        "poster_path": "/aqpaC32hWrf9jdPkLiS3u73OcyZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 11.992,
+        "first_air_date": "2000-02-26",
+        "softcore": false,
+        "vote_average": 8.182,
+        "vote_count": 33,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pGboRatIaBUkdAp5sKr4ZQfgGaB.jpg",
+        "id": 4417,
+        "name": "Da Ali G Show",
+        "original_name": "Da Ali G Show",
+        "overview": "Da Ali G Show is a British satirical television series created by and starring English comedian Sacha Baron Cohen. In the series, Baron Cohen plays three unorthodox journalists: faux-streetwise poseur Ali G, Kazakh reporter Borat Sagdiyev, and gay Austrian fashion enthusiast Brüno Gehard. These characters conduct real interviews with unsuspecting people, many of whom are celebrities, high-ranking government officials, and other well-known figures, during which they are asked absurd and ridiculous questions.",
+        "poster_path": "/aCWE7bwyqjSrwjPd3HeyrrpJNlQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 9.1087,
+        "first_air_date": "2000-03-30",
+        "softcore": false,
+        "vote_average": 6.961,
+        "vote_count": 165,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u5jhkXclqQEJMdZiy3dcnNl6P14.jpg",
+        "id": 2564,
+        "name": "Ant & Dec's Saturday Night Takeaway",
+        "original_name": "Ant & Dec's Saturday Night Takeaway",
+        "overview": "A gameshow hosted by Ant and Dec filled with stunts, sketches, and special guest appearances.",
+        "poster_path": "/fNLx9eH8EwyA92K6h2Bjvm0N1cN.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751,
+          10764
+        ],
+        "popularity": 12.6131,
+        "first_air_date": "2002-06-08",
+        "softcore": false,
+        "vote_average": 6.085,
+        "vote_count": 41,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wn4JtSxtYzLiYu5PoKggz8KvRDZ.jpg",
+        "id": 43323,
+        "name": "Comedy Bang! Bang!",
+        "original_name": "Comedy Bang! Bang!",
+        "overview": "Based on Scott Aukerman’s popular podcast of the same name, COMEDY BANG! BANG! cleverly riffs on the well-known format of the late night talk show, infusing celebrity appearances and comedy sketches with a tinge of the surreal. In each episode, Aukerman engages his guests with unfiltered and improvisational lines of questioning, punctuated by banter and beats provided by bandleader, one-man musical mastermind Reggie Watts, to reinvent the traditional celebrity interview. Packed with character cameos, filmic shorts, sketches and games set amongst an off-beat world, COMEDY BANG! BANG! delivers thirty minutes of absurd laugh-loaded fun featuring some of the biggest names in comedy.",
+        "poster_path": "/5undCFoglpvKYFmu404ve9mh6on.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 17.9054,
+        "first_air_date": "2012-06-08",
+        "softcore": false,
+        "vote_average": 6.349,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pb1LLQKETjejzCrlCvrXuI3bEty.jpg",
+        "id": 33428,
+        "name": "MAD",
+        "original_name": "MAD",
+        "overview": "Mad is an American animated sketch comedy series created by Kevin Shinick and produced by Warner Bros. Animation. Based upon the magazine of the same name, each episode is a collection of short animated parodies of television shows, movies, games, celebrities, and other media using various types of animation instead of the usual animation style that Warner Bros. Animation is known for. The series premiered on the evening of September 6, 2010 on Cartoon Network. It has been described as a \"kid-friendly version of Robot Chicken\".",
+        "poster_path": "/lpMdJzQUD0gXafoFo5L92DNg9QU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "popularity": 10.8914,
+        "first_air_date": "2010-09-06",
+        "softcore": false,
+        "vote_average": 7.963,
+        "vote_count": 258,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9zCZvrbl9dSZOyiiUr0bCCgtHl3.jpg",
+        "id": 1647,
+        "name": "Go, Diego, Go!",
+        "original_name": "Go, Diego, Go!",
+        "overview": "Go, Diego, Go! is a children's television series created by Chris Gifferd and Valerie Walsh, and is a spin-off of Dora the Explorer. The show premiered on September 6, 2005 and ended on September 16, 2011 on Nickelodeon. It also aired as part of the Nick Jr. on CBS block from September 17, 2005 to September 9, 2006. On December 20, 2006, Nick Jr. announced that it had ordered twenty new episodes that were in production. Since April 2008, the show has been dubbed into Spanish and airs in the United States on Univision as part of their Planeta U block.",
+        "poster_path": "/p7Y6IPzPRkZ4oHU0D8DOIIis70a.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10759
+        ],
+        "popularity": 11.32,
+        "first_air_date": "2005-09-06",
+        "softcore": false,
+        "vote_average": 6.167,
+        "vote_count": 69,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8oUqw0UIW5xdswNBsyhQrJx2ORm.jpg",
+        "id": 1847,
+        "name": "Never Mind the Buzzcocks",
+        "original_name": "Never Mind the Buzzcocks",
+        "overview": "Never Mind the Buzzcocks is a comedy panel game show with a pop and rock music theme. The show is infamous for its dry, sarcastic humour and scathing, provocative attacks on the pop industry.",
+        "poster_path": "/ez0fX5nA68BJWL8jfP6dYr5WrcL.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 28.2344,
+        "first_air_date": "1996-11-12",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 64,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e1UMtpKhOJSz7QCbR6bmM39Fziv.jpg",
+        "id": 5307,
+        "name": "The Ed Sullivan Show",
+        "original_name": "The Ed Sullivan Show",
+        "overview": "The Ed Sullivan Show is an American TV variety show that originally ran on CBS from Sunday June 20, 1948 to Sunday June 6, 1971, and was hosted by New York entertainment columnist Ed Sullivan. It was replaced in September 1971 by the CBS Sunday Night Movie, which ran only one season and was eventually replaced by other shows.\n\nIn 2002, The Ed Sullivan Show was ranked #15 on TV Guide's 50 Greatest TV Shows of All Time.",
+        "poster_path": "/gUEfDXUxwhgXBX7LSk57vJKXCTp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 17.8903,
+        "first_air_date": "1948-06-20",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 23,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vdcuZ7YHLemlTZ5NPfbctumWIg2.jpg",
+        "id": 9980,
+        "name": "وودي نقار الخشب",
+        "original_name": "The New Woody Woodpecker Show",
+        "overview": "وودي نقار الخشب أو وودي وود بيكر هو شخصية رسوم متحركة ويتمثل في طائر نقار الخشب يتميز بذكاءه وبضحكته الرنانة، تم إنتاجه في عام 1940، وقام بابتكار الشخصية والتر لانتز وبين هارداواي وأليكس لوفي وتم توزيعها من قبل إستوديوهات يونيفيرسال.",
+        "poster_path": "/oizXc3SnlSWDqPMmfe4koUj4RRo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 23.8634,
+        "first_air_date": "1999-05-08",
+        "softcore": false,
+        "vote_average": 6.711,
+        "vote_count": 76,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 52,
+    "total_results": 1025
+  },
+  "watch/providers": {
+    "results": {}
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  }
+}

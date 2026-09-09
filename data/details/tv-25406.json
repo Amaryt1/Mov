@@ -1,0 +1,2123 @@
+{
+  "adult": false,
+  "backdrop_path": "/2mx486cRnUIm8PfV3D2CuVv5Z4L.jpg",
+  "created_by": [
+    {
+      "id": 107395,
+      "credit_id": "5a4543c2aa525f38ad00a55e",
+      "name": "Nick Willing",
+      "original_name": "Nick Willing",
+      "gender": 2,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    120
+  ],
+  "first_air_date": "2000-05-07",
+  "genres": [
+    {
+      "id": 10751,
+      "name": "عائلي"
+    },
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    }
+  ],
+  "homepage": "",
+  "id": 25406,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2000-05-08",
+  "last_episode_to_air": {
+    "id": 656274,
+    "name": "الحلقة 2",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2000-05-08",
+    "episode_number": 2,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 1,
+    "show_id": 25406,
+    "still_path": null
+  },
+  "name": "Jason and the Argonauts",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 2,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US",
+    "TR"
+  ],
+  "original_language": "en",
+  "original_name": "Jason and the Argonauts",
+  "overview": "",
+  "popularity": 118.1966,
+  "poster_path": "/pYXkdXyqnmKFf01Yi6MkbfMczhv.jpg",
+  "production_companies": [
+    {
+      "id": 203,
+      "logo_path": null,
+      "name": "Panfilm",
+      "origin_country": ""
+    },
+    {
+      "id": 4056,
+      "logo_path": "/dnz7zZ2e11usyjPG3mTYvJfyciD.png",
+      "name": "Hallmark Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2188,
+      "logo_path": "/f1zrx8bIsS81AHoPQq4riJx68Lt.png",
+      "name": "Artisan Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-05-07",
+      "episode_count": 2,
+      "id": 35781,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/oGAh1rGFF7WxUAsbLJ3Qo4ITbyw.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Miniseries",
+  "vote_average": 6.494,
+  "vote_count": 77,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8785,
+        "known_for_department": "Acting",
+        "name": "كيران هايندز",
+        "original_name": "Ciarán Hinds",
+        "popularity": 5.6011,
+        "profile_path": "/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg",
+        "character": "King Aeson",
+        "credit_id": "52587bbc760ee34661324824",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52474,
+        "known_for_department": "Acting",
+        "name": "Jason London",
+        "original_name": "Jason London",
+        "popularity": 1.9589,
+        "profile_path": "/bFkC2ZRcurTQzbjBuuMljFCKfEv.jpg",
+        "character": "Jason",
+        "credit_id": "52587bbc760ee34661324834",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2719,
+        "known_for_department": "Acting",
+        "name": "Brian Thompson",
+        "original_name": "Brian Thompson",
+        "popularity": 2.0309,
+        "profile_path": "/qooSjBMA1P85JhBpHlwmmisGroO.jpg",
+        "character": "Hercules",
+        "credit_id": "52587bbc760ee34661324844",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10779,
+        "known_for_department": "Acting",
+        "name": "David Calder",
+        "original_name": "David Calder",
+        "popularity": 1.294,
+        "profile_path": "/7l4WZ0IufRCx3A0AHwRAH7K2Ccz.jpg",
+        "character": "Argos",
+        "credit_id": "52587bbc760ee34661324854",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 68276,
+        "known_for_department": "Acting",
+        "name": "Jolene Blalock",
+        "original_name": "Jolene Blalock",
+        "popularity": 2.0694,
+        "profile_path": "/yiinZvN39DQU0SyfrOadbEXogAi.jpg",
+        "character": "Medea",
+        "credit_id": "52587bbc760ee34661324864",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937,
+        "known_for_department": "Acting",
+        "name": "Derek Jacobi",
+        "original_name": "Derek Jacobi",
+        "popularity": 2.3376,
+        "profile_path": "/yHENzHZSVpnNrqsoATuDSMiQflf.jpg",
+        "character": "Phineas",
+        "credit_id": "5a959ab39251415639004aea",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11616,
+        "known_for_department": "Acting",
+        "name": "Olivia Williams",
+        "original_name": "Olivia Williams",
+        "popularity": 2.4867,
+        "profile_path": "/94bnuQXo3LoxNvcFXeAoVvIIm3N.jpg",
+        "character": "Hera",
+        "credit_id": "5a959ab39251415639004aec",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2778,
+        "known_for_department": "Acting",
+        "name": "دينيس هوبر",
+        "original_name": "Dennis Hopper",
+        "popularity": 2.5042,
+        "profile_path": "/kqyNvLHi5RZGZcZMxl7e6XvoB5U.jpg",
+        "character": "Pelias",
+        "credit_id": "5a959ab39251415639004aee",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8924,
+        "known_for_department": "Acting",
+        "name": "Frank Langella",
+        "original_name": "Frank Langella",
+        "popularity": 2.5316,
+        "profile_path": "/86DEo3sBguyc1l46606yVKD28T4.jpg",
+        "character": "Aertes",
+        "credit_id": "5a959ab39251415639004af0",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 57395,
+        "known_for_department": "Acting",
+        "name": "Natasha Henstridge",
+        "original_name": "Natasha Henstridge",
+        "popularity": 2.9661,
+        "profile_path": "/lfRFm3MLOGPtaDHWTstoQfKAyLM.jpg",
+        "character": "Hypsipyle",
+        "credit_id": "5a959ab39251415639004af2",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2464,
+        "known_for_department": "Acting",
+        "name": "Angus Macfadyen",
+        "original_name": "Angus Macfadyen",
+        "popularity": 1.6508,
+        "profile_path": "/yUuA7U3lw6yM0Eb6mD83qYeevH2.jpg",
+        "character": "Zeus",
+        "credit_id": "5a959ab39251415639004af4",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 41379,
+        "known_for_department": "Acting",
+        "name": "أوميد جليلي",
+        "original_name": "Omid Djalili",
+        "popularity": 1.3276,
+        "profile_path": "/lCgVvAw8EkIKbc93ZtINdwxH1CV.jpg",
+        "character": "Castor",
+        "credit_id": "5a959ab39251415639004af6",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 76215,
+        "known_for_department": "Acting",
+        "name": "Adrian Lester",
+        "original_name": "Adrian Lester",
+        "popularity": 1.5738,
+        "profile_path": "/xyRB9aykTFtI42Ce8xFKZDCsHYd.jpg",
+        "character": "Orpheus",
+        "credit_id": "5a959ab39251415639004af8",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 185460,
+        "known_for_department": "Acting",
+        "name": "مارك جونز",
+        "original_name": "Mark Lewis Jones",
+        "popularity": 1.7008,
+        "profile_path": "/5SAmzx40A0C3VOgzYPlcOmwqdL6.jpg",
+        "character": "Mopsus",
+        "credit_id": "5a959ab39251415639004afa",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9145,
+        "known_for_department": "Acting",
+        "name": "جيمس كاليس",
+        "original_name": "James Callis",
+        "popularity": 2.5607,
+        "profile_path": "/dLmmQU5hA0J6Jxi20aS8kdN6k3o.jpg",
+        "character": "Aspyrtes",
+        "credit_id": "5a959ab39251415639004afc",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1218160,
+        "known_for_department": "Acting",
+        "name": "Olga Sosnovska",
+        "original_name": "Olga Sosnovska",
+        "popularity": 0.8331,
+        "profile_path": "/pUpjvTRWOXRv9QfpFrGuEdkDk1P.jpg",
+        "character": "Atalanta",
+        "credit_id": "5a959ab39251415639004afe",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 176,
+        "known_for_department": "Acting",
+        "name": "Kieran O'Brien",
+        "original_name": "Kieran O'Brien",
+        "popularity": 2.7201,
+        "profile_path": "/wKYN1MvjYIJTYtXVFtlqWK84SMp.jpg",
+        "character": "Actor",
+        "credit_id": "5a959ab39251415639004b00",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1196019,
+        "known_for_department": "Acting",
+        "name": "Andrew Scarborough",
+        "original_name": "Andrew Scarborough",
+        "popularity": 0.9419,
+        "profile_path": "/tSh76DK0qSWh4wBG5ZE5zVCNEz6.jpg",
+        "character": "Aeson's Soldier",
+        "credit_id": "5a959ab49251415639004b02",
+        "order": 17
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7741,
+        "known_for_department": "Sound",
+        "name": "Simon Boswell",
+        "original_name": "Simon Boswell",
+        "popularity": 0.6257,
+        "profile_path": "/1kL5Cm7I1abPh4PBEMFyVoPFsGn.jpg",
+        "credit_id": "6697a91bb68a96154a12d9d5",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1593072,
+        "known_for_department": "Art",
+        "name": "Michael Boone",
+        "original_name": "Michael Boone",
+        "popularity": 0.4284,
+        "profile_path": null,
+        "credit_id": "6697a95bb90ce899ab8e4b22",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1690335,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Yasmin Iqbal",
+        "original_name": "Yasmin Iqbal",
+        "popularity": 0.4001,
+        "profile_path": null,
+        "credit_id": "6697aaa5f67e5ad62466dc12",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37298,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Carlo Poggioli",
+        "original_name": "Carlo Poggioli",
+        "popularity": 0.4732,
+        "profile_path": null,
+        "credit_id": "6697a998df0380c61c12d9be",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1592210,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paul Spateri",
+        "original_name": "Paul Spateri",
+        "popularity": 0.3072,
+        "profile_path": null,
+        "credit_id": "6697aaf8a793460ff1e1e9a9",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34513,
+        "known_for_department": "Art",
+        "name": "John King",
+        "original_name": "John King",
+        "popularity": 0.4472,
+        "profile_path": null,
+        "credit_id": "6697a986fc7562ca3066dc0a",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8412,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Paul Gooch",
+        "original_name": "Paul Gooch",
+        "popularity": 0.4116,
+        "profile_path": null,
+        "credit_id": "6697aa91e11c11d1707c8fb2",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 69766,
+        "known_for_department": "Crew",
+        "name": "Apollonios Rhodios",
+        "original_name": "Apollonios Rhodios",
+        "popularity": 0.6592,
+        "profile_path": "/rZOWfdc9cZHF6WZpGwSgwiJKrd.jpg",
+        "credit_id": "6697a8d693d3a6a995e1e9c0",
+        "department": "Writing",
+        "job": "Original Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1322138,
+        "known_for_department": "Art",
+        "name": "Gary Freeman",
+        "original_name": "Gary Freeman",
+        "popularity": 0.5316,
+        "profile_path": null,
+        "credit_id": "6697a97bd42e9100f6c9671c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1409729,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anne Spiers",
+        "original_name": "Anne Spiers",
+        "popularity": 0.5009,
+        "profile_path": null,
+        "credit_id": "6697ab0386a24fe71912d9b4",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64876,
+        "known_for_department": "Editing",
+        "name": "Sean Barton",
+        "original_name": "Sean Barton",
+        "popularity": 0.4861,
+        "profile_path": null,
+        "credit_id": "6697a92c53fe32647048c7c6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11458,
+        "known_for_department": "Production",
+        "name": "Joyce Gallie",
+        "original_name": "Joyce Gallie",
+        "popularity": 0.4458,
+        "profile_path": null,
+        "credit_id": "6697a94437e4c73a048a062f",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4834391,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Brian Best",
+        "original_name": "Brian Best",
+        "popularity": 0.3279,
+        "profile_path": null,
+        "credit_id": "6697a9e55ca6ed4b9aa9fd89",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5335,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Elizabeth Yianni-Georgiou",
+        "original_name": "Elizabeth Yianni-Georgiou",
+        "popularity": 0.5945,
+        "profile_path": null,
+        "credit_id": "6697ab1cd7f1a224c012d9a4",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68607,
+        "known_for_department": "Production",
+        "name": "Robert Halmi Sr.",
+        "original_name": "Robert Halmi Sr.",
+        "popularity": 0.6281,
+        "profile_path": null,
+        "credit_id": "6697a8ec1991576f5048c869",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141175,
+        "known_for_department": "Camera",
+        "name": "Сергей Козлов",
+        "original_name": "Сергей Козлов",
+        "popularity": 0.9451,
+        "profile_path": "/48rKMUpTIo3emi0eUVyAWDzRsgk.jpg",
+        "credit_id": "6697a92427701b3327aaeb5c",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 44048,
+        "known_for_department": "Production",
+        "name": "Julie Selzer",
+        "original_name": "Julie Selzer",
+        "popularity": 0.4981,
+        "profile_path": null,
+        "credit_id": "6697a94c852a7d48dde1e97d",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1466997,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Duncan Jarman",
+        "original_name": "Duncan Jarman",
+        "popularity": 0.7565,
+        "profile_path": "/wGQQ76UZtrDCeP42cHXhbBYpnkq.jpg",
+        "credit_id": "6697aaaf86a24fe71912d9af",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1537725,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nicky Knowles",
+        "original_name": "Nicky Knowles",
+        "popularity": 0.3721,
+        "profile_path": null,
+        "credit_id": "6697aab87fc9eb4fa266dc4b",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1184968,
+        "known_for_department": "Directing",
+        "name": "Tamana Bleasdale",
+        "original_name": "Tamana Bleasdale",
+        "popularity": 0.2882,
+        "profile_path": null,
+        "credit_id": "6697ab30d0b925c02c7c8fbf",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67588,
+        "known_for_department": "Production",
+        "name": "Chris Thompson",
+        "original_name": "Chris Thompson",
+        "popularity": 0.805,
+        "profile_path": "/gTLHuV9D5L0ZYUEp6jpdU6buo67.jpg",
+        "credit_id": "6697a912cef480a15b98d0f2",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 75800,
+        "known_for_department": "Art",
+        "name": "Karen Brookes",
+        "original_name": "Karen Brookes",
+        "popularity": 0.3141,
+        "profile_path": null,
+        "credit_id": "6697a990d6f0c56c4266dbea",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 32353,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Maria Teresa Corridoni",
+        "original_name": "Maria Teresa Corridoni",
+        "popularity": 0.4366,
+        "profile_path": null,
+        "credit_id": "6697aa28144b0ff8ac7a846b",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1554020,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Simon Rose",
+        "original_name": "Simon Rose",
+        "popularity": 0.3606,
+        "profile_path": null,
+        "credit_id": "6697aad8d34845f01398d0fa",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetics Sculptor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 75798,
+        "known_for_department": "Art",
+        "name": "Roger Hall",
+        "original_name": "Roger Hall",
+        "popularity": 0.4072,
+        "profile_path": null,
+        "credit_id": "6697a954840ddf43880ced61",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69986,
+        "known_for_department": "Production",
+        "name": "Robert Halmi Jr.",
+        "original_name": "Robert Halmi Jr.",
+        "popularity": 0.4649,
+        "profile_path": null,
+        "credit_id": "6697a8fd1991576f5048c871",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10497,
+        "known_for_department": "Art",
+        "name": "John Fenner",
+        "original_name": "John Fenner",
+        "popularity": 0.4215,
+        "profile_path": null,
+        "credit_id": "6697a972144b0ff8ac7a8468",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 24661,
+        "known_for_department": "Production",
+        "name": "Dyson Lovell",
+        "original_name": "Dyson Lovell",
+        "popularity": 0.7541,
+        "profile_path": "/nQl8p1VUwLa0mVS9mhUekszLrGn.jpg",
+        "credit_id": "6697a90628d24f15540cee15",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 960203,
+        "known_for_department": "Production",
+        "name": "Lauris Freeman",
+        "original_name": "Lauris Freeman",
+        "popularity": 0.2635,
+        "profile_path": null,
+        "credit_id": "6697a939d34845f01398d0ed",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1658273,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Stefano Ceccarelli",
+        "original_name": "Stefano Ceccarelli",
+        "popularity": 0.4233,
+        "profile_path": null,
+        "credit_id": "6697a9ed2a1faa89297f0bfb",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4086311,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Desiree Corridoni",
+        "original_name": "Desiree Corridoni",
+        "popularity": 0.3229,
+        "profile_path": null,
+        "credit_id": "6697aa12ee6210146a6818e9",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23457,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barrie Gower",
+        "original_name": "Barrie Gower",
+        "popularity": 0.7962,
+        "profile_path": "/w4aurjKq2sIGPHZSpjLDp6BIHV2.jpg",
+        "credit_id": "6697aa9b2ebfab70e68a0425",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10677,
+        "known_for_department": "Art",
+        "name": "Dennis Bosher",
+        "original_name": "Dennis Bosher",
+        "popularity": 0.3845,
+        "profile_path": null,
+        "credit_id": "6697a9684ce2c7b089887249",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2629586,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mario Pegoretti",
+        "original_name": "Mario Pegoretti",
+        "popularity": 0.2971,
+        "profile_path": null,
+        "credit_id": "6697aac2b68a96154a12d9da",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1559285,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Barry Richardson",
+        "original_name": "Barry Richardson",
+        "popularity": 0.4011,
+        "profile_path": null,
+        "credit_id": "6697aaca4c7d0ea500a9fbf0",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1416949,
+        "known_for_department": "Sound",
+        "name": "Blair Jollands",
+        "original_name": "Blair Jollands",
+        "popularity": 0.3442,
+        "profile_path": null,
+        "credit_id": "6697f10e53ab320442c11950",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1402931,
+        "known_for_department": "Visual Effects",
+        "name": "David Booth",
+        "original_name": "David Booth",
+        "popularity": 0.364,
+        "profile_path": null,
+        "credit_id": "6697f14d2a1faa89297f0def",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1850568,
+        "known_for_department": "Sound",
+        "name": "Alan Sallabank",
+        "original_name": "Alan Sallabank",
+        "popularity": 0.3532,
+        "profile_path": null,
+        "credit_id": "6697f118b2388efb1fd7fcd5",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9159,
+        "known_for_department": "Sound",
+        "name": "David Crozier",
+        "original_name": "David Crozier",
+        "popularity": 0.62,
+        "profile_path": null,
+        "credit_id": "6697f0d85cebb9d2257f110d",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7050,
+        "known_for_department": "Visual Effects",
+        "name": "Richard Conway",
+        "original_name": "Richard Conway",
+        "popularity": 0.4307,
+        "profile_path": null,
+        "credit_id": "6697f134a25751c06aaaed30",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1724987,
+        "known_for_department": "Directing",
+        "name": "Toby Hefferman",
+        "original_name": "Toby Hefferman",
+        "popularity": 0.5232,
+        "profile_path": "/ucqGTZSeoPURbyKN4SmBpp2MExm.jpg",
+        "credit_id": "6697f0afa509f8abbb9842b9",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1427843,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Mark Coulier",
+        "original_name": "Mark Coulier",
+        "popularity": 0.8417,
+        "profile_path": "/hYHZ71AEAZV5v24Qm0ixOSlKON9.jpg",
+        "credit_id": "6697aa7269f304989c8e4b3e",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107771,
+        "known_for_department": "Directing",
+        "name": "Carlos Fidel",
+        "original_name": "Carlos Fidel",
+        "popularity": 0.4136,
+        "profile_path": null,
+        "credit_id": "6697ab3be7f27845e98e4b39",
+        "department": "Directing",
+        "job": "Third Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1477568,
+        "known_for_department": "Directing",
+        "name": "Gareth Tandy",
+        "original_name": "Gareth Tandy",
+        "popularity": 0.4969,
+        "profile_path": null,
+        "credit_id": "6697ef755cebb9d2257f1100",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2020523,
+        "known_for_department": "Directing",
+        "name": "Trevor Puckle",
+        "original_name": "Trevor Puckle",
+        "popularity": 0.3637,
+        "profile_path": null,
+        "credit_id": "6697f086132a287e397c9177",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2574463,
+        "known_for_department": "Directing",
+        "name": "Janine Law",
+        "original_name": "Janine Law",
+        "popularity": 0.318,
+        "profile_path": null,
+        "credit_id": "6697f08f819e3e78f6c968c3",
+        "department": "Directing",
+        "job": "Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367557,
+        "known_for_department": "Sound",
+        "name": "Stephen Griffiths",
+        "original_name": "Stephen Griffiths",
+        "popularity": 0.519,
+        "profile_path": null,
+        "credit_id": "6697f0fc2a1faa89297f0de9",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1173687,
+        "known_for_department": "Crew",
+        "name": "Jordi Casares",
+        "original_name": "Jordi Casares",
+        "popularity": 0.3805,
+        "profile_path": null,
+        "credit_id": "6697f169c9c5dc36089842ff",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1830744,
+        "known_for_department": "Directing",
+        "name": "Ken Shane",
+        "original_name": "Ken Shane",
+        "popularity": 0.4932,
+        "profile_path": null,
+        "credit_id": "6697ef80554875ff1e681abe",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 230694,
+        "known_for_department": "Sound",
+        "name": "Kevin Brazier",
+        "original_name": "Kevin Brazier",
+        "popularity": 0.3829,
+        "profile_path": null,
+        "credit_id": "6697f0cb960a01579ec968ee",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1540860,
+        "known_for_department": "Sound",
+        "name": "Dave Humphries",
+        "original_name": "Dave Humphries",
+        "popularity": 0.3782,
+        "profile_path": null,
+        "credit_id": "6697f105132a287e397c917b",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 107395,
+        "known_for_department": "Directing",
+        "name": "Nick Willing",
+        "original_name": "Nick Willing",
+        "popularity": 0.7521,
+        "profile_path": null,
+        "credit_id": "66bfae3bf907c922259a0ec8",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1330900,
+        "known_for_department": "Art",
+        "name": "Peter James",
+        "original_name": "Peter James",
+        "popularity": 0.4638,
+        "profile_path": null,
+        "credit_id": "68cc535fe01fd00806cf479c",
+        "department": "Art",
+        "job": "Assistant Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1388897,
+        "known_for_department": "Camera",
+        "name": "Julian Morson",
+        "original_name": "Julian Morson",
+        "popularity": 0.6494,
+        "profile_path": null,
+        "credit_id": "68da977010894b7db1b418fb",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1635006,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Chris Lyons",
+        "original_name": "Chris Lyons",
+        "popularity": 0.8534,
+        "profile_path": null,
+        "credit_id": "69ae6420feb859925c794766",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/wVRd4VjrkJ4WObvfjqUZhlmN3gT.jpg",
+        "id": 9687,
+        "name": "The Odyssey",
+        "original_name": "The Odyssey",
+        "overview": "Warrior Odysseus leaves his idyllic life in the kingdom of Ithaca to fight in the Trojan War. Following victory, he now must endure a lengthy, decade-long return journey, and with all his wits, overcome deadly monsters, powerful forces of nature, seductive enchantresses, and even journey into the bowels of the Underworld.",
+        "poster_path": "/wCiQ7XySqnz9X1REtDNZRGLfhpe.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 16.8084,
+        "first_air_date": "1997-05-18",
+        "softcore": false,
+        "vote_average": 7.3,
+        "vote_count": 884,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sAxx25ijwYQ8xsT56wu2IzvIRss.jpg",
+        "id": 103540,
+        "name": "بيرسي جاكسون والأولمبيون",
+        "original_name": "Percy Jackson and the Olympians",
+        "overview": "يبحر \"بيرسي جاكسون\" إلى \"بحر الوحوش\" لإغاثة صديقه \"غروفر\" وإنقاذ المعسكر.",
+        "poster_path": "/zzHtYFCs6E63BLG4r9UKLW00ek5.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18,
+          10751
+        ],
+        "popularity": 37.7954,
+        "first_air_date": "2023-12-19",
+        "softcore": false,
+        "vote_average": 7.255,
+        "vote_count": 830,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nMdyDnHiRpJ2sfqk3JfUb3CvME4.jpg",
+        "id": 47054,
+        "name": "Atlantis",
+        "original_name": "Atlantis",
+        "overview": "A fantasy drama set in a world of legendary heroes and mythical creatures. Far from home and desperate for answers, Jason washes up on the shores of an ancient land. A mysterious place; a world of bull leaping, of snake haired goddesses and of palaces so vast it was said they were built by giants - this is the city of Atlantis. Aided by his two new friends, Pythagoras and Hercules, Jason embarks on a voyage of discovery, and salvation, which sees him brush shoulders with Medusa, come face to face with the Minotaur and even do battle with the dead.",
+        "poster_path": "/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 10.5321,
+        "first_air_date": "2013-09-28",
+        "softcore": false,
+        "vote_average": 6.439,
+        "vote_count": 155,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y9orKNpxmAhdeDdryKinPYmTVZO.jpg",
+        "id": 234721,
+        "name": "أسياد الكون: الثورة",
+        "original_name": "Masters of the Universe: Revolution",
+        "overview": "It's technology versus magic as He-Man and friends fight back against the shadowy forces of Skeletor in an epic battle for the heart of Eternia.",
+        "poster_path": "/m3ru6JG7qQ8nZQiZeviYZWPjsl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 7.6925,
+        "first_air_date": "2024-01-25",
+        "softcore": false,
+        "vote_average": 7.783,
+        "vote_count": 99,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y6EakvqM6pdBX900TzQPkn4v5yF.jpg",
+        "id": 71365,
+        "name": "Battlestar Galactica",
+        "original_name": "Battlestar Galactica",
+        "overview": "إعادة تصور للسلسلة الأصلية حيث يقوم \"أسطول هارب ممزق\" من آخر بقايا البشرية بالفرار من الروبوتات المطاردة بينما يبحثون في الوقت نفسه عن موطنهم الحقيقي، الأرض",
+        "poster_path": "/imTQ4nBdA68TVpLaWhhQJnb7NQh.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 10.2503,
+        "first_air_date": "2003-12-08",
+        "softcore": false,
+        "vote_average": 8.205,
+        "vote_count": 1011,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fciU7RVyfcdsTeksTnBXGPmkKg2.jpg",
+        "id": 202879,
+        "name": "حرب النجوم: طاقم الهيكل العظمي",
+        "original_name": "Star Wars: Skeleton Crew",
+        "overview": "أربعة أطفال عاديين يبحثون عن كوكبهم الأم بعد أن ضاعوا في مجرة حرب النجوم.",
+        "poster_path": "/hXxrE68N9d7T0vMbtINRl4XRWhO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          10751
+        ],
+        "popularity": 10.635,
+        "first_air_date": "2024-12-02",
+        "softcore": false,
+        "vote_average": 6.798,
+        "vote_count": 481,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o2wg8QiSCQrhj91tBfxunE3O5Ba.jpg",
+        "id": 84773,
+        "name": "سيد الخواتم: خواتم السلطة",
+        "original_name": "The Lord of the Rings: The Rings of Power",
+        "overview": "بدءا من وقت السلم النسبي ، نتابع مجموعة من الشخصيات وهم يواجهون عودة ظهور الشر إلى الأرض الوسطى. من أحلك أعماق الجبال الضبابية ، إلى غابات ليندون المهيبة ، إلى مملكة جزيرة نومينور الخلابة ، إلى أبعد مدى من الخريطة ، ستقوم هذه الممالك والشخصيات بنحت الموروثات التي تعيش لفترة طويلة بعد رحيلها.",
+        "poster_path": "/pnU4uHWrj6lbChWdr1xFWaLSXrZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 77.7821,
+        "first_air_date": "2022-09-01",
+        "softcore": false,
+        "vote_average": 7.217,
+        "vote_count": 3900,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/93SxdkiR3gBcbG5FxIt0DCBttul.jpg",
+        "id": 111837,
+        "name": "Willow",
+        "original_name": "Willow",
+        "overview": "ينطلق فريقا من الأبطال بعيدًا عن الديار في مهمة محفوفة بالمخاطر، ويصبح عليهم مواجهة أنفسهم أولًا قبل إنقاذ العالم.",
+        "poster_path": "/lw4n5CBlLR62nogy46FyJaIFziH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 7.3496,
+        "first_air_date": "2022-11-30",
+        "softcore": false,
+        "vote_average": 6.59,
+        "vote_count": 458,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iWSJuCEyNX6rnd8fCfoI5QvIfor.jpg",
+        "id": 31867,
+        "name": "The Green Hornet",
+        "original_name": "The Green Hornet",
+        "overview": "The Green Hornet is a television series on the ABC US television network that aired for the 1966–1967 TV season starring Van Williams as the Green Hornet/Britt Reid and Bruce Lee as Kato.",
+        "poster_path": "/vz4L9y20g9nfM0eQSHQRGimGDKo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          10765
+        ],
+        "popularity": 10.0617,
+        "first_air_date": "1966-09-09",
+        "softcore": false,
+        "vote_average": 7.401,
+        "vote_count": 91,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fhmpYAxnF17CRWRcAWSeDRPWJi5.jpg",
+        "id": 15819,
+        "name": "Warehouse 13",
+        "original_name": "Warehouse 13",
+        "overview": "After saving the life of the President, two secret service agents - Myka Bering and Pete Lattimer - find themselves assigned to the top secret Warehouse 13. The Warehouse is a massive, top secret facility that houses dangerous and fantastical objects. Together, Pete and Myka along with fellow agents Claudia, Steve Jinks and Warehouse caretaker Artie, must recover artifacts from around the globe before they can cause catastrophic damage.",
+        "poster_path": "/2AIi7giGzw4Jt709FaL8gOe9GQu.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          35,
+          10759,
+          18
+        ],
+        "popularity": 33.247,
+        "first_air_date": "2009-07-07",
+        "softcore": false,
+        "vote_average": 7.683,
+        "vote_count": 778,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kGXNlhU9YBfchZlr1Ju7RivzeGC.jpg",
+        "id": 128113,
+        "name": "The Winchesters",
+        "original_name": "The Winchesters",
+        "overview": "Before Sam and Dean, there was John and Mary. Told from the perspective of narrator Dean Winchester, this is the epic, untold love story of how John met Mary, and how they put it all on the line to not only save their love, but the entire world.",
+        "poster_path": "/oyleYabGfn6c50bIo4M3c7ogrfL.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 9.2967,
+        "first_air_date": "2022-10-11",
+        "softcore": false,
+        "vote_average": 7.517,
+        "vote_count": 301,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eOLKWXXbcZJg91Jf1Fn7odUirl3.jpg",
+        "id": 96658,
+        "name": "Masters of the Universe: Revelation",
+        "original_name": "Masters of the Universe: Revelation",
+        "overview": "The war for Eternia begins again in what may be the final battle between He-Man and Skeletor. A new animated series from writer-director Kevin Smith.",
+        "poster_path": "/y93cJr4fCYt9j5f23j5p3TXv5Ar.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "popularity": 8.1795,
+        "first_air_date": "2021-07-23",
+        "softcore": false,
+        "vote_average": 6.598,
+        "vote_count": 413,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sjx6zjQI2dLGtEL0HGWsnq6UyLU.jpg",
+        "id": 115036,
+        "name": "كتاب بوبا فيت",
+        "original_name": "The Book of Boba Fett",
+        "overview": "يجب على صياد المكافآت الأسطوري بوبا فيت والمرتزق فينيك شاند التنقل في العالم السفلي للمجرة عندما يعودان إلى رمال تاتوين للمشاركة في مطالبتهما بالأراضي التي كان يحكمها جابا ذا هوت ونقابة الجريمة الخاصة به.",
+        "poster_path": "/gNbdjDi1HamTCrfvM9JeA94bNi2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 16.5562,
+        "first_air_date": "2021-12-29",
+        "softcore": false,
+        "vote_average": 7.46,
+        "vote_count": 3084,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4zZ0VjYxGERjhf5FdTuB0Y215Pi.jpg",
+        "id": 13859,
+        "name": "The Rifleman",
+        "original_name": "The Rifleman",
+        "overview": "The Rifleman is an American Western television program starring Chuck Connors as rancher Lucas McCain and Johnny Crawford as his son, Mark McCain. It was set in the 1880s in the town of North Fork, New Mexico Territory. The show was filmed in black-and-white, half-hour episodes. \"The Rifleman\" aired on ABC from September 30, 1958 to April 8, 1963 as a production of Four Star Television. It was one of the first prime time series to have a widowed parent raise a child.",
+        "poster_path": "/tYf5Sc83chWG2nBlo5xKdpBBwlI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          37,
+          10751
+        ],
+        "popularity": 50.5184,
+        "first_air_date": "1958-09-30",
+        "softcore": false,
+        "vote_average": 7.093,
+        "vote_count": 54,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8tko4lM3VE6Rpye7IbilDpdHsWh.jpg",
+        "id": 9156,
+        "name": "Frank Herbert's Children of Dune",
+        "original_name": "Frank Herbert's Children of Dune",
+        "overview": "Twelve years following the events of Dune, the Atreides family must overcome a conspiracy that threatens to destroy their legacy and undermine their House in the eyes of The Empire. Only Paul's children can prevent this catastrophe from destroying everything and saving House Atreides from this malevolent force.",
+        "poster_path": "/yCP8lKXBMtcG1CU9K3NsWlu1RgF.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 5.9339,
+        "first_air_date": "2003-03-16",
+        "softcore": false,
+        "vote_average": 6.94,
+        "vote_count": 249,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7vonjNjQ272lz0rJYM31K8V7b2m.jpg",
+        "id": 226749,
+        "name": "The Librarians: The Next Chapter",
+        "original_name": "The Librarians: The Next Chapter",
+        "overview": "A Librarian from the past time travels to the present and finds himself stuck here. When he returns to his castle, which is now a museum, he inadvertently releases magic across the continent. He is given a new team to help him clean up the mess he made, forming a new team of Librarians.",
+        "poster_path": "/w2PhnfYgY1yjxnUc1M4Jp5CjXvD.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 16.6728,
+        "first_air_date": "2025-05-25",
+        "softcore": false,
+        "vote_average": 6.705,
+        "vote_count": 56,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/loDy1LWCkPjECjVTRmyKtOoUpNN.jpg",
+        "id": 114461,
+        "name": "أسوكا",
+        "original_name": "Ahsoka",
+        "overview": "بعد انهيار إمبراطورية المجرة، تسعى أسوكا للتحقيق في تهديد جديد يضع المجرة بكاملها في خطر.",
+        "poster_path": "/gmK7mJV8Ecl8Lw1DsWP1Rziyp2S.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 25.5211,
+        "first_air_date": "2023-08-22",
+        "softcore": false,
+        "vote_average": 7.398,
+        "vote_count": 1303,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uAfsRtKnCdtHTF49yyvfyCyL5Uu.jpg",
+        "id": 2855,
+        "name": "Relic Hunter",
+        "original_name": "Relic Hunter",
+        "overview": "Sydney Fox is a professor and globe-trotting \"relic hunter\" who looks for ancient artifacts to return to museums and/or the descendants of the original owner. She is aided by her linguistic assistant Nigel and occasionally by her somewhat air-headed secretary Claudia. She often ends up battling rival hunters seeking out artifacts for the money.",
+        "poster_path": "/t04oqIsBlRnxKOWhBL6SlEQowZ5.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          10759,
+          18
+        ],
+        "popularity": 23.7729,
+        "first_air_date": "1999-09-25",
+        "softcore": false,
+        "vote_average": 6.757,
+        "vote_count": 181,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/CrVAqxtdmvelqVcj8pVeQg7wNV.jpg",
+        "id": 2723,
+        "name": "ساموراي جاك",
+        "original_name": "Samurai Jack",
+        "overview": "يُنفى محارب عظيم إلى مستقبل بعيد بواسطة الساحر الشرير متغير الشكل \"آكو\". تحت حكم آكو، أصبح العالم مكاناً قاتماً، مقسماً إلى قبائل غريبة ويحكمه أمراء حرب آليون. يجوب جاك هذا العالم الغريب بحثاً عن بوابة زمنية تعيده إلى زمنه الأصلي كي \"يمحو المستقبل الذي صنعه آكو!\".",
+        "poster_path": "/zBdtvNog9I1C9SNLxom0WauNMSF.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          16
+        ],
+        "popularity": 37.8182,
+        "first_air_date": "2001-08-10",
+        "softcore": false,
+        "vote_average": 8.418,
+        "vote_count": 925,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6GzNuxHWvaEzNNVZ5xI0LsqxFCl.jpg",
+        "id": 4414,
+        "name": "Highlander: The Series",
+        "original_name": "Highlander: The Series",
+        "overview": "Duncan MacLeod cannot die -- he is a 400-year-old immortal, who has seen his share of humanity's history. Still, he risks his life in battle against other immortals and tries to save people from harm.",
+        "poster_path": "/rlJzuTbdMAa6jOdpKxxTx8KVN88.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 32.9732,
+        "first_air_date": "1992-10-03",
+        "softcore": false,
+        "vote_average": 7.382,
+        "vote_count": 431,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 5,
+    "total_results": 88
+  },
+  "watch/providers": {
+    "results": {
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/25406-jason-and-the-argonauts/watch?locale=CA",
+        "ads": [
+          {
+            "logo_path": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+            "provider_id": 73,
+            "provider_name": "Tubi TV",
+            "display_priority": 19
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/25406-jason-and-the-argonauts/watch?locale=US",
+        "free": [
+          {
+            "logo_path": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+            "provider_id": 2409,
+            "provider_name": "Fawesome",
+            "display_priority": 143
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+            "provider_id": 207,
+            "provider_name": "The Roku Channel",
+            "display_priority": 29
+          },
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 72
+          },
+          {
+            "logo_path": "/ezTLm8lPMse9QRKTYInPOBD2jUM.png",
+            "provider_id": 439,
+            "provider_name": "Shout! Factory TV",
+            "display_priority": 79
+          },
+          {
+            "logo_path": "/fuVBtr57kxnYzOILZ38xqSmBeyR.png",
+            "provider_id": 613,
+            "provider_name": "Amazon Prime Video Free with Ads",
+            "display_priority": 140
+          },
+          {
+            "logo_path": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+            "provider_id": 73,
+            "provider_name": "Tubi TV",
+            "display_priority": 347
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 202
+          },
+          {
+            "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+            "provider_id": 600,
+            "provider_name": "Shout! Factory Amazon Channel",
+            "display_priority": 318
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eZwtU4sLSBxdzW4FlvtTNQTumDV.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 238551,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "แวมไพร์ไวน์แดง",
+        "overview": "",
+        "popularity": 2.0375,
+        "poster_path": "/4yVaW2eHPo9TwvaLJIRqmRbpWbB.jpg",
+        "first_air_date": "2024-05-19",
+        "softcore": false,
+        "name": "แวมไพร์ไวน์แดง",
+        "vote_average": 6.6,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hLNiqqIS9rNapm87KnxnpXxBWpx.jpg",
+        "genre_ids": [
+          10751
+        ],
+        "id": 206766,
+        "origin_country": [
+          "ID"
+        ],
+        "original_language": "id",
+        "original_name": "Coming Out",
+        "overview": "",
+        "popularity": 0.5586,
+        "poster_path": "/sJ2IIHw7sEx9aN1WEhwIijzpzDd.jpg",
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Coming Out",
+        "vote_average": 1,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/huxphAXwmUwlpxakL0dVjZGq4O8.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 124518,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "Deadhouse Dark",
+        "overview": "",
+        "popularity": 2.1835,
+        "poster_path": "/yxuGE15uds6w0J8Q2knJjQ2O589.jpg",
+        "first_air_date": "2021-04-29",
+        "softcore": false,
+        "name": "Deadhouse Dark",
+        "vote_average": 5.7,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 352,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Quatermass Experiment",
+        "overview": "",
+        "popularity": 3.6929,
+        "poster_path": "/vbNUN2Jr3O0pqfTJpB2XRLLKGYT.jpg",
+        "first_air_date": "1953-07-18",
+        "softcore": false,
+        "name": "The Quatermass Experiment",
+        "vote_average": 6.7,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p3L6DChq9oi8T9G5TLmaZKQ5iGD.jpg",
+        "genre_ids": [
+          80,
+          10765,
+          9648
+        ],
+        "id": 238738,
+        "origin_country": [
+          "PL"
+        ],
+        "original_language": "pl",
+        "original_name": "Czarne Stokrotki",
+        "overview": "",
+        "popularity": 2.4789,
+        "poster_path": "/xVkF63banwixctRzAhKoX5h2vid.jpg",
+        "first_air_date": "2025-01-03",
+        "softcore": false,
+        "name": "Czarne Stokrotki",
+        "vote_average": 4.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          10759,
+          10762
+        ],
+        "id": 275439,
+        "origin_country": [
+          "FR"
+        ],
+        "original_language": "en",
+        "original_name": "Jason et les héros de l'Olympe",
+        "overview": "",
+        "popularity": 1.3524,
+        "poster_path": "/qVkqoSgsSfoAYpAuCO2lFEnfXhm.jpg",
+        "first_air_date": "2001-01-01",
+        "softcore": false,
+        "name": "Jason et les héros de l'Olympe",
+        "vote_average": 6,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eMRNAcyjapBhJInvSfIOp85uAoP.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "id": 912,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ああっ女神さまっ",
+        "overview": "",
+        "popularity": 12.5293,
+        "poster_path": "/2EKLUie4S1RgjqDnTenFQA9x0M3.jpg",
+        "first_air_date": "2005-01-06",
+        "softcore": false,
+        "name": "ああっ女神さまっ",
+        "vote_average": 7.386,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/evgm79NS64RjQ4F1BjZzoOj7D2L.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          10762
+        ],
+        "id": 931,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "He-Man and the Masters of the Universe",
+        "overview": "",
+        "popularity": 21.0073,
+        "poster_path": "/tawmMe0D3ncyzEmmfMraGucXBCA.jpg",
+        "first_air_date": "1983-09-05",
+        "softcore": false,
+        "name": "He-Man and the Masters of the Universe",
+        "vote_average": 7.454,
+        "vote_count": 444
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r2FHSIFvLaJL7kGKKFYJHEbrYcH.jpg",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "id": 207158,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Marco Polo",
+        "overview": "",
+        "popularity": 1.9296,
+        "poster_path": "/9O0j15u5WCmhDWiG3scUReEzXgg.jpg",
+        "first_air_date": "2007-03-19",
+        "softcore": false,
+        "name": "Marco Polo",
+        "vote_average": 6.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          10768
+        ],
+        "id": 305215,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Sigmar's Toll",
+        "overview": "",
+        "popularity": 1.6941,
+        "poster_path": "/oq7V1757aExRXdNFH2z6S1v025B.jpg",
+        "first_air_date": "2025-09-19",
+        "softcore": false,
+        "name": "Sigmar's Toll",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3FaimokK7FaufDYGIGnOG6uyp3f.jpg",
+        "genre_ids": [
+          10751,
+          16,
+          10765,
+          10759
+        ],
+        "id": 305165,
+        "origin_country": [
+          "CA",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "LEGO Marvel Avengers: Strange Tails",
+        "overview": "",
+        "popularity": 9.292,
+        "poster_path": "/6MhzH93izyEvVO15qgM8UJNvY4z.jpg",
+        "first_air_date": "2025-11-14",
+        "softcore": false,
+        "name": "LEGO Marvel Avengers: Strange Tails",
+        "vote_average": 6.4,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6FsFbWo6dCSoQjY1j8jLTfpxZ7g.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10751
+        ],
+        "id": 239017,
+        "origin_country": [
+          "TW"
+        ],
+        "original_language": "zh",
+        "original_name": "童話故事下集",
+        "overview": "عندما يتحول لقاء لطيف إلى قصة حب عاصفة، يتعين على ثنائي خوض غمار الواقع الفوضوي للحياة الزوجية التي لا تشبه مطلقًا نهاية القصص الخيالية.",
+        "popularity": 3.0137,
+        "poster_path": "/oXACxdzi4rIAR2qmw48o5IhV0TK.jpg",
+        "first_air_date": "2025-02-14",
+        "softcore": false,
+        "name": "زواج... ولكن!",
+        "vote_average": 7.5,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9K6IAjH3It7VIJipDoklAi8clNu.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10751
+        ],
+        "id": 29336,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Target Luna",
+        "overview": "",
+        "popularity": 3.1686,
+        "poster_path": null,
+        "first_air_date": "1960-04-24",
+        "softcore": false,
+        "name": "Target Luna",
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5mcc7J07f680Q88xeLClf5SIZtt.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 207333,
+        "origin_country": [
+          "CO"
+        ],
+        "original_language": "es",
+        "original_name": "Cien años de soledad",
+        "overview": "في بلدة \"ماكوندو\" الخالدة، تخوض سبعة أجيال من عائلة \"بوينديا\" غمار الحب والنسيان في ظل عجز أفرادها عن تخطي ماضيهم... والهروب من مصيرهم.",
+        "popularity": 31.4827,
+        "poster_path": "/3VRa9ZM0wq2vhdMGZ1Z3UpZDkXm.jpg",
+        "first_air_date": "2024-12-11",
+        "softcore": false,
+        "name": "مئة عام من العزلة",
+        "vote_average": 8.05,
+        "vote_count": 260
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jGAgj9QztYjSsYCnZhDMgBUzQKU.jpg",
+        "genre_ids": [
+          16,
+          9648,
+          10765
+        ],
+        "id": 1097,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "エルゴプラクシー",
+        "overview": "",
+        "popularity": 12.8169,
+        "poster_path": "/rObNchuE0AHF6KSsA5bVxpj2Lre.jpg",
+        "first_air_date": "2006-02-25",
+        "softcore": false,
+        "name": "エルゴプラクシー",
+        "vote_average": 7.7,
+        "vote_count": 408
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k3V9eGCWmiOTKSQTBjG48pJhDHd.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "id": 207493,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
+        "overview": "",
+        "popularity": 8.6907,
+        "poster_path": "/wjuHCEs7pjraHYZAYUXimVTE2rj.jpg",
+        "first_air_date": "2023-04-03",
+        "softcore": false,
+        "name": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
+        "vote_average": 7.1,
+        "vote_count": 69
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5X77Ep0wZLuxVuDhh5g7xJr3R9d.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "id": 207567,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ポケットモンスター 神とよばれし アルセウス",
+        "overview": "أثناء البحث في قصّة البوكيمون الأسطوري \"آركياس\"، يكشف \"آش\" و\"غوه\" و\"دون\" عن مخطّط فريق \"غالاكتيك\" الذي يضع العالم تحت التهديد.",
+        "popularity": 5.7483,
+        "poster_path": "/7WplXbMS4psdlQvx0BN6oXHhrJs.jpg",
+        "first_air_date": "2022-01-21",
+        "softcore": false,
+        "name": "ポケットモンスター 神とよばれし アルセウス",
+        "vote_average": 7.3,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/d5bmGNNToXndTWNtWurGCPEEZZy.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
+        "id": 92584,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Eden",
+        "overview": "",
+        "popularity": 5.3414,
+        "poster_path": "/AkXC8EuJCjuonHZIkxkUmiCdSGe.jpg",
+        "first_air_date": "2021-05-27",
+        "softcore": false,
+        "name": "Eden",
+        "vote_average": 6.634,
+        "vote_count": 82
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aBlYlgkqZiBNxYGwEYNMIztA2ca.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 92647,
+        "origin_country": [
+          "FR"
+        ],
+        "original_language": "fr",
+        "original_name": "Il était une seconde fois",
+        "overview": "بعد أشهر من انفصال حطّم قلبه، يتسلّم رجل طردًا غامضًا يفتح له بوّابة نحو الماضي... ويمنحه فرصةً لاسترداد حبيبته السابقة.",
+        "popularity": 3.0392,
+        "poster_path": "/mUfPaaVpK8vkWed1zmAda8DGnoV.jpg",
+        "first_air_date": "2019-08-29",
+        "softcore": false,
+        "name": "الفرصة تأتي مرتين",
+        "vote_average": 6.4,
+        "vote_count": 115
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1uegR4uAxRxiMyX4nQnpzbXhrTw.jpg",
+        "genre_ids": [
+          10765,
+          9648,
+          10759
+        ],
+        "id": 92749,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Moon Knight",
+        "overview": "عندما يعاني ستيفن غرانت، وهو موظف في متجر هدايا معتدل السلوك، من انقطاع التيار الكهربائي وذكريات حياة أخرى، يكتشف أنه يعاني من اضطراب الهوية التفارقية ويشارك جثة مع المرتزق مارك سبيكتور. بينما يتلاقى أعداء ستيفن/مارك عليهم، يجب عليهم التنقل في هوياتهم المعقدة بينما يدفعون إلى لغز قاتل بين آلهة مصر القوية.",
+        "popularity": 23.8705,
+        "poster_path": "/mdsh6PgayTmhNJIoPgh2zEajLZm.jpg",
+        "first_air_date": "2022-03-30",
+        "softcore": false,
+        "name": "فارس القمر",
+        "vote_average": 7.633,
+        "vote_count": 3684
+      }
+    ],
+    "total_pages": 1366,
+    "total_results": 27304
+  }
+}

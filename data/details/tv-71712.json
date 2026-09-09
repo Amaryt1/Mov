@@ -1,0 +1,3835 @@
+{
+  "adult": false,
+  "backdrop_path": "/f3cin9kOz4nOrlYEMxGFQhv4bdN.jpg",
+  "created_by": [
+    {
+      "id": 169061,
+      "credit_id": "5918e7e4925141583c04b400",
+      "name": "ديفيد شور",
+      "original_name": "David Shore",
+      "gender": 2,
+      "profile_path": "/5xVWN3KCGtGjGkEIrHqHrx8UikG.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2017-09-25",
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "https://abc.com/shows/the-good-doctor",
+  "id": 71712,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2024-05-21",
+  "last_episode_to_air": {
+    "id": 5158044,
+    "name": "الحلقة 10",
+    "overview": "",
+    "vote_average": 9.053,
+    "vote_count": 19,
+    "air_date": "2024-05-21",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 46,
+    "season_number": 7,
+    "show_id": 71712,
+    "still_path": "/zPKhaUJtlduU6v2AEf4OXkxDb4y.jpg"
+  },
+  "name": "الطبيب الطيّب",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 126,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Good Doctor",
+  "overview": "جراح شاب مصاب بمرض التوحد ومتلازمة سافانت يعمل في وحدة لجراحات الأطفال في مستشفى مرموق. السؤال الذي سينتشر : هل هذا الشخص الذي لا يمتلك القدرة على التواصل مع الآخرين سيستطيع إنقاذهم حقًا؟",
+  "popularity": 206.7164,
+  "poster_path": "/lniwLyBHJ5PSqHpFdEBC3XgPqal.jpg",
+  "production_companies": [
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 90375,
+      "logo_path": "/n1DLv6P0RaxqvJRnOXPRNuqDwfQ.png",
+      "name": "3AD",
+      "origin_country": "US"
+    },
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 236613,
+      "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+      "name": "ABC Signature",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2017-09-25",
+      "episode_count": 18,
+      "id": 88380,
+      "name": "الموسم 1",
+      "overview": "ينضمّ جرّاح ماهر مصاب بالتوحّد، وبمتلازمة العباقرة أيضًا، إلى طاقم العمل في مستشفًى مرموق، حيث يتعامل مع موظّفين ومرضًى متشكّكين في قدراته.",
+      "poster_path": "/168rcWbfYVb5SRlzjl98z1J6cQ4.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2018-09-23",
+      "episode_count": 18,
+      "id": 107199,
+      "name": "الموسم 2",
+      "overview": "بينما تزداد علاقاته الشخصية قوّة، يواصل \"شون\" استغلال مواهبه الاستثنائية لمساعدة مرضاه في قسم الجراحة.",
+      "poster_path": "/sIq4SFloM0JSeRNAQVqb5g5zAng.jpg",
+      "season_number": 2,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2019-09-22",
+      "episode_count": 20,
+      "id": 127097,
+      "name": "الموسم 3",
+      "overview": "يبذل \"شون\" ما في وسعه من أجل عملية جذرية لإنقاذ حياة امرأة حديثة العهد بالزواج. وإلى جانب ذلك، يجرّب هو والدكتور \"ليفر\" حظّهما في المواعدة.",
+      "poster_path": "/keMzGwQZlZRJXgifi3BhH53EVMz.jpg",
+      "season_number": 3,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2020-11-02",
+      "episode_count": 20,
+      "id": 163383,
+      "name": "الموسم 4",
+      "overview": "يواصل الدكتور شون مورفي توظيف مهاراته الطبية الاستثنائية في وحدة الجراحة بمستشفى سانت بونافنتور. ومع توطد علاقته الرومانسية مع ليا، سيواجه أيضًا مسؤوليات جديدة كطبيب مقيم في سنته الرابعة، حيث سيُكلف بالإشراف على مجموعة جديدة من الأطباء المقيمين، الأمر الذي سيختبر قدراته بطرق غير متوقعة. في الوقت نفسه، يتعين على الفريق التعامل مع حالة عدم اليقين والضغط التي فرضتها جائحة كوفيد-19 بعد أن ضربت مستشفاهم.",
+      "poster_path": "/gdnYHdbNHYrxMkSNLBUtGOaV930.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2021-09-27",
+      "episode_count": 18,
+      "id": 202432,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/1AugpTb6vr6lGGABoTuEK1wYm6C.jpg",
+      "season_number": 5,
+      "vote_average": 8.3
+    },
+    {
+      "air_date": "2022-10-02",
+      "episode_count": 22,
+      "id": 297662,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/q9ZZgWGjSRkcNTi6lF7IZDSxSFg.jpg",
+      "season_number": 6,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2024-02-20",
+      "episode_count": 10,
+      "id": 366042,
+      "name": "الموسم 7",
+      "overview": "يواجه شون وليا بدايةً صعبةً كوالدين جديدين، بينما يحاول شون في العمل التعامل مع مشكلةٍ مع أحد الأطباء المقيمين الجدد الذين يشرف عليهم: طبيبٌ آخر مصابٌ باضطراب طيف التوحد، يُعجب به بشدة، ولكنه في الوقت نفسه يبدو أنه يُثير غضبه بطبيعته. لم تنتهِ مفاجآت الحياة بالنسبة للدكتور غلاسمان أيضًا، ويبدو أنها مصممةٌ على إجباره على إعادة تجربة أحد أصعب الدروس التي رفض تعلمها حتى الآن. مع ذلك، ليس كل شيءٍ قاتمًا، حيث يُعيد الدكتوران بارك وريزنيك تقييم علاقتهما، وسرعان ما يُعيد لقاءٌ مُصادفةٌ بين الدكتور كالو وزميلته السابقة في الفريق، الدكتورة كلير براون، ربطهم من جديد كما لو أن الزمن لم يمر.",
+      "poster_path": "/ydY3O2UgaW89FzNlfAzu2EZ6VXQ.jpg",
+      "season_number": 7,
+      "vote_average": 8.3
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.5,
+  "vote_count": 12927,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1281,
+        "known_for_department": "Acting",
+        "name": "Freddie Highmore",
+        "original_name": "Freddie Highmore",
+        "popularity": 5.3581,
+        "profile_path": "/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg",
+        "character": "Dr. Shaun Murphy",
+        "credit_id": "5918e8ecc3a368371b03d660",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1233749,
+        "known_for_department": "Acting",
+        "name": "فيونا جوبلمان",
+        "original_name": "Fiona Gubelmann",
+        "popularity": 2.588,
+        "profile_path": "/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg",
+        "character": "Dr. Morgan Reznick",
+        "credit_id": "5a9dc9270e0a2671f5005cdf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10884,
+        "known_for_department": "Acting",
+        "name": "ويل يان لي",
+        "original_name": "Will Yun Lee",
+        "popularity": 3.5699,
+        "profile_path": "/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg",
+        "character": "Dr. Alex Park",
+        "credit_id": "5a9dc9189251411030005990",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1215689,
+        "known_for_department": "Acting",
+        "name": "كريستينا تشانغ",
+        "original_name": "Christina Chang",
+        "popularity": 3.0863,
+        "profile_path": "/5e8zzySBeJzozWJixt3E2HmZSv1.jpg",
+        "character": "Dr. Audrey Lim",
+        "credit_id": "5b9331980e0a2619850005c4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1454610,
+        "known_for_department": "Acting",
+        "name": "بايج سبارا",
+        "original_name": "Paige Spara",
+        "popularity": 1.7823,
+        "profile_path": "/elcx21E3X5xBjW31gXBJnWTSvYX.jpg",
+        "character": "Lea Dilallo",
+        "credit_id": "5b9f067e0e0a266384011c77",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2601751,
+        "known_for_department": "Acting",
+        "name": "Bria Samoné Henderson",
+        "original_name": "Bria Samoné Henderson",
+        "popularity": 0.8562,
+        "profile_path": "/b2Zi6Hb6SLLunl3Ndr9OLz8bTld.jpg",
+        "character": "Dr. Jordan Allen",
+        "credit_id": "607ab2b57e3483006f9db6f4",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1472747,
+        "known_for_department": "Acting",
+        "name": "Noah Galvin",
+        "original_name": "Noah Galvin",
+        "popularity": 3.7136,
+        "profile_path": "/wKGpfo1BHeNMvFVGVJjGqOgiaMh.jpg",
+        "character": "Dr. Asher Wolke",
+        "credit_id": "607ab2bb7e348300294345b8",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1610710,
+        "known_for_department": "Acting",
+        "name": "Chuku Modu",
+        "original_name": "Chuku Modu",
+        "popularity": 1.7204,
+        "profile_path": "/taoknxCAJcuzn71YKbCqc4hsYyR.jpg",
+        "character": "Dr. Jared Kalu",
+        "credit_id": "5918e934c3a36842c104dc37",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31028,
+        "known_for_department": "Acting",
+        "name": "Richard Schiff",
+        "original_name": "Richard Schiff",
+        "popularity": 2.0321,
+        "profile_path": "/1kg1X6OWRuMdBBYqZLQ6UqMlEPC.jpg",
+        "character": "Dr. Aaron Glassman",
+        "credit_id": "5918ea14c3a3683fb6047852",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4702633,
+        "known_for_department": "Art",
+        "name": "Chloe Campbell",
+        "original_name": "Chloe Campbell",
+        "popularity": 0.3989,
+        "profile_path": null,
+        "credit_id": "6919e567ea3b47df3c4ca5d8",
+        "department": "Production",
+        "job": "Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2417650,
+        "known_for_department": "Production",
+        "name": "Erin Gunn",
+        "original_name": "Erin Gunn",
+        "popularity": 0.286,
+        "profile_path": null,
+        "credit_id": "6883fe2a2e48947adff783e9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 169061,
+        "known_for_department": "Writing",
+        "name": "ديفيد شور",
+        "original_name": "David Shore",
+        "popularity": 1.4984,
+        "profile_path": "/5xVWN3KCGtGjGkEIrHqHrx8UikG.jpg",
+        "credit_id": "5d898a8a172d7f001f4cb4dd",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 18307,
+        "known_for_department": "Acting",
+        "name": "دانيال داي كيم",
+        "original_name": "Daniel Dae Kim",
+        "popularity": 4.0213,
+        "profile_path": "/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg",
+        "credit_id": "5d898a95c58acd00292d5d96",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1767367,
+        "known_for_department": "Production",
+        "name": "David Kim",
+        "original_name": "David Kim",
+        "popularity": 0.3725,
+        "profile_path": null,
+        "credit_id": "5d898aab6c1e04000faae34b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1767370,
+        "known_for_department": "Production",
+        "name": "Sebastian Lee",
+        "original_name": "Sebastian Lee",
+        "popularity": 0.4138,
+        "profile_path": "/pPokpQl0kTUF1siFPljIrY35zHG.jpg",
+        "credit_id": "5d898ab7d9f4a600284e10df",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213545,
+        "known_for_department": "Directing",
+        "name": "Mike Listo",
+        "original_name": "Mike Listo",
+        "popularity": 0.6883,
+        "profile_path": "/5fbVFsobCvTgC14WQkPI1O3knsk.jpg",
+        "credit_id": "645abb326aa8e000e4bd9b49",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1255712,
+        "known_for_department": "Writing",
+        "name": "박재범",
+        "original_name": "박재범",
+        "popularity": 0.9353,
+        "profile_path": "/hS96Gb7vGebNgo1wQOcnRSVXxkQ.jpg",
+        "credit_id": "659dde537776f0014829716a",
+        "department": "Writing",
+        "job": "Original Series Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1155140,
+        "known_for_department": "Sound",
+        "name": "دان رومر",
+        "original_name": "Dan Romer",
+        "popularity": 0.5307,
+        "profile_path": "/cOoq9WBHzuZ3L3BmPvUBiB7c67x.jpg",
+        "credit_id": "6883fe200e4818a99952a7a0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/2iYitemZYaZUcmSo0l2p3WHvj5J.jpg",
+        "id": 3172,
+        "name": "Private Practice",
+        "original_name": "Private Practice",
+        "overview": "Having left behind Seattle Grace Hospital, renowned surgeon Addison Forbes Montgomery moves to Los Angeles for sunnier weather and happier possibilities. She reunites with her friends from medical school, joining them at their chic, co-op, Oceanside Wellness Center in Santa Monica.",
+        "poster_path": "/pW20ANAGdrgreYJExduUVaWos6H.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 33.1464,
+        "first_air_date": "2007-09-26",
+        "softcore": false,
+        "vote_average": 7.515,
+        "vote_count": 356,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x2jNLrYw1s9i6kihEJqsBQgs9nR.jpg",
+        "id": 62650,
+        "name": "Chicago Med",
+        "original_name": "Chicago Med",
+        "overview": "رحلة مشوقة عاطفية عبر الفوضى اليومية لأحدث مركز صدمات حديث في المدينة وإلى حياة الأطباء والممرضات والموظفين الشجعان الذين يحملون كل ذلك معًا.",
+        "poster_path": "/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 78.8973,
+        "first_air_date": "2015-11-17",
+        "softcore": false,
+        "vote_average": 8.3,
+        "vote_count": 1275,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AekZz93QCISOYFELhxyRCSzcAit.jpg",
+        "id": 63418,
+        "name": "Code Black",
+        "original_name": "Code Black",
+        "overview": "Inspired by the award-winning documentary, this medical drama is set in the busiest and most notorious ER in the nation where the extraordinary staff confront a challenged system in order to protect their ideals and the patients who need them the most.",
+        "poster_path": "/3T1b6YK6vLrZoLZC5hd65ZuRLq8.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 14.0492,
+        "first_air_date": "2015-09-30",
+        "softcore": false,
+        "vote_average": 7.784,
+        "vote_count": 285,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9hfA9zMsyckwZ8WLMVQYKG8YSwY.jpg",
+        "id": 80350,
+        "name": "New Amsterdam",
+        "original_name": "New Amsterdam",
+        "overview": "يُعيّن أقدم مستشفًى في \"أمريكا\" الطبيب \"ماكس غودوين\" المتفرّد في أسلوبه كمدير جديد، فيهبّ لتغيير الوضع الطبّي الراهن وإنقاذ حياة المرضى.",
+        "poster_path": "/jsH4AeGZn5Q6h314A3OTUHKxHhR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 31.7979,
+        "first_air_date": "2018-09-25",
+        "softcore": false,
+        "vote_average": 8.297,
+        "vote_count": 1113,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+        "id": 1416,
+        "name": "تشريح غراي",
+        "original_name": "Grey's Anatomy",
+        "overview": "الحياة الشخصية والمهنية لمجموعة من الأطباء في مستشفى - قراي سلون - في سياتل، الولايات المتحدة.",
+        "poster_path": "/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 219.1081,
+        "first_air_date": "2005-03-27",
+        "softcore": false,
+        "vote_average": 8.206,
+        "vote_count": 11041,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6FrVFsxsXujg7GJiBy1sw0Fdnji.jpg",
+        "id": 3750,
+        "name": "Nip/Tuck",
+        "original_name": "Nip/Tuck",
+        "overview": "Hotshot plastic surgeons Dr. Sean McNamara and Dr. Christian Troy experience full-blown midlife crises as they confront career, family and romance problems.",
+        "poster_path": "/v5uEYpNbjGmJC59xqvmPW58aSTl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 52.5231,
+        "first_air_date": "2003-07-22",
+        "softcore": false,
+        "vote_average": 7.198,
+        "vote_count": 536,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/929XdVflzbgQWtKFDOnak3saK0R.jpg",
+        "id": 107365,
+        "name": "Bel-Air",
+        "original_name": "Bel-Air",
+        "overview": "The journey of a book smart teen whose life is forever transformed when he moves from the streets of west Philadelphia to live with his relatives in one of LA’s wealthiest suburbs.",
+        "poster_path": "/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 15.8574,
+        "first_air_date": "2022-02-13",
+        "softcore": false,
+        "vote_average": 7.707,
+        "vote_count": 295,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ntsEP1jUbLxz62MZqxmVfM5TNfX.jpg",
+        "id": 199001,
+        "name": "حياتي مع أبناء عائلة والتر",
+        "original_name": "My Life with the Walter Boys",
+        "overview": "تتعرقل حياة مراهقة بسبب مأساة تجبرها على الانتقال للعيش مع عائلة وصيّتها الكبيرة في بلدة صغيرة، فتتعلم دروسًا جديدة عن الحب والأمل والصداقة.",
+        "poster_path": "/dQOwpTpBQEqRUcev4423LrU32G6.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 35.6832,
+        "first_air_date": "2023-12-07",
+        "softcore": false,
+        "vote_average": 7.816,
+        "vote_count": 427,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jkyjkLuKxKa2PXaTcPDfrBUHxi8.jpg",
+        "id": 207411,
+        "name": "عائلة أمريكية صالحة",
+        "original_name": "Good American Family",
+        "overview": "هذه قصة تُروى من مختلف وجهات النظر عن زوجين من الغرب الأوسط يتبنيان فتاة لديها حالة نادرة من التقزم.",
+        "poster_path": "/2jokUdBbmLL3RQcfyXI1KjJsUdW.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 15.6443,
+        "first_air_date": "2025-03-19",
+        "softcore": false,
+        "vote_average": 7.588,
+        "vote_count": 266,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/en3zftWPQb5Ue6aA8W88RQbtqzd.jpg",
+        "id": 4588,
+        "name": "ER",
+        "original_name": "ER",
+        "overview": "ER explores the inner workings of an urban teaching hospital and the critical issues faced by the dedicated physicians and staff of its overburdened emergency room.",
+        "poster_path": "/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 54.4341,
+        "first_air_date": "1994-09-19",
+        "softcore": false,
+        "vote_average": 7.827,
+        "vote_count": 958,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A4eWZ3lbbouRScudg7bwZBSFOk6.jpg",
+        "id": 21494,
+        "name": "V",
+        "original_name": "V",
+        "overview": "A re-imagining of the 1980s miniseries about the world's first encounter with an alien race in which the aliens call themselves The Visitors, and have a seemingly friendly agenda that may or may not be a cover for something more malevolent.",
+        "poster_path": "/u8NNr2hv6qitXOVF2PvJDzQEaFu.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 15.5262,
+        "first_air_date": "2009-11-03",
+        "softcore": false,
+        "vote_average": 6.794,
+        "vote_count": 838,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bFyVNXkUPFgyb2G5ErjDTF4brKE.jpg",
+        "id": 48860,
+        "name": "The Tomorrow People",
+        "original_name": "The Tomorrow People",
+        "overview": "The story of several young people from around the world who represent the next stage in human evolution, possessing special powers, including the ability to teleport and communicate with each other telepathically. Together they work to defeat the forces of evil.",
+        "poster_path": "/3EavFY6TuhDm4ERbDGrZ1oEqB57.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 10.3887,
+        "first_air_date": "2013-10-09",
+        "softcore": false,
+        "vote_average": 6.902,
+        "vote_count": 377,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9DHo5qXkG0titQmr2PF92N3aYYk.jpg",
+        "id": 207863,
+        "name": "Mayfair Witches",
+        "original_name": "Mayfair Witches",
+        "overview": "تكتشف جراحة أعصاب أنها الوريثة المحتملة لعائلة من السحرة، ويصبح عليها مواجهة كيانًا مظلمًا يطارد عائلتها منذ زمن بعيد.",
+        "poster_path": "/eDl1veju2Hf3tyFmGAedtGXb9Yv.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 19.2283,
+        "first_air_date": "2023-01-08",
+        "softcore": false,
+        "vote_average": 7.304,
+        "vote_count": 362,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sSJZVwCS0tFzcLSaQOjLpv5mFau.jpg",
+        "id": 79501,
+        "name": "دوامة الموت",
+        "original_name": "Doom Patrol",
+        "overview": "عانى أعضاء دوامة الموت من حوادث مروعة أعطتهم قدرات فائقة، لكنها تركتهم مشوهين. وقد وجد الفريق، المصابين بالصدمة والضطهاد، غرضاً من خلال - ذا تشيف - الذي جمعهم معاً للتحقيق في أغرب الظواهر الموجودة - ولحماية الأرض مما يعثرون عليه.",
+        "poster_path": "/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 26.5645,
+        "first_air_date": "2019-02-15",
+        "softcore": false,
+        "vote_average": 7.483,
+        "vote_count": 1487,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y8DjXCsyKFL1Ff0zGtpKIQ2MtoL.jpg",
+        "id": 93749,
+        "name": "Dr. Death",
+        "original_name": "Dr. Death",
+        "overview": "An anthology series, with each season following a new medical true crime story.",
+        "poster_path": "/pNnmxTSc2ixac4xk8T80wchec0r.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 12.3228,
+        "first_air_date": "2021-07-15",
+        "softcore": false,
+        "vote_average": 7.29,
+        "vote_count": 224,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3XgM3Y6XfyVuKTqZYg4BEYyTuS7.jpg",
+        "id": 80335,
+        "name": "Homecoming",
+        "original_name": "Homecoming",
+        "overview": "Heidi Bergman is a caseworker at Homecoming, a Geist Group facility helping soldiers transition to civilian life. Years later she has started a new life, living with her mother and working as a waitress, when a Department of Defense auditor questions why she left the Homecoming facility. Heidi quickly realizes that there's a whole other story behind the story she's been telling herself.",
+        "poster_path": "/6GTzd7ZeivgBOrIn45720nsq0TU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 9.2516,
+        "first_air_date": "2018-11-01",
+        "softcore": false,
+        "vote_average": 6.967,
+        "vote_count": 361,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fqWXGP79tEMAyLKW0wkJLbKSP61.jpg",
+        "id": 285739,
+        "name": "البروفيسور فلاديمير",
+        "original_name": "Vladimir",
+        "overview": "عندما يشتعل هوس أستاذة جامعية في قسم اللغة الإنجليزية بزميلها الجديد الوسيم، يزيد ذلك من تعقيدات حياتها الزوجية ومسيرتها المهنية، ويُلقي بهما وسط فوضى عارمة.",
+        "poster_path": "/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.2815,
+        "first_air_date": "2026-03-05",
+        "softcore": false,
+        "vote_average": 6.803,
+        "vote_count": 104,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pGW53bLFTUG8Gjx5SDb3hpDQ5Yd.jpg",
+        "id": 249695,
+        "name": "Doctor Odyssey",
+        "original_name": "Doctor Odyssey",
+        "overview": "Max is the new on-board doctor for a luxury cruise ship where the small but mighty medical team navigate unique medical crises and each other, miles from shore.",
+        "poster_path": "/78KamrNZE0ZzPLBjEug16BASJ5M.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.2266,
+        "first_air_date": "2024-09-26",
+        "softcore": false,
+        "vote_average": 6.523,
+        "vote_count": 86,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gJOpHgHa37qnglH3dL9g63iztky.jpg",
+        "id": 269,
+        "name": "One Tree Hill",
+        "original_name": "One Tree Hill",
+        "overview": "في تري هيل، كارولينا الشمالية، يشترك شقيقان غير شقيقين في اسم عائلة ولا شيء آخر. لوكاس هو لاعب كرة سلة موهوب على جانب الشارع، ولكن مهاراته لا يقدرها سوى أصدقائه في ملعب النهر. يتشفق ناثان الشهير والثري في عبادة البطل في المدينة، كنجم لفريق مدرسته الثانوية. وكلا الصبيين هما ابن لاعب الكرة الجامعي السابق دان سكوت الذي سيطارده منذ فترة طويلة اختياره للتخلي عن لوكاس وأمه كارين، لفترة طويلة في حياته مع زوجته ديب وابنهما ناثان.",
+        "poster_path": "/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 96.114,
+        "first_air_date": "2003-09-23",
+        "softcore": false,
+        "vote_average": 7.819,
+        "vote_count": 623,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yUDJ1r0UQdhb904povev5apjTVh.jpg",
+        "id": 67683,
+        "name": "Travelers",
+        "original_name": "Travelers",
+        "overview": "Hundreds of years from now, the last surviving humans discover the means of sending consciousness back through time, directly into people in the 21st century. These \"travelers\" assume the lives of seemingly random people, while secretly working as teams to perform missions in order to save humanity from a terrible future.",
+        "poster_path": "/aUVeyeyTrQrSFuUkqLCT8FtV7pp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 18.5933,
+        "first_air_date": "2016-10-17",
+        "softcore": false,
+        "vote_average": 7.597,
+        "vote_count": 896,
+        "origin_country": [
+          "CA"
+        ]
+      }
+    ],
+    "total_pages": 41,
+    "total_results": 806
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/bzz4kpb2Na4CdBtIWhdDaMuxrO8.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 208076,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "La Madrastra",
+        "overview": "",
+        "popularity": 3.6838,
+        "poster_path": "/nsu7XUjBEphG0Vr4JdFE8QyrnHp.jpg",
+        "first_air_date": "2022-08-15",
+        "softcore": false,
+        "name": "La Madrastra",
+        "vote_average": 7.7,
+        "vote_count": 96
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AkMOyiwYZpdu67mZnenxKU8TYGq.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 60750,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Widower",
+        "overview": "",
+        "popularity": 2.9849,
+        "poster_path": "/6DImb7IFoLm5ghofYwLxmsvull2.jpg",
+        "first_air_date": "2014-03-17",
+        "softcore": false,
+        "name": "The Widower",
+        "vote_average": 7.2,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5ziXtCZye3NowgFJCBrK3kTd7vn.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648,
+          10765
+        ],
+        "id": 60726,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Forever",
+        "overview": "الدكتور هنري مورغان ، الفاحص الطبي النجم في مدينة نيويورك ، لديه سر. إنه لا يدرس الموتى فقط لحل القضايا الجنائية ، بل يفعل ذلك لحل اللغز الذي استعصى عليه لمدة 200 عام - الجواب على خلوده الذي لا يمكن تفسيره. هذه الحياة الطويلة أعطت هنري مهارات ملحوظة في الملاحظة مما أثار إعجاب شريكه الجديد ،\n\nالمحقق جو مارتينيز. كل أسبوع ، ستكشف قضية جديدة وصداقتهما الناشئة طبقات من ماضي هنري الطويل والملون. فقط أفضل أصدقائه وصديقه ، آبي يعرف سر هنري.",
+        "popularity": 14.8137,
+        "poster_path": "/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg",
+        "first_air_date": "2014-09-22",
+        "softcore": false,
+        "name": "للابد",
+        "vote_average": 7.827,
+        "vote_count": 663
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9zvc03mGeRtuMfAasghNTn2zapv.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 1929,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Checkmate",
+        "overview": "",
+        "popularity": 10.1168,
+        "poster_path": "/8EPt8QG4e4qbw2lIHySMPYFdhUE.jpg",
+        "first_air_date": "1960-09-17",
+        "softcore": false,
+        "name": "Checkmate",
+        "vote_average": 4.75,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p3covyK8v4ZsHGzP7nJTpLGqOjO.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126155,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "fr",
+        "original_name": "Les Bracelets rouges",
+        "overview": "",
+        "popularity": 2.2154,
+        "poster_path": "/1r8AqXIelMtcZDTVbKKS5tfbkZy.jpg",
+        "first_air_date": "2022-01-04",
+        "softcore": false,
+        "name": "Les Bracelets rouges",
+        "vote_average": 6,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/495i0mBxW11e3QVVAVQLt525Sru.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10751
+        ],
+        "id": 126164,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Wonder Years",
+        "overview": "",
+        "popularity": 9.4018,
+        "poster_path": "/stTtZ97QiXTvCQFDF6rNfFfFt9K.jpg",
+        "first_air_date": "2021-09-22",
+        "softcore": false,
+        "name": "The Wonder Years",
+        "vote_average": 7,
+        "vote_count": 212
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bfL7ZRhYJn5rYq9DYZL4Wf5qboL.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 126167,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Vigil",
+        "overview": "",
+        "popularity": 39.449,
+        "poster_path": "/5zAheY0Upi2MwU3edGtEgb7Ldh3.jpg",
+        "first_air_date": "2021-08-29",
+        "softcore": false,
+        "name": "Vigil",
+        "vote_average": 7.196,
+        "vote_count": 275
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 239826,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Ballard",
+        "overview": "تغوص المحققة \"بالارد\" في شبكة من الجرائم والفساد في أثناء مطاردتها لقاتل متسلسل عديم الرحمة وتكشف النقاب عن مؤامرة شريرة في سلك الشرطة تهدد كل أهدافها ومبادئها. مُثقلة بذكريات أليمة من الماضي، يتوجب على \"بالارد\" أن تتفوق ذكاءً على المجرمين وزملائها على حد سواء لإحقاق العدالة التي طال انتظارها للضحايا وعائلاتهم.",
+        "popularity": 15.8351,
+        "poster_path": "/9Fwz6qwnW6PNIkwHWlx0VXL7LpZ.jpg",
+        "first_air_date": "2025-07-09",
+        "softcore": false,
+        "name": "بالارد",
+        "vote_average": 7.242,
+        "vote_count": 198
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zEOflrK5FIf32LEpsaCTvKK59cC.jpg",
+        "genre_ids": [
+          18,
+          10751,
+          80
+        ],
+        "id": 93058,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "สองนรี",
+        "overview": "",
+        "popularity": 1.7219,
+        "poster_path": "/4Ydkna0N4Aqd9LomzLyq90VWXeA.jpg",
+        "first_air_date": "2019-08-19",
+        "softcore": false,
+        "name": "สองนรี",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hmTqTRhtszSiAXRZMqh4ZFCVlso.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 2054,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Royal",
+        "overview": "",
+        "popularity": 1.1245,
+        "poster_path": "/x4YxZeQ7pGmaJVLzIQ784nzqDgX.jpg",
+        "first_air_date": "2003-01-19",
+        "softcore": false,
+        "name": "The Royal",
+        "vote_average": 7.8,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fThSrHjuS1X82XoH9VrtvgvMIXm.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "id": 60797,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Scorpion",
+        "overview": "استنادًا إلى الحياة الحقيقية لـ(والتر أوبراين) العبقري الحاصل على 197 في اختبار معدل الذكاء، يطلب (والتر) تكوين مجموعة خاصة من الموهوبين لاستكشاف المشكلات الأكثر صعوبة، التي قد تواجهها الولايات المتحدة والعالم.",
+        "popularity": 46.5227,
+        "poster_path": "/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg",
+        "first_air_date": "2014-09-22",
+        "softcore": false,
+        "name": "العقرب",
+        "vote_average": 8.201,
+        "vote_count": 4181
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8v2hM6n6TuITPfT5Mhb66hpBQFL.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 60803,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Chasing Life",
+        "overview": "",
+        "popularity": 6.7872,
+        "poster_path": "/divzwWoDznYdqn0FtwyPuQfacg6.jpg",
+        "first_air_date": "2014-06-10",
+        "softcore": false,
+        "name": "Chasing Life",
+        "vote_average": 7.246,
+        "vote_count": 57
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ccShG5F2gn12yAQnDOnoI29dImJ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 60804,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Night Shift",
+        "overview": "",
+        "popularity": 16.3082,
+        "poster_path": "/riorJ1RfDqWOQRe1USk31ZftZCp.jpg",
+        "first_air_date": "2014-05-27",
+        "softcore": false,
+        "name": "The Night Shift",
+        "vote_average": 7.49,
+        "vote_count": 251
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vvvwefAwrJ9xaVrFOuk8BKQfvIK.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 60956,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "닥터 이방인",
+        "overview": "تتحدث دراما “الطبيب الغريب” عن “بارك هون”، طفل أختطف هو ووالده من قِبل كوريا الشمالية. وهناك تدرّب “بارك هون” على يدي والده الطبيب ليٌصبح طبيباً. وأصبح “بارك هون” جرّاح صدر عبقري ومن ثم هرب إلى كوريا الجنوبية. وبدأ يعمل هناك كطبيب في أفضل مستشفى في كوريا الجنوبية وهو مستشفى جامعة دونغوو، لكنه على الرغم من هذا يشعر كغريب بينهم. يبذل قُصارى جهده لجمع",
+        "popularity": 5.6593,
+        "poster_path": "/bmTdYYgDWdtEYWlaDfaVjZIt301.jpg",
+        "first_air_date": "2014-05-05",
+        "softcore": false,
+        "name": "الطبيب الغريب",
+        "vote_average": 8,
+        "vote_count": 304
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mw9EcIFuWUjkOTF60aYpbpM02Qu.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 61014,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Knick",
+        "overview": "",
+        "popularity": 12.305,
+        "poster_path": "/oeEqDSIVOi6q0GcZj8L9Q6G7fGC.jpg",
+        "first_air_date": "2014-08-08",
+        "softcore": false,
+        "name": "The Knick",
+        "vote_average": 7.854,
+        "vote_count": 532
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bxQjZlFCYfXiBvFsLkEXY3jFjtZ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 30435,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Hothouse",
+        "overview": "",
+        "popularity": 2.4222,
+        "poster_path": "/zOIVtqgnNIhOgS0CIXxT0nGHNH2.jpg",
+        "first_air_date": "1988-06-30",
+        "softcore": false,
+        "name": "Hothouse",
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9tYSEovniAwcV7bKfWtlq9uD84w.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 2167,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "All Saints",
+        "overview": "",
+        "popularity": 17.3603,
+        "poster_path": "/cuKUm2nweOCpb1pl2k8k0THTBvn.jpg",
+        "first_air_date": "1998-02-24",
+        "softcore": false,
+        "name": "All Saints",
+        "vote_average": 6.231,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 2170,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Cutter to Houston",
+        "overview": "",
+        "popularity": 2.951,
+        "poster_path": null,
+        "first_air_date": "1983-10-01",
+        "softcore": false,
+        "name": "Cutter to Houston",
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q9tRxUOQ2K3vAvziTWhh9VYhZan.jpg",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "id": 126660,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Professor T",
+        "overview": "",
+        "popularity": 25.3859,
+        "poster_path": "/jJ9SjrX7tEAwHigRq20TeANhH1Q.jpg",
+        "first_air_date": "2021-07-18",
+        "softcore": false,
+        "name": "Professor T",
+        "vote_average": 7.294,
+        "vote_count": 63
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7tuYjHKUINkjx7sFJpPUezKmyC4.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126723,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "爱上特种兵",
+        "overview": "قصة رومانسية للجيش تحكي كيف أن ليانغ مو زي ، الرائد الواعد في القوات الخاصة بمنطقة جي ، وطبيب السلك الطبي الأجنبي ، شيا تشو ، التقيا أثناء أداء واجبه ، وطوروا تفاهمًا لبعضهم البعض. لقد تغلب الحب على عملية خطف إرهابية ، وأحبط عصابة إجرامية عازمة على سرقة الأسرار العسكرية ، والقضاء في النهاية على القوات الإجرامية ، وبالتالي أداء واجبهم كجنود وحماية أحبائهم",
+        "popularity": 6.217,
+        "poster_path": "/64pq2EOU03fTjei80Wjkyoy6s8U.jpg",
+        "first_air_date": "2021-06-01",
+        "softcore": false,
+        "name": "حارسي العزيز",
+        "vote_average": 7.559,
+        "vote_count": 17
+      }
+    ],
+    "total_pages": 2652,
+    "total_results": 53032
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 15
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jGLRnvajVBg3QXikgHiI0HdG9Qe.png",
+            "provider_id": 321,
+            "provider_name": "Sky X",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 62
+          },
+          {
+            "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+            "provider_id": 2745,
+            "provider_name": "Sony Pictures Core Amazon Channel",
+            "display_priority": 160
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=AU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/t0Rghe8mHePFrWfEnGVYiWlu6YF.png",
+            "provider_id": 82,
+            "provider_name": "10",
+            "display_priority": 23
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/1Hzele1xJnA7xfQyWKNQnTnWAio.png",
+            "provider_id": 385,
+            "provider_name": "BINGE",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qRZkZY5kgqXaLr4QFp7ON0wG5rB.png",
+            "provider_id": 134,
+            "provider_name": "Foxtel Now",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/6dOWQKIRIxDmX5FD4g5dPsHxFn3.png",
+            "provider_id": 21,
+            "provider_name": "Stan",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 50
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+            "provider_id": 307,
+            "provider_name": "Globoplay",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 80
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BY": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
+            "provider_id": 230,
+            "provider_name": "Crave",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/f8793PGMyrigh8uPd9BiK2jLV7N.png",
+            "provider_id": 469,
+            "provider_name": "Club Illico",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 91
+          },
+          {
+            "logo_path": "/6EuODonAziRYWv90wAtEmUjk78R.png",
+            "provider_id": 2604,
+            "provider_name": "Crave Amazon Channel",
+            "display_priority": 137
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/9DoQOfCz9S9j4cif3Cqx3ebk3FP.png",
+            "provider_id": 210,
+            "provider_name": "Sky",
+            "display_priority": 8
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CU": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gliWKhLJVdm7QwL1braBCRko5dx.png",
+            "provider_id": 381,
+            "provider_name": "Canal+",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/gzlCSbeTdiLJNxdZuMKNhW8X7cy.png",
+            "provider_id": 1939,
+            "provider_name": "Lepsi TV",
+            "display_priority": 27
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/2o26YwA7tXQ7I6CSrMvO9Rj4oNi.png",
+            "provider_id": 30,
+            "provider_name": "WOW",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 19
+          },
+          {
+            "logo_path": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png",
+            "provider_id": 2578,
+            "provider_name": "RTL+ Max Amazon Channel",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          },
+          {
+            "logo_path": "/mIR4wc2DLEIbn9TbtemvoX4zb26.png",
+            "provider_id": 2660,
+            "provider_name": "Wow Fiction Amazon Channel",
+            "display_priority": 216
+          },
+          {
+            "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+            "provider_id": 2745,
+            "provider_name": "Sony Pictures Core Amazon Channel",
+            "display_priority": 231
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=DK",
+        "rent": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 30
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/53JKjrhdG4z8DQ4pfdbHoAgPWeO.png",
+            "provider_id": 2241,
+            "provider_name": "Movistar Plus+",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/o1Z73d95pgJMpS3iCfRDtK5XJgp.png",
+            "provider_id": 1838,
+            "provider_name": "Tivify",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=FI",
+        "rent": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/cNOoXFJAxHhuvFzZD3ozinKYg6V.png",
+            "provider_id": 553,
+            "provider_name": "Telia Play",
+            "display_priority": 28
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+            "provider_id": 2745,
+            "provider_name": "Sony Pictures Core Amazon Channel",
+            "display_priority": 112
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/73lu1dtE9uJLWK1laXpeaAFh48j.png",
+            "provider_id": 61,
+            "provider_name": "Orange VOD",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 44
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 98
+          },
+          {
+            "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+            "provider_id": 2745,
+            "provider_name": "Sony Pictures Core Amazon Channel",
+            "display_priority": 177
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/kMT8p43W3BsXBe9mqCIPDNepser.png",
+            "provider_id": 103,
+            "provider_name": "Channel 4",
+            "display_priority": 11
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/uNyIRlzYb0Hf7Ix6Q3MKms0ERgA.png",
+            "provider_id": 2745,
+            "provider_name": "Sony Pictures Core Amazon Channel",
+            "display_priority": 92
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=IE",
+        "ads": [
+          {
+            "logo_path": "/kMT8p43W3BsXBe9mqCIPDNepser.png",
+            "provider_id": 103,
+            "provider_name": "Channel 4",
+            "display_priority": 16
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 11
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/9SVVjJ89csOM0xoeVVK8BryUf9a.png",
+            "provider_id": 614,
+            "provider_name": "VI movies and tv",
+            "display_priority": 36
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=IT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 10
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=JP",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 71
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 9
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 27
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 25
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=LV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=MU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 70
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+            "provider_id": 578,
+            "provider_name": "Strim",
+            "display_priority": 28
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=NZ",
+        "ads": [
+          {
+            "logo_path": "/7Aj9CHklAKGax7y55EA7BKTBraG.png",
+            "provider_id": 440,
+            "provider_name": "ThreeNow",
+            "display_priority": 16
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/68KYULhVkHI6TVrmPSE0LlPXB1U.png",
+            "provider_id": 273,
+            "provider_name": "Neon TV",
+            "display_priority": 6
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eP8ouMk5uIDebPWNto76rNstMqE.png",
+            "provider_id": 2296,
+            "provider_name": "Viaplay Amazon Channel",
+            "display_priority": 48
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 23
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 28
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=SE",
+        "rent": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/uzJAlKOjD4PCqqx3N1fwkmu0Ttb.png",
+            "provider_id": 497,
+            "provider_name": "Tele2 Play",
+            "display_priority": 20
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gliWKhLJVdm7QwL1braBCRko5dx.png",
+            "provider_id": 381,
+            "provider_name": "Canal+",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/tRQ9JpyxNgfwxPxzOa82QTytxH9.png",
+            "provider_id": 627,
+            "provider_name": "Voyo",
+            "display_priority": 41
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 25
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=UA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/a97LDSIw6uH6e9f3q27pzjvqAJS.png",
+            "provider_id": 1750,
+            "provider_name": "TOD",
+            "display_priority": 24
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/tv/71712-the-good-doctor/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,3928 @@
+{
+  "adult": false,
+  "backdrop_path": "/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+  "belongs_to_collection": {
+    "id": 544669,
+    "name": "Minions Collection",
+    "poster_path": "/lqU48HkuPDpbumwHk9syT7FbxpC.jpg",
+    "backdrop_path": "/62Qe28oi9PaK3P2ljDYUDTGAyST.jpg"
+  },
+  "budget": 85000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "مغامرة"
+    },
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
+    },
+    {
+      "id": 14,
+      "name": "فانتازيا"
+    }
+  ],
+  "homepage": "",
+  "id": 1315772,
+  "imdb_id": "tt32890033",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Minions & Monsters",
+  "overview": "هذه هي القصة الصاخبة والمضحكة والحقيقية تمامًا عن كيفية غزو المينيونز لهوليوود، وكيف أصبحوا نجومًا سينمائيين، وخسروا كل شيء، وأطلقوا العنان للوحوش على العالم، ثم تكاتفوا معًا لمحاولة إنقاذ الكوكب من الفوضى التي أحدثوها للتو",
+  "popularity": 141.8469,
+  "poster_path": "/uYs4IJdDQvnrNvVtYBNmjiHqbmF.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 6704,
+      "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+      "name": "Illumination",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-06-24",
+  "revenue": 505515960,
+  "runtime": 90,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "المينيون والوحوش",
+  "video": false,
+  "vote_average": 7.556,
+  "vote_count": 1061,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124747,
+        "known_for_department": "Directing",
+        "name": "Pierre Coffin",
+        "original_name": "Pierre Coffin",
+        "popularity": 2.0976,
+        "profile_path": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg",
+        "cast_id": 2,
+        "character": "The Minions (voice)",
+        "credit_id": "6690301a566b88daa8803025",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34517,
+        "known_for_department": "Writing",
+        "name": "تري باركر",
+        "original_name": "Trey Parker",
+        "popularity": 2.564,
+        "profile_path": "/3tJe8t90lrcQzXj9cRcpW9wmj2c.jpg",
+        "cast_id": 22,
+        "character": "Goomi (voice)",
+        "credit_id": "69b82c8a482d00725c3b9cd9",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 27319,
+        "known_for_department": "Acting",
+        "name": "كريستوف فالتز",
+        "original_name": "Christoph Waltz",
+        "popularity": 5.339,
+        "profile_path": "/jMvLGCVXLaBqjRLf5olyvEucZob.jpg",
+        "cast_id": 19,
+        "character": "Max (voice)",
+        "credit_id": "69b82c6d41c59da06295ebb7",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 19,
+        "known_for_department": "Acting",
+        "name": "أليسون جاني",
+        "original_name": "Allison Janney",
+        "popularity": 3.6071,
+        "profile_path": "/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg",
+        "cast_id": 18,
+        "character": "Olivia (voice)",
+        "credit_id": "69b82c6153dd07eef2020259",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 44735,
+        "known_for_department": "Acting",
+        "name": "جيسي آيزينبيرغ",
+        "original_name": "Jesse Eisenberg",
+        "popularity": 3.6106,
+        "profile_path": "/2ojZrkt5rdkUi857WSeCatxXdGS.jpg",
+        "cast_id": 21,
+        "character": "Dort (voice)",
+        "credit_id": "69b82c813e90b73afe95fce2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1229,
+        "known_for_department": "Acting",
+        "name": "جيف بريدجز",
+        "original_name": "Jeff Bridges",
+        "popularity": 4.2445,
+        "profile_path": "/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg",
+        "cast_id": 20,
+        "character": "Frank / Elwood (voice)",
+        "credit_id": "69b82c72bdcda3dc66020133",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1059597,
+        "known_for_department": "Acting",
+        "name": "زوي دويتش",
+        "original_name": "Zoey Deutch",
+        "popularity": 5.0926,
+        "profile_path": "/cpKcORQx7QquIy1ZZvEy8LEVLr2.jpg",
+        "cast_id": 23,
+        "character": "Debbie (voice)",
+        "credit_id": "69b82c9090b933c1645a7918",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 452205,
+        "known_for_department": "Acting",
+        "name": "بوبي موينيهان",
+        "original_name": "Bobby Moynihan",
+        "popularity": 1.7323,
+        "profile_path": "/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg",
+        "cast_id": 24,
+        "character": "Phillips (voice)",
+        "credit_id": "69b82c97e4b884d7623b9d7e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31549,
+        "known_for_department": "Acting",
+        "name": "فيل لامار",
+        "original_name": "Phil LaMarr",
+        "popularity": 1.9734,
+        "profile_path": "/xP2kNlsmXtzXq0geutflO4K9mSE.jpg",
+        "cast_id": 25,
+        "character": "Howard (voice)",
+        "credit_id": "69b82ca7482d00725c3b9cdf",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1,
+        "known_for_department": "Directing",
+        "name": "جورج لوكاس",
+        "original_name": "George Lucas",
+        "popularity": 3.2974,
+        "profile_path": "/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg",
+        "cast_id": 33,
+        "character": "George Lucas (voice)",
+        "credit_id": "6a35874c0923c82df089801a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 157146,
+        "known_for_department": "Acting",
+        "name": "Barbara Eve Harris",
+        "original_name": "Barbara Eve Harris",
+        "popularity": 2.732,
+        "profile_path": "/1WcoqAQn7KN0MadAWA5xebyt9bd.jpg",
+        "cast_id": 34,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b6abd03501db5b0617a7",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 89599,
+        "known_for_department": "Acting",
+        "name": "إريك بوذا",
+        "original_name": "Eric Bauza",
+        "popularity": 2.7254,
+        "profile_path": "/afOlsVPQxbtkom604MeCemjlwEV.jpg",
+        "cast_id": 35,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b6d7cfbb0b3b3263bb14",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 61536,
+        "known_for_department": "Acting",
+        "name": "Aaron Hendry",
+        "original_name": "Aaron Hendry",
+        "popularity": 0.9464,
+        "profile_path": "/lOA25S5b1fkBL6fnG3u33mFtTdE.jpg",
+        "cast_id": 36,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b6e16329de9630d73750",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4663666,
+        "known_for_department": "Acting",
+        "name": "Camden Brooks",
+        "original_name": "Camden Brooks",
+        "popularity": 0.7594,
+        "profile_path": "/ge9FgIjRERhyylebW2Np9YwkqqR.jpg",
+        "cast_id": 37,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b70e4c3df2f0a2e4c59a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1541380,
+        "known_for_department": "Acting",
+        "name": "JP Karliak",
+        "original_name": "JP Karliak",
+        "popularity": 1.1241,
+        "profile_path": "/7Rc3n8KmKUaztqfsIpddO1a2ggn.jpg",
+        "cast_id": 38,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b71aa84f5eff5e30f2f6",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1156183,
+        "known_for_department": "Acting",
+        "name": "أشلي بورتش",
+        "original_name": "Ashly Burch",
+        "popularity": 1.0545,
+        "profile_path": "/iINzNKiIGbjoee6tJKb8xMWog45.jpg",
+        "cast_id": 39,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b730608e67321d516ff0",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31365,
+        "known_for_department": "Acting",
+        "name": "John Kassir",
+        "original_name": "John Kassir",
+        "popularity": 1.459,
+        "profile_path": "/byj6Px0tLcqRFWIJYUxstg25Qd2.jpg",
+        "cast_id": 40,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b73c48fa4b1667ad0714",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1573215,
+        "known_for_department": "Acting",
+        "name": "Rachel Butera",
+        "original_name": "Rachel Butera",
+        "popularity": 0.6209,
+        "profile_path": "/j9PbEcUdFkInCdFjQAMNvctfF7j.jpg",
+        "cast_id": 41,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b74837edc88f65765ce8",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217803,
+        "known_for_department": "Acting",
+        "name": "Arif S. Kinchen",
+        "original_name": "Arif S. Kinchen",
+        "popularity": 0.7225,
+        "profile_path": "/rY16iqdy5lJIyEMoL941NdzUlEr.jpg",
+        "cast_id": 42,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b754608e67321d516ff8",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4328682,
+        "known_for_department": "Acting",
+        "name": "Nia Castro",
+        "original_name": "Nia Castro",
+        "popularity": 0.5449,
+        "profile_path": null,
+        "cast_id": 43,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b7b47dfce846ff73c049",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1298793,
+        "known_for_department": "Acting",
+        "name": "Mick Lauer",
+        "original_name": "Mick Lauer",
+        "popularity": 0.976,
+        "profile_path": "/gE18SWyqRjbfuAfNi5Al2M122pL.jpg",
+        "cast_id": 44,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b82d3d10260fb7e4c601",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 64948,
+        "known_for_department": "Acting",
+        "name": "Cathy Cavadini",
+        "original_name": "Cathy Cavadini",
+        "popularity": 1.1657,
+        "profile_path": "/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg",
+        "cast_id": 45,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b83a1456cd35ca765d1f",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52699,
+        "known_for_department": "Acting",
+        "name": "داني مان",
+        "original_name": "Danny Mann",
+        "popularity": 1.3192,
+        "profile_path": "/980QYqXIZCMn5Knx0vjROkw9vKo.jpg",
+        "cast_id": 46,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b86c4b40d2ea9e06174c",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105191,
+        "known_for_department": "Acting",
+        "name": "Will Collyer",
+        "original_name": "Will Collyer",
+        "popularity": 0.7231,
+        "profile_path": "/gxOV12lRnBh6FQUjOxtpRyo9cXx.jpg",
+        "cast_id": 47,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b878e7351d89e5e4c588",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35159,
+        "known_for_department": "Acting",
+        "name": "لارين نيومان",
+        "original_name": "Laraine Newman",
+        "popularity": 1.3188,
+        "profile_path": "/c50cGamQWIfDRDgYmHCiuj5Crpx.jpg",
+        "cast_id": 48,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b8849837329c54e4c5d6",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52360,
+        "known_for_department": "Writing",
+        "name": "Ken Daurio",
+        "original_name": "Ken Daurio",
+        "popularity": 1.0397,
+        "profile_path": "/w2h65hO12TzEZmONJ3RB6DqcskJ.jpg",
+        "cast_id": 49,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b88f3d10260fb7e4c616",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 584023,
+        "known_for_department": "Acting",
+        "name": "Levi Nunez",
+        "original_name": "Levi Nunez",
+        "popularity": 0.5424,
+        "profile_path": null,
+        "cast_id": 50,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b89954deec96aa517024",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 73016,
+        "known_for_department": "Acting",
+        "name": "Debi Derryberry",
+        "original_name": "Debi Derryberry",
+        "popularity": 1.6642,
+        "profile_path": "/aCVgHnvGBw7ssZA9kl1Pnr5pJjU.jpg",
+        "cast_id": 51,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b8acab2b8499105170d4",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3068593,
+        "known_for_department": "Acting",
+        "name": "Alessandra Perez",
+        "original_name": "Alessandra Perez",
+        "popularity": 0.6545,
+        "profile_path": "/uazQNT7FfmQYpaFMJT7SGskXN4i.jpg",
+        "cast_id": 52,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b8d4233320617d30f084",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 94820,
+        "known_for_department": "Acting",
+        "name": "جيسكا ديكيتشو",
+        "original_name": "Jessica DiCicco",
+        "popularity": 1.4484,
+        "profile_path": "/1Cp0PFtup0mlsecGyfImzd4LDiL.jpg",
+        "cast_id": 53,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b8e336e3319a09e4c4aa",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1182093,
+        "known_for_department": "Acting",
+        "name": "Noreen Reardon",
+        "original_name": "Noreen Reardon",
+        "popularity": 0.4615,
+        "profile_path": "/jAukkFdoJudhZlXmSuroyFkeiPJ.jpg",
+        "cast_id": 54,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46b8efe7351d89e5e4c58e",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1531911,
+        "known_for_department": "Editing",
+        "name": "كلير دودجسون",
+        "original_name": "Claire Dodgson",
+        "popularity": 0.5127,
+        "profile_path": "/cGxjZGsUvKyioACq6UXldysOOW4.jpg",
+        "cast_id": 55,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bac855cfa9d79073c0a0",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865803,
+        "known_for_department": "Acting",
+        "name": "Isaac Robinson-Smith",
+        "original_name": "Isaac Robinson-Smith",
+        "popularity": 0.5196,
+        "profile_path": "/ceNxqevAX7c9uAzl8IthjG3slqy.jpg",
+        "cast_id": 56,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bad69837329c54e4c60b",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 170317,
+        "known_for_department": "Acting",
+        "name": "Dave Fennoy",
+        "original_name": "Dave Fennoy",
+        "popularity": 0.7552,
+        "profile_path": "/1azEou77GcmST8hYJmV30PhAyO6.jpg",
+        "cast_id": 57,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46baebff23ee197073c00f",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3292248,
+        "known_for_department": "Acting",
+        "name": "Lorenzo Ross",
+        "original_name": "Lorenzo Ross",
+        "popularity": 0.4019,
+        "profile_path": null,
+        "cast_id": 58,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bb01cfbb0b3b3263bb51",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53209,
+        "known_for_department": "Acting",
+        "name": "Aaron Fors",
+        "original_name": "Aaron Fors",
+        "popularity": 0.707,
+        "profile_path": "/cZuAdf50vu237WYIKryYCLUDiD4.jpg",
+        "cast_id": 59,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bb0c55cfa9d79073c0a4",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 60279,
+        "known_for_department": "Acting",
+        "name": "فريد تاتاسكاوري",
+        "original_name": "Fred Tatasciore",
+        "popularity": 2.182,
+        "profile_path": "/xodxYKRC9mdvgquTdqpmYldliJ3.jpg",
+        "cast_id": 60,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bb589d03048f3dd7375b",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4967585,
+        "known_for_department": "Acting",
+        "name": "Damon Fung",
+        "original_name": "Damon Fung",
+        "popularity": 0.3176,
+        "profile_path": null,
+        "cast_id": 61,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bb62275b537dffd7379d",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2858993,
+        "known_for_department": "Editing",
+        "name": "Bryan Tuck",
+        "original_name": "Bryan Tuck",
+        "popularity": 0.4942,
+        "profile_path": null,
+        "cast_id": 62,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bba3df0415660d30f0ee",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 938425,
+        "known_for_department": "Acting",
+        "name": "Willow Geer",
+        "original_name": "Willow Geer",
+        "popularity": 0.6751,
+        "profile_path": "/kreFbFc095mvIRI89FIHUlWOBuo.jpg",
+        "cast_id": 63,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bbb3eac12c31a8e4c54f",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2005573,
+        "known_for_department": "Acting",
+        "name": "Nisa Ward",
+        "original_name": "Nisa Ward",
+        "popularity": 0.5201,
+        "profile_path": "/pOZxSrdG6gSQoa33w8KseZws6aY.jpg",
+        "cast_id": 64,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bbe47d68aac2faad0682",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3455062,
+        "known_for_department": "Acting",
+        "name": "Isa Hall",
+        "original_name": "Isa Hall",
+        "popularity": 0.4572,
+        "profile_path": "/cgiTK10YcnVTUKEeik4yHLEeuIW.jpg",
+        "cast_id": 65,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bbed36e3319a09e4c4de",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83105,
+        "known_for_department": "Acting",
+        "name": "Debra Wilson",
+        "original_name": "Debra Wilson",
+        "popularity": 2.0792,
+        "profile_path": "/3anRgUtqohXRNM6HtwGl1ZFgCS8.jpg",
+        "cast_id": 66,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bbfbbf2d1e5dcead069e",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84495,
+        "known_for_department": "Acting",
+        "name": "Jess Harnell",
+        "original_name": "Jess Harnell",
+        "popularity": 1.6345,
+        "profile_path": "/zQ2zg7PL3ut4JhfXMKSRV4FMnxR.jpg",
+        "cast_id": 67,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bc097dfce846ff73c098",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 71536,
+        "known_for_department": "Sound",
+        "name": "ماثيو وود",
+        "original_name": "Matthew Wood",
+        "popularity": 1.4594,
+        "profile_path": "/u1UjHLTeS5Dregg85A3GICf7Nkf.jpg",
+        "cast_id": 68,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bc157d68aac2faad068b",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2322348,
+        "known_for_department": "Acting",
+        "name": "Nora Wyman",
+        "original_name": "Nora Wyman",
+        "popularity": 0.3956,
+        "profile_path": "/oUFkoVsDorwnoef1ThrhPugGcTk.jpg",
+        "cast_id": 69,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a46bc44cee3bb42b5765cdc",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59784,
+        "known_for_department": "Acting",
+        "name": "Carlos Alazraqui",
+        "original_name": "Carlos Alazraqui",
+        "popularity": 1.9269,
+        "profile_path": "/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg",
+        "cast_id": 70,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a4730dd93fafa03dba475c1",
+        "order": 46
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4495,
+        "known_for_department": "Acting",
+        "name": "ستيف كارل",
+        "original_name": "Steve Carell",
+        "popularity": 4.8409,
+        "profile_path": "/cS7Cbyff6wFVfUGem497vy9LS7A.jpg",
+        "cast_id": 132,
+        "character": "Gru (archive) (uncredited) (voice)",
+        "credit_id": "6a68cbbe4e61fdb44a4b1fe7",
+        "order": 47
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124747,
+        "known_for_department": "Directing",
+        "name": "Pierre Coffin",
+        "original_name": "Pierre Coffin",
+        "popularity": 2.0976,
+        "profile_path": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg",
+        "credit_id": "66902ea6b6d8e95e39cc7d8f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5720,
+        "known_for_department": "Production",
+        "name": "Chris Meledandri",
+        "original_name": "Chris Meledandri",
+        "popularity": 1.3857,
+        "profile_path": "/iRcvLhuIzkUkjCR4C3NKbi2juuv.jpg",
+        "credit_id": "66903455f54df3cb3b069de5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1024175,
+        "known_for_department": "Writing",
+        "name": "Brian Lynch",
+        "original_name": "Brian Lynch",
+        "popularity": 1.2549,
+        "profile_path": "/dprj5Un51JO2QzQnDmHuBrqRQc3.jpg",
+        "credit_id": "698a3fee784f68fdb5aee353",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2121594,
+        "known_for_department": "Editing",
+        "name": "Sean Lawrence",
+        "original_name": "Sean Lawrence",
+        "popularity": 0.4921,
+        "profile_path": null,
+        "credit_id": "69f7ab81ddc260968760b0ca",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1024175,
+        "known_for_department": "Writing",
+        "name": "Brian Lynch",
+        "original_name": "Brian Lynch",
+        "popularity": 1.2549,
+        "profile_path": "/dprj5Un51JO2QzQnDmHuBrqRQc3.jpg",
+        "credit_id": "69fcaeef1f03990baced3077",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124747,
+        "known_for_department": "Directing",
+        "name": "Pierre Coffin",
+        "original_name": "Pierre Coffin",
+        "popularity": 2.0976,
+        "profile_path": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg",
+        "credit_id": "69fcaf03be36df8db7eda076",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11098,
+        "known_for_department": "Sound",
+        "name": "John Powell",
+        "original_name": "John Powell",
+        "popularity": 1.2975,
+        "profile_path": "/trywZMdhKM04PL1lH5OECXRxL1u.jpg",
+        "credit_id": "69fcb0b1f58e51bcf4a64a0e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 124748,
+        "known_for_department": "Directing",
+        "name": "Chris Renaud",
+        "original_name": "Chris Renaud",
+        "popularity": 1.612,
+        "profile_path": "/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg",
+        "credit_id": "6a4a042da2d9366049e8b44d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1814615,
+        "known_for_department": "Production",
+        "name": "Jean-Luc Florinda",
+        "original_name": "Jean-Luc Florinda",
+        "popularity": 0.4062,
+        "profile_path": null,
+        "credit_id": "6a4b49587372448f43cb4eb2",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2017366,
+        "known_for_department": "Production",
+        "name": "Delphine Le Roch",
+        "original_name": "Delphine Le Roch",
+        "popularity": 0.3666,
+        "profile_path": null,
+        "credit_id": "6a4b496e4da6fc4859cf1045",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2550583,
+        "known_for_department": "Art",
+        "name": "Charlotte Hutchinson",
+        "original_name": "Charlotte Hutchinson",
+        "popularity": 0.3161,
+        "profile_path": null,
+        "credit_id": "6a4b498c7d8c1f1c31cf10f2",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6329674,
+        "known_for_department": "Art",
+        "name": "Nicolas Alberti",
+        "original_name": "Nicolas Alberti",
+        "popularity": 0.3337,
+        "profile_path": null,
+        "credit_id": "6a4b49ff3ab1d82733f5b8d3",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2001369,
+        "known_for_department": "Art",
+        "name": "Vincent Massy",
+        "original_name": "Vincent Massy",
+        "popularity": 0.3696,
+        "profile_path": null,
+        "credit_id": "6a4b4a09dfbd0bd9158192f1",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 998577,
+        "known_for_department": "Art",
+        "name": "Paul Mager",
+        "original_name": "Paul Mager",
+        "popularity": 0.3479,
+        "profile_path": null,
+        "credit_id": "6a4b4a1715154fe9aae662f1",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6329676,
+        "known_for_department": "Art",
+        "name": "Loïc Rastout",
+        "original_name": "Loïc Rastout",
+        "popularity": 0.3342,
+        "profile_path": null,
+        "credit_id": "6a4b4a267d6d07e96d79887e",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394418,
+        "known_for_department": "Sound",
+        "name": "Jeremy Bowker",
+        "original_name": "Jeremy Bowker",
+        "popularity": 1.0305,
+        "profile_path": "/en5kd72MYfcJNXsRT0hzZZjz3wr.jpg",
+        "credit_id": "6a4b4a56f27bbcdf6a9830f9",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394418,
+        "known_for_department": "Sound",
+        "name": "Jeremy Bowker",
+        "original_name": "Jeremy Bowker",
+        "popularity": 1.0305,
+        "profile_path": "/en5kd72MYfcJNXsRT0hzZZjz3wr.jpg",
+        "credit_id": "6a4b4a60e031cb297ecb4f1a",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 138618,
+        "known_for_department": "Sound",
+        "name": "Gary Rizzo",
+        "original_name": "Gary Rizzo",
+        "popularity": 1.734,
+        "profile_path": "/m8vT9fYRLwM8WPpJiq8QIMBSueQ.jpg",
+        "credit_id": "6a4b4a771fe9a180c7798918",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1415463,
+        "known_for_department": "Sound",
+        "name": "Scott R. Lewis",
+        "original_name": "Scott R. Lewis",
+        "popularity": 0.5385,
+        "profile_path": null,
+        "credit_id": "6a4b4a840e459286ebcb4ea9",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16344,
+        "known_for_department": "Sound",
+        "name": "Daniel Laurie",
+        "original_name": "Daniel Laurie",
+        "popularity": 0.6296,
+        "profile_path": "/cZjLR3M9PjKRGgHPw5PFbHrZ3l6.jpg",
+        "credit_id": "6a4b4aa4c94fc61126e6637b",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2001480,
+        "known_for_department": "Lighting",
+        "name": "Nicolas Brack",
+        "original_name": "Nicolas Brack",
+        "popularity": 0.4126,
+        "profile_path": null,
+        "credit_id": "6a4b4ac2f933ab0685e66312",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1705478,
+        "known_for_department": "Directing",
+        "name": "Boris Jacq",
+        "original_name": "Boris Jacq",
+        "popularity": 0.5331,
+        "profile_path": null,
+        "credit_id": "6a4b4adaf933ab0685e66315",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2001328,
+        "known_for_department": "Lighting",
+        "name": "Mathieu Le Meur",
+        "original_name": "Mathieu Le Meur",
+        "popularity": 0.3229,
+        "profile_path": null,
+        "credit_id": "6a4b4ae3dfbd0bd915819310",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2550058,
+        "known_for_department": "Production",
+        "name": "Laure Gauthier",
+        "original_name": "Laure Gauthier",
+        "popularity": 0.3354,
+        "profile_path": null,
+        "credit_id": "6a4b4b1b7ebe829d3f98314f",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2001452,
+        "known_for_department": "Production",
+        "name": "Alexandra Skinazi-Francart",
+        "original_name": "Alexandra Skinazi-Francart",
+        "popularity": 0.4057,
+        "profile_path": null,
+        "credit_id": "6a4b4b303ab1d82733f5b8e0",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2001388,
+        "known_for_department": "Crew",
+        "name": "Pierre Avon",
+        "original_name": "Pierre Avon",
+        "popularity": 0.4161,
+        "profile_path": null,
+        "credit_id": "6a4b4c3e3fa975e0c9cf108e",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6329681,
+        "known_for_department": "Crew",
+        "name": "Alice Charreton",
+        "original_name": "Alice Charreton",
+        "popularity": 0.3257,
+        "profile_path": null,
+        "credit_id": "6a4b4c5ab556965385d32a6b",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2004613,
+        "known_for_department": "Directing",
+        "name": "Nicolas Faucheux",
+        "original_name": "Nicolas Faucheux",
+        "popularity": 0.3786,
+        "profile_path": null,
+        "credit_id": "6a4b4c6ee53a582ad38192eb",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6329682,
+        "known_for_department": "Crew",
+        "name": "Kevin Franczuk",
+        "original_name": "Kevin Franczuk",
+        "popularity": 0.3592,
+        "profile_path": null,
+        "credit_id": "6a4b4c7f0bb0ffd008f5b8ae",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2001568,
+        "known_for_department": "Visual Effects",
+        "name": "Jean-Charles Gonin",
+        "original_name": "Jean-Charles Gonin",
+        "popularity": 0.3262,
+        "profile_path": null,
+        "credit_id": "6a4b4c8a7d8c1f1c31cf1111",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4045148,
+        "known_for_department": "Visual Effects",
+        "name": "Antoine Trouillet",
+        "original_name": "Antoine Trouillet",
+        "popularity": 0.3291,
+        "profile_path": null,
+        "credit_id": "6a4b4c9c1d17521b231165f5",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8066,
+        "known_for_department": "Editing",
+        "name": "Katherine Ringgold",
+        "original_name": "Katherine Ringgold",
+        "popularity": 0.3459,
+        "profile_path": null,
+        "credit_id": "6a4b4cf5d91a09f754cb4f04",
+        "department": "Editing",
+        "job": "Additional Editing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3852405,
+        "known_for_department": "Editing",
+        "name": "Fanny Bensussan",
+        "original_name": "Fanny Bensussan",
+        "popularity": 0.3235,
+        "profile_path": null,
+        "credit_id": "6a4b4cff2a32ac0b98e6630a",
+        "department": "Editing",
+        "job": "Associate Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1044492,
+        "known_for_department": "Editing",
+        "name": "Stephen Perkins",
+        "original_name": "Stephen Perkins",
+        "popularity": 0.3609,
+        "profile_path": null,
+        "credit_id": "6a4b4d1358462a73f7819792",
+        "department": "Editing",
+        "job": "Additional Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6329683,
+        "known_for_department": "Editing",
+        "name": "Victor Lambert",
+        "original_name": "Victor Lambert",
+        "popularity": 0.4264,
+        "profile_path": null,
+        "credit_id": "6a4b4d29f27bbcdf6a98312d",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2858993,
+        "known_for_department": "Editing",
+        "name": "Bryan Tuck",
+        "original_name": "Bryan Tuck",
+        "popularity": 0.4942,
+        "profile_path": null,
+        "credit_id": "6a4b4d39aecd1745eed32a83",
+        "department": "Editing",
+        "job": "First Assistant Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2566188,
+        "known_for_department": "Art",
+        "name": "Nima Azarba",
+        "original_name": "Nima Azarba",
+        "popularity": 0.3237,
+        "profile_path": null,
+        "credit_id": "6a4c13d901f5fa58aaf46db5",
+        "department": "Writing",
+        "job": "Head of Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 998570,
+        "known_for_department": "Art",
+        "name": "Eric Guillon",
+        "original_name": "Eric Guillon",
+        "popularity": 0.5871,
+        "profile_path": "/djynRBEOI3zOskh0NyEQeHpT90k.jpg",
+        "credit_id": "6a4c141c6ff271f468f46e15",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7963,
+        "known_for_department": "Visual Effects",
+        "name": "Carter Goodrich",
+        "original_name": "Carter Goodrich",
+        "popularity": 0.4741,
+        "profile_path": "/v0w5eSNuIt05zJWiMUOFa57GEFC.jpg",
+        "credit_id": "6a4c1429463d60a4bb1719cf",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5294728,
+        "known_for_department": "Visual Effects",
+        "name": "Georges Abolin",
+        "original_name": "Georges Abolin",
+        "popularity": 0.3263,
+        "profile_path": null,
+        "credit_id": "6a4c14e07b59c849d5103ae9",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4045008,
+        "known_for_department": "Art",
+        "name": "Marco Allard",
+        "original_name": "Marco Allard",
+        "popularity": 0.3801,
+        "profile_path": null,
+        "credit_id": "6a4c1557d0f35660e75aa8a4",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2004272,
+        "known_for_department": "Visual Effects",
+        "name": "Jerod Chirico",
+        "original_name": "Jerod Chirico",
+        "popularity": 0.3236,
+        "profile_path": null,
+        "credit_id": "6a4c15ad63cac80894103a2c",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4016235,
+        "known_for_department": "Art",
+        "name": "Léa Cousty",
+        "original_name": "Léa Cousty",
+        "popularity": 0.371,
+        "profile_path": null,
+        "credit_id": "6a4c15bcaab5582f7f4d5c4e",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3779182,
+        "known_for_department": "Art",
+        "name": "Sarah Vettori",
+        "original_name": "Sarah Vettori",
+        "popularity": 0.3217,
+        "profile_path": null,
+        "credit_id": "6a4c162faab5582f7f4d5c54",
+        "department": "Writing",
+        "job": "Story Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2885287,
+        "known_for_department": "Writing",
+        "name": "Chris Allison",
+        "original_name": "Chris Allison",
+        "popularity": 0.44,
+        "profile_path": null,
+        "credit_id": "6a4c1657fedf9886208375d7",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1705477,
+        "known_for_department": "Directing",
+        "name": "Habib Louati",
+        "original_name": "Habib Louati",
+        "popularity": 0.527,
+        "profile_path": null,
+        "credit_id": "6a4c166401f5fa58aaf46e05",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6330940,
+        "known_for_department": "Art",
+        "name": "Najib Benhammou",
+        "original_name": "Najib Benhammou",
+        "popularity": 0.3051,
+        "profile_path": null,
+        "credit_id": "6a4c1687e4da769942c28c2e",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2735120,
+        "known_for_department": "Directing",
+        "name": "David Martins da Silva",
+        "original_name": "David Martins da Silva",
+        "popularity": 0.4118,
+        "profile_path": null,
+        "credit_id": "6a4c16aaf1ec758fb7c28c5b",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1493248,
+        "known_for_department": "Directing",
+        "name": "Alice Bissonnet",
+        "original_name": "Alice Bissonnet",
+        "popularity": 0.6225,
+        "profile_path": null,
+        "credit_id": "6a4c16bf819b5b90f8ea69c4",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3675247,
+        "known_for_department": "Art",
+        "name": "Lyle Nagy",
+        "original_name": "Lyle Nagy",
+        "popularity": 0.3545,
+        "profile_path": null,
+        "credit_id": "6a4c16d4e07b6bb3385aa8ad",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1596677,
+        "known_for_department": "Directing",
+        "name": "Rémi Godin",
+        "original_name": "Rémi Godin",
+        "popularity": 0.345,
+        "profile_path": null,
+        "credit_id": "6a4c16ea7b59c849d5103b21",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1092607,
+        "known_for_department": "Directing",
+        "name": "بنجامين رينر",
+        "original_name": "Benjamin Renner",
+        "popularity": 0.8208,
+        "profile_path": "/yp4ucXRYU5TdMj16glyoYYoxJcw.jpg",
+        "credit_id": "6a4c16fb8bef55ece05aa8f1",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4730671,
+        "known_for_department": "Art",
+        "name": "Fabrice Guevel",
+        "original_name": "Fabrice Guevel",
+        "popularity": 0.3729,
+        "profile_path": null,
+        "credit_id": "6a4c1723f1ec758fb7c28c65",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653765,
+        "known_for_department": "Art",
+        "name": "Lyndon Ruddy",
+        "original_name": "Lyndon Ruddy",
+        "popularity": 0.433,
+        "profile_path": null,
+        "credit_id": "6a4c1730cd77bef88f103a96",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6330948,
+        "known_for_department": "Art",
+        "name": "Stéphane Lapuss",
+        "original_name": "Stéphane Lapuss",
+        "popularity": 0.7278,
+        "profile_path": null,
+        "credit_id": "6a4c1760ab07cc0cd64d5cfa",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1261458,
+        "known_for_department": "Directing",
+        "name": "Rèmi Zaarour",
+        "original_name": "Rèmi Zaarour",
+        "popularity": 0.6378,
+        "profile_path": null,
+        "credit_id": "6a4c177ba1f397e1615aa989",
+        "department": "Art",
+        "job": "Additional Storyboarding"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2001564,
+        "known_for_department": "Visual Effects",
+        "name": "Pierre-François Duhamel",
+        "original_name": "Pierre-François Duhamel",
+        "popularity": 0.3448,
+        "profile_path": null,
+        "credit_id": "6a4dcd2aa2c576c8934ce770",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2001554,
+        "known_for_department": "Visual Effects",
+        "name": "Hichem Arfaoui",
+        "original_name": "Hichem Arfaoui",
+        "popularity": 0.3841,
+        "profile_path": null,
+        "credit_id": "6a4dcd3b1a8d3d50664ce930",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1787223,
+        "known_for_department": "Crew",
+        "name": "Thomas Berkane",
+        "original_name": "Thomas Berkane",
+        "popularity": 0.3407,
+        "profile_path": null,
+        "credit_id": "6a4dcdc1cc48906422f9039a",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4095999,
+        "known_for_department": "Visual Effects",
+        "name": "Omid Rajabalipour",
+        "original_name": "Omid Rajabalipour",
+        "popularity": 0.3133,
+        "profile_path": null,
+        "credit_id": "6a4dcdda42e1f3430c4262e0",
+        "department": "Crew",
+        "job": "Supervising Animator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1750282,
+        "known_for_department": "Visual Effects",
+        "name": "John R.A. Benson",
+        "original_name": "John R.A. Benson",
+        "popularity": 0.3462,
+        "profile_path": null,
+        "credit_id": "6a4dce9224a13ed1964ce8da",
+        "department": "Visual Effects",
+        "job": "Stereoscopic Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1043374,
+        "known_for_department": "Sound",
+        "name": "George Doering",
+        "original_name": "George Doering",
+        "popularity": 0.5559,
+        "profile_path": "/6QvzcNR6vGSAEwVsWFEvI94VgUa.jpg",
+        "credit_id": "6a50751084fb487cfb9dc9cf",
+        "department": "Sound",
+        "job": "Musician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1498226,
+        "known_for_department": "Visual Effects",
+        "name": "Patrick Delage",
+        "original_name": "Patrick Delage",
+        "popularity": 0.5073,
+        "profile_path": null,
+        "credit_id": "6a5541b60b303d32a883d271",
+        "department": "Directing",
+        "job": "Co-Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15779,
+        "known_for_department": "Editing",
+        "name": "Gregory Perler",
+        "original_name": "Gregory Perler",
+        "popularity": 0.6966,
+        "profile_path": null,
+        "credit_id": "6a596381c09090f359f376d6",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65482,
+        "known_for_department": "Production",
+        "name": "William Ryan",
+        "original_name": "William Ryan",
+        "popularity": 0.4246,
+        "profile_path": null,
+        "credit_id": "6a9b2403a0ac122d314b0273",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
+        "id": 529203,
+        "title": "عائلة كرود∶ عصر جديد",
+        "original_title": "The Croods: A New Age",
+        "overview": "في بحثها عن موطن أكثر أمانًا، تكتشف عائلة كرود من عصور ما قبل التاريخ جنةً مثاليةً محاطةً بالأسوار تُلبي جميع احتياجاتها. ولكن، للأسف، عليهم أيضًا أن يتعلموا العيش مع عائلة بيترمان - وهي عائلةٌ تتفوق عليهم ببضع خطوات في سلم التطور. ومع تصاعد التوترات بين الجيران الجدد، سرعان ما يدفع تهديدٌ جديدٌ كلا العشيرتين إلى مغامرةٍ ملحميةٍ تُجبرهما على تقبّل اختلافاتهما، واستمداد القوة من بعضهما البعض، والبقاء معًا.",
+        "poster_path": "/k6F13uEkqJe0i3eza2NUQZcEdv4.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          12,
+          14,
+          35
+        ],
+        "popularity": 10.5549,
+        "release_date": "2020-11-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.44,
+        "vote_count": 4232
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+        "id": 438148,
+        "title": "المينيونز 2  صعود جرو",
+        "original_title": "Minions: The Rise of Gru",
+        "overview": "الشرير سوف يرتفع.  يخطط غرو ، وهو معجب بمجموعة خارقة تعرف باسم الشرير 6  ، ليصبح شريرا بما يكفي للانضمام إليهم ، مع دعم أتباعه ، التوابع .",
+        "poster_path": "/fawU2yYZYOmZOlIR7zKd9qaRd8D.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          878,
+          80,
+          10751
+        ],
+        "popularity": 17.2748,
+        "release_date": "2022-06-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.263,
+        "vote_count": 4159
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7QabKu8tizoqy8qCZJXljdSpP4A.jpg",
+        "id": 585083,
+        "title": "فندق ترانسلفانيا 4∶ ترانسفورمينيا ‏",
+        "original_title": "Hotel Transylvania: Transformania",
+        "overview": "بسبب الماكينة الجديدة التي ابتكرها فان هلسينج، يتحول دارك وعصبته من الوحوش إلى بشر، أما جوني فعلى العكس يصير وحشًا، وعلى أفراد العصبة أن يعودوا لسابق عهدهم قبل فوات اﻷوان.",
+        "poster_path": "/nuFNisKkBzB9ocTPiIKBphkw88n.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          12,
+          14
+        ],
+        "popularity": 12.4194,
+        "release_date": "2022-01-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 3093
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i4o2aPGlnsxfPmDPF5lmlgjScyv.jpg",
+        "id": 927254,
+        "title": "آل تويت",
+        "original_title": "The Twits",
+        "overview": "عندما يمارس الشريران الأكثر خبثًا ولؤمًا الحيل للسيطرة على بلدتهما، يتّحد طفلان شجاعان مع عائلة من الحيوانات السحرية للتصدّي لهما.",
+        "poster_path": "/tnJodUltJNxYBjKcXrPjwBkwbpl.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          14
+        ],
+        "popularity": 7.9529,
+        "release_date": "2025-10-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.899,
+        "vote_count": 119
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
+        "id": 15512,
+        "title": "الوحوش ضد الفضائيين",
+        "original_title": "Monsters vs Aliens",
+        "overview": "تدور أحداث الفيلم في إطار من المغامرات حول نيزك من الفضاء الخارجي يضرب امرأة من كاليفورنيا تدعى (سوزان ميرفي)، مما يحولها إلى وحش عملاق، وتعتقلها الحكومة وتسجنها في مكان سري يضم أشخاصَا مثلها ممن وقعت لهم حوادث مماثلة في السابق، وعندما يصل مخلوق فضائي غريب الى كوكب الارض من أجل غزو العالم، يعرض الرئيس (هاثاواي) على هؤلاء الأشخاص حريتهم في مقابل التغلب على هذا المخلوق الفضائي.",
+        "poster_path": "/lZ2srFnRzFFsMigIAwpbyzmTx10.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          12,
+          878
+        ],
+        "popularity": 13.8312,
+        "release_date": "2009-03-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.264,
+        "vote_count": 5116
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q2vz5DeLbegD2teJU29Gtb4t2sO.jpg",
+        "id": 170687,
+        "title": "أقزام العلب",
+        "original_title": "The Boxtrolls",
+        "overview": "في جو عائلي ممزوج بالكوميديا، يرصد الفيلم قصة صبي يتيم يُدعى إيجز (إيزاك هامبستيد رايت)، نشأ إيجز في عالم غريب وعجيب ومريب؛ وذلك في كهف سفلي مع جامعي القمامة، والذين يُطلق عليهم (بوكسترولز أو جبابرة الصناديق). تنقلب حياة كل من إيجز وجبابرة الصناديق رأسًا على عقب بعدما يطاردهم شخص شرير يُدعى أركيبالد سناتشر (بين كينجسلي)؛ ولذلك يقرر إيجز فعل ما في وسعه من أجل إنقاذ أصدقائه، ويتعين عليه الوقوف لأركيبالد سناتشر بالمرصاد.",
+        "poster_path": "/pRaxirBVwuYaLmZcYCEZ5tjjw47.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          14
+        ],
+        "popularity": 9.4563,
+        "release_date": "2014-09-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.723,
+        "vote_count": 1853
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
+        "id": 315162,
+        "title": "القط ذو الحذاء: الأمنية الأخيرة",
+        "original_title": "Puss in Boots: The Last Wish",
+        "overview": "يكتشف بوس أن شغفه بالمغامرة قد تسبب في خسائر فادحة وذلك لأنه قضى على ثمانية من حياته التسع . فينطلق بوس في رحلة ملحمية للعثور على آخر أمنية أسطورية واستعادة حياته التسعة.",
+        "poster_path": "/tevlzPwtzc5KYPONsS2sGqYQoPG.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          14,
+          35,
+          10751
+        ],
+        "popularity": 28.5443,
+        "release_date": "2022-12-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.216,
+        "vote_count": 9201
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sqcqFzAj3IPSFprQSLHr5JOBU4m.jpg",
+        "id": 228165,
+        "title": "سبونج بوب الإسفنج خارج المياه",
+        "original_title": "The SpongeBob Movie: Sponge Out of Water",
+        "overview": "يذهب (سبونج بوب) في مهمة من أجل كشف مؤامرة لسرقة وصفاته، حيث يتصارع مع القرصان الخطير برجر بيرد والذي يسعى لتنفيذ مخطط شرير بواسطة الوصفات السحرية لـ(سبونج بوب)، والذي سيعرض كل سكان المدينة للخطر، والطريقة الوحيدة الممكنة لاسترجاع الوصفات هو أن يترك (سنوبج بوب) عالمه المائي وأن يسافر عبر الزمن لاسترجاع وصفاته.",
+        "poster_path": "/2WDmjUlSAPlA27i2OwEC7sRTFw3.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "popularity": 10.9256,
+        "release_date": "2015-01-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.115,
+        "vote_count": 2596
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wu1uilmhM4TdluKi2ytfz8gidHf.jpg",
+        "id": 400160,
+        "title": "سبونج بوب سبونج يلوذ بالفرار",
+        "original_title": "The SpongeBob Movie: Sponge on the Run",
+        "overview": "لم يعودوا في قاع البيكيني بعد الآن.\r عندما يتم خطف صديقه المقرب غاري فجأة ، يأخذ سبونجبوب باتريك في مهمة جنونية أبعد من بيكيني بوتوم لإنقاذ صديقهم ذو القشرة الوردية.",
+        "poster_path": "/f5GRl0E987EGtbemffwvylTj2OZ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          10751,
+          14
+        ],
+        "popularity": 8.6279,
+        "release_date": "2020-08-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.39,
+        "vote_count": 3028
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c5MCkebYhFuhmi32x760HfcvLIO.jpg",
+        "id": 417859,
+        "title": "القط ذو الحذاء",
+        "original_title": "Puss in Boots",
+        "overview": "تدور احداث الفيلم حول القطّ الأسطوري ويتجه إلى \"أرض العمالقة\" مع صديقيه \"هامبتي دامبتي\" و\"كيتي الأيدي الناعمة\" في مهمّة لسلب أعظم كنوزها... إنّها \"الإوزة الذهبية\".",
+        "poster_path": "/iaVI67FVvVia9g6Xy6nEe2AqfpO.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          35,
+          10751
+        ],
+        "popularity": 19.2727,
+        "release_date": "2011-10-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.615,
+        "vote_count": 4738
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7neeXze9HB3MTxDYyh3wwysydMN.jpg",
+        "id": 778855,
+        "title": "هوبر وهامستر الظلام",
+        "original_title": "Chickenhare and the Hamster of Darkness",
+        "overview": "يتعاون مستكشف حيوانات شجاع مع صديقين موثوقين للعثور على قطعة أثرية قوية قبل أن يتمكن عمه الجشع من وضع كفوفه عليها.",
+        "poster_path": "/2v6f1EqTo4FUxVT9MDXpF6158AX.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751,
+          14
+        ],
+        "popularity": 6.3574,
+        "release_date": "2022-02-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.219,
+        "vote_count": 292
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/utChUdMhCEWKjHTc8DO5aK8dUVS.jpg",
+        "id": 520758,
+        "title": "هروب الدجاج: تشيكن ناغيت",
+        "original_title": "Chicken Run: Dawn of the Nugget",
+        "overview": "A band of fearless chickens flock together to save poultry-kind from an unsettling new threat: a nearby farm that's cooking up something suspicious.",
+        "poster_path": "/AlBPYqEe6TIEZ65YVzQMZ4Un8A7.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          12,
+          35
+        ],
+        "popularity": 8.3,
+        "release_date": "2023-12-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.941,
+        "vote_count": 940
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wk7R89u4l3AC3PRg7Abac2IJ5Ky.jpg",
+        "id": 16866,
+        "title": "الكوكب 51",
+        "original_title": "Planet 51",
+        "overview": "الكوكب 51، حيث يعيش سكانه في خوف دائم من غزو فضائي. تتحقق هذه المخاوف عندما يهبط الكابتن تشارلز \"تشاك\" بيكر على كوكبهم، ويهرب من الأسر، ويحاول العودة إلى الأرض.",
+        "poster_path": "/awdxn38SdUhf1rddWJs6SjjaRgp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          878,
+          12
+        ],
+        "popularity": 8.4809,
+        "release_date": "2009-11-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.925,
+        "vote_count": 2221
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vcLpxfpfKCKGiTlUx83CzKxRDT2.jpg",
+        "id": 175112,
+        "title": "تنة ورنة ∶ وجنية القراصنة",
+        "original_title": "Tinker Bell and the Pirate Fairy",
+        "overview": "جنية تُدعى زارينا (كريستينا هيندريكس) تقوم بسرقة الغبار الأزرق الخاص ببيكسي هولو، وتنضم لقوات القراصنة في سكال روك؛ حيث يتم تعيينها كقائدة لهم؛ لذلك تقوم تينكر بيل (ماي ويتمان) بخوض مغامرة شيقة بمساعدة أصدقائها من أجل استعادة ما تم سرقته. في أثناء مطاردة زارينا تنقلب حياة تينكر بيل رأسًا على عقب، ويتعين عليها مصارعة الوقت من أجل استعادة غبار بيكسي والعودة إلى الوطن سالمة.",
+        "poster_path": "/4PwTLfsH95lBL8VR9uk9y2ixnpn.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751
+        ],
+        "popularity": 7.4389,
+        "release_date": "2014-02-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.975,
+        "vote_count": 1110
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+        "id": 585,
+        "title": "شركة المرعبين المحدودة",
+        "original_title": "Monsters, Inc.",
+        "overview": "تدور أحداث الفيلم عن مدينة للوحوش. شركة المرعبين المحدودة هي شركة توليد الطاقة للمدينة، والتي تستعمل كمصدر للطاقة صراخ الأطفال، لهذا يحاولون تخويفهم. وفي محاولة أحد الموظفين (راندل) بالاتفاق مع مدير الشركة أبو عنكبوت لتوفير الطاقة والتي أصبحت الشركة تعانى من قلتها بسبب عدم خوف الاطفال من المخوفاتيه يقوم هذا الموظف باختراع جهاز مهمته أن يأخذ الصراخ من الأطفال بالقوه. يكتشف شلبى سلوفان عن وجود باب بعد ساعات العمل، ومن هذا الباب تدخل طفله إلى مدينة المرعبيين. وهنا تبدأ الأحداث حيث يسعى شلبى سلوفان وماردوشوشنى إلى إعادة الطفلة إلى بيتها في ظل مطاردة من اندل للقبض على الطفلة وتجربة الجهاز عليها. أثناء هذه المطاردة يكتشفون ان مدير الشركة أبو عنكبوت مشترك في هذه الجريمة. وبعد عدة أحداث يتم القبض على أبو عنكبوت ويتم نفى اندل إلى عالم البشر. كما يكتشفون مصدر جديد للطاقة بدلا من تخويف وهو الضحك. ويستلم شلبى سلوفان إدارة الشركة والتي تعود للنمو من جديد.",
+        "poster_path": "/oLKR5TveXBdAI50TpxXS1hURG9Y.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          14
+        ],
+        "popularity": 36.3601,
+        "release_date": "2001-11-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.856,
+        "vote_count": 20211
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cMfokHWle5lfCreoV08cbmkKv6G.jpg",
+        "id": 698687,
+        "title": "المتحولون 1",
+        "original_title": "Transformers One",
+        "overview": "تدور الأحداث في كوكب (سايبرترون)، موطن الأوتوبوت، وكيف يقود (أوبتيموس برايم) و(ميجاترون) جيوشًا من الآليين من أجل مواجهة قوى (ديسيبتيكون) الغاشمة، قبل أن تسيطر على العالم.",
+        "poster_path": "/h654FPjv1Q4I9Dg3yCG4YwLy2ZC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          878,
+          12,
+          10751
+        ],
+        "popularity": 16.844,
+        "release_date": "2024-09-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.982,
+        "vote_count": 1757
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
+        "id": 1022787,
+        "title": "إليو",
+        "original_title": "Elio",
+        "overview": "يجد إليو البالغ من العمر 11 عاما نفسه منقولا عبر المجرة ويخطئ في أنه سفير بين المجرات لكوكب الأرض.",
+        "poster_path": "/gvckTVdhkMjGWciSynsd4kI50TY.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          878,
+          10751,
+          35
+        ],
+        "popularity": 20.0649,
+        "release_date": "2025-06-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.922,
+        "vote_count": 1120
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gnkBzJVH2zicIopP2fHf4kRElne.jpg",
+        "id": 228161,
+        "title": "الوطن",
+        "original_title": "Home",
+        "overview": "عوالم تصطدم\r عندما يتم الاستيلاء على الأرض من قبل بوف الواثق بشكل مفرط ، وهو جنس فضائي يبحث عن مكان جديد للاتصال بالمنزل ، يتم نقل جميع البشر على الفور ، بينما ينشغل كل بوف بإعادة تنظيم الكوكب. ولكن عندما تتمكن فتاة واسعة الحيلة ، تيب ، من تجنب القبض عليها ، تجد نفسها شريكة عرضية لبوف منفي يدعى أوه. يدرك الهاربان أن هناك الكثير على المحك من العلاقات بين المجرات أثناء شروعهما في رحلة العمر على الطريق.",
+        "poster_path": "/nNhJLxmP4gm9JT7EvxBhxHZf3lp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          35,
+          16,
+          878,
+          10751
+        ],
+        "popularity": 12.481,
+        "release_date": "2015-03-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.788,
+        "vote_count": 4312
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+        "id": 519182,
+        "title": "الحقير أنا 4",
+        "original_title": "Despicable Me 4",
+        "overview": "يواجه (جرو) العديد من التحديات العائلية بعد إنجاب زوجته لطفلهما الأول، تزامنًا مع هروب المجرم (ماكسيم لو مال)، والذي يقرر الانتقام من عدوه اللدود (جرو).",
+        "poster_path": "/cirRkWdTspOvqrNCMIDBnIIuEuV.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          28,
+          878,
+          10751
+        ],
+        "popularity": 21.7851,
+        "release_date": "2024-06-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.969,
+        "vote_count": 3351
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8VGiUMkjdevsVYHZ8tIpHl6EbbF.jpg",
+        "id": 974663,
+        "title": "200% Wolf",
+        "original_title": "200% Wolf",
+        "overview": "When Freddy Lupin's wayward wish transforms him into a werewolf and deposits a mischievous moon sprite on Earth, Freddy must restore the cosmic order before the earth and moon collide.",
+        "poster_path": "/pHGB9jN31cDNKhR0VRNZsXZkGZQ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          14,
+          10751,
+          28,
+          35
+        ],
+        "popularity": 4.6817,
+        "release_date": "2024-07-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 64
+      }
+    ],
+    "total_pages": 36,
+    "total_results": 710
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10751,
+          35,
+          14
+        ],
+        "id": 816868,
+        "title": "Hat Trick",
+        "original_language": "en",
+        "original_title": "Hat Trick",
+        "overview": "",
+        "popularity": 0.5529,
+        "poster_path": "/h30M3bxmCOijbi9dMSATTr91Oxc.jpg",
+        "release_date": "2012-06-07",
+        "softcore": false,
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 444863,
+        "title": "Vízió",
+        "original_language": "en",
+        "original_title": "Vízió",
+        "overview": "",
+        "popularity": 0.8631,
+        "poster_path": null,
+        "release_date": "2000-02-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wbNKvMdPgOjrsydymIXxHLqIlOZ.jpg",
+        "genre_ids": [
+          14,
+          12
+        ],
+        "id": 848,
+        "title": "Dragonslayer",
+        "original_language": "en",
+        "original_title": "Dragonslayer",
+        "overview": "",
+        "popularity": 3.1321,
+        "poster_path": "/92VXAEwbjebYqTeUa7uX5bBtDuD.jpg",
+        "release_date": "1981-06-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.552,
+        "vote_count": 334
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/feCcRTZNGUop3LnWBLTToYhd03S.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 850,
+        "title": "قصة عيد الميلاد",
+        "original_language": "en",
+        "original_title": "A Christmas Story",
+        "overview": "المغامرات والمواقف الكوميدية التي يمر بها صبي صغير يُدعى رالف، وهو يحاول إقناع والديه ومعلميه وسانتا كلوز بأن بندقية ريد رايدر بي بي هي بالفعل هدية عيد الميلاد المثالية لفترة الأربعينيات",
+        "popularity": 8.9344,
+        "poster_path": "/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
+        "release_date": "1983-11-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.237,
+        "vote_count": 1465
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w0eKUOEog2ImtktCHAMUZws8qif.jpg",
+        "genre_ids": [
+          16,
+          35,
+          14,
+          12,
+          10751
+        ],
+        "id": 808,
+        "title": "شريك",
+        "original_language": "en",
+        "original_title": "Shrek",
+        "overview": "شريك غول اخضر يعيش في المستنقع وحيدًا مستمتعًا بعزلته، إلى أن يجد في يوم ما كل شخصيات القصص الخيالية ينامون في مستنقعه, فيذهب إلى اللورد فركواد ومعه الحمار كمساعده كي يامرهم بالرحيل, فيطلب منه فركواد ان يذهب لعرين التنين لينقذ الأميرة فيونا التي تتحول في المساء إلى غولة بدورها.",
+        "popularity": 33.8271,
+        "poster_path": "/vQDAFMwOEdo2qSNZEb5uFixNfV0.jpg",
+        "release_date": "2001-05-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.778,
+        "vote_count": 19277
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8ohobj5lAIbl5XWw11FywS3IRrS.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          14,
+          10749
+        ],
+        "id": 809,
+        "title": "شريك 2",
+        "original_language": "en",
+        "original_title": "Shrek 2",
+        "overview": "يبدأ الجزء الثاني من حيث انتهى الجزء الأول، بعدما تحولت الأميرة فيونا إلى غولة قبيحة وتزوجت شريك وعاشا معا في مستنقعة، يتوجب على فيونا وشريك زيارة والديها الملك والملكة بعد فترة غياب عنهما طويلة، لكنهما يصابان بصدمة كبيرة، بعد لقائهما مع ابنتهما في هيئتها الجديدة، تتقبل الملكة الأم الواقع الجديد الأليم، بينما يرفضه الملك ويقرر التخلص من شريك، وبعد فشله بجميع المؤامرات، يلجأ إلى الجنية العرابة لتعيد له ابنته بصورتها الحقيقة، ولكنها تشترط عليه أن تتزوج من ابنها المغرور.",
+        "popularity": 21.1784,
+        "poster_path": "/gbn4OmfFNnzp9pfXDYh7CbxgqLN.jpg",
+        "release_date": "2004-05-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.328,
+        "vote_count": 13745
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wvXxKpFGXvQJRB0nvvfURhRD3C0.jpg",
+        "genre_ids": [
+          14,
+          12,
+          16,
+          35,
+          10751
+        ],
+        "id": 810,
+        "title": "شريك 3",
+        "original_language": "en",
+        "original_title": "Shrek the Third",
+        "overview": "عندما يسقط حماه -الملك هارولد- مريضًا، يصبح شريك الوريث المنتظر للأرض البعيدة، من أجل عدم التخلي عن حبيبته، يجند شريك أصدقائه الحمار والقط لتثبيت أرتي المتمرد الملك الجديد، ولكن الأميرة فيونا، تنظم مسيرات مجموعة من الصديقات الملكية لدرء انقلاب من قبل الأمير الساحر.",
+        "popularity": 21.6595,
+        "poster_path": "/t3bVJm42Dr9VB6ZOr8rrLZ0V2kR.jpg",
+        "release_date": "2007-05-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.314,
+        "vote_count": 9978
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          12,
+          14,
+          10749
+        ],
+        "id": 812,
+        "title": "علاء الدين",
+        "original_language": "en",
+        "original_title": "Aladdin",
+        "overview": "علاء الدين هو طفل شوارع يعيش في مدينة كبيرة مزدحمة مع صديقه المخلص القرد (آبو)، ليصادف في المدينة الأميرة ياسمين، ويحبها، فيذهب إلى السجن و يتورط في مؤامرة لحكم الأرض من تخطيط مستشار السلطان (جعفر) بمساعدة مصباح غامض.",
+        "popularity": 21.0882,
+        "poster_path": "/wegx7wEkOZszm4HNlBVn7wKKtui.jpg",
+        "release_date": "1992-11-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.657,
+        "vote_count": 12241
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg",
+        "genre_ids": [
+          35,
+          27,
+          14
+        ],
+        "id": 814,
+        "title": "An American Werewolf in London",
+        "original_language": "en",
+        "original_title": "An American Werewolf in London",
+        "overview": "",
+        "popularity": 9.5419,
+        "poster_path": "/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+        "release_date": "1981-08-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.388,
+        "vote_count": 2786
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wSm5McaHSAyOx4gGRYdlDHzj00y.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 816,
+        "title": "Austin Powers: International Man of Mystery",
+        "original_language": "en",
+        "original_title": "Austin Powers: International Man of Mystery",
+        "overview": "",
+        "popularity": 8.9002,
+        "poster_path": "/5uD4dxNX8JKFjWKYMHyOsqhi5pN.jpg",
+        "release_date": "1997-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.601,
+        "vote_count": 3920
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xI1tAzzUk2v9nON6DLAHzcOLK42.jpg",
+        "genre_ids": [
+          35,
+          12,
+          80
+        ],
+        "id": 817,
+        "title": "Austin Powers: The Spy Who Shagged Me",
+        "original_language": "en",
+        "original_title": "Austin Powers: The Spy Who Shagged Me",
+        "overview": "",
+        "popularity": 8.468,
+        "poster_path": "/jiF7UShERJFn5RtgfBK2lIJrOTc.jpg",
+        "release_date": "1999-06-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.322,
+        "vote_count": 3790
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kuPpElzfYnzsCye0hF8EbJSrvwo.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 818,
+        "title": "Austin Powers in Goldmember",
+        "original_language": "en",
+        "original_title": "Austin Powers in Goldmember",
+        "overview": "يواصل أكثر الجواسيس إثارةً في العالم معركته ضد الدكتور إيفل. هذه المرة، يتعاون الطبيب الشرير ومستنسخه، ميني-مي، مع عدو جديد - زعيم عصابة السبعينيات غولد ممبر. أثناء مطاردة فريق الأشرار لمنعهم من السيطرة على العالم، يتلقى أوستن مساعدة من والده وحبيبته السابقة",
+        "popularity": 9.534,
+        "poster_path": "/n8V61f1v7idya4WJzGEJNoIp9iL.jpg",
+        "release_date": "2002-07-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.019,
+        "vote_count": 3533
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          10749
+        ],
+        "id": 1200804,
+        "title": "Alice Júnior: Férias de Verão",
+        "original_language": "pt",
+        "original_title": "Alice Júnior: Férias de Verão",
+        "overview": "",
+        "popularity": 1.2173,
+        "poster_path": "/jyyVxt7VEDzVJovZtBhix82I097.jpg",
+        "release_date": "2026-12-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fBzwSM5zl4xp9L3rFu1PihmY0vh.jpg",
+        "genre_ids": [
+          16,
+          14,
+          12
+        ],
+        "id": 1361,
+        "title": "The Return of the King",
+        "original_language": "en",
+        "original_title": "The Return of the King",
+        "overview": "",
+        "popularity": 2.4361,
+        "poster_path": "/lTwUT4NsSyUQlHV20Mx3C96JHq4.jpg",
+        "release_date": "1980-05-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.41,
+        "vote_count": 227
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qNVf39jp9fZSLd1bWMYjOrrEkI2.jpg",
+        "genre_ids": [
+          10751,
+          14,
+          16,
+          12,
+          10770
+        ],
+        "id": 1362,
+        "title": "The Hobbit",
+        "original_language": "en",
+        "original_title": "The Hobbit",
+        "overview": "",
+        "popularity": 3.1298,
+        "poster_path": "/2ohvyMPhvjftLrM6S6Ljr6QrL0u.jpg",
+        "release_date": "1977-11-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.585,
+        "vote_count": 377
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aPlgkT2FlD7EcE6Vi10I4RTzRqb.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53,
+          10752
+        ],
+        "id": 1369,
+        "title": "Rambo: First Blood Part II",
+        "original_language": "en",
+        "original_title": "Rambo: First Blood Part II",
+        "overview": "أطلقت الحكومة سراح جون رامبو من السجن للقيام بمهمة سرية للغاية إلى آخر مكان على وجه الأرض يريد العودة إليه - أدغال فيتنام.",
+        "popularity": 13.8166,
+        "poster_path": "/fVwRtWqEPdsCH21BVDGqgkAQcff.jpg",
+        "release_date": "1985-05-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.67,
+        "vote_count": 4457
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+        "genre_ids": [
+          28,
+          12,
+          53,
+          10752
+        ],
+        "id": 1370,
+        "title": "Rambo III",
+        "original_language": "en",
+        "original_title": "Rambo III",
+        "overview": "لقد أثر القتال على رامبو ، لكنه بدأ أخيرًا في إيجاد السلام الداخلي في أحد الأديرة. عندما طلب صديق ومعلم رامبو الكولونيل تراوتمان مساعدته في مهمة سرية للغاية إلى أفغانستان ، رفض رامبو ولكن يجب أن يعيد النظر عندما يتم القبض على تراوتمان.",
+        "popularity": 11.1055,
+        "poster_path": "/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg",
+        "release_date": "1988-05-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.209,
+        "vote_count": 3578
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ew3x9p8A28p3sLE8OaHwUsb1mSQ.jpg",
+        "genre_ids": [
+          878,
+          18,
+          14
+        ],
+        "id": 991,
+        "title": "The Man Who Fell to Earth",
+        "original_language": "en",
+        "original_title": "The Man Who Fell to Earth",
+        "overview": "",
+        "popularity": 3.8888,
+        "poster_path": "/gwmPVphE5DMFFGXGMhfEFyxOOYj.jpg",
+        "release_date": "1976-03-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.468,
+        "vote_count": 618
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tSipsYTp565LkopntX1lZNLPYHP.jpg",
+        "genre_ids": [
+          28,
+          35,
+          9648
+        ],
+        "id": 992,
+        "title": "Sherlock Jr.",
+        "original_language": "en",
+        "original_title": "Sherlock Jr.",
+        "overview": "",
+        "popularity": 5.2507,
+        "poster_path": "/1G9r3rqtbFAQuyWKOZm4Y5J5s7Q.jpg",
+        "release_date": "1924-04-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.041,
+        "vote_count": 1201
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dyBfej8BJJe2XHWGnYCmHNA9uyi.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1574961,
+        "title": "Warkop DKI: ViRaLiN dOoOoNg..!!",
+        "original_language": "id",
+        "original_title": "Warkop DKI: ViRaLiN dOoOoNg..!!",
+        "overview": "",
+        "popularity": 1.6007,
+        "poster_path": "/w9B66TqXL0WGw2roQOk3ohxJQWM.jpg",
+        "release_date": "2026-06-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.5,
+        "vote_count": 2
+      }
+    ],
+    "total_pages": 14971,
+    "total_results": 299412
+  },
+  "watch/providers": {
+    "results": {
+      "AT": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=AT",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/dSa84VG4VTMh2drouWvgucRsLYV.png",
+            "provider_id": 1856,
+            "provider_name": "Magenta TV",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 19
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 19
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=AU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=BE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=BR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 13
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 13
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png",
+            "provider_id": 140,
+            "provider_name": "CosmoGo",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png",
+            "provider_id": 140,
+            "provider_name": "CosmoGo",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=CH",
+        "rent": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=CL",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 56
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 56
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=CO",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=CV",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 11
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=DE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=DK",
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=ES",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/byJQzrjflHDYV516AmXUXLa4iL0.png",
+            "provider_id": 64,
+            "provider_name": "Filmin Plus",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=FI",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=GB",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=GG",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=GH",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=HK",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=HR",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=IE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=IN",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=IT",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/xfDy4aGaOqbUqKPVQobjoJ9ZsSs.png",
+            "provider_id": 40,
+            "provider_name": "CHILI",
+            "display_priority": 37
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/xfDy4aGaOqbUqKPVQobjoJ9ZsSs.png",
+            "provider_id": 40,
+            "provider_name": "CHILI",
+            "display_priority": 37
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=LU",
+        "rent": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 7
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 7
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=MU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 12
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=MX",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=MY",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=MZ",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=NL",
+        "buy": [
+          {
+            "logo_path": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png",
+            "provider_id": 71,
+            "provider_name": "Pathé Thuis",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png",
+            "provider_id": 71,
+            "provider_name": "Pathé Thuis",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=NO",
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=NZ",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/68KYULhVkHI6TVrmPSE0LlPXB1U.png",
+            "provider_id": 273,
+            "provider_name": "Neon TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=PH",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=SE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=SG",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=SI",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=TH",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=TW",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=UA",
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 5
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=US",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/movie/1315772-minions-monsters/watch?locale=ZA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 3
+          }
+        ]
+      }
+    }
+  }
+}

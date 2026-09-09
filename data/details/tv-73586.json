@@ -1,0 +1,4045 @@
+{
+  "adult": false,
+  "backdrop_path": "/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+  "created_by": [
+    {
+      "id": 1215399,
+      "credit_id": "59a5dfe9c3a36840640129db",
+      "name": "تايلور شيريدان",
+      "original_name": "Taylor Sheridan",
+      "gender": 2,
+      "profile_path": "/enrOQII7bCIf7U0WbdxiuXGfzrs.jpg"
+    },
+    {
+      "id": 69414,
+      "credit_id": "5b341488c3a368531a019f53",
+      "name": "John Linson",
+      "original_name": "John Linson",
+      "gender": 2,
+      "profile_path": "/1rL4s8P5TS0KwbMbkwU7TvttIDy.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2018-06-20",
+  "genres": [
+    {
+      "id": 37,
+      "name": "غربي"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "https://www.paramountnetwork.com/shows/yellowstone",
+  "id": 73586,
+  "in_production": false,
+  "languages": [
+    "en",
+    "de"
+  ],
+  "last_air_date": "2024-12-15",
+  "last_episode_to_air": {
+    "id": 5605563,
+    "name": "الحياة هي وعد",
+    "overview": "يصل الصراع إلى ذروته في خاتمة السلسلة، حيث يواجه آل داتون قرارات حاسمة ستحدد مصير العائلة والمزرعة.",
+    "vote_average": 8.541,
+    "vote_count": 37,
+    "air_date": "2024-12-15",
+    "episode_number": 14,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 88,
+    "season_number": 5,
+    "show_id": 73586,
+    "still_path": "/ztsyXjw5HMeCydK3uqaSZwE7FVV.jpg"
+  },
+  "name": "يلوستون",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 2076,
+      "logo_path": "/4knr4ozp2IQrA3SMQlLSYKcM3ML.png",
+      "name": "Paramount Network",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 53,
+  "number_of_seasons": 5,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Yellowstone",
+  "overview": "تعيش عائلة (دوتون) كأكبر عائلة في الولايات المتحدة تدير أراضي زراعية، ولكنهم دائمًا يتعرضون لمضايقات من تجار الأراضي، حيث يتعين على العائلة التصدي لتعدي جديد على أرضهم.",
+  "popularity": 118.2911,
+  "poster_path": "/oroqsEu9qKeYE1lS4Y7FXTiffb2.jpg",
+  "production_companies": [
+    {
+      "id": 124254,
+      "logo_path": "/Aq2pCS1mXg4AiVwLTkh4bhcejmt.png",
+      "name": "101 Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 106789,
+      "logo_path": "/oEgUdRh5YWF6Il705WnpwauirIj.png",
+      "name": "Bosque Ranch Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4700,
+      "logo_path": "/A32wmjrs9Psf4zw0uaixF0GXfxq.png",
+      "name": "Linson Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 86985,
+      "logo_path": "/3YMLaFqeXaQvtg62V0eDQxfqhaV.png",
+      "name": "Treehouse Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 6329,
+      "logo_path": "/4lZJiVHPClma8YB9hXodraFXSwi.png",
+      "name": "MTV Entertainment Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-06-20",
+      "episode_count": 9,
+      "id": 93559,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/pAYgWMmwfyMTf1thfbzoPDAE7dc.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2019-06-19",
+      "episode_count": 10,
+      "id": 120916,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/3ePlESS6eyUj9W7yPEbzhwWaiFo.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2020-06-21",
+      "episode_count": 10,
+      "id": 148960,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/eaJm0zFJenaaSNhPtgdrgGV00VG.jpg",
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2021-11-07",
+      "episode_count": 10,
+      "id": 193949,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/axyyFDEtb6BSeNjyHHh8tsOGlID.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2022-11-13",
+      "episode_count": 14,
+      "id": 294246,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/s4QRRYc1V2e68Qy9Wel9MI8fhRP.jpg",
+      "season_number": 5,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.27,
+  "vote_count": 3319,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56680,
+        "known_for_department": "Acting",
+        "name": "Luke Grimes",
+        "original_name": "Luke Grimes",
+        "popularity": 3.0401,
+        "profile_path": "/c547Xiwf9feeDbGfQchfJCkC111.jpg",
+        "character": "Kayce Dutton",
+        "credit_id": "5a07e02a9251414bd200decf",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17521,
+        "known_for_department": "Acting",
+        "name": "Kelly Reilly",
+        "original_name": "Kelly Reilly",
+        "popularity": 7.0021,
+        "profile_path": "/l8aQsryOQvxgX6SdZ4XtzU8KEXn.jpg",
+        "character": "Beth Dutton",
+        "credit_id": "5a07e0409251414bfa00dee4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8210,
+        "known_for_department": "Acting",
+        "name": "ويس بنتلي",
+        "original_name": "Wes Bentley",
+        "popularity": 4.2056,
+        "profile_path": "/voD93lzFZrr9xfAggwFcPRBi84i.jpg",
+        "character": "Jamie Dutton",
+        "credit_id": "5a07e0029251414bfa00de99",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6614,
+        "known_for_department": "Acting",
+        "name": "Cole Hauser",
+        "original_name": "Cole Hauser",
+        "popularity": 5.0065,
+        "profile_path": "/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg",
+        "character": "Rip Wheeler",
+        "credit_id": "5a07e0539251414bc600df51",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 205976,
+        "known_for_department": "Acting",
+        "name": "كيلسي شو",
+        "original_name": "Kelsey Asbille",
+        "popularity": 4.9237,
+        "profile_path": "/zOr1U00vGsPMsieAJIFyYVUw8wa.jpg",
+        "character": "Monica Dutton",
+        "credit_id": "5b3412840e0a263ffc01c2c4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2038314,
+        "known_for_department": "Acting",
+        "name": "Brecken Merrill",
+        "original_name": "Brecken Merrill",
+        "popularity": 1.4282,
+        "profile_path": "/j2cJIrlfMSVWCq491ZMnguhGjXP.jpg",
+        "character": "Tate Dutton",
+        "credit_id": "5b3412a89251413c9101a856",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674161,
+        "known_for_department": "Acting",
+        "name": "Ryan Bingham",
+        "original_name": "Ryan Bingham",
+        "popularity": 1.6229,
+        "profile_path": "/mnTDK0M2ncJgTUm0T56AD4OxB83.jpg",
+        "character": "Walker",
+        "credit_id": "5b593d440e0a2612000052d4",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1980651,
+        "known_for_department": "Acting",
+        "name": "Finn Little",
+        "original_name": "Finn Little",
+        "popularity": 4.3464,
+        "profile_path": "/jkMmLjj5Zk4CsABIxxFtOj0Zxic.jpg",
+        "character": "Carter",
+        "credit_id": "61897bb02f266b0043ebd07e",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31362,
+        "known_for_department": "Acting",
+        "name": "Ian Bohen",
+        "original_name": "Ian Bohen",
+        "popularity": 5.5361,
+        "profile_path": "/qEi3UXB3rx9vithYZPtqW3U5e3L.jpg",
+        "character": "Ryan",
+        "credit_id": "5b341b639251413c8e01b612",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333809,
+        "known_for_department": "Acting",
+        "name": "Forrie J. Smith",
+        "original_name": "Forrie J. Smith",
+        "popularity": 2.7617,
+        "profile_path": "/dlfukfoPCoF9PraKuyuIq7rmu8Y.jpg",
+        "character": "Lloyd",
+        "credit_id": "5b341c4c0e0a26400201c855",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2073671,
+        "known_for_department": "Acting",
+        "name": "Denim Richards",
+        "original_name": "Denim Richards",
+        "popularity": 0.9482,
+        "profile_path": "/A2Gl1Xi0wuC7xd9AYe41SldIUmA.jpg",
+        "character": "Colby",
+        "credit_id": "5b341b8cc3a368533701848a",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 147977,
+        "known_for_department": "Acting",
+        "name": "Wendy Moniz",
+        "original_name": "Wendy Moniz",
+        "popularity": 2.2425,
+        "profile_path": "/o6h5BiaTiezKKEOaQKiGuTGeePe.jpg",
+        "character": "Lynelle Perry",
+        "credit_id": "637266be8fdda9007fb9436b",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1230687,
+        "known_for_department": "Acting",
+        "name": "Jennifer Landon",
+        "original_name": "Jennifer Landon",
+        "popularity": 4.5507,
+        "profile_path": "/jpcNM8UJRcnPnCLasVMfA329wZ4.jpg",
+        "character": "Teeter",
+        "credit_id": "5f2fbb0f559d22003774b187",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2395140,
+        "known_for_department": "Acting",
+        "name": "Kathryn Kelly",
+        "original_name": "Kathryn Kelly",
+        "popularity": 1.8537,
+        "profile_path": "/qy8hO9fSWjizOZ9QRlCp5E6qEyV.jpg",
+        "character": "Emily",
+        "credit_id": "61c9de1be72fe8001c10a2b4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1367234,
+        "known_for_department": "Acting",
+        "name": "Mo Brings Plenty",
+        "original_name": "Mo Brings Plenty",
+        "popularity": 1.4812,
+        "profile_path": "/2CxofuWPRZf3G0kYJytblYiHXIy.jpg",
+        "character": "Mo Brings Plenty",
+        "credit_id": "5f4a89d9858678003714eab0",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84225,
+        "known_for_department": "Acting",
+        "name": "جيل برمنغهام",
+        "original_name": "Gil Birmingham",
+        "popularity": 2.8079,
+        "profile_path": "/bWYOwtq0zUgpbEhTyiJHo2TmVju.jpg",
+        "character": "Thomas Rainwater",
+        "credit_id": "5b3412ef9251413c9301b68b",
+        "order": 19
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 930009,
+        "known_for_department": "Camera",
+        "name": "Christina Alexandra Voros",
+        "original_name": "Christina Alexandra Voros",
+        "popularity": 0.7364,
+        "profile_path": "/9HIKusstJZZaT70y702KRcLCSsW.jpg",
+        "credit_id": "6767ab3a0b2fbb9dea5e3d0a",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1747679,
+        "known_for_department": "Art",
+        "name": "Suzanne Stover",
+        "original_name": "Suzanne Stover",
+        "popularity": 0.4461,
+        "profile_path": null,
+        "credit_id": "69a04bf924a7dab157f234dd",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 138291,
+        "known_for_department": "Art",
+        "name": "Yvonne Boudreaux",
+        "original_name": "Yvonne Boudreaux",
+        "popularity": 0.6098,
+        "profile_path": null,
+        "credit_id": "69a04c26aaf9375d1fff4fe8",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3317564,
+        "known_for_department": "Production",
+        "name": "Keith Cox",
+        "original_name": "Keith Cox",
+        "popularity": 0.501,
+        "profile_path": null,
+        "credit_id": "673055e28f81fed6bd3f6a11",
+        "department": "Production",
+        "job": "Executive In Charge Of Production"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2354280,
+        "known_for_department": "Sound",
+        "name": "Breton Vivian",
+        "original_name": "Breton Vivian",
+        "popularity": 0.5146,
+        "profile_path": null,
+        "credit_id": "61bf0474105611001ccb012e",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56435,
+        "known_for_department": "Directing",
+        "name": "ستيفن كاي",
+        "original_name": "Stephen Kay",
+        "popularity": 1.5091,
+        "profile_path": "/9HsKUi7Ab5jtIQ59OOGyvBtfJRI.jpg",
+        "credit_id": "668868ec552d0be7e35e5f1f",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4232,
+        "known_for_department": "Production",
+        "name": "Bob Yari",
+        "original_name": "Bob Yari",
+        "popularity": 0.8572,
+        "profile_path": "/8PecTVSJk5uJmndCGTLwgsLPEhP.jpg",
+        "credit_id": "668868b147350b1fbf0284ce",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1254,
+        "known_for_department": "Production",
+        "name": "أرت لينسون",
+        "original_name": "Art Linson",
+        "popularity": 0.7523,
+        "profile_path": "/p9JPMQt4RRHYdQgvnrmFNiZ4eW6.jpg",
+        "credit_id": "5b32e3ef0e0a26400a01340a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 69414,
+        "known_for_department": "Production",
+        "name": "John Linson",
+        "original_name": "John Linson",
+        "popularity": 0.6263,
+        "profile_path": "/1rL4s8P5TS0KwbMbkwU7TvttIDy.jpg",
+        "credit_id": "5b32e403c3a368531d0137d9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1269,
+        "known_for_department": "Acting",
+        "name": "كيفين كوستنر",
+        "original_name": "Kevin Costner",
+        "popularity": 6.1197,
+        "profile_path": "/608blZipRDZkDpzp8VItB64qMaT.jpg",
+        "credit_id": "5b32e4569251413c7401332d",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215399,
+        "known_for_department": "Writing",
+        "name": "تايلور شيريدان",
+        "original_name": "Taylor Sheridan",
+        "popularity": 9.5299,
+        "profile_path": "/enrOQII7bCIf7U0WbdxiuXGfzrs.jpg",
+        "credit_id": "5b32e49fc3a36853110119e7",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6041,
+        "known_for_department": "Sound",
+        "name": "Brian Tyler",
+        "original_name": "Brian Tyler",
+        "popularity": 0.9014,
+        "profile_path": "/wLPLAOcEgA9vfNuXSX1QI1ajguU.jpg",
+        "credit_id": "5f1852444284ea0035369d90",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3176244,
+        "known_for_department": "Production",
+        "name": "Michael Friedman",
+        "original_name": "Michael Friedman",
+        "popularity": 0.6633,
+        "profile_path": "/h6qBemrwTBKJcuc5gL2ZDs8qLb1.jpg",
+        "credit_id": "610180fff0647c0047d81a07",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21390,
+        "known_for_department": "Production",
+        "name": "David C. Glasser",
+        "original_name": "David C. Glasser",
+        "popularity": 1.2768,
+        "profile_path": "/t26MlYwJl4TBLFkHz9pjixA8yo7.jpg",
+        "credit_id": "6688687cb58c8f8ace5f554e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 561,
+        "known_for_department": "Production",
+        "name": "John Papsidera",
+        "original_name": "John Papsidera",
+        "popularity": 1.2805,
+        "profile_path": "/egwEVyrAmdWhtuLqE5fcThZf41E.jpg",
+        "credit_id": "6a79f5d157e6feff4ff57e2b",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 563736,
+        "known_for_department": "Sound",
+        "name": "Andrea von Foerster",
+        "original_name": "Andrea von Foerster",
+        "popularity": 0.506,
+        "profile_path": "/zKo3qNhrkeUceyHjl6W5c7DS0ET.jpg",
+        "credit_id": "6a8a3d55d972436c930d53b8",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+        "id": 299167,
+        "name": "مزرعة دوتون",
+        "original_name": "Dutton Ranch",
+        "overview": "يُقامر (ريب ويلر) و(بيث داتون) بكل شيء لبدء حياة جديدة في جنوب تكساس، لكن الوعد ببناء مستقبل بعيداً عن أشباح (يلوستون) سرعان ما يصطدم بوقائع جديدة مريرة، ومزرعة منافسة لن تتوقف عند أي شيء لحماية إمبراطوريتها",
+        "poster_path": "/fnGiGdGIjuFoBzES88YAuZXkD7u.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "popularity": 52.4458,
+        "first_air_date": "2026-05-15",
+        "softcore": false,
+        "vote_average": 9.151,
+        "vote_count": 572,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/29P64FqDp0UVa9oJsIl49PHn5tH.jpg",
+        "id": 240993,
+        "name": "رانسوم كانيون",
+        "original_name": "Ransom Canyon",
+        "overview": "تحتدم المشاعر حتى الأعماق في بلدة صغيرة في \"تكساس\"، حيث تقاتل ثلاث سلالات تعمل في تربية المواشي من أجل أراضيها وإرثها ومَن يحبونهم.",
+        "poster_path": "/1efzyMfIe3WauOCWk7Gn56gj7sL.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 13.5985,
+        "first_air_date": "2025-04-17",
+        "softcore": false,
+        "vote_average": 7.31,
+        "vote_count": 129,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vIioWssbxRtEkIzgj8r0pCWYkYM.jpg",
+        "id": 157744,
+        "name": "1923",
+        "original_name": "1923",
+        "overview": "يتابع المسلسل جيلًا جديدًا من عائلة داتون في أوائل القرن العشرين، بينما تكافح العائلة لحماية أرضها ومزرعتها وسط الجفاف والأزمات الاقتصادية والصراعات والعنف في الغرب الأمريكي..",
+        "poster_path": "/zgZRJZvZn5cpsWAB0zMUdad3iZd.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 24.4124,
+        "first_air_date": "2022-12-18",
+        "softcore": false,
+        "vote_average": 8.272,
+        "vote_count": 837,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uQUHCqxHsG9blvtCoL7vluMG9Jp.jpg",
+        "id": 118357,
+        "name": "1883",
+        "original_name": "1883",
+        "overview": "تدور قصة المسلسل حول عائلة داتون حيث يبدأ جيمس ومارجريت داتون رحلتهم غربًا عبر السهول الكبرى نحو آخر معقل لأمريكا الجامحة حيث يفرون من الفقر بحثًا عن مستقبل أفضل في أرض أمريكا الموعودة وهي مونتانا.",
+        "poster_path": "/waLbm384SQDwLTCn6ttPqQS5kfV.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 16.449,
+        "first_air_date": "2021-12-19",
+        "softcore": false,
+        "vote_average": 8.291,
+        "vote_count": 1015,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dfRvmXp4sdMd052ZV9jYZkuLpc2.jpg",
+        "id": 243396,
+        "name": "منطقة آل لوسون",
+        "original_name": "Territory",
+        "overview": "حين ينتهي المطاف بأكبر مزرعة ماشية في العالم دون وريث محدد، تحاول جماعات متنافسة تلقّفها فيما يقلب صراع مرير بين الأجيال مصير قطعة الأرض هذه رأسًا على عقب.",
+        "poster_path": "/jPoNveBQWYwwWf2UnK27LEtWiqb.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18,
+          10759
+        ],
+        "popularity": 7.382,
+        "first_air_date": "2024-10-24",
+        "softcore": false,
+        "vote_average": 6.92,
+        "vote_count": 75,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wI4aGtreUx7vFtZGcyiFoOX3qf3.jpg",
+        "id": 113985,
+        "name": "Outer Range",
+        "original_name": "Outer Range",
+        "overview": "A rancher fighting for his land and family stumbles upon an unfathomable mystery at the edge of Wyoming’s wilderness, forcing a confrontation with the Unknown in ways both intimate and cosmic in the untamable American West.",
+        "poster_path": "/9leGmIDamsWJELYz0pZkr2EXUFf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 13.3701,
+        "first_air_date": "2022-04-14",
+        "softcore": false,
+        "vote_average": 6.888,
+        "vote_count": 423,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gazijGFhqouUBvrTiFE9f0ZqF07.jpg",
+        "id": 122235,
+        "name": "جو بيكيت",
+        "original_name": "Joe Pickett",
+        "overview": "تدور القصة حول جو بيكيت، وهو حارس بيئي لحماية الحياة البرية والغابات، ينتقل مع عائلته إلى بلدة ريفية صغيرة في ولاية وايومنج بحثاً عن حياة هادئة.\n\nتنقلب حياته رأساً على عقب عندما يجد جثة صياد مقتولاً في باحة منزله. وبسبب استقامته الشديدة ورفضه التغاضي عن الخطأ، يبدأ جو في التحقيق بنفسه، ليجد نفسه في مواجهة شبكة معقدة من الفساد والمؤامرات والمجرمين المحليين، مما يضع حياته وحياة عائلته في خطر حقيقي وسط الطبيعة الجبلية القاسية.",
+        "poster_path": "/pWBCwK0lp5RLCyG89JzrhEVny47.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 8.3028,
+        "first_air_date": "2021-12-06",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 100,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/grThKpUYZ5nHppqAEvmF0pTSJa0.jpg",
+        "id": 41692,
+        "name": "Lonesome Dove",
+        "original_name": "Lonesome Dove",
+        "overview": "\"يستعيد اثنان من خيالة تكساس السابقين روح المغامرة لديهما، عندما يقرران برفقة عدد من سكان بلدة صغيرة في تكساس، خوض رحلة ملحمية شاقة لسوق قطيع من الماشية نحو أراضي مونتانا الشاسعة.\"",
+        "poster_path": "/qK4iseZGf0YhYx53ecawSGhL0sl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 8.2351,
+        "first_air_date": "1989-02-05",
+        "softcore": false,
+        "vote_average": 7.9,
+        "vote_count": 219,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1FxG2lmDYsCM1svJf7H79HNNwu2.jpg",
+        "id": 215866,
+        "name": "فجر التاريخ الأمريكي",
+        "original_name": "American Primeval",
+        "overview": "تُكوّن أمّ وابنها الهاربان من ماضيهما عائلة جديدة فيما يواجهان وضعًا قاسيًا للحرية والوحشية في الغرب الأمريكي.",
+        "poster_path": "/8Eh2IFoWxTVnl9ju01nOcxFczZo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18,
+          10759
+        ],
+        "popularity": 8.7037,
+        "first_air_date": "2025-01-09",
+        "softcore": false,
+        "vote_average": 7.713,
+        "vote_count": 509,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/31oYoyp69L8Bo6Vuz2ogB5JoipV.jpg",
+        "id": 1406,
+        "name": "ديدوود",
+        "original_name": "Deadwood",
+        "overview": "تدور أحداث المسلسل عام 1876 في بلدة ديدوود، وهي مستوطنة عشوائية نشأت وسط حمى الذهب في داكوتا الجنوبية. ومع تدفق الباحثين عن الثروة والمجرمين والمغامرين، تبدأ البلدة في التحول إلى مجتمع حقيقي، لكن صراع النفوذ والمال والجريمة يضع سكانها في مواجهات مستمرة، بينما يحاول أصحاب السلطة والأعمال فرض سيطرتهم على المكان.",
+        "poster_path": "/fWwxYAuqY4Na7fKI3Qq2nFWCwG8.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          80,
+          18
+        ],
+        "popularity": 29.9078,
+        "first_air_date": "2004-03-21",
+        "softcore": false,
+        "vote_average": 8.099,
+        "vote_count": 991,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1Nd5mAddfEL1QG5H7h1VtAAPtQl.jpg",
+        "id": 2562,
+        "name": "How the West Was Won",
+        "original_name": "How the West Was Won",
+        "overview": "The Macahans, a family from Virginia headed by Zeb Macahan, travel across the country to pioneer a new land and a new home in the American West.",
+        "poster_path": "/7SlOtDowU9k3V5nIiwUlI2ZFkEk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "popularity": 7.2451,
+        "first_air_date": "1977-02-06",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 34,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nh3n0jQeS0FgWH84kzyc8q5yLEp.jpg",
+        "id": 43901,
+        "name": "لونغمير",
+        "original_name": "Longmire",
+        "overview": "بعد وفاة زوجته، يحاول الشريف والت لونغماير استعادة توازنه الشخصي والمهني أثناء قيادته لمكتب الشريف في مقاطعة ريفية بولاية وايومنغ. وبينما يحقق في جرائم معقدة، يجد نفسه عالقًا بين العدالة، والصراعات مع محمية السكان الأصليين المجاورة، والأسرار التي تهدد حياته ومن حوله.",
+        "poster_path": "/3fR6V7n4m37exm4bUqy4UoIrO2c.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          80,
+          18
+        ],
+        "popularity": 25.4436,
+        "first_air_date": "2012-06-03",
+        "softcore": false,
+        "vote_average": 7.704,
+        "vote_count": 336,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eQJwfyMqSra10ck8HOoiCrbQR32.jpg",
+        "id": 66025,
+        "name": "مملكة الحيوان",
+        "original_name": "Animal Kingdom",
+        "overview": "(جوشوا كودي) مراهق في السابعة عشرة من عمره، ينتقل مع أقاربه إلى مدينتهم الملطة على الشاطيء في (كاليفورنيا الجنوبية) بعد وفاة والدته إثر جرعة هيروين زائدة.",
+        "poster_path": "/rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 49.4416,
+        "first_air_date": "2016-06-14",
+        "softcore": false,
+        "vote_average": 7.784,
+        "vote_count": 565,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cyieN1P9Xo5SvLasSUT7SaAAzfy.jpg",
+        "id": 1436,
+        "name": "المبرَّر",
+        "original_name": "Justified",
+        "overview": "يعود نائب المارشال الفيدرالي رايلان غيفنز إلى مسقط رأسه في ولاية كنتاكي بعد أن تسببت أساليبه الصارمة في تطبيق القانون بإعادة تعيينه. هناك يجد نفسه في مواجهة المجرمين الذين يعرفهم منذ نشأته، ومن بينهم أشخاص من ماضيه، لتتحول مهمته إلى صراع شخصي مع عالم الجريمة في المنطقة.",
+        "poster_path": "/ie1quhMk09lDtvtAyQAHTu09R9Z.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 37.2121,
+        "first_air_date": "2010-03-16",
+        "softcore": false,
+        "vote_average": 7.992,
+        "vote_count": 884,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3CdnJBsEm2hZffF23wOJtfC0EIq.jpg",
+        "id": 73467,
+        "name": "Godless",
+        "original_name": "Godless",
+        "overview": "يروّع مجرم متحجّر القلب خارج عن القانون \"الغرب\" بحثًا عن عضو سابق في عصابته... والذي وجد حياة جديدة في بلدة هادئة تقطنها النساء فقط",
+        "poster_path": "/ePOD0ofGWFDTbZR84QhM7kpYMPX.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18
+        ],
+        "popularity": 9.2294,
+        "first_air_date": "2017-11-22",
+        "softcore": false,
+        "vote_average": 7.744,
+        "vote_count": 741,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yVOA48U97i9NJYovcxuxuLL1po5.jpg",
+        "id": 89498,
+        "name": "Deputy",
+        "original_name": "Deputy",
+        "overview": "When the Los Angeles County’s Sheriff dies, an arcane rule forged back in the Wild West thrusts the most unlikely man into the job: a fifth-generation lawman, more comfortable taking down bad guys than navigating a sea of politics, who won’t rest until justice is served.",
+        "poster_path": "/dlnbNP169odKEYKCfzBipRrUDdk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          37,
+          18,
+          80
+        ],
+        "popularity": 7.3019,
+        "first_air_date": "2020-01-02",
+        "softcore": false,
+        "vote_average": 6.871,
+        "vote_count": 93,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qdZCF4FXQwOgkd8PIIQelbDqAYO.jpg",
+        "id": 100010,
+        "name": "Big Sky",
+        "original_name": "Big Sky",
+        "overview": "Private detective Cassie Dewell partners with ex-cop Jenny Hoyt on a search for two sisters who have been kidnapped by a truck driver on a remote highway in Montana. When they discover that these are not the only girls who have disappeared in the area, they must race against the clock to stop the perpetrator before another woman is taken.",
+        "poster_path": "/4CUK42x0TvcWvuRXfjAFQlCeRdf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 30.1332,
+        "first_air_date": "2020-11-17",
+        "softcore": false,
+        "vote_average": 7.213,
+        "vote_count": 300,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dHCr5HgldBavJPzAYFYmM0rEdQo.jpg",
+        "id": 223300,
+        "name": "العائلة المهجورة",
+        "original_name": "The Abandons",
+        "overview": "للهيمنة على منطقة حدودية بلا قانون، يشهد إقليم \"واشنطن\" في خمسينيات القرن التاسع عشر حربًا بين عائلتين ترأسهما سيدتان قويتان، إحداهما ثرية والأخرى فقيرة لكن الولاء يوحد أفرادها.",
+        "poster_path": "/qGkW1SMAQCsm6LggrCZv7kN0Iv3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 8.6744,
+        "first_air_date": "2025-12-04",
+        "softcore": false,
+        "vote_average": 5.867,
+        "vote_count": 120,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/it34RMnArwzl38hoAtgXfCkkqpX.jpg",
+        "id": 204999,
+        "name": "Faraway Downs",
+        "original_name": "Faraway Downs",
+        "overview": "The story of an English aristocrat, Lady Sarah Ashley, who inherits a large cattle ranch in Australia after her husband dies. When Australian cattle barons plot to take her land, she joins forces with a cattle drover to protect her ranch.",
+        "poster_path": "/pk26xg01tf6UiVUO04Az428Ihip.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          37
+        ],
+        "popularity": 6.3956,
+        "first_air_date": "2023-11-26",
+        "softcore": false,
+        "vote_average": 6.9,
+        "vote_count": 69,
+        "origin_country": [
+          "AU",
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o8FiNSdVZkGe3EqRW5bsUtygRFB.jpg",
+        "id": 5742,
+        "name": "Return to Lonesome Dove",
+        "original_name": "Return to Lonesome Dove",
+        "overview": "After returning the body of Gus McCrae to Lonesome Dove, Woodrow Call takes on the challenge of driving a herd of wild mustangs 2500 miles north to the Hat Creek Ranch in Montana. But tragedy, triumph, despair and deceit will greet him before he ever gets there.",
+        "poster_path": "/uuCU3QJqtCXVfd1okAptVOU221.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "popularity": 3.5546,
+        "first_air_date": "1993-11-14",
+        "softcore": false,
+        "vote_average": 6.952,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 44,
+    "total_results": 871
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 23
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 25
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 33
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 46
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jGLRnvajVBg3QXikgHiI0HdG9Qe.png",
+            "provider_id": 321,
+            "provider_name": "Sky X",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 48
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/nor5QyGmfv9AtJI2qPhOVdBa3hA.png",
+            "provider_id": 2134,
+            "provider_name": "AXN Black Amazon Channel",
+            "display_priority": 64
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=AU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/6dOWQKIRIxDmX5FD4g5dPsHxFn3.png",
+            "provider_id": 21,
+            "provider_name": "Stan",
+            "display_priority": 12
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 25
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/rhLVvRh5iqFV8zO125qgKyw9l5C.png",
+            "provider_id": 1857,
+            "provider_name": "Telenet",
+            "display_priority": 32
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 19
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 30
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 43
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 71
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 91
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 92
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 118
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 119
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/9DoQOfCz9S9j4cif3Cqx3ebk3FP.png",
+            "provider_id": 210,
+            "provider_name": "Sky",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 44
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 41
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 42
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 23
+          },
+          {
+            "logo_path": "/gzlCSbeTdiLJNxdZuMKNhW8X7cy.png",
+            "provider_id": 1939,
+            "provider_name": "Lepsi TV",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/i2b7mxkUywkzwVVNUTPpIIKXsTt.png",
+            "provider_id": 2536,
+            "provider_name": "Oneplay",
+            "display_priority": 35
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 42
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DE",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/2o26YwA7tXQ7I6CSrMvO9Rj4oNi.png",
+            "provider_id": 30,
+            "provider_name": "WOW",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 90
+          },
+          {
+            "logo_path": "/nor5QyGmfv9AtJI2qPhOVdBa3hA.png",
+            "provider_id": 2134,
+            "provider_name": "AXN Black Amazon Channel",
+            "display_priority": 117
+          },
+          {
+            "logo_path": "/2HcyGXRwSTh3DkgDwaF59AzACHu.png",
+            "provider_id": 2412,
+            "provider_name": "Magenta TV+",
+            "display_priority": 191
+          },
+          {
+            "logo_path": "/mIR4wc2DLEIbn9TbtemvoX4zb26.png",
+            "provider_id": 2660,
+            "provider_name": "Wow Fiction Amazon Channel",
+            "display_priority": 216
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/hPIVVR7yvR0PrTe7eHR2I5nAFis.png",
+            "provider_id": 1961,
+            "provider_name": "Allente",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/n1DGZz9QsSJfIcRGyXAIR0TzQWQ.png",
+            "provider_id": 2624,
+            "provider_name": "TV2 Skyshowtime",
+            "display_priority": 51
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 29
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=ES",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/MY2vJySdvDiDQrIYUQgxJK1Sen.png",
+            "provider_id": 338,
+            "provider_name": "Ruutu",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 33
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/cNOoXFJAxHhuvFzZD3ozinKYg6V.png",
+            "provider_id": 553,
+            "provider_name": "Telia Play",
+            "display_priority": 28
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=FR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/73lu1dtE9uJLWK1laXpeaAFh48j.png",
+            "provider_id": 61,
+            "provider_name": "Orange VOD",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 56
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 58
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 78
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 75
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 87
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 119
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 120
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 64
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=HR",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 31
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=HU",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 23
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=IE",
+        "buy": [
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 45
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 46
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 57
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+            "provider_id": 2336,
+            "provider_name": "JioHotstar",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=IT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 10
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=JP",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=LV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 24
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=MU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 62
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 13
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=NL",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 11
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+            "provider_id": 578,
+            "provider_name": "Strim",
+            "display_priority": 28
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=NZ",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/68KYULhVkHI6TVrmPSE0LlPXB1U.png",
+            "provider_id": 273,
+            "provider_name": "Neon TV",
+            "display_priority": 6
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 29
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 30
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=PL",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 27
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 7
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=PT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 44
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 28
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 29
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 19
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 26
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=RU",
+        "flatrate": [
+          {
+            "logo_path": "/oroIyNGCu4ltli1lI4m7em1IYE5.png",
+            "provider_id": 117,
+            "provider_name": "Kinopoisk",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=SE",
+        "buy": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/uzJAlKOjD4PCqqx3N1fwkmu0Ttb.png",
+            "provider_id": 497,
+            "provider_name": "Tele2 Play",
+            "display_priority": 20
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 26
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=SK",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 47
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ube1pVpP3FklRkeyQjlDkkC3tL2.png",
+            "provider_id": 1773,
+            "provider_name": "SkyShowtime",
+            "display_priority": 33
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=TR",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ck9ropbn6okqSdtgxGkkvMMgtSe.png",
+            "provider_id": 1904,
+            "provider_name": "TV+",
+            "display_priority": 10
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=UA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+            "provider_id": 386,
+            "provider_name": "Peacock Premium",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+            "provider_id": 2383,
+            "provider_name": "Philo",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+            "provider_id": 2528,
+            "provider_name": "YouTube TV",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+            "provider_id": 387,
+            "provider_name": "Peacock Premium Plus",
+            "display_priority": 214
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 27
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/tv/73586-yellowstone/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/d8bRsBczjkSRrUDEC0nkUhSJNm.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 60627,
+        "origin_country": [
+          "FR"
+        ],
+        "original_language": "fr",
+        "original_name": "Xanadu",
+        "overview": "",
+        "popularity": 3.3801,
+        "poster_path": "/j8NJHVXA3x89zRb91r3KoSKgSEh.jpg",
+        "first_air_date": "2011-04-30",
+        "softcore": false,
+        "name": "Xanadu",
+        "vote_average": 4.5,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uTvxihDsPgEcBgWI5iN1pAjVX88.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 30217,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "The Last Outlaw",
+        "overview": "",
+        "popularity": 1.553,
+        "poster_path": "/3uGqkBmq93ueFPeRJfo1TmeSVry.jpg",
+        "first_air_date": "1980-10-20",
+        "softcore": false,
+        "name": "The Last Outlaw",
+        "vote_average": 7,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3XracC9gMOVQu9jF6K1Itgcj5H5.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 93165,
+        "origin_country": [
+          "PK"
+        ],
+        "original_language": "ur",
+        "original_name": "دیوارشب",
+        "overview": "",
+        "popularity": 2.6569,
+        "poster_path": "/gS9geOKtyTeQEPGmeYvWt0dlcvF.jpg",
+        "first_air_date": "2019-06-08",
+        "softcore": false,
+        "name": "دیوارشب",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/py8XpxaF90kkzDE3esbyogmZXS9.jpg",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "id": 126441,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Before We Die",
+        "overview": "",
+        "popularity": 2.2916,
+        "poster_path": "/rBz7joOAR4SYm7oDElynmhziNVu.jpg",
+        "first_air_date": "2021-05-26",
+        "softcore": false,
+        "name": "Before We Die",
+        "vote_average": 5,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uK8Xy06Mw0I6Jg6gYab5q81xLLO.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 2041,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "McLeod's Daughters",
+        "overview": "",
+        "popularity": 32.5621,
+        "poster_path": "/twQwGmxL6XFdpSBikzINOdVm17M.jpg",
+        "first_air_date": "2001-08-08",
+        "softcore": false,
+        "name": "McLeod's Daughters",
+        "vote_average": 7.246,
+        "vote_count": 63
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o5Nf1DwkUk1CKyR9aqUozs03q8e.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 208146,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "เส้นลองจิจูดที่ 180 องศาลากผ่านเรา",
+        "overview": "",
+        "popularity": 2.3078,
+        "poster_path": "/tnfhHPUSNmzEH7g5HoLLfy8cQq0.jpg",
+        "first_air_date": "2022-08-15",
+        "softcore": false,
+        "name": "เส้นลองจิจูดที่ 180 องศาลากผ่านเรา",
+        "vote_average": 7.714,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nIMog8nl1FB2uE9NvbL7YOKCcP3.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 60705,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Faking It",
+        "overview": "",
+        "popularity": 10.8888,
+        "poster_path": "/vb9J7q977HB3AmvLETpmWIyIyTP.jpg",
+        "first_air_date": "2014-04-22",
+        "softcore": false,
+        "name": "Faking It",
+        "vote_average": 6.7,
+        "vote_count": 172
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pl4iMwie10Er0iValnXSbNDNJko.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 126538,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Vitória",
+        "overview": "",
+        "popularity": 9.995,
+        "poster_path": "/xVjPz02XdrJlb0TpP50RK3KeABu.jpg",
+        "first_air_date": "2014-06-02",
+        "softcore": false,
+        "name": "Vitória",
+        "vote_average": 6.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4KkwQSRbqjSPQLpDUtpptsE4jLE.jpg",
+        "genre_ids": [
+          18,
+          37
+        ],
+        "id": 2306,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "The Man from Snowy River",
+        "overview": "",
+        "popularity": 15.3357,
+        "poster_path": "/9ez7SBvFq5nIAmQ8BVwdohIGf1x.jpg",
+        "first_air_date": "1994-09-23",
+        "softcore": false,
+        "name": "The Man from Snowy River",
+        "vote_average": 7.071,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/81BCTObfPk0EvarJpUgnGXHvM9x.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "id": 61222,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "BoJack Horseman",
+        "overview": "التقِ بالحصان، بطل المسلسل الكوميدي الأكثر شعبية في التسعينيات، بعد مضي 20 عامًا. إنه متذمر بقلب ليس كالذهب، بل قريب من الذهب. كالنحاس؟",
+        "popularity": 54.5305,
+        "poster_path": "/9yeSof9ID6N6LtObIZRtqXLCU5X.jpg",
+        "first_air_date": "2014-08-22",
+        "softcore": false,
+        "name": "BoJack Horseman",
+        "vote_average": 8.531,
+        "vote_count": 2961
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w3eQfUsOwY8TZuGICw3INv2mBtB.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 2464,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Wildfire",
+        "overview": "",
+        "popularity": 18.9246,
+        "poster_path": "/mbS3CRtYz1HfmOWiMueaSnudOtB.jpg",
+        "first_air_date": "2005-06-20",
+        "softcore": false,
+        "name": "Wildfire",
+        "vote_average": 8.3,
+        "vote_count": 58
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 208522,
+        "origin_country": [
+          "PK"
+        ],
+        "original_language": "ur",
+        "original_name": "Badzaat",
+        "overview": "",
+        "popularity": 3.6955,
+        "poster_path": "/905iRfqP6rWidI77F7dNuvR1W89.jpg",
+        "first_air_date": "2022-03-02",
+        "softcore": false,
+        "name": "Badzaat",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bOSNG1mhGRTNJmOJka4d2zU9R67.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 61406,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Transparent",
+        "overview": "عائلة لوس أنجلوس مع قضايا حدودية خطيرة تتفكك ماضيها ومستقبلها عندما يتسبب اعتراف دراماتيكي في تسرب أسرار الجميع.",
+        "popularity": 16.1589,
+        "poster_path": "/mrLzehvZpm5osA4MlMR41gYayWZ.jpg",
+        "first_air_date": "2014-09-26",
+        "softcore": false,
+        "name": "Transparent",
+        "vote_average": 6.396,
+        "vote_count": 178
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sA75aetDQryaJej3I8Vw44E3dxG.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "id": 59312,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Bletchley Circle",
+        "overview": "",
+        "popularity": 5.2459,
+        "poster_path": "/1BUErHvxmwmuxPhBBsL3gNDu0oF.jpg",
+        "first_air_date": "2012-09-06",
+        "softcore": false,
+        "name": "The Bletchley Circle",
+        "vote_average": 7.614,
+        "vote_count": 149
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1KUT5MsvWCKapd1TLVzf3xnpCev.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 877,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Caprica",
+        "overview": "",
+        "popularity": 12.39,
+        "poster_path": "/wGCdHYsx0aY5Z5236XTC6JQMpNn.jpg",
+        "first_air_date": "2010-01-22",
+        "softcore": false,
+        "name": "Caprica",
+        "vote_average": 6.912,
+        "vote_count": 413
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/olkcZN2gxfOI9R9IeOGNQ9KWSe9.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          18
+        ],
+        "id": 127269,
+        "origin_country": [
+          "PK"
+        ],
+        "original_language": "ur",
+        "original_name": "Ishq Jalebi",
+        "overview": "",
+        "popularity": 3.3949,
+        "poster_path": "/jDYqFoH5K2Bqvtk35K87fZkCdDY.jpg",
+        "first_air_date": "2021-04-14",
+        "softcore": false,
+        "name": "Ishq Jalebi",
+        "vote_average": 10,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vutXU0IFbKLNhdNUshcR7dz8msE.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 127390,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Queens",
+        "overview": "",
+        "popularity": 3.9149,
+        "poster_path": "/x3yylKGhD02XlPq16ekGLRkOOMu.jpg",
+        "first_air_date": "2021-10-19",
+        "softcore": false,
+        "name": "Queens",
+        "vote_average": 7.1,
+        "vote_count": 34
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 95057,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Superman & Lois",
+        "overview": "يتناول العمل قصة أشهر بطل خارق على وجه الأرض، وعلاقته الزوجية بأشهر صحافية في العالم، والضغوطات والتعقيدات التي يمر بها الثنائي في حياتهما كأباء بالعصر الحالي.",
+        "popularity": 39.9284,
+        "poster_path": "/vlv1gn98GqMnKHLSh0dNciqGfBl.jpg",
+        "first_air_date": "2021-02-23",
+        "softcore": false,
+        "name": "سوبرمان ولويس",
+        "vote_average": 8.063,
+        "vote_count": 2759
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bxqUqpu2o03LOInXGX3EfHoQMDs.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 4187,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Belonging",
+        "overview": "",
+        "popularity": 6.5957,
+        "poster_path": "/kymxIpMvdIuhWM7DA8Dt1HnJM3H.jpg",
+        "first_air_date": "2000-02-02",
+        "softcore": false,
+        "name": "Belonging",
+        "vote_average": 8,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jZFh4y3cwwCEhq7SvIrm62bfwUw.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 32778,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "Cuando me enamoro... se detiene el tiempo",
+        "overview": "",
+        "popularity": 9.6092,
+        "poster_path": "/zOUviZ6A4aExs2Y0TD3X0Y2U7Gq.jpg",
+        "first_air_date": "2010-07-05",
+        "softcore": false,
+        "name": "Cuando me enamoro... se detiene el tiempo",
+        "vote_average": 7.526,
+        "vote_count": 307
+      }
+    ],
+    "total_pages": 2645,
+    "total_results": 52887
+  }
+}

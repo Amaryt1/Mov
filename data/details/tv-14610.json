@@ -1,0 +1,1349 @@
+{
+  "adult": false,
+  "backdrop_path": "/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
+  "created_by": [
+    {
+      "id": 1245327,
+      "credit_id": "525833ac760ee36aaa91234a",
+      "name": "Jason Daniel",
+      "original_name": "Jason Daniel",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 1245328,
+      "credit_id": "525833ad760ee36aaa912353",
+      "name": "Anne Harris",
+      "original_name": "Anne Harris",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1245329,
+      "credit_id": "525833af760ee36aaa91235c",
+      "name": "Greg Stevens",
+      "original_name": "Greg Stevens",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    21
+  ],
+  "first_air_date": "1999-01-25",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "أوبرا صابونية"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "https://www.mtvuutiset.fi/salatutelamat",
+  "id": 14610,
+  "in_production": true,
+  "languages": [
+    "fi"
+  ],
+  "last_air_date": "2026-08-14",
+  "last_episode_to_air": {
+    "id": 7467948,
+    "name": "الحلقة 20",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-04",
+    "episode_number": 20,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 29,
+    "show_id": 14610,
+    "still_path": null
+  },
+  "name": "Salatut elämät",
+  "next_episode_to_air": {
+    "id": 7467949,
+    "name": "الحلقة 21",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-11",
+    "episode_number": 21,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 29,
+    "show_id": 14610,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 295,
+      "logo_path": "/u9LyIrxe50xzah32svsarAiYwDd.png",
+      "name": "MTV3",
+      "origin_country": "FI"
+    },
+    {
+      "id": 5785,
+      "logo_path": "/tzrrna47zTSTnCkhpbyDY1c3pAD.png",
+      "name": "C More",
+      "origin_country": "FI"
+    },
+    {
+      "id": 7452,
+      "logo_path": "/7q59lBeXRb4kDBPZbMvbWOAgl7m.png",
+      "name": "MTV Katsomo",
+      "origin_country": "FI"
+    }
+  ],
+  "number_of_episodes": 4999,
+  "number_of_seasons": 29,
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "fi",
+  "original_name": "Salatut elämät",
+  "overview": "",
+  "popularity": 180.5968,
+  "poster_path": "/ugYAGyxwajuplDUUYT8Bzbj8eNR.jpg",
+  "production_companies": [
+    {
+      "id": 81234,
+      "logo_path": "/laQYVH7TN1xXSvyoTgAz0OYqCu6.png",
+      "name": "FremantleMedia Finland",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-01-25",
+      "episode_count": 90,
+      "id": 26077,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-08-30",
+      "episode_count": 170,
+      "id": 26078,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-08-28",
+      "episode_count": 180,
+      "id": 26079,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-20",
+      "episode_count": 170,
+      "id": 26080,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-02",
+      "episode_count": 165,
+      "id": 26081,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-01",
+      "episode_count": 157,
+      "id": 26082,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-08-30",
+      "episode_count": 150,
+      "id": 26083,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-30",
+      "episode_count": 150,
+      "id": 26084,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-14",
+      "episode_count": 150,
+      "id": 26085,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-08-20",
+      "episode_count": 190,
+      "id": 26086,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-18",
+      "episode_count": 190,
+      "id": 71334,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-24",
+      "episode_count": 180,
+      "id": 71336,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-30",
+      "episode_count": 180,
+      "id": 71337,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-29",
+      "episode_count": 180,
+      "id": 71338,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-03",
+      "episode_count": 180,
+      "id": 71339,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-09",
+      "episode_count": 170,
+      "id": 71340,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-08-25",
+      "episode_count": 185,
+      "id": 71341,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 180,
+      "id": 71342,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-16",
+      "episode_count": 188,
+      "id": 175361,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-21",
+      "episode_count": 189,
+      "id": 386232,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-20",
+      "episode_count": 190,
+      "id": 386233,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-16",
+      "episode_count": 209,
+      "id": 386234,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2020-07-31",
+      "episode_count": 220,
+      "id": 175456,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-06",
+      "episode_count": 220,
+      "id": 386235,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2022-08-05",
+      "episode_count": 200,
+      "id": 386236,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-08-04",
+      "episode_count": 174,
+      "id": 386237,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-09",
+      "episode_count": 180,
+      "id": 393078,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-08-08",
+      "episode_count": 180,
+      "id": 460636,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-08-07",
+      "episode_count": 32,
+      "id": 527180,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 4.2,
+  "vote_count": 23,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/bWS5Wc6RbhfD0Bop6iuksTNCupZ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 58476,
+        "origin_country": [
+          "PH"
+        ],
+        "original_language": "tl",
+        "original_name": "Bukod Kang Pinagpala",
+        "overview": "",
+        "popularity": 3.382,
+        "poster_path": "/pPsG6ZLYYkB2fIpxlQ49GN7mPAl.jpg",
+        "first_air_date": "2013-02-11",
+        "softcore": false,
+        "name": "Bukod Kang Pinagpala",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/khxuPmWXgO1vjwAxalnHGnjAgXb.jpg",
+        "genre_ids": [
+          10766,
+          35
+        ],
+        "id": 124201,
+        "origin_country": [
+          "PT"
+        ],
+        "original_language": "pt",
+        "original_name": "Festa é Festa",
+        "overview": "",
+        "popularity": 35.7839,
+        "poster_path": "/rlQlfiBR0zY1ucBIvB2neYUVfFP.jpg",
+        "first_air_date": "2021-04-26",
+        "softcore": false,
+        "name": "Festa é Festa",
+        "vote_average": 6.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5APjn4LnV5wWk5DXq7ZewT6zzP1.jpg",
+        "genre_ids": [
+          10766
+        ],
+        "id": 291,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Coronation Street",
+        "overview": "",
+        "popularity": 245.1484,
+        "poster_path": "/5x1HXqYqPyYw7oc7Isu1lvVmwRP.jpg",
+        "first_air_date": "1960-12-09",
+        "softcore": false,
+        "name": "Coronation Street",
+        "vote_average": 5.373,
+        "vote_count": 118
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6JFeugEg8SK7uXm6ljvy37xKjKq.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 59215,
+        "origin_country": [
+          "ES"
+        ],
+        "original_language": "es",
+        "original_name": "El secreto de Puente Viejo",
+        "overview": "",
+        "popularity": 23.7436,
+        "poster_path": "/diLOWF0QFtWl4vYcPHV9xPmCkGp.jpg",
+        "first_air_date": "2011-02-23",
+        "softcore": false,
+        "name": "El secreto de Puente Viejo",
+        "vote_average": 5.7,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2XSqGPAhIM2D6qvbSMC2iPvgmIW.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 727,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "Return to Eden",
+        "overview": "",
+        "popularity": 6.0682,
+        "poster_path": "/c5tRlIwUgV5SRQLiM105D3hfegf.jpg",
+        "first_air_date": "1983-09-27",
+        "softcore": false,
+        "name": "Return to Eden",
+        "vote_average": 6.9,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1E7ureR5AZoyVY3YvmGSm9VE8co.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 59185,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "호박꽃순정",
+        "overview": "",
+        "popularity": 4.1588,
+        "poster_path": "/iNrCvAtc8JdXlmI3MlchJPrgijY.jpg",
+        "first_air_date": "2010-11-15",
+        "softcore": false,
+        "name": "호박꽃순정",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AfH4RQ8q3eTTaX2caFfzt81rLt8.jpg",
+        "genre_ids": [
+          10766
+        ],
+        "id": 966,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Hollyoaks",
+        "overview": "الصابون اليومي الذي يتبع الحب والحياة والجنح لمجموعة من الناس الذين يعيشون في قرية تشيستر في هوليواكس حيث يمكن أن يحدث أي شيء ، وغالبا ما يحدث ...",
+        "popularity": 43.8377,
+        "poster_path": "/5sbMgcbpzZn8aKETeanrKDANzdM.jpg",
+        "first_air_date": "1995-10-23",
+        "softcore": false,
+        "name": "Hollyoaks",
+        "vote_average": 5.15,
+        "vote_count": 70
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AcG3Ug6ebWU9aYB15ELSN9QXFcx.jpg",
+        "genre_ids": [
+          10766
+        ],
+        "id": 998,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Loving",
+        "overview": "",
+        "popularity": 2.1884,
+        "poster_path": "/w1PZCCrLf97u4uXarZZwyX1YfqP.jpg",
+        "first_air_date": "1983-06-26",
+        "softcore": false,
+        "name": "Loving",
+        "vote_average": 7,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 29244,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "A Woman's Guide to Adultery",
+        "overview": "",
+        "popularity": 1.384,
+        "poster_path": "/wg7UzIkZ8kWNK9qPl7qrYOYBhFd.jpg",
+        "first_air_date": "1993-11-29",
+        "softcore": false,
+        "name": "A Woman's Guide to Adultery",
+        "vote_average": 5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/24plaX4WSNEbqx74MzZBLPwlpBE.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 1054,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Young and the Restless",
+        "overview": "",
+        "popularity": 19.9543,
+        "poster_path": "/mN3kMuh7Cy9byeySK6pymnpIOZO.jpg",
+        "first_air_date": "1973-03-26",
+        "softcore": false,
+        "name": "The Young and the Restless",
+        "vote_average": 7.012,
+        "vote_count": 168
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/11IE6RoBxZgazl4bxIFrTbdpgZk.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1210,
+        "origin_country": [
+          "PH"
+        ],
+        "original_language": "tl",
+        "original_name": "Sana Maulit Muli",
+        "overview": "",
+        "popularity": 3.303,
+        "poster_path": "/3sQTJY0RLNC940YduKPgiNh9P6q.jpg",
+        "first_air_date": "2007-01-08",
+        "softcore": false,
+        "name": "Sana Maulit Muli",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qwoFxyMtArLpZZzG3mmRDEjGgCM.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 239526,
+        "origin_country": [
+          "ES"
+        ],
+        "original_language": "es",
+        "original_name": "Sueños de libertad",
+        "overview": "",
+        "popularity": 59.0637,
+        "poster_path": "/k0uSCsavcoGviQK9rfyH2srRjhZ.jpg",
+        "first_air_date": "2024-02-25",
+        "softcore": false,
+        "name": "Sueños de libertad",
+        "vote_average": 6.1,
+        "vote_count": 16
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1920,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Twin Peaks",
+        "overview": "عُثر على جثة لورا بالمر على شاطئ بالقرب من بلدة توين بيكس الصغيرة في ولاية واشنطن. استُدعي العميل الخاص في مكتب التحقيقات الفيدرالي، ديل كوبر، للتحقيق في وفاتها الغامضة، ليكشف عن شبكة من الألغاز تقوده في نهاية المطاف إلى أعماق الغابة المحيطة ونفسه",
+        "popularity": 53.8821,
+        "poster_path": "/fgJJMIA8zFeRErCgCvs73Tsr28d.jpg",
+        "first_air_date": "1990-04-08",
+        "softcore": false,
+        "name": "توين بيكس",
+        "vote_average": 8.341,
+        "vote_count": 2690
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rHgGQKEU99prngLQDhytYBvPMC4.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 93393,
+        "origin_country": [
+          "PT"
+        ],
+        "original_language": "pt",
+        "original_name": "A Única Mulher",
+        "overview": "",
+        "popularity": 18.4032,
+        "poster_path": "/7lDO72HbZHMnd3YH1QwOLpocSZO.jpg",
+        "first_air_date": "2015-03-15",
+        "softcore": false,
+        "name": "A Única Mulher",
+        "vote_average": 6.429,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kHAxjfdl1cMgDpIjuxKWa1nE44i.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 93421,
+        "origin_country": [
+          "PT"
+        ],
+        "original_language": "pt",
+        "original_name": "A Impostora",
+        "overview": "",
+        "popularity": 19.651,
+        "poster_path": "/yLtLTnivr3CwnBwKW7E7008u363.jpg",
+        "first_air_date": "2016-09-04",
+        "softcore": false,
+        "name": "A Impostora",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kkyrixKwSU6fHCUOD9QJj6XKYmi.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 2527,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Emmerdale",
+        "overview": "",
+        "popularity": 110.3795,
+        "poster_path": "/4elMyMe6W782VxXr5R1BmWDoqSg.jpg",
+        "first_air_date": "1972-10-16",
+        "softcore": false,
+        "name": "Emmerdale",
+        "vote_average": 4.3,
+        "vote_count": 100
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y82kShjQYvpJWt9NJyI79AlhVzv.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 93640,
+        "origin_country": [
+          "PT"
+        ],
+        "original_language": "pt",
+        "original_name": "Na Corda Bamba",
+        "overview": "",
+        "popularity": 6.3486,
+        "poster_path": "/srP57zD9P0Uj1ZgZRBs8Iy2PvEM.jpg",
+        "first_air_date": "2019-09-15",
+        "softcore": false,
+        "name": "Na Corda Bamba",
+        "vote_average": 3.25,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bRRYAZhIES0mamo0jfnBlCLjvmJ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 93641,
+        "origin_country": [
+          "PT"
+        ],
+        "original_language": "pt",
+        "original_name": "Nazaré",
+        "overview": "",
+        "popularity": 14.6317,
+        "poster_path": "/azv4RaJ8sz6T8OS0pJ8k3QV2PDL.jpg",
+        "first_air_date": "2019-09-09",
+        "softcore": false,
+        "name": "Nazaré",
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 2657,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Fashion House",
+        "overview": "",
+        "popularity": 2.8003,
+        "poster_path": "/eYuA8n8KmKS4SRHY9SCkSJioBSi.jpg",
+        "first_air_date": "2006-09-05",
+        "softcore": false,
+        "name": "Fashion House",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/60sWRETjTNqg1vHl772wqC7uAAz.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 2694,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Damon and Debbie",
+        "overview": "",
+        "popularity": 1.3687,
+        "poster_path": "/9pAgrSrJFgorjiH8eRar4zX6H9O.jpg",
+        "first_air_date": "1987-11-04",
+        "softcore": false,
+        "name": "Damon and Debbie",
+        "vote_average": 6,
+        "vote_count": 2
+      }
+    ],
+    "total_pages": 2674,
+    "total_results": 53474
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5GXW5SRUO8oWLOAaOhK1nxiCZEV.jpg",
+        "id": 236921,
+        "name": "Vuelve a mí",
+        "original_name": "Vuelve a mí",
+        "overview": "The kidnapping of her son unleashes a storm in Nuria García's life who, in the most difficult moment, meets Santiago Zepeda; together, they find redemption in the face of adversity.",
+        "poster_path": "/sGgYl7voI8T34azn5biA0MRpG3c.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 7.7004,
+        "first_air_date": "2023-10-09",
+        "softcore": false,
+        "vote_average": 8.55,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h8A6J31szyLPWU2HXS2wZkp8aQa.jpg",
+        "id": 3437,
+        "name": "Hotel",
+        "original_name": "Hotel",
+        "overview": "Hotel is an American prime time drama series which aired on ABC from September 21, 1983 to May 5, 1988 in the timeslot following Dynasty.\n\nBased on Arthur Hailey's 1965 novel of the same name, the series was produced by Aaron Spelling and set in the elegant and fictitious St. Gregory Hotel in San Francisco. Establishing shots of the hotel were filmed in front of The Fairmont San Francisco atop the Nob Hill neighborhood. Episodes followed the activities of passing guests, as well as the personal and professional lives of the hotel staff.",
+        "poster_path": "/bYOQJm7O7cEPvkcMp3VI6TSP6Eg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 26.4736,
+        "first_air_date": "1982-08-21",
+        "softcore": false,
+        "vote_average": 6.846,
+        "vote_count": 26,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/FNeJtRUd5XID186SHzjNNneP3f.jpg",
+        "id": 61733,
+        "name": "Empire",
+        "original_name": "Empire",
+        "overview": "A powerful family drama about the head of a music empire whose three sons and ex-wife all battle for his throne.",
+        "poster_path": "/gTrzYR6gWMhQ8yINW9JCLeoJHvf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 28.6507,
+        "first_air_date": "2015-01-07",
+        "softcore": false,
+        "vote_average": 7.137,
+        "vote_count": 763,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/biThcmII4ICSvEx1zLMaf70Noxy.jpg",
+        "id": 131835,
+        "name": "Nautilus",
+        "original_name": "Nautilus",
+        "overview": "The origin story of the iconic Captain Nemo: an Indian Prince robbed of his birthright and family, a prisoner of the East India Mercantile Company and a man bent on revenge against the forces that have taken everything from him.",
+        "poster_path": "/eBHzItKQNfPdt2GL4LcHJy8P1sH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 11.5126,
+        "first_air_date": "2024-10-25",
+        "softcore": false,
+        "vote_average": 6.748,
+        "vote_count": 106,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1SUer2UeRe4LFxil6LJo60KoQrX.jpg",
+        "id": 4349,
+        "name": "Melrose Place",
+        "original_name": "Melrose Place",
+        "overview": "Follow the lives of a group of young adults living in a brownstone apartment complex on Melrose Place, in Los Angeles, California.",
+        "poster_path": "/kIc03DwT3DPd48lKlbpyPxx3O1S.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 62.3152,
+        "first_air_date": "1992-07-08",
+        "softcore": false,
+        "vote_average": 5.834,
+        "vote_count": 190,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A3AEKSTwNGsnYOHnBmI8ZAe3TWR.jpg",
+        "id": 3414,
+        "name": "Scarecrow and Mrs. King",
+        "original_name": "Scarecrow and Mrs. King",
+        "overview": "Scarecrow and Mrs. King is an American television series that aired from October 3, 1983, to May 28, 1987 on CBS. The show stars Kate Jackson and Bruce Boxleitner as divorced housewife Amanda King and top-level \"Agency\" operative Lee Stetson who begin a strange association, and eventual romance, after encountering one another in a train station.",
+        "poster_path": "/36oUFRNJQORpL9fmnrSXdFqEGty.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 21.5822,
+        "first_air_date": "1983-10-03",
+        "softcore": false,
+        "vote_average": 6.7,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kvC4lHBdGYKmEusPcbdke4fCFvt.jpg",
+        "id": 12026,
+        "name": "Reilly: Ace of Spies",
+        "original_name": "Reilly: Ace of Spies",
+        "overview": "Reilly, Ace of Spies is a 1983 television miniseries dramatising the life of Sidney Reilly, a Russian Jew who became one of the greatest spies ever to work for the British. Among his exploits, in the early 20th-century, were the infiltration of the German General Staff in 1917 and a near-overthrow of the Bolsheviks in 1918. His reputation with women was as legendary as his genius for espionage.",
+        "poster_path": "/xsM7xRTIoba2J70eaRnlThureUS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 6.4786,
+        "first_air_date": "1983-09-05",
+        "softcore": false,
+        "vote_average": 7.042,
+        "vote_count": 24,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7XNP4WdsWA9iorQJtXQxZScljmt.jpg",
+        "id": 9894,
+        "name": "Mission: Impossible",
+        "original_name": "Mission: Impossible",
+        "overview": "Mission: Impossible is an American television series that chronicles the missions of a team of secret American government agents known as the Impossible Missions Force. The show is a revival of the 1966 TV series of the same name. The only actor to return for the series as a regular cast member was Peter Graves who played Jim Phelps, although two other cast members from the original series returned as guest stars. The only other regular cast member to return for every episode was the voice of \"The Tape\", Bob Johnson.",
+        "poster_path": "/4AZwDa0RZLIVsOgZxlgOqNUw3U6.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 9.3033,
+        "first_air_date": "1988-10-23",
+        "softcore": false,
+        "vote_average": 7.538,
+        "vote_count": 224,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ujAdRsubRT5TYguf9LNSWIlgT7z.jpg",
+        "id": 36737,
+        "name": "Lady Chatterley",
+        "original_name": "Lady Chatterley",
+        "overview": "After a crippling injury leaves her husband impotent, Lady Chatterly is torn between her love for her husband and her physical desires. With her husband's consent, she seeks out other means of fulfilling her needs.",
+        "poster_path": "/oR5MdtO4409hNVctaKYKN9DNcY8.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 19.1578,
+        "first_air_date": "1993-06-06",
+        "softcore": false,
+        "vote_average": 6.308,
+        "vote_count": 26,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8XDVqIrQuXbxbZy8ThfzqCGI5e.jpg",
+        "id": 10360,
+        "name": "The New Avengers",
+        "original_name": "The New Avengers",
+        "overview": "The New Avengers is a British secret agent fantasy adventure television series broadcast during 1976 and 1977. It is a sequel to the 1960s series The Avengers and was developed by Albert Fennell and Brian Clemens.\n\nA joint United Kingdom-France-Canada production, the show picks up the adventures of John Steed and his team of Avengers fighting evil plots and world domination. Whereas in the original series Steed had almost always been partnered with a woman, in the new series he had two partners: Mike Gambit, a top agent, crack marksman and trained martial artist, and Purdey, a former trainee with The Royal Ballet who was an amalgam of many of the best talents from Steed's previous female partners.",
+        "poster_path": "/bk1J1bvfBVbvchK3RFSpHO9eXcg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "popularity": 9.8592,
+        "first_air_date": "1976-10-22",
+        "softcore": false,
+        "vote_average": 7.137,
+        "vote_count": 51,
+        "origin_country": [
+          "CA",
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/58JWKf2FjsXwuiIS4wngeFG5A6e.jpg",
+        "id": 321,
+        "name": "Voyage to the Bottom of the Sea",
+        "original_name": "Voyage to the Bottom of the Sea",
+        "overview": "Join the crew of the Seaview aboard their super high-tech submarine, where no mission is too dangerous and no threat is too deadly, be it enemy agents, mad scientists, deadly sea creatures, or impending nuclear disaster.",
+        "poster_path": "/m0NdwZheYAPCqw6aa7GASbIpDvG.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 15.1449,
+        "first_air_date": "1964-09-14",
+        "softcore": false,
+        "vote_average": 7.773,
+        "vote_count": 139,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jE378K4gP68vDrEPDIxWbpqaJO8.jpg",
+        "id": 14733,
+        "name": "Rich Man, Poor Man",
+        "original_name": "Rich Man, Poor Man",
+        "overview": "Based on the best-selling 1969 novel by Irwin Shaw, the series follows the divergent career courses of the impoverished German American Jordache brothers.",
+        "poster_path": "/8LmpOZ8JVzHEgHGLi3opMWsqOdt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 6.4802,
+        "first_air_date": "1976-02-01",
+        "softcore": false,
+        "vote_average": 7.859,
+        "vote_count": 32,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1RvM2JdvSh4YdwUJlUxqBYRWpYu.jpg",
+        "id": 73602,
+        "name": "Greenhouse Academy",
+        "original_name": "Greenhouse Academy",
+        "overview": "When teen siblings Hayley and Alex enter an elite boarding school, they find rivalry, romance and a mystery related to the recent loss of their mom.",
+        "poster_path": "/pwKPvq66nevyaj4OvBFFVK23fo8.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 11.0102,
+        "first_air_date": "2017-09-08",
+        "softcore": false,
+        "vote_average": 7.4,
+        "vote_count": 164,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pd6OT8CjLWM48BOY7qubIKNbtYl.jpg",
+        "id": 2199,
+        "name": "Tales of the Unexpected",
+        "original_name": "Tales of the Unexpected",
+        "overview": "A British television anthology of stories, often with sinister and wryly comedic undertones, and a twist at the end. With early episodes written and presented by Roald Dahl, the series featured a plethora of big name guest stars.",
+        "poster_path": "/vfG5gafbtxtfMvgDdNi56evx4Og.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 20.768,
+        "first_air_date": "1979-03-24",
+        "softcore": false,
+        "vote_average": 6.741,
+        "vote_count": 54,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/96v57BttdxvquxnVozkQUsGvawQ.jpg",
+        "id": 61511,
+        "name": "Father Brown",
+        "original_name": "Father Brown",
+        "overview": "Father Brown is based on G. K. Chesterton's detective stories about a Catholic priest who doubles as an amateur detective in order to try and solve mysteries.",
+        "poster_path": "/u8LUC3O1hiEDKP2SFZK68iYqMzl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 35.804,
+        "first_air_date": "2013-01-14",
+        "softcore": false,
+        "vote_average": 7.649,
+        "vote_count": 141,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yxHPyiOGOcc3k2WGGAzrHnrq5kw.jpg",
+        "id": 58057,
+        "name": "Jack Irish",
+        "original_name": "Jack Irish",
+        "overview": "Jack Irish is a man getting his life back together again. A former criminal lawyer whose world imploded, he now spends his days as a part-time investigator, debt collector, apprentice cabinet maker, punter and sometime lover – the complete man really. An expert in finding those who don’t want to be found – dead or alive, Jack helps out his mates while avoiding the past. That is until the past finds him.",
+        "poster_path": "/9f66kq0vLHztRL44FcGCqyaqUJo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 7.2649,
+        "first_air_date": "2016-02-11",
+        "softcore": false,
+        "vote_average": 6.525,
+        "vote_count": 40,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7k21NnwnMnHQwJfv6WjDGnW8IvI.jpg",
+        "id": 85547,
+        "name": "London Kills",
+        "original_name": "London Kills",
+        "overview": "With a documentary style delivery, this drama tells the story of a team of top murder detectives with each episode featuring a different murder while also following a serialized story involving the lead detective’s missing wife.",
+        "poster_path": "/9YqT6OWah3zQfFMFQGLzQHDObcq.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 5.0736,
+        "first_air_date": "2019-02-25",
+        "softcore": false,
+        "vote_average": 6.528,
+        "vote_count": 36,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1B9h8lWshSc8emaU7J3zVrWbPxV.jpg",
+        "id": 5050,
+        "name": "Sea Hunt",
+        "original_name": "Sea Hunt",
+        "overview": "Sea Hunt is an American adventure television series that aired in syndication from 1958 to 1961 and was popular in syndication for decades afterwards. The series originally aired for four seasons, with 155 episodes produced. It stars Lloyd Bridges as ex-Navy frogman Mike Nelson, and was produced by Ivan Tors.",
+        "poster_path": "/5aSZlCZ0zEvww83kmFFxlbCElPf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "popularity": 13.188,
+        "first_air_date": "1958-01-04",
+        "softcore": false,
+        "vote_average": 6.725,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7kH7yoDhk7RWSIfeLDRqpSmhoeI.jpg",
+        "id": 155278,
+        "name": "Dangerous Liaisons",
+        "original_name": "Dangerous Liaisons",
+        "overview": "A pair of scheming ex-lovers attempt to exploit others by using the power of seduction. TV adaptation of Pierre Choderlos de Laclos' classic 18th Century novel \"Les Liaisons Dangereuses\".",
+        "poster_path": "/epuxWxRq1cSvhw0SkWzSiuntrBs.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 5.6442,
+        "first_air_date": "2022-11-06",
+        "softcore": false,
+        "vote_average": 6.4,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hMMWtinDnIjvUeiWKmvpkmnxGnK.jpg",
+        "id": 288055,
+        "name": "Star Wars: Tales of the Underworld",
+        "original_name": "Star Wars: Tales of the Underworld",
+        "overview": "Two outlaws must navigate the galaxy's dangerous underworld as they chart their destinies.",
+        "poster_path": "/qv1hagzp08cDJF6C04LyJVhcI1x.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          80,
+          18
+        ],
+        "popularity": 9.4126,
+        "first_air_date": "2025-05-04",
+        "softcore": false,
+        "vote_average": 7.254,
+        "vote_count": 132,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 19,
+    "total_results": 363
+  },
+  "watch/providers": {
+    "results": {}
+  }
+}

@@ -1,0 +1,1429 @@
+{
+  "adult": false,
+  "backdrop_path": "/jWeEu0YRqYZNj0HpRWYnZU2MsHo.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    111,
+    54,
+    84
+  ],
+  "first_air_date": "2002-10-09",
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
+    }
+  ],
+  "homepage": "http://www.tv-asahi.co.jp/aibou/",
+  "id": 40663,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-03-11",
+  "last_episode_to_air": {
+    "id": 7012041,
+    "name": "الحلقة 19",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-11",
+    "episode_number": 19,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 45,
+    "season_number": 24,
+    "show_id": 40663,
+    "still_path": null
+  },
+  "name": "相棒",
+  "next_episode_to_air": {
+    "id": 7777952,
+    "name": "الحلقة 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-10-15",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 25,
+    "show_id": 40663,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 103,
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "name": "tv asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 462,
+  "number_of_seasons": 25,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "相棒",
+  "overview": "",
+  "popularity": 121.7041,
+  "poster_path": "/lahVy2ZYCDrVc5Rhgj1qqq4WIau.jpg",
+  "production_companies": [
+    {
+      "id": 9300,
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+      "name": "TV Asahi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5822,
+      "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+      "name": "Toei Company",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2000-06-03",
+      "episode_count": 24,
+      "id": 239995,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/mr09DYL6vnR5vh6Nba8amE0Wb0n.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-10-09",
+      "episode_count": 12,
+      "id": 100881,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/nhMLqPtIgVMQhyO1O39YQFdiJAW.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-10-08",
+      "episode_count": 21,
+      "id": 100883,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/s9dnrjrBiYBM4gl0zwYTjILcAyS.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-13",
+      "episode_count": 19,
+      "id": 111452,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/sf2VwFjOb4TRUJom9ViH94SYaQ8.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-10-12",
+      "episode_count": 21,
+      "id": 111453,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/xWM37MFquypqQxCHp7vl4uFX4tc.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-10-11",
+      "episode_count": 20,
+      "id": 111454,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/uw84afvcEBD2RMIuV1eZevGmQ8z.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-10-24",
+      "episode_count": 19,
+      "id": 111455,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/oowKZnRXXBwq2ww0iKc0DLz1Xxz.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-10-22",
+      "episode_count": 19,
+      "id": 111456,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/tzHyAfTL7EwVCuS5VLH5MEoo2kt.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-10-14",
+      "episode_count": 19,
+      "id": 111457,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/6r8iZrgD1VfeHLXCKZTjNAu9GKs.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-10-20",
+      "episode_count": 18,
+      "id": 100885,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/5Bl3gJCWgEXfSKtDlULHjJTNrPo.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-10-19",
+      "episode_count": 19,
+      "id": 111458,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/p5H4ocAlNmauT3RQ9tm6j0ceVVs.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-10-10",
+      "episode_count": 19,
+      "id": 51449,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/eCdpvC0lGKFT4vF1apzAJAGToy5.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-16",
+      "episode_count": 19,
+      "id": 51450,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/wMKKom9YEgo8GY9I2n9BntFu9el.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-15",
+      "episode_count": 19,
+      "id": 73715,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/lbmSS6boQnOutnB8pkY8spl7Xm.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-14",
+      "episode_count": 20,
+      "id": 111459,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/yAsSBujiykh9BBZy2k64wjj7DqY.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-12",
+      "episode_count": 18,
+      "id": 111460,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/yZcJ2QAbQh3XutZ0o0IDDgY4stz.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-10-18",
+      "episode_count": 20,
+      "id": 100884,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/mUXM3DoOymmYSUqQqq9pXfThHBu.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-10-17",
+      "episode_count": 20,
+      "id": 111461,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/6enkVsNcQL3Tv58PNdOqv0zSa8s.jpg",
+      "season_number": 17,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2019-10-09",
+      "episode_count": 20,
+      "id": 137425,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/1veAaYRsyOxYRnnYFjfqQwnzclx.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-10-14",
+      "episode_count": 20,
+      "id": 160719,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/lCbw4yXBpHfMtAGSs8gIJpnucO4.jpg",
+      "season_number": 19,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2021-10-13",
+      "episode_count": 20,
+      "id": 207588,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/ETD9ToafGhn3zPbIarJouDWqFA.jpg",
+      "season_number": 20,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2022-10-12",
+      "episode_count": 21,
+      "id": 299576,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/gyFPBdlR4FaNCWMVW5PBMuejmyc.jpg",
+      "season_number": 21,
+      "vote_average": 6.8
+    },
+    {
+      "air_date": "2023-10-18",
+      "episode_count": 20,
+      "id": 358967,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/dDMuA8RLJifRtPgHp7LqE0sBPh.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-10-16",
+      "episode_count": 19,
+      "id": 416821,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/cKtOwuyFXSL00dpCf6I0mjQ5TOC.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-10-15",
+      "episode_count": 19,
+      "id": 477160,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/rQqvO84Xn3XUSuvKwkAnXXsrcNd.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-10-15",
+      "episode_count": 1,
+      "id": 541870,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/mnS6BMptUwpdhrhEfPyBz5T8jk6.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.5,
+  "vote_count": 24,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 233694,
+        "known_for_department": "Acting",
+        "name": "水谷豊",
+        "original_name": "水谷豊",
+        "popularity": 1.0202,
+        "profile_path": "/2TYdmWA09srHJ9FkrQpM0FVMJyD.jpg",
+        "character": "杉下右京(Ukyō Sugishita)",
+        "credit_id": "587a2e299251413f1b0029e3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2761104,
+        "known_for_department": "Acting",
+        "name": "山中崇史",
+        "original_name": "山中崇史",
+        "popularity": 0.8312,
+        "profile_path": "/sN9qD63aqJ8hc4em6k37XkSkeF2.jpg",
+        "character": "芹泽庆二(Keiji Serizawa)",
+        "credit_id": "62d3b7e32d1e400060dfcb98",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 553109,
+        "known_for_department": "Acting",
+        "name": "川原和久",
+        "original_name": "川原和久",
+        "popularity": 1.2636,
+        "profile_path": "/6LC11rOEAOtWGBfAhSwS0wtX9dl.jpg",
+        "character": "伊丹宪一(Kenichi Itami)",
+        "credit_id": "62d3aa4bafa1b003ab9f409a",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1602438,
+        "known_for_department": "Acting",
+        "name": "山西惇",
+        "original_name": "山西惇",
+        "popularity": 0.8546,
+        "profile_path": "/z3KjHXsz2zzy255eoBPFIgQdnND.jpg",
+        "character": "角田六郎(Rokuro Kakuta)",
+        "credit_id": "62d3b2b72d1e400060dfc956",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1034277,
+        "known_for_department": "Acting",
+        "name": "片桐竜次",
+        "original_name": "片桐竜次",
+        "popularity": 1.4282,
+        "profile_path": "/dIDUaPoilOpJJAMDJeXXqPMSvyq.jpg",
+        "character": "内村完尔(Kanji Uchimura)",
+        "credit_id": "62d3b599d399e6004e725fea",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1622642,
+        "known_for_department": "Acting",
+        "name": "小野了",
+        "original_name": "小野了",
+        "popularity": 0.8372,
+        "profile_path": "/8YKTnDTOkP35mTVBzgcStUwYPgo.jpg",
+        "character": "中园照生(Teruo Nakazono)",
+        "credit_id": "62d3b65dc15b550071b8c63f",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 550565,
+        "known_for_department": "Acting",
+        "name": "及川光博",
+        "original_name": "及川光博",
+        "popularity": 1.2758,
+        "profile_path": "/as3aRjdzHrgxsCNmvKsjWl9blnq.jpg",
+        "character": "神户尊(Takeru Kambe)",
+        "credit_id": "52595d91760ee346619367df",
+        "order": 22
+      }
+    ],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/40663/watch?locale=JP",
+        "flatrate": [
+          {
+            "logo_path": "/4VCejDvZLh7zIFNvrNPDfgSbPQi.png",
+            "provider_id": 2518,
+            "provider_name": "TELESA Amazon Channel",
+            "display_priority": 67
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ]
+      }
+    }
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/xBArQQzPVYvPj0DidnsK9nF3JbB.jpg",
+        "id": 75701,
+        "name": "Unnatural",
+        "original_name": "アンナチュラル",
+        "overview": "Mikoto, a forensic investigative examiner, and her partners trace down the evidence of crimes and unravel the puzzles behind mysterious deaths.",
+        "poster_path": "/9dtVQyYAqnNOrCV0kodFELuUPdY.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 6.6178,
+        "first_air_date": "2018-01-12",
+        "softcore": false,
+        "vote_average": 8.4,
+        "vote_count": 104,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wofevfOdZrHPqFnhZTkHHV25IOO.jpg",
+        "id": 587,
+        "name": "Barnaby Jones",
+        "original_name": "Barnaby Jones",
+        "overview": "Barnaby Jones is a television detective series starring Buddy Ebsen and Lee Meriwether as father- and daughter-in-law who run a private detective firm in Los Angeles. The show ran on CBS from January 28, 1973 to April 3, 1980, beginning as a midseason replacement. William Conrad guest starred as Frank Cannon of Cannon on the first episode of Barnaby Jones, \"Requiem for a Son\" and the two series had a two-part crossover episode in 1975, \"The Deadly Conspiracy\".",
+        "poster_path": "/wn1kkCGHJcUQ7C8umfQH9LL2zXR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.85,
+        "first_air_date": "1973-01-28",
+        "softcore": false,
+        "vote_average": 7.097,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k7w3VSy1F4pW5HeoZjk2wn73AXS.jpg",
+        "id": 45194,
+        "name": "Dragnet",
+        "original_name": "Dragnet",
+        "overview": "Police Detective Sgt. Joe Friday and his partners investigate crimes in Los Angeles.",
+        "poster_path": "/tvozcbojiCAHIFar7kdaGfwSWew.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 19.2663,
+        "first_air_date": "1967-01-12",
+        "softcore": false,
+        "vote_average": 6.957,
+        "vote_count": 23,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wixjwQv8aPfIwbc7euj0fPPsMjT.jpg",
+        "id": 3216,
+        "name": "Baretta",
+        "original_name": "Baretta",
+        "overview": "Baretta is an American detective television series which ran on ABC from 1975 to 1978. The show was a milder version of a successful 1973–74 ABC series, Toma, starring Tony Musante as chameleon-like, real-life New Jersey police officer David Toma. While popular, Toma received intense criticism at the time for its realistic and frequent depiction of police and criminal violence. When Musante left the series after a single season, the concept was retooled as Baretta, with Robert Blake in the title role.",
+        "poster_path": "/xayGSRT2GbcFTwNIqt6l355v29F.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.8278,
+        "first_air_date": "1975-01-17",
+        "softcore": false,
+        "vote_average": 6.536,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yBNDjG4Q963MecEllraSdqs3QjX.jpg",
+        "id": 218038,
+        "name": "Vivant",
+        "original_name": "VIVANT",
+        "overview": "Yusuke Nogi of Ryosho's Energy Development Division said that 10 times the official down payment was mistakenly sent to GFL, a local infrastructure company involved in a solar energy plant to be built in the Balkan Republic in Central Asia. Suspected of involvement, he heads to the Balkan Republic to collect the difference of $90 million. With the cooperation of his CIA friend Sam, Nogi obtained information that the terrorist al-Zaer had laundered the full amount of the contract money into diamonds and brought it out.",
+        "poster_path": "/aut8zs5YypvT5chQUuFhActLkHF.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 19.6317,
+        "first_air_date": "2023-07-16",
+        "softcore": false,
+        "vote_average": 7.411,
+        "vote_count": 28,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iq4BjyVsDxzg24XnjoGP0Xi2Tz5.jpg",
+        "id": 4177,
+        "name": "Perry Mason",
+        "original_name": "Perry Mason",
+        "overview": "The cases of master criminal defense attorney Perry Mason and his staff who handled the most difficult of cases in the aid of the innocent.",
+        "poster_path": "/sK6JvgNFP1ClT4aF4nPAZiDpAdk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 92.2863,
+        "first_air_date": "1957-09-21",
+        "softcore": false,
+        "vote_average": 7.71,
+        "vote_count": 138,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pWt3ouja7NlknphkQLAZvFSzByh.jpg",
+        "id": 62036,
+        "name": "Ouroboros",
+        "original_name": "ウロボロス〜この愛こそ、正義。",
+        "overview": "\"Ouroboros\" is an ancient symbol that depicts a snake eating its own tail - meaning infinity. Based on a popular comic, a clumsy detective and a cool gang stand up to true evil. Ikuo and Tatsuya grew up in a children's orphanage together. When their favorite teacher, Yuiko, is murdered, a policeman wearing a gold watch covers up the incident. Ikuo and Tatsuya promise each other to avenge their teacher someday. Twenty years later, Ikuo is a detective in Shinjuku second police station investigating various cases with elite detective - Mizuki, while smart and handsome Tatsuya has become one of the top members of a gang group.",
+        "poster_path": "/vn1rfsgyyRCzDHVDDNAnT0E5dmx.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 4.4698,
+        "first_air_date": "2015-01-16",
+        "softcore": false,
+        "vote_average": 6.95,
+        "vote_count": 20,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/66Qqh7rJTCOSZgJkVAJa3wfUMMI.jpg",
+        "id": 3716,
+        "name": "Dragnet",
+        "original_name": "Dragnet",
+        "overview": "Follows the cases of a dedicated Los Angeles police detective, Sergeant Joe Friday, and his partners. The show takes its name from the police term \"dragnet\", meaning a system of coordinated measures for apprehending criminals or suspects.",
+        "poster_path": "/393BVqnVaioYBE5f3LMUwFRAwPQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 46.793,
+        "first_air_date": "1951-12-16",
+        "softcore": false,
+        "vote_average": 6.486,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1lBEfsnzUkxtxzvFwimENpM6bEP.jpg",
+        "id": 6127,
+        "name": "Agatha Christie's Marple",
+        "original_name": "Agatha Christie's Marple",
+        "overview": "The adventures of Miss Jane Marple, an elderly spinster living in the quiet little village of St Mary Mead. During her many visits to friends and relatives in other villages, Miss Marple often stumbles upon mysterious murders which she helps solve. Although the police are sometimes reluctant to accept Miss Marple's help, her reputation and unparalleled powers of observation eventually win them over.",
+        "poster_path": "/nVswrZQpqQND9TgwgbWgz18KgAo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 35.7072,
+        "first_air_date": "2004-12-12",
+        "softcore": false,
+        "vote_average": 7.834,
+        "vote_count": 148,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eUr4FdIkP2fgyrnH76Xb1OTxbwk.jpg",
+        "id": 61565,
+        "name": "The Brokenwood Mysteries",
+        "original_name": "The Brokenwood Mysteries",
+        "overview": "In a seemingly quiet country town the newest resident, Detective Inspector Mike Shepherd, finds that murder lurks in even the most homely location.",
+        "poster_path": "/eWrrFMrBjZXtpXJzAtDz7MfoEQB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 21.7878,
+        "first_air_date": "2014-09-28",
+        "softcore": false,
+        "vote_average": 7.6,
+        "vote_count": 93,
+        "origin_country": [
+          "NZ"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1qPnDOxWqDXKx3SeOvCuglosimJ.jpg",
+        "id": 72736,
+        "name": "Frankie Drake Mysteries",
+        "original_name": "Frankie Drake Mysteries",
+        "overview": "Toronto’s only female private detective in the 1920s takes on the cases the police don’t want or can’t handle. From airplanes and booze running to American G-men, Communists and union busters, Frankie’s fearless sense of adventure gets her into all kinds of trouble, but she always manages to find her way out.",
+        "poster_path": "/saTRepmDwP3df0f0E8tJNX4BnrS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 10.6864,
+        "first_air_date": "2017-11-06",
+        "softcore": false,
+        "vote_average": 6.3,
+        "vote_count": 44,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7398a0SJBEH8i7hGQL94No4lUqT.jpg",
+        "id": 157409,
+        "name": "Signora Volpe",
+        "original_name": "Signora Volpe",
+        "overview": "After years as an MI6 operative, Sylvia winds up in a village in Umbria visiting her sister Isabel and becomes involved in a murder investigation.",
+        "poster_path": "/wEhY7XzejGMPc4vWpJwfwhRAg3N.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 7.9653,
+        "first_air_date": "2022-05-02",
+        "softcore": false,
+        "vote_average": 7.181,
+        "vote_count": 48,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7lYBvjfgrguOUgnS9NrpysHtaCq.jpg",
+        "id": 4582,
+        "name": "Ironside",
+        "original_name": "Ironside",
+        "overview": "When an assassin's bullet confines him to a wheelchair for life ending his career as Chief of Detectives, Robert T. Ironside becomes a consultant to the police department. Detective Sergeant Ed Brown and policewoman Eve Whitfield join with him to crack varied and fascinating cases. Ex-con Mark Sanger is employed by the chief as home help but eventually becomes a fully fledged member of the team also. Officer Whitfield leaves after 4 years service, and is replaced by Officer Fran Belding.",
+        "poster_path": "/Fu9Sv0pQ0s89uWwwXcaG0kiNW7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 55.1088,
+        "first_air_date": "1967-03-28",
+        "softcore": false,
+        "vote_average": 6.789,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lt5rC0GcXVmHEjXzRruNIdbca8B.jpg",
+        "id": 61421,
+        "name": "Terror in Resonance",
+        "original_name": "残響のテロル",
+        "overview": "In an alternate version of the present, Tokyo has been decimated by a shocking terrorist attack, and the only hint to the identity of the culprit is a bizarre video uploaded to the internet. The police, baffled by this cryptic clue, are powerless to stop the paranoia spreading across the population. While the world searches for a criminal mastermind to blame for this tragedy, two mysterious children - children who shouldn't even exist - masterfully carry out their heinous plan. Cursed to walk through this world with the names Nine and Twelve, the two combine to form \"Sphinx,\" a clandestine entity determine to wake the people from their slumber - and pull the trigger on this world.",
+        "poster_path": "/qa4an6FYwTXAeiOk5zHyZsJ4CNx.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          9648,
+          80
+        ],
+        "popularity": 8.2641,
+        "first_air_date": "2014-07-11",
+        "softcore": false,
+        "vote_average": 7.749,
+        "vote_count": 473,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ds3ioEzMhugec5rw2HkMnReahAZ.jpg",
+        "id": 112945,
+        "name": "The Hardy Boys",
+        "original_name": "The Hardy Boys",
+        "overview": "يتبع The Hardy Boys شقيقين ، فرانك وجو هاردي ، جنبًا إلى جنب مع أصدقائهم وأبائهم ، في محاولة لكشف الحقيقة حول شيء خطير يحدث في بلدتهم بريدجبورت.",
+        "poster_path": "/zO24XYR7pxsRHJJG9zzA5SRz48B.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 13.0497,
+        "first_air_date": "2021-03-05",
+        "softcore": false,
+        "vote_average": 7.2,
+        "vote_count": 58,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1P6x7gNgnFvlZTcRIak0HQadZbx.jpg",
+        "id": 13266,
+        "name": "Inspector George Gently",
+        "original_name": "Inspector George Gently",
+        "overview": "Crime drama set in the 1960s about an old-school detective trying to come to terms with a time when the lines between the police and criminals have become blurred.",
+        "poster_path": "/3xfuZKWVxNnXhL8C6wVSnfM9Uj9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80
+        ],
+        "popularity": 10.5785,
+        "first_air_date": "2008-04-08",
+        "softcore": false,
+        "vote_average": 7.904,
+        "vote_count": 68,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jB3CQHS4zBzD00yZG936WmsH6P4.jpg",
+        "id": 790,
+        "name": "Agatha Christie's Poirot",
+        "original_name": "Agatha Christie's Poirot",
+        "overview": "From England to Egypt, accompanied by his elegant and trustworthy sidekicks, the intelligent yet eccentrically-refined Belgian detective Hercule Poirot pits his wits against a collection of first class deceptions.",
+        "poster_path": "/6f4IVfbn8knb7RjdZlGLuW5guDc.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 108.1509,
+        "first_air_date": "1989-01-08",
+        "softcore": false,
+        "vote_average": 8.188,
+        "vote_count": 580,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/quVbFfkM3vV6FrbS7INnqNL9hRy.jpg",
+        "id": 130273,
+        "name": "Annika",
+        "original_name": "Annika",
+        "overview": "The sharp, witty and enigmatic DI Annika Strandhed, as she heads up a new specialist Marine Homicide Unit (MHU) that is tasked with investigating the unexplained, brutal, and seemingly unfathomable murders.",
+        "poster_path": "/8jRoGLyOnTMyLhWajG0ye6KKw0h.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "popularity": 7.7275,
+        "first_air_date": "2021-08-17",
+        "softcore": false,
+        "vote_average": 6.95,
+        "vote_count": 70,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9EVQLSslxwSPiOqBufrzr7guJQ5.jpg",
+        "id": 216523,
+        "name": "Ron Kamonohashi's Forbidden Deductions",
+        "original_name": "鴨乃橋ロンの禁断推理",
+        "overview": "Ron Kamonohashi was once regarded as a genius at the top detective training academy. But after a fatal mistake, he was expelled and forbidden to become a detective. Years later, police officer Totomaru Isshiki knocks on Ron’s door seeking help on a serial murder case. He finds Ron, now a messy-haired recluse, who agrees. Together, this mismatched detective team begins solving their first mystery!",
+        "poster_path": "/79fk0GLg3vJsjL3uv13NVwcFbE3.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          9648,
+          80,
+          10759
+        ],
+        "popularity": 10.1706,
+        "first_air_date": "2023-10-02",
+        "softcore": false,
+        "vote_average": 6.721,
+        "vote_count": 52,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i46T9MnizqIYuRHINZfr8enXsot.jpg",
+        "id": 85586,
+        "name": "Coroner",
+        "original_name": "Coroner",
+        "overview": "Jenny Cooper investigates unexplained or sudden deaths in the city of Toronto. Fierce and quick-witted, Jenny is a newly-widowed single mother with secrets of her own to unearth.",
+        "poster_path": "/7zEVxcNEDxVtRf29zvjjy6cazm4.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 15.3645,
+        "first_air_date": "2019-01-07",
+        "softcore": false,
+        "vote_average": 6.953,
+        "vote_count": 247,
+        "origin_country": [
+          "CA"
+        ]
+      }
+    ],
+    "total_pages": 14,
+    "total_results": 261
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/1SCpDtSS1m0l7XVfeRuQETnqIQn.jpg",
+        "genre_ids": [
+          9648,
+          35,
+          18
+        ],
+        "id": 1895,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Jonathan Creek",
+        "overview": "",
+        "popularity": 13.0059,
+        "poster_path": "/yvBej2dWaOBTVVJkdnPxoMX75aD.jpg",
+        "first_air_date": "1997-05-09",
+        "softcore": false,
+        "name": "Jonathan Creek",
+        "vote_average": 7.571,
+        "vote_count": 77
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ngq0PKrjUyoVBmeMTbkM8FQoa2N.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 60557,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Witches of East End",
+        "overview": "",
+        "popularity": 10.2853,
+        "poster_path": "/jBWSp8hw8CNUFWxTCawXzAhu2Hj.jpg",
+        "first_air_date": "2013-10-06",
+        "softcore": false,
+        "name": "Witches of East End",
+        "vote_average": 7.306,
+        "vote_count": 258
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9oHvbKgoxO3NrWLR4v6o9X36Hje.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 239790,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "光る君へ",
+        "overview": "",
+        "popularity": 10.6102,
+        "poster_path": "/hKljJ19kCdIpY5GSMzEmLGezI4H.jpg",
+        "first_air_date": "2024-01-07",
+        "softcore": false,
+        "name": "光る君へ",
+        "vote_average": 8.9,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/krM10WIhfOKI0JVVSzGq1qQXC9P.jpg",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 208086,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Hotel Custody",
+        "overview": "",
+        "popularity": 0.8669,
+        "poster_path": "/iCThWmeyyAjv9DQlulUwxAAGsIc.jpg",
+        "first_air_date": "2022-08-18",
+        "softcore": false,
+        "name": "Hotel Custody",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8MJJfa98RxwibkWu4Kmr46NPL51.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 239833,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "君の名前を好きって書いた",
+        "overview": "",
+        "popularity": 0.8207,
+        "poster_path": "/rchhP0G1cq6NCdoBALoTSsrCYCP.jpg",
+        "first_air_date": "2020-10-11",
+        "softcore": false,
+        "name": "君の名前を好きって書いた",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dsgmRxagw3moztWdv5kQaA4goYG.jpg",
+        "genre_ids": [
+          80,
+          9648
+        ],
+        "id": 93143,
+        "origin_country": [
+          "HK"
+        ],
+        "original_language": "zh",
+        "original_name": "靈異偵緝檔案",
+        "overview": "",
+        "popularity": 3.1025,
+        "poster_path": "/dMokCVggsHtLfDOTjotIBr2lOLf.jpg",
+        "first_air_date": "2003-07-11",
+        "softcore": false,
+        "name": "靈異偵緝檔案",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 93168,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "A Confession",
+        "overview": "",
+        "popularity": 4.4283,
+        "poster_path": "/6c6q8m5PCiXv3TlxmM0vIcLylb0.jpg",
+        "first_air_date": "2019-09-02",
+        "softcore": false,
+        "name": "A Confession",
+        "vote_average": 7.062,
+        "vote_count": 89
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pXNRmXB5QOVBZcJdxwXUU3nWSpC.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126394,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "サイレント・ヴォイス",
+        "overview": "",
+        "popularity": 2.6132,
+        "poster_path": "/1c13pBCsWWS2W4ijXqNuaDBcjJT.jpg",
+        "first_air_date": "2018-10-06",
+        "softcore": false,
+        "name": "サイレント・ヴォイス",
+        "vote_average": 9,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bjSvFFmLtB4luDBdh4amXCO0qUL.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126409,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ギヴン",
+        "overview": "",
+        "popularity": 3.4737,
+        "poster_path": "/zRTUNQt9MYT2HfzsgElYb3CkbqO.jpg",
+        "first_air_date": "2021-07-17",
+        "softcore": false,
+        "name": "ギヴン",
+        "vote_average": 6.542,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 126476,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "48日後に結婚します。",
+        "overview": "",
+        "popularity": 2.8038,
+        "poster_path": "/boXQIoNUDPpNLpQ2MvIduZoiFfD.jpg",
+        "first_air_date": "2021-05-13",
+        "softcore": false,
+        "name": "48日後に結婚します。",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f0e560ezh1GqQaankmxQ30ib9Dp.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126484,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "너와 나의 경찰수업",
+        "overview": "",
+        "popularity": 5.1321,
+        "poster_path": "/zD40xKbcwROH0kAVgPpKKGKEYlX.jpg",
+        "first_air_date": "2022-01-26",
+        "softcore": false,
+        "name": "너와 나의 경찰수업",
+        "vote_average": 7.731,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/czvNMbnwOqR76Rz7u1CpBcJMIHM.jpg",
+        "genre_ids": [
+          9648
+        ],
+        "id": 93198,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "面具背后",
+        "overview": "",
+        "popularity": 2.4382,
+        "poster_path": "/sbr5IK0NtBVFWaasg7UWL7xgu2b.jpg",
+        "first_air_date": "2019-04-01",
+        "softcore": false,
+        "name": "面具背后",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7hde5HC3Va7U6Cl4O4xRXaCsGUP.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 93206,
+        "origin_country": [
+          "NO"
+        ],
+        "original_language": "no",
+        "original_name": "Besatt",
+        "overview": "",
+        "popularity": 2.1988,
+        "poster_path": "/rWWByfvrIBkuBuAtbsYDrFBoeod.jpg",
+        "first_air_date": "2019-10-31",
+        "softcore": false,
+        "name": "Besatt",
+        "vote_average": 5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nKhVX7362uSlZaZCTqwf4ZBt0Uy.jpg",
+        "genre_ids": [
+          10764,
+          80
+        ],
+        "id": 239911,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Rookie Cops",
+        "overview": "",
+        "popularity": 0.9477,
+        "poster_path": "/efZiJ8xdepM8XrRvY25U3Qy5rXX.jpg",
+        "first_air_date": "2022-04-11",
+        "softcore": false,
+        "name": "Rookie Cops",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iTccszzHWk0uV3opwgK40J9Y0hL.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 2072,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Bill",
+        "overview": "",
+        "popularity": 24.2537,
+        "poster_path": "/bMd4T647b9YdkbQvULyndBNV8uL.jpg",
+        "first_air_date": "1984-10-16",
+        "softcore": false,
+        "name": "The Bill",
+        "vote_average": 6.755,
+        "vote_count": 47
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "id": 60585,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bosch",
+        "overview": "تدور أحداث القصة حول محقق الجرائم الجنائية بوش والذي يجسد شخصيته الفنان تيتوس ويليفر . يحقق بوش في جريمة مقتل طفل وففي نفس الأثناء يواجه قضية قتله لمجرم متسلسل في المحكمة الفدرالية، لتتنقل القصة ما بين التحري والمحاكمة.",
+        "popularity": 52.3387,
+        "poster_path": "/zCltiygaUiAkh5dpuZ2KIFA8WBI.jpg",
+        "first_air_date": "2015-01-14",
+        "softcore": false,
+        "name": "بوش",
+        "vote_average": 7.924,
+        "vote_count": 756
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aPtygCQY7FOBO0Ns3bKhafR9HrI.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 60605,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "cy",
+        "original_name": "Y Gwyll",
+        "overview": "",
+        "popularity": 6.9455,
+        "poster_path": "/uyYp5sZqTkviCtRjQNuOuqWTssM.jpg",
+        "first_air_date": "2013-10-29",
+        "softcore": false,
+        "name": "Y Gwyll",
+        "vote_average": 7.232,
+        "vote_count": 112
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3J5rPQtETWuEyY9BPr2Lt7FGg7x.jpg",
+        "genre_ids": [
+          10759,
+          10762,
+          18,
+          10765,
+          9648
+        ],
+        "id": 239741,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "仮面ライダークウガ",
+        "overview": "",
+        "popularity": 92.6644,
+        "poster_path": "/iMG3gbf2WUOFKKLdB5c4YX5YWu3.jpg",
+        "first_air_date": "2000-01-30",
+        "softcore": false,
+        "name": "仮面ライダークウガ",
+        "vote_average": 9,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lxl2LzGj5Y1E7jLCmrX5LjOACSG.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 208131,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "日曜の夜ぐらいは…",
+        "overview": "",
+        "popularity": 3.2707,
+        "poster_path": "/8VkYThaqM8RyBguwvZbmziTkMzU.jpg",
+        "first_air_date": "2023-04-30",
+        "softcore": false,
+        "name": "日曜の夜ぐらいは…",
+        "vote_average": 8,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/36rcG6ZkWGCwGTvTBcGN8ehCiDi.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 208133,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "隣の男はよく食べる",
+        "overview": "",
+        "popularity": 2.4356,
+        "poster_path": "/mhTfZOoZ0Mvk7LCwKO11EIW0YJS.jpg",
+        "first_air_date": "2023-04-12",
+        "softcore": false,
+        "name": "隣の男はよく食べる",
+        "vote_average": 6,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 3018,
+    "total_results": 60346
+  }
+}

@@ -1,0 +1,1761 @@
+{
+  "adult": false,
+  "backdrop_path": "/jzkSqv00uImypVLSUpg16rBjwdW.jpg",
+  "created_by": [
+    {
+      "id": 1215602,
+      "credit_id": "5258ea8d760ee346618897c8",
+      "name": "John de Mol",
+      "original_name": "John de Mol",
+      "gender": 2,
+      "profile_path": "/6bfVzvwF0EALA7f6Kya50eLXVzD.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2011-04-26",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "واقع"
+    }
+  ],
+  "homepage": "http://www.nbc.com/the-voice",
+  "id": 37678,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-04-14",
+  "last_episode_to_air": {
+    "id": 7099676,
+    "name": "الحلقة 10",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-04-14",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 84,
+    "season_number": 29,
+    "show_id": 37678,
+    "still_path": null
+  },
+  "name": "The Voice",
+  "next_episode_to_air": {
+    "id": 7693304,
+    "name": "الحلقة 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-21",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 90,
+    "season_number": 30,
+    "show_id": 37678,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 6,
+      "logo_path": "/cm111bsDVlYaC1foL0itvEI4yLG.png",
+      "name": "NBC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 696,
+  "number_of_seasons": 30,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Voice",
+  "overview": "",
+  "popularity": 121.1431,
+  "poster_path": "/7ah1WExcMkzbq7sARCTmcC23tBr.jpg",
+  "production_companies": [
+    {
+      "id": 29347,
+      "logo_path": "/eJjnf008uDj3LZ3Fu8M8FKCkl6N.png",
+      "name": "Warner Horizon Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 59551,
+      "logo_path": null,
+      "name": "Mark Burnett Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 54460,
+      "logo_path": null,
+      "name": "One Three Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 77503,
+      "logo_path": null,
+      "name": "United Artists Media Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 211262,
+      "logo_path": "/kejyjdzZg04SMRkRT6w8piOmXOd.png",
+      "name": "Talpa Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 115672,
+      "logo_path": "/lqV7pQ6lXUjDzbvRfI4eNiT1QDB.png",
+      "name": "Warner Horizon Unscripted Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 2230,
+      "logo_path": "/igOjospzsKQIbpuFCGhoN5F9icS.png",
+      "name": "MGM Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 24546,
+      "logo_path": "/jTR3M7xz7jE9dTwWs0e25eN1xcL.png",
+      "name": "ITV Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2011-04-21",
+      "episode_count": 3,
+      "id": 49011,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/lsXbfael8KrSC2N0Q5MmTAcJJao.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-04-26",
+      "episode_count": 13,
+      "id": 49012,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/x3mPkF36WFb8tN4vk4cVOf7zsTl.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2012-02-05",
+      "episode_count": 21,
+      "id": 49013,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/xvALjDmiqG9mHH9Apl5DwyXlVwC.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-10",
+      "episode_count": 32,
+      "id": 49014,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/uC0WRz2FR5LNsPYtaZFgb6yYjWK.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-03-25",
+      "episode_count": 28,
+      "id": 49015,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/7vnBywXQJsbjwCuIogQc1n2COOZ.jpg",
+      "season_number": 4,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2013-09-23",
+      "episode_count": 27,
+      "id": 49016,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/3F6iS67Io50rFX6oDvgRvzvlBSP.jpg",
+      "season_number": 5,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2014-02-24",
+      "episode_count": 27,
+      "id": 49017,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/m3lvpl2hRAxnOcDmeu6NA6ewysn.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-22",
+      "episode_count": 27,
+      "id": 49018,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/wDS7T3KeDyftZj2toEM6knquS4o.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-02-23",
+      "episode_count": 29,
+      "id": 65121,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/fYlN7WPIsrlSs3I9SoVhXyYOIWg.jpg",
+      "season_number": 8,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2015-09-21",
+      "episode_count": 27,
+      "id": 70812,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/i9Fzu7WNFR1ckYv7HBn468Iu5PQ.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-02-29",
+      "episode_count": 28,
+      "id": 75009,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/r6ci8oA4HqZZ8oHsWoF9alXWJw8.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-19",
+      "episode_count": 26,
+      "id": 79380,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/bEJh4h0wxIfkkUJn6LpEaumEkPn.jpg",
+      "season_number": 11,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2017-02-27",
+      "episode_count": 28,
+      "id": 85652,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/g9j0WsIBpOj6r0tCD7TANCTejQT.jpg",
+      "season_number": 12,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2017-09-25",
+      "episode_count": 28,
+      "id": 92745,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/rSGtt7mmWQ3XsOIkkOAZ67lUHfe.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-02-26",
+      "episode_count": 29,
+      "id": 100014,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/i1Vymr9seN1WHtTojZY6EXijW1X.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-24",
+      "episode_count": 27,
+      "id": 109819,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/8JqzFwByku4OsPSCBpnpZFWdOWH.jpg",
+      "season_number": 15,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2019-02-25",
+      "episode_count": 23,
+      "id": 119512,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/yY5LFMTKQRy0N77FWZIaad0MSdp.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-09-23",
+      "episode_count": 27,
+      "id": 130140,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/xC65MvGVVcHkmllTehXrCGnBJNN.jpg",
+      "season_number": 17,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2020-02-24",
+      "episode_count": 18,
+      "id": 142190,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/69rwMbmzUiTRA36mcskTV1H2lbi.jpg",
+      "season_number": 18,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2020-10-19",
+      "episode_count": 19,
+      "id": 160589,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/bpaZDdgXrOyorzZa9ladf7FANF4.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-03-01",
+      "episode_count": 18,
+      "id": 179602,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/9zRmiPcyuoCclQmzE68ry6Z6MgZ.jpg",
+      "season_number": 20,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2021-09-20",
+      "episode_count": 26,
+      "id": 203240,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/43z83i7zb21viQAmGccjOleNgaF.jpg",
+      "season_number": 21,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2022-09-19",
+      "episode_count": 26,
+      "id": 299124,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/lW3BcBgbT1daP8ZR1goXTljtKmR.jpg",
+      "season_number": 22,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2023-03-06",
+      "episode_count": 19,
+      "id": 325502,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/sjtly63wIdTEgdtGvCAOB9AeEyg.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-25",
+      "episode_count": 26,
+      "id": 349407,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/lYLGk4dGTRFdpUxv5l9vh2xXA6S.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-02-26",
+      "episode_count": 22,
+      "id": 379297,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/uVx25MyNP3DCji453hVV1Tl0OER.jpg",
+      "season_number": 25,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2024-09-23",
+      "episode_count": 22,
+      "id": 393605,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": "/8jgjykcCuQ5rYreyqba4mazNKYd.jpg",
+      "season_number": 26,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2025-02-03",
+      "episode_count": 23,
+      "id": 437623,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": "/4LV0zg9xI5cSbiNCeKw99O0YxeI.jpg",
+      "season_number": 27,
+      "vote_average": 8.5
+    },
+    {
+      "air_date": "2025-09-22",
+      "episode_count": 19,
+      "id": 457496,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": "/uPYy1anA2pkOGSGalUGA72Eew6w.jpg",
+      "season_number": 28,
+      "vote_average": 9.7
+    },
+    {
+      "air_date": "2026-02-22",
+      "episode_count": 10,
+      "id": 498558,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": "/9hTf9oZDCaYk3X20UXktdc2RHUj.jpg",
+      "season_number": 29,
+      "vote_average": 9.8
+    },
+    {
+      "air_date": "2026-09-21",
+      "episode_count": 4,
+      "id": 537104,
+      "name": "الموسم 30",
+      "overview": "",
+      "poster_path": "/mVVe0fsm2rYJm4Yf62EIaBOxPoB.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 5.9,
+  "vote_count": 225,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214979,
+        "known_for_department": "Acting",
+        "name": "Carson Daly",
+        "original_name": "Carson Daly",
+        "popularity": 1.2463,
+        "profile_path": "/loxq4ARBpzTPpkUpbZYFPGQ87eG.jpg",
+        "character": "Self - Host",
+        "credit_id": "56071a54c3a36812110031d3",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 217371,
+        "known_for_department": "Acting",
+        "name": "Adam Levine",
+        "original_name": "Adam Levine",
+        "popularity": 2.3456,
+        "profile_path": "/ucSpYIUJ0gKkHlPhQrHEs2HdFxZ.jpg",
+        "character": "Self - Coach",
+        "credit_id": "56071a76c3a368120d002b1b",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 155488,
+        "known_for_department": "Acting",
+        "name": "Kelly Clarkson",
+        "original_name": "Kelly Clarkson",
+        "popularity": 1.5108,
+        "profile_path": "/mfqjGz99cMbZLLg1eHwU2OUsOjK.jpg",
+        "character": "Self - Coach",
+        "credit_id": "5a9d614f0e0a260658046288",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15758,
+        "known_for_department": "Acting",
+        "name": "Queen Latifah",
+        "original_name": "Queen Latifah",
+        "popularity": 4.5002,
+        "profile_path": "/zKJ0fZ7ne57fTWWd3WP1OVvoLS6.jpg",
+        "character": "Self - Coach",
+        "credit_id": "6a856f027f878785e3dcc160",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4021371,
+        "known_for_department": "Acting",
+        "name": "Riley Green",
+        "original_name": "Riley Green",
+        "popularity": 0.6106,
+        "profile_path": null,
+        "character": "Self - Coach",
+        "credit_id": "6a856f15e02c24bd665eff2c",
+        "order": 29
+      }
+    ],
+    "crew": []
+  },
+  "watch/providers": {
+    "results": {
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 60
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=AT",
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 69
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=AU",
+        "ads": [
+          {
+            "logo_path": "/nhp23IYeFqZm4J2ZseUzSPuZ1UM.png",
+            "provider_id": 246,
+            "provider_name": "7plus",
+            "display_priority": 19
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 29
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 83
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
+            "provider_id": 230,
+            "provider_name": "Crave",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/6EuODonAziRYWv90wAtEmUjk78R.png",
+            "provider_id": 2604,
+            "provider_name": "Crave Amazon Channel",
+            "display_priority": 137
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 43
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 44
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=DE",
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 11
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 8
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=LB",
+        "ads": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 10
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 59
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/rjPaInWHH1nPgtRFF17BbHN2gu.png",
+            "provider_id": 175,
+            "provider_name": "Netflix Kids",
+            "display_priority": 9
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/37678-the-voice/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+            "provider_id": 386,
+            "provider_name": "Peacock Premium",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+            "provider_id": 2528,
+            "provider_name": "YouTube TV",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+            "provider_id": 79,
+            "provider_name": "NBC",
+            "display_priority": 48
+          },
+          {
+            "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+            "provider_id": 387,
+            "provider_name": "Peacock Premium Plus",
+            "display_priority": 214
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+            "provider_id": 79,
+            "provider_name": "NBC",
+            "display_priority": 48
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+            "provider_id": 486,
+            "provider_name": "Spectrum On Demand",
+            "display_priority": 119
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764
+        ],
+        "id": 93158,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "fr",
+        "original_name": "Crescendo",
+        "overview": "",
+        "popularity": 1.6151,
+        "poster_path": null,
+        "first_air_date": "2016-11-21",
+        "softcore": false,
+        "name": "Crescendo",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764
+        ],
+        "id": 1963,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Nashville Star",
+        "overview": "",
+        "popularity": 13.8549,
+        "poster_path": "/fMubSvP32A2RGwpwcd7vlNilNcE.jpg",
+        "first_air_date": "2003-03-08",
+        "softcore": false,
+        "name": "Nashville Star",
+        "vote_average": 8.25,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764
+        ],
+        "id": 277214,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "The Big Trip",
+        "overview": "",
+        "popularity": 0.7724,
+        "poster_path": "/uc7Z7zwPMvq32bH9HXjeQuNwo8l.jpg",
+        "first_air_date": "2024-11-13",
+        "softcore": false,
+        "name": "The Big Trip",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5KNHox49hNwBQembRCAHyknndGF.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 93303,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "fr",
+        "original_name": "Virtuose",
+        "overview": "",
+        "popularity": 4.7674,
+        "poster_path": null,
+        "first_air_date": "2016-01-15",
+        "softcore": false,
+        "name": "Virtuose",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10762,
+          10764
+        ],
+        "id": 60823,
+        "origin_country": [
+          "RU"
+        ],
+        "original_language": "ru",
+        "original_name": "Голос. Дети",
+        "overview": "",
+        "popularity": 4.8595,
+        "poster_path": "/kRrshDUZCfbX78AN6oxkSLIX0Ux.jpg",
+        "first_air_date": "2014-02-28",
+        "softcore": false,
+        "name": "Голос. Дети",
+        "vote_average": 10,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uouSBLZaTD0WuzZ8f5VtQzUSu71.jpg",
+        "genre_ids": [
+          10764,
+          10767
+        ],
+        "id": 306532,
+        "origin_country": [
+          "GR"
+        ],
+        "original_language": "el",
+        "original_name": "Sing for Greece: Η εθνική επιλογή της Ελλάδας για τη Eurovision",
+        "overview": "",
+        "popularity": 5.8478,
+        "poster_path": "/w7csW0k1jZqI7kuN2CgNSkXVrDO.jpg",
+        "first_air_date": "2025-01-30",
+        "softcore": false,
+        "name": "Sing for Greece: Η εθνική επιλογή της Ελλάδας για τη Eurovision",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9JIKlMZm6YPUme36X43sTOuSOYo.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 61261,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Flip It to Win It",
+        "overview": "",
+        "popularity": 1.2403,
+        "poster_path": "/y71M9Y3Clz3U6XTQm0LQI8ObIfL.jpg",
+        "first_air_date": "2013-04-23",
+        "softcore": false,
+        "name": "Flip It to Win It",
+        "vote_average": 6,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dIjSAnxJccD6fiwXwdXuWmh6OfB.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 208678,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Chopped After Hours",
+        "overview": "",
+        "popularity": 2.4968,
+        "poster_path": "/mqx7UOe1LsbtvZ2GkP7mOxCJIq2.jpg",
+        "first_air_date": "2015-09-15",
+        "softcore": false,
+        "name": "Chopped After Hours",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sIaqav6t1FU43cZ6nfMBTQxcU09.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 277294,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Destination X",
+        "overview": "",
+        "popularity": 4.8694,
+        "poster_path": "/1hgsHXrm9bUSHTju0JZwCPWlNIO.jpg",
+        "first_air_date": "2025-07-30",
+        "softcore": false,
+        "name": "Destination X",
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wtBhwmKXqTRzIdJc8ZzQOpsXCo4.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 2475,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Stars in Their Eyes",
+        "overview": "",
+        "popularity": 1.2218,
+        "poster_path": "/grDtceAtJMNuFTv8DT20KQk4M4Y.jpg",
+        "first_air_date": "1990-07-21",
+        "softcore": false,
+        "name": "Stars in Their Eyes",
+        "vote_average": 6.4,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6x35oMgLv3SSqNeszJXVeqz7Uj7.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 30791,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "No Limite",
+        "overview": "",
+        "popularity": 15.0491,
+        "poster_path": "/q2lspE4EAU77GQh0Zni1GmW60jc.jpg",
+        "first_air_date": "2000-07-23",
+        "softcore": false,
+        "name": "No Limite",
+        "vote_average": 5.4,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764,
+          10767
+        ],
+        "id": 30811,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "P. Diddy's Starmaker",
+        "overview": "",
+        "popularity": 1.9034,
+        "poster_path": null,
+        "first_air_date": "2009-08-23",
+        "softcore": false,
+        "name": "P. Diddy's Starmaker",
+        "vote_average": 3,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c2e8R72jpyAVNmA9Ugh8mPvXWrW.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 208711,
+        "origin_country": [
+          "NL"
+        ],
+        "original_language": "nl",
+        "original_name": "Een Jaar Van Je Leven",
+        "overview": "",
+        "popularity": 3.635,
+        "poster_path": "/gNamuVPv02MqmPEnhcBfsnBGLXd.jpg",
+        "first_air_date": "2022-09-05",
+        "softcore": false,
+        "name": "Een Jaar Van Je Leven",
+        "vote_average": 4.2,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oo1E9xhimFAvNjGXVJ8QWcmxeIJ.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 277536,
+        "origin_country": [
+          "SE"
+        ],
+        "original_language": "sv",
+        "original_name": "Det största äventyret",
+        "overview": "",
+        "popularity": 2.1368,
+        "poster_path": "/prLO5wTQbmUMMjvHHlMQliAn72N.jpg",
+        "first_air_date": "2014-01-04",
+        "softcore": false,
+        "name": "Det största äventyret",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6GTb77sDdEHcZl3OzE7dOPq07jl.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 2598,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Dancing on Ice",
+        "overview": "",
+        "popularity": 18.1063,
+        "poster_path": "/el97jvNC9QEkjmfdTW7NbX4x2k9.jpg",
+        "first_air_date": "2006-01-14",
+        "softcore": false,
+        "name": "Dancing on Ice",
+        "vote_average": 5.267,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764
+        ],
+        "id": 93644,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "V-1",
+        "overview": "",
+        "popularity": 1.4745,
+        "poster_path": "/jhF1h05PvAM0zlwabFQy5ZP5gFC.jpg",
+        "first_air_date": "2019-09-13",
+        "softcore": false,
+        "name": "V-1",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5LiZmDSgLoJix49OwMEUvqoL83e.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 208802,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "&Audition - The Howling",
+        "overview": "",
+        "popularity": 2.8287,
+        "poster_path": "/3oWXG99odiWI8zQ4jL9JRCfCrLJ.jpg",
+        "first_air_date": "2022-07-08",
+        "softcore": false,
+        "name": "&Audition - The Howling",
+        "vote_average": 8,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u2cJQ7BmK6hDNiocRh3dof0reV2.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 240421,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "MasterChef Junior: Home for the Holidays",
+        "overview": "",
+        "popularity": 1.584,
+        "poster_path": "/gCADbDfLNumeEmjm3DzBq4YcXNc.jpg",
+        "first_air_date": "2023-12-10",
+        "softcore": false,
+        "name": "MasterChef Junior: Home for the Holidays",
+        "vote_average": 8,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mSkisNewxu55Ivar5EubhcIuoqn.jpg",
+        "genre_ids": [
+          10764
+        ],
+        "id": 30957,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Amazing Race",
+        "overview": "",
+        "popularity": 42.3144,
+        "poster_path": "/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
+        "first_air_date": "2001-09-05",
+        "softcore": false,
+        "name": "The Amazing Race",
+        "vote_average": 6.908,
+        "vote_count": 168
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764
+        ],
+        "id": 29201,
+        "origin_country": [
+          "US",
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "House Rules",
+        "overview": "",
+        "popularity": 1.1241,
+        "poster_path": "/hoLYRwGO2NY6TeqU0VRx1rAdgpr.jpg",
+        "first_air_date": "2003-10-10",
+        "softcore": false,
+        "name": "House Rules",
+        "vote_average": 7,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 967,
+    "total_results": 19336
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/lVG4U32OTqQIiCMEUQ5OFwk0zdK.jpg",
+        "id": 80079,
+        "name": "American Idol",
+        "original_name": "American Idol",
+        "overview": "The iconic series that revolutionized the television landscape by pioneering the music competition genre is back!",
+        "poster_path": "/wGOxv5fCxdQ8pfyR2A2X7Vv0d4d.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 30.1027,
+        "first_air_date": "2018-03-11",
+        "softcore": false,
+        "vote_average": 6.7,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mnL7KFg49vPtn9VGaKdRJLer7R2.jpg",
+        "id": 84910,
+        "name": "The Masked Singer",
+        "original_name": "The Masked Singer",
+        "overview": "Celebrities compete in a singing competition with one major twist: each singer is shrouded from head to toe in an elaborate costume, complete with full face mask to conceal his or her identity. One singer will be eliminated each week, ultimately revealing his or her true identity.",
+        "poster_path": "/sT0TpxenCsghbRZ7NiEJg2ubzZx.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 26.2537,
+        "first_air_date": "2019-01-02",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 122,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tsOdjKRcGdZ5pPCxcc1vKos7GzW.jpg",
+        "id": 35268,
+        "name": "The Glee Project",
+        "original_name": "The Glee Project",
+        "overview": "Performers compete for a multi-episode guest-starring role on season three of hit series Glee. Over the course of the competition, the winner will be determined from eliminations of twelve finalists and be awarded a role in a seven episode arc as part of the cast of Fox Network's musical drama series Glee.",
+        "poster_path": "/cWMV3cY96ieuimjP7pdAnOUKDI7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.8949,
+        "first_air_date": "2011-06-12",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 26,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qgYK2c5Yl6h0K7s0ClLa3lIcKuV.jpg",
+        "id": 204082,
+        "name": "لعبة الحبّار: التحدي",
+        "original_name": "Squid Game: The Challenge",
+        "overview": "في برنامج المسابقات الواقعي هذا المستوحى من \"لعبة الحبّار\"، يضع 456 لاعبًا مهاراتهم على المحك للفوز بجائزة قدرها 4.56 مليون دولار من شأنها أن تغيّر مجرى حياتهم.",
+        "poster_path": "/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.1292,
+        "first_air_date": "2023-11-22",
+        "softcore": false,
+        "vote_average": 6.471,
+        "vote_count": 645,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9CRHv34ZZ58o6KzwH9IGfEbUC4k.jpg",
+        "id": 30810,
+        "name": "Pointless",
+        "original_name": "Pointless",
+        "overview": "Quiz in which contestants try to score as few points as possible by plumbing the depths of their general knowledge to come up with the answers no-one else can think of.",
+        "poster_path": "/dZCnPXsQnRtK7meIDnHL9T4HkYo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 21.2142,
+        "first_air_date": "2009-08-24",
+        "softcore": false,
+        "vote_average": 6.5,
+        "vote_count": 44,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pUU6KpgQAwYWkgD6wooSzGhNcgy.jpg",
+        "id": 1508,
+        "name": "Dancing with the Stars",
+        "original_name": "Dancing with the Stars",
+        "overview": "The competition sees celebrities perform choreographed dance routines which are judged by a panel of renowned ballroom experts and voted on by viewers. Enjoy sizzling salsas, sambas and spray-tans as they vie for the coveted Mirrorball Trophy.",
+        "poster_path": "/5ropLAggzraCNoT6QPltb9lxeP3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "popularity": 67.6022,
+        "first_air_date": "2005-06-01",
+        "softcore": false,
+        "vote_average": 6.1,
+        "vote_count": 136,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xofeABH3VZK2TYiVUJGcvcOCwef.jpg",
+        "id": 210939,
+        "name": "من هو المُخبر؟",
+        "original_name": "The Mole",
+        "overview": "A high-stakes competition series where twelve players work together in challenges to add money to a pot that only one of them will win at the end. Among the players is one person who has secretly been designated \"the Mole\" and tasked with sabotaging the group's money-making efforts. In the end, one player will outlast their competition and expose the Mole to win the prize pot.",
+        "poster_path": "/wVipX97HY7UYiWIR6BdmnQLKEXy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 12.657,
+        "first_air_date": "2022-10-07",
+        "softcore": false,
+        "vote_average": 6.89,
+        "vote_count": 68,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kSFEIZS3HplqY1uN9U1GR0aEKlP.jpg",
+        "id": 62481,
+        "name": "Beat Bobby Flay",
+        "original_name": "Beat Bobby Flay",
+        "overview": "Two talented chefs go head-to-head for the chance to Beat Bobby Flay. To get to Bobby the chefs must first face off against each other, creating a spectacular dish with a secret ingredient of Bobby's choice. Judges Alex Guarnaschelli and Jeff Mauro know Bobby's strengths and his weaknesses. Their goal: Pick the chef who has the skills to take down Bobby Flay in his own arena. The winning chef gets to challenge Bobby with his or her surprise signature dish. If Bobby goes down, the winner can tell the world, \"I beat Bobby Flay!\"",
+        "poster_path": "/vY8Bep9K9oFSz0C9gnTVipfBciU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 40.1073,
+        "first_air_date": "2013-08-24",
+        "softcore": false,
+        "vote_average": 6.259,
+        "vote_count": 29,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mSkisNewxu55Ivar5EubhcIuoqn.jpg",
+        "id": 30957,
+        "name": "The Amazing Race",
+        "original_name": "The Amazing Race",
+        "overview": "This reality competition sees teams embark on a trek around the world to amazing destinations where they must compete in a series of challenges, some mental and some physical. Only when the tasks are completed will they learn of their next location. Teams who are the farthest behind will gradually be eliminated as the contest progresses, with the first team to arrive at the final destination winning the race and the $1 million prize.",
+        "poster_path": "/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 42.3144,
+        "first_air_date": "2001-09-05",
+        "softcore": false,
+        "vote_average": 6.908,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p1rQJ5bljPSk3LoCo5UKRkpsiSd.jpg",
+        "id": 249522,
+        "name": "ألعاب الوحوش",
+        "original_name": "Beast Games",
+        "overview": "جمعتُ 1000 شخص للتنافس على جائزة نقدية بقيمة 5,000,000 دولار، وهي أكبر جائزة نقدية في تاريخ التلفزيون! كما سنقدم جزيرة خاصة، سيارات لامبورغيني، وملايين أخرى كجوائز نقدية خلال المنافسة! شاهدوا لتكتشفوا أعظم عرض تم إنتاجه على الإطلاق!",
+        "poster_path": "/zmghDBWmg7omic6b5ZiZBCR2iAE.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 17.6759,
+        "first_air_date": "2024-12-19",
+        "softcore": false,
+        "vote_average": 7.369,
+        "vote_count": 245,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t9cRI8CKYWlLFhdZF020UIpCim4.jpg",
+        "id": 17404,
+        "name": "Chopped",
+        "original_name": "Chopped",
+        "overview": "A high energy, fast paced cooking competition that challenges four up-and-coming chefs to turn a selection of everyday ingredients into an extraordinary three-course meal. After each course, a contestant gets “chopped” by our panel of esteemed culinary luminaries until the last man or woman left standing claims victory.",
+        "poster_path": "/x7g390tj73dtlGX3ajZrlQRcRpO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 39.0451,
+        "first_air_date": "2009-01-13",
+        "softcore": false,
+        "vote_average": 6.462,
+        "vote_count": 66,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sb5Meuv56DrFbaKfONRGUBJAPZf.jpg",
+        "id": 71957,
+        "name": "World of Dance",
+        "original_name": "World of Dance",
+        "overview": "Dancers battle in heats of artistry, precision and athleticism in this reality-competition show.",
+        "poster_path": "/syR1jnNWkCBKVjPXA2FmCcdXxJI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.1725,
+        "first_air_date": "2017-05-30",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8mOsaLN92QZNoKG5QH16RIS6uQh.jpg",
+        "id": 72095,
+        "name": "Fear Factor",
+        "original_name": "Fear Factor",
+        "overview": "This refresh of the breakthrough series is hosted by Ludacris and custom-created for a new generation. Filled with new stunts inspired by urban legends, popular scary movies and viral videos from today’s cultural zeitgeist, contestants will confront their fears, be pushed beyond their comfort zones and take action against some of their biggest stressors.",
+        "poster_path": "/jJ7rgZSPSRKvZKITrC9moKZi72J.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 3.4801,
+        "first_air_date": "2017-05-30",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qZBdFzdwP8GWyPcg89y7jVKdg8t.jpg",
+        "id": 16358,
+        "name": "Total Wipeout",
+        "original_name": "Total Wipeout",
+        "overview": "Each week, 20 contestants compete in a series of challenges in an attempt to win £10,000. These challenges are based in large pools of water or mud and generally involve large assault courses that participants must cross.",
+        "poster_path": "/vl5zPBbtqFoMJ1LBHirCTdaFLhj.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.3691,
+        "first_air_date": "2009-01-03",
+        "softcore": false,
+        "vote_average": 6.069,
+        "vote_count": 29,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9EiKPxxL90mXxHsUAIi7V20oa2s.jpg",
+        "id": 285205,
+        "name": "سر المليون دولار",
+        "original_name": "Million Dollar Secret",
+        "overview": "في برنامج المسابقات التنافسي هذا، يتعين على مليونير سرّي التخفّي في العلن وتفادي الإقصاء للحفاظ على المال والفوز باللعبة.",
+        "poster_path": "/y0lAZqgaUXOTcsn6hPjiaJSJTnj.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 6.5847,
+        "first_air_date": "2025-03-26",
+        "softcore": false,
+        "vote_average": 7.719,
+        "vote_count": 32,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/55tcKzl0gZ0lR1q7TrVJm0h9lkT.jpg",
+        "id": 2912,
+        "name": "Jeopardy!",
+        "original_name": "Jeopardy!",
+        "overview": "America's favorite quiz show where contestants are presented with general knowledge clues in the form of answers, and must phrase their responses in question form.",
+        "poster_path": "/hfz0IgebqGENG6ZnuqKQKMFk2vy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764,
+          10751
+        ],
+        "popularity": 142.1382,
+        "first_air_date": "1984-09-10",
+        "softcore": false,
+        "vote_average": 6.899,
+        "vote_count": 163,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8OxOrx3jo7qsjsw3sgIKGd8oJIl.jpg",
+        "id": 87012,
+        "name": "The Great British Bake Off",
+        "original_name": "The Great British Bake Off",
+        "overview": "Britain's best amateur bakers compete in the iconic white tent - all united in their aim to prove their baking skills and impress judges Paul Hollywood and Prue Leith.",
+        "poster_path": "/bG51CdS25evMAdilV4oYkQx5sGn.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.0857,
+        "first_air_date": "2017-08-29",
+        "softcore": false,
+        "vote_average": 8.222,
+        "vote_count": 45,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wmiJU8xZ2KBdayNlcjDsiQMENx0.jpg",
+        "id": 10957,
+        "name": "Australian Survivor",
+        "original_name": "Australian Survivor",
+        "overview": "Tough and tenacious people are marooned on a tropical island with little more than the clothes on their backs and the drive to be the sole survivor.",
+        "poster_path": "/m80RILgjpxE4q2Iea0ZYMfe26AJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 25.1405,
+        "first_air_date": "2016-08-21",
+        "softcore": false,
+        "vote_average": 8.1,
+        "vote_count": 29,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2wso7Kx9uZSMocSv7Y1CWhLxAkE.jpg",
+        "id": 62470,
+        "name": "First Dates",
+        "original_name": "First Dates",
+        "overview": "Interactive dating experiment in which real dates are filmed, and then viewers get the chance to apply to date the unsuccessful participants the following week.",
+        "poster_path": "/luVPGegg2oxQoMqyx9g82vlwLF7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 24.1612,
+        "first_air_date": "2013-06-20",
+        "softcore": false,
+        "vote_average": 6.6,
+        "vote_count": 25,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dLLNFo9wjOqCZn9i86mW2nRl4De.jpg",
+        "id": 2778,
+        "name": "Wheel of Fortune",
+        "original_name": "Wheel of Fortune",
+        "overview": "This game show sees contestants solve word puzzles, similar to those used in Hangman, to win cash and prizes determined by spinning a giant carnival wheel.",
+        "poster_path": "/4S36URhKU4sBL1gC2B5UxmTlZMl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10764
+        ],
+        "popularity": 46.4671,
+        "first_air_date": "1983-09-19",
+        "softcore": false,
+        "vote_average": 6.889,
+        "vote_count": 81,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 8,
+    "total_results": 152
+  }
+}

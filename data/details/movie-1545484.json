@@ -1,0 +1,964 @@
+{
+  "adult": false,
+  "backdrop_path": "/CDNG41GshX6Ifv7mXriG6ixScL.jpg",
+  "belongs_to_collection": null,
+  "budget": 85000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "رعب"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    }
+  ],
+  "homepage": "",
+  "id": 1545484,
+  "imdb_id": "tt30247172",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Deathwoods",
+  "overview": "",
+  "popularity": 43.7278,
+  "poster_path": "/3MUGLE5YkmkUuKYgQFHExM3c8dg.jpg",
+  "production_companies": [
+    {
+      "id": 99112,
+      "logo_path": "/xdApSFkQa0KXpIC6H3EwJ9iRJR7.png",
+      "name": "Simpatico Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2026-08-07",
+  "revenue": 0,
+  "runtime": 83,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Deathwoods",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 3,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 74673,
+        "known_for_department": "Acting",
+        "name": "Felissa Rose",
+        "original_name": "Felissa Rose",
+        "popularity": 1.4737,
+        "profile_path": "/PEiMOmcnhRJGlrOXxD2bSrRc37.jpg",
+        "cast_id": 6,
+        "character": "Ethel Wallace",
+        "credit_id": "68c42dbda9dec643f0d2643b",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2517479,
+        "known_for_department": "Acting",
+        "name": "Jessa Jupiter Flux",
+        "original_name": "Jessa Jupiter Flux",
+        "popularity": 1.3876,
+        "profile_path": "/t21A6wtyZ6KaKkEAIrXoW2zEDe0.jpg",
+        "cast_id": 9,
+        "character": "Suzie",
+        "credit_id": "68c42deb8e785cd823cdc973",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1620192,
+        "known_for_department": "Acting",
+        "name": "KateLynn E. Newberry",
+        "original_name": "KateLynn E. Newberry",
+        "popularity": 0.9101,
+        "profile_path": "/qAOaIVIUb5Klmu3PRASEdtbbCOH.jpg",
+        "cast_id": 1,
+        "character": "Michelle",
+        "credit_id": "68c42d4739c3a3bb818612d4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4077845,
+        "known_for_department": "Acting",
+        "name": "Anna Clary",
+        "original_name": "Anna Clary",
+        "popularity": 0.6778,
+        "profile_path": "/b08qOjcJGsPslalU7XroFSQ7u3Q.jpg",
+        "cast_id": 8,
+        "character": "Emily",
+        "credit_id": "68c42de0921db09c1a199f91",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3060136,
+        "known_for_department": "Acting",
+        "name": "Celeste Blandon",
+        "original_name": "Celeste Blandon",
+        "popularity": 0.6938,
+        "profile_path": "/6uHWxNZIEjunZuafqXTh5kAKtJ3.jpg",
+        "cast_id": 3,
+        "character": "Tiffany",
+        "credit_id": "68c42d853e901df5eb19a068",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1140572,
+        "known_for_department": "Acting",
+        "name": "L.C. Holt",
+        "original_name": "L.C. Holt",
+        "popularity": 0.4668,
+        "profile_path": "/czNOPJhm5PtPX8AgMDe3oApQxJR.jpg",
+        "cast_id": 12,
+        "character": "Jim",
+        "credit_id": "68c42e2aca74771033cdca00",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5035492,
+        "known_for_department": "Acting",
+        "name": "Kellan Jackson",
+        "original_name": "Kellan Jackson",
+        "popularity": 0.4527,
+        "profile_path": "/qlnwH4bHdyBW6bsHGdsZCdpgobF.jpg",
+        "cast_id": 4,
+        "character": "Kyle",
+        "credit_id": "68c42da5fed9d10502d2645b",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3622505,
+        "known_for_department": "Acting",
+        "name": "Jake Kopronica",
+        "original_name": "Jake Kopronica",
+        "popularity": 0.4729,
+        "profile_path": "/eWqaoxIQ9jnL6VbtSFveyuzke9I.jpg",
+        "cast_id": 2,
+        "character": "Derek",
+        "credit_id": "68c42d7719f6cddd2a2cec40",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3798564,
+        "known_for_department": "Acting",
+        "name": "JD Starnes",
+        "original_name": "JD Starnes",
+        "popularity": 0.3909,
+        "profile_path": null,
+        "cast_id": 5,
+        "character": "Brandon",
+        "credit_id": "68c42db265af364611861296",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4401699,
+        "known_for_department": "Production",
+        "name": "Kyle Shute",
+        "original_name": "Kyle Shute",
+        "popularity": 0.2747,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Bruce",
+        "credit_id": "68c42dd09dd68f761ad264a1",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5685291,
+        "known_for_department": "Acting",
+        "name": "Calloway Gassmann",
+        "original_name": "Calloway Gassmann",
+        "popularity": 0.2801,
+        "profile_path": null,
+        "cast_id": 10,
+        "character": "Sherri",
+        "credit_id": "68c42e06483848d185bacace",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4428966,
+        "known_for_department": "Acting",
+        "name": "Cory DeAn Cowley",
+        "original_name": "Cory DeAn Cowley",
+        "popularity": 0.4301,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Bobbi Jo",
+        "credit_id": "68c42e1a24e377d8ccbaca98",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6245552,
+        "known_for_department": "Acting",
+        "name": "MacKenzie  Lee",
+        "original_name": "MacKenzie  Lee",
+        "popularity": 0.4794,
+        "profile_path": "/l5dw8lOwcs71PQhN4hSDWS2llDp.jpg",
+        "cast_id": 27,
+        "character": "Jessica",
+        "credit_id": "6a17b91920c6e693cb9b5d46",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6245553,
+        "known_for_department": "Acting",
+        "name": "Miles Dimitri Baker",
+        "original_name": "Miles Dimitri Baker",
+        "popularity": 0.2563,
+        "profile_path": null,
+        "cast_id": 28,
+        "character": "Matt",
+        "credit_id": "6a17b957162190b051ead826",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5035501,
+        "known_for_department": "Acting",
+        "name": "Haley Johnson",
+        "original_name": "Haley Johnson",
+        "popularity": 1.215,
+        "profile_path": "/xowp6gW4HSV3VwUBS3UdISssKYC.jpg",
+        "cast_id": 33,
+        "character": "Julie",
+        "credit_id": "6a9dda72ee9c3cdf139967a9",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5685298,
+        "known_for_department": "Crew",
+        "name": "Scott Conner",
+        "original_name": "Scott Conner",
+        "popularity": 0.2582,
+        "profile_path": null,
+        "credit_id": "68c42ecb060e088c30cdca3a",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3622505,
+        "known_for_department": "Acting",
+        "name": "Jake Kopronica",
+        "original_name": "Jake Kopronica",
+        "popularity": 0.4729,
+        "profile_path": "/eWqaoxIQ9jnL6VbtSFveyuzke9I.jpg",
+        "credit_id": "68c42edccb51e54e59cdca67",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5685300,
+        "known_for_department": "Writing",
+        "name": "Scott Conner",
+        "original_name": "Scott Conner",
+        "popularity": 0.2541,
+        "profile_path": null,
+        "credit_id": "68c42ef1b5508d6e99bacbb4",
+        "department": "Writing",
+        "job": "Co-Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3380576,
+        "known_for_department": "Camera",
+        "name": "Jaren Lewis",
+        "original_name": "Jaren Lewis",
+        "popularity": 0.3551,
+        "profile_path": null,
+        "credit_id": "68c42f143e901df5eb19a070",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3380576,
+        "known_for_department": "Camera",
+        "name": "Jaren Lewis",
+        "original_name": "Jaren Lewis",
+        "popularity": 0.3551,
+        "profile_path": null,
+        "credit_id": "68c42f216bcd555d552cec93",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2397399,
+        "known_for_department": "Directing",
+        "name": "Tyler Horner",
+        "original_name": "Tyler Horner",
+        "popularity": 0.3439,
+        "profile_path": null,
+        "credit_id": "68c42f313687790f352ceca5",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4965461,
+        "known_for_department": "Sound",
+        "name": "Alberto García",
+        "original_name": "Alberto García",
+        "popularity": 0.288,
+        "profile_path": "/zf9uyuTW6XPVN7HaRdpthQfI8XP.jpg",
+        "credit_id": "68c42f523687790f352ceca8",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3622505,
+        "known_for_department": "Acting",
+        "name": "Jake Kopronica",
+        "original_name": "Jake Kopronica",
+        "popularity": 0.4729,
+        "profile_path": "/eWqaoxIQ9jnL6VbtSFveyuzke9I.jpg",
+        "credit_id": "68c42f6c283922a2fd861240",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3060136,
+        "known_for_department": "Acting",
+        "name": "Celeste Blandon",
+        "original_name": "Celeste Blandon",
+        "popularity": 0.6938,
+        "profile_path": "/6uHWxNZIEjunZuafqXTh5kAKtJ3.jpg",
+        "credit_id": "68c42f7d09f9dd36c0cdc9fc",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5685298,
+        "known_for_department": "Crew",
+        "name": "Scott Conner",
+        "original_name": "Scott Conner",
+        "popularity": 0.2582,
+        "profile_path": null,
+        "credit_id": "68c42f8af8c36565172cecb5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2835086,
+        "known_for_department": "Crew",
+        "name": "Deryk Wehrley",
+        "original_name": "Deryk Wehrley",
+        "popularity": 0.4757,
+        "profile_path": null,
+        "credit_id": "68c42f9bcc078112772ced59",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3380576,
+        "known_for_department": "Camera",
+        "name": "Jaren Lewis",
+        "original_name": "Jaren Lewis",
+        "popularity": 0.3551,
+        "profile_path": null,
+        "credit_id": "68c42fa81280b14cb97ce6d9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3622505,
+        "known_for_department": "Acting",
+        "name": "Jake Kopronica",
+        "original_name": "Jake Kopronica",
+        "popularity": 0.4729,
+        "profile_path": "/eWqaoxIQ9jnL6VbtSFveyuzke9I.jpg",
+        "credit_id": "6a86f3274bc2eb6e2a67549b",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3622505,
+        "known_for_department": "Acting",
+        "name": "Jake Kopronica",
+        "original_name": "Jake Kopronica",
+        "popularity": 0.4729,
+        "profile_path": "/eWqaoxIQ9jnL6VbtSFveyuzke9I.jpg",
+        "credit_id": "6a86f33f4bc2eb6e2a6754a0",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2835086,
+        "known_for_department": "Crew",
+        "name": "Deryk Wehrley",
+        "original_name": "Deryk Wehrley",
+        "popularity": 0.4757,
+        "profile_path": null,
+        "credit_id": "6a86f354ca63dadc5e24ca89",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3246713,
+        "known_for_department": "Acting",
+        "name": "Scott Conner",
+        "original_name": "Scott Conner",
+        "popularity": 0.27,
+        "profile_path": null,
+        "credit_id": "6a86f369703bb11d3c675481",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rYj9RVPntrnjqxBAZbF0LPZuFFP.jpg",
+        "id": 1001783,
+        "title": "LaRoy, Texas",
+        "original_title": "LaRoy, Texas",
+        "overview": "Broke and depressed, Ray  is mistaken for a dangerous hitman and given an envelope of cash. Along with his P.I. friend Skip, he must escape the actual hitman to make it out of LaRoy alive.",
+        "poster_path": "/fEYfXyWhFJScE0I5rHsS2JxIiPP.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          35,
+          53
+        ],
+        "popularity": 3.9654,
+        "release_date": "2024-04-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.847,
+        "vote_count": 190
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y2WqsZYVI0yVdC0hgDmYvzfJzqr.jpg",
+        "id": 551994,
+        "title": "The Shed",
+        "original_title": "The Shed",
+        "overview": "The story of Stan, an orphaned teenager stuck living with his abusive grandfather and tasked with routinely protecting his best friend from high school bullies. When Stan discovers a murderous creature has taken refuge inside the tool shed in his backyard, he tries to secretly battle the demon alone until his bullied friend discovers the creature and has a far more sinister plan in mind.",
+        "poster_path": "/aV9n5MyLZQsoXNfbZG5OOf16IkP.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 4.7083,
+        "release_date": "2019-10-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.946,
+        "vote_count": 157
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8oxhZyEKEnuYVjXt5XwyE2unhO1.jpg",
+        "id": 33754,
+        "title": "Scared Stiff",
+        "original_title": "Scared Stiff",
+        "overview": "A nightclub singer and his partner escape mobsters by fleeing to Cuba with a beautiful heiress, who has inherited a haunted castle on an isolated island. The trio hunt for a hidden treasure and encounter a ghost, a zombie, and a mysterious killer...",
+        "poster_path": "/cnglxMYB0912uje2gC2VfMZRywo.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          27
+        ],
+        "popularity": 2.3462,
+        "release_date": "1953-04-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qseiYNSkexOGoRJsfohA1NEojK2.jpg",
+        "id": 32051,
+        "title": "Race with the Devil",
+        "original_title": "Race with the Devil",
+        "overview": "تنطلق زوجان في رحلة عبر تكساس، لكنهما يشاهدان بالصدفة طقسًا شيطانيًا يتضمن تضحية بشرية، فيصبحان هدفًا لجماعة طقوسية تطاردهما في محاولة للتخلص منهما",
+        "poster_path": "/4ezD93ytLd8707j3Qvg53Mpz5ff.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          27,
+          53
+        ],
+        "popularity": 2.0241,
+        "release_date": "1975-06-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 142
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hgg4VH9vtujHTh87wI5KIYNSwPy.jpg",
+        "id": 433941,
+        "title": "Dave Made a Maze",
+        "original_title": "Dave Made a Maze",
+        "overview": "Dave, an artist who has yet to complete anything significant in his career, builds a fort in his living room out of pure frustration, only to wind up trapped by the fantastical pitfalls, booby traps, and critters of his own creation. Ignoring his warnings, Dave’s girlfriend Annie leads a band of oddball explorers on a rescue mission. Once inside, they find themselves trapped in an ever-changing supernatural world, threatened by booby traps and pursued by a bloodthirsty Minotaur.",
+        "poster_path": "/f2sMi0iBt44E0M5jmSCaOAnGVZp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          12,
+          27,
+          14
+        ],
+        "popularity": 2.811,
+        "release_date": "2017-08-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.371,
+        "vote_count": 280
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/byQFTtskbR9COpluK1p3oImdsBt.jpg",
+        "id": 13064,
+        "title": "Airborne",
+        "original_title": "Airborne",
+        "overview": "Good-natured teen surfer Mitchell Goosen finds himself staying with his aunt and uncle in Cincinnati, Ohio when his parents head to Australia for work. There he meets his cousin, Wiley, and together they try to navigate the perils of high school—avoid the bullies, get the girl, and win a little respect.",
+        "poster_path": "/4TPCzvOoQmmParPjgHCiqqiVYIJ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          35
+        ],
+        "popularity": 3.0061,
+        "release_date": "1993-09-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.076,
+        "vote_count": 92
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f7x2aH3C6u6fgpKqqXZ5mCdihaf.jpg",
+        "id": 623520,
+        "title": "Z",
+        "original_title": "Z",
+        "overview": "A family find themselves terrorized by their eight-year-old son's imaginary friend.",
+        "poster_path": "/5kFQrl8fCIrQEXqFUc6bBUylrFs.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 3.4139,
+        "release_date": "2019-09-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.557,
+        "vote_count": 358
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pyeknyOKRLBd4ROOeYL6kV103ov.jpg",
+        "id": 11974,
+        "title": "الضواحي",
+        "original_title": "The 'Burbs",
+        "overview": "إنه رجل محب للسلام يعيش في الضاحية، عندما ينتقل جيران غامضون إلى المنزل المجاور، يترك راي بيترسون وأصدقاؤه هواجسهم تسيطر عليهم ويشتبهون في أن الوافدين الجدد يرتكبون أفعالاً شريرة، فيشرعون في التحقيق، لكن لم يتوقع راي، الذي يفضل شرب الجعة وقراءة صحيفته ومشاهدة مباريات الكرة على التلفز، أن يقضي إجازته بهذه الطريقة.",
+        "poster_path": "/jwYKzJS0C3A711hmg1G4ptI0InF.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          27,
+          53
+        ],
+        "popularity": 5.3929,
+        "release_date": "1989-02-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.753,
+        "vote_count": 1419
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/egPyHQTaEDn65JurwvNSmwAeqqd.jpg",
+        "id": 37342,
+        "title": "Maniac",
+        "original_title": "Maniac",
+        "overview": "When a stranger enters a quiet, country town and is seduced by a sensuous married woman he unwittingly finds himself at the centre of a storm of sexual guilt and murder.",
+        "poster_path": "/ttiI7okdfXITHGLS2E9aijKGhOy.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          27,
+          53
+        ],
+        "popularity": 2.1142,
+        "release_date": "1963-05-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.185,
+        "vote_count": 46
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8liHMI4t6VZsovqyHxgrwaFpipf.jpg",
+        "id": 981848,
+        "title": "تهديد مزدوج",
+        "original_title": "Double Threat",
+        "overview": "بعد سرقة الأموال من الغوغاء ، تجد ناتاشا المقاتلة الجميلة المدربة جيدًا نفسها هاربة مع شخص غريب وساذج ، جيمي (ماثيو لورانس) الذي توشك حياته على أن تصبح أكثر إثارة مما يمكن أن يتخيله.",
+        "poster_path": "/5Z9KqbOA8WbInbmB0TsO62L7QIy.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          35
+        ],
+        "popularity": 3.0673,
+        "release_date": "2023-03-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.532,
+        "vote_count": 108
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gbjt7NvOtxTEGT3HZ2XZBoUY4TB.jpg",
+        "id": 158990,
+        "title": "Wrong Cops",
+        "original_title": "Wrong Cops",
+        "overview": "A group of bad cops look to dispose of a body that one of them accidentally shot.",
+        "poster_path": "/15SXDNERXh3QEffPxDDbt0DVHij.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          35
+        ],
+        "popularity": 1.8795,
+        "release_date": "2013-12-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.058,
+        "vote_count": 346
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wrFvTM1A7YHNFMgzsPw0sTc9Xq2.jpg",
+        "id": 39578,
+        "title": "The Monster Club",
+        "original_title": "The Monster Club",
+        "overview": "A vampire attacks a horror author on the street and then invites him to a nearby club as a gesture of gratitude, which turns out to be a meeting place for assorted creatures of the night. The vampire then regales him with three stories, each interspersed with musical performances at the club.",
+        "poster_path": "/AnNIp3GDXX95nljypGPhcZnEGts.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "popularity": 1.9198,
+        "release_date": "1981-04-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.828,
+        "vote_count": 125
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uEnOR1sA0B8AMrMl4J6MHLFvRvS.jpg",
+        "id": 24109,
+        "title": "Fun with Dick and Jane",
+        "original_title": "Fun with Dick and Jane",
+        "overview": "When an upwardly mobile couple find themselves unemployed and in debt, they turn to armed robbery in desperation.",
+        "poster_path": "/obBXkCU29eRzbVX5erjrAxugOpN.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 2.6322,
+        "release_date": "1977-03-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 81
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kmLl2PvSYw8aU7ueHpVeo0pvSeZ.jpg",
+        "id": 541099,
+        "title": "DeadTectives",
+        "original_title": "DeadTectives",
+        "overview": "A team of reality TV paranormal investigators go to Mexico's most haunted house in the pursuit of better ratings. However, when the true dark secrets of the mansion begin to reveal themselves, the hapless team quickly discover that this house is no hoax. With zero genuine ghost-hunting experience, they have to figure out how to stop the ghosts and escape the house with their lives.",
+        "poster_path": "/o3Fo0GFHYzNVK5b1KjhyGYE05vy.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          27
+        ],
+        "popularity": 1.8702,
+        "release_date": "2019-09-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.894,
+        "vote_count": 85
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/UT0FaX3djSmvphvDopomPNWXIQ.jpg",
+        "id": 306947,
+        "title": "The Invitation",
+        "original_title": "The Invitation",
+        "overview": "تمت دعوة Will وصديقته الجديدة كيرا لتناول العشاء مع الأصدقاء القدامى في منزل Will’s السابق Eden وشريكها الجديد David. على الرغم من أن المساء يبدو هادئًا ، إلا أن ويل سرعان ما يشك في أن مضيفهم الساحر ديفيد يخطط لشيء ما.",
+        "poster_path": "/esubm23z8N5JUA1wQ5yLSjLicDx.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          27
+        ],
+        "popularity": 5.7847,
+        "release_date": "2016-04-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.423,
+        "vote_count": 2942
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vff5LIVaj7D9984GwxAIKNWQN7u.jpg",
+        "id": 28438,
+        "title": "The Leopard Man",
+        "original_title": "The Leopard Man",
+        "overview": "When a leopard escapes during a publicity stunt, it triggers a series of murders.",
+        "poster_path": "/aqgX4T8tnOXQjoZcQ1pHR9MnnyL.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          80
+        ],
+        "popularity": 2.0941,
+        "release_date": "1943-05-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.519,
+        "vote_count": 132
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3kcTsIUyi4UfAjQCTxwNYbcgcbf.jpg",
+        "id": 345942,
+        "title": "Henchmen",
+        "original_title": "Henchmen",
+        "overview": "When a new recruit joins the Union of Evil, he is assigned to a motley crew of blue-collar workers led by fallen henchmen Hank. But when “The Kid” accidentally steals the ultimate weapon, Hank must break his “risk nothing” code to save the boy he’s befriended, even if it means becoming the one thing he has always avoided… being a hero.",
+        "poster_path": "/ddbcOYQaDbxH5R42DlrK7txVbIG.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          12
+        ],
+        "popularity": 2.9611,
+        "release_date": "2018-12-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.427,
+        "vote_count": 48
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5gTQmnGYKxDfmUWJ9GUWqrszRxN.jpg",
+        "id": 721656,
+        "title": "Happy Halloween, Scooby-Doo!",
+        "original_title": "Happy Halloween, Scooby-Doo!",
+        "overview": "Scooby-Doo and the gang team up with their pals, Bill Nye The Science Guy and Elvira Mistress of the Dark, to solve this mystery of gigantic proportions and save Crystal Cove!",
+        "poster_path": "/ojSrGq5qIBObrodYilJQPXSYv6r.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          9648,
+          35,
+          27
+        ],
+        "popularity": 2.987,
+        "release_date": "2020-10-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.7,
+        "vote_count": 260
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h0jlcOISKcrVG4IE4p5IyZGrMhn.jpg",
+        "id": 212,
+        "title": "Arsenic and Old Lace",
+        "original_title": "Arsenic and Old Lace",
+        "overview": "Mortimer Brewster, a newspaper drama critic, playwright, and author known for his diatribes against marriage, suddenly falls in love and gets married;  but when he makes a quick trip home to tell his two maiden aunts, he finds out his aunts' hobby - killing lonely old men and burying them in the cellar!",
+        "poster_path": "/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "popularity": 3.2638,
+        "release_date": "1944-09-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.619,
+        "vote_count": 1069
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3Bj0asM1kSAXB0aj8dyIgioxW3d.jpg",
+        "id": 15360,
+        "title": "The Night Stalker",
+        "original_title": "The Night Stalker",
+        "overview": "Wisecracking reporter Carl Kolchak investigates a string of murders in Las Vegas and suspects the culprit is a vampire. His editor thinks he's crazy and the police think he's a nuisance, so Kolchak takes matters into his own hands.",
+        "poster_path": "/dij60cVBL39B5t1SdGQr33APksC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          27,
+          53,
+          10770
+        ],
+        "popularity": 3.4663,
+        "release_date": "1972-01-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.898,
+        "vote_count": 137
+      }
+    ],
+    "total_pages": 31,
+    "total_results": 613
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  },
+  "watch/providers": {
+    "results": {
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1545484-deathwoods/watch?locale=US",
+        "rent": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      }
+    }
+  },
+  "videos": {
+    "results": []
+  }
+}

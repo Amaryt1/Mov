@@ -1,0 +1,1774 @@
+{
+  "adult": false,
+  "backdrop_path": "/usLRh1bcbL0Q9X8zf6rL4OV1qrA.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "1971-04-03",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "https://www.kamen-rider-official.com/",
+  "id": 2661,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-08-30",
+  "last_episode_to_air": {
+    "id": 7768699,
+    "name": "الحلقة 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-06",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 37,
+    "show_id": 2661,
+    "still_path": "/3CdSsBtTAwAICDgdlhXJggQ4rn4.jpg"
+  },
+  "name": "الدراج المقنع",
+  "next_episode_to_air": {
+    "id": 7768700,
+    "name": "الحلقة 2",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-13",
+    "episode_number": 2,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 37,
+    "show_id": 2661,
+    "still_path": "/b32It5SSk7UmZK1uVTGyMdZyC2k.jpg"
+  },
+  "networks": [
+    {
+      "id": 103,
+      "logo_path": "/j3xAzk1SYQQwrQOD7acdSz675Wa.png",
+      "name": "tv asahi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 160,
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+      "name": "TBS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2171,
+      "logo_path": "/wJHlrKe9Sm6m6F3Wj1IK81P0Lm0.png",
+      "name": "NET",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7068,
+      "logo_path": "/3g3L2j03pUnze7eeah5B9dP9QDZ.png",
+      "name": "Toei Channel",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9332,
+      "logo_path": null,
+      "name": "TV Asahi",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 1760,
+  "number_of_seasons": 37,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "仮面ライダー",
+  "overview": "تدور أحداث المسلسل حول عالم يسمى \"عالم المرآة\"، حيث تظهر وحوش تأكل البشر. يقوم شخص يدعى \"جين\" بصنع بطاقات خاصة تمكن 13 مقاتلاً من التحول إلى دراجين لحماية الناس أو القتال فيما بينهم.",
+  "popularity": 196.0791,
+  "poster_path": "/fIJNVBa6MJStPiOvhLV69nAdu0e.jpg",
+  "production_companies": [
+    {
+      "id": 9300,
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+      "name": "TV Asahi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5822,
+      "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+      "name": "Toei Company",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4720,
+      "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+      "name": "ADK",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5671,
+      "logo_path": "/e2wUkVLLcru3UKXzLtPtfjIIvQp.png",
+      "name": "Ishimori Production",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2016-10-03",
+      "episode_count": 29,
+      "id": 129966,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/xZMJyRGT2r0EMgOTR016BP66Va0.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-04-03",
+      "episode_count": 98,
+      "id": 64046,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/f8vVO5gz17Q7rp8rNUeu9e2YTuq.jpg",
+      "season_number": 1,
+      "vote_average": 5.3
+    },
+    {
+      "air_date": "1973-02-17",
+      "episode_count": 52,
+      "id": 64047,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/3gJhzRS3hOfhyUejuX0lgVnMzxv.jpg",
+      "season_number": 2,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "1974-02-16",
+      "episode_count": 35,
+      "id": 64048,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/gYDgx3SC9WPdq1ytcRPM3QeGZsA.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-10-19",
+      "episode_count": 24,
+      "id": 64049,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/oPHxgniTBqMelkPNzpt3wS9pE1H.jpg",
+      "season_number": 4,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1975-04-05",
+      "episode_count": 39,
+      "id": 64050,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/1D6WfxM43JtDQRf5Hyq1v0mqWSC.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-10-05",
+      "episode_count": 54,
+      "id": 64051,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/9TXokbSyXL2SDHXPAdxpTzsiwg1.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-10-17",
+      "episode_count": 48,
+      "id": 64052,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/ofjTSnuhDEYziVSDPJ2JGS4SkKS.jpg",
+      "season_number": 7,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1987-10-04",
+      "episode_count": 51,
+      "id": 64053,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/x2DycgGH0bfqQhQlvjDPuihlAv2.jpg",
+      "season_number": 8,
+      "vote_average": 5.2
+    },
+    {
+      "air_date": "1988-10-23",
+      "episode_count": 47,
+      "id": 64054,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/cB54OAyJUlLBU0Cx9W7xUD5QaKZ.jpg",
+      "season_number": 9,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2000-01-30",
+      "episode_count": 49,
+      "id": 64055,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/2z5jnDqG5WPfOnG2l6MCpYh4SfY.jpg",
+      "season_number": 10,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2001-01-28",
+      "episode_count": 51,
+      "id": 64056,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/lFVRM5BurGly2K9Y4y9jE438Qkq.jpg",
+      "season_number": 11,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2002-02-03",
+      "episode_count": 50,
+      "id": 64057,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/rDWLxUCStcKgSzTutmdv6F4uQHy.jpg",
+      "season_number": 12,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2003-01-26",
+      "episode_count": 50,
+      "id": 64058,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/gOE2ofhDj6Za5i7pwBhz9ZIAsN4.jpg",
+      "season_number": 13,
+      "vote_average": 9.9
+    },
+    {
+      "air_date": "2004-01-25",
+      "episode_count": 49,
+      "id": 64059,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/1iWkhtaZbZL33le2wDwgLcPCevs.jpg",
+      "season_number": 14,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2005-01-30",
+      "episode_count": 48,
+      "id": 64060,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/o0dDy9hMWErekTzoLkL6WzEqKvg.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-29",
+      "episode_count": 49,
+      "id": 64061,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/i9eELJqp8hzPMFcVLfSDMi3i201.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-28",
+      "episode_count": 49,
+      "id": 64062,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/l5Hp9nqPMROjgrdUkQQiwHMFwkq.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-27",
+      "episode_count": 48,
+      "id": 64063,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/7uRp0OXebFq6yPypYMOQudfLkx0.jpg",
+      "season_number": 18,
+      "vote_average": 6.9
+    },
+    {
+      "air_date": "2009-01-25",
+      "episode_count": 31,
+      "id": 64064,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/jW96ETD4TPp0zW6pQK9D2TJEzn2.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-06",
+      "episode_count": 49,
+      "id": 64065,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/y49LM8F9nXTLKeLm7wZx1WVPzgX.jpg",
+      "season_number": 20,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2010-09-05",
+      "episode_count": 48,
+      "id": 64066,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/AloMei4rLWIXwZa2HIlGmycN84.jpg",
+      "season_number": 21,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2011-09-04",
+      "episode_count": 48,
+      "id": 64067,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/1Eo62kaXtBvbAlxj8zqrEkXDBdc.jpg",
+      "season_number": 22,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2012-09-02",
+      "episode_count": 53,
+      "id": 64068,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/rqkSStY5o3ClgwFVUp0oxco42Lm.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-10-06",
+      "episode_count": 47,
+      "id": 64069,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/iLqh4DU32MgsnYcWuGgsP5PLQBU.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-10-05",
+      "episode_count": 48,
+      "id": 64070,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/8MJ1wIUiMB6B3PxbCMdMAa7WN17.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-10-04",
+      "episode_count": 50,
+      "id": 69800,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": "/xbfXxR0Q02ZmbsYRsudUOrwdsd9.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-10-02",
+      "episode_count": 45,
+      "id": 78368,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": "/9u2WTvAbarA365v5ifoB6vFcsnq.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-03",
+      "episode_count": 49,
+      "id": 78420,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": "/xTEcPoQeUJXMNxeawVXgcz6ChyJ.jpg",
+      "season_number": 28,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2018-09-02",
+      "episode_count": 49,
+      "id": 108407,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": "/u49u2zxLItTqfr9VJddNkWD5lmU.jpg",
+      "season_number": 29,
+      "vote_average": 6.3
+    },
+    {
+      "air_date": "2019-09-01",
+      "episode_count": 45,
+      "id": 130188,
+      "name": "الموسم 30",
+      "overview": "",
+      "poster_path": "/unARPlfXRZvdDnULlHgdxsusvuh.jpg",
+      "season_number": 30,
+      "vote_average": 4.2
+    },
+    {
+      "air_date": "2020-09-06",
+      "episode_count": 48,
+      "id": 160714,
+      "name": "الموسم 31",
+      "overview": "",
+      "poster_path": "/qMxaJguLsPuXadEmyMKvBBcO5uc.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-05",
+      "episode_count": 50,
+      "id": 204921,
+      "name": "الموسم 32",
+      "overview": "",
+      "poster_path": "/7U4v931EMZEqoP1v2spiGEbTTNy.jpg",
+      "season_number": 32,
+      "vote_average": 6.5
+    },
+    {
+      "air_date": "2022-09-04",
+      "episode_count": 49,
+      "id": 296206,
+      "name": "الموسم 33",
+      "overview": "",
+      "poster_path": "/uh4LQYn42WgjvjHX4QWNredqLoz.jpg",
+      "season_number": 33,
+      "vote_average": 6.2
+    },
+    {
+      "air_date": "2023-09-03",
+      "episode_count": 50,
+      "id": 353411,
+      "name": "الموسم 34",
+      "overview": "",
+      "poster_path": "/kf6qwGqTnGBAvwErfYft9RSGRVf.jpg",
+      "season_number": 34,
+      "vote_average": 7
+    },
+    {
+      "air_date": "2024-09-01",
+      "episode_count": 50,
+      "id": 402361,
+      "name": "الموسم 35",
+      "overview": "",
+      "poster_path": "/btRlFgOcrjdtPzbTVgz3oDk8ECl.jpg",
+      "season_number": 35,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2025-09-07",
+      "episode_count": 50,
+      "id": 464121,
+      "name": "الموسم 36",
+      "overview": "",
+      "poster_path": "/3YybwLVxaGgzcTyMyB2vqB4H4EL.jpg",
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-09-06",
+      "episode_count": 10,
+      "id": 492899,
+      "name": "الموسم 37",
+      "overview": "",
+      "poster_path": "/o02qO3qXGdS024ltkFZhh8Lpk6R.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.396,
+  "vote_count": 106,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 118
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 80
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 41
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 70
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 10
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 44
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 45
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 175
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 72
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 76
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 14
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 50
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 74
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=JP",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/1ub2GHq6uUjcg0fZ66yeeu8iGbP.png",
+            "provider_id": 2508,
+            "provider_name": "MY HERO Amazon Channel",
+            "display_priority": 58
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 71
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 9
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 61
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 55
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 51
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 44
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 12
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/2661/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/ydhPmamP2uIMipgq8qIEfmcw2hT.png",
+            "provider_id": 600,
+            "provider_name": "Shout! Factory Amazon Channel",
+            "display_priority": 318
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 72
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/nNq6hHnMA2Wt83qB1PkmKD0qETZ.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 60563,
+        "origin_country": [
+          "NO"
+        ],
+        "original_language": "no",
+        "original_name": "Mammon",
+        "overview": "",
+        "popularity": 3.0983,
+        "poster_path": "/arycHQFwv9s6hG766h9gDyfGU8l.jpg",
+        "first_air_date": "2014-01-01",
+        "softcore": false,
+        "name": "Mammon",
+        "vote_average": 7.1,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p4zxZJCQNTPYlMok9MCU4ai2gOf.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 60611,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Believe",
+        "overview": "",
+        "popularity": 8.3072,
+        "poster_path": "/1h1txgv70Rl0b4OrNIJi6korazk.jpg",
+        "first_air_date": "2014-03-10",
+        "softcore": false,
+        "name": "Believe",
+        "vote_average": 6.781,
+        "vote_count": 180
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wQcy20hJw1u1yw1zLN7Q1uWbpmu.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "id": 239761,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "先輩はおとこのこ",
+        "overview": "",
+        "popularity": 8.8067,
+        "poster_path": "/au90540MP5FlnZGZZM6Gszjwcnl.jpg",
+        "first_air_date": "2024-07-05",
+        "softcore": false,
+        "name": "先輩はおとこのこ",
+        "vote_average": 7.095,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rRu0Ogex93Fd3kFzxcLozhHqtZl.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "id": 239764,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "かつて魔法少女と悪は敵対していた。",
+        "overview": "",
+        "popularity": 4.8858,
+        "poster_path": "/9NivXf13bsUsL5ipeZwByuwJLcB.jpg",
+        "first_air_date": "2024-07-09",
+        "softcore": false,
+        "name": "かつて魔法少女と悪は敵対していた。",
+        "vote_average": 7.1,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/boBBONRsaGtuyACoMAqU0SG79sr.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 239780,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "アリエスの乙女たち",
+        "overview": "",
+        "popularity": 1.9169,
+        "poster_path": "/hYg8gOhyxFpaerd6TqtZzseVZJW.jpg",
+        "first_air_date": "1987-04-08",
+        "softcore": false,
+        "name": "アリエスの乙女たち",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sEjNaoENrqIZONKNn1iLFB0Us9k.jpg",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "id": 1972,
+        "origin_country": [
+          "CA",
+          "US",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Battlestar Galactica",
+        "overview": "عندما يظهر العدو القديم سيلونس، ويقوم بتدمير 12 مستعمرة، يقوم فريق جالاكتيكا بحماية أسطول صغير من المدنيين، كآخر نوع من البشر، في الرحلة المتوجهة إلى المستعمرة الثالثة عشر، وهي الأرض.",
+        "popularity": 40.9804,
+        "poster_path": "/99PJSbcO2LeM10uOGWeFihNp77j.jpg",
+        "first_air_date": "2004-10-18",
+        "softcore": false,
+        "name": "Battlestar Galactica",
+        "vote_average": 8.212,
+        "vote_count": 1843
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/95kE8pZICnHLtBg1Qk7ppzg4Ku5.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35
+        ],
+        "id": 1977,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Loonatics Unleashed",
+        "overview": "",
+        "popularity": 9.7649,
+        "poster_path": "/oHGY83FvCpMqBGjftalcBzI6tIx.jpg",
+        "first_air_date": "2005-09-17",
+        "softcore": false,
+        "name": "Loonatics Unleashed",
+        "vote_average": 7.9,
+        "vote_count": 156
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qw8XT80DuF9OuJKeaBsj1x1trar.jpg",
+        "genre_ids": [
+          10765,
+          10759,
+          10762
+        ],
+        "id": 1983,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "未来戦隊タイムレンジャー",
+        "overview": "",
+        "popularity": 9.9355,
+        "poster_path": "/iWor5oLRzYzOvaE5bbrE6mFZ4fe.jpg",
+        "first_air_date": "2000-02-13",
+        "softcore": false,
+        "name": "未来戦隊タイムレンジャー",
+        "vote_average": 8,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AcKnrZgsf8ea8NJWdGWlqSYTQBG.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "id": 60654,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "マギ",
+        "overview": "تتحدث القصة عن القدر و كثرة المعارك للحفاظ على العالم بشكلٍ صحيح، (علاء الدين) هو الصبي الذي أُختير لاكتشاف العالم بعدما وقع في غرفة يبقى فيها طوال حياته، صديقه المفضل هو المزمار و الجني اسمه هو (أوغو) أكتشف (علاء الدين) منذ وقتٍ قريب أنه الساحر الذي يختار الملوك، سوف يقاتل ضد أولئك الذين يحاولون تدمير القدر، و سيكمل مغامراته إلى أن يلتقي بأشخاصٍ من [الليالي العربية ألف ليلة وليلة] مثل (علي بابا) و (سندباد) الذين سيحاربون للحفاظ على توازن العالم . . .",
+        "popularity": 12.0377,
+        "poster_path": "/4pXn9a3srp6wCuEei7Z2nvYjAC4.jpg",
+        "first_air_date": "2012-10-07",
+        "softcore": false,
+        "name": "ماجي: المتاهة السحرية",
+        "vote_average": 8.2,
+        "vote_count": 220
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rpqZ0W5FOJx6H1967bEb0x5x9CA.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
+        "id": 60659,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "COPPELION",
+        "overview": "",
+        "popularity": 3.048,
+        "poster_path": "/6dRQVgfqmajmnUn1zTpl4L8zvNm.jpg",
+        "first_air_date": "2013-10-02",
+        "softcore": false,
+        "name": "COPPELION",
+        "vote_average": 7.088,
+        "vote_count": 40
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rbDFI2I1nMyJtX4Y3jJ4H1QRdRX.jpg",
+        "genre_ids": [
+          18,
+          80,
+          10765
+        ],
+        "id": 60708,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Gotham",
+        "overview": "الجميع يعرف اسم المفوض قوردون. من أكبر أعداء الجريمة في العالم، هو رجل تشتهر سمعته بالقانون والنظام. ولكن ما هو معروف من قصة قوردون وصعوده شرطي مبتدئ لمفوض الشرطة؟ ما الذي يتطلبه الأمر للتنقل بين طبقات الفساد المتعددة التي حكمت سراً مدينة قوثام، وما هي الظروف التي أوجدت الشخصيات المشهوره مثل المرأة القط، البطريق، الاحجية، ذو الوجهين والجوكر؟",
+        "popularity": 58.3843,
+        "poster_path": "/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg",
+        "first_air_date": "2014-09-22",
+        "softcore": false,
+        "name": "قوثام",
+        "vote_average": 7.597,
+        "vote_count": 3791
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 60735,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Flash",
+        "overview": "بعد أن شاهد والدته تقتل على يد شيء خارق للطبيعة وإدانة والده بالجريمة  التي لم يرتكبها، يذهب باري ألين للعيش مع المحقق جو ويست وعائلته. يكبر ألين ويصبح محقق جرائم ذكي لكن غريب الاطوار في دائرة شرطة سنترال سيتي. في  يوم من الأيام تضرب عاصفة غامضة باري ألين وتعطيه سرعة خارقه. يستغل باري  قدرته الجديدة في محاربة الجريمة وآخرين يمتلكون قدرات خارقة بمساعدة  أصدقائه في مختبرات ستار وفي نفس الوقت يحاول معرفة من قتل والدته عندما  كان صغيراً.",
+        "popularity": 116.521,
+        "poster_path": "/on67BDRo1P6LrsYpnmviCfXN6kR.jpg",
+        "first_air_date": "2014-10-07",
+        "softcore": false,
+        "name": "فلاش",
+        "vote_average": 7.7,
+        "vote_count": 11761
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1920,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Twin Peaks",
+        "overview": "عُثر على جثة لورا بالمر على شاطئ بالقرب من بلدة توين بيكس الصغيرة في ولاية واشنطن. استُدعي العميل الخاص في مكتب التحقيقات الفيدرالي، ديل كوبر، للتحقيق في وفاتها الغامضة، ليكشف عن شبكة من الألغاز تقوده في نهاية المطاف إلى أعماق الغابة المحيطة ونفسه",
+        "popularity": 53.8821,
+        "poster_path": "/fgJJMIA8zFeRErCgCvs73Tsr28d.jpg",
+        "first_air_date": "1990-04-08",
+        "softcore": false,
+        "name": "توين بيكس",
+        "vote_average": 8.341,
+        "vote_count": 2690
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xuFBKZm4IZiCdIcC05gGbX7b82j.jpg",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "id": 30237,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "地球へ…",
+        "overview": "",
+        "popularity": 4.0655,
+        "poster_path": "/4ntZMDDyKUDbj8cynGR7krXm91P.jpg",
+        "first_air_date": "2007-04-07",
+        "softcore": false,
+        "name": "地球へ…",
+        "vote_average": 7.273,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mvi2YbFePpq68xaHEwezpmSEdsv.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "id": 1941,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "牙狼＜GARO＞",
+        "overview": "",
+        "popularity": 32.7418,
+        "poster_path": "/3IBGi1F4oRlykR0k9beIwygn8YM.jpg",
+        "first_air_date": "2005-10-07",
+        "softcore": false,
+        "name": "牙狼＜GARO＞",
+        "vote_average": 7.7,
+        "vote_count": 30
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xtMhBn1RTKR7cYjAVZXvuZ88A4O.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10765
+        ],
+        "id": 30180,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "DearS",
+        "overview": "",
+        "popularity": 4.6025,
+        "poster_path": "/lKydkmuKjmQpNKrOzwMUSVmCgPq.jpg",
+        "first_air_date": "2004-07-10",
+        "softcore": false,
+        "name": "DearS",
+        "vote_average": 6.25,
+        "vote_count": 34
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yP7AnSP0NSsheMDtgIwvGWA1QIF.jpg",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "id": 1841,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "The Adventures of Sinbad",
+        "overview": "",
+        "popularity": 8.9107,
+        "poster_path": "/dakx8dktuEWOZ28AmDtCiKOKxTF.jpg",
+        "first_air_date": "1996-09-28",
+        "softcore": false,
+        "name": "The Adventures of Sinbad",
+        "vote_average": 6.9,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "id": 93149,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "プランダラ",
+        "overview": "في عالم ما بعد نهاية العالم الذي تهيمن عليها ما يسمى بـ\"الأرقام\"، سيكون لكل إنسان هويته المميزة بـ \"الكونت\"، التي يمكن أن تحدد أي رقم متعلق بحياتهم. قد تكون المسافة التي قطعها المرء أو مجاملاته التي قدمها له الآخرون، يمكن لهذا الكونت أن يقودهم إلى الهاوية عندما ينخفض  للصفر.",
+        "popularity": 7.5187,
+        "poster_path": "/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+        "first_air_date": "2020-01-09",
+        "softcore": false,
+        "name": "الناهب",
+        "vote_average": 8.27,
+        "vote_count": 790
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jtpGcS4ns3kjQ7d11ocq6KHKNpt.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 93169,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "安玲与史迪奇",
+        "overview": "",
+        "popularity": 2.4689,
+        "poster_path": "/gOMeH86HMATMRAFtr5iqFZEZKvV.jpg",
+        "first_air_date": "2017-03-27",
+        "softcore": false,
+        "name": "安玲与史迪奇",
+        "vote_average": 4.7,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bjSvFFmLtB4luDBdh4amXCO0qUL.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126409,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ギヴン",
+        "overview": "",
+        "popularity": 3.4737,
+        "poster_path": "/zRTUNQt9MYT2HfzsgElYb3CkbqO.jpg",
+        "first_air_date": "2021-07-17",
+        "softcore": false,
+        "name": "ギヴン",
+        "vote_average": 6.542,
+        "vote_count": 12
+      }
+    ],
+    "total_pages": 3156,
+    "total_results": 63105
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/dIgS1BkwZ8hze6qhLuI8nPdLz3u.jpg",
+        "id": 3425,
+        "name": "Ultraman",
+        "original_name": "ウルトラマン",
+        "overview": "Hayata is a member of the Science Patrol, an organization tasked with investigating bizarre anomalies. He is mortally wounded when accidently encountering an alien being from Land of Light, who grants Hayata new life as the two are merged into one. Now, whenever a threat arises that is too great for the Science Patrol to handle, Hayata activates the beta capsule and becomes the hero known as Ultraman.",
+        "poster_path": "/7BanECmWCduOuJ5LzCjY93IdyPU.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          10765,
+          9648
+        ],
+        "popularity": 28.2649,
+        "first_air_date": "1966-07-17",
+        "softcore": false,
+        "vote_average": 8.4,
+        "vote_count": 62,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i01wnWz0Z3rMATqbkAVLHEaGbNP.jpg",
+        "id": 2328,
+        "name": "باور رينجرز",
+        "original_name": "Power Rangers",
+        "overview": "قصة باور رينجرز ميغافورس عندما يتعرض كوكب الأرض لتهديد غزو فضائي غاشم من قِبل منظمة شريرة تُدعى \"وارستار\". استجابةً لهذا الخطر، يستيقظ الحامي القديم للأرض \"جوسي\" ومساعده الآلي \"تينسو\" لاختيار خمسة مراهقين متميزين من مدرسة ثانوية محلية، ومنحهم قوى خارقة مستمدة من عناصر الطبيعة والحيوانات الأسطورية ليصبحوا فريق \"الميغافورس\".",
+        "poster_path": "/qx3SJlAp2RK656TusqKx1qEqVMW.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          10762
+        ],
+        "popularity": 29.1674,
+        "first_air_date": "1993-08-28",
+        "softcore": false,
+        "vote_average": 7.087,
+        "vote_count": 864,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lFSoJkiH2QTJDRYeodpg2kJXvNA.jpg",
+        "id": 5665,
+        "name": "Choujuu Sentai Liveman",
+        "original_name": "超獣戦隊ライブマン",
+        "overview": "Yusuke, Jo, Megumi, Kenji, Gou and Rui are students at Academia but the latter three decide to turn bad and join forces with the evil army Volt. When the defectors return, their three friends are forced to combat them as Choujuu Sentai Liveman. With the help of an android ally named Colon and a few others along the way, the Liveman must save the world and their friends.",
+        "poster_path": "/hbMV06yJ6nHWj0LweEQCDXWhXcq.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          10765,
+          10751,
+          10762
+        ],
+        "popularity": 11.0572,
+        "first_air_date": "1988-02-27",
+        "softcore": false,
+        "vote_average": 8.301,
+        "vote_count": 183,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pHURd96EW167jUd2Jf8XpgTiLJV.jpg",
+        "id": 67466,
+        "name": "Marvel's Runaways",
+        "original_name": "Marvel's Runaways",
+        "overview": "Every teenager thinks their parents are evil. What if you found out they actually were? Six diverse teenagers who can barely stand each other must unite against a common foe – their parents.",
+        "poster_path": "/hnHEhbzh0F7kN3Ah1lzRjtQuW16.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 13.2413,
+        "first_air_date": "2017-11-21",
+        "softcore": false,
+        "vote_average": 7.272,
+        "vote_count": 998,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x8T0dcllXzScXpO5jTi1m4letUY.jpg",
+        "id": 69113,
+        "name": "جنود السايبورغ 009",
+        "original_name": "サイボーグ009 THE CYBORG SOLDIER",
+        "overview": "Nine super-powered cyborg soldiers join forces to combat Black Ghost, the terrorist organization which they were originally created to serve.",
+        "poster_path": "/iFr5M9gQsQOVCByh7fiHR17RZSd.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 7.3543,
+        "first_air_date": "2001-10-14",
+        "softcore": false,
+        "vote_average": 8.208,
+        "vote_count": 24,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kRRYafjTZh8gnZDLKSg5imj80es.jpg",
+        "id": 1663,
+        "name": "رَجُل السِّتَّةُ مَلايينِ دُولار",
+        "original_name": "The Six Million Dollar Man",
+        "overview": "بَعدَ إِصابَةِ طَيَّار اختبار (ستيف أوستِن)  بِجرُوحٍ خَطيرَةٍ  في عَمَلِهِ، تَمَّ إِعادَةُ بِناءِ جِسمِهِ بِأَطرافٍ وَزَرعٍ آلِيَّةٍ تَعمَلُ بِالطَّاقَةِ النَّوَوِيَّةِ وَتَوظِيفِهِ كَوَكيلِ استِخبارات.",
+        "poster_path": "/5pd6DayQgZxK9lQHdZZYZuXyaZ2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 32.4547,
+        "first_air_date": "1974-01-18",
+        "softcore": false,
+        "vote_average": 7.28,
+        "vote_count": 444,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hBHAbkwyGXTFPkhmEd1ma5JNRbw.jpg",
+        "id": 530,
+        "name": "Mobile Cop Jiban",
+        "original_name": "機動刑事ジバン",
+        "overview": "Naoto detective Jiban fights for justice against Bioron and his evil plans to conquer the world.",
+        "poster_path": "/1c2dJkUI3KV1Vk59KJDvjpcHXpu.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 7.2782,
+        "first_air_date": "1989-01-29",
+        "softcore": false,
+        "vote_average": 7.942,
+        "vote_count": 224,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5InCCgNPTtJE0UC2XmpfZicrflx.jpg",
+        "id": 2044,
+        "name": "Madan Senki Ryukendo",
+        "original_name": "魔弾戦記リュウケンドー",
+        "overview": "Akebono City is a peaceful community overflowing with humanity. Since there was a Power Spot that released the magical power in the community, the people were distressed by the threat of the demon army Jamanga who are gathering Minus Energy from the frightened masses for a sinister purpose. The secret organization S.H.O.T. was formed to protect the people of the community from the Jamanga, concealing their existence as ordinary members of the Akebono Police Station, which considers demons beyond their jurisdiction. Kenji Narukami, a student of the Narukami Dragon God Style for fighting demons, arrives at Akebono to fight the demons, eventually getting his wish when he is transformed to RyuKenDo and faces off against Jamanga's forces together with his friends to restore peace in the community.",
+        "poster_path": "/k2Zu19nKv7bT2TBw8mpYaqhUEYy.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          10751,
+          10762,
+          10765,
+          18
+        ],
+        "popularity": 7.9391,
+        "first_air_date": "2006-01-08",
+        "softcore": false,
+        "vote_average": 8.4,
+        "vote_count": 20,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pVKlcytvXdo55AdKR8VjvORgff1.jpg",
+        "id": 6298,
+        "name": "Dengeki Sentai Changeman",
+        "original_name": "電撃戦隊チェンジマン",
+        "overview": "After already conquering hundreds of planets, the Great Star League Gozma sets its sights onto Earth. To defend the lands in such a great crisis, the military begins a special branch known as the Earth Defense Force, comprised of elite members from all areas of the military. Under the supervision of Commander Ibuki, the numerous gathered soldiers of the Earth Defense Force begin a harsh training.",
+        "poster_path": "/oPo6IR0N7mAFke7VqCS8deaz2y8.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "popularity": 10.6755,
+        "first_air_date": "1985-02-02",
+        "softcore": false,
+        "vote_average": 8.3,
+        "vote_count": 24,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ilKbbbCYjerHXQr6NRuKPu9DBsJ.jpg",
+        "id": 604,
+        "name": "تين تايتنز",
+        "original_name": "Teen Titans",
+        "overview": "يُقاتل هؤلاء الأبطال الخارقون الخمسة من أجل الحقيقة والعدالة وآخر قطعة بيتزا، مُثبتين أنك لست صغيرًا جدًا لإنقاذ الكوكب. يُدافع فريق \"تين تايتنز\" عن الأرض وما وراءها، مُستخدمين فنون القتال والأدوات المُتطورة لمُحاربة الأشرار",
+        "poster_path": "/7DCq6XbJx5WGKPvSMBxYK9uJQWQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 28.4061,
+        "first_air_date": "2003-07-19",
+        "softcore": false,
+        "vote_average": 8.346,
+        "vote_count": 1360,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/snNdRdif3XRD91SAEZH0ppIi6t3.jpg",
+        "id": 46252,
+        "name": "مغامرات الفضاء - جريندايزر",
+        "original_name": "UFOロボグレンダイザー",
+        "overview": "كوكب فليد كان متقدماً في العلم.. يعمّه السلام..وفي أحد الأيام ومن دون سبب أو سابق إنذار هجمت جيوش كوكب فيغا على هذا الكوكب المسالم.. هجمت بوحشية ومن دون رحمة لتفتك بالسكان وتدمر جمال الكوكب الجميل..دوق فليد شاهد والداه يموتا أمام عينيه خلال هجوم جيوش فيغا..فيغا الكبير وبعد هجومه على كوكب فليد، وضع يده على التكنولوجيا العالية والعلوم المتقدمة التي أمتاز بها كوكب فليد..أراد أن يستخدم جريندايزر في محاولاته السيطرة على الكون وحكمه..لكن دوق فليد لم يكن ليسمح له بالقيام بهذه الخطة الشريرة، فأقسم أن لا يسمح لفيغا بإستخدام جريندايزر وأن ينتقم منهم يوماً لما فعلوه في والديه وموطنه.. وتنفيذاً لهذا القسم شق طريقه بين جنود فيغا وأستولى على المركبة جريندايزر ليفر بها نحوالمجهول..لم يكن يعرف إلى أين سيذهب، أندفع دون هدف إلى أن وصل إلى كوكب الأرض..وبالصدفة، أكتشف الدكتور آمون جريندايزر بعد أن حطت في جبل فوجي..وجد دوق فليد في حالة سيئة فأخذه معه وأبقى شخصيته الحقيقية سراً عن الجميع وقام بتبنيه كأبن له وأسماه دايسكي آمون..فما هي الاحداث التي سيمر بها بطلنا ؟؟؟",
+        "poster_path": "/fU1urNf8HBaEuhbB5VWSekODP6L.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 16.717,
+        "first_air_date": "1975-10-05",
+        "softcore": false,
+        "vote_average": 7.733,
+        "vote_count": 90,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dE28FZ6HKbsM8cJxlYk4WL0vuhU.jpg",
+        "id": 6040,
+        "name": "بن 10: إليين فورس",
+        "original_name": "Ben 10: Alien Force",
+        "overview": "بعد خمس سنوات، اختار بن تينيسون البالغ من العمر 15 عاما أن يضع Omnitrix مرة أخرى ويكتشف أنه أعاد تكوين الحمض النووي الخاص به ويمكنه الآن تحويله إلى 10 أجانب جدد. انضم إلى ابن عمه القوي جوين تينيسون وعدوه السابق القوي بنفس القدر كيفن ليفين، بن في مهمة للعثور على جده المفقود ماكس. من أجل إنقاذ جده، يجب على بن هزيمة الدنالين الشرير، وهو جنس فضائي قوي عازم على تدمير المجرة، بدءا من كوكب الأرض.",
+        "poster_path": "/sEocAE3h5iu8CUNhdx1gHan7QJf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 21.6167,
+        "first_air_date": "2008-04-18",
+        "softcore": false,
+        "vote_average": 8.3,
+        "vote_count": 1195,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ooZ594lyG7jtLyj2aXkzgPb4wim.jpg",
+        "id": 8872,
+        "name": "Aquarion",
+        "original_name": "アクエリオン",
+        "overview": "Set in the future, a giant fighting machine called the Aquarion is humanity's only effective weapon in the fight against the technologically advanced species called the Shadow Angels.",
+        "poster_path": "/b7nYCiRLElXOcSICrZ8jdBqQP1m.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 15.8452,
+        "first_air_date": "2005-04-05",
+        "softcore": false,
+        "vote_average": 6.52,
+        "vote_count": 25,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oqjqeOsF2D0APsiHdoE2VI88fbd.jpg",
+        "id": 125928,
+        "name": "مغامراتي مع سوبرمان",
+        "original_name": "My Adventures with Superman",
+        "overview": "في ريعان عشرينياتهم، يشرع \"كلارك كينت\"، وإلى جانبه \"لويس لين\" بذكائها الوقّاد وعزيمتها التي لا تلين، وصديقهما الأقرب \"جيمي أولسن\"، في سبر أغوار ذواتهم. وهناك، يكتشف الثلاثة سويًا آفاق الإنجازات الاستثنائية التي يمكنهم تحقيقها كفريق صحفي استقصائي متكاتف بين أروقة صحيفة الـ \"ديلي بلانيت\".",
+        "poster_path": "/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 21.7788,
+        "first_air_date": "2023-07-07",
+        "softcore": false,
+        "vote_average": 8.11,
+        "vote_count": 273,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8GlKBQJTFZp9mpLXJrmNCtdTyxx.jpg",
+        "id": 4574,
+        "name": "X-Men",
+        "original_name": "X-Men",
+        "overview": "The X-Men are an elite team of mutants, genetically gifted human beings with superpowers, sworn to fight for mutant rights against hostile Government agencies, whilst at the same time protecting mankind from mutant supremacist Magneto who seeks to destroy the human race in return for the atrocities committed against mutant kind.",
+        "poster_path": "/2OFwsFhAobczgJWnVdwd9oZAF2N.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          10765,
+          16,
+          10759
+        ],
+        "popularity": 38.3231,
+        "first_air_date": "1992-10-31",
+        "softcore": false,
+        "vote_average": 8.195,
+        "vote_count": 1399,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pOKcw45cAMPu8DN7E3bN5FEvxM3.jpg",
+        "id": 33217,
+        "name": "شباب العدالة",
+        "original_name": "Young Justice",
+        "overview": "يسعى الأبطال الخارقون المراهقون جاهدين لإثبات أنفسهم كأعضاء في رابطة العدالة.",
+        "poster_path": "/vs0eiGTSY49wGMjD2i6PgOkhLNu.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 56.5709,
+        "first_air_date": "2010-11-26",
+        "softcore": false,
+        "vote_average": 8.378,
+        "vote_count": 1249,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uSNmMsfadV5dEhYEwqn6Kojctj9.jpg",
+        "id": 1706,
+        "name": "The Pretender",
+        "original_name": "The Pretender",
+        "overview": "Raised in a secret facility built for experimenting on children, Jarod is a genius who can master any profession and become anyone he has to be. When he realizes as an adult that he's actually a prisoner and his captors are not as benevolent as he's been told, he breaks out. While trying to find his real identity, Jarod helps those he encounters and tries to avoid the woman sent to retrieve him.",
+        "poster_path": "/76q5tPOPQkQYIuZu2SG6viZcp2b.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 25.2231,
+        "first_air_date": "1996-09-19",
+        "softcore": false,
+        "vote_average": 7.387,
+        "vote_count": 222,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ypjekzMRMvdrx4PRA7v1DNyCmTR.jpg",
+        "id": 668,
+        "name": "إكس مان: التطور",
+        "original_name": "X-Men: Evolution",
+        "overview": "يضم هذا الإصدار من X-Men كلاً من سايكلوبس، وجين غراي، وروغ، ونايت كراولر، وشادوكات، وسبايك وهم مراهقون يقاتلون من أجل عالم يخشاهم ويكرههم.",
+        "poster_path": "/At5aZIKkN8zHTAXOnQR9D3b7usW.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          16,
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 19.5462,
+        "first_air_date": "2000-11-04",
+        "softcore": false,
+        "vote_average": 7.957,
+        "vote_count": 541,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vh2ZS4Aome8klUyJH5whPnZbSZe.jpg",
+        "id": 15655,
+        "name": "Knight Rider",
+        "original_name": "Knight Rider",
+        "overview": "On the heels of NBC's hit movie, the iconic 1980s television classic  comes roaring back to life as a reinvented, updated and super-charged  action series showcasing the new KITT (Knight Industries Three  Thousand). Absolutely the coolest car ever created, KITT is equipped  with an \"AI\" (artificial intelligence) that is capable of hacking almost  any system. Its weapons systems match that of a jet fighter, and its  body is capable of actually transforming into other vehicles and using  sophisticated holographic imagery to elude villains.",
+        "poster_path": "/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 11.9515,
+        "first_air_date": "2008-09-24",
+        "softcore": false,
+        "vote_average": 7.488,
+        "vote_count": 690,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mLllZDfbpfPn78BT6ip7MNuC6oA.jpg",
+        "id": 39362,
+        "name": "Alphas",
+        "original_name": "Alphas",
+        "overview": "Five ordinary people with superhuman physical and mental abilities are brought together to form one extraordinary team of Alphas. Operating within the U.S. Department of Defense, the team investigates cases that point to others with Alpha abilities.",
+        "poster_path": "/1k2AG40UCvBGZTg6Kicsz1c9QSu.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "popularity": 11.6715,
+        "first_air_date": "2011-07-11",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 353,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 22,
+    "total_results": 428
+  }
+}

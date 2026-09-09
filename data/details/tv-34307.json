@@ -1,0 +1,4134 @@
+{
+  "adult": false,
+  "backdrop_path": "/5s9XHTB9SLPdg3mNU6BlSLnZ9Qq.jpg",
+  "created_by": [
+    {
+      "id": 1212184,
+      "credit_id": "5b9b133dc3a3686c0200c416",
+      "name": "Paul Abbott",
+      "original_name": "Paul Abbott",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 47333,
+      "credit_id": "60762d12c392660058efb809",
+      "name": "جون ويلز",
+      "original_name": "John Wells",
+      "gender": 2,
+      "profile_path": "/j1cEQmFdSkew87UjO354qeppo1G.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2011-01-09",
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    }
+  ],
+  "homepage": "http://www.sho.com/shameless",
+  "id": 34307,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-04-11",
+  "last_episode_to_air": {
+    "id": 2771080,
+    "name": "الحلقة 12",
+    "overview": "",
+    "vote_average": 5,
+    "vote_count": 20,
+    "air_date": "2021-04-11",
+    "episode_number": 12,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 59,
+    "season_number": 11,
+    "show_id": 34307,
+    "still_path": "/tGp0pGTCLcQI6IJPVWSf4AFvpId.jpg"
+  },
+  "name": "وقح",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 67,
+      "logo_path": "/Allse9kbjiP6ExaQrnSpIhkurEi.png",
+      "name": "Showtime",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 134,
+  "number_of_seasons": 11,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Shameless",
+  "overview": "- شيكاقو فرانك - أب وحيد، فخور بستة أطفال أذكياء، مثقلين، مستقلين، والذين بدونه سيكونون... أفضل حالاً. ينفق المال القليل الذي يملكه في الحانات. لكن الأطفال وجدوا طرقاً اخرى على الرغم من ذلك. قد لا يكونوا مثل أي عائلة تعرفهم، لكنهم لا يعتذرون عن كونهم بالضبط من هم.",
+  "popularity": 169.2104,
+  "poster_path": "/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
+  "production_companies": [
+    {
+      "id": 1512,
+      "logo_path": null,
+      "name": "John Wells Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 4343,
+      "logo_path": "/rXq1B1Hnkdnw6soz1zoGcslK3wb.png",
+      "name": "Showtime Networks",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2010-12-12",
+      "episode_count": 39,
+      "id": 45139,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/mEsacM6KmTf6z9kDVMisXw0EGmR.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-09",
+      "episode_count": 12,
+      "id": 45137,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/gJdT0Hm5nhoAnNkgWTh6Oxusvnq.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2012-01-08",
+      "episode_count": 12,
+      "id": 45138,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/k8QLDHT1v65ONfIrKk3jPV4AlTA.jpg",
+      "season_number": 2,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2013-01-13",
+      "episode_count": 12,
+      "id": 45140,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/ipeHq0WHa3B89xBY4UqzMO4aBNM.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2014-01-12",
+      "episode_count": 12,
+      "id": 45141,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/h61CczBVTmX10MFu1ui2FDEvwUa.jpg",
+      "season_number": 4,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2015-01-11",
+      "episode_count": 12,
+      "id": 63466,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/hq3BoH2LJfwInCTn3Vc3k8NGfBC.jpg",
+      "season_number": 5,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2016-01-10",
+      "episode_count": 12,
+      "id": 70404,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/AnYPLrl7Dxx8uXoLhsmEGPD38Fp.jpg",
+      "season_number": 6,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2016-10-02",
+      "episode_count": 12,
+      "id": 77841,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/8x0JX3E5LjA8Atzz359UObWaB9Z.jpg",
+      "season_number": 7,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2017-11-05",
+      "episode_count": 12,
+      "id": 91214,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/1E6asdJoCpoalo8mrFerAHFKANj.jpg",
+      "season_number": 8,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2018-09-09",
+      "episode_count": 14,
+      "id": 104861,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/f322ygNiP6bMGu5oo9G5wieHaV2.jpg",
+      "season_number": 9,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2019-11-10",
+      "episode_count": 12,
+      "id": 128829,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/jNMceYdwAasW8jybOtsRNzJcR2r.jpg",
+      "season_number": 10,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2020-12-06",
+      "episode_count": 12,
+      "id": 142132,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/9akij7PqZ1g6zl42DQQTtL9CTSb.jpg",
+      "season_number": 11,
+      "vote_average": 5.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.167,
+  "vote_count": 3476,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3905,
+        "known_for_department": "Acting",
+        "name": "ويليام ميسي",
+        "original_name": "William H. Macy",
+        "popularity": 3.5012,
+        "profile_path": "/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg",
+        "character": "Frank Gallagher",
+        "credit_id": "5258d807760ee34661713060",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 206905,
+        "known_for_department": "Acting",
+        "name": "جيريمي ألين وايت",
+        "original_name": "Jeremy Allen White",
+        "popularity": 5.1314,
+        "profile_path": "/pXRADDRhprgaQ4Bri44NH3bYeu6.jpg",
+        "character": "Lip Gallagher",
+        "credit_id": "52b9b193760ee319972301b1",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132213,
+        "known_for_department": "Acting",
+        "name": "إيثان كوتكوسكي",
+        "original_name": "Ethan Cutkosky",
+        "popularity": 2.9436,
+        "profile_path": "/fHa86X7KypnIB1koWXTTyErpRuI.jpg",
+        "character": "Carl Gallagher",
+        "credit_id": "5258d807760ee346617131f4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 110531,
+        "known_for_department": "Acting",
+        "name": "Shanola Hampton",
+        "original_name": "Shanola Hampton",
+        "popularity": 1.8744,
+        "profile_path": "/4wDdVm3HgBJm9AhMNS0I6MZidBH.jpg",
+        "character": "Veronica Fisher",
+        "credit_id": "5258d807760ee34661713182",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81388,
+        "known_for_department": "Acting",
+        "name": "ستيف هاوي",
+        "original_name": "Steve Howey",
+        "popularity": 3.4696,
+        "profile_path": "/7pkqToPpwV6id92cHDwigS77qdv.jpg",
+        "character": "Kevin Ball",
+        "credit_id": "52b9b202760ee319b8225aa6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1252801,
+        "known_for_department": "Acting",
+        "name": "Emma Kenney",
+        "original_name": "Emma Kenney",
+        "popularity": 2.7908,
+        "profile_path": "/AvcM57XKunQCFGsu5cZZHkNre4z.jpg",
+        "character": "Debbie Gallagher",
+        "credit_id": "5258d809760ee34661713219",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2563541,
+        "known_for_department": "Acting",
+        "name": "Christian Isaiah",
+        "original_name": "Christian Isaiah",
+        "popularity": 0.9824,
+        "profile_path": "/2gD6D7Lp9CYqTLG2iNg6RR6QPkt.jpg",
+        "character": "Liam Gallagher",
+        "credit_id": "5e69bfa4151c5c0019058347",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 37089,
+        "known_for_department": "Acting",
+        "name": "Cameron Monaghan",
+        "original_name": "Cameron Monaghan",
+        "popularity": 4.7058,
+        "profile_path": "/u2nxAlWiFcc8qIjpTppFazl13CR.jpg",
+        "character": "Ian Gallagher",
+        "credit_id": "5258d807760ee346617130e8",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80352,
+        "known_for_department": "Acting",
+        "name": "Noel Fisher",
+        "original_name": "Noel Fisher",
+        "popularity": 5.2849,
+        "profile_path": "/rBD5Iwt9WITaUKGk1oxSPLjjpm2.jpg",
+        "character": "Mickey Milkovich",
+        "credit_id": "5258d807760ee346617131c2",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 214695,
+        "known_for_department": "Acting",
+        "name": "Kate Miner",
+        "original_name": "Kate Miner",
+        "popularity": 1.2099,
+        "profile_path": "/c2GXh9l7LsBH1eNsKXIxheY1BrF.jpg",
+        "character": "Tami Tamietti",
+        "credit_id": "5e69bf3c2f3b1700113f62e9",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80161,
+        "known_for_department": "Directing",
+        "name": "Iain B. MacDonald",
+        "original_name": "Iain B. MacDonald",
+        "popularity": 0.6137,
+        "profile_path": "/cxCwbSjnomHNGgvW2EP6YSr4hXv.jpg",
+        "credit_id": "681109e25ad0b67c66eb168c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1555158,
+        "known_for_department": "Sound",
+        "name": "Ann Kline",
+        "original_name": "Ann Kline",
+        "popularity": 0.5127,
+        "profile_path": null,
+        "credit_id": "6a9769ce646c98cf4c3cb5c9",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219549,
+        "known_for_department": "Production",
+        "name": "Andrew Stearn",
+        "original_name": "Andrew Stearn",
+        "popularity": 0.4975,
+        "profile_path": null,
+        "credit_id": "67db30409f358f4a137f82b2",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/pIe3Gn1NcE0fQJZuNn31CCSxR2Y.jpg",
+        "id": 1906,
+        "name": "Shameless",
+        "original_name": "Shameless",
+        "overview": "The story of a young group of siblings pretty much abandoned by their parents, surviving by their wits - and humor - on a rough Manchester council estate. Whilst they won't admit it, they need help and find it in Steve, a young middle class lad who falls for Fiona, the oldest sibling, and increasingly finds himself drawn to this unconventional and unique family. Anarchic family life seen through the eyes of an exceptionally bright fifteen year old, who struggles to come of age in the context of his belligerent father, closeted brother, psychotic sister and internet porn star neighbors.",
+        "poster_path": "/kE30UWJvJZ03KIIJMmL6m6YoG0l.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 36.1603,
+        "first_air_date": "2004-01-13",
+        "softcore": false,
+        "vote_average": 7.522,
+        "vote_count": 158,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/d87JXX3DLkRJMfm5StCmmnmhHuX.jpg",
+        "id": 76331,
+        "name": "Succession",
+        "original_name": "Succession",
+        "overview": "تدور الأحداث حول عائلة تمتلك شركة إعلامية كبيرة جدًا، لكن هذه العائلة بها الكثير من الاختلال بين أفرادها، حتى أنهم لديهم صراعات داخلية، بسبب طموحات البعض الخاصة وبسبب الميول الغريبة لدى البعض الآخر، وهو ما يمكن القول معه أنها عائلة إعلامية مختلة.",
+        "poster_path": "/mqPC7xVZGdeLh8v0huzxD0c9r0S.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 40.2403,
+        "first_air_date": "2018-06-03",
+        "softcore": false,
+        "vote_average": 8.3,
+        "vote_count": 1756,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bJfLBmMBVitfEqrSi29CNoBVz0z.jpg",
+        "id": 64043,
+        "name": "Casual",
+        "original_name": "Casual",
+        "overview": "A dysfunctional family tries to help each other navigate the modern dating scene. Recent divorcee Tara and her bachelor brother coach each other through the crazy world of dating (on-line and off), while living under the same roof again for the second time and raising her teenage daughter.",
+        "poster_path": "/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 8.6269,
+        "first_air_date": "2015-10-07",
+        "softcore": false,
+        "vote_average": 6.571,
+        "vote_count": 105,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/78s4wDyITtvjMRHHn2Rk7IPCtcg.jpg",
+        "id": 61986,
+        "name": "Bloodline",
+        "original_name": "Bloodline",
+        "overview": "A dramatic thriller that explores the demons lurking beneath the surface of a contemporary American family. The Rayburns are hard-working pillars of their Florida Keys community. But when the black sheep son comes home for the 45th anniversary of his parents' hotel, he threatens to expose the Rayburns' dark secrets and shameful past, pushing his siblings to the limits of family loyalty.",
+        "poster_path": "/uEaqgEjAShqrziUia4XBzvXXGXP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 15.0678,
+        "first_air_date": "2015-03-20",
+        "softcore": false,
+        "vote_average": 7.114,
+        "vote_count": 415,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
+        "id": 136315,
+        "name": "ذا بير",
+        "original_name": "The Bear",
+        "overview": "يكافح طاهٍ شاب لتحويل متجر شطائر جنباً إلى جنب مع طاقم مطبخ صعب المراس.",
+        "poster_path": "/hih5aTwgmHhMuyVSbyaPBnBJftt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 43.6954,
+        "first_air_date": "2022-06-23",
+        "softcore": false,
+        "vote_average": 8.149,
+        "vote_count": 1914,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sWXkoW0PNahpZSYWIbzcxdeBsxJ.jpg",
+        "id": 65454,
+        "name": "Horace and Pete",
+        "original_name": "Horace and Pete",
+        "overview": "The owners of a dive bar in Brooklyn, Horace and Pete, along with bar regulars share their experiences and lives with each other while drinking or working at the bar.",
+        "poster_path": "/vMLW6dhKcAzTweIuxl1iL0Ogbda.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 5.0464,
+        "first_air_date": "2016-01-30",
+        "softcore": false,
+        "vote_average": 7.647,
+        "vote_count": 163,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2pOmuq4nkWZzwZbOfZq7CyyQAsM.jpg",
+        "id": 2691,
+        "name": "رجلان ونصف",
+        "original_name": "Two and a Half Men",
+        "overview": "تدور أحداث المسلسل الكوميدى حول قصة الكاتب تشارلي الذي يحب اللهو، إلا أن حياته تتعقد بعد أن يقوم أخوه المقرب لقلبه آلان بالانفصال عن زوجته، وينتقل للعيش مع تشارلي هو وابنه جاك في منزله المطل على الشاطئ، لتتوالى الأحداث وتقع العديد من المشاكل الطريفة بين أفراد الأسرة.",
+        "poster_path": "/xgfjxyV3g1S68opzuvG6G87muDp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 78.9509,
+        "first_air_date": "2003-09-22",
+        "softcore": false,
+        "vote_average": 7.451,
+        "vote_count": 3771,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6k6vAUa0Fm73HB0QBOJbFGTgPq5.jpg",
+        "id": 186,
+        "name": "Weeds",
+        "original_name": "Weeds",
+        "overview": "After the unexpected death of her husband, a suburban mom resorts to selling weed to support her family.",
+        "poster_path": "/gKUsBTa5b0GY7U4iWBseeBalfjO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          18
+        ],
+        "popularity": 37.9218,
+        "first_air_date": "2005-08-07",
+        "softcore": false,
+        "vote_average": 7.477,
+        "vote_count": 1029,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/d6CZ4zCUSuQ3Lvy3cSQNNbKjvbQ.jpg",
+        "id": 7097,
+        "name": "United States of Tara",
+        "original_name": "United States of Tara",
+        "overview": "Tara's multiple personalities include \"T\" the wild-child teenager, \"Buck\" the rough and tumble biker dude, and \"Alice\" the type-A homemaker. But with a family that loves her just the way she is, Tara never gives up hope that someday she can just be herself.",
+        "poster_path": "/newGv7rjbWdBkFySAg3d2g94mD4.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 10.0765,
+        "first_air_date": "2009-01-18",
+        "softcore": false,
+        "vote_average": 7.098,
+        "vote_count": 173,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qzi8rTS2KpkrYNWxC1tt7xkRlTY.jpg",
+        "id": 156933,
+        "name": "Presumed Innocent",
+        "original_name": "Presumed Innocent",
+        "overview": "جريمة قتل مريعة تقلب مكتب النائب العام رأساً على عقب عندما يُتهم أحد أعضاءه بارتكاب الجريمة، ويبدأ المتهم بالمعاناة ليحافظ على شمل عائلته.",
+        "poster_path": "/7MXg0BxuSRWz2yKc03M40du2mrc.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 27.3483,
+        "first_air_date": "2024-06-11",
+        "softcore": false,
+        "vote_average": 7.84,
+        "vote_count": 674,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u2K2hyUSds4KzOegsC8Eon9oNf2.jpg",
+        "id": 2710,
+        "name": "فيلادلفيا دائِماً مُشمِسة",
+        "original_name": "It's Always Sunny in Philadelphia",
+        "overview": "يحاول أربعة أصدقاء أنانيين يديرون حانة أيرلندية في فيلادلفيا شق طريقهم عبر عالم العمل والعلاقات للبالغين. ولسوء الحظ، فإن وجهات نظرهم المشوهة وأحكامهم الغريبه غالبًا ما تقودهم إلى المشاكل، مما يخلق عددًا لا يحصى من المواقف المربكة التي عادةً ما تزداد سوءًا قبل أن تتحسن.",
+        "poster_path": "/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 62.5659,
+        "first_air_date": "2005-08-04",
+        "softcore": false,
+        "vote_average": 8.262,
+        "vote_count": 1399,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eQJwfyMqSra10ck8HOoiCrbQR32.jpg",
+        "id": 66025,
+        "name": "مملكة الحيوان",
+        "original_name": "Animal Kingdom",
+        "overview": "(جوشوا كودي) مراهق في السابعة عشرة من عمره، ينتقل مع أقاربه إلى مدينتهم الملطة على الشاطيء في (كاليفورنيا الجنوبية) بعد وفاة والدته إثر جرعة هيروين زائدة.",
+        "poster_path": "/rzvdKrnSRKPFI0pgqMQknDPpRC9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 49.4416,
+        "first_air_date": "2016-06-14",
+        "softcore": false,
+        "vote_average": 7.784,
+        "vote_count": 565,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+        "id": 153312,
+        "name": "ملك تولسا",
+        "original_name": "Tulsa King",
+        "overview": "في إطار من الجريمة والدراما، يتناول العمل قصة زعيم عصابات إيطالي يحاول إعادة تأسيس المافيا الإيطالية من جديد، ذلك في مدينة كانساس سيتي بولاية ميسوري.",
+        "poster_path": "/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 82.2627,
+        "first_air_date": "2022-11-13",
+        "softcore": false,
+        "vote_average": 8.306,
+        "vote_count": 2770,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xl86ANt6d95CAzMXeu3CBBdDSS9.jpg",
+        "id": 2933,
+        "name": "The Riches",
+        "original_name": "The Riches",
+        "overview": "A family of crooks assume the identity of an upper-middle-class suburban clan in the Deep South.",
+        "poster_path": "/c8eyL7xBTVZeeqb9oDEADqHlNc2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 6.7351,
+        "first_air_date": "2007-03-12",
+        "softcore": false,
+        "vote_average": 6.9,
+        "vote_count": 60,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aAVRi7XqkJZE6uUEn2Enbhj8rPx.jpg",
+        "id": 199318,
+        "name": "Bad Sisters",
+        "original_name": "Bad Sisters",
+        "overview": "لطالما اعتنت شقيقات آل \"غارفي\" المقربات جداً ببعضهنّ البعض. لكن حين يموت زوج الأخ الشرير والخسيس الذي تمنّين موته، تنقلب حياتهنّ رأساً على عقب وتُمتحن الروابط التي تجمعهنّ كما لم يحصل من قبل.",
+        "poster_path": "/z63D1Y8udrrFOhLFCT9YElcTr0w.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 21.9644,
+        "first_air_date": "2022-08-19",
+        "softcore": false,
+        "vote_average": 7.477,
+        "vote_count": 298,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lPmUu3xkoksz3xsa1feIUoOBZrg.jpg",
+        "id": 117581,
+        "name": "ماما وصندوقها الأسود",
+        "original_name": "Ginny & Georgia",
+        "overview": "تنتقل \"جورجيا\" النابضة بالحيوية مع ولديها \"أوستن\" و\"جيني\" إلى الشمال بحثًا عن بداية جديدة، لكنّهم يكتشفون أنّ الطريق إليها قد يكون وعرًا.",
+        "poster_path": "/vOwunzW4dx3n0J5mH40n9jTRSwY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 23.3148,
+        "first_air_date": "2021-02-24",
+        "softcore": false,
+        "vote_average": 8.012,
+        "vote_count": 1824,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/frNEERYvgDAThEcCR5FKzggktsR.jpg",
+        "id": 67136,
+        "name": "This Is Us",
+        "original_name": "This Is Us",
+        "overview": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect.",
+        "poster_path": "/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 57.7302,
+        "first_air_date": "2016-09-20",
+        "softcore": false,
+        "vote_average": 8.228,
+        "vote_count": 1664,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jco0oPYZN7bUDZ0xAmstotXI1gB.jpg",
+        "id": 62320,
+        "name": "Grace and Frankie",
+        "original_name": "Grace and Frankie",
+        "overview": "Elegant, proper Grace and freewheeling, eccentric Frankie are a pair of frenemies whose lives are turned upside down - and permanently intertwined - when their husbands leave them for each other. Together, they must face starting over in their 70s in a 21st century world.",
+        "poster_path": "/3aD3PaSeF8eHJFLliLlWYw4EcPt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 37.3305,
+        "first_air_date": "2015-05-08",
+        "softcore": false,
+        "vote_average": 7.727,
+        "vote_count": 383,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9CunesiFEN5FOOLWhhhl1UVWUYZ.jpg",
+        "id": 4731,
+        "name": "Grounded for Life",
+        "original_name": "Grounded for Life",
+        "overview": "Right out of high school, Sean Finnerty got his girlfriend Claudia pregnant. Now she’s his wife, and at just 32, he’s somehow found himself with 14-year-old daughter Lily, two little boys, and a constant struggle between his need to be responsible and his desperate desire to be irresponsible. His judgmental father Walt and devil-may-care brother Eddie are no help at all. When they all get together, stories always start to fly. Of course, Sean’s family will never let him finish a story; they interrupt, they debate, they derail, they defend themselves; just like any good family would.",
+        "poster_path": "/sbcNGnpZsvZUuyHlGZ5LBbaEH6m.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35
+        ],
+        "popularity": 21.4938,
+        "first_air_date": "2001-01-10",
+        "softcore": false,
+        "vote_average": 6.764,
+        "vote_count": 108,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5NOQNDMVXe8t5wIuY6r6b6iUXcc.jpg",
+        "id": 1274,
+        "name": "على عمق ستة أقدام",
+        "original_name": "Six Feet Under",
+        "overview": "\"حين يكون الموت هو مهنتك... فماذا تكون حياتك؟\"\n\nبالنسبة لعائلة فيشر، فإن العالم خارج صالة الجنازات العائلية لا يقل تعقيدًا عن عالمهم الداخلي—بل إنه غالبًا أكثر تقلبًا وأقل قابلية للتوقع.",
+        "poster_path": "/jVKDRjsDqRfAsNp0xrQLIgQsosX.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 41.4864,
+        "first_air_date": "2001-06-03",
+        "softcore": false,
+        "vote_average": 8.12,
+        "vote_count": 1167,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 52,
+    "total_results": 1026
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 25
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 12
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=AT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 62
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 92
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          }
+        ]
+      },
+      "BF": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 22
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 29
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 80
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 25
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 10
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/dLpf8SgUM19VcFyMrK2KFcsF52i.png",
+            "provider_id": 146,
+            "provider_name": "iciTouTV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 91
+          }
+        ]
+      },
+      "CD": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/9DoQOfCz9S9j4cif3Cqx3ebk3FP.png",
+            "provider_id": 210,
+            "provider_name": "Sky",
+            "display_priority": 8
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 69
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/gzlCSbeTdiLJNxdZuMKNhW8X7cy.png",
+            "provider_id": 1939,
+            "provider_name": "Lepsi TV",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 19
+          },
+          {
+            "logo_path": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png",
+            "provider_id": 2578,
+            "provider_name": "RTL+ Max Amazon Channel",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/hPIVVR7yvR0PrTe7eHR2I5nAFis.png",
+            "provider_id": 1961,
+            "provider_name": "Allente",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 40
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 87
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=FR",
+        "rent": [
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 73
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 85
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 104
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 34
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 71
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 8
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 85
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 87
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=JP",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 25
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 27
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 12
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=LU",
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=LV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 27
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MW": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 70
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 14
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 75
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+            "provider_id": 578,
+            "provider_name": "Strim",
+            "display_priority": 28
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 41
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=PG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 34
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 30
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 29
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=RU",
+        "ads": [
+          {
+            "logo_path": "/7NQwqT6viQ4sfYNsWYDLad8q7yS.png",
+            "provider_id": 577,
+            "provider_name": "TvIgle",
+            "display_priority": 19
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/oroIyNGCu4ltli1lI4m7em1IYE5.png",
+            "provider_id": 117,
+            "provider_name": "Kinopoisk",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 44
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 65
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 29
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 11
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 13
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 151
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "VA": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=VA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tTOxnft2N2JwdodCUFNfoD0PrjS.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 206689,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "사랑한다고 말해줘",
+        "overview": "تدور احداث المسلسل حول يدفعه قنوطه من إعاقته السمعية إلى التقوقع طاويًا جناحيه على نفسه ومككمًا بهما فمه آثرًا الرسم كأصدق مرآة لمشاعره، يلتقي بفتاة تجعله يُطلق جناحيه فيما وراء الذات ليُعيد استكشاف نفسه من جديد ويتعظ أن الكلمة مِرسال القلوب.",
+        "popularity": 6.9864,
+        "poster_path": "/xUg6rgSszdYlJYjg4PTe0DbP7Tb.jpg",
+        "first_air_date": "2023-11-27",
+        "softcore": false,
+        "name": "أخبرني أنك تحبني",
+        "vote_average": 7.909,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/htCFjaC5w7NY3wnMTPuPMsoM5WH.jpg",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "id": 431,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "One on One",
+        "overview": "",
+        "popularity": 16.7393,
+        "poster_path": "/wrPeock4PW1VV2bw8k1TuGet8hX.jpg",
+        "first_air_date": "2001-09-03",
+        "softcore": false,
+        "name": "One on One",
+        "vote_average": 7.947,
+        "vote_count": 38
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dyJVcCJnONxLlFpTVwUE2gA12FX.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 433,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Terminator: The Sarah Connor Chronicles",
+        "overview": "",
+        "popularity": 25.8692,
+        "poster_path": "/vkMRWrVrNeX42ruRV5Q15mlBACG.jpg",
+        "first_air_date": "2008-01-13",
+        "softcore": false,
+        "name": "Terminator: The Sarah Connor Chronicles",
+        "vote_average": 7.471,
+        "vote_count": 1031
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3m38yFnRHcJH8E8cIurV6tLGIt3.jpg",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "id": 91827,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ミストレス～女たちの秘密～",
+        "overview": "",
+        "popularity": 2.7343,
+        "poster_path": "/pUSCs1cEoGsUClxqnH5o0kJw0LZ.jpg",
+        "first_air_date": "2019-04-19",
+        "softcore": false,
+        "name": "ミストレス～女たちの秘密～",
+        "vote_average": 3.1,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3hCgghAAKralrDmiFtyZvsHC9aP.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 402,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Still Standing",
+        "overview": "",
+        "popularity": 12.6832,
+        "poster_path": "/iMZNlCtkdJx9q0Z04thVwSQ6Y9t.jpg",
+        "first_air_date": "2002-09-30",
+        "softcore": false,
+        "name": "Still Standing",
+        "vote_average": 6.823,
+        "vote_count": 65
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tMZZ8W30TtGRcydsxrtXcL3j7YT.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 341,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Brothers and Sisters",
+        "overview": "",
+        "popularity": 38.2785,
+        "poster_path": "/u49srJvTHKlgdakN4SQzFysfBlu.jpg",
+        "first_air_date": "2006-09-24",
+        "softcore": false,
+        "name": "Brothers and Sisters",
+        "vote_average": 7.1,
+        "vote_count": 201
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 58841,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Chicago P.D.",
+        "overview": "تدور أحداث المسلسل عن (مقاطعة 21) التي تجاور قسم شرطة (شيكاجو)، وهى المقاطعة التي تتألف من مجموعتين مختلفتين، الأولى منهما تتمثل في رجال شرطة بزيهم الرسمي، والثانية هي وحدة الاستخبارات.",
+        "popularity": 111.7367,
+        "poster_path": "/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+        "first_air_date": "2014-01-08",
+        "softcore": false,
+        "name": "شيكاغو بي.دي.",
+        "vote_average": 8.421,
+        "vote_count": 2629
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sgrrUrXTyE2rFyWCctqOoTX6KEl.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 58851,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Sean Saves the World",
+        "overview": "",
+        "popularity": 3.8384,
+        "poster_path": "/4VqWPZIvUE0vXts1xiDRjrPt69l.jpg",
+        "first_air_date": "2013-10-03",
+        "softcore": false,
+        "name": "Sean Saves the World",
+        "vote_average": 5.765,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10766,
+          35
+        ],
+        "id": 58854,
+        "origin_country": [
+          "CL"
+        ],
+        "original_language": "es",
+        "original_name": "Dos por uno",
+        "overview": "",
+        "popularity": 5.0862,
+        "poster_path": "/rO6Y4L7P7KcKKTITs9dBXLstUeV.jpg",
+        "first_air_date": "2013-03-11",
+        "softcore": false,
+        "name": "Dos por uno",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bffs3LApuDNAzGp6XKwOFI8e6dt.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 527,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Joanie Loves Chachi",
+        "overview": "",
+        "popularity": 2.6808,
+        "poster_path": "/kPJGFJJ6ID3vPo77nXJeZr33y9Y.jpg",
+        "first_air_date": "1982-03-23",
+        "softcore": false,
+        "name": "Joanie Loves Chachi",
+        "vote_average": 5.1,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r744TCUjCQBYxXOmFrgSZ1O7jRf.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 124643,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "Family Law",
+        "overview": "",
+        "popularity": 13.6379,
+        "poster_path": "/amxRi4RUIGuV0qaKiJPJpROruYR.jpg",
+        "first_air_date": "2021-09-16",
+        "softcore": false,
+        "name": "Family Law",
+        "vote_average": 7.231,
+        "vote_count": 39
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zAYP32L0uBWx136DzKURvpdTVB1.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 28727,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Angel Street",
+        "overview": "",
+        "popularity": 4.0426,
+        "poster_path": "/fKSHrrhwUuWEcUyfu1bGrlAiI2i.jpg",
+        "first_air_date": "1992-09-15",
+        "softcore": false,
+        "name": "Angel Street",
+        "vote_average": 7,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pv8m2DVZewCU6BIC2oqPiZFgep2.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 610,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Mr. Show with Bob and David",
+        "overview": "",
+        "popularity": 13.1861,
+        "poster_path": "/rNPF7Zad87aXa7bQt4W4AYmnwL4.jpg",
+        "first_air_date": "1995-11-03",
+        "softcore": false,
+        "name": "Mr. Show with Bob and David",
+        "vote_average": 7.479,
+        "vote_count": 95
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vCJ87ggLSrsoVo0Ow8dJvui0aa7.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 611,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The New Odd Couple",
+        "overview": "",
+        "popularity": 3.264,
+        "poster_path": "/avdEjtIs3DDkwD987fbUPpX9qGh.jpg",
+        "first_air_date": "1982-10-29",
+        "softcore": false,
+        "name": "The New Odd Couple",
+        "vote_average": 5.75,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2PtQyFLTdpzr7MkxKCTBN5dmPpA.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 619,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Half & Half",
+        "overview": "",
+        "popularity": 11.7812,
+        "poster_path": "/8TVku3ieyStr4mJihUZal2gay9I.jpg",
+        "first_air_date": "2002-09-23",
+        "softcore": false,
+        "name": "Half & Half",
+        "vote_average": 8.269,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7MNHo538VQQUqRWthYP1XWZovnL.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 625,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Black Donnellys",
+        "overview": "",
+        "popularity": 5.5404,
+        "poster_path": "/hRKjeP8laTHS9q5cJA046DJa5kA.jpg",
+        "first_air_date": "2007-02-26",
+        "softcore": false,
+        "name": "The Black Donnellys",
+        "vote_average": 7.644,
+        "vote_count": 80
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9MBoU9j4mUNChkzqMBsnWL2wZI.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 124861,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "เสียดาย",
+        "overview": "",
+        "popularity": 4.1816,
+        "poster_path": "/5tLAs2Rvn4zAqF2YH11zkbcnVjz.jpg",
+        "first_air_date": "2020-12-04",
+        "softcore": false,
+        "name": "เสียดาย",
+        "vote_average": 6.5,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8AsHRySMWmlh5bIePNdBetcXB6u.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 124888,
+        "origin_country": [
+          "FR"
+        ],
+        "original_language": "fr",
+        "original_name": "Luther",
+        "overview": "",
+        "popularity": 2.867,
+        "poster_path": "/aZVIAFJgu6X0t3p6qiiDWg1RlCM.jpg",
+        "first_air_date": "2021-05-27",
+        "softcore": false,
+        "name": "Luther",
+        "vote_average": 6.8,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/izMS1kNbfZ4jyQrpA3mMunRuCc7.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 92045,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Baker and the Beauty",
+        "overview": "تدور الأحداث في “ميامي” عن خبّاز بسيط يعمل في مخبز لعائلته، تقوده الصدفة أثناء انفصاله عن حبيبته إلى التعرف على نجمة وعارضة أزياء مشهورة.",
+        "popularity": 5.0163,
+        "poster_path": "/i0AB2fH7KZNlrh9SBNY3a5ooD0Q.jpg",
+        "first_air_date": "2020-04-13",
+        "softcore": false,
+        "name": "The Baker and the Beauty",
+        "vote_average": 7.343,
+        "vote_count": 67
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pub9SbIQlKcdrcasZarZR405gOb.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10759,
+          10765
+        ],
+        "id": 92090,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "無限の住人-IMMORTAL-",
+        "overview": "خلال فترة إيدو في اليابان، عاش رجل قتل وأزهق مئات الأرواح اسمه مانجي، أصيب مانجي بلعنة في جسده، لعنة تجعله بجسد يتعافى من معظم الأضرار، ولكن رغم تعافي جسده إلا أنه يشعر بكل ألم كل مرة يتأذى فيها، يقابل مانجي الفتاة رين التي تحاول الانتقام لوالديها من جماعة سيافين يدعون أنفسهم إيتو ريو.",
+        "popularity": 10.4164,
+        "poster_path": "/dx8PMM2cQSe4dmzLtj1sBkAIYHw.jpg",
+        "first_air_date": "2019-10-10",
+        "softcore": false,
+        "name": "قاطن الأبدية: الخالد",
+        "vote_average": 7.142,
+        "vote_count": 116
+      }
+    ],
+    "total_pages": 3813,
+    "total_results": 76258
+  }
+}

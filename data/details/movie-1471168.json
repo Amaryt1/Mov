@@ -1,0 +1,3027 @@
+{
+  "adult": false,
+  "backdrop_path": "/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 36,
+      "name": "تاريخ"
+    }
+  ],
+  "homepage": "",
+  "id": 1471168,
+  "imdb_id": "tt43706402",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Barreda",
+  "overview": "",
+  "popularity": 45.5953,
+  "poster_path": "/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+  "production_companies": [
+    {
+      "id": 243497,
+      "logo_path": "/9Hi0xc3LIDXTmZQXriNdh9aDpLK.png",
+      "name": "About Entertainment",
+      "origin_country": "AR"
+    },
+    {
+      "id": 219469,
+      "logo_path": "/16Z9JyKlyfQTdKxfGihK00oCLpQ.png",
+      "name": "Infinity Hill",
+      "origin_country": "AR"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2026-08-28",
+  "revenue": 0,
+  "runtime": 105,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Barreda",
+  "video": false,
+  "vote_average": 7.262,
+  "vote_count": 61,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 225408,
+        "known_for_department": "Acting",
+        "name": "Luis Machín",
+        "original_name": "Luis Machín",
+        "popularity": 0.881,
+        "profile_path": "/bmYhohKi5WDgtSri6xnGCo8JRRi.jpg",
+        "cast_id": 2,
+        "character": "Ricardo Barreda",
+        "credit_id": "680d06308077d2580137b348",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 562364,
+        "known_for_department": "Acting",
+        "name": "Carla Peterson",
+        "original_name": "Carla Peterson",
+        "popularity": 0.7302,
+        "profile_path": "/wzu3UNvxIlk1i9uWjcFi8ANrAyl.jpg",
+        "cast_id": 3,
+        "character": "Gladys McDonald",
+        "credit_id": "680d0637d80fdf82a7eab51f",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 18499,
+        "known_for_department": "Acting",
+        "name": "Mercedes Morán",
+        "original_name": "Mercedes Morán",
+        "popularity": 0.9875,
+        "profile_path": "/2r5QQeumzXWoSma6RQrLjiNhHdu.jpg",
+        "cast_id": 4,
+        "character": "Elena Arreche",
+        "credit_id": "680d063a10d1e453d2eaba52",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1061040,
+        "known_for_department": "Acting",
+        "name": "Maite Lanata",
+        "original_name": "Maite Lanata",
+        "popularity": 0.7239,
+        "profile_path": "/aQa21YwxwgnHQhaedoILCNG6iIO.jpg",
+        "cast_id": 6,
+        "character": "Cecilia Barreda",
+        "credit_id": "6a6e25f9303786bafc221041",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2634028,
+        "known_for_department": "Acting",
+        "name": "Margarita Páez",
+        "original_name": "Margarita Páez",
+        "popularity": 0.6753,
+        "profile_path": "/dvNnNrRoPkpHkEzwTwLNwxOjrFY.jpg",
+        "cast_id": 7,
+        "character": "Adriana Barreda",
+        "credit_id": "6a6e261677d4d6498d246d10",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1500062,
+        "known_for_department": "Acting",
+        "name": "Marcelo Subiotto",
+        "original_name": "Marcelo Subiotto",
+        "popularity": 1.5553,
+        "profile_path": "/zOkp6fSyduND420qmlYnhSJw3n4.jpg",
+        "cast_id": 8,
+        "character": "Dr. Caceres",
+        "credit_id": "6a6e2638f2131ac5bb543f83",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1459649,
+        "known_for_department": "Acting",
+        "name": "Paola Barrientos",
+        "original_name": "Paola Barrientos",
+        "popularity": 0.6276,
+        "profile_path": "/1YTyIGrVqTsovI7fUFOVYj3UvVb.jpg",
+        "cast_id": 9,
+        "character": "Pirucha",
+        "credit_id": "6a6e265022624c72259b1d60",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 559510,
+        "known_for_department": "Acting",
+        "name": "Alberto Ajaka",
+        "original_name": "Alberto Ajaka",
+        "popularity": 1.0827,
+        "profile_path": "/9oXv8WaA1aOptEfOZgvruaPCfr9.jpg",
+        "cast_id": 10,
+        "character": "Fiscal Roitman",
+        "credit_id": "6a6e265f4727c12f84e97802",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3326346,
+        "known_for_department": "Acting",
+        "name": "Franco Rilla",
+        "original_name": "Franco Rilla",
+        "popularity": 0.419,
+        "profile_path": "/ytiNUYdjyEHoRIUmLLYr52knqwl.jpg",
+        "cast_id": 43,
+        "character": "Gastón",
+        "credit_id": "6a94dc072bb6abc1f10e8ee7",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1894409,
+        "known_for_department": "Acting",
+        "name": "Christian Font",
+        "original_name": "Christian Font",
+        "popularity": 0.3996,
+        "profile_path": "/fxR8nTA0rGBVFU6SW3hTl7sP8Oa.jpg",
+        "cast_id": 44,
+        "character": "Periodista tribunales 2",
+        "credit_id": "6a9a6bbe53bed38ae06e6a7c",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4060069,
+        "known_for_department": "Acting",
+        "name": "Federico Formento",
+        "original_name": "Federico Formento",
+        "popularity": 0.4993,
+        "profile_path": null,
+        "cast_id": 45,
+        "character": "Martín",
+        "credit_id": "6a9a70885c149295786e6a83",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2749606,
+        "known_for_department": "Acting",
+        "name": "Natalia Chiarelli",
+        "original_name": "Natalia Chiarelli",
+        "popularity": 0.6816,
+        "profile_path": "/kvUyeSbMCXIg8Ny7Mv1rn7XUOkK.jpg",
+        "cast_id": 46,
+        "character": "Dora",
+        "credit_id": "6a9a7766fddb6351de40ca17",
+        "order": 11
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3729192,
+        "known_for_department": "Directing",
+        "name": "Daniela Goggi",
+        "original_name": "Daniela Goggi",
+        "popularity": 0.6261,
+        "profile_path": "/5X1a95b0wgQjHvoXCOVbhVMpJR7.jpg",
+        "credit_id": "680d05f58077d2580137b319",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4251520,
+        "known_for_department": "Acting",
+        "name": "Juan Cavoti Caterbona",
+        "original_name": "Juan Cavoti Caterbona",
+        "popularity": 0.3122,
+        "profile_path": null,
+        "credit_id": "6a6e2efd6f5aaaaa38e59355",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3332040,
+        "known_for_department": "Art",
+        "name": "Constanza Giordano",
+        "original_name": "Constanza Giordano",
+        "popularity": 0.2789,
+        "profile_path": null,
+        "credit_id": "6a6f88ae4d9d2c75d578850c",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4457689,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Natalia Toscani",
+        "original_name": "Natalia Toscani",
+        "popularity": 0.2876,
+        "profile_path": null,
+        "credit_id": "6a6f89023539a38b8b64e23e",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4457675,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jesica Montero",
+        "original_name": "Jesica Montero",
+        "popularity": 0.2783,
+        "profile_path": null,
+        "credit_id": "6a6f893ec1553632ac64e248",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4457678,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Brian Paván",
+        "original_name": "Brian Paván",
+        "popularity": 0.3036,
+        "profile_path": null,
+        "credit_id": "6a6f89561069a11c9d788584",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1380962,
+        "known_for_department": "Editing",
+        "name": "Andrea Kleinman",
+        "original_name": "Andrea Kleinman",
+        "popularity": 0.5259,
+        "profile_path": null,
+        "credit_id": "6a6f89788cad6d5727331b46",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5825459,
+        "known_for_department": "Art",
+        "name": "Julián Romera",
+        "original_name": "Julián Romera",
+        "popularity": 0.437,
+        "profile_path": null,
+        "credit_id": "6a6f89fcf6df0f82855a3520",
+        "department": "Production",
+        "job": "Production Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1464528,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Alejandra Rosasco",
+        "original_name": "Alejandra Rosasco",
+        "popularity": 0.4069,
+        "profile_path": null,
+        "credit_id": "6a6f8a50dcc9a19bc064e298",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4095691,
+        "known_for_department": "Directing",
+        "name": "Milagros Hormazábal",
+        "original_name": "Milagros Hormazábal",
+        "popularity": 0.3642,
+        "profile_path": null,
+        "credit_id": "6a6f8acbbd508f2e6c6ffe48",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2305835,
+        "known_for_department": "Directing",
+        "name": "Claudia Gambaro",
+        "original_name": "Claudia Gambaro",
+        "popularity": 0.5253,
+        "profile_path": null,
+        "credit_id": "6a6f8aef54a03eb0435a353e",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3994116,
+        "known_for_department": "Lighting",
+        "name": "David Sanguinetti",
+        "original_name": "David Sanguinetti",
+        "popularity": 0.3279,
+        "profile_path": null,
+        "credit_id": "6a6f8b4b079ab4abf46ffe2b",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2483833,
+        "known_for_department": "Editing",
+        "name": "Jorge Russo",
+        "original_name": "Jorge Russo",
+        "popularity": 0.5436,
+        "profile_path": null,
+        "credit_id": "6a6f8b68d08ecc37f1b8f342",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2456719,
+        "known_for_department": "Editing",
+        "name": "Iair Michel Attías",
+        "original_name": "Iair Michel Attías",
+        "popularity": 0.3341,
+        "profile_path": null,
+        "credit_id": "6a6f8baaf228bd6b6a64e294",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4167747,
+        "known_for_department": "Crew",
+        "name": "Lorena Osorio",
+        "original_name": "Lorena Osorio",
+        "popularity": 0.2966,
+        "profile_path": null,
+        "credit_id": "6a6f8bf2852800f74b64e27d",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3729192,
+        "known_for_department": "Directing",
+        "name": "Daniela Goggi",
+        "original_name": "Daniela Goggi",
+        "popularity": 0.6261,
+        "profile_path": "/5X1a95b0wgQjHvoXCOVbhVMpJR7.jpg",
+        "credit_id": "6a6f8c2c37662a0ab0608944",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5128326,
+        "known_for_department": "Writing",
+        "name": "Josefina Licitra",
+        "original_name": "Josefina Licitra",
+        "popularity": 0.6034,
+        "profile_path": null,
+        "credit_id": "6a6f8c454d9d2c75d5788565",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4915784,
+        "known_for_department": "Writing",
+        "name": "Tamara Talesnik",
+        "original_name": "Tamara Talesnik",
+        "popularity": 0.4156,
+        "profile_path": null,
+        "credit_id": "6a6f8c5e686691afd87450da",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6386008,
+        "known_for_department": "Writing",
+        "name": "Donna Tefa",
+        "original_name": "Donna Tefa",
+        "popularity": 0.6956,
+        "profile_path": null,
+        "credit_id": "6a6f8ca6bc183b1b5b5d96a7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4408971,
+        "known_for_department": "Sound",
+        "name": "Agustin Chappe",
+        "original_name": "Agustin Chappe",
+        "popularity": 0.3172,
+        "profile_path": null,
+        "credit_id": "6a6f8d3415863aa43e28e5f1",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583168,
+        "known_for_department": "Sound",
+        "name": "Leandro de Loredo",
+        "original_name": "Leandro de Loredo",
+        "popularity": 0.3475,
+        "profile_path": "/xheje56NgewXAZrSDaDFUZmcf0o.jpg",
+        "credit_id": "6a6f8deaa0517b53ab3c672e",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6386015,
+        "known_for_department": "Sound",
+        "name": "Joaquin del campo",
+        "original_name": "Joaquin del campo",
+        "popularity": 0.3365,
+        "profile_path": null,
+        "credit_id": "6a6f8e1865d5b865ef378300",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4000728,
+        "known_for_department": "Sound",
+        "name": "Facundo de Castro",
+        "original_name": "Facundo de Castro",
+        "popularity": 0.6301,
+        "profile_path": null,
+        "credit_id": "6a6f8e4da0517b53ab3c6745",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1404937,
+        "known_for_department": "Sound",
+        "name": "Fabián Oliver",
+        "original_name": "Fabián Oliver",
+        "popularity": 0.366,
+        "profile_path": null,
+        "credit_id": "6a6f8e6a9b5caf02c49be2ec",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1622813,
+        "known_for_department": "Crew",
+        "name": "Christian Cottet",
+        "original_name": "Christian Cottet",
+        "popularity": 0.3565,
+        "profile_path": "/sMVamcn4Q99ISQPDlGx3aG83NxG.jpg",
+        "credit_id": "6a6f8f087948ba0fb128e62f",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 54583,
+        "known_for_department": "Sound",
+        "name": "Luciano Supervielle",
+        "original_name": "Luciano Supervielle",
+        "popularity": 0.5102,
+        "profile_path": null,
+        "credit_id": "6a6f8f9c6eb502362c7dabed",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1886231,
+        "known_for_department": "Production",
+        "name": "Gustavo Chantada",
+        "original_name": "Gustavo Chantada",
+        "popularity": 0.3866,
+        "profile_path": null,
+        "credit_id": "6a6f90124ecd3fbc6afc7064",
+        "department": "Production",
+        "job": "Casting Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4457693,
+        "known_for_department": "Art",
+        "name": "Angelo Bonavota",
+        "original_name": "Angelo Bonavota",
+        "popularity": 0.3023,
+        "profile_path": null,
+        "credit_id": "6a6f91dcd4907aceefe3e086",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6386042,
+        "known_for_department": "Production",
+        "name": "Federico ameglio",
+        "original_name": "Federico ameglio",
+        "popularity": 0.2923,
+        "profile_path": null,
+        "credit_id": "6a6f92374dd65a4ddb28e62b",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 661870,
+        "known_for_department": "Writing",
+        "name": "Armando Bo",
+        "original_name": "Armando Bo",
+        "popularity": 0.726,
+        "profile_path": "/tZN02RnMwmQ5Cz6AX9OxVgkT56H.jpg",
+        "credit_id": "6a6f9272fafbb445c5fc6ff1",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1892589,
+        "known_for_department": "Production",
+        "name": "Natacha Cervi",
+        "original_name": "Natacha Cervi",
+        "popularity": 0.302,
+        "profile_path": null,
+        "credit_id": "6a6f92897948ba0fb128e699",
+        "department": "Production",
+        "job": "Producer"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/gh1Rghpf3BIISHSAw9GsObG4TN3.jpg",
+        "id": 714888,
+        "title": "Argentina 1985",
+        "original_title": "Argentina 1985",
+        "overview": "ويروي استراتيجية اثنين من المدعين العامين لتنفيذ المحاكمة للحكم على قادة الديكتاتورية العسكرية الأخيرة في الأرجنتين بارتكاب جرائم ضد الإنسانية.",
+        "poster_path": "/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          36,
+          80
+        ],
+        "popularity": 3.3187,
+        "release_date": "2022-09-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.826,
+        "vote_count": 769
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cdGuUnVxlngUNjfl7APfZLrQiZx.jpg",
+        "id": 514575,
+        "title": "ذكريات زنزانة",
+        "original_title": "La noche de 12 años",
+        "overview": "يكافح \"خوزيه موهيكا\"، رئيس الأوروغواي المستقبلي، وسجينان سياسيان رفيقان له في حركة \"توبامارو\" للنجاة من حبس انفرادي دام 12عامًا تحت التعذيب.",
+        "poster_path": "/k1SEABHjk34flsBQigm9ygMuUM4.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          80,
+          36
+        ],
+        "popularity": 3.998,
+        "release_date": "2018-09-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.339,
+        "vote_count": 311
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jA1vle7V5wCc0HTOErkakX8hqkq.jpg",
+        "id": 136735,
+        "title": "The Snitch Cartel",
+        "original_title": "El cártel de los sapos",
+        "overview": "The real life story of Andres Lopez Lopez aka \"Frecita\" during his years involved with the Colombian Cartel aka \"Cartel Norte del Valle\"",
+        "poster_path": "/8GOf6nwrnaGu6mNv8VdVkD42lzL.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 1.8148,
+        "release_date": "2011-11-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.21,
+        "vote_count": 100
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uRoA67sM5vvCI4cplxhl67BTPly.jpg",
+        "id": 457799,
+        "title": "Extremely Wicked, Shockingly Evil and Vile",
+        "original_title": "Extremely Wicked, Shockingly Evil and Vile",
+        "overview": "A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.",
+        "poster_path": "/a7dVwEBU3vupg3hZQMeyL6ksz0F.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 6.1232,
+        "release_date": "2019-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.997,
+        "vote_count": 3595
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gQYsE1Zu89fbi3yUL4bubxoRjbh.jpg",
+        "id": 18900,
+        "title": "In Cold Blood",
+        "original_title": "In Cold Blood",
+        "overview": "After a botched robbery results in the brutal murder of a rural family, two drifters elude police, in the end coming to terms with their own mortality and the repercussions of their vile atrocity.",
+        "poster_path": "/sPEvsif5Y70mfVvtU39iOyrVJdF.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          36
+        ],
+        "popularity": 3.7261,
+        "release_date": "1967-12-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.521,
+        "vote_count": 449
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lG8T8NMJHfBgxvobVBMy0rFR2OM.jpg",
+        "id": 336845,
+        "title": "اختطاف كليفلاند",
+        "original_title": "Cleveland Abduction",
+        "overview": "تصبح أم عزباء أول ضحية اختطاف لأرييل كاسترو، وتجد نفسها محاصرة في منزله مع امرأتين أخريين لمدة 11 عامًا",
+        "poster_path": "/j2iCc5fjyJvKRQAW7d6XWwDFzmr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10770,
+          18
+        ],
+        "popularity": 3.1614,
+        "release_date": "2015-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.238,
+        "vote_count": 439
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kbOB9DGl8qwhDRcXOmXfmcmadeD.jpg",
+        "id": 645886,
+        "title": "ذنب لا يغتفر",
+        "original_title": "The Unforgivable",
+        "overview": "بعد إطلاق سراحها من السجن ومواجهة مجتمع يرفض مسامحتها، تبحث امرأة أُدينت بارتكاب جريمة قتل عن شقيقتها الصغيرة التي أُجبرت على التخلّي عنها.",
+        "poster_path": "/1b3dNFDuE7i05TJlXrIC571yR01.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 6.9069,
+        "release_date": "2021-11-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.41,
+        "vote_count": 2119
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vVX3rJ9GKlAaWrxZeloPnKpKbIu.jpg",
+        "id": 1020662,
+        "title": "Inside Man",
+        "original_title": "Inside Man",
+        "overview": "Based on true events. A disgraced police detective seeking redemption goes undercover to expose a violent crime syndicate. But as he sinks deeper into the mob, the price for absolution may be higher than he can afford.",
+        "poster_path": "/hIJ5QNIjQ2oILCNLBtbnS0Cmw9z.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "popularity": 3.4444,
+        "release_date": "2023-08-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.086,
+        "vote_count": 82
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wbA13Xns8EtbIubDOPLl7kCYYA4.jpg",
+        "id": 352161,
+        "title": "The Clan",
+        "original_title": "El clan",
+        "overview": "In Argentina, between 1982 and 1985, the Puccios, a well-established family of San Isidro, an upper-class suburb of Buenos Aires, kidnap several people and hold them as hostages for a ransom.",
+        "poster_path": "/m6iPqGhtIAgGRQcfqxSYbRrlK3F.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          36,
+          80
+        ],
+        "popularity": 3.484,
+        "release_date": "2015-08-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.792,
+        "vote_count": 452
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k23FPWl97XKpJ1oTaDyADzxWxs6.jpg",
+        "id": 169917,
+        "title": "نزهة بين شواهد القبور",
+        "original_title": "A Walk Among the Tombstones",
+        "overview": "بعض الناس يخافون من كل الأشياء الخاطئة  يتم تعيين المحقق الخاص ماثيو سكودر من قبل زعيم المخدرات لمعرفة من اختطف وقتل زوجته.",
+        "poster_path": "/euPgyPsiNFp6gOBB7nUFxvN5ZaY.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648,
+          53
+        ],
+        "popularity": 10.1413,
+        "release_date": "2014-09-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.339,
+        "vote_count": 3090
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bd6NQDFpUoqNWWJ8eBBip3SR2kP.jpg",
+        "id": 574376,
+        "title": "Eye for an Eye",
+        "original_title": "Quien a hierro mata",
+        "overview": "Mario, an exemplary man, lives in a village on the Galician coast. In the old people’s home, where he works as a nurse, everyone appreciates him. When the best known narco in the area, Antonio Padín, recently released from prison, enters the residence, Mario tries to make Antonio feel at home.  Now, Padín's two sons, Kike and Toño, are in charge of the family business. The failure of an operation will put Kike in jail and cause them to owe a large debt to a Colombian supplier. Toño will turn to the nurse to try to convince his father to assume the debt. But Mario has his own plans.",
+        "poster_path": "/3WEJAWFusNeZIJDNYxeIPytuZ1g.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "popularity": 2.1716,
+        "release_date": "2019-08-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.661,
+        "vote_count": 339
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iQSXJs6RbTumcwxMjCedDoK99rx.jpg",
+        "id": 1659087,
+        "title": "180 درجة",
+        "original_title": "180",
+        "overview": "يجد أب غاضب نفسه في دوامة مظلمة من الغضب والرغبة في الانتقام، بعدما يتسبب شجار عابر في إدخال ابنه بحالة حرجة.",
+        "poster_path": "/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          80,
+          18,
+          10770
+        ],
+        "popularity": 6.8679,
+        "release_date": "2026-04-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.888,
+        "vote_count": 148
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dmgFJdivUmV4vGLkbPD49KVjlHx.jpg",
+        "id": 395458,
+        "title": "Suburbicon",
+        "original_title": "Suburbicon",
+        "overview": "مرحبا بكم في الحي.\r في بلدة العائلة الهادئة الضاحية خلال 1950s ، ينعكس أفضل وأسوأ ما في البشرية بشكل مضحك من خلال أفعال الناس العاديين على ما يبدو. عندما يتحول غزو المنزل إلى قاتل ، تتحول عائلة مثالية للصور إلى الابتزاز والانتقام والقتل.",
+        "poster_path": "/yqYwf0kPK2SaCWM80msl4nYK6U7.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          80,
+          18,
+          9648
+        ],
+        "popularity": 6.6171,
+        "release_date": "2017-10-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.887,
+        "vote_count": 1844
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ylrd1QeNvaRXSmXwDLqhaGJ6S9K.jpg",
+        "id": 19621,
+        "title": "The Hit",
+        "original_title": "The Hit",
+        "overview": "Ten years after ratting on his old mobster friends in exchange for personal immunity, two hit men drive a hardened criminal to Paris for his execution. However, while on the way, whatever can go wrong, does go wrong.",
+        "poster_path": "/hKNIz9iids9uPyEpmJjLFM96KXI.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "popularity": 3.4652,
+        "release_date": "1984-09-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.455,
+        "vote_count": 242
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Jatq6wjJ4c2YbPkE5e5VzukEI2.jpg",
+        "id": 9573,
+        "title": "Blood Work",
+        "original_title": "Blood Work",
+        "overview": "يعود محقق سابق في مكتب التحقيقات الفيدرالي إلى العمل بعد خضوعه لعملية زراعة قلب، عندما يقوده دليل غير متوقع إلى تعقب قاتل متسلسل غامض.",
+        "poster_path": "/A6wWJkIREagRWFNu3YotID3n9aW.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          80,
+          28,
+          9648,
+          18
+        ],
+        "popularity": 5.2095,
+        "release_date": "2002-08-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.206,
+        "vote_count": 921
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fF0UK2of9dDbBQwqtpKXxhzIgdv.jpg",
+        "id": 188761,
+        "title": "The German Doctor",
+        "original_title": "Wakolda",
+        "overview": "Patagonia, 1960. A German doctor meets an Argentinean family and follows them to a town where the family will be starting a new life. The family welcomes the doctor into their home and entrust their young daughter to his care, not knowing that he is one of the most dangerous criminals in the world.",
+        "poster_path": "/3ZwX3U4eRQBB8ZWTjsxAmnikk1J.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          53,
+          36
+        ],
+        "popularity": 2.085,
+        "release_date": "2013-05-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.45,
+        "vote_count": 171
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v4rCibmdklWP92CZg4DLJggFfYH.jpg",
+        "id": 11349,
+        "title": "Cape Fear",
+        "original_title": "Cape Fear",
+        "overview": "يشهد سام بودن جريمة اغتصاب ارتكبها ماكس كادي، ويشهد ضده. بعد إطلاق سراحه عقب ثماني سنوات قضاها في السجن، يبدأ كادي بملاحقة بودن وعائلته، لكنه يبقى ذكياً بما يكفي لتجنب مخالفة القانون",
+        "poster_path": "/xDqaHjMbnebtB05QWgAR8wW86sb.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          18,
+          80
+        ],
+        "popularity": 5.1398,
+        "release_date": "1962-04-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.454,
+        "vote_count": 654
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kiiOR9TPAMogSCgW2YEkzOIJozS.jpg",
+        "id": 605542,
+        "title": "Lost in the Night",
+        "original_title": "Perdidos en la noche",
+        "overview": "A young man from a small mining town embroils himself with a wealthy family with a dubious past.",
+        "poster_path": "/gB2itwKca8jKk0SAkWV3NUkzmYu.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "popularity": 1.9313,
+        "release_date": "2023-10-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.537,
+        "vote_count": 68
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3UNd9jAE2CaGLAr5MGtzlh178SD.jpg",
+        "id": 9411,
+        "title": "الساقط",
+        "original_title": "Fallen",
+        "overview": "يشهد محقق جرائم القتل جون هوبز تنفيذ حكم الإعدام بحق القاتل المتسلسل إدغار ريس. وبعد فترة وجيزة من التنفيذ، تستأنف جرائم القتل من جديد، على نحو يشبه إلى حد بعيد أسلوب ريس.",
+        "poster_path": "/vIUVqPRNItYKObkLveYtpQ4qCue.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          53,
+          14
+        ],
+        "popularity": 9.5293,
+        "release_date": "1998-01-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.813,
+        "vote_count": 1679
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dnl5cnGrCojp8WqXO4lQwDsJGBY.jpg",
+        "id": 171337,
+        "title": "Siberian Education",
+        "original_title": "Educazione siberiana",
+        "overview": "The story of a gang of children growing up in a community of banished criminals, in a forgotten corner of the former Soviet Union. This community rejects the world outside. The only law it obeys… is its own. Against this backdrop two best friends, Kolyma and Gagarin, gradually become fierce enemies as they find themselves on opposite sides of the strict code of honour of the ‘honest criminal’ brotherhood.",
+        "poster_path": "/pSXguX0FmIvRr7r85uSZW96tLut.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 3.4764,
+        "release_date": "2013-02-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.799,
+        "vote_count": 566
+      }
+    ],
+    "total_pages": 30,
+    "total_results": 587
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/pIvWuzO4Kt0d6xpQr0t2FafN4Ya.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 1013196,
+        "title": "Familiar",
+        "original_language": "es",
+        "original_title": "Familiar",
+        "overview": "",
+        "popularity": 1.4524,
+        "poster_path": "/k5U4mXyVZDpP6Xh1efwncRjvU3v.jpg",
+        "release_date": "2022-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 696,
+        "title": "Manhattan",
+        "original_language": "en",
+        "original_title": "Manhattan",
+        "overview": "",
+        "popularity": 4.1606,
+        "poster_path": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+        "release_date": "1979-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.702,
+        "vote_count": 2669
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o6Ln9kTC4ZrHZNUhWLOwBfUvqXU.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 1653,
+        "title": "Diarios de motocicleta",
+        "original_language": "es",
+        "original_title": "Diarios de motocicleta",
+        "overview": "",
+        "popularity": 4.7648,
+        "poster_path": "/cMns5XbELQgPRsyUaxFeDL6rGa4.jpg",
+        "release_date": "2004-02-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.405,
+        "vote_count": 1463
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e1K6hplMbkJbxBnrp8Rc9jqZx0g.jpg",
+        "genre_ids": [
+          18,
+          36
+        ],
+        "id": 263569,
+        "title": "Felicitas",
+        "original_language": "es",
+        "original_title": "Felicitas",
+        "overview": "",
+        "popularity": 0.999,
+        "poster_path": "/dm1r83gGLKRO6yS8pIZfm6bkTfM.jpg",
+        "release_date": "2009-06-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iveeHEGtkq0dBJZtOcoK650sZ6x.jpg",
+        "genre_ids": [
+          80,
+          18,
+          36
+        ],
+        "id": 1013601,
+        "title": "سادة الظل",
+        "original_language": "en",
+        "original_title": "The Alto Knights",
+        "overview": "يتنافس اثنان من أشهر زعماء الجريمة المنظمة في نيويورك، وهما فرانك كوستيلو و فيتو جينوفيز، للسيطرة على شوارع المدينة. بعد أن كانا صديقين مقربين، تتحول الغيرة الصغيرة وسلسلة من الخيانات إلى صراع دموي سيغير وجه المافيا (وأمريكا) إلى الأبد.",
+        "popularity": 10.6691,
+        "poster_path": "/40CntajJdP4uwD8fcO8dL9LHZma.jpg",
+        "release_date": "2025-03-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.226,
+        "vote_count": 466
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 1013927,
+        "title": "El cielo sobre nosotras",
+        "original_language": "es",
+        "original_title": "El cielo sobre nosotras",
+        "overview": "",
+        "popularity": 0.4218,
+        "poster_path": "/l3L8zat7HJPrWFv7I8kXUiLcJVv.jpg",
+        "release_date": "2020-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dwmSSu5OI8JgEQdJZmsHLi1Lq8H.jpg",
+        "genre_ids": [
+          36
+        ],
+        "id": 446336,
+        "title": "El encuentro de Guayaquil",
+        "original_language": "es",
+        "original_title": "El encuentro de Guayaquil",
+        "overview": "",
+        "popularity": 0.5935,
+        "poster_path": "/rDk218QVbvBDOMoITemMNqgPLsF.jpg",
+        "release_date": "2015-09-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          80,
+          18
+        ],
+        "id": 1201989,
+        "title": "Uspávačka",
+        "original_language": "cs",
+        "original_title": "Uspávačka",
+        "overview": "",
+        "popularity": 0.7901,
+        "poster_path": null,
+        "release_date": "2016-06-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f36YM6M6rpXa76hUmWTZDUOimFe.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 1576013,
+        "title": "Nos vemos a la vuelta",
+        "original_language": "es",
+        "original_title": "Nos vemos a la vuelta",
+        "overview": "",
+        "popularity": 0.9435,
+        "poster_path": "/nOZWqDLUkOQ7AYPZR2ENoXrJ9a1.jpg",
+        "release_date": "2025-11-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+        "genre_ids": [
+          80,
+          9648,
+          53
+        ],
+        "id": 1949,
+        "title": "زودياك",
+        "original_language": "en",
+        "original_title": "Zodiac",
+        "overview": "تدور أحداث الفيلم حول شخص يرتكب العديد من جرائم القتل ويسمي نفسه (زودياك)، وبعد كل جريمة قتل يتصل بالشرطة ليخبرهم بكل التفاصيل حول الجرائم ويقوم بإرسال رسالات مبهمة للصحافة، فينطلق رجل شرطة، وصحفي ورسام كاريكاتور في ملاحقته.",
+        "popularity": 17.6068,
+        "poster_path": "/8WFcLsBdUSnFtxNTVep7OUEtXo9.jpg",
+        "release_date": "2007-03-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.532,
+        "vote_count": 11865
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2oQ9hnAYsoZH61PnjSkuX4Uvd2d.jpg",
+        "genre_ids": [
+          10749,
+          18,
+          53
+        ],
+        "id": 3767,
+        "title": "Gilda",
+        "original_language": "en",
+        "original_title": "Gilda",
+        "overview": "",
+        "popularity": 4.2057,
+        "poster_path": "/46eKPjoWEyNBAQKDoXEcDFBcaUw.jpg",
+        "release_date": "1946-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 674
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5A7yRrvdtZc0lI59ozEtgSoCeJ2.jpg",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 1576381,
+        "title": "A Killer In The Family: The Murder of Becky Watts",
+        "original_language": "en",
+        "original_title": "A Killer In The Family: The Murder of Becky Watts",
+        "overview": "",
+        "popularity": 1.2653,
+        "poster_path": "/ch8vdnv9HCOBDcz232YCqYn1m4m.jpg",
+        "release_date": "2025-11-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          36
+        ],
+        "id": 628979,
+        "title": "Shadow of the Ripper",
+        "original_language": "en",
+        "original_title": "Shadow of the Ripper",
+        "overview": "",
+        "popularity": 1.0022,
+        "poster_path": "/2UJb9FXVPr5TKIsEwDBxwcZmnBm.jpg",
+        "release_date": "1988-09-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10402,
+          36
+        ],
+        "id": 1015819,
+        "title": "Melián 3167",
+        "original_language": "es",
+        "original_title": "Melián 3167",
+        "overview": "",
+        "popularity": 1.8464,
+        "poster_path": "/zsmkACJPxeipA6Dh9WJhdyy8EEm.jpg",
+        "release_date": "2022-08-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Gb3ILjcAozr6fMiwfyTQRz5r9f.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 265626,
+        "title": "Últimos días de la víctima",
+        "original_language": "es",
+        "original_title": "Últimos días de la víctima",
+        "overview": "",
+        "popularity": 0.767,
+        "poster_path": "/ctRPbhNzihncgtrQpOHAwNLkLGi.jpg",
+        "release_date": "1982-04-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.383,
+        "vote_count": 30
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5FxOxwGuZuhmHzt3DkPq75dYXVD.jpg",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 266246,
+        "title": "Out of Mind, Out of Sight",
+        "original_language": "en",
+        "original_title": "Out of Mind, Out of Sight",
+        "overview": "",
+        "popularity": 0.6454,
+        "poster_path": "/clbtAWQplRTZ3v18e3xF7aeMfKP.jpg",
+        "release_date": "2014-04-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.857,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gCEgbKKnjK433C20r8TRk9XZvpP.jpg",
+        "genre_ids": [
+          80,
+          35,
+          18
+        ],
+        "id": 5748,
+        "title": "Good Morning... and Goodbye!",
+        "original_language": "en",
+        "original_title": "Good Morning... and Goodbye!",
+        "overview": "",
+        "popularity": 1.022,
+        "poster_path": "/j5m1VDiF5ljwuRfcVI90Fs20Qjw.jpg",
+        "release_date": "1967-11-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.517,
+        "vote_count": 30
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f09UrGgP1TwEdCdyk0aIqUTb5tj.jpg",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 1199797,
+        "title": "Black Serial Killers:Truth or Fiction",
+        "original_language": "en",
+        "original_title": "Black Serial Killers:Truth or Fiction",
+        "overview": "",
+        "popularity": 0.683,
+        "poster_path": "/xr7SWXJq5MayR0fYgNNIBmodW6o.jpg",
+        "release_date": "2023-04-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80,
+          27,
+          18
+        ],
+        "id": 447199,
+        "title": "The Vizconde Massacre: God, Help Us!",
+        "original_language": "tl",
+        "original_title": "The Vizconde Massacre: God, Help Us!",
+        "overview": "",
+        "popularity": 0.7421,
+        "poster_path": "/gAWtIVowJVAjMwd5jUsAnp8R1Zq.jpg",
+        "release_date": "1993-06-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 9,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5AgxkrTcjgUlz9WUWGsWWyK2swY.jpg",
+        "genre_ids": [
+          18,
+          80,
+          36
+        ],
+        "id": 4195,
+        "title": "Landru",
+        "original_language": "fr",
+        "original_title": "Landru",
+        "overview": "",
+        "popularity": 2.6251,
+        "poster_path": "/aPSq41pYJNMkmOh8WcxmIbc3KNa.jpg",
+        "release_date": "1963-01-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 66
+      }
+    ],
+    "total_pages": 17025,
+    "total_results": 340493
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 62
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 92
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BF": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 80
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 109
+          }
+        ]
+      },
+      "CD": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 17
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/hPIVVR7yvR0PrTe7eHR2I5nAFis.png",
+            "provider_id": 1961,
+            "provider_name": "Allente",
+            "display_priority": 38
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 85
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 98
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 71
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 87
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=LV",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MW": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=MW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 70
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=PG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 202
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "VA": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=VA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1392 @@
+{
+  "adult": false,
+  "backdrop_path": "/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "رعب"
+    },
+    {
+      "id": 53,
+      "name": "إثارة"
+    }
+  ],
+  "homepage": "",
+  "id": 1432706,
+  "imdb_id": "tt29719182",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bury the Devil",
+  "overview": "",
+  "popularity": 55.5779,
+  "poster_path": "/yQ3GeVsebrhOPIBhIdoSslbndEv.jpg",
+  "production_companies": [
+    {
+      "id": 144431,
+      "logo_path": null,
+      "name": "Delirium Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-06",
+  "revenue": 0,
+  "runtime": 84,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bury the Devil",
+  "video": false,
+  "vote_average": 5.81,
+  "vote_count": 21,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1592155,
+        "known_for_department": "Acting",
+        "name": "Emmanuelle Lussier Martinez",
+        "original_name": "Emmanuelle Lussier Martinez",
+        "popularity": 1.0106,
+        "profile_path": "/4skrewfKscsDxiQqgmWUvQpyzaa.jpg",
+        "cast_id": 1,
+        "character": "Julia",
+        "credit_id": "67ab6a607c9910814f9baeae",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1233026,
+        "known_for_department": "Acting",
+        "name": "Bill Rowat",
+        "original_name": "Bill Rowat",
+        "popularity": 0.8865,
+        "profile_path": "/xzce2UhuneIlXLMQdBdchVkFIAV.jpg",
+        "cast_id": 2,
+        "character": "Randall",
+        "credit_id": "67ab6a70984e1e22179b9c95",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131336,
+        "known_for_department": "Acting",
+        "name": "Mark Antony Krupa",
+        "original_name": "Mark Antony Krupa",
+        "popularity": 0.694,
+        "profile_path": "/ek1qwhzkgj7ayCpEhdpt6fweRj.jpg",
+        "cast_id": 3,
+        "character": "Father Thierry",
+        "credit_id": "67ab6a82a2e2f99ed4bb41fe",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1091868,
+        "known_for_department": "Acting",
+        "name": "Dawn Ford",
+        "original_name": "Dawn Ford",
+        "popularity": 0.9124,
+        "profile_path": "/f6MGyVIEUcCIbCVAy6MZH8NMnuC.jpg",
+        "cast_id": 4,
+        "character": "Evelyn",
+        "credit_id": "67ab6a93dd9b7d2eaab0a1f3",
+        "order": 3
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1390354,
+        "known_for_department": "Directing",
+        "name": "Adam O'Brien",
+        "original_name": "Adam O'Brien",
+        "popularity": 0.7877,
+        "profile_path": null,
+        "credit_id": "67ab6aab984e1e22179b9cad",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1390354,
+        "known_for_department": "Directing",
+        "name": "Adam O'Brien",
+        "original_name": "Adam O'Brien",
+        "popularity": 0.7877,
+        "profile_path": null,
+        "credit_id": "67ab6acf984e1e22179b9ccc",
+        "department": "Writing",
+        "job": "Idea"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2871981,
+        "known_for_department": "Acting",
+        "name": "John Petrizzi",
+        "original_name": "John Petrizzi",
+        "popularity": 0.6512,
+        "profile_path": null,
+        "credit_id": "67ab6ade09b8551a04b0a502",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3745506,
+        "known_for_department": "Directing",
+        "name": "Brad Hodson",
+        "original_name": "Brad Hodson",
+        "popularity": 0.5841,
+        "profile_path": null,
+        "credit_id": "67ab6aef09b8551a04b0a50e",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166608,
+        "known_for_department": "Camera",
+        "name": "Benoit Beaulieu",
+        "original_name": "Benoit Beaulieu",
+        "popularity": 0.6163,
+        "profile_path": null,
+        "credit_id": "67ab6b00dd9b7d2eaab0a217",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1390354,
+        "known_for_department": "Directing",
+        "name": "Adam O'Brien",
+        "original_name": "Adam O'Brien",
+        "popularity": 0.7877,
+        "profile_path": null,
+        "credit_id": "67ab6b169d346d3ef49bb0ca",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2080362,
+        "known_for_department": "Writing",
+        "name": "Philip Kalin-Hajdu",
+        "original_name": "Philip Kalin-Hajdu",
+        "popularity": 0.5443,
+        "profile_path": null,
+        "credit_id": "67ab6b309d346d3ef49bb0e9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1092101,
+        "known_for_department": "Sound",
+        "name": "Mario Sévigny",
+        "original_name": "Mario Sévigny",
+        "popularity": 0.4608,
+        "profile_path": null,
+        "credit_id": "67ab6b43a2e2f99ed4bb424b",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1166608,
+        "known_for_department": "Camera",
+        "name": "Benoit Beaulieu",
+        "original_name": "Benoit Beaulieu",
+        "popularity": 0.6163,
+        "profile_path": null,
+        "credit_id": "67ab6b51dd9b7d2eaab0a279",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1390354,
+        "known_for_department": "Directing",
+        "name": "Adam O'Brien",
+        "original_name": "Adam O'Brien",
+        "popularity": 0.7877,
+        "profile_path": null,
+        "credit_id": "67ab6b6547051c54beb0b865",
+        "department": "Editing",
+        "job": "Editor"
+      }
+    ]
+  },
+  "watch/providers": {
+    "results": {
+      "AU": {
+        "link": "https://www.themoviedb.org/movie/1432706-bury-the-devil/watch?locale=AU",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/1432706-bury-the-devil/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/1432706-bury-the-devil/watch?locale=GG",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/1432706-bury-the-devil/watch?locale=IE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/movie/1432706-bury-the-devil/watch?locale=IN",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 71
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/movie/1432706-bury-the-devil/watch?locale=NZ",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/movie/1432706-bury-the-devil/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/19i0ihHvFzvK0GF5qQ6Wc4UnkOf.png",
+            "provider_id": 2214,
+            "provider_name": "CDA Premium",
+            "display_priority": 42
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1432706-bury-the-devil/watch?locale=US",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 124
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      }
+    }
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eftVUg9R1lys3wT8kHJqMaK64m7.jpg",
+        "id": 1212742,
+        "title": "حُكم جيني بين",
+        "original_title": "The Rule of Jenny Pen",
+        "overview": "يعيش قاضي سابق محتجزًا في دار استراحة منعزلة ومحاصرًا داخل جسده المصاب بالسكتة الدماغية، لكنه يحاول إيقاف مريض نفسي يستخدم دمية طفل لإساءة معاملة المقيمين، مما يؤدي لعواقب وخيمة.",
+        "poster_path": "/vzO8cnXDWb9HVNiGblVyEafuKtu.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 3.5286,
+        "release_date": "2025-03-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.144,
+        "vote_count": 174
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1WKxsnrhLoKPHcTyph7lhZnAMjR.jpg",
+        "id": 575776,
+        "title": "Saint Maud",
+        "original_title": "Saint Maud",
+        "overview": "Having recently found God, self-effacing young nurse Maud arrives at a plush home to care for Amanda, a hedonistic dancer left frail from a chronic illness. When a chance encounter with a former colleague throws up hints of a dark past, it becomes clear there is more to sweet Maud than meets the eye.",
+        "poster_path": "/ArNYeeDFLVye7JpqLElYdbE6fOa.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "popularity": 4.5426,
+        "release_date": "2020-10-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 926
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Lu57GTE24Ja5O61jieY2aIBk8d.jpg",
+        "id": 926606,
+        "title": "The Home",
+        "original_title": "The Home",
+        "overview": "A troubled man starts working at a retirement home and realizes its residents and caretakers harbor sinister secrets. As he investigates the building and its forbidden fourth floor, he starts to uncover connections to his own past and upbringing as a foster child.",
+        "poster_path": "/qyGY1k5GqAORsVhfZA3gFKirZWD.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "popularity": 5.6497,
+        "release_date": "2025-07-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.879,
+        "vote_count": 314
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Rjsm5khNaYa4Gnw4iHnGX2E34T.jpg",
+        "id": 1063877,
+        "title": "لا تتحرّكي",
+        "original_title": "Don't Move",
+        "overview": "تواجه امرأة مكلومة قاتلًا في غابة معزولة، يحقنها بعقار يشلّ الجسم، وفيما يُنهَك جسدها وينهار، تبدأ رحلة كفاحها من أجل البقاء على قيد الحياة.",
+        "poster_path": "/cRDJxdnRb7ikKd6fVJTrGeaL34v.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 5.576,
+        "release_date": "2024-10-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.315,
+        "vote_count": 1054
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qkEnklEGDFy4TRVhuHFn2DI2BP6.jpg",
+        "id": 930600,
+        "title": "الخلاص",
+        "original_title": "The Deliverance",
+        "overview": "تنتقل الأم العزباء \"إيبوني جاكسون\" إلى منزل جديد مع عائلتها بحثًا عن بداية جديدة، لكن ثمة روحًا شريرة سبقتهم في المكوث فيه.",
+        "poster_path": "/og1FteMFRInoQnlZeWqEn8XpXHh.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 6.3,
+        "release_date": "2024-08-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.018,
+        "vote_count": 586
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lUbt7o9maj8DHEhnHvSv5tIzivg.jpg",
+        "id": 1020696,
+        "title": "Play Dead",
+        "original_title": "Play Dead",
+        "overview": "تتظاهر كلوي أنها توفت حتى تدخل المشرحة وتسرق دليلًا هامًا، ولكنا تكتشف أن الطبيب الشرعي هناك يستغل المشرحة من أجل أهداف مريضة ومخيفة.",
+        "poster_path": "/zeiwFQzyMNp6JBwCfSspG5ZcoLp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 4.5533,
+        "release_date": "2022-12-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.144,
+        "vote_count": 212
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+        "id": 1251717,
+        "title": "Vicious",
+        "original_title": "Vicious",
+        "overview": "When Polly receives a mysterious box, it comes with one rule: place inside something she needs, something she hates, and something she loves. If she doesn’t obey, it will consume everything—and everyone—she’s ever known.",
+        "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 5.8578,
+        "release_date": "2025-08-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.06,
+        "vote_count": 298
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sLdlUypLzpQiJvO2dmqx5J7rigP.jpg",
+        "id": 1118595,
+        "title": "The Jester",
+        "original_title": "The Jester",
+        "overview": "A malevolent being known as The Jester terrorizes the inhabitants of a small town on Halloween night, including two estranged sisters who must come together to find a way to defeat this evil entity.",
+        "poster_path": "/zZzW0wUcyLXBLMSGasdvtLefwsL.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 5.6567,
+        "release_date": "2023-09-20",
+        "softcore": false,
+        "video": true,
+        "vote_average": 6.138,
+        "vote_count": 418
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1fOwb62XudDlevVyu1rqUlHUrES.jpg",
+        "id": 716258,
+        "title": "Black Box",
+        "original_title": "Black Box",
+        "overview": "يكافح رجل من أجل استعادة ذاكرته بعد حادث سيارة مأساوي، وبينما يحاول رعاية ابنته وتذكر ماضيه، يكتشف علاج يمكنه أن يعيده إلى شخصه السابق ولكن الثمن مظلم .",
+        "poster_path": "/ldlpTitpSTBINwgifzlRRXveXUF.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          878
+        ],
+        "popularity": 2.6996,
+        "release_date": "2020-10-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.407,
+        "vote_count": 615
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wqlwSAATTZTYA60OSeTKsj4ChZh.jpg",
+        "id": 830788,
+        "title": "الدعوة",
+        "original_title": "The Invitation",
+        "overview": "تتلقى امرأة شابة تدعى (إيفي) دعوة لحضور زفاف أحد أقاربها بمنزل فخم، وبعد ذهابها إلى هناك تكتشف حقيقة دموية مفزعة حول تاريخ عائلتها، كما تكتشف وجود مؤامرة ضدها.",
+        "poster_path": "/8Y572TslBHAU6NaeRxlsdCrxCHP.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 7.5627,
+        "release_date": "2022-08-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.998,
+        "vote_count": 1000
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kMZIMqEXO5MFd5Y1Ha2jZZF4pvF.jpg",
+        "id": 882598,
+        "title": "ابتسم",
+        "original_title": "Smile",
+        "overview": "بعد مشاهدة حادث غريب وصادم يتعلق بمريض ، تبدأ الدكتورة روز كوتر في تجربة أحداث مخيفة لا يمكنها تفسيرها. عندما يبدأ رعب ساحق في السيطرة على حياتها ، يجب على روز مواجهة ماضيها المقلق من أجل البقاء والهروب من واقعها الجديد المرعب.",
+        "poster_path": "/pFBDBB1Y6SMCjY4aKa0qBfmllwG.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 13.7598,
+        "release_date": "2022-09-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.671,
+        "vote_count": 4234
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uxQW0C3TkbasUJbShlFTnvaaZP4.jpg",
+        "id": 18781,
+        "title": "The Haunting in Connecticut",
+        "original_title": "The Haunting in Connecticut",
+        "overview": "When the Campbell family moves to upstate Connecticut, they soon learn that their charming Victorian home has a disturbing history: not only was the house a transformed funeral parlor where inconceivable acts occurred, but the owner's clairvoyant son Jonah served as a demonic messenger, providing a gateway for spiritual entities to crossover.",
+        "poster_path": "/dTfL0YbTa7S59vZYmWbk6UofHkI.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          27
+        ],
+        "popularity": 5.8956,
+        "release_date": "2009-03-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.169,
+        "vote_count": 1234
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ulaj7IhW72EK0cGSnMpP0UixTTC.jpg",
+        "id": 993867,
+        "title": "استئصال",
+        "original_title": "Eradication",
+        "overview": "عندما يقضي مرض غير معروف على معظم سكان العالم ، يتم عزل رجل بدم فريد للدراسة. خوفًا على سلامة زوجته ، يكسر حجره الصحي - إلى عالم اجتاحه المصابون ووكالة غامضة تطاردهم.",
+        "poster_path": "/6XZYA9VtCcidCU8Hus0J0V9wFhY.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 2.7467,
+        "release_date": "2022-07-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.09,
+        "vote_count": 195
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k3xS5HuixDQXRFg4eX9vLohuGjP.jpg",
+        "id": 1162858,
+        "title": "الآخر",
+        "original_title": "The Other",
+        "overview": "Unable to conceive, a couple seeks to build a family with a young orphan, survivor of tragic childhood. But their act of love turns to horror when they realize the violence in their foster's past has returned to destroy the new family.",
+        "poster_path": "/kE6FV8Lc9Aqir6OlgaNgnbFcy9E.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 3.2027,
+        "release_date": "2025-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.285,
+        "vote_count": 72
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/evo3crueRIK9Eutb3lnDLVbD2xD.jpg",
+        "id": 514847,
+        "title": "الصيد",
+        "original_title": "The Hunt",
+        "overview": "في فيلم رعب وغموض تهكمي، يصطاد أثرياء من النخبة المواطنين العاديين الأبرياء لأجل التسلية… إلى أن تقلب واحدة من الفرائس الطاولة على مطارديها.",
+        "poster_path": "/p21AJ1Q4PxmoxP1R9JtZoHd2gUg.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          27
+        ],
+        "popularity": 12.9473,
+        "release_date": "2020-03-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.652,
+        "vote_count": 3798
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tuHFUZFyidc1JIcWMjO9CEgKmgD.jpg",
+        "id": 70199,
+        "title": "Dead of Winter",
+        "original_title": "Dead of Winter",
+        "overview": "A fledgling actress is lured to a remote mansion for a screen-test, soon discovering she is actually a prisoner in the middle of a blackmail plot.",
+        "poster_path": "/t98G6rq7UpGGiFdURecUDCiBqaT.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 2.0759,
+        "release_date": "1987-02-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.02,
+        "vote_count": 126
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cMcn5W38E5FVao1FqIZllO11nSF.jpg",
+        "id": 733156,
+        "title": "الكفيفة",
+        "original_title": "Sightless",
+        "overview": "تساور الشكوك عازفة كمان سابقة بشأن الأشخاص الجدد الذين دخلوا حياتها وسلوكهم المثير للقلق بينما هي في طور التعافي من اعتداء أفقدها بصرها.",
+        "poster_path": "/byScu2YTPLsEfDAiXm3pW6w8FBA.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          27
+        ],
+        "popularity": 2.744,
+        "release_date": "2020-09-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.74,
+        "vote_count": 429
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yefSD6lp3jOBYkBeY5QxRRKTJME.jpg",
+        "id": 1970,
+        "title": "الحقد",
+        "original_title": "The Grudge",
+        "overview": "تتعرض ممرضة أمريكية تعيش وتعمل في طوكيو لعنة خارقة للطبيعة غامضة ، وهي لعنة تثير غضبًا شديدًا على الشخص قبل المطالبة بحياته والانتشار إلى ضحية أخرى.",
+        "poster_path": "/7vPAVPKYexQVmvC578wPLn2CGCL.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          9648,
+          53
+        ],
+        "popularity": 7.9771,
+        "release_date": "2004-10-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.944,
+        "vote_count": 3285
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xYNiy7nCN7C01QI8OKTutstY3Vq.jpg",
+        "id": 1117321,
+        "title": "You'll Never Find Me",
+        "original_title": "You'll Never Find Me",
+        "overview": "Patrick, a strange and lonely resident, lives in a mobile home at the back of an isolated caravan park. After a violent thunderstorm erupts, a mysterious young woman appears at his door, seeking shelter from the weather. The longer the night wears on and the more the young woman discovers about Patrick, the more difficult she finds it to leave. Soon she begins to question Patrick’s intentions, while Patrick begins to question his own grip on reality...",
+        "poster_path": "/jdDrzkq1vgQzR6vZPumyjHiKvFP.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 2.1038,
+        "release_date": "2024-03-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 228
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4CYo6O6p0bANfXLIwQZJpXPxmPc.jpg",
+        "id": 19185,
+        "title": "Night of the Living Dead",
+        "original_title": "Night of the Living Dead",
+        "overview": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+        "poster_path": "/7WkSCClUvcAq8JNEp4pM4A9hiDU.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27
+        ],
+        "popularity": 4.6684,
+        "release_date": "1990-10-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.873,
+        "vote_count": 1004
+      }
+    ],
+    "total_pages": 32,
+    "total_results": 634
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          27,
+          18
+        ],
+        "id": 1394910,
+        "title": "La Stanza Di Una Formica",
+        "original_language": "it",
+        "original_title": "La Stanza Di Una Formica",
+        "overview": "",
+        "popularity": 0.46,
+        "poster_path": "/jHstdDUD42YJ4QLnWJv2NXupuGz.jpg",
+        "release_date": "2024-11-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vxRIvMcVkgWSbL6Gnv24GmpwiuA.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          53
+        ],
+        "id": 1424,
+        "title": "November",
+        "original_language": "en",
+        "original_title": "November",
+        "overview": "",
+        "popularity": 1.512,
+        "poster_path": "/qqCn3bYlG85dlVdUBd5Vjv3i0Qg.jpg",
+        "release_date": "2004-01-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.862,
+        "vote_count": 47
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ylXFsNIhzq8A5nEqLhPdDYPOnVo.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          14,
+          53
+        ],
+        "id": 1411,
+        "title": "The Rapture",
+        "original_language": "en",
+        "original_title": "The Rapture",
+        "overview": "",
+        "popularity": 2.3732,
+        "poster_path": "/4EkFm13ecqO0eszr7OKT8vf1YjJ.jpg",
+        "release_date": "1991-10-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.729,
+        "vote_count": 94
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oRq6Gj2TXSiPDCHC3HAJX5J8Ydc.jpg",
+        "genre_ids": [
+          18,
+          14,
+          27
+        ],
+        "id": 1574924,
+        "title": "Dödens Gudson",
+        "original_language": "sv",
+        "original_title": "Dödens Gudson",
+        "overview": "",
+        "popularity": 2.5775,
+        "poster_path": "/gRuA1wBfPQgAkomsSHyWrLZP7OF.jpg",
+        "release_date": "2022-05-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          14,
+          53
+        ],
+        "id": 1574475,
+        "title": "Memento Mori",
+        "original_language": "en",
+        "original_title": "Memento Mori",
+        "overview": "",
+        "popularity": 1.015,
+        "poster_path": "/vCyp9v3K0dQNmSLeVMK96FKInVE.jpg",
+        "release_date": "2025-10-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pg93fJ6x0m2XOvTOgTR3NA6F4Vc.jpg",
+        "genre_ids": [
+          27,
+          14,
+          16
+        ],
+        "id": 444663,
+        "title": "Debbie Does Damnation",
+        "original_language": "en",
+        "original_title": "Debbie Does Damnation",
+        "overview": "",
+        "popularity": 1.4757,
+        "poster_path": "/tu2fdLRQk7j8uvh86eiwabXG0Vc.jpg",
+        "release_date": "1999-11-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4NsQl44oXVMiuIM9t7ZsVgYzOkv.jpg",
+        "genre_ids": [
+          53,
+          9648
+        ],
+        "id": 591,
+        "title": "The Da Vinci Code",
+        "original_language": "en",
+        "original_title": "The Da Vinci Code",
+        "overview": "أدت جريمة قتل في متحف اللوفر في باريس وأدلة غامضة في بعض أشهر لوحات ليوناردو دافنشي إلى اكتشاف لغز ديني. لمدة 2000 عام ، تحرس جمعية سرية المعلومات التي - في حالة ظهورها - يمكن أن تهز أسس المسيحية ذاتها.",
+        "popularity": 18.0245,
+        "poster_path": "/9ejKfNk0LBhSI9AahH4f9NJNZNM.jpg",
+        "release_date": "2006-05-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.735,
+        "vote_count": 10294
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53
+        ],
+        "id": 1396121,
+        "title": "Peter: El precio de la juventud",
+        "original_language": "es",
+        "original_title": "Peter: El precio de la juventud",
+        "overview": "",
+        "popularity": 0.6101,
+        "poster_path": "/vQ1ioUxwk3yCcIAsA7j7NSK0jtn.jpg",
+        "release_date": "2024-11-19",
+        "softcore": false,
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          9648,
+          53,
+          35
+        ],
+        "id": 1576109,
+        "title": "Khaani",
+        "original_language": "en",
+        "original_title": "Khaani",
+        "overview": "",
+        "popularity": 0.4483,
+        "poster_path": "/jbYzCn6nXX18lcWMNc9KxhWcSfB.jpg",
+        "release_date": "2025-11-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          53
+        ],
+        "id": 1575904,
+        "title": "God Bless You, Mr. Kopu",
+        "original_language": "en",
+        "original_title": "God Bless You, Mr. Kopu",
+        "overview": "",
+        "popularity": 1.1547,
+        "poster_path": "/ka9cvltlcC2QcYj21euCvLvqZvJ.jpg",
+        "release_date": "2026-09-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aq4gUPRp3YSMhBQGJ6clmx8enYn.jpg",
+        "genre_ids": [
+          27,
+          10749
+        ],
+        "id": 1396819,
+        "title": "Mimic",
+        "original_language": "en",
+        "original_title": "Mimic",
+        "overview": "",
+        "popularity": 2.516,
+        "poster_path": "/365ZhxGlVP7sxuMDcjvtvcVysWJ.jpg",
+        "release_date": "2024-11-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          28,
+          878,
+          27
+        ],
+        "id": 1576014,
+        "title": "Trash Monsters from Outer Space",
+        "original_language": "de",
+        "original_title": "Trash Monsters from Outer Space",
+        "overview": "",
+        "popularity": 0.6047,
+        "poster_path": "/wonqNVlZBMCrnGmYbYIWhj35ROg.jpg",
+        "release_date": "2005-01-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          28,
+          80,
+          10751,
+          99,
+          18,
+          12,
+          9648,
+          10749,
+          53,
+          35
+        ],
+        "id": 1575857,
+        "title": "Zátonyi és Kővári",
+        "original_language": "hu",
+        "original_title": "Zátonyi és Kővári",
+        "overview": "",
+        "popularity": 0.6817,
+        "poster_path": "/8mtFuEZrS0lrkrfinKUUVAl0mQW.jpg",
+        "release_date": "2015-11-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27,
+          53,
+          9648
+        ],
+        "id": 1575534,
+        "title": "The Observance",
+        "original_language": "en",
+        "original_title": "The Observance",
+        "overview": "",
+        "popularity": 3.026,
+        "poster_path": "/tDC1KDiL7ih6lDTaZBKjOxQOhmo.jpg",
+        "release_date": "2026-02-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ZJJX8Lz07LqOpv0ewvPCH3dIAO.jpg",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "id": 1014565,
+        "title": "Dash",
+        "original_language": "en",
+        "original_title": "Dash",
+        "overview": "",
+        "popularity": 1.2819,
+        "poster_path": "/uCFxE5oPzyanWJXEmEG8CIX7pha.jpg",
+        "release_date": "2022-04-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 1,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iMYzRxXcJqlxkaCGoZWjDY8Bd7W.jpg",
+        "genre_ids": [
+          878,
+          28,
+          53
+        ],
+        "id": 1201733,
+        "title": "Dream Hacker",
+        "original_language": "en",
+        "original_title": "Dream Hacker",
+        "overview": "",
+        "popularity": 1.5142,
+        "poster_path": "/rS6zQd0BzbgXWh0hLOAg353CPwq.jpg",
+        "release_date": "2025-06-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bVQe2nzhh4AvI3yDu22hDK6fTfo.jpg",
+        "genre_ids": [
+          27,
+          35
+        ],
+        "id": 1396558,
+        "title": "Bloody Axe Wound",
+        "original_language": "en",
+        "original_title": "Bloody Axe Wound",
+        "overview": "",
+        "popularity": 1.5441,
+        "poster_path": "/9317wkGixfbrGjU2YdAWmC8y1lO.jpg",
+        "release_date": "2024-12-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.175,
+        "vote_count": 40
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 1202188,
+        "title": "Crawlers",
+        "original_language": "en",
+        "original_title": "Crawlers",
+        "overview": "",
+        "popularity": 2.0777,
+        "poster_path": "/6xBDr08l6vAkQoNBIWsHQ5pU4Kc.jpg",
+        "release_date": "2025-06-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xErsKOjEo0O1zHtv9he9XfT6Tu1.jpg",
+        "genre_ids": [
+          27,
+          18
+        ],
+        "id": 1015416,
+        "title": "Go on, laugh",
+        "original_language": "en",
+        "original_title": "Go on, laugh",
+        "overview": "",
+        "popularity": 0.5394,
+        "poster_path": "/4ftpz9Xnl9b2hlLF90BU3AeKuh1.jpg",
+        "release_date": "2022-06-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mhRXv5sSpl4BhkNgWgW2OoK7ghc.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 3043,
+        "title": "Flesh for Frankenstein",
+        "original_language": "en",
+        "original_title": "Flesh for Frankenstein",
+        "overview": "",
+        "popularity": 2.6068,
+        "poster_path": "/9GRNVP3Vny8WRafI1bwsrsf2BC0.jpg",
+        "release_date": "1973-11-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.774,
+        "vote_count": 157
+      }
+    ],
+    "total_pages": 6210,
+    "total_results": 124192
+  },
+  "videos": {
+    "results": []
+  }
+}

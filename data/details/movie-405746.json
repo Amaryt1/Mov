@@ -1,0 +1,1616 @@
+{
+  "adult": false,
+  "backdrop_path": "/oRzXPixvyO3zHbAXatpOwbM6u1S.jpg",
+  "belongs_to_collection": {
+    "id": 840177,
+    "name": "Doa",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "رعب"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
+    },
+    {
+      "id": 53,
+      "name": "إثارة"
+    }
+  ],
+  "homepage": "",
+  "id": 405746,
+  "imdb_id": "tt0223150",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "DOOR",
+  "overview": "",
+  "popularity": 54.7661,
+  "poster_path": "/rmD3Q8wPrzbe5P5gDgbzR0fsDQx.jpg",
+  "production_companies": [
+    {
+      "id": 13260,
+      "logo_path": null,
+      "name": "Directors Company",
+      "origin_country": "JP"
+    },
+    {
+      "id": 51693,
+      "logo_path": null,
+      "name": "Agent 21",
+      "origin_country": "JP"
+    },
+    {
+      "id": 13259,
+      "logo_path": null,
+      "name": "Takahashi Productions",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1988-05-14",
+  "revenue": 0,
+  "runtime": 94,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "DOOR",
+  "video": false,
+  "vote_average": 6.063,
+  "vote_count": 32,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 46623,
+        "known_for_department": "Acting",
+        "name": "高橋惠子",
+        "original_name": "高橋惠子",
+        "popularity": 4.7047,
+        "profile_path": "/ksiS9bcT5gHrT3DN8VSsMnDMqfF.jpg",
+        "cast_id": 1,
+        "character": "Yasuko Honda",
+        "credit_id": "57825e209251414688000130",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1648172,
+        "known_for_department": "Acting",
+        "name": "堤大二郎",
+        "original_name": "堤大二郎",
+        "popularity": 1.3488,
+        "profile_path": "/huwQwd45t5L2iaSlRVbsaSMM5Im.jpg",
+        "cast_id": 2,
+        "character": "Yamakawa",
+        "credit_id": "57825e2cc3a3682643000183",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1072379,
+        "known_for_department": "Acting",
+        "name": "下元史朗",
+        "original_name": "下元史朗",
+        "popularity": 2.8632,
+        "profile_path": "/niUiM8WDwrH7ZMnq3FmXdQsssnR.jpg",
+        "cast_id": 3,
+        "character": "Satoru Honda",
+        "credit_id": "57825e39c3a3686fee000e41",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4290827,
+        "known_for_department": "Acting",
+        "name": "Takuto Yonezu",
+        "original_name": "Takuto Yonezu",
+        "popularity": 0.4169,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "Takuto Honda",
+        "credit_id": "6511e2613a4a1200e295b936",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3349856,
+        "known_for_department": "Acting",
+        "name": "Masao Ishida",
+        "original_name": "Masao Ishida",
+        "popularity": 0.3688,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "The Man Next Door",
+        "credit_id": "65a3fe775a788400c6c961d2",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2483713,
+        "known_for_department": "Acting",
+        "name": "Hiroshi Noguchi",
+        "original_name": "Hiroshi Noguchi",
+        "popularity": 0.3698,
+        "profile_path": null,
+        "cast_id": 23,
+        "character": "Policeman",
+        "credit_id": "67505cb5355dbc0b15d7ae19",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4480968,
+        "known_for_department": "Acting",
+        "name": "Yoshihiro Shimada",
+        "original_name": "Yoshihiro Shimada",
+        "popularity": 0.5749,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "Delivery Man",
+        "credit_id": "65a3feb57d5f4b00c2b7f6b0",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2887473,
+        "known_for_department": "Production",
+        "name": "Kosuke Kuri",
+        "original_name": "Kosuke Kuri",
+        "popularity": 0.3276,
+        "profile_path": null,
+        "credit_id": "63368b41f3b49a008371f88a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101369,
+        "known_for_department": "Directing",
+        "name": "高橋伴明",
+        "original_name": "高橋伴明",
+        "popularity": 3.4505,
+        "profile_path": "/1zosL0ASG0hPJ18XijIQiuq48ll.jpg",
+        "credit_id": "63368b51d363e5007a303924",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 119335,
+        "known_for_department": "Directing",
+        "name": "及川中",
+        "original_name": "及川中",
+        "popularity": 1.7203,
+        "profile_path": "/782ufwdwCIcRoRBk0wzlvUqhRar.jpg",
+        "credit_id": "63368b5bc072a2007bf69dc7",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73145,
+        "known_for_department": "Camera",
+        "name": "佐々木原保志",
+        "original_name": "佐々木原保志",
+        "popularity": 0.4369,
+        "profile_path": "/joMVy5sG2Roy5nGbN8NQzp1Qt3x.jpg",
+        "credit_id": "63368b6707faa2007a6320db",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 147411,
+        "known_for_department": "Costume & Make-Up",
+        "name": "原口智生",
+        "original_name": "原口智生",
+        "popularity": 1.1098,
+        "profile_path": null,
+        "credit_id": "63368bafb076e50083549aad",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1188020,
+        "known_for_department": "Art",
+        "name": "細石照美",
+        "original_name": "細石照美",
+        "popularity": 0.3773,
+        "profile_path": null,
+        "credit_id": "63368bc3f3b49a007e9d93a3",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 132936,
+        "known_for_department": "Editing",
+        "name": "菊池純一",
+        "original_name": "菊池純一",
+        "popularity": 0.6651,
+        "profile_path": null,
+        "credit_id": "63368bcedb4ed60084b916d0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3248145,
+        "known_for_department": "Sound",
+        "name": "Gouji Tsuno",
+        "original_name": "Gouji Tsuno",
+        "popularity": 0.3666,
+        "profile_path": null,
+        "credit_id": "63368bded363e500913555f6",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 97359,
+        "known_for_department": "Directing",
+        "name": "平山秀幸",
+        "original_name": "平山秀幸",
+        "popularity": 0.7752,
+        "profile_path": "/dRTtG1i88Cnt8Fz3mgs6gorqanV.jpg",
+        "credit_id": "63368bff6e0d72009b6ae776",
+        "department": "Directing",
+        "job": "Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3875689,
+        "known_for_department": "Production",
+        "name": "Fumio Takahashi",
+        "original_name": "Fumio Takahashi",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "65a3fd211f0275012708bd18",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1631983,
+        "known_for_department": "Sound",
+        "name": "福田伸",
+        "original_name": "福田伸",
+        "popularity": 0.4665,
+        "profile_path": null,
+        "credit_id": "65a3fd7639549a012f10c918",
+        "department": "Sound",
+        "job": "Sound Recordist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1856729,
+        "known_for_department": "Sound",
+        "name": "福島幸雄",
+        "original_name": "福島幸雄",
+        "popularity": 0.4204,
+        "profile_path": null,
+        "credit_id": "65a3fd9f5690b54a7fb0421c",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4480960,
+        "known_for_department": "Camera",
+        "name": "Katsumi Dôchi",
+        "original_name": "Katsumi Dôchi",
+        "popularity": 0.2724,
+        "profile_path": null,
+        "credit_id": "65a3fdf0266778012b6472f0",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1699804,
+        "known_for_department": "Lighting",
+        "name": "Yutaka Iwasaki",
+        "original_name": "Yutaka Iwasaki",
+        "popularity": 0.317,
+        "profile_path": null,
+        "credit_id": "65a3fdfd5a788400c3c960c6",
+        "department": "Lighting",
+        "job": "Lighting Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 101369,
+        "known_for_department": "Directing",
+        "name": "高橋伴明",
+        "original_name": "高橋伴明",
+        "popularity": 3.4505,
+        "profile_path": "/1zosL0ASG0hPJ18XijIQiuq48ll.jpg",
+        "credit_id": "57825e0dc3a3686f9e000ed4",
+        "department": "Directing",
+        "job": "Director"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/vCfb8gjTgcl9oGXQYsK4Danrl3q.jpg",
+        "id": 40387,
+        "title": "Night Watch",
+        "original_title": "Night Watch",
+        "overview": "A woman recovering from a nervous breakdown tries to convince her husband and and the local London police that she has witnessed a murder in the abandoned house next door.",
+        "poster_path": "/uuWf1nMHYkKegwJB0iOzbPuiKkO.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          53,
+          27
+        ],
+        "popularity": 2.4366,
+        "release_date": "1973-11-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sve315CAjMhSZBKBthDHJI77gmb.jpg",
+        "id": 13549,
+        "title": "Burnt Offerings",
+        "original_title": "Burnt Offerings",
+        "overview": "A family moves into a large old mansion in the countryside which seems to have a mysterious and sinister power over its new residents.",
+        "poster_path": "/2ipG69lXOjGMX7F7qxJQzUoiUsd.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53,
+          9648
+        ],
+        "popularity": 2.5896,
+        "release_date": "1976-10-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.479,
+        "vote_count": 286
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Am1TyZKV2ayIwGM76rB5CAw36Gj.jpg",
+        "id": 32080,
+        "title": "The Seven-Ups",
+        "original_title": "The Seven-Ups",
+        "overview": "يتولى شرطي من نيويورك قيادة وحدة خاصة تتعقب المجرمين الذين يواجهون أحكامًا بالسجن لسبع سنوات أو أكثر، لكن مقتل أحد أفراد فريقه يقوده إلى كشف مؤامرة لاختطاف رجال العصابات وابتزازهم.",
+        "poster_path": "/xmpzuTWUEiVPsRz7kKXijNISUNq.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          80,
+          9648
+        ],
+        "popularity": 2.7761,
+        "release_date": "1973-12-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.359,
+        "vote_count": 131
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j4F0911ZXLm1ONjVUjzgwA7c3MI.jpg",
+        "id": 739901,
+        "title": "The Possessed",
+        "original_title": "The Possessed",
+        "overview": "A man with the ability to exorcise demons fights to protect his loved ones after a sudden surge in demonic possessions. After discovering his nephew's girlfriend has the same supernatural gift, they join forces for the ultimate confrontation. Inspired by actual events.",
+        "poster_path": "/tDmWqD80zzxQZhgSzDEOW2llS0L.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 2.3395,
+        "release_date": "2021-10-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.265,
+        "vote_count": 81
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7xT27rysMKmCvxwMDHTBY9y1pKC.jpg",
+        "id": 382272,
+        "title": "Death Note: Light Up the NEW World",
+        "original_title": "デスノート, Light up the NEW world",
+        "overview": "10 years has passed since the confrontation between Kira and L. Again, Shinigami sends death notes to the ground and due to this, the world soon falls into chaos. Tsukuru is a member of the Death Note special task force team with 6 other investigators including Matsuda who experienced the Kira case of 10 years ago.  Mass murders caused by the death note takes place on Wall Street in the U.S., Shibuya in Japan and other places. World famous private investigator Ryuzaki, who is the rightful successor of L, also investigates the mass murders. They discover that 6 death notes exists in the world.  A computer virus called Kira spreads in the world. A message in the Kira virus says to turn in 6 death notes.  A person who has 6 death notes overwhelm the world. The confrontation begins between the person who wants Kira’s revival and the people who want to stop it.",
+        "poster_path": "/cDBV5mIMc8h0dsRHF43rUUk3I0O.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          80,
+          27,
+          878,
+          53
+        ],
+        "popularity": 3.9891,
+        "release_date": "2016-10-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.273,
+        "vote_count": 187
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nV10fSyR0LlaRae7eFiidG7hw4g.jpg",
+        "id": 524251,
+        "title": "أنا أراك",
+        "original_title": "I See You",
+        "overview": "عندما يختفي صبي يبلغ من العمر 12 عاما ، يكافح المحقق الرئيسي جريج هاربر لتحقيق التوازن بين ضغط التحقيق والمشاكل مع زوجته جاكي. في مواجهة علاقة غرامية حديثة ، يتم وضع ضغط كبير على العائلة التي تنخر ببطء في قبضة جاكي على الواقع. ولكن بعد أن يتجلى الوجود الخبيث في منزلهم ويضع ابنهم كونور في خطر مميت ، يتم الكشف أخيرا عن الحقيقة الباردة والصعبة حول الشر في منزل هاربر.",
+        "poster_path": "/2LwamrHAmxqEHsT9JViFJxT08Ek.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53,
+          9648
+        ],
+        "popularity": 5.6439,
+        "release_date": "2019-09-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.975,
+        "vote_count": 1705
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qseiYNSkexOGoRJsfohA1NEojK2.jpg",
+        "id": 32051,
+        "title": "Race with the Devil",
+        "original_title": "Race with the Devil",
+        "overview": "تنطلق زوجان في رحلة عبر تكساس، لكنهما يشاهدان بالصدفة طقسًا شيطانيًا يتضمن تضحية بشرية، فيصبحان هدفًا لجماعة طقوسية تطاردهما في محاولة للتخلص منهما",
+        "poster_path": "/4ezD93ytLd8707j3Qvg53Mpz5ff.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          27,
+          53
+        ],
+        "popularity": 2.0241,
+        "release_date": "1975-06-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 142
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ytxlMOBQEn6eAqdFd4XyMbs8dQH.jpg",
+        "id": 42344,
+        "title": "Paranoiac",
+        "original_title": "Paranoiac",
+        "overview": "Eleven years ago, the wealthy Ashby family was shattered when Mr and Mrs Ashby died in an airplane crash and their grieving son Tony committed suicide. All who remains is cruel Simon, an alcoholic in desperate need of funds; his mentally fragile sister Eleanor; and his protective aunt Harriet. Simon is just weeks away from receiving his inheritance, but there's a hitch in his plans when the long-believed dead Tony suddenly arrives.",
+        "poster_path": "/gXD4mLMXR2nibJkELmB5afAI3vj.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          27
+        ],
+        "popularity": 2.2062,
+        "release_date": "1963-01-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.61,
+        "vote_count": 86
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rzchR1ZQQlj5bCfEUdrTZsC5CF2.jpg",
+        "id": 740903,
+        "title": "The Unhealer",
+        "original_title": "The Unhealer",
+        "overview": "A botched faith healing bestows supernatural Shaman powers on a bullied teenager. When his lifelong tormentors pull a prank that kills someone he loves, he uses his powers for revenge and goes on a bloody rampage to settle the score.",
+        "poster_path": "/jEuKhYfeS4dz0uQj1yTZ2Gl8yNH.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          53,
+          27
+        ],
+        "popularity": 4.9713,
+        "release_date": "2021-12-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.846,
+        "vote_count": 107
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9fcxVYBJSYNZY6ux5F3CRZXL8Vv.jpg",
+        "id": 14217,
+        "title": "Reincarnation",
+        "original_title": "輪廻",
+        "overview": "A Japanese actress begins having strange visions and experiences after landing a role in a horror film about a real-life murder spree that took place over forty years ago.",
+        "poster_path": "/lFAnm6625uMUZ1Xkg1XxwlXBEE.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          27,
+          9648
+        ],
+        "popularity": 3.5681,
+        "release_date": "2005-10-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 155
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4wmT2KQrxA6pT6R4mN6kx8cqdFI.jpg",
+        "id": 24655,
+        "title": "The Car",
+        "original_title": "The Car",
+        "overview": "تتعرض بلدة صغيرة في الصحراء لهجمات سيارة سوداء غامضة تدهس ضحاياها بلا رحمة، بينما يحاول رجال الشرطة إيقافها قبل أن تواصل حصد المزيد من الأرواح",
+        "poster_path": "/gFM9yMrO4fQMiG440Lx6bazB517.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          28,
+          53,
+          9648,
+          14
+        ],
+        "popularity": 4.8631,
+        "release_date": "1977-05-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.375,
+        "vote_count": 339
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/y2WqsZYVI0yVdC0hgDmYvzfJzqr.jpg",
+        "id": 551994,
+        "title": "The Shed",
+        "original_title": "The Shed",
+        "overview": "The story of Stan, an orphaned teenager stuck living with his abusive grandfather and tasked with routinely protecting his best friend from high school bullies. When Stan discovers a murderous creature has taken refuge inside the tool shed in his backyard, he tries to secretly battle the demon alone until his bullied friend discovers the creature and has a far more sinister plan in mind.",
+        "poster_path": "/aV9n5MyLZQsoXNfbZG5OOf16IkP.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 4.7083,
+        "release_date": "2019-10-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.946,
+        "vote_count": 157
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fcBqCqnAKiP8UEaXI1ZOVrV8Mpq.jpg",
+        "id": 404733,
+        "title": "Overdrive",
+        "original_title": "Overdrive",
+        "overview": "Master car thieves square off against French gangsters in the South of France with money, women and lives all on the line.",
+        "poster_path": "/a0hTRjis1cxwmjOuBaS7WdDG3dj.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          28,
+          9648
+        ],
+        "popularity": 4.8795,
+        "release_date": "2017-06-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.1,
+        "vote_count": 1022
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/UT0FaX3djSmvphvDopomPNWXIQ.jpg",
+        "id": 306947,
+        "title": "The Invitation",
+        "original_title": "The Invitation",
+        "overview": "تمت دعوة Will وصديقته الجديدة كيرا لتناول العشاء مع الأصدقاء القدامى في منزل Will’s السابق Eden وشريكها الجديد David. على الرغم من أن المساء يبدو هادئًا ، إلا أن ويل سرعان ما يشك في أن مضيفهم الساحر ديفيد يخطط لشيء ما.",
+        "poster_path": "/esubm23z8N5JUA1wQ5yLSjLicDx.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          27
+        ],
+        "popularity": 5.7847,
+        "release_date": "2016-04-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.423,
+        "vote_count": 2942
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/icvgQHxrKEDx92VQ5WHiEmEAUKH.jpg",
+        "id": 11336,
+        "title": "The Dead Zone",
+        "original_title": "The Dead Zone",
+        "overview": "يستيقظ رجل من غيبوبة استمرت خمس سنوات بعد حادث سيارة، ليكتشف أنه اكتسب قدرة خارقة تمكّنه من رؤية ماضي الناس ومستقبلهم بمجرد لمسهم. وعندما يرى مستقبلًا كارثيًا مرتبطًا بسياسي طموح، يقرر التدخل لتغييره",
+        "poster_path": "/9yTVaeS8eIkOpbwIycVFm7EQrgF.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          27,
+          878
+        ],
+        "popularity": 5.9214,
+        "release_date": "1983-10-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.013,
+        "vote_count": 1896
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6o6pDoUZ5XbSfNN64OErtcUkF5S.jpg",
+        "id": 1219556,
+        "title": "Chime",
+        "original_title": "Chime",
+        "overview": "A chef's life is disrupted by a chime that brings with it an increasing sense of dread.",
+        "poster_path": "/lAKIYXw8vAXxpjgz8tQGECddSt5.jpg",
+        "media_type": "movie",
+        "original_language": "ja",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "popularity": 3.2302,
+        "release_date": "2024-08-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.788,
+        "vote_count": 92
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6kuTif13MMGK4sB7E5dhyvmwV0U.jpg",
+        "id": 39925,
+        "title": "Fear in the Night",
+        "original_title": "Fear in the Night",
+        "overview": "It took Peggy Heller a long time to recover from the trauma of a brutal physical assault, suffered in her youth. When she married Robert, he provided her with the love and reassurance she craved for and the two settled down in a pretty house in the grounds of the public school where Robert was a master. But the headmaster of the school is not what he seems and Peggy is convinced he means to harm her - is her fear a figment of her tortured imagination or are there forces at work that intend to manipulate her anxieties with fatal consequences?",
+        "poster_path": "/tT2gf4OJCgQMEQ2F0dCqmoqQg2i.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          53,
+          27
+        ],
+        "popularity": 1.5107,
+        "release_date": "1972-07-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.819,
+        "vote_count": 70
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9tVTKBCoEluEXtp06mTxJSUhLTI.jpg",
+        "id": 328480,
+        "title": "Kept Woman",
+        "original_title": "Kept Woman",
+        "overview": "Jessica and her fiancé Evan have just moved from the city into their dream home on a quiet suburban street. Soon after, Jessica catches her seemingly friendly new neighbor, Simon, in a strange lie and can't let her suspicions rest. The danger escalates when Simon lures her inside his home and imprisons Jessica in his secret bunker, meticulously decorated in the idealized style of the 1950s.",
+        "poster_path": "/7FP3ot6HCmer086DGZNPDCCaJEj.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          10770,
+          9648
+        ],
+        "popularity": 2.8367,
+        "release_date": "2015-02-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 80
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7cQKUEcRkw2EeK7KDn8eRqS3XkC.jpg",
+        "id": 504631,
+        "title": "Mermaid Down",
+        "original_title": "Mermaid Down",
+        "overview": "انتزعت حورية البحر من المحيط الهادئ ، وقطع ذيلها وألقيت في منزل للأمراض العقلية حيث لا أحد يعتقد أنها حورية البحر.",
+        "poster_path": "/oB281saxibom0KC3Ndz81aJJtaa.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          14,
+          9648,
+          53
+        ],
+        "popularity": 3.1568,
+        "release_date": "2019-10-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.403,
+        "vote_count": 304
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
+        "id": 1086260,
+        "title": "The Astronaut",
+        "original_title": "The Astronaut",
+        "overview": "After returning from her first space mission, astronaut Sam Walker is placed under NASA’s care at a high security house for rehabilitation and medical testing. However, when disturbing occurrences begin happening around the property, she fears that something extraterrestrial has followed her back to Earth",
+        "poster_path": "/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "popularity": 6.42,
+        "release_date": "2025-09-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.144,
+        "vote_count": 448
+      }
+    ],
+    "total_pages": 7,
+    "total_results": 132
+  },
+  "watch/providers": {
+    "results": {
+      "BE": {
+        "link": "https://www.themoviedb.org/movie/405746-door/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/ds5Gvv5tN46cuRCkb8zPXZ5UABD.png",
+            "provider_id": 1736,
+            "provider_name": "Shadowz Amazon Channel",
+            "display_priority": 57
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/405746-door/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+            "provider_id": 1960,
+            "provider_name": "Midnight Pulp",
+            "display_priority": 98
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+            "provider_id": 212,
+            "provider_name": "Hoopla",
+            "display_priority": 8
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+            "provider_id": 73,
+            "provider_name": "Tubi TV",
+            "display_priority": 19
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 79
+          },
+          {
+            "logo_path": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png",
+            "provider_id": 1957,
+            "provider_name": "Cineverse",
+            "display_priority": 97
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 34
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 34
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/movie/405746-door/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/g8P4BJ2Wrya0VkbGUxBoUqpXtSs.png",
+            "provider_id": 1967,
+            "provider_name": "Molotov TV",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/ds5Gvv5tN46cuRCkb8zPXZ5UABD.png",
+            "provider_id": 1736,
+            "provider_name": "Shadowz Amazon Channel",
+            "display_priority": 110
+          },
+          {
+            "logo_path": "/4Hmt479nSu8j4JIFDu6WPqsc6AT.png",
+            "provider_id": 513,
+            "provider_name": "Shadowz",
+            "display_priority": 111
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/405746-door/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+            "provider_id": 99,
+            "provider_name": "Shudder",
+            "display_priority": 24
+          },
+          {
+            "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+            "provider_id": 204,
+            "provider_name": "Shudder Amazon Channel",
+            "display_priority": 66
+          },
+          {
+            "logo_path": "/uVhUzKH7taAxHZGrRMZ4IqIbQxe.png",
+            "provider_id": 529,
+            "provider_name": "ARROW",
+            "display_priority": 173
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/405746-door/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/yb4PbHPVpvJ2JizOuZoJSLXsjcG.png",
+            "provider_id": 204,
+            "provider_name": "Shudder Amazon Channel",
+            "display_priority": 65
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/405746-door/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/58O6yqUFM6qoOiBNAddJs7xNKc.png",
+            "provider_id": 99,
+            "provider_name": "Shudder",
+            "display_priority": 13
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/movie/405746-door/watch?locale=JP",
+        "rent": [
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/405746-door/watch?locale=US",
+        "ads": [
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 332,
+            "provider_name": "Fandango at Home Free",
+            "display_priority": 39
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 124
+          },
+          {
+            "logo_path": "/1gC0K43JMyMtVpqczxvwBp0pkxn.png",
+            "provider_id": 2077,
+            "provider_name": "Plex Channel",
+            "display_priority": 127
+          },
+          {
+            "logo_path": "/rqCIpmrCBpnL6oliak6E1mrq5DD.png",
+            "provider_id": 1957,
+            "provider_name": "Cineverse",
+            "display_priority": 161
+          },
+          {
+            "logo_path": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+            "provider_id": 73,
+            "provider_name": "Tubi TV",
+            "display_priority": 347
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/cltb8XKan9ierp23ItPmCOcVLRa.png",
+            "provider_id": 191,
+            "provider_name": "Kanopy",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+            "provider_id": 212,
+            "provider_name": "Hoopla",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/dNF4vWhF3TduWvOyfVxEyTqSNRl.png",
+            "provider_id": 2409,
+            "provider_name": "Fawesome",
+            "display_priority": 143
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+            "provider_id": 2383,
+            "provider_name": "Philo",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/pqV8nzIxmOKVDsDrQ5wCPYuSM5P.png",
+            "provider_id": 199,
+            "provider_name": "Fandor Amazon Channel",
+            "display_priority": 89
+          },
+          {
+            "logo_path": "/zRn4rBGPYDeZvTeZEBySDdqHzS8.png",
+            "provider_id": 202,
+            "provider_name": "Screambox Amazon Channel",
+            "display_priority": 90
+          },
+          {
+            "logo_path": "/2IHcGZUPqxy4HhWWN57AGEIKcCW.png",
+            "provider_id": 2411,
+            "provider_name": "Eternal Family",
+            "display_priority": 142
+          },
+          {
+            "logo_path": "/c1dWUx3AwvoZ13meOTQSDEBonZD.png",
+            "provider_id": 1960,
+            "provider_name": "Midnight Pulp",
+            "display_priority": 164
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 202
+          },
+          {
+            "logo_path": "/uqAgFY1AoqdcsDVLzMCpoQqzJ2u.png",
+            "provider_id": 2367,
+            "provider_name": "Midnight Pulp Amazon Channel",
+            "display_priority": 235
+          },
+          {
+            "logo_path": "/mkikn40hHk3K3Xis19dnzyRnHBB.png",
+            "provider_id": 2704,
+            "provider_name": "Cineverse Amazon Channel",
+            "display_priority": 362
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/8KcvxZCwkahVDphIzRENl7rZECy.jpg",
+        "genre_ids": [
+          12,
+          53,
+          18
+        ],
+        "id": 8987,
+        "title": "The River Wild",
+        "original_language": "en",
+        "original_title": "The River Wild",
+        "overview": "",
+        "popularity": 5.5984,
+        "poster_path": "/wVgQ2T63ThjIsY4R0qoHXjyllql.jpg",
+        "release_date": "1994-09-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.456,
+        "vote_count": 987
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9DclZBBDxMrbcqNS81Pjz8opZTW.jpg",
+        "genre_ids": [
+          27,
+          53,
+          80
+        ],
+        "id": 263472,
+        "title": "الطرق على الباب",
+        "original_language": "en",
+        "original_title": "Knock Knock",
+        "overview": "عندما يُترك الأب والزوج المخلص بمفرده في المنزل لقضاء عطلة نهاية الأسبوع ، تدق فتاتان عالقتان باب منزله بشكل غير متوقع طلبًا للمساعدة. ما يبدأ كإيماءة لطيفة ينتج عنه إغواء خطير ولعبة قطة وفأر مميتة.",
+        "popularity": 11.4175,
+        "poster_path": "/uRLU0qE80vsE4PpODhUadM723aI.jpg",
+        "release_date": "2015-06-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.386,
+        "vote_count": 3574
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53
+        ],
+        "id": 1396121,
+        "title": "Peter: El precio de la juventud",
+        "original_language": "es",
+        "original_title": "Peter: El precio de la juventud",
+        "overview": "",
+        "popularity": 0.6101,
+        "poster_path": "/vQ1ioUxwk3yCcIAsA7j7NSK0jtn.jpg",
+        "release_date": "2024-11-19",
+        "softcore": false,
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/d5HjGve67GkNC9lWpzZVKSotLlT.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1939,
+        "title": "Laura",
+        "original_language": "en",
+        "original_title": "Laura",
+        "overview": "",
+        "popularity": 3.5986,
+        "poster_path": "/utpUn9TdBIx6x2QX91YhYzFZxg1.jpg",
+        "release_date": "1944-10-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 940
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8cy0N2MKf8UMJzQXSPpcjjPzflb.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1574006,
+        "title": "No enciendas la luz",
+        "original_language": "es",
+        "original_title": "No enciendas la luz",
+        "overview": "",
+        "popularity": 0.9667,
+        "poster_path": "/v2YxHvZCn31J2D81WwjLQ2axdOy.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aK1uB5c111DXSvPOrriizPoWwh9.jpg",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "id": 2026,
+        "title": "Hostage",
+        "original_language": "en",
+        "original_title": "Hostage",
+        "overview": "",
+        "popularity": 6.545,
+        "poster_path": "/vjhLmtjO2pMQXRgkxcwZoq2Ma8n.jpg",
+        "release_date": "2005-03-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.361,
+        "vote_count": 1810
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kDlwxlCzJmmJra99LlIwr4o9nbZ.jpg",
+        "genre_ids": [
+          53,
+          27,
+          35
+        ],
+        "id": 446101,
+        "title": "Assassination Nation",
+        "original_language": "en",
+        "original_title": "Assassination Nation",
+        "overview": "",
+        "popularity": 4.1015,
+        "poster_path": "/dMg1wPakqPx54yMzm0OuHn1jl42.jpg",
+        "release_date": "2018-09-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.243,
+        "vote_count": 912
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xKOoNGlla2PxAshiizgeC2781nU.jpg",
+        "genre_ids": [
+          18,
+          53,
+          10770
+        ],
+        "id": 264855,
+        "title": "The Fear Inside",
+        "original_language": "en",
+        "original_title": "The Fear Inside",
+        "overview": "",
+        "popularity": 1.4484,
+        "poster_path": "/vNyqJziBnC7OO76IHrlKtlyEGS1.jpg",
+        "release_date": "1992-08-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aq4gUPRp3YSMhBQGJ6clmx8enYn.jpg",
+        "genre_ids": [
+          27,
+          10749
+        ],
+        "id": 1396819,
+        "title": "Mimic",
+        "original_language": "en",
+        "original_title": "Mimic",
+        "overview": "",
+        "popularity": 2.516,
+        "poster_path": "/365ZhxGlVP7sxuMDcjvtvcVysWJ.jpg",
+        "release_date": "2024-11-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j7orV3kRj32pNoeXfiNFz0Lw2uw.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 1202043,
+        "title": "Les Autarciques",
+        "original_language": "fr",
+        "original_title": "Les Autarciques",
+        "overview": "",
+        "popularity": 1.8386,
+        "poster_path": "/1jFwYJsGkA3cYcnx3xrdbywabVz.jpg",
+        "release_date": "2023-09-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iq63zhkLjGHqJTAIWqEhQve2OPp.jpg",
+        "genre_ids": [
+          53,
+          80,
+          18
+        ],
+        "id": 1404023,
+        "title": "Quarto do Pânico",
+        "original_language": "pt",
+        "original_title": "Quarto do Pânico",
+        "overview": "",
+        "popularity": 1.4146,
+        "poster_path": "/yioY8xPjLygGezkrRs7yf01BQ7P.jpg",
+        "release_date": "2025-10-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.929,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53,
+          27
+        ],
+        "id": 451908,
+        "title": "トイレの花子さん　消えた少女の秘密",
+        "original_language": "ja",
+        "original_title": "トイレの花子さん　消えた少女の秘密",
+        "overview": "",
+        "popularity": 0.975,
+        "poster_path": "/vx7BjVp4wsLjYfmz81u4KV7vA4e.jpg",
+        "release_date": "1997-09-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sOR6e2JhxhHQmcvawhfi6gAntgc.jpg",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "id": 628704,
+        "title": "منتصف الليل",
+        "original_language": "ko",
+        "original_title": "미드나이트",
+        "overview": "قاتل متسلسل يطارد بلا رحمة امرأة صماء في شوارع كوريا الجنوبية بعد أن شهدت جريمته الوحشية.",
+        "popularity": 3.947,
+        "poster_path": "/oJoLrbgEqupECFC7TwcmSZY2JSn.jpg",
+        "release_date": "2021-06-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.152,
+        "vote_count": 328
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gtYmm8HeM6CneomZ98flixAGsBe.jpg",
+        "genre_ids": [
+          18,
+          53,
+          28
+        ],
+        "id": 3176,
+        "title": "バトル・ロワイアル",
+        "original_language": "ja",
+        "original_title": "バトル・ロワイアル",
+        "overview": "",
+        "popularity": 11.0272,
+        "poster_path": "/laUmjb39U6glMrOKyaco4QPeGaC.jpg",
+        "release_date": "2000-12-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.263,
+        "vote_count": 3936
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/if7psTcBoknKHR4MJ4Bxi3mgXxs.jpg",
+        "genre_ids": [
+          27,
+          18,
+          53
+        ],
+        "id": 1397483,
+        "title": "Vestido Branco com Listras Vermelhas",
+        "original_language": "pt",
+        "original_title": "Vestido Branco com Listras Vermelhas",
+        "overview": "",
+        "popularity": 0.5317,
+        "poster_path": "/7BgkJ32L72fnCeCCWhpQP2aNm8e.jpg",
+        "release_date": "2024-08-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "id": 1397910,
+        "title": "La Sombra",
+        "original_language": "es",
+        "original_title": "La Sombra",
+        "overview": "",
+        "popularity": 0.4709,
+        "poster_path": "/cvKKpLmQ0JGroHbnD0Uvn068L7a.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          53,
+          27
+        ],
+        "id": 1202565,
+        "title": "No salgas",
+        "original_language": "es",
+        "original_title": "No salgas",
+        "overview": "",
+        "popularity": 2.2134,
+        "poster_path": "/53EMwPsZkuKSRzZa2GESTa6ZKV4.jpg",
+        "release_date": "2023-11-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 9,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27
+        ],
+        "id": 7181,
+        "title": "Dusk",
+        "original_language": "en",
+        "original_title": "Dusk",
+        "overview": "",
+        "popularity": 4.5951,
+        "poster_path": "/e2tWEpDPxytFvllRjTrFDcXFXQz.jpg",
+        "release_date": "2026-03-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iDgEeC8fBKpD6VLnRe48dvMJZvj.jpg",
+        "genre_ids": [
+          53
+        ],
+        "id": 1204367,
+        "title": "Las escondidas",
+        "original_language": "es",
+        "original_title": "Las escondidas",
+        "overview": "",
+        "popularity": 1.9975,
+        "poster_path": "/wt0YCiSLrzPWtU6rjAnTNdpSU2k.jpg",
+        "release_date": "2024-02-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/apUbdi4nGrD5VGIaxErtpsn7ST8.jpg",
+        "genre_ids": [
+          18,
+          53
+        ],
+        "id": 7442,
+        "title": "Sleeping with the Enemy",
+        "original_language": "en",
+        "original_title": "Sleeping with the Enemy",
+        "overview": "شابة تزوّر موتها في محاولة للهروب من زواجها الكابوسي ، لكنها تكتشف أنه من المستحيل التملص من زوجها المسيطر.",
+        "popularity": 8.5948,
+        "poster_path": "/zaUkndJP8IClB1gMsbw13PoVeLS.jpg",
+        "release_date": "1991-01-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.52,
+        "vote_count": 1268
+      }
+    ],
+    "total_pages": 6819,
+    "total_results": 136373
+  },
+  "videos": {
+    "results": []
+  }
+}

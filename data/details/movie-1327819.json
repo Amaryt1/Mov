@@ -1,0 +1,5096 @@
+{
+  "adult": false,
+  "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+  "belongs_to_collection": null,
+  "budget": 150000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "مغامرة"
+    },
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
+    },
+    {
+      "id": 878,
+      "name": "خيال علمي"
+    }
+  ],
+  "homepage": "",
+  "id": 1327819,
+  "imdb_id": "tt26443616",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hoppers",
+  "overview": "تدور قصة الفيلم حول فتاة تُدعى \"مايبل تاناكا\"، الشابة الشغوفة بالحيوانات، التي ترتبط عاطفيًا بمكان طبيعي كانت تزوره مع جدتها. لكن هذا المكان مهدد بسبب مشروع طريق سريع يخطط له العمدة وبينما تحاول إنقاذه، تكتشف تقنية تمكّن البشر من الدخول في أجساد حيوانات آلية والتواصل مع الحياة البرية، فتقرر استخدامها وتتحول إلى قندس.",
+  "popularity": 47.6952,
+  "poster_path": "/aUhnoIdBZYETNvsR4QlZhNYZffw.jpg",
+  "production_companies": [
+    {
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-03-04",
+  "revenue": 389685783,
+  "runtime": 104,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "سندس في عالم قندس",
+  "video": false,
+  "vote_average": 8.154,
+  "vote_count": 2311,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 3,
+        "id": 1308818,
+        "known_for_department": "Acting",
+        "name": "Piper Curda",
+        "original_name": "Piper Curda",
+        "popularity": 1.9302,
+        "profile_path": "/oyitEBcracNWMuF8Frhsqkjgzuc.jpg",
+        "cast_id": 5,
+        "character": "Mabel (voice)",
+        "credit_id": "66b6eb3872dc523b6bd77478",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 452205,
+        "known_for_department": "Acting",
+        "name": "بوبي موينيهان",
+        "original_name": "Bobby Moynihan",
+        "popularity": 1.7323,
+        "profile_path": "/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg",
+        "cast_id": 2,
+        "character": "King George (voice)",
+        "credit_id": "66b6e1ac3cf09373bce5ed90",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 65717,
+        "known_for_department": "Acting",
+        "name": "جون هام",
+        "original_name": "Jon Hamm",
+        "popularity": 4.5523,
+        "profile_path": "/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg",
+        "cast_id": 1,
+        "character": "Mayor Jerry Generazzo (voice)",
+        "credit_id": "66b6d76bb0f75eab16c60953",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 11074,
+        "known_for_department": "Acting",
+        "name": "Kathy Najimy",
+        "original_name": "Kathy Najimy",
+        "popularity": 2.0552,
+        "profile_path": "/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg",
+        "cast_id": 64,
+        "character": "Dr. Sam (voice)",
+        "credit_id": "691f57cb5cbec5bcc2c2cfdf",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54697,
+        "known_for_department": "Acting",
+        "name": "ديف فرانكو",
+        "original_name": "Dave Franco",
+        "popularity": 3.8987,
+        "profile_path": "/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg",
+        "cast_id": 85,
+        "character": "Insect King (voice)",
+        "credit_id": "698637caae21e1754f6918af",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653235,
+        "known_for_department": "Acting",
+        "name": "Eduardo Franco",
+        "original_name": "Eduardo Franco",
+        "popularity": 2.4565,
+        "profile_path": "/FOnx5Rg8L7xvEWkBhNoXwhELd6.jpg",
+        "cast_id": 61,
+        "character": "Loaf (voice)",
+        "credit_id": "691f4fca669258848a0586c4",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1625231,
+        "known_for_department": "Acting",
+        "name": "أبارنا نانشيرلا",
+        "original_name": "Aparna Nancherla",
+        "popularity": 0.7736,
+        "profile_path": "/vwpktqJnQCAGEfq2EKUjB8ZdnhI.jpg",
+        "cast_id": 63,
+        "character": "Nisha (voice)",
+        "credit_id": "691f4ff35cbec5bcc2c2cfc7",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1798896,
+        "known_for_department": "Writing",
+        "name": "Tom Law",
+        "original_name": "Tom Law",
+        "popularity": 0.711,
+        "profile_path": null,
+        "cast_id": 83,
+        "character": "Tom Lizard (voice)",
+        "credit_id": "6972a39cf3186ab61b9d03f9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1429453,
+        "known_for_department": "Acting",
+        "name": "سام ريتشاردسون",
+        "original_name": "Sam Richardson",
+        "popularity": 2.6488,
+        "profile_path": "/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg",
+        "cast_id": 60,
+        "character": "Conner (voice)",
+        "credit_id": "691f4fb1acfadfdd29adbd7a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1695631,
+        "known_for_department": "Acting",
+        "name": "Melissa Villaseñor",
+        "original_name": "Melissa Villaseñor",
+        "popularity": 0.9824,
+        "profile_path": "/144VoO4M5sU0Mn4lpTOYQFAgNVO.jpg",
+        "cast_id": 54,
+        "character": "Ellen (voice)",
+        "credit_id": "68c762e7014486dd8b230edc",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17490,
+        "known_for_department": "Acting",
+        "name": "Isiah Whitlock Jr.",
+        "original_name": "Isiah Whitlock Jr.",
+        "popularity": 1.7873,
+        "profile_path": "/8OIhQb53rMX7VcTLZbAMeVd7tHc.jpg",
+        "cast_id": 76,
+        "character": "Bird King (voice)",
+        "credit_id": "6954624f1c3300effcc386ab",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137262,
+        "known_for_department": "Acting",
+        "name": "Steve Purcell",
+        "original_name": "Steve Purcell",
+        "popularity": 1.0243,
+        "profile_path": "/8wdCJVDq7v4g5N9Qkv8D87B3Xne.jpg",
+        "cast_id": 75,
+        "character": "Amphibian King (voice)",
+        "credit_id": "6921100de94ca9bba7dd4200",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1726786,
+        "known_for_department": "Acting",
+        "name": "Ego Nwodim",
+        "original_name": "Ego Nwodim",
+        "popularity": 1.1495,
+        "profile_path": "/1vpud1BpXvbJUy0OO3B8Vl24nlp.jpg",
+        "cast_id": 59,
+        "character": "Fish Queen (voice)",
+        "credit_id": "691f4fa388b85db38beb6870",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 996697,
+        "known_for_department": "Acting",
+        "name": "Nichole Sakura",
+        "original_name": "Nichole Sakura",
+        "popularity": 3.4931,
+        "profile_path": "/pnYsUkrFGvTFwktm9QTmddr4yH1.jpg",
+        "cast_id": 77,
+        "character": "Reptile Queens (voice)",
+        "credit_id": "6954626fb773c3216cd7a514",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5064,
+        "known_for_department": "Acting",
+        "name": "Meryl Streep",
+        "original_name": "Meryl Streep",
+        "popularity": 4.9378,
+        "profile_path": "/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg",
+        "cast_id": 57,
+        "character": "Insect Queen (voice)",
+        "credit_id": "691f4d13f4406cc0bf2e2c3a",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1451088,
+        "known_for_department": "Acting",
+        "name": "Karen Huie",
+        "original_name": "Karen Huie",
+        "popularity": 0.7496,
+        "profile_path": "/aJfKOnA80bfgLEh9oacjdGIq6Or.jpg",
+        "cast_id": 78,
+        "character": "Grandma Tanaka (voice)",
+        "credit_id": "69546284678196e6c77c7e88",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6041418,
+        "known_for_department": "Acting",
+        "name": "Lila Liu",
+        "original_name": "Lila Liu",
+        "popularity": 0.3788,
+        "profile_path": "/4qSQjAbao2geaM93SlVrB7CcCzk.jpg",
+        "cast_id": 202,
+        "character": "Young Mabel (voice)",
+        "credit_id": "69a3790e283fa31e38ff6010",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2930783,
+        "known_for_department": "Visual Effects",
+        "name": "Eman Abdul-Razzak",
+        "original_name": "Eman Abdul-Razzak",
+        "popularity": 0.3777,
+        "profile_path": "/xnSP4iPthSkoZvB1RZV4PxwtZA7.jpg",
+        "cast_id": 86,
+        "character": "Insect Prince (voice)",
+        "credit_id": "6986396503baacfed02193d4",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 503103,
+        "known_for_department": "Acting",
+        "name": "Vanessa Bayer",
+        "original_name": "Vanessa Bayer",
+        "popularity": 1.6927,
+        "profile_path": "/8IUjlVY8l7S7BEVhfHzKNgVGpUX.jpg",
+        "cast_id": 62,
+        "character": "Diane (voice)",
+        "credit_id": "691f4fe09afeb8d0ad05861f",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8192,
+        "known_for_department": "Acting",
+        "name": "Joe Spano",
+        "original_name": "Joe Spano",
+        "popularity": 1.1994,
+        "profile_path": "/rHiJspLrlb4uDmWfchwd8Fv13k7.jpg",
+        "cast_id": 201,
+        "character": "Ancient Beavertonian (voice)",
+        "credit_id": "69a378cc5d002bd89ede8c7c",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 157067,
+        "known_for_department": "Acting",
+        "name": "Matthew Yang King",
+        "original_name": "Matthew Yang King",
+        "popularity": 1.5929,
+        "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+        "cast_id": 344,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69e05893a0625f9f86af972e",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10,
+        "known_for_department": "Acting",
+        "name": "Bob Peterson",
+        "original_name": "Bob Peterson",
+        "popularity": 1.8717,
+        "profile_path": "/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg",
+        "cast_id": 345,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69e0589fb03a7172982120ea",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24358,
+        "known_for_department": "Acting",
+        "name": "Lori Alan",
+        "original_name": "Lori Alan",
+        "popularity": 1.655,
+        "profile_path": "/cavATg4fX0zAl2MHwlt1IZei7EI.jpg",
+        "cast_id": 346,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69e058aba0bafc9e75af972b",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "غراي ديلايل",
+        "original_name": "Grey DeLisle",
+        "popularity": 2.5383,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "cast_id": 347,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69e058c11c031df6a1b7fc92",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35159,
+        "known_for_department": "Acting",
+        "name": "لارين نيومان",
+        "original_name": "Laraine Newman",
+        "popularity": 1.3188,
+        "profile_path": "/c50cGamQWIfDRDgYmHCiuj5Crpx.jpg",
+        "cast_id": 348,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69e058cb2ded6caf59b7fcfd",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59784,
+        "known_for_department": "Acting",
+        "name": "Carlos Alazraqui",
+        "original_name": "Carlos Alazraqui",
+        "popularity": 1.9269,
+        "profile_path": "/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg",
+        "cast_id": 349,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69e058d7f33dcbe192012cf4",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149500,
+        "known_for_department": "Acting",
+        "name": "Rick Zieff",
+        "original_name": "Rick Zieff",
+        "popularity": 1.9478,
+        "profile_path": "/6IeosfWH2rQyLF8gF1v2FfY5Q9T.jpg",
+        "cast_id": 350,
+        "character": "Additional Voices (voice)",
+        "credit_id": "69e058ed2ded6caf59b7fd01",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110141,
+        "known_for_department": "Acting",
+        "name": "Alex Désert",
+        "original_name": "Alex Désert",
+        "popularity": 1.4236,
+        "profile_path": "/iz5fLxrOTKYUkpUmGXgVfCfIZxn.jpg",
+        "cast_id": 351,
+        "character": "Additional Voice (voice)",
+        "credit_id": "6a23d2a18f916ee6a3f1c63e",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7882,
+        "known_for_department": "Writing",
+        "name": "Jeff Pidgeon",
+        "original_name": "Jeff Pidgeon",
+        "popularity": 0.8499,
+        "profile_path": "/t8LV9Y6s1qwQQNSRfo6GWEExffd.jpg",
+        "cast_id": 352,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a35dfb02f867e343df37c38",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64182,
+        "known_for_department": "Acting",
+        "name": "Bill Barretta",
+        "original_name": "Bill Barretta",
+        "popularity": 1.0674,
+        "profile_path": "/m4M99V64Bni91R8J2YgJ2QPwRDL.jpg",
+        "cast_id": 353,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a35dfc7e96706ba2f4d8803",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491592,
+        "known_for_department": "Writing",
+        "name": "دانيال تشونغ",
+        "original_name": "Daniel Chong",
+        "popularity": 1.4521,
+        "profile_path": "/gMYqVwLdoaPhIFyWUAQrRlGGjkE.jpg",
+        "cast_id": 354,
+        "character": "Additional Voices (voice)",
+        "credit_id": "6a35dfd39d1d422b174d885f",
+        "order": 30
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12890,
+        "known_for_department": "Directing",
+        "name": "بيت دوكتر",
+        "original_name": "Pete Docter",
+        "popularity": 1.7439,
+        "profile_path": "/vITDphkNpSn1LP5gUEheAnlclnl.jpg",
+        "credit_id": "66b6f29de86f07db6fa8c1e9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1485788,
+        "known_for_department": "Production",
+        "name": "Nicole Paradis Grindle",
+        "original_name": "Nicole Paradis Grindle",
+        "popularity": 0.7542,
+        "profile_path": null,
+        "credit_id": "66b6f297013f50b977a8c197",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491592,
+        "known_for_department": "Writing",
+        "name": "دانيال تشونغ",
+        "original_name": "Daniel Chong",
+        "popularity": 1.4521,
+        "profile_path": "/gMYqVwLdoaPhIFyWUAQrRlGGjkE.jpg",
+        "credit_id": "66b6eb109b1e34fbd9595f5a",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3222733,
+        "known_for_department": "Acting",
+        "name": "Heather Eisner",
+        "original_name": "Heather Eisner",
+        "popularity": 0.3589,
+        "profile_path": null,
+        "credit_id": "67df2f05c0b4387a6ec6fe5c",
+        "department": "Crew",
+        "job": "Post-Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1117950,
+        "known_for_department": "Crew",
+        "name": "Jessie Thiele",
+        "original_name": "Jessie Thiele",
+        "popularity": 0.4536,
+        "profile_path": null,
+        "credit_id": "67df2fb0978bda8ae24d7e14",
+        "department": "Production",
+        "job": "Post Production Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1982410,
+        "known_for_department": "Crew",
+        "name": "Jeremy Slome",
+        "original_name": "Jeremy Slome",
+        "popularity": 0.3904,
+        "profile_path": null,
+        "credit_id": "67df301c978bda8ae24d7e5b",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1976191,
+        "known_for_department": "Sound",
+        "name": "Coya Elliott",
+        "original_name": "Coya Elliott",
+        "popularity": 0.7166,
+        "profile_path": "/yoA5whVakiVG05EuNWCvAVtAfZB.jpg",
+        "credit_id": "67df3109ce605a1ed1c6fa6b",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8157,
+        "known_for_department": "Sound",
+        "name": "Doc Kane",
+        "original_name": "Doc Kane",
+        "popularity": 0.9525,
+        "profile_path": "/rJ12iE2gNd2TalhNXKbKH6Q3bKB.jpg",
+        "credit_id": "67df3127210fa80a0f4d83fc",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3463962,
+        "known_for_department": "Production",
+        "name": "Lexi Diamond",
+        "original_name": "Lexi Diamond",
+        "popularity": 0.7999,
+        "profile_path": null,
+        "credit_id": "67df37f3210fa80a0f4d84dc",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 186605,
+        "known_for_department": "Production",
+        "name": "Terri Douglas",
+        "original_name": "Terri Douglas",
+        "popularity": 1.2163,
+        "profile_path": "/6yRCc5oKalchZuRvVJJbEDNmLEd.jpg",
+        "credit_id": "67df3808c0b4387a6ec700ec",
+        "department": "Production",
+        "job": "ADR Voice Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2131714,
+        "known_for_department": "Editing",
+        "name": "Susan Brunig",
+        "original_name": "Susan Brunig",
+        "popularity": 0.4265,
+        "profile_path": null,
+        "credit_id": "67df3843e4a9c8690607b88b",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1998927,
+        "known_for_department": "Editing",
+        "name": "Max Sachar",
+        "original_name": "Max Sachar",
+        "popularity": 0.5392,
+        "profile_path": "/11dem0b7Mg7lJvBTUiFkpjzijFN.jpg",
+        "credit_id": "67df3976b8e0fea93407bdeb",
+        "department": "Writing",
+        "job": "Story Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7763,
+        "known_for_department": "Sound",
+        "name": "Ren Klyce",
+        "original_name": "Ren Klyce",
+        "popularity": 1.2777,
+        "profile_path": "/pvGk2TNuGsyvqwLtm1QqAzV6das.jpg",
+        "credit_id": "6880104b6c0df3da9b16aa05",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5666,
+        "known_for_department": "Sound",
+        "name": "Mark Mothersbaugh",
+        "original_name": "Mark Mothersbaugh",
+        "popularity": 0.8429,
+        "profile_path": "/AlC27GcWoXfAbP7IbncQyVPXITK.jpg",
+        "credit_id": "68b38c4e28f491ab513efa26",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21198,
+        "known_for_department": "Directing",
+        "name": "بيتر سوهن",
+        "original_name": "Peter Sohn",
+        "popularity": 1.452,
+        "profile_path": "/8cQGViF2lXlcsAIvFUMWboXYXIu.jpg",
+        "credit_id": "691f5a0c58c149be03adbd66",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1679517,
+        "known_for_department": "Production",
+        "name": "Kiri Hart",
+        "original_name": "Kiri Hart",
+        "popularity": 0.4846,
+        "profile_path": null,
+        "credit_id": "691f5a214cbb65a9550586c3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7988,
+        "known_for_department": "Camera",
+        "name": "Jeremy Lasky",
+        "original_name": "Jeremy Lasky",
+        "popularity": 0.7265,
+        "profile_path": "/kRUa5lKH37TYclcOT8YdC6Go0vX.jpg",
+        "credit_id": "691f5a35241bc984c3fa2ca8",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1636397,
+        "known_for_department": "Camera",
+        "name": "إيان ميغيبين",
+        "original_name": "Ian Megibben",
+        "popularity": 0.438,
+        "profile_path": null,
+        "credit_id": "691f5a4589ba4b45beeb68bd",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8071,
+        "known_for_department": "Editing",
+        "name": "أكسل غيديس",
+        "original_name": "Axel Geddes",
+        "popularity": 0.4114,
+        "profile_path": null,
+        "credit_id": "691f5a98acfadfdd29adbdc0",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1171950,
+        "known_for_department": "Directing",
+        "name": "مادلين شارافيان",
+        "original_name": "Madeline Sharafian",
+        "popularity": 0.6726,
+        "profile_path": "/qsWEDSX02wr9E2HfL5v9hx0DF2Q.jpg",
+        "credit_id": "691f5f19612bee5782058690",
+        "department": "Writing",
+        "job": "Story Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394669,
+        "known_for_department": "Writing",
+        "name": "Jesse Andrews",
+        "original_name": "Jesse Andrews",
+        "popularity": 0.9678,
+        "profile_path": "/4b8ykcpOb7ysl5HEzr6vSGiUk1H.jpg",
+        "credit_id": "691f5f660b2936339621a730",
+        "department": "Writing",
+        "job": "Screenplay"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 7942,
+        "known_for_department": "Visual Effects",
+        "name": "Bryn Imagire",
+        "original_name": "Bryn Imagire",
+        "popularity": 0.4374,
+        "profile_path": "/jvEWh6td2p4R1FVK2Rod4TMXY0p.jpg",
+        "credit_id": "691f60d98356246ca9adbe8e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445837,
+        "known_for_department": "Sound",
+        "name": "Stephen Urata",
+        "original_name": "Stephen Urata",
+        "popularity": 0.529,
+        "profile_path": null,
+        "credit_id": "698a4f2781e118cfec018347",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491592,
+        "known_for_department": "Writing",
+        "name": "دانيال تشونغ",
+        "original_name": "Daniel Chong",
+        "popularity": 1.4521,
+        "profile_path": "/gMYqVwLdoaPhIFyWUAQrRlGGjkE.jpg",
+        "credit_id": "69a37f1bb60e88da6e4181bc",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1394669,
+        "known_for_department": "Writing",
+        "name": "Jesse Andrews",
+        "original_name": "Jesse Andrews",
+        "popularity": 0.9678,
+        "profile_path": "/4b8ykcpOb7ysl5HEzr6vSGiUk1H.jpg",
+        "credit_id": "69a37f266a4484dec0ff5fca",
+        "department": "Writing",
+        "job": "Story"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1667699,
+        "known_for_department": "Directing",
+        "name": "John Cody Kim",
+        "original_name": "John Cody Kim",
+        "popularity": 0.4719,
+        "profile_path": null,
+        "credit_id": "69a37f3e9874b0e419418391",
+        "department": "Writing",
+        "job": "Story Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2009156,
+        "known_for_department": "Production",
+        "name": "Michael Warch",
+        "original_name": "Michael Warch",
+        "popularity": 0.3712,
+        "profile_path": null,
+        "credit_id": "69a3a493283fa31e38ff60f3",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2485280,
+        "known_for_department": "Crew",
+        "name": "Beth Albright",
+        "original_name": "Beth Albright",
+        "popularity": 0.3129,
+        "profile_path": null,
+        "credit_id": "69a3a4ef98d670e5d141831e",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1609045,
+        "known_for_department": "Visual Effects",
+        "name": "Lucy Laliberte",
+        "original_name": "Lucy Laliberte",
+        "popularity": 0.4026,
+        "profile_path": null,
+        "credit_id": "69a3a50b24412d2b2d187a26",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1993662,
+        "known_for_department": "Visual Effects",
+        "name": "Alon Winterstein",
+        "original_name": "Alon Winterstein",
+        "popularity": 0.4944,
+        "profile_path": null,
+        "credit_id": "69a3a535b5749133fbff5f58",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6041672,
+        "known_for_department": "Writing",
+        "name": "Samantha Jane Gruwell",
+        "original_name": "Samantha Jane Gruwell",
+        "popularity": 0.4014,
+        "profile_path": null,
+        "credit_id": "69a3a5ca9eb51793d0187813",
+        "department": "Writing",
+        "job": "Story Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 57673,
+        "known_for_department": "Production",
+        "name": "Kevin Reher",
+        "original_name": "Kevin Reher",
+        "popularity": 0.7844,
+        "profile_path": "/ulnGGeHrys0tkTq9vFBSmHpdCQX.jpg",
+        "credit_id": "69a3a5f708c06d391a41834e",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 963497,
+        "known_for_department": "Production",
+        "name": "Natalie Lyon",
+        "original_name": "Natalie Lyon",
+        "popularity": 0.9194,
+        "profile_path": null,
+        "credit_id": "69a3a6139c477d77b7c4b3eb",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2499932,
+        "known_for_department": "Production",
+        "name": "Kate Hansen-Birnbaum",
+        "original_name": "Kate Hansen-Birnbaum",
+        "popularity": 0.7613,
+        "profile_path": null,
+        "credit_id": "69a3a62572a0ea9a34c4b1d1",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1645150,
+        "known_for_department": "Crew",
+        "name": "Matt Walker",
+        "original_name": "Matt Walker",
+        "popularity": 0.4977,
+        "profile_path": null,
+        "credit_id": "69a3a635baf3cb3a51a79159",
+        "department": "Crew",
+        "job": "Executive Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1299484,
+        "known_for_department": "Visual Effects",
+        "name": "Bob Whitehill",
+        "original_name": "Bob Whitehill",
+        "popularity": 0.6993,
+        "profile_path": null,
+        "credit_id": "69a3a768dec4a779aede8c77",
+        "department": "Visual Effects",
+        "job": "Stereoscopic Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11174,
+        "known_for_department": "Sound",
+        "name": "Dennis Leonard",
+        "original_name": "Dennis Leonard",
+        "popularity": 0.6161,
+        "profile_path": "/bjTCZiReJHogOkHJbz6r1eiiS1d.jpg",
+        "credit_id": "69a3a7940b6d5b6192de8d30",
+        "department": "Sound",
+        "job": "Foley Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 80827,
+        "known_for_department": "Sound",
+        "name": "Shelley Roden",
+        "original_name": "Shelley Roden",
+        "popularity": 0.6642,
+        "profile_path": null,
+        "credit_id": "69a3a7ab2a492252aec4b2db",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1352421,
+        "known_for_department": "Sound",
+        "name": "Sean England",
+        "original_name": "Sean England",
+        "popularity": 0.6378,
+        "profile_path": null,
+        "credit_id": "69a3a7b9cf1e076ed5c4b579",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8163,
+        "known_for_department": "Sound",
+        "name": "Jana Vance",
+        "original_name": "Jana Vance",
+        "popularity": 0.5277,
+        "profile_path": null,
+        "credit_id": "69a3a7c9b5749133fbff5f61",
+        "department": "Sound",
+        "job": "Foley Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2910975,
+        "known_for_department": "Sound",
+        "name": "Nick Docter",
+        "original_name": "Nick Docter",
+        "popularity": 0.3898,
+        "profile_path": null,
+        "credit_id": "69a3a8325e2235c3c3ccd0ff",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1756519,
+        "known_for_department": "Sound",
+        "name": "Jeremy Molod",
+        "original_name": "Jeremy Molod",
+        "popularity": 0.729,
+        "profile_path": null,
+        "credit_id": "69a3a842382dde6c70c4b431",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2048582,
+        "known_for_department": "Acting",
+        "name": "SZA",
+        "original_name": "SZA",
+        "popularity": 0.9268,
+        "profile_path": "/qLub6FscV7eZgKS2mUThG2fjq5F.jpg",
+        "credit_id": "69a3a8adcb9defbf47e2b5ee",
+        "department": "Sound",
+        "job": "Songs"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2009739,
+        "known_for_department": "Directing",
+        "name": "دومي شي",
+        "original_name": "Domee Shi",
+        "popularity": 0.8885,
+        "profile_path": "/qswD23e2Hx91SiaxyiLZHz8glNu.jpg",
+        "credit_id": "69b149a9371981c722ac21af",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8,
+        "known_for_department": "Directing",
+        "name": "Lee Unkrich",
+        "original_name": "Lee Unkrich",
+        "popularity": 1.3412,
+        "profile_path": "/crb297utC6W4HSstOe5djDPTwEN.jpg",
+        "credit_id": "69b149cbeb17492fa684ad72",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1993425,
+        "known_for_department": "Visual Effects",
+        "name": "Thidaratana Annee Jonjai",
+        "original_name": "Thidaratana Annee Jonjai",
+        "popularity": 0.291,
+        "profile_path": null,
+        "credit_id": "69b704f78696419dc53b950d",
+        "department": "Art",
+        "job": "Set Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1997858,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Frank Tai",
+        "original_name": "Frank Tai",
+        "popularity": 0.3747,
+        "profile_path": null,
+        "credit_id": "69b7050a313708cd3108eea9",
+        "department": "Art",
+        "job": "Set Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1993271,
+        "known_for_department": "Visual Effects",
+        "name": "Jon Reisch",
+        "original_name": "Jon Reisch",
+        "popularity": 0.7022,
+        "profile_path": null,
+        "credit_id": "69b7052c991a7daada95f4f7",
+        "department": "Visual Effects",
+        "job": "Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2002745,
+        "known_for_department": "Editing",
+        "name": "Matt DeMartini",
+        "original_name": "Matt DeMartini",
+        "popularity": 0.6557,
+        "profile_path": null,
+        "credit_id": "69b728bd313708cd3108ef3e",
+        "department": "Lighting",
+        "job": "Lighting Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2002745,
+        "known_for_department": "Editing",
+        "name": "Matt DeMartini",
+        "original_name": "Matt DeMartini",
+        "popularity": 0.6557,
+        "profile_path": null,
+        "credit_id": "69b728d0821bed9db695f879",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2834007,
+        "known_for_department": "Directing",
+        "name": "Valerie Kao",
+        "original_name": "Valerie Kao",
+        "popularity": 0.6165,
+        "profile_path": null,
+        "credit_id": "69b72baf53a497f736a63861",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1932548,
+        "known_for_department": "Art",
+        "name": "Daniel Lopez Muñoz",
+        "original_name": "Daniel Lopez Muñoz",
+        "popularity": 0.3934,
+        "profile_path": null,
+        "credit_id": "69b72bd7c5520154d601fd9d",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2017692,
+        "known_for_department": "Art",
+        "name": "Sandeep Menon",
+        "original_name": "Sandeep Menon",
+        "popularity": 0.3267,
+        "profile_path": null,
+        "credit_id": "69b72bdf1e6fa3072401fe15",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1516157,
+        "known_for_department": "Art",
+        "name": "Bert Berry",
+        "original_name": "Bert Berry",
+        "popularity": 0.3822,
+        "profile_path": "/a0yGz3Fp7SsukXpyJVyu7ScHTap.jpg",
+        "credit_id": "69b72c2787531097ac3b96c5",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5299527,
+        "known_for_department": "Art",
+        "name": "Jacy Zuckerbrow",
+        "original_name": "Jacy Zuckerbrow",
+        "popularity": 0.2938,
+        "profile_path": null,
+        "credit_id": "69b72c30482d00725c3b98a3",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 8003,
+        "known_for_department": "Art",
+        "name": "Ellen Moon Lee",
+        "original_name": "Ellen Moon Lee",
+        "popularity": 0.3599,
+        "profile_path": null,
+        "credit_id": "69b72c399f0429a64821d8d1",
+        "department": "Art",
+        "job": "Graphic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2380011,
+        "known_for_department": "Visual Effects",
+        "name": "Felicia Chen",
+        "original_name": "Felicia Chen",
+        "popularity": 0.4256,
+        "profile_path": null,
+        "credit_id": "69b72c6948de72271ea638a5",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6074218,
+        "known_for_department": "Visual Effects",
+        "name": "Francesca Fedele",
+        "original_name": "Francesca Fedele",
+        "popularity": 0.3284,
+        "profile_path": null,
+        "credit_id": "69b72ca2c494b503c795f94e",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6074223,
+        "known_for_department": "Visual Effects",
+        "name": "Kerascoët",
+        "original_name": "Kerascoët",
+        "popularity": 0.3821,
+        "profile_path": null,
+        "credit_id": "69b72d01998fc15eed5a72f9",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6074225,
+        "known_for_department": "Visual Effects",
+        "name": "yogin幺青",
+        "original_name": "yogin幺青",
+        "popularity": 0.3743,
+        "profile_path": null,
+        "credit_id": "69b72d14482d00725c3b98c6",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6074232,
+        "known_for_department": "Visual Effects",
+        "name": "Airi Pan",
+        "original_name": "Airi Pan",
+        "popularity": 0.3699,
+        "profile_path": null,
+        "credit_id": "69b72dbfa0992c94e15a76d9",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3062102,
+        "known_for_department": "Writing",
+        "name": "Louie Zong",
+        "original_name": "Louie Zong",
+        "popularity": 0.7004,
+        "profile_path": null,
+        "credit_id": "69b72dcacc8795d48508edff",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2015672,
+        "known_for_department": "Visual Effects",
+        "name": "Sylvain Marc",
+        "original_name": "Sylvain Marc",
+        "popularity": 0.3822,
+        "profile_path": null,
+        "credit_id": "69b72dd4d1f6bf5adf5c9fe1",
+        "department": "Visual Effects",
+        "job": "Visual Development"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3063665,
+        "known_for_department": "Acting",
+        "name": "Ashley Adler",
+        "original_name": "Ashley Adler",
+        "popularity": 0.3878,
+        "profile_path": null,
+        "credit_id": "69bd2046910546070e7c204a",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24358,
+        "known_for_department": "Acting",
+        "name": "Lori Alan",
+        "original_name": "Lori Alan",
+        "popularity": 1.655,
+        "profile_path": "/cavATg4fX0zAl2MHwlt1IZei7EI.jpg",
+        "credit_id": "69bd204ed28ffbd81bee31d4",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59784,
+        "known_for_department": "Acting",
+        "name": "Carlos Alazraqui",
+        "original_name": "Carlos Alazraqui",
+        "popularity": 1.9269,
+        "profile_path": "/rv3ZYwFvMCz6rQNJR4p0wRMbK9U.jpg",
+        "credit_id": "69bd2056e515473a419ded79",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 64182,
+        "known_for_department": "Acting",
+        "name": "Bill Barretta",
+        "original_name": "Bill Barretta",
+        "popularity": 1.0674,
+        "profile_path": "/m4M99V64Bni91R8J2YgJ2QPwRDL.jpg",
+        "credit_id": "69bd205e4b89efe51e45f392",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1446818,
+        "known_for_department": "Acting",
+        "name": "Reba Buhr",
+        "original_name": "Reba Buhr",
+        "popularity": 0.7055,
+        "profile_path": null,
+        "credit_id": "69bd2064ccdadce55a8c1f80",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1491592,
+        "known_for_department": "Writing",
+        "name": "دانيال تشونغ",
+        "original_name": "Daniel Chong",
+        "popularity": 1.4521,
+        "profile_path": "/gMYqVwLdoaPhIFyWUAQrRlGGjkE.jpg",
+        "credit_id": "69bd206c4b45fb91708c1f62",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84496,
+        "known_for_department": "Directing",
+        "name": "Josh Cooley",
+        "original_name": "Josh Cooley",
+        "popularity": 0.9884,
+        "profile_path": "/eGN0vaFmKtqHu1nFi3Lv4roQ6P2.jpg",
+        "credit_id": "69bd20730fbc7c373145f426",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15761,
+        "known_for_department": "Acting",
+        "name": "غراي ديلايل",
+        "original_name": "Grey DeLisle",
+        "popularity": 2.5383,
+        "profile_path": "/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg",
+        "credit_id": "69bd207a43d3077ac46e577e",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1213736,
+        "known_for_department": "Acting",
+        "name": "Liza del Mundo",
+        "original_name": "Liza del Mundo",
+        "popularity": 0.7174,
+        "profile_path": "/4gPIRfC9w88TITcGFX9YcIvfnSD.jpg",
+        "credit_id": "69bd208259284aed146e56a7",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 110141,
+        "known_for_department": "Acting",
+        "name": "Alex Désert",
+        "original_name": "Alex Désert",
+        "popularity": 1.4236,
+        "profile_path": "/iz5fLxrOTKYUkpUmGXgVfCfIZxn.jpg",
+        "credit_id": "69bd208aa441541f696e56cb",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4078463,
+        "known_for_department": "Acting",
+        "name": "Clara Lin Ding",
+        "original_name": "Clara Lin Ding",
+        "popularity": 0.3639,
+        "profile_path": null,
+        "credit_id": "69bd2099da04fa003d7c2026",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6042945,
+        "known_for_department": "Acting",
+        "name": "Danica Lin Ding",
+        "original_name": "Danica Lin Ding",
+        "popularity": 0.3539,
+        "profile_path": null,
+        "credit_id": "69bd20ae363b9fc7b6ee319b",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 186605,
+        "known_for_department": "Production",
+        "name": "Terri Douglas",
+        "original_name": "Terri Douglas",
+        "popularity": 1.2163,
+        "profile_path": "/6yRCc5oKalchZuRvVJJbEDNmLEd.jpg",
+        "credit_id": "69bd20b5cbf0161c298c1f60",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59297,
+        "known_for_department": "Acting",
+        "name": "Eric Edelstein",
+        "original_name": "Eric Edelstein",
+        "popularity": 1.9528,
+        "profile_path": "/d1ng4kzNijFQ8DSQWeU5P6XDgmA.jpg",
+        "credit_id": "69bd20c143d3077ac46e5783",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2016862,
+        "known_for_department": "Acting",
+        "name": "Jake Green",
+        "original_name": "Jake Green",
+        "popularity": 1.0338,
+        "profile_path": "/3bfUpMgBCJw1Serr18Qm8tDJQvE.jpg",
+        "credit_id": "69bd20c865b6efcb999ded46",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6041672,
+        "known_for_department": "Writing",
+        "name": "Samantha Jane Gruwell",
+        "original_name": "Samantha Jane Gruwell",
+        "popularity": 0.4014,
+        "profile_path": null,
+        "credit_id": "69bd20d0a1b3e94f50ee31df",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1445715,
+        "known_for_department": "Acting",
+        "name": "Damien C. Haas",
+        "original_name": "Damien C. Haas",
+        "popularity": 1.1606,
+        "profile_path": "/kNW0wsbsigNkJi0lFHARo0GRZDa.jpg",
+        "credit_id": "69bd20d70cdaeba67d6e5623",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1451088,
+        "known_for_department": "Acting",
+        "name": "Karen Huie",
+        "original_name": "Karen Huie",
+        "popularity": 0.7496,
+        "profile_path": "/aJfKOnA80bfgLEh9oacjdGIq6Or.jpg",
+        "credit_id": "69bd20e324f7f2e6009dedf0",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 157067,
+        "known_for_department": "Acting",
+        "name": "Matthew Yang King",
+        "original_name": "Matthew Yang King",
+        "popularity": 1.5929,
+        "profile_path": "/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg",
+        "credit_id": "69bd20ea560b701fa16e5721",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6041418,
+        "known_for_department": "Acting",
+        "name": "Lila Liu",
+        "original_name": "Lila Liu",
+        "popularity": 0.3788,
+        "profile_path": "/4qSQjAbao2geaM93SlVrB7CcCzk.jpg",
+        "credit_id": "69bd20f187994b38857c1fe4",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 184082,
+        "known_for_department": "Acting",
+        "name": "Eric Lopez",
+        "original_name": "Eric Lopez",
+        "popularity": 0.6064,
+        "profile_path": "/4J97E27McuNTWQBWuUvnJwbJEqH.jpg",
+        "credit_id": "69bd20f8cbf0161c298c1f63",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84075,
+        "known_for_department": "Acting",
+        "name": "Demetri Martin",
+        "original_name": "Demetri Martin",
+        "popularity": 1.3654,
+        "profile_path": "/poesoCgSdYtCFEqWbrh6499qOac.jpg",
+        "credit_id": "69bd21050da7c99ad745f398",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1544176,
+        "known_for_department": "Acting",
+        "name": "Melanie Minichino",
+        "original_name": "Melanie Minichino",
+        "popularity": 1.3027,
+        "profile_path": "/avh6oLRCYxd8tjnbdSnd7Nqfcvk.jpg",
+        "credit_id": "69bd210c7ca60393e0ee31f8",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6057330,
+        "known_for_department": "Acting",
+        "name": "Dominic Moran",
+        "original_name": "Dominic Moran",
+        "popularity": 0.3726,
+        "profile_path": null,
+        "credit_id": "69bd2113cceca147dc9ded54",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4270352,
+        "known_for_department": "Acting",
+        "name": "Brent Mukai",
+        "original_name": "Brent Mukai",
+        "popularity": 0.4102,
+        "profile_path": "/2i4RPM659pvrhtYG9Wr30OcEDqX.jpg",
+        "credit_id": "69bd211a2fc44c832e8c1e82",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1247120,
+        "known_for_department": "Acting",
+        "name": "Jack Myers",
+        "original_name": "Jack Myers",
+        "popularity": 0.3862,
+        "profile_path": "/jYW1pBOoApVao8N2qiLtwbMG4KH.jpg",
+        "credit_id": "69bd21220fbc7c373145f43c",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2351538,
+        "known_for_department": "Acting",
+        "name": "Gabrielle Nevaeh",
+        "original_name": "Gabrielle Nevaeh",
+        "popularity": 0.9915,
+        "profile_path": "/5JyW6ioJOZtMro68BzTydNQInDB.jpg",
+        "credit_id": "69bd2129759493875a45f3a1",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1523348,
+        "known_for_department": "Acting",
+        "name": "Anoush NeVart",
+        "original_name": "Anoush NeVart",
+        "popularity": 0.6665,
+        "profile_path": "/66sKr48TlM1CK97VyEm3ORwt28z.jpg",
+        "credit_id": "69bd213210db5cf7aa9dee26",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 35159,
+        "known_for_department": "Acting",
+        "name": "لارين نيومان",
+        "original_name": "Laraine Newman",
+        "popularity": 1.3188,
+        "profile_path": "/c50cGamQWIfDRDgYmHCiuj5Crpx.jpg",
+        "credit_id": "69bd21394732abcc2d8c1f38",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1209727,
+        "known_for_department": "Acting",
+        "name": "Ajani Perkins",
+        "original_name": "Ajani Perkins",
+        "popularity": 0.3845,
+        "profile_path": "/7czfJPrOPfGDNRd5DdMUTOzuHfg.jpg",
+        "credit_id": "69bd213fcceca147dc9ded57",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10,
+        "known_for_department": "Acting",
+        "name": "Bob Peterson",
+        "original_name": "Bob Peterson",
+        "popularity": 1.8717,
+        "profile_path": "/dJe3nTCIToebjj1WHFHP7LmZKyk.jpg",
+        "credit_id": "69bd214715cceaf51f5fb520",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 7882,
+        "known_for_department": "Writing",
+        "name": "Jeff Pidgeon",
+        "original_name": "Jeff Pidgeon",
+        "popularity": 0.8499,
+        "profile_path": "/t8LV9Y6s1qwQQNSRfo6GWEExffd.jpg",
+        "credit_id": "69bd214e10229690115fb567",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 137262,
+        "known_for_department": "Acting",
+        "name": "Steve Purcell",
+        "original_name": "Steve Purcell",
+        "popularity": 1.0243,
+        "profile_path": "/8wdCJVDq7v4g5N9Qkv8D87B3Xne.jpg",
+        "credit_id": "69bd2156e6463648d69dee44",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3557263,
+        "known_for_department": "Acting",
+        "name": "Sean Rohani",
+        "original_name": "Sean Rohani",
+        "popularity": 0.3737,
+        "profile_path": "/t309IwBtZd8OwC8451nBjULOjFE.jpg",
+        "credit_id": "69bd21602fc44c832e8c1e8a",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1989276,
+        "known_for_department": "Directing",
+        "name": "Rachel Slansky",
+        "original_name": "Rachel Slansky",
+        "popularity": 0.3825,
+        "profile_path": null,
+        "credit_id": "69bd2168c337961e7fee3290",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2061712,
+        "known_for_department": "Directing",
+        "name": "Kyler Spears",
+        "original_name": "Kyler Spears",
+        "popularity": 0.6396,
+        "profile_path": "/ciUmi4uGPXvME6Vh4FptrBM5X8D.jpg",
+        "credit_id": "69bd21708831a9750245f394",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6057334,
+        "known_for_department": "Acting",
+        "name": "Kyle Thompson",
+        "original_name": "Kyle Thompson",
+        "popularity": 0.3433,
+        "profile_path": null,
+        "credit_id": "69bd217f560b701fa16e5727",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 112086,
+        "known_for_department": "Acting",
+        "name": "Marcus Toji",
+        "original_name": "Marcus Toji",
+        "popularity": 0.7324,
+        "profile_path": "/2PImLFJZ3UlDkew5AJVUfgrm7vg.jpg",
+        "credit_id": "69bd2185ddbd5d56308c1fb3",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 83105,
+        "known_for_department": "Acting",
+        "name": "Debra Wilson",
+        "original_name": "Debra Wilson",
+        "popularity": 2.0792,
+        "profile_path": "/3anRgUtqohXRNM6HtwGl1ZFgCS8.jpg",
+        "credit_id": "69bd218f8257e66d19ee323a",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79915,
+        "known_for_department": "Acting",
+        "name": "Secunda Wood",
+        "original_name": "Secunda Wood",
+        "popularity": 0.7815,
+        "profile_path": "/8V3XYgtnB8nFrMnUqxk5o1Vba8H.jpg",
+        "credit_id": "69bd2199e6463648d69dee4e",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6057337,
+        "known_for_department": "Acting",
+        "name": "Jorden Wyrick",
+        "original_name": "Jorden Wyrick",
+        "popularity": 0.3338,
+        "profile_path": null,
+        "credit_id": "69bd21a0cbf0161c298c1f70",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2091700,
+        "known_for_department": "Directing",
+        "name": "Bert Youn",
+        "original_name": "Bert Youn",
+        "popularity": 0.4255,
+        "profile_path": null,
+        "credit_id": "69bd21a9b818abc35806e67d",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 149500,
+        "known_for_department": "Acting",
+        "name": "Rick Zieff",
+        "original_name": "Rick Zieff",
+        "popularity": 1.9478,
+        "profile_path": "/6IeosfWH2rQyLF8gF1v2FfY5Q9T.jpg",
+        "credit_id": "69bd21af8831a9750245f397",
+        "department": "Sound",
+        "job": "ADR & Dubbing"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1932548,
+        "known_for_department": "Art",
+        "name": "Daniel Lopez Muñoz",
+        "original_name": "Daniel Lopez Muñoz",
+        "popularity": 0.3934,
+        "profile_path": null,
+        "credit_id": "69bd227bcbf0161c298c1f77",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2135251,
+        "known_for_department": "Writing",
+        "name": "Rosana Sullivan",
+        "original_name": "Rosana Sullivan",
+        "popularity": 0.4667,
+        "profile_path": "/e5frWLvlZc5n4Lfmogqd5J97aFH.jpg",
+        "credit_id": "69bd241e314b55794dee31e1",
+        "department": "Production",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6449680,
+        "known_for_department": "Art",
+        "name": "Anna Laura Scott",
+        "original_name": "Anna Laura Scott",
+        "popularity": 0.4166,
+        "profile_path": null,
+        "credit_id": "6a968e8d17f0a26ee2cce39e",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6384049,
+        "known_for_department": "Directing",
+        "name": "Hye Sung Park",
+        "original_name": "Hye Sung Park",
+        "popularity": 0.5755,
+        "profile_path": null,
+        "credit_id": "6a968ead8aba1582553caec5",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2005079,
+        "known_for_department": "Visual Effects",
+        "name": "Daniel Holland",
+        "original_name": "Daniel Holland",
+        "popularity": 0.3623,
+        "profile_path": null,
+        "credit_id": "6a968f1d0e03553ea9bd4d17",
+        "department": "Art",
+        "job": "Art Direction"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "ar",
+        "iso_3166_1": "SA",
+        "name": "Hoppers l عرض دعائي (مدبلج)",
+        "key": "Rce1iv9VKSc",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6a73cf57b112ff6d4f9c85ed",
+        "published_at": "2026-01-01T18:00:23.000Z"
+      },
+      {
+        "iso_639_1": "ar",
+        "iso_3166_1": "SA",
+        "name": "سندس في عالم قندس | الإعلان التشويقي",
+        "key": "ZmhWx9PLomk",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": false,
+        "id": "6a73d148f4ffb088b7ac69d9",
+        "published_at": "2025-07-21T12:42:44.000Z"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/uG1v9Hk1XKICd6IJChRR20mBh8i.jpg",
+        "id": 431693,
+        "title": "الجواسيس المتنكرون",
+        "original_title": "Spies in Disguise",
+        "overview": "سوبر جاسوس. سوبر فلاي.\r الجاسوس الخارق لانس ستيرلينج والعالم والتر بيكيت متعارضان تماما. انس على نحو سلس ، رقيق و مبتهج . والتر هو ... لا. لكن ما يفتقر إليه والتر في المهارات الاجتماعية يعوضه في الذكاء والاختراع ، ويخلق الأدوات الرائعة التي يستخدمها لانس في مهامه الملحمية. ولكن عندما تأخذ الأحداث منعطفا غير متوقع ، يتعين على والتر ولانس فجأة الاعتماد على بعضهما البعض بطريقة جديدة تماما.",
+        "poster_path": "/88CyB6y8qoKoc8aRsS5hS1xh1B9.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          35,
+          10751
+        ],
+        "popularity": 11.3518,
+        "release_date": "2019-12-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.542,
+        "vote_count": 3043
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xfNHRI2f5kHGvogxLd0C5sB90L7.jpg",
+        "id": 539681,
+        "title": "تحالف دي سي للحيوانات الخارقة",
+        "original_title": "DC League of Super-Pets",
+        "overview": "بينما ينشغل سوبرمان في عطلته الخاصة بعيدًا عن محاربة الجريمة، يُصبح على كلبه الأليف التدخل لإنقاذ الأمور وتكوين تحالف بمساعدة قطة تمتلك القدرة على الطيران.",
+        "poster_path": "/bfZF5ja5msCreD1zxTOGSPtOlKw.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          16,
+          878,
+          28
+        ],
+        "popularity": 7.1206,
+        "release_date": "2022-07-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.141,
+        "vote_count": 1776
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/irpJXGiVr539uuspcQcNdkhS2lq.jpg",
+        "id": 38055,
+        "title": "ميجامايند",
+        "original_title": "Megamind",
+        "overview": "صراع غير اعتيادي بين الخير والشر، بطله (ميجامايند) الذي نجح في التغلب على خصمه (مترومان)، ويشعر بالملل حيث لم يعد هناك من يستحق أن يواجهه، إلى أن يخلق لنفسه خصم جديد له، وهو (تايتن) الذي لا يستخدم قواه معه فقط، بل يخطط لتدمير العالم؛ مما يضع (ميجامانيد) أمام مسئولية اﻹنقاذ الكبير ﻷول مرة في حياته.",
+        "poster_path": "/kH2acwtiiwHsgARlFM653miKOvn.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          35,
+          10751,
+          878
+        ],
+        "popularity": 18.5571,
+        "release_date": "2010-10-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.038,
+        "vote_count": 7673
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/XNVdWNgiAHu8y4BsJv5ndUHXxN.jpg",
+        "id": 929204,
+        "title": "والاس وغروميت الانتقام المرّ",
+        "original_title": "Wallace & Gromit: Vengeance Most Fowl",
+        "overview": "يهبّ الكلب المميز \"غروميت\" إلى العمل لإنقاذ سيده حين يميل اختراع \"والاس\" فائق التقنية للتمرد والتصرف من تلقاء نفسه، فيجد نفسه متورطًا في سلسلة من الجرائم المشبوهة.",
+        "poster_path": "/iUhz0Ijy4OjCEOJ5vbippZTFNwf.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          878,
+          10751
+        ],
+        "popularity": 7.6213,
+        "release_date": "2024-12-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.453,
+        "vote_count": 721
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wk7R89u4l3AC3PRg7Abac2IJ5Ky.jpg",
+        "id": 16866,
+        "title": "الكوكب 51",
+        "original_title": "Planet 51",
+        "overview": "الكوكب 51، حيث يعيش سكانه في خوف دائم من غزو فضائي. تتحقق هذه المخاوف عندما يهبط الكابتن تشارلز \"تشاك\" بيكر على كوكبهم، ويهرب من الأسر، ويحاول العودة إلى الأرض.",
+        "poster_path": "/awdxn38SdUhf1rddWJs6SjjaRgp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          878,
+          12
+        ],
+        "popularity": 8.4809,
+        "release_date": "2009-11-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.925,
+        "vote_count": 2221
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s3FiHTdpQVpqIqdBxLLiy40wGut.jpg",
+        "id": 140300,
+        "title": "كونغ فو باندا 3",
+        "original_title": "Kung Fu Panda 3",
+        "overview": "بينما يزور \"بو\" ووالده قرية سرّية للباندا، تهدد روح شريرة بلاد \"الصين\" بكاملها وتدفع \"بو\" إلى تشكيل جيش غير منظم للمقاومة والقتال.",
+        "poster_path": "/nHKgwhO8MNpiLmpCyOckdchyF6T.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          35,
+          10751
+        ],
+        "popularity": 13.7171,
+        "release_date": "2016-01-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.939,
+        "vote_count": 6762
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
+        "id": 1022787,
+        "title": "إليو",
+        "original_title": "Elio",
+        "overview": "يجد إليو البالغ من العمر 11 عاما نفسه منقولا عبر المجرة ويخطئ في أنه سفير بين المجرات لكوكب الأرض.",
+        "poster_path": "/gvckTVdhkMjGWciSynsd4kI50TY.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          12,
+          878,
+          10751,
+          35
+        ],
+        "popularity": 20.0649,
+        "release_date": "2025-06-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.922,
+        "vote_count": 1121
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AgYlP6g4vrNn1sVsAIvflW3TfJU.jpg",
+        "id": 422803,
+        "title": "فيلم الخروف شون: كارثة المزرعة",
+        "original_title": "A Shaun the Sheep Movie: Farmageddon",
+        "overview": "عندما يقوم شخص غريب يمتلك قوى مذهلة بالهبوط بالقرب من مزرعة (موسي بوتوم)، يذهب الخروف (شون) في مهمة لرعاية منزل الزائر بين المجرات قبل أن تتمكن منظمة شريرة من أسرها.",
+        "poster_path": "/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          16,
+          878
+        ],
+        "popularity": 6.1613,
+        "release_date": "2019-09-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.894,
+        "vote_count": 607
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gnkBzJVH2zicIopP2fHf4kRElne.jpg",
+        "id": 228161,
+        "title": "الوطن",
+        "original_title": "Home",
+        "overview": "عوالم تصطدم\r عندما يتم الاستيلاء على الأرض من قبل بوف الواثق بشكل مفرط ، وهو جنس فضائي يبحث عن مكان جديد للاتصال بالمنزل ، يتم نقل جميع البشر على الفور ، بينما ينشغل كل بوف بإعادة تنظيم الكوكب. ولكن عندما تتمكن فتاة واسعة الحيلة ، تيب ، من تجنب القبض عليها ، تجد نفسها شريكة عرضية لبوف منفي يدعى أوه. يدرك الهاربان أن هناك الكثير على المحك من العلاقات بين المجرات أثناء شروعهما في رحلة العمر على الطريق.",
+        "poster_path": "/nNhJLxmP4gm9JT7EvxBhxHZf3lp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          35,
+          16,
+          878,
+          10751
+        ],
+        "popularity": 12.481,
+        "release_date": "2015-03-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.788,
+        "vote_count": 4312
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ytTQoYkdpsgtfDWrNFCei8Mfbxu.jpg",
+        "id": 529203,
+        "title": "عائلة كرود∶ عصر جديد",
+        "original_title": "The Croods: A New Age",
+        "overview": "في بحثها عن موطن أكثر أمانًا، تكتشف عائلة كرود من عصور ما قبل التاريخ جنةً مثاليةً محاطةً بالأسوار تُلبي جميع احتياجاتها. ولكن، للأسف، عليهم أيضًا أن يتعلموا العيش مع عائلة بيترمان - وهي عائلةٌ تتفوق عليهم ببضع خطوات في سلم التطور. ومع تصاعد التوترات بين الجيران الجدد، سرعان ما يدفع تهديدٌ جديدٌ كلا العشيرتين إلى مغامرةٍ ملحميةٍ تُجبرهما على تقبّل اختلافاتهما، واستمداد القوة من بعضهما البعض، والبقاء معًا.",
+        "poster_path": "/k6F13uEkqJe0i3eza2NUQZcEdv4.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          12,
+          14,
+          35
+        ],
+        "popularity": 10.5549,
+        "release_date": "2020-11-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.44,
+        "vote_count": 4232
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Ybbh8TrO8bkEfQXDedekLwVDfA.jpg",
+        "id": 8355,
+        "title": "العصر الجليدي 3∶ ظهور الديناصورات",
+        "original_title": "Ice Age: Dawn of the Dinosaurs",
+        "overview": "ماني الفيل المحبوب يعود في مغامرات جديدة مع أصدقائه سيد وديوجو وسكرات. تزوج ماني باللي وينتظرا ولادة ابنهما الجديد. يشعر سيد بالرغبة في الانجاب أيضًا فيسرق بعض بيض ديناصور مما يؤدي إلى مشاكل وطرائف مضحكة.",
+        "poster_path": "/bijYodj8TAYOlLDBqWdN8jK3WP3.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          12
+        ],
+        "popularity": 19.2725,
+        "release_date": "2009-06-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.777,
+        "vote_count": 9051
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fbxZeJEcyf76oEQIGmotlclwmiH.jpg",
+        "id": 15512,
+        "title": "الوحوش ضد الفضائيين",
+        "original_title": "Monsters vs Aliens",
+        "overview": "تدور أحداث الفيلم في إطار من المغامرات حول نيزك من الفضاء الخارجي يضرب امرأة من كاليفورنيا تدعى (سوزان ميرفي)، مما يحولها إلى وحش عملاق، وتعتقلها الحكومة وتسجنها في مكان سري يضم أشخاصَا مثلها ممن وقعت لهم حوادث مماثلة في السابق، وعندما يصل مخلوق فضائي غريب الى كوكب الارض من أجل غزو العالم، يعرض الرئيس (هاثاواي) على هؤلاء الأشخاص حريتهم في مقابل التغلب على هذا المخلوق الفضائي.",
+        "poster_path": "/lZ2srFnRzFFsMigIAwpbyzmTx10.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          12,
+          878
+        ],
+        "popularity": 13.8312,
+        "release_date": "2009-03-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.264,
+        "vote_count": 5117
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uRFUI3i6uySylNAKUPnO49UIpSc.jpg",
+        "id": 756397,
+        "title": "Hitpig!",
+        "original_title": "Hitpig!",
+        "overview": "A porcine bounty hunter accepts his next hit: Pickles, a naive, ebullient elephant. Though he initially sets out to capture the perky pachyderm, the unlikely pair find themselves crisscrossing the globe on an adventure that brings out the best in both of them.",
+        "poster_path": "/bYa20LYAZ3Q7lKXtLYybo0yWWTN.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          12,
+          10751
+        ],
+        "popularity": 5.6629,
+        "release_date": "2024-11-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 56
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zgQQF04u3OgNBJqClRNby1FPz9s.jpg",
+        "id": 893723,
+        "title": "PAW Patrol: The Mighty Movie",
+        "original_title": "PAW Patrol: The Mighty Movie",
+        "overview": "تتحول جراء باو باترول إلى الجراء الأقوياء  بعد تحطم نيزك في مدينة المغامرات. بالنسبة لسكاي ، أصغر عضو في الفريق ، فإن قواها الجديدة هي حلم أصبح حقيقة ، لكن الأمور تأخذ منعطفا نحو الأسوأ عندما يخرج منافس الجراء اللدود همدينجر من السجن ويتعاون مع عالم مجنون لسرقة القوى العظمى للأشرار. مع تعليقمصير مدينة المغامرات  في الميزان ، يتعين علىالجراء الأقوياء  إيقاف الأشرار الخارقون قبل فوات الأوان ، وسيحتاج سكاي إلى تعلم أنه حتى أصغر جرو يمكن أن يحدث فرقا أكبر.",
+        "poster_path": "/1zvBqQpmWYuJvBlCGscAh1Jc1e.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          10751,
+          878
+        ],
+        "popularity": 17.8336,
+        "release_date": "2023-09-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.926,
+        "vote_count": 590
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c5MCkebYhFuhmi32x760HfcvLIO.jpg",
+        "id": 417859,
+        "title": "القط ذو الحذاء",
+        "original_title": "Puss in Boots",
+        "overview": "تدور احداث الفيلم حول القطّ الأسطوري ويتجه إلى \"أرض العمالقة\" مع صديقيه \"هامبتي دامبتي\" و\"كيتي الأيدي الناعمة\" في مهمّة لسلب أعظم كنوزها... إنّها \"الإوزة الذهبية\".",
+        "poster_path": "/iaVI67FVvVia9g6Xy6nEe2AqfpO.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          35,
+          10751
+        ],
+        "popularity": 19.2727,
+        "release_date": "2011-10-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.615,
+        "vote_count": 4739
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hwUxHPkuUleJeoick4uZsrKDXxF.jpg",
+        "id": 718789,
+        "title": "باز يطير",
+        "original_title": "Lightyear",
+        "overview": "اللانهاية في انتظارك.\r يشرع حارس الفضاء الأسطوري ( باز ) في مغامرة بين المجرات جنبا إلى جنب مع مجموعة من المجندين الطموحين ورفيقه الآلي .",
+        "poster_path": "/3eASpIGW8YzgiQnyQsRQ812q9bu.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          878,
+          10751,
+          12
+        ],
+        "popularity": 11.3202,
+        "release_date": "2022-06-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.862,
+        "vote_count": 3934
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xydu6XhKVFf5FomLi9diWjoWc5d.jpg",
+        "id": 413644,
+        "title": "ابن البيغ فوت",
+        "original_title": "The Son of Bigfoot",
+        "overview": "ينطلق الشاب الشاب آدم في مهمة ملحمية وجريئة لكشف الغموض وراء والده المفقود منذ فترة طويلة ، ليكتشف أنه ليس سوى بيغ فوت الأسطوري! لقد كان مختبئًا في أعماق الغابة لسنوات لحماية نفسه وعائلته من HairCo. ، وهي شركة عملاقة حريصة على إجراء تجارب علمية مع حمضه النووي الخاص. عندما يبدأ الأب والابن في تعويض الوقت الضائع بعد عدم إيمان الصبي الأولي ، سرعان ما يكتشف آدم أنه موهوب أيضًا بقوى خارقة تفوق خياله. لكن القليل منهم يعرفون ، HairCo. على ذيلهم حيث قادتهم آثار آدم إلى بيغ فوت!",
+        "poster_path": "/5yCQvhFuFPY0pACxoUpLUlYCxop.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          35,
+          12,
+          878
+        ],
+        "popularity": 6.5965,
+        "release_date": "2017-07-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 544
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lsgT602GYV8ts97sKH1gWFtQs1k.jpg",
+        "id": 1104845,
+        "title": "شمشون: الفيلم",
+        "original_title": "Plankton: The Movie",
+        "overview": "تتحول قصة الحب المتشابكة بين \"شمشون\" وزوجته الآلية مرهفة المشاعر إلى كارثة حين تتخذ موقفًا... وتقرر تدمير العالم من دونه.",
+        "poster_path": "/nwUyasIllVu9ul1maXY6zSnVsAy.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          12,
+          16,
+          878
+        ],
+        "popularity": 8.0363,
+        "release_date": "2025-03-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.747,
+        "vote_count": 184
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg",
+        "id": 877269,
+        "title": "Strange World",
+        "original_title": "Strange World",
+        "overview": "رحلة إلى مكان لا يوجد فيه شيء كما يبدو!\r رحلة عميقة في أرض مجهولة وغادرة ، حيث تنتظر مخلوقات خيالية كلاديس الأسطورية - عائلة من المستكشفين الذين تهدد اختلافاتهم بالإطاحة بمهمتهم الأخيرة والأكثر أهمية إلى حد بعيد.",
+        "poster_path": "/a9x70QUXs6uEwtin1SGNKoFXoia.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          12,
+          14,
+          878
+        ],
+        "popularity": 10.3438,
+        "release_date": "2022-11-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.216,
+        "vote_count": 1462
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qDQEQbgP3v7B9IYLAUcYexNrVYP.jpg",
+        "id": 404368,
+        "title": "رالف يدمر الإنترنت",
+        "original_title": "Ralph Breaks the Internet",
+        "overview": "بعد ست سنوات من أحداث \"Wreck-It Ralph\" رالف و فيلنوبي الآن أصدقاء، اكتشفوا جهاز الواي فاي في عرفة الاركيد، يقودهم إلى مغامرة جديدة.",
+        "poster_path": "/dPjotaHopb6uvm1gRwrQbaYRiJK.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          35,
+          10751,
+          878
+        ],
+        "popularity": 15.954,
+        "release_date": "2018-11-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.153,
+        "vote_count": 8261
+      }
+    ],
+    "total_pages": 35,
+    "total_results": 694
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/yd750mff5FTjwMenmBMWRezbuSe.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 8457,
+        "title": "Drillbit Taylor",
+        "original_language": "en",
+        "original_title": "Drillbit Taylor",
+        "overview": "",
+        "popularity": 13.2605,
+        "poster_path": "/shqO696kFnM8Z4ODa3JglcjP97u.jpg",
+        "release_date": "2008-02-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.84,
+        "vote_count": 1130
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xbGROemZqyVYrIlMOHKqmV2qmG0.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 8491,
+        "title": "Weekend at Bernie's",
+        "original_language": "en",
+        "original_title": "Weekend at Bernie's",
+        "overview": "",
+        "popularity": 6.3911,
+        "poster_path": "/4RtjBkBSqHG46uieHgTtM7oKlpo.jpg",
+        "release_date": "1989-07-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.43,
+        "vote_count": 1172
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e77VeVcrXhxfCdJWD9rameYn7Qn.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 8536,
+        "title": "سوبرمان 2",
+        "original_language": "en",
+        "original_title": "Superman II",
+        "overview": "ثلاثة مجرمين كريبتونيين بقيادة الجنرال زود يتحدون مع ليكس لوثر لغزو الأرض، مما يجبر سوبرمان فاقد القوة على استعادة قوته وإيقافهم",
+        "popularity": 10.0945,
+        "poster_path": "/3xk5cno9BHcnwc97XO9k21aI1Zi.jpg",
+        "release_date": "1980-12-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.761,
+        "vote_count": 2604
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xuwPmDMHslcx71T7zHc9YqF2Ny3.jpg",
+        "genre_ids": [
+          12,
+          35,
+          37
+        ],
+        "id": 8584,
+        "title": "Shanghai Noon",
+        "original_language": "en",
+        "original_title": "Shanghai Noon",
+        "overview": "(تشون وانج) حارس أخرق ضمن الحرس الإمبراطوري لإمبراطور الصين، حينما يتم اختطاف الأميرة (بي بي) من المدينة المُحرمّة، يشعر بالمسئولية تجاه خطفها وأن من واجبه المشاركة في استرجاعها، فيتطوع للسفر مع المجموعة التي تتأهب لاسترجاعها من أمريكا حيث نقلها الخاطفون، يفقد أثر زملائه في صحراء (نيفادا)، ثم يلتقي مع سارق القطارات (روي أبانون) المُصاب بجنون العظمة ليشكلا ثنائيًا في البحث عن الأميرة.",
+        "popularity": 9.3622,
+        "poster_path": "/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg",
+        "release_date": "2000-05-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.42,
+        "vote_count": 2853
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gvLG3Fnznkxl4SmYfcK8gUuqxM8.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 823464,
+        "title": "جودزيلا وكونج: الإمبراطورية الجديدة",
+        "original_language": "en",
+        "original_title": "Godzilla x Kong: The New Empire",
+        "overview": "في إطار من الحركة والخيال العلمي، يجتمع مجددًا كونج وجودزيلا، خلال فصل جديد من فصول أقوى وحوش الأرض.",
+        "popularity": 19.1442,
+        "poster_path": "/gkk9gahw3ptVLCzfcHpRhVpILFQ.jpg",
+        "release_date": "2024-03-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.04,
+        "vote_count": 4841
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qWSI9Lpq8K4o1n9ZD9zUVD4Gds1.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 8699,
+        "title": "Anchorman: The Legend of Ron Burgundy",
+        "original_language": "en",
+        "original_title": "Anchorman: The Legend of Ron Burgundy",
+        "overview": "تدور أحداث الفيلم في (سان دييجو) 1970؛ حيث كانت وسائل الإعلام شيئاً مهما للغاية، ويؤخذ كل ما يصدر عنها مأخذ الجد والاهتمام، وكان هناك مذيع يدعى (رون بيرجوندي) يتمتع بمصداقية كبيرة لدى الجمهور، كما يتمتع بشعبية واسعة، كذلك طاقم عمله.\r لكن ذلك يصبح على وشك التغيير، عندما تقرر القناة التلفزيونية التي يعمل لحسابها بيرجوندي تعيين مذيعة جميلة تدعى (فيرونيكا).\r تشتد المنافسة بين حزب فيرونيكا وحزب بيرجوندي.",
+        "popularity": 7.5295,
+        "poster_path": "/mhZIcRePT7U8viFQVjt1ZjYIsR4.jpg",
+        "release_date": "2004-06-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.701,
+        "vote_count": 4733
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yI0xd7X8UktQ6cb8TdWKNTOWxhm.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 8764,
+        "title": "Top Secret!",
+        "original_language": "en",
+        "original_title": "Top Secret!",
+        "overview": "",
+        "popularity": 6.5617,
+        "poster_path": "/hRTbfR27xghnVMs3ZJ3EhK3zzud.jpg",
+        "release_date": "1984-06-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 1466
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fCdc3TZNNHGk1ZQBXENdWLqjUio.jpg",
+        "genre_ids": [
+          9648,
+          878,
+          53
+        ],
+        "id": 8836,
+        "title": "The X-Files: I Want to Believe",
+        "original_language": "en",
+        "original_title": "The X-Files: I Want to Believe",
+        "overview": "تبدأ القصة عندما تختفي امرأة في ظروف غامضة، وتظهر معلومات مرتبطة برجل يدّعي أنه يستطيع رؤية أشياء وأحداث خارقة للطبيعة",
+        "popularity": 8.2077,
+        "poster_path": "/3zQMhutUMJP6lK49x7i2YfsOHL9.jpg",
+        "release_date": "2008-07-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.876,
+        "vote_count": 1719
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fTs7kWfwaYpM8OuzMMoimsMSTUI.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 8849,
+        "title": "Alfie",
+        "original_language": "en",
+        "original_title": "Alfie",
+        "overview": "",
+        "popularity": 3.8447,
+        "poster_path": "/dvKvkoc2d06cOSheq5hQ7G4FJJX.jpg",
+        "release_date": "2004-10-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.857,
+        "vote_count": 900
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2LiEe9h2773A57Th0dqaRgvySKn.jpg",
+        "genre_ids": [
+          16,
+          18,
+          35
+        ],
+        "id": 823417,
+        "title": "劇場版 Free!–the Final Stroke– 後編",
+        "original_language": "ja",
+        "original_title": "劇場版 Free!–the Final Stroke– 後編",
+        "overview": "",
+        "popularity": 2.125,
+        "poster_path": "/pc7jJx56VhljG6qk3ihQWWkCWSu.jpg",
+        "release_date": "2022-04-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.125,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3loJ2Ja6ohVtu5ZoiulnLsuwhvT.jpg",
+        "genre_ids": [
+          53,
+          12,
+          35,
+          27,
+          14
+        ],
+        "id": 1400500,
+        "title": "The Moon King",
+        "original_language": "en",
+        "original_title": "The Moon King",
+        "overview": "",
+        "popularity": 0.461,
+        "poster_path": "/7pBgB1BDjtsOoWAipV039uKE4vF.jpg",
+        "release_date": "2024-01-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9OE62lhp5FPNJMfKXodegVLjHUA.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          35
+        ],
+        "id": 823609,
+        "title": "Monster Family 2",
+        "original_language": "en",
+        "original_title": "Monster Family 2",
+        "overview": "لتحرير بابا ياغا ورينفيلد من براثن الوحش هنتر ميلا ستار ، تتحول عائلة Wishbone مرة أخرى إلى مصاص دماء ، وحش فرانكشتاين ، مومياء ومستذئب ولكن عندما تساعدهم الخفافيش الأليفة الثلاثة ، تقوم عائلة Monster بتكبير جميع أنحاء العالم مرة أخرى لإنقاذ أصدقائهم ، وتكوين معارف وحشية جديدة.",
+        "popularity": 4.2133,
+        "poster_path": "/fD3w59S1e3otqTMQDzxLq24khUf.jpg",
+        "release_date": "2021-10-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.625,
+        "vote_count": 104
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vd73vTYjFpXoPmw5612ZHjEBI5J.jpg",
+        "genre_ids": [
+          16,
+          10751
+        ],
+        "id": 823610,
+        "title": "‎فريق الفقمة",
+        "original_language": "en",
+        "original_title": "Seal Team",
+        "overview": "",
+        "popularity": 5.5985,
+        "poster_path": "/yPZ3I27oeSm4zVesgMxXlhW8GDe.jpg",
+        "release_date": "2021-10-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 240
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bHzqakL49XHKC8pvTMuKkX9a2q6.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 268602,
+        "title": "¡Qué tía la C.I.A.!",
+        "original_language": "es",
+        "original_title": "¡Qué tía la C.I.A.!",
+        "overview": "",
+        "popularity": 0.7034,
+        "poster_path": "/vci6y939BXbjsnhcZum3jvHTi9L.jpg",
+        "release_date": "1985-04-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.583,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9AHoyKsBKaQKIjR60ETU4xBceSI.jpg",
+        "genre_ids": [
+          14,
+          16,
+          12
+        ],
+        "id": 268689,
+        "title": "Wicked Flying Monkeys",
+        "original_language": "es",
+        "original_title": "Wicked Flying Monkeys",
+        "overview": "",
+        "popularity": 1.5508,
+        "poster_path": "/jFXjoiype6DvaKZhQTbvh8mlmzI.jpg",
+        "release_date": "2015-03-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 23
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1r9lH3DaSWKGyvZaoo6BF5STOk5.jpg",
+        "genre_ids": [
+          35,
+          80,
+          18
+        ],
+        "id": 9277,
+        "title": "The Sting",
+        "original_language": "en",
+        "original_title": "The Sting",
+        "overview": "تدور أحداث الفيلم في الثلاثينيات من القرن الماضي ، ويتعامل هذا القبطان المعقد مع محتال صغير طموح ورجل مخضرم يسعى للانتقام من زعيم جريمة شرير قتل أحد عصابتهما.",
+        "popularity": 8.8499,
+        "poster_path": "/ckmYng37zey8INYf6d10cVgIG93.jpg",
+        "release_date": "1973-12-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.016,
+        "vote_count": 3088
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rnn6sGMGPpM8VfVmCMFxsjKvz7q.jpg",
+        "genre_ids": [
+          10751,
+          12,
+          35
+        ],
+        "id": 9279,
+        "title": "Jingle All the Way",
+        "original_language": "en",
+        "original_title": "Jingle All the Way",
+        "overview": "هوارد لانغستون ، بائع لشركة مراتب ، مشغول باستمرار في وظيفته ، مخيب آمال ابنه. بعد أن غاب عن معرض الكاراتيه لابنه ، يتعهد هوارد بتعويضه عن طريق شراء شخصية أكشن لبطل التلفزيون المفضل لابنه لعيد الميلاد. لسوء حظ هوارد ، إنها ليلة عيد الميلاد ، ويتم بيع كل متجر من توربو مان. الآن ، يجب على هوارد السفر في جميع أنحاء المدينة والتنافس مع أي شخص آخر للعثور على شخصية حركة توربو مان .",
+        "popularity": 7.1404,
+        "poster_path": "/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg",
+        "release_date": "1996-11-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.065,
+        "vote_count": 3029
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s6awXOxTKYQLSktiIJfI3969dZH.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 449562,
+        "title": "The Hustle",
+        "original_language": "en",
+        "original_title": "The Hustle",
+        "overview": "تتنافس اثنتان من الفنانين المحتالين ، إحداهما منخفضة الإيجار والأخرى من الدرجة العالية ، لخداع معجزة تقنية ساذجة من ثروته. نسخة جديدة من الفيلم الكوميدي لعام 1988 \"الأوغاد الفاسدون القذرون\".",
+        "popularity": 12.0959,
+        "poster_path": "/qZniBGQRESLIfxw6GeZLZ2G1osa.jpg",
+        "release_date": "2019-05-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.194,
+        "vote_count": 2741
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4epIlsVpzk2k1fuFS2pzurpIQTJ.jpg",
+        "genre_ids": [
+          35,
+          14,
+          10749
+        ],
+        "id": 449563,
+        "title": "أليس هذا رومانسي",
+        "original_language": "en",
+        "original_title": "Isn't It Romantic",
+        "overview": "لا شيء من الإحساس\r لفترة طويلة ، كانت ناتالي ، وهي مهندسة معمارية أسترالية تعيش في مدينة نيويورك ، تعتقد دائما أن ما رأته في الكوميديا الرومانسية هو كل الخيال. ولكن بعد إحباط سارق في محطة مترو أنفاق فقط ليتم طرده أثناء الفرار ، تستيقظ ناتالي وتكتشف أن حياتها أصبحت فجأة أسوأ كابوس لها - كوميديا رومانسية - وهي السيدة الرائدة.",
+        "popularity": 4.2647,
+        "poster_path": "/5xNBYXuv8wqiLVDhsfqCOr75DL7.jpg",
+        "release_date": "2019-02-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.196,
+        "vote_count": 3623
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tpUfuUqslSG50E6x0KDJaEUaewN.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "id": 824122,
+        "title": "Mila",
+        "original_language": "xx",
+        "original_title": "Mila",
+        "overview": "",
+        "popularity": 1.5255,
+        "poster_path": "/aVLXRig2hzwxZCcHhNk1557iJ3F.jpg",
+        "release_date": "2021-06-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 2
+      }
+    ],
+    "total_pages": 14882,
+    "total_results": 297636
+  },
+  "watch/providers": {
+    "results": {
+      "AR": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=AT",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 19
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 19
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=AU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png",
+            "provider_id": 140,
+            "provider_name": "CosmoGo",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png",
+            "provider_id": 140,
+            "provider_name": "CosmoGo",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=CH",
+        "rent": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=CV",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 11
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 11
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=CZ",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 29
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 29
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=DE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=DK",
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=EE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=EG",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=FR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/zbXVTncv6m6ojLjPQJeW7u0SYKp.png",
+            "provider_id": 2601,
+            "provider_name": "Pathé Home",
+            "display_priority": 54
+          },
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/zbXVTncv6m6ojLjPQJeW7u0SYKp.png",
+            "provider_id": 2601,
+            "provider_name": "Pathé Home",
+            "display_priority": 54
+          },
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=GG",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=GH",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=GR",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=HK",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=HU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 26
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 26
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+            "provider_id": 122,
+            "provider_name": "Disney+",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=IL",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+            "provider_id": 2336,
+            "provider_name": "JioHotstar",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=IS",
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 24
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 24
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=IT",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/iGb7XGcCiCZyBgBqIdSEBiOxNc4.png",
+            "provider_id": 109,
+            "provider_name": "Timvision",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/iGb7XGcCiCZyBgBqIdSEBiOxNc4.png",
+            "provider_id": 109,
+            "provider_name": "Timvision",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=JP",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=LT",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=LU",
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 7
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=LV",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+            "provider_id": 122,
+            "provider_name": "Disney+",
+            "display_priority": 3
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=MZ",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=NL",
+        "buy": [
+          {
+            "logo_path": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png",
+            "provider_id": 71,
+            "provider_name": "Pathé Thuis",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/sLa7ctMpAoKdxIS72mHl7xuhONL.png",
+            "provider_id": 697,
+            "provider_name": "meJane",
+            "display_priority": 40
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png",
+            "provider_id": 71,
+            "provider_name": "Pathé Thuis",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/sLa7ctMpAoKdxIS72mHl7xuhONL.png",
+            "provider_id": 697,
+            "provider_name": "meJane",
+            "display_priority": 40
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=PL",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png",
+            "provider_id": 2669,
+            "provider_name": "Pilot WP",
+            "display_priority": 63
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/kxOtmlmiegOd6Mp766dYdp2Ois3.png",
+            "provider_id": 2102,
+            "provider_name": "Premiery Canal+",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png",
+            "provider_id": 2669,
+            "provider_name": "Pilot WP",
+            "display_priority": 63
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/8mtdz2Y3NW5NfiSZiBFhngFSy3S.png",
+            "provider_id": 505,
+            "provider_name": "Player",
+            "display_priority": 11
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=PT",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 44
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 44
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=RO",
+        "rent": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=SE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=SI",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+            "provider_id": 122,
+            "provider_name": "Disney+",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=TR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=TW",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=UA",
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 5
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=US",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=ZA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 3
+          }
+        ]
+      }
+    }
+  }
+}

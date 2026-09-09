@@ -1,0 +1,3920 @@
+{
+  "adult": false,
+  "backdrop_path": "/nE94ejEbzNCU48bW1oju0dqBONz.jpg",
+  "created_by": [
+    {
+      "id": 1216859,
+      "credit_id": "5e174dac0cb335001505b3d0",
+      "name": "بيل لورانس",
+      "original_name": "Bill Lawrence",
+      "gender": 2,
+      "profile_path": "/75mV8qLqPA9oMy23lTxmcoEGWAe.jpg"
+    },
+    {
+      "id": 58224,
+      "credit_id": "5e174da4c2f44b0017bf0e91",
+      "name": "جيسون سوديكس",
+      "original_name": "Jason Sudeikis",
+      "gender": 2,
+      "profile_path": "/uuacnP9DOHMsmj8FhBi0cWWDgrn.jpg"
+    },
+    {
+      "id": 1222180,
+      "credit_id": "5f0dc58d13a3200033783397",
+      "name": "Joe Kelly",
+      "original_name": "Joe Kelly",
+      "gender": 2,
+      "profile_path": null
+    },
+    {
+      "id": 1113365,
+      "credit_id": "5f0dc58013a320003378338f",
+      "name": "بريندان هانت",
+      "original_name": "Brendan Hunt",
+      "gender": 2,
+      "profile_path": "/7Z8q2WUop3q5BdyaBD6YvweGWrZ.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2020-08-14",
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    }
+  ],
+  "homepage": "https://tv.apple.com/show/umc.cmc.vtoh0mn0xn7t3c643xqonfzy",
+  "id": 97546,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-09-08",
+  "last_episode_to_air": {
+    "id": 7203310,
+    "name": "كفّ عن القفز في الأرجاء",
+    "overview": "إنها عشية رأس السنة! احتفال كبير للفريق. و\"ريبيكا\" و\"روي\" و\"كيلي\" يعاودون اللقاء بصديق قديم.",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2026-09-08",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 47,
+    "season_number": 4,
+    "show_id": 97546,
+    "still_path": "/jlPiWkgBJfeKRc7Nrv8qDrjfKyS.jpg"
+  },
+  "name": "Ted Lasso",
+  "next_episode_to_air": {
+    "id": 7203311,
+    "name": "الحلقة 7",
+    "overview": "تحاول أليس وتيد الخروج من دائرة الراحة المعتادة لديهما، بينما تساعد زيلدا في التعامل مع مشكلة جديدة في \"ريتشموند\".",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-15",
+    "episode_number": 7,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 41,
+    "season_number": 4,
+    "show_id": 97546,
+    "still_path": "/qhJLxwCUww1G9Mf4s2GbhRahIG0.jpg"
+  },
+  "networks": [
+    {
+      "id": 2552,
+      "logo_path": "/bngHRFi794mnMq34gfVcm9nDxN1.png",
+      "name": "Apple TV",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 44,
+  "number_of_seasons": 4,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Ted Lasso",
+  "overview": "\"جيسون سوديكس\" يؤدي دور \"تيد لاسو\"، مدرب كرة القدم الأمريكية الذي عُيّن مديراً فنياً لفريق كرة قدم إنكليزي رغم افتقاره إلى الخبرة. لكنه يعوّض المعرفة التي تنقصه بتفاؤله وعزيمته القوية… والبسكويت.",
+  "popularity": 228.4412,
+  "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+  "production_companies": [
+    {
+      "id": 23672,
+      "logo_path": "/a0sVfKvMT1d55p2XJXPpRfm7rRh.png",
+      "name": "Doozer",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 152855,
+      "logo_path": null,
+      "name": "Ruby's Tuna",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-12-15",
+      "episode_count": 1,
+      "id": 236137,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/n0hVO6rYbH3HtCLroKLQ19uzWRp.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-14",
+      "episode_count": 10,
+      "id": 140381,
+      "name": "الموسم 1",
+      "overview": "شيئًا فشيئًا، اتخذ تيد من إنجلترا موطنًا جديدًا له. طوال الموسم، لم يسع اللاعبين الذين عانوا من سوء الحظ إلا أن يُفتنوا بتيد ويستلهموا منه. حتى مالكة الفريق، ريبيكا ويلتون، التي وظفت تيد في البداية لعرقلة حظوظ الفريق وإغاظة زوجها السابق الخائن، تأثرت ببراءة تيد الطفولية وعزيمته وبسكويت الشاي الغريب الذي كان يُحضره.",
+      "poster_path": "/oX7QdfiQEbyvIvpKgJHRCgbrLdK.jpg",
+      "season_number": 1,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2021-07-23",
+      "episode_count": 12,
+      "id": 191511,
+      "name": "الموسم 2",
+      "overview": "لا شك أن الموسم الثاني سيكون قصة انتصار. فبينما سيواجه الفريق صعوبات، ستشجعهم طيبة تيد، وإن كانت محبطة أحيانًا، على المضي قدمًا. وكما يؤمن تيد، ستسير الأمور على ما يرام. وفي ظل صعوبة تأقلمهم مع وضعهم في دوري أدنى، يركز تيد جهود الفريق على إنهاء سلسلة هزائمهم. ويتأقلم تيد مع حياته بدون زوجته السابقة ميشيل وابنه الصغير هنري، اللذين عادا إلى الولايات المتحدة. وتنضم إلى الفريق أخصائية نفسية تُدعى شارون. وتستمر كيلي جونز المحبوبة وروي كينت، المتقاعد حديثًا، في المواعدة. ويتأقلم روي مع حياته الجديدة على الهامش. أما ريبيكا ويلتون، فتبدأ المواعدة من جديد.",
+      "poster_path": "/a3tL7vRFN63zE8IrpjLHtheAcBM.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2023-03-14",
+      "episode_count": 12,
+      "id": 328941,
+      "name": "الموسم 3",
+      "overview": "في هذا الموسم الثالث، يواجه فريق إيه إف سي ريتشموند، الصاعد حديثًا، سخرية واسعة النطاق، حيث تتوقع وسائل الإعلام على نطاق واسع احتلاله المركز الأخير في الدوري الإنجليزي الممتاز، بينما انتقل نيت، الذي يُلقب الآن بـ\"الطفل المعجزة\"، للعمل مع روبرت في وست هام يونايتد. في أعقاب رحيل نيت المثير للجدل عن ريتشموند، يتولى روي كينت منصب المدرب المساعد، إلى جانب بيرد. في هذه الأثناء، وبينما يواجه تيد ضغوط العمل، يستمر في معاناته مع مشاكله الشخصية في المنزل، وتركز ريبيكا على هزيمة روبرت، بينما تدير كيلي وكالتها الخاصة للعلاقات العامة. يبدو أن الأمور تتدهور داخل الملعب وخارجه، لكن فريق لاسو مصمم على بذل قصارى جهده على أي حال.",
+      "poster_path": "/7NS4VYNTm2J1XQk5OVUwImbV4vZ.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2026-08-04",
+      "episode_count": 10,
+      "id": 466392,
+      "name": "الموسم 4",
+      "overview": "في الموسم الرابع، يعود تيد إلى ريتشموند، ليخوض أكبر تحدٍّ له حتى الآن: تدريب فريق كرة قدم نسائي من الدرجة الثانية. وعلى مدار الموسم، يتعلم تيد والفريق المخاطرة قبل التفكير، ويغتنمون فرصًا لم يتوقعوها قط.",
+      "poster_path": "/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg",
+      "season_number": 4,
+      "vote_average": 8.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "عاد العمل الكوميدي الشهير، بروح Ted أكثر من أي وقت.",
+  "type": "Scripted",
+  "vote_average": 8.4,
+  "vote_count": 2635,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58224,
+        "known_for_department": "Acting",
+        "name": "جيسون سوديكس",
+        "original_name": "Jason Sudeikis",
+        "popularity": 4.7539,
+        "profile_path": "/uuacnP9DOHMsmj8FhBi0cWWDgrn.jpg",
+        "character": "Ted Lasso",
+        "credit_id": "5e174e70c2f44b0017bf0f91",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1278487,
+        "known_for_department": "Acting",
+        "name": "هانا وادينغهام",
+        "original_name": "Hannah Waddingham",
+        "popularity": 9.7493,
+        "profile_path": "/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg",
+        "character": "Rebecca Welton",
+        "credit_id": "5f0dc1f21a32480037cec580",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3555,
+        "known_for_department": "Acting",
+        "name": "جيريمي سويفت",
+        "original_name": "Jeremy Swift",
+        "popularity": 2.5247,
+        "profile_path": "/muRh4WbyEE4S2763bv777ywpKP3.jpg",
+        "character": "Leslie Higgins",
+        "credit_id": "5f0dc21e81c7be0034fa0760",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21422,
+        "known_for_department": "Acting",
+        "name": "Brett Goldstein",
+        "original_name": "Brett Goldstein",
+        "popularity": 4.7942,
+        "profile_path": "/xYdFNE7EkncE8uiPJzT3RrkqcAQ.jpg",
+        "character": "Roy Kent",
+        "credit_id": "5f0dc33181c7be0032fcfae6",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113365,
+        "known_for_department": "Acting",
+        "name": "بريندان هانت",
+        "original_name": "Brendan Hunt",
+        "popularity": 2.126,
+        "profile_path": "/7Z8q2WUop3q5BdyaBD6YvweGWrZ.jpg",
+        "character": "Coach Beard",
+        "credit_id": "5e174e7f1d01910013f222c9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 36594,
+        "known_for_department": "Acting",
+        "name": "جونو تيمبل",
+        "original_name": "Juno Temple",
+        "popularity": 7.2126,
+        "profile_path": "/vwCjlWQLQWbmcUT2Lwn9G0O8r2.jpg",
+        "character": "Keeley Jones",
+        "credit_id": "5f0dc208109dec0039e4b5cd",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1731959,
+        "known_for_department": "Acting",
+        "name": "تانيا رانولدز",
+        "original_name": "Tanya Reynolds",
+        "popularity": 14.7402,
+        "profile_path": "/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg",
+        "character": "Alice Chilton",
+        "credit_id": "6a68ca5cba831033c5fc7ce7",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3593833,
+        "known_for_department": "Acting",
+        "name": "Jude Mack",
+        "original_name": "Jude Mack",
+        "popularity": 13.6773,
+        "profile_path": "/iZbW7IkBCFkt164Hh3Oa2PBpNr8.jpg",
+        "character": "Katie Quinn",
+        "credit_id": "6a7c80180b53735c73b06d8d",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6406927,
+        "known_for_department": "Acting",
+        "name": "Rex Hayes",
+        "original_name": "Rex Hayes",
+        "popularity": 2.1099,
+        "profile_path": null,
+        "character": "Siobhan Harrigan",
+        "credit_id": "6a7c80ab7c186aa420c7af4b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1715074,
+        "known_for_department": "Acting",
+        "name": "Sophie Simnett",
+        "original_name": "Sophie Simnett",
+        "popularity": 3.1213,
+        "profile_path": "/7J57MF1xaLfKHcod4b0U6b1biAX.jpg",
+        "character": "Claudine",
+        "credit_id": "6a98812dfbb7b905443a52ad",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3593833,
+        "known_for_department": "Acting",
+        "name": "Jude Mack",
+        "original_name": "Jude Mack",
+        "popularity": 13.6773,
+        "profile_path": "/iZbW7IkBCFkt164Hh3Oa2PBpNr8.jpg",
+        "character": "Katie 'Boots' Quinn",
+        "credit_id": "6a98813ad575fd8c4dfbc328",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2458098,
+        "known_for_department": "Acting",
+        "name": "Aisling Sharkey",
+        "original_name": "Aisling Sharkey",
+        "popularity": 5.852,
+        "profile_path": "/5jZWUV3VyKwEzxIOsffgk8lJLrM.jpg",
+        "character": "Niamh Harrigan",
+        "credit_id": "6a988148b93ed27d0ceaaac0",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5394277,
+        "known_for_department": "Acting",
+        "name": "Mercedes Assad",
+        "original_name": "Mercedes Assad",
+        "popularity": 1.1877,
+        "profile_path": null,
+        "character": "Margy El Sherif",
+        "credit_id": "6a988200d79c96e2bab8fade",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3769303,
+        "known_for_department": "Camera",
+        "name": "Cody Jones",
+        "original_name": "Cody Jones",
+        "popularity": 0.2898,
+        "profile_path": null,
+        "credit_id": "6a7348fa459b6fa233994367",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1420151,
+        "known_for_department": "Art",
+        "name": "Ed Borasch Jr.",
+        "original_name": "Ed Borasch Jr.",
+        "popularity": 0.4075,
+        "profile_path": null,
+        "credit_id": "6a7347f35af0a25321de7166",
+        "department": "Art",
+        "job": "Property Master"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1191093,
+        "known_for_department": "Production",
+        "name": "Allison Hughes Stroud",
+        "original_name": "Allison Hughes Stroud",
+        "popularity": 0.3075,
+        "profile_path": null,
+        "credit_id": "6a7347dc3dc58a0cd8761dce",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1417173,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nicola Pope",
+        "original_name": "Nicola Pope",
+        "popularity": 0.3547,
+        "profile_path": null,
+        "credit_id": "6a7347d5d0823387fd29fb8b",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1721785,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Nicky Austin",
+        "original_name": "Nicky Austin",
+        "popularity": 0.3565,
+        "profile_path": null,
+        "credit_id": "6a7347d1da3dfd2f4f5380f9",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1334126,
+        "known_for_department": "Acting",
+        "name": "Jeffrey Christopher Todd",
+        "original_name": "Jeffrey Christopher Todd",
+        "popularity": 0.6527,
+        "profile_path": "/maPPnpgZp9U20O5UtHwAzvO869w.jpg",
+        "credit_id": "6a7347c15dfad012ef537f3e",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1469340,
+        "known_for_department": "Production",
+        "name": "Bonnie Zane",
+        "original_name": "Bonnie Zane",
+        "popularity": 0.3446,
+        "profile_path": null,
+        "credit_id": "6a7347b6b4e630ba37c2800d",
+        "department": "Production",
+        "job": "Location Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1703233,
+        "known_for_department": "Production",
+        "name": "Kevin McGrail",
+        "original_name": "Kevin McGrail",
+        "popularity": 0.5997,
+        "profile_path": null,
+        "credit_id": "6a7347a586e38799ca9cc1f9",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3170404,
+        "known_for_department": "Editing",
+        "name": "Melissa McCoy",
+        "original_name": "Melissa McCoy",
+        "popularity": 0.4312,
+        "profile_path": null,
+        "credit_id": "6a7346e7d1609460cb5380b7",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6315914,
+        "known_for_department": "Production",
+        "name": "Leah Pablo",
+        "original_name": "Leah Pablo",
+        "popularity": 0.359,
+        "profile_path": null,
+        "credit_id": "6a7346e186e38799ca9cc1ca",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1703233,
+        "known_for_department": "Production",
+        "name": "Kevin McGrail",
+        "original_name": "Kevin McGrail",
+        "popularity": 0.5997,
+        "profile_path": null,
+        "credit_id": "6a7346dad1609460cb5380b2",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81809,
+        "known_for_department": "Directing",
+        "name": "Declan Lowney",
+        "original_name": "Declan Lowney",
+        "popularity": 0.8857,
+        "profile_path": "/gifQLUyUWQLx6WeMqhZkldeuVCm.jpg",
+        "credit_id": "6a7346a15dfad012ef537f24",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3070853,
+        "known_for_department": "Writing",
+        "name": "Julia Lindon",
+        "original_name": "Julia Lindon",
+        "popularity": 0.4437,
+        "profile_path": null,
+        "credit_id": "69f0c22ff5cdb4d1de1433f4",
+        "department": "Writing",
+        "job": "Staff Writer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2452673,
+        "known_for_department": "Acting",
+        "name": "Phoebe Walsh",
+        "original_name": "Phoebe Walsh",
+        "popularity": 3.1914,
+        "profile_path": "/m47w1LKeOITgbsmI001ZBboetsN.jpg",
+        "credit_id": "687f4da281c1232eb18a5296",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1520021,
+        "known_for_department": "Writing",
+        "name": "Sarah Walker",
+        "original_name": "Sarah Walker",
+        "popularity": 0.4862,
+        "profile_path": null,
+        "credit_id": "687f4d9a90c737dad716a7b1",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4029369,
+        "known_for_department": "Writing",
+        "name": "Dylan Marron",
+        "original_name": "Dylan Marron",
+        "popularity": 0.3607,
+        "profile_path": null,
+        "credit_id": "687f4c26274b091f765292fe",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3170449,
+        "known_for_department": "Directing",
+        "name": "Sasha Garron",
+        "original_name": "Sasha Garron",
+        "popularity": 0.5864,
+        "profile_path": null,
+        "credit_id": "687f4c1a274b091f765292fb",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1728500,
+        "known_for_department": "Camera",
+        "name": "Andrew Laboy",
+        "original_name": "Andrew Laboy",
+        "popularity": 0.4485,
+        "profile_path": null,
+        "credit_id": "6a7348f46367fc0514c27f42",
+        "department": "Camera",
+        "job": "Second Unit Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2132293,
+        "known_for_department": "Sound",
+        "name": "Danny Bowersox",
+        "original_name": "Danny Bowersox",
+        "popularity": 0.2912,
+        "profile_path": null,
+        "credit_id": "6a7348dc2c417aaa33de70ab",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1821908,
+        "known_for_department": "Camera",
+        "name": "Dan Wyssmann",
+        "original_name": "Dan Wyssmann",
+        "popularity": 0.3296,
+        "profile_path": null,
+        "credit_id": "6a7348bc7b1e8f89f2761ee6",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2171843,
+        "known_for_department": "Crew",
+        "name": "Jeffrey Gowing",
+        "original_name": "Jeffrey Gowing",
+        "popularity": 0.372,
+        "profile_path": null,
+        "credit_id": "6a7348b69036cdb59415563f",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3680705,
+        "known_for_department": "Camera",
+        "name": "Brad Jarvis",
+        "original_name": "Brad Jarvis",
+        "popularity": 0.2593,
+        "profile_path": null,
+        "credit_id": "6a7348b1fcae2b00239cc0f9",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3680705,
+        "known_for_department": "Camera",
+        "name": "Brad Jarvis",
+        "original_name": "Brad Jarvis",
+        "popularity": 0.2593,
+        "profile_path": null,
+        "credit_id": "6a7348ad4792f00f4cde70ee",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1728500,
+        "known_for_department": "Camera",
+        "name": "Andrew Laboy",
+        "original_name": "Andrew Laboy",
+        "popularity": 0.4485,
+        "profile_path": null,
+        "credit_id": "6a73489a2fb7e101be9942ad",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4445279,
+        "known_for_department": "Visual Effects",
+        "name": "Danielle Malambri",
+        "original_name": "Danielle Malambri",
+        "popularity": 0.3348,
+        "profile_path": null,
+        "credit_id": "6a73488cd5361001d629f7aa",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3959851,
+        "known_for_department": "Production",
+        "name": "Alyssa Bravo",
+        "original_name": "Alyssa Bravo",
+        "popularity": 0.3982,
+        "profile_path": null,
+        "credit_id": "6a73487ad1609460cb538142",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2621061,
+        "known_for_department": "Visual Effects",
+        "name": "James MacLachlan",
+        "original_name": "James MacLachlan",
+        "popularity": 0.3483,
+        "profile_path": null,
+        "credit_id": "6a7348612c1e3654a01244b5",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6392147,
+        "known_for_department": "Crew",
+        "name": "Jillian Welker",
+        "original_name": "Jillian Welker",
+        "popularity": 0.2761,
+        "profile_path": null,
+        "credit_id": "6a73485bb4e630ba37c28017",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1606875,
+        "known_for_department": "Acting",
+        "name": "Davis Lee DeRock Jr.",
+        "original_name": "Davis Lee DeRock Jr.",
+        "popularity": 0.3586,
+        "profile_path": "/yrSaM4R4aBqehWcEWRbLHYaU669.jpg",
+        "credit_id": "6a73484a86e38799ca9cc21a",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3084712,
+        "known_for_department": "Production",
+        "name": "Maisie Buck",
+        "original_name": "Maisie Buck",
+        "popularity": 0.3305,
+        "profile_path": null,
+        "credit_id": "6a73482b7138d517ad124549",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4395735,
+        "known_for_department": "Art",
+        "name": "Kelsey Fowler",
+        "original_name": "Kelsey Fowler",
+        "popularity": 0.2894,
+        "profile_path": null,
+        "credit_id": "6a73481cc089752a36de70f5",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5412139,
+        "known_for_department": "Art",
+        "name": "Bryan Mangan",
+        "original_name": "Bryan Mangan",
+        "popularity": 0.3284,
+        "profile_path": null,
+        "credit_id": "6a73481033c2062320761d4a",
+        "department": "Production",
+        "job": "Location Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1375922,
+        "known_for_department": "Production",
+        "name": "Heather Laird",
+        "original_name": "Heather Laird",
+        "popularity": 0.2943,
+        "profile_path": null,
+        "credit_id": "6a7347ff5af0a25321de7169",
+        "department": "Production",
+        "job": "Local Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2342625,
+        "known_for_department": "Writing",
+        "name": "Leann Bowen",
+        "original_name": "Leann Bowen",
+        "popularity": 0.7855,
+        "profile_path": null,
+        "credit_id": "687f4bed90d9bd73978a52dc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21422,
+        "known_for_department": "Acting",
+        "name": "Brett Goldstein",
+        "original_name": "Brett Goldstein",
+        "popularity": 4.7942,
+        "profile_path": "/xYdFNE7EkncE8uiPJzT3RrkqcAQ.jpg",
+        "credit_id": "687f4be5a33cb327a372d109",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1213739,
+        "known_for_department": "Writing",
+        "name": "Jack Burditt",
+        "original_name": "Jack Burditt",
+        "popularity": 0.8968,
+        "profile_path": "/2g9EPFt6LbhazHQZNdIJE1TXwac.jpg",
+        "credit_id": "687f4b8f20e51d61b7244d98",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2205532,
+        "known_for_department": "Acting",
+        "name": "Jamie Lee",
+        "original_name": "Jamie Lee",
+        "popularity": 0.7539,
+        "profile_path": "/8co6X3EbcXJAHlJGxEmqCLhTK40.jpg",
+        "credit_id": "67f433d11bb0472899997ae1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1773202,
+        "known_for_department": "Production",
+        "name": "Kip Kroeger",
+        "original_name": "Kip Kroeger",
+        "popularity": 0.6841,
+        "profile_path": null,
+        "credit_id": "67f433afddf9194387d99a6f",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2505140,
+        "known_for_department": "Production",
+        "name": "Liza Katzer",
+        "original_name": "Liza Katzer",
+        "popularity": 0.7836,
+        "profile_path": "/m6MZXfzqN4tC1I9YqKEG6xPnMY7.jpg",
+        "credit_id": "67f433258cfccf7bafd922e1",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2166850,
+        "known_for_department": "Writing",
+        "name": "Jane Becker",
+        "original_name": "Jane Becker",
+        "popularity": 0.5473,
+        "profile_path": null,
+        "credit_id": "67f432fd6c3583c975994644",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 136346,
+        "known_for_department": "Sound",
+        "name": "Sean Byrne",
+        "original_name": "Sean Byrne",
+        "popularity": 0.3478,
+        "profile_path": null,
+        "credit_id": "60fc410b3d3557004723b904",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80819,
+        "known_for_department": "Sound",
+        "name": "Brent Findley",
+        "original_name": "Brent Findley",
+        "popularity": 0.3511,
+        "profile_path": null,
+        "credit_id": "60fc40f0d7fbda0079f72baa",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453142,
+        "known_for_department": "Editing",
+        "name": "Frank Openchowski",
+        "original_name": "Frank Openchowski",
+        "popularity": 0.3072,
+        "profile_path": null,
+        "credit_id": "60fc4053fd140b00293f5898",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2744677,
+        "known_for_department": "Sound",
+        "name": "Ryan Kennedy",
+        "original_name": "Ryan Kennedy",
+        "popularity": 0.3447,
+        "profile_path": null,
+        "credit_id": "60fc40fc17792c005db9f079",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1189235,
+        "known_for_department": "Production",
+        "name": "Andrew Warren",
+        "original_name": "Andrew Warren",
+        "popularity": 0.6004,
+        "profile_path": null,
+        "credit_id": "60fc38242afb25002ceaa20c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1113365,
+        "known_for_department": "Acting",
+        "name": "بريندان هانت",
+        "original_name": "Brendan Hunt",
+        "popularity": 2.126,
+        "profile_path": "/7Z8q2WUop3q5BdyaBD6YvweGWrZ.jpg",
+        "credit_id": "60fc363899d5c3007f0f80c9",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2897028,
+        "known_for_department": "Production",
+        "name": "Chip Hamilton",
+        "original_name": "Chip Hamilton",
+        "popularity": 0.4996,
+        "profile_path": null,
+        "credit_id": "60fc38ef848eb9008671cf0d",
+        "department": "Production",
+        "job": "Coordinating Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3170424,
+        "known_for_department": "Art",
+        "name": "Iain White",
+        "original_name": "Iain White",
+        "popularity": 0.531,
+        "profile_path": null,
+        "credit_id": "60fc3e3dc439c00029f17128",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1785135,
+        "known_for_department": "Sound",
+        "name": "Tom Howe",
+        "original_name": "Tom Howe",
+        "popularity": 0.7873,
+        "profile_path": "/87DOUTcZoOZd5m2ewKx1cyROhtD.jpg",
+        "credit_id": "60fc39f40fb3980074fcff75",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222180,
+        "known_for_department": "Writing",
+        "name": "Joe Kelly",
+        "original_name": "Joe Kelly",
+        "popularity": 1.7058,
+        "profile_path": null,
+        "credit_id": "60fc368d3d3557004723a5e0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1785135,
+        "known_for_department": "Sound",
+        "name": "Tom Howe",
+        "original_name": "Tom Howe",
+        "popularity": 0.7873,
+        "profile_path": "/87DOUTcZoOZd5m2ewKx1cyROhtD.jpg",
+        "credit_id": "61582e071c635b006303a80e",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1059011,
+        "known_for_department": "Acting",
+        "name": "Marcus Mumford",
+        "original_name": "Marcus Mumford",
+        "popularity": 0.5854,
+        "profile_path": "/3widQCAShGo229D5IKOYlcvKliQ.jpg",
+        "credit_id": "61582dfcf1759c00614cdfe1",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58062,
+        "known_for_department": "Writing",
+        "name": "Bill Wrubel",
+        "original_name": "Bill Wrubel",
+        "popularity": 0.9109,
+        "profile_path": "/hVEtEE28GtisRwVAWBmVEncKm1D.jpg",
+        "credit_id": "5f0dc1bc7a3c52003917b09c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1321773,
+        "known_for_department": "Production",
+        "name": "Jeff Ingold",
+        "original_name": "Jeff Ingold",
+        "popularity": 0.931,
+        "profile_path": null,
+        "credit_id": "5e174e3211386c0011c9f664",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58224,
+        "known_for_department": "Acting",
+        "name": "جيسون سوديكس",
+        "original_name": "Jason Sudeikis",
+        "popularity": 4.7539,
+        "profile_path": "/uuacnP9DOHMsmj8FhBi0cWWDgrn.jpg",
+        "credit_id": "5e174e1d0cb335001705821a",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1216859,
+        "known_for_department": "Writing",
+        "name": "بيل لورانس",
+        "original_name": "Bill Lawrence",
+        "popularity": 1.6799,
+        "profile_path": "/75mV8qLqPA9oMy23lTxmcoEGWAe.jpg",
+        "credit_id": "5e174e2611386c0011c9f65e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3170437,
+        "known_for_department": "Sound",
+        "name": "Tony Von Pervieux",
+        "original_name": "Tony Von Pervieux",
+        "popularity": 0.5644,
+        "profile_path": null,
+        "credit_id": "60fc4289310325002373ae51",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 212821,
+        "known_for_department": "Acting",
+        "name": "كريستا ميلر",
+        "original_name": "Christa Miller",
+        "popularity": 2.3874,
+        "profile_path": "/gfLL2dM209v3WfVrovwGszjgtB3.jpg",
+        "credit_id": "60fc42b0848eb900682a6583",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4617788,
+        "known_for_department": "Sound",
+        "name": "Richard David Brown",
+        "original_name": "Richard David Brown",
+        "popularity": 0.3248,
+        "profile_path": null,
+        "credit_id": "6a67e9df30dc9f9ceeed115a",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1426835,
+        "known_for_department": "Art",
+        "name": "Paul Cripps",
+        "original_name": "Paul Cripps",
+        "popularity": 0.6039,
+        "profile_path": null,
+        "credit_id": "60fc399cf29d66002ddeb96e",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1319727,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Jacky Levy",
+        "original_name": "Jacky Levy",
+        "popularity": 0.2863,
+        "profile_path": null,
+        "credit_id": "60fc3d6e848eb9002d551bab",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1773202,
+        "known_for_department": "Production",
+        "name": "Kip Kroeger",
+        "original_name": "Kip Kroeger",
+        "popularity": 0.6841,
+        "profile_path": null,
+        "credit_id": "60fc3746848eb900494bed14",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1300064,
+        "known_for_department": "Production",
+        "name": "Theo Park",
+        "original_name": "Theo Park",
+        "popularity": 0.4874,
+        "profile_path": null,
+        "credit_id": "5f362429efcea9003694f701",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1059011,
+        "known_for_department": "Acting",
+        "name": "Marcus Mumford",
+        "original_name": "Marcus Mumford",
+        "popularity": 0.5854,
+        "profile_path": "/3widQCAShGo229D5IKOYlcvKliQ.jpg",
+        "credit_id": "5f3621a78813e40036528beb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3170432,
+        "known_for_department": "Production",
+        "name": "Katelyn Hollenbeck",
+        "original_name": "Katelyn Hollenbeck",
+        "popularity": 0.3812,
+        "profile_path": null,
+        "credit_id": "60fc400399d5c30047ea240d",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3185485,
+        "known_for_department": "Crew",
+        "name": "Rob Wadsworth",
+        "original_name": "Rob Wadsworth",
+        "popularity": 0.3546,
+        "profile_path": null,
+        "credit_id": "61099d39255dba005ef0eef9",
+        "department": "Crew",
+        "job": "Other"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/gyPWbM1lq7Ufd9cENSl5Phsrb0a.jpg",
+        "id": 62704,
+        "name": "Ballers",
+        "original_name": "Ballers",
+        "overview": "Looking at the lives of former and current football players, the show follows former superstar Spencer Strasmore as he gets his life on track in retirement while mentoring other current and former players through the daily grind of the business of football.",
+        "poster_path": "/WyIazPyjmcFMC42nWEpI0jr56x.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 20.1357,
+        "first_air_date": "2015-06-21",
+        "softcore": false,
+        "vote_average": 6.797,
+        "vote_count": 812,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lW3RCsfXXVGIBXyupMGT7dAYcze.jpg",
+        "id": 211,
+        "name": "The Game",
+        "original_name": "The Game",
+        "overview": "When her boyfriend Derwin Davis is chosen as the new third-string wide receiver for the San Diego Sabers, Melanie Barnett decides to attend a local college so she can be with him. While Derwin worries about the plays on the field, Melanie adjusts to her new lifestyle. She gets a play-by-play account of the lives and relationships among NFL wives, girlfriends and mom/managers who use their best game to help their men stay on the field and on their arm.",
+        "poster_path": "/zmvRaCRcmi6lsriYxZmAR6uWHPS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 18.4441,
+        "first_air_date": "2006-10-01",
+        "softcore": false,
+        "vote_average": 7.6,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4MRgkPa85umPuvNpahlQo1JtzMP.jpg",
+        "id": 31497,
+        "name": "The League",
+        "original_name": "The League",
+        "overview": "The League is an American sitcom and semi-improvised comedy about a about a fantasy football league and its members and their everyday lives.",
+        "poster_path": "/w6IAasjDdANmalOWkjKcENhirQR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 20.1537,
+        "first_air_date": "2009-10-29",
+        "softcore": false,
+        "vote_average": 7.358,
+        "vote_count": 236,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xJATsbyFLf4LMtJBOco08RNxqPE.jpg",
+        "id": 243316,
+        "name": "الفصول الأربعة",
+        "original_name": "The Four Seasons",
+        "overview": "تصبح صداقة، امتدت لعقود بين ثلاثة أزواج وزوجاتهم، تحت المحك حين تنتهي حياة زوجين منهما بالطلاق، الأمر الذي يعقّد تقليدهم بالسفر خلال عطلة نهاية الأسبوع الربع سنوية.",
+        "poster_path": "/w09XeYl096pwES8riRMZwEA9rnh.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 20.7814,
+        "first_air_date": "2025-05-01",
+        "softcore": false,
+        "vote_average": 6.851,
+        "vote_count": 188,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xY3RLTXgV0IHmyPAE97p3ePWY1R.jpg",
+        "id": 244623,
+        "name": "صانعة اللعب",
+        "original_name": "Running Point",
+        "overview": "بعد تغيير سلوكها، يتعين على فتاة متمردة إثبات أنها سيدة أعمال عندما تتولى بشكل غير متوقع إدارة فريق عائلتها المحترف لكرة السلة.",
+        "poster_path": "/66EyhDRHAFqE6OQDasY7Nz2LXTw.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 11.1614,
+        "first_air_date": "2025-02-27",
+        "softcore": false,
+        "vote_average": 7.293,
+        "vote_count": 162,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hEJE1WsZZqjJsq0Ltpom5qZzWEE.jpg",
+        "id": 92621,
+        "name": "Brassic",
+        "original_name": "Brassic",
+        "overview": "A group of working-class friends finding unconventional ways to win at life in suburban northern England. These lads have dealt, scammed, bribed and conned their way through adolescence, but now, their dealing and stealing is catching up with them and a whole load of trouble is heading their way.",
+        "poster_path": "/tnIq3yiLMZJpaJyRs8FNV7WJs6V.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18,
+          80
+        ],
+        "popularity": 16.5436,
+        "first_air_date": "2019-08-22",
+        "softcore": false,
+        "vote_average": 8.34,
+        "vote_count": 253,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ojEmDThITGk9IsE32uxCWCA0kH5.jpg",
+        "id": 4598,
+        "name": "Boston Legal",
+        "original_name": "Boston Legal",
+        "overview": "Alan Shore and Denny Crane lead a brigade of high-priced civil litigators in an upscale Boston law firm in a series focusing on the professional and personal lives of brilliant but often emotionally challenged attorneys. A spin-off of long-running series The Practice.",
+        "poster_path": "/b0bXUCfpcsgQ6EVVmucU2G76ixT.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 50.8605,
+        "first_air_date": "2004-10-03",
+        "softcore": false,
+        "vote_average": 7.916,
+        "vote_count": 397,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aZerXLRyZMuGjQXI61f2CmSig7o.jpg",
+        "id": 112211,
+        "name": "Platonic",
+        "original_name": "Platonic",
+        "overview": "يؤدي \"سيث روغن\" و\"روز بيرن\" دوري شخصين في أواسط عمريهما كانت تجمعهما صداقة حميمة أفلاطونية بعد شرخ طويل في علاقتهما، ثم تصير صداقتهما أشد استحواذاً على حياتيهما، مزعزعة استقرارهما بطريقة مضحكة للغاية.",
+        "poster_path": "/7G8wB9CG82nITeFwRFIRSk0sQJs.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 12.3922,
+        "first_air_date": "2023-05-23",
+        "softcore": false,
+        "vote_average": 6.934,
+        "vote_count": 221,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/t2EfhNgUSfAP8tLQ6Q8A2hCRQCs.jpg",
+        "id": 380,
+        "name": "Little Britain",
+        "original_name": "Little Britain",
+        "overview": "A zany comedy show with Matt Lucas and David Walliams, featuring characters from all over Little Britain.",
+        "poster_path": "/d8ss1109kLq2Z4K1eO9575CCKBe.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 19.2472,
+        "first_air_date": "2003-09-16",
+        "softcore": false,
+        "vote_average": 7.048,
+        "vote_count": 260,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ntsEP1jUbLxz62MZqxmVfM5TNfX.jpg",
+        "id": 199001,
+        "name": "حياتي مع أبناء عائلة والتر",
+        "original_name": "My Life with the Walter Boys",
+        "overview": "تتعرقل حياة مراهقة بسبب مأساة تجبرها على الانتقال للعيش مع عائلة وصيّتها الكبيرة في بلدة صغيرة، فتتعلم دروسًا جديدة عن الحب والأمل والصداقة.",
+        "poster_path": "/dQOwpTpBQEqRUcev4423LrU32G6.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 35.6832,
+        "first_air_date": "2023-12-07",
+        "softcore": false,
+        "vote_average": 7.816,
+        "vote_count": 427,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4t20ZBChS7o31j2iuROafO8kTLo.jpg",
+        "id": 216795,
+        "name": "Rain Dogs",
+        "original_name": "Rain Dogs",
+        "overview": "An unconventional love story between a working-class single mum, her young daughter and a privileged gay man.\n\nA wild and punky tale of a mother's love for her daughter, of deep-rooted and passionate friendships, and of brilliance thwarted by poverty and prejudice.",
+        "poster_path": "/cA3JlHtx24lEnflydTdX6TReAva.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 5.3594,
+        "first_air_date": "2023-03-06",
+        "softcore": false,
+        "vote_average": 6.6,
+        "vote_count": 49,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oUt2dx1lUyV2jLntn3EA1isCCKb.jpg",
+        "id": 219788,
+        "name": "أبّ في مأزق",
+        "original_name": "Unstable",
+        "overview": "هو أحد العباقرة غريبي الأطوار في مجال التكنولوجيا الحيوية، وابنه شخصية عملية يعيش في ظل والده... ولإنقاذ أعمال العائلة، لا بد أن يعملا على تسوية بعض الأمور.",
+        "poster_path": "/yiMhsbuMYygbWnsrPbdp7PiMvvP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 7.0203,
+        "first_air_date": "2023-03-30",
+        "softcore": false,
+        "vote_average": 6.904,
+        "vote_count": 89,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/umVYLVZ7T85TkIHudxK799lPnLQ.jpg",
+        "id": 100883,
+        "name": "Never Have I Ever",
+        "original_name": "Never Have I Ever",
+        "overview": "بعد عام مفجع، كل ما تريده مراهقة هندية أمريكية مهمّشة أن تصبح فتاة محبوبة... لكنّ أصدقاءها وعائلتها لن يجعلوا الأمر سهلًا، وكذلك مشاعرها.",
+        "poster_path": "/hd5fnBixab6IzfUwjC5wfdbX3eM.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 33.0702,
+        "first_air_date": "2020-04-27",
+        "softcore": false,
+        "vote_average": 8.044,
+        "vote_count": 1938,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7ni9K9DLJYHyll32jBYFROLwreJ.jpg",
+        "id": 10543,
+        "name": "Teachers",
+        "original_name": "Teachers",
+        "overview": "The chaotic lives, loves and drinking sessions of a group of hapless teachers. They might be qualified to teach, but they've still got a lot to learn...",
+        "poster_path": "/qxMj1ixN8ryVvJfHjgXLPlygZ6A.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 6.2984,
+        "first_air_date": "2001-03-21",
+        "softcore": false,
+        "vote_average": 7.282,
+        "vote_count": 39,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j5Un3rWVLCwyeB0lv4N2baKIbC7.jpg",
+        "id": 158756,
+        "name": "Shoresy",
+        "original_name": "Shoresy",
+        "overview": "Foul-mouthed, chirp-serving, mother-loving, fan favourite character, Shoresy, joins the Sudbury Bulldogs of the Northern Ontario Senior Hockey Organization (The NOSHO) on a quest to never lose again.",
+        "poster_path": "/ai5Bf8eRcroeEAAyVrKmrE8wW74.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 7.6161,
+        "first_air_date": "2022-05-13",
+        "softcore": false,
+        "vote_average": 7.921,
+        "vote_count": 76,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wCdhtaLMNtQ37j4OEch4dSKXyoE.jpg",
+        "id": 62117,
+        "name": "Younger",
+        "original_name": "Younger",
+        "overview": "Liza Miller, a suddenly single stay-at-home mother, tries to get back into the working world, only to find it’s nearly impossible to start at the bottom at 40-year old. When a chance encounter convinces her she looks younger than she is, Liza tries to pass herself off as 26 and lands a job as an assistant at Empirical Press. Now she just has to make sure no one finds out the secret only she and her best friend Maggie share.",
+        "poster_path": "/feWw6i09zaX2apzRqd7QbKEAsx9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "popularity": 25.9147,
+        "first_air_date": "2015-03-31",
+        "softcore": false,
+        "vote_average": 6.857,
+        "vote_count": 251,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ezQSOeu9uj4bWulxHR7D5CSNv3r.jpg",
+        "id": 226285,
+        "name": "Elsbeth",
+        "original_name": "Elsbeth",
+        "overview": "After her successful career in Chicago, Elsbeth Tascioni, an astute but unconventional attorney, utilizes her singular point of view to make unique observations and corner brilliant criminals alongside the NYPD.",
+        "poster_path": "/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          35
+        ],
+        "popularity": 36.3905,
+        "first_air_date": "2024-02-29",
+        "softcore": false,
+        "vote_average": 6.744,
+        "vote_count": 135,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pYEFwZj6YDR8OhX9tyO78IoJADe.jpg",
+        "id": 815,
+        "name": "Peep Show",
+        "original_name": "Peep Show",
+        "overview": "Two dysfunctional flatmates reveal all their inner thoughts - whether dark, stupid or embarrassing. Or, occasionally, all three...",
+        "poster_path": "/6rdoQ0cTjsEQLIwEjhBV8U98oUm.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 18.4584,
+        "first_air_date": "2003-09-19",
+        "softcore": false,
+        "vote_average": 8.018,
+        "vote_count": 450,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qNkPxEs57BVMYulBFQFo3JNRz2l.jpg",
+        "id": 70964,
+        "name": "Brockmire",
+        "original_name": "Brockmire",
+        "overview": "A famed major league baseball announcer who suffers an embarrassing and very public meltdown live on the air after discovering his beloved wife's serial infidelity decides to reclaim his career and love life in a small town a decade later.",
+        "poster_path": "/5qt3pvbEqIhCI2pBCAPES0v8zP3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "popularity": 9.1414,
+        "first_air_date": "2017-04-05",
+        "softcore": false,
+        "vote_average": 6.831,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4NIZwLomPqU01RR24T0fWp3Rr6n.jpg",
+        "id": 7317,
+        "name": "The Inbetweeners",
+        "original_name": "The Inbetweeners",
+        "overview": "Suburban teenage friends Will, Simon, Jay and Neil, students at Rudge Park Comprehensive, attempt to navigate the social scene, attract members of the gentler sex, and saunter amongst the cool crowd. However, despite their best efforts, the four hapless lads usually end up on the side of the nerds.",
+        "poster_path": "/qNmcaXDndOkY6v9QiJjnxQD09GJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 16.9127,
+        "first_air_date": "2008-05-01",
+        "softcore": false,
+        "vote_average": 7.679,
+        "vote_count": 526,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 37,
+    "total_results": 739
+  },
+  "watch/providers": {
+    "results": {
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=AE",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=AG",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 63
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=AT",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 132
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 83
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 3
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=AZ",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=BE",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 53
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=BG",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=BH",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=BM",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=BO",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 73
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "BY": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=BY",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 1
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=BZ",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 120
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=CH",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 46
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=CO",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 47
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=CR",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/gliWKhLJVdm7QwL1braBCRko5dx.png",
+            "provider_id": 381,
+            "provider_name": "Canal+",
+            "display_priority": 25
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 190
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=DO",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=EC",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=ES",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 73
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 54
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=FJ",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=FR",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 3
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 107
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 118
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 81
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=HN",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=ID",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=IE",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=IL",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=IN",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 66
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 76
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=JO",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=JP",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 29
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=KR",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/w4ov8Zx73eu2TjHsDs5EmiuYKA4.png",
+            "provider_id": 1883,
+            "provider_name": "TVING",
+            "display_priority": 29
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=LB",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=LU",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=LV",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=MU",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 1
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 64
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=MY",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 67
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=NZ",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 40
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=PH",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 57
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=QA",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=RU",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 0
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=SE",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 58
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=SG",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/gliWKhLJVdm7QwL1braBCRko5dx.png",
+            "provider_id": 381,
+            "provider_name": "Canal+",
+            "display_priority": 35
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=UA",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 1
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 1
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/rerVCu9auZrgxTTiZu1criqrQzg.png",
+            "provider_id": 2243,
+            "provider_name": "Apple TV Amazon Channel",
+            "display_priority": 216
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 4
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=VE",
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/9icYBfYFcwgCbky5VdGUIKJ4C5i.png",
+            "provider_id": 350,
+            "provider_name": "Apple TV",
+            "display_priority": 2
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qP9EDrkbsZLEmT7yqbQwfw2wHl9.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 206696,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "生き残った6人によると",
+        "overview": "",
+        "popularity": 2.2336,
+        "poster_path": "/j5I8NCe5qdqUd4TV7H1zpasJUbp.jpg",
+        "first_air_date": "2022-08-10",
+        "softcore": false,
+        "name": "生き残った6人によると",
+        "vote_average": 6.429,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eZwtU4sLSBxdzW4FlvtTNQTumDV.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 238551,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "แวมไพร์ไวน์แดง",
+        "overview": "",
+        "popularity": 2.0375,
+        "poster_path": "/4yVaW2eHPo9TwvaLJIRqmRbpWbB.jpg",
+        "first_air_date": "2024-05-19",
+        "softcore": false,
+        "name": "แวมไพร์ไวน์แดง",
+        "vote_average": 6.6,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 275140,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "一觉醒来，我回芒果当猿工",
+        "overview": "",
+        "popularity": 0.9081,
+        "poster_path": null,
+        "first_air_date": "2024-10-24",
+        "softcore": false,
+        "name": "一觉醒来，我回芒果当猿工",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w6518nngLn8awWDRnqZGLvIpcSS.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 275202,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "La oficina",
+        "overview": "",
+        "popularity": 4.714,
+        "poster_path": "/uUEPJHIGiNeV69RIco01j5Yqu1F.jpg",
+        "first_air_date": "2026-03-13",
+        "softcore": false,
+        "name": "La oficina",
+        "vote_average": 9.329,
+        "vote_count": 73
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gDRaMkzNBWiwpvkZXat7wI82Zbb.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 91845,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "MARS 〜ただ、君を愛してる〜",
+        "overview": "",
+        "popularity": 2.2949,
+        "poster_path": "/9CqS3JvpRmHnV3pCib9x2ej5oMx.jpg",
+        "first_air_date": "2016-01-24",
+        "softcore": false,
+        "name": "MARS 〜ただ、君を愛してる〜",
+        "vote_average": 3,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h61wnNwIg15qCc5XNfkGvEESFgB.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 407,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Sugar Rush",
+        "overview": "",
+        "popularity": 3.5816,
+        "poster_path": "/YEW7UwhDpVo6N1tpNHGmC9ZjNO.jpg",
+        "first_air_date": "2005-06-07",
+        "softcore": false,
+        "name": "Sugar Rush",
+        "vote_average": 7.057,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uwDpjQDl8agkdvsTnD08mmIFUIk.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 420,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Whatever Happened to the Likely Lads?",
+        "overview": "",
+        "popularity": 4.4102,
+        "poster_path": "/n9F822PC6D3rpbN89ztZPBDTeWf.jpg",
+        "first_air_date": "1973-01-09",
+        "softcore": false,
+        "name": "Whatever Happened to the Likely Lads?",
+        "vote_average": 7.682,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Lkw5pP0qg6iJGUjFObnpqSgUKV.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 428,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Arnie",
+        "overview": "",
+        "popularity": 4.2979,
+        "poster_path": "/1zecxYJyYAgM03w6skRb1p7SOHo.jpg",
+        "first_air_date": "1970-09-19",
+        "softcore": false,
+        "name": "Arnie",
+        "vote_average": 5.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sCmhbNkt6YTaPsPEI1lG9jRUz6R.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 429,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "Corner Gas",
+        "overview": "",
+        "popularity": 14.3706,
+        "poster_path": "/304lFTgMC3F53qKpDCguf7s7ZU1.jpg",
+        "first_air_date": "2004-01-22",
+        "softcore": false,
+        "name": "Corner Gas",
+        "vote_average": 8.041,
+        "vote_count": 61
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "id": 399,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Soccer AM",
+        "overview": "",
+        "popularity": 17.6787,
+        "poster_path": "/eGJPC5WBy18kMo28Rky3fe1FBjs.jpg",
+        "first_air_date": "1995-08-12",
+        "softcore": false,
+        "name": "Soccer AM",
+        "vote_average": 6.3,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2X9nNW4HzHqbPW8WyTzIQHQ2H9k.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 58761,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "응답하라 1994",
+        "overview": "",
+        "popularity": 6.1151,
+        "poster_path": "/c6qUlONZ2DcMEuJ2ga6wyAoiEqh.jpg",
+        "first_air_date": "2013-10-18",
+        "softcore": false,
+        "name": "응답하라 1994",
+        "vote_average": 7.8,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3YfGCGR9WMjjb8aLdKzeXFroabE.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          10768
+        ],
+        "id": 347,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Ultimate Force",
+        "overview": "",
+        "popularity": 5.3109,
+        "poster_path": "/616qGkxSeZBAX5t1fIO7h6WY2Ec.jpg",
+        "first_air_date": "2002-09-16",
+        "softcore": false,
+        "name": "Ultimate Force",
+        "vote_average": 6.619,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ySyyI7WboyU5M0vqR9AQ8OCp3mU.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "id": 370,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "Stickin' Around",
+        "overview": "",
+        "popularity": 5.5082,
+        "poster_path": "/tQoQ6vxzXDxR5vHmMiP2qqnpHia.jpg",
+        "first_air_date": "1996-08-14",
+        "softcore": false,
+        "name": "Stickin' Around",
+        "vote_average": 8.3,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i23xbTMuO4ZmAIETkpxUvWVUQXd.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 28688,
+        "origin_country": [
+          "NO"
+        ],
+        "original_language": "no",
+        "original_name": "Etaten",
+        "overview": "",
+        "popularity": 2.583,
+        "poster_path": "/jSN8GRkWpjVHdDnHBw71fkl3ze6.jpg",
+        "first_air_date": "2006-09-14",
+        "softcore": false,
+        "name": "Etaten",
+        "vote_average": 6.8,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lFaCYxWjRioLLGmRqOcmx2eXTl6.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 494,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Alice",
+        "overview": "",
+        "popularity": 56.5265,
+        "poster_path": "/iEEtQs1mPz3kvvaEFR7HVnME9Or.jpg",
+        "first_air_date": "1976-08-31",
+        "softcore": false,
+        "name": "Alice",
+        "vote_average": 7.032,
+        "vote_count": 63
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oLuhePSdMkISnTBssolaVr3CpDv.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10768
+        ],
+        "id": 497,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Lipstick on Your Collar",
+        "overview": "",
+        "popularity": 2.8179,
+        "poster_path": "/87bxyjSx1DZPicwEYzEIoAdLVSR.jpg",
+        "first_air_date": "1993-02-21",
+        "softcore": false,
+        "name": "Lipstick on Your Collar",
+        "vote_average": 6.926,
+        "vote_count": 27
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/clP2gGn1NYnn9IH0yN2qkA7hv4V.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 507,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "How Do You Want Me?",
+        "overview": "",
+        "popularity": 2.2068,
+        "poster_path": "/4yD3s2z73gb64fJzkHGWWzvZT5z.jpg",
+        "first_air_date": "1998-02-24",
+        "softcore": false,
+        "name": "How Do You Want Me?",
+        "vote_average": 7.778,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/omg91TxqMRrKgpgRYe6vhCgajkS.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 124641,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "American Auto",
+        "overview": "",
+        "popularity": 4.9618,
+        "poster_path": "/zWxMlVysSG9BEp9qAzZBaC97muw.jpg",
+        "first_air_date": "2021-12-13",
+        "softcore": false,
+        "name": "American Auto",
+        "vote_average": 5.548,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8B9rrj0wKXfZoBpHNP5wppCOmyJ.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 58823,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Friends with Better Lives",
+        "overview": "",
+        "popularity": 5.3699,
+        "poster_path": "/amSUQrW7siuXgjINMajG3klqV1h.jpg",
+        "first_air_date": "2014-03-31",
+        "softcore": false,
+        "name": "Friends with Better Lives",
+        "vote_average": 6.5,
+        "vote_count": 54
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7phlGHRupo38EnuwmkAHdNUqov3.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 58932,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Crazy Ones",
+        "overview": "",
+        "popularity": 7.3493,
+        "poster_path": "/s2e7hTrdmNUaJDf0yDP5b4AHvrD.jpg",
+        "first_air_date": "2013-09-26",
+        "softcore": false,
+        "name": "The Crazy Ones",
+        "vote_average": 6.119,
+        "vote_count": 126
+      }
+    ],
+    "total_pages": 3835,
+    "total_results": 76682
+  }
+}

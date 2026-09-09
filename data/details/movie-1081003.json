@@ -1,0 +1,5077 @@
+{
+  "adult": false,
+  "backdrop_path": "/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
+  "belongs_to_collection": null,
+  "budget": 175000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 12,
+      "name": "مغامرة"
+    },
+    {
+      "id": 878,
+      "name": "خيال علمي"
+    }
+  ],
+  "homepage": "",
+  "id": 1081003,
+  "imdb_id": "tt8814476",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Supergirl",
+  "overview": "عندما يوجّه عدوّ قاسٍ ولا يرحم ضربة مؤلمة تمسّ حياتها بشكل شخصي، تجد \"كارا زور-إل\"، المعروفة باسم سوبرجيرل، نفسها مضطرة للتعاون مع رفيق غير متوقع. وتنطلق معه في رحلة ملحمية عبر الفضاء، تسعى خلالها إلى الانتقام وتحقيق العدالة.",
+  "popularity": 79.033,
+  "poster_path": "/qdSh923DHzTh9vWz4pGTbYpkXIy.jpg",
+  "production_companies": [
+    {
+      "id": 184898,
+      "logo_path": "/iNTsbEgntSUwHmsZ9whiLhm60WB.png",
+      "name": "DC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 94218,
+      "logo_path": "/kxuhS8wyKtVprOn5nckdHyNuSg1.png",
+      "name": "Troll Court Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 11565,
+      "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+      "name": "The Safran Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 216687,
+      "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-06-24",
+  "revenue": 126366532,
+  "runtime": 108,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "الحقيقة. العدالة. أيّا يكن.",
+  "title": "سوبرجيرل",
+  "video": false,
+  "vote_average": 6.709,
+  "vote_count": 2198,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2046128,
+        "known_for_department": "Acting",
+        "name": "ميلي آلكوك",
+        "original_name": "Milly Alcock",
+        "popularity": 5.6714,
+        "profile_path": "/cpcNqIORhZlpie8U2wSInhv0Hjf.jpg",
+        "cast_id": 6,
+        "character": "Supergirl",
+        "credit_id": "65b8362eda9ef2017ca4e431",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4186628,
+        "known_for_department": "Acting",
+        "name": "Eve Ridley",
+        "original_name": "Eve Ridley",
+        "popularity": 2.0733,
+        "profile_path": "/vmEfK4PO6rUvTJnN8bbUZrSDgII.jpg",
+        "cast_id": 18,
+        "character": "Ruthye",
+        "credit_id": "6723f3d890004810fecb0f75",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73381,
+        "known_for_department": "Acting",
+        "name": "Matthias Schoenaerts",
+        "original_name": "Matthias Schoenaerts",
+        "popularity": 2.6213,
+        "profile_path": "/9mRssCj4si6f6IF3nJ2RB5w0J7g.jpg",
+        "cast_id": 14,
+        "character": "Krem",
+        "credit_id": "66f2ff9bfc009839148d9269",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117642,
+        "known_for_department": "Acting",
+        "name": "جايسون موموا",
+        "original_name": "Jason Momoa",
+        "popularity": 8.7332,
+        "profile_path": "/3troAR6QbSb6nUFMDu61YCCWLKa.jpg",
+        "cast_id": 26,
+        "character": "Lobo",
+        "credit_id": "6772d98be9cac07ec412c05a",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 38582,
+        "known_for_department": "Acting",
+        "name": "ديفيد كرومهولتز",
+        "original_name": "David Krumholtz",
+        "popularity": 3.0853,
+        "profile_path": "/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg",
+        "cast_id": 35,
+        "character": "Zor-El",
+        "credit_id": "678acb67dd17b497498649d7",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 130414,
+        "known_for_department": "Acting",
+        "name": "Emily Beecham",
+        "original_name": "Emily Beecham",
+        "popularity": 3.3142,
+        "profile_path": "/u3Jgk4v7L23lKRQ9qxGJYmRkY4m.jpg",
+        "cast_id": 36,
+        "character": "Alura In-Ze",
+        "credit_id": "678acb6fdd17b497498649dd",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1785590,
+        "known_for_department": "Acting",
+        "name": "ديفيد كورينسويت",
+        "original_name": "David Corenswet",
+        "popularity": 3.3208,
+        "profile_path": "/jWEOTZuV8xN1M2SpEkZQFcyt3tP.jpg",
+        "cast_id": 71,
+        "character": "Superman",
+        "credit_id": "693b25fd6d8c3ba6bf360871",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1411379,
+        "known_for_department": "Acting",
+        "name": "Kadiff Kirwan",
+        "original_name": "Kadiff Kirwan",
+        "popularity": 1.2595,
+        "profile_path": "/dSCcuypWkQzspAQQq4AuejMzYfo.jpg",
+        "cast_id": 112,
+        "character": "Bomar Vran",
+        "credit_id": "6a3c0ce7c1434832c77d2396",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2031926,
+        "known_for_department": "Acting",
+        "name": "Thalissa Teixeira",
+        "original_name": "Thalissa Teixeira",
+        "popularity": 1.4233,
+        "profile_path": "/jugWj8dbgGak8R2kCpwRsrh4e7H.jpg",
+        "cast_id": 111,
+        "character": "Mareck Vran",
+        "credit_id": "6a3c0cd069b50defe04dbe12",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1211873,
+        "known_for_department": "Acting",
+        "name": "Ferdinand Kingsley",
+        "original_name": "Ferdinand Kingsley",
+        "popularity": 2.1571,
+        "profile_path": "/arGWhGhfBl8CvNuUoKkUmfrDG0b.jpg",
+        "cast_id": 68,
+        "character": "Elias Knoll",
+        "credit_id": "692667414b71db6f1e30cb3b",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1362996,
+        "known_for_department": "Acting",
+        "name": "Emily Piggford",
+        "original_name": "Emily Piggford",
+        "popularity": 1.1989,
+        "profile_path": "/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg",
+        "cast_id": 100,
+        "character": "Delilah Knoll",
+        "credit_id": "6a26fcfad0c7f6504695440a",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1330044,
+        "known_for_department": "Acting",
+        "name": "Diarmaid Murtagh",
+        "original_name": "Diarmaid Murtagh",
+        "popularity": 1.1319,
+        "profile_path": "/QHWy0m8t0JrxSwlxcWZrawfUdi.jpg",
+        "cast_id": 79,
+        "character": "Drom Baxton",
+        "credit_id": "696fa247dbfbbd9396e0ad36",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1676769,
+        "known_for_department": "Acting",
+        "name": "Clara Rosager",
+        "original_name": "Clara Rosager",
+        "popularity": 1.4767,
+        "profile_path": "/aHV34ftsFREjRNaQtG23mqJP2Ae.jpg",
+        "cast_id": 126,
+        "character": "Blue Sklarian Raider",
+        "credit_id": "6a3da867d298623f4b73cc03",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1807122,
+        "known_for_department": "Acting",
+        "name": "Alice Hewkin",
+        "original_name": "Alice Hewkin",
+        "popularity": 1.1043,
+        "profile_path": "/Ab92Gh6ILQCaoniNeJHwds9za2Y.jpg",
+        "cast_id": 47,
+        "character": "Red Sklarian Raider",
+        "credit_id": "6829e8fea9abf722132f6fa2",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2955915,
+        "known_for_department": "Acting",
+        "name": "Heather Agyepong",
+        "original_name": "Heather Agyepong",
+        "popularity": 0.4065,
+        "profile_path": "/pDeJfGeKlVY5ts8ARN3Pp5IoGIa.jpg",
+        "cast_id": 127,
+        "character": "Purple Sklarian Raider",
+        "credit_id": "6a3da88d0a211b6dc4a69e72",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1815694,
+        "known_for_department": "Acting",
+        "name": "Wil Coban",
+        "original_name": "Wil Coban",
+        "popularity": 0.5812,
+        "profile_path": "/73REwJckTBMNJoiGIrrGhcCdTqf.jpg",
+        "cast_id": 69,
+        "character": "Brute",
+        "credit_id": "692a081b000b8dd82ca76259",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4833585,
+        "known_for_department": "Acting",
+        "name": "George Montague",
+        "original_name": "George Montague",
+        "popularity": 0.6767,
+        "profile_path": "/zAg31yy46hUB2rjDcSHbWmbVSQi.jpg",
+        "cast_id": 99,
+        "character": "Hideous Alien Double",
+        "credit_id": "6a1259bb5a85c376316efd17",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6272460,
+        "known_for_department": "Acting",
+        "name": "Bruce Lennox",
+        "original_name": "Bruce Lennox",
+        "popularity": 0.2974,
+        "profile_path": null,
+        "cast_id": 101,
+        "character": "Emond Knoll",
+        "credit_id": "6a26fd1a99c399eb51dda33e",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1481376,
+        "known_for_department": "Acting",
+        "name": "Audrey Brisson-Jutras",
+        "original_name": "Audrey Brisson-Jutras",
+        "popularity": 0.5464,
+        "profile_path": "/ko5w2XlboG1NCwzyqAWLkFIqLA5.jpg",
+        "cast_id": 102,
+        "character": "Lumpy Alien",
+        "credit_id": "6a26fd58750148cb1ec33329",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2059519,
+        "known_for_department": "Acting",
+        "name": "Avye Leventis",
+        "original_name": "Avye Leventis",
+        "popularity": 0.4365,
+        "profile_path": "/eh69mD5HCLSjl4F7ltaOoPHEWcK.jpg",
+        "cast_id": 103,
+        "character": "Lumpy Alien",
+        "credit_id": "6a26fd64d0c7f6504695442b",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29237,
+        "known_for_department": "Acting",
+        "name": "Leo Bill",
+        "original_name": "Leo Bill",
+        "popularity": 1.6028,
+        "profile_path": "/2x0eBDkpaZ4CGrI5H5w006YEoKk.jpg",
+        "cast_id": 108,
+        "character": "Big Furry Gremlin",
+        "credit_id": "6a2dc422a964aa33498970c3",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1234991,
+        "known_for_department": "Acting",
+        "name": "كيلي فورسيث",
+        "original_name": "Keeley Forsyth",
+        "popularity": 1.0999,
+        "profile_path": "/IJx6BvpEWUnF5ZsnVCa4ZKoQ26.jpg",
+        "cast_id": 110,
+        "character": "Healer",
+        "credit_id": "6a3c0ca370dea7a83a66b1b1",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6168031,
+        "known_for_department": "Acting",
+        "name": "Asha Soetan",
+        "original_name": "Asha Soetan",
+        "popularity": 0.5518,
+        "profile_path": "/jxBlEWiBc2A1AK58F5EP3qsUt4h.jpg",
+        "cast_id": 113,
+        "character": "Sarna Vran",
+        "credit_id": "6a3c0cf73ed63f6932f7501e",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3399457,
+        "known_for_department": "Acting",
+        "name": "Naomi Wirthner",
+        "original_name": "Naomi Wirthner",
+        "popularity": 0.6465,
+        "profile_path": "/qcp8DBhZpiekFnljrD8Axj0Dl1u.jpg",
+        "cast_id": 114,
+        "character": "Doctor",
+        "credit_id": "6a3c0d1d3ed63f6932f75024",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5375567,
+        "known_for_department": "Acting",
+        "name": "Imogen Turner",
+        "original_name": "Imogen Turner",
+        "popularity": 0.2789,
+        "profile_path": null,
+        "cast_id": 115,
+        "character": "Young Kara",
+        "credit_id": "6a3c0d3da59623f0945af952",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6308818,
+        "known_for_department": "Acting",
+        "name": "Paul Hunter",
+        "original_name": "Paul Hunter",
+        "popularity": 0.2743,
+        "profile_path": null,
+        "cast_id": 123,
+        "character": "Wormhole Bus Driver",
+        "credit_id": "6a3da7cde9a900223c04312d",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1083177,
+        "known_for_department": "Acting",
+        "name": "Charlie Rawes",
+        "original_name": "Charlie Rawes",
+        "popularity": 1.0892,
+        "profile_path": "/zsARROMEHNANOAI8wntYcn3BpOM.jpg",
+        "cast_id": 124,
+        "character": "Hookah Smoking Alien / Massive Man",
+        "credit_id": "6a3da8004ea4114d4c73cc4d",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5637274,
+        "known_for_department": "Acting",
+        "name": "Craig Binning",
+        "original_name": "Craig Binning",
+        "popularity": 0.7495,
+        "profile_path": null,
+        "cast_id": 125,
+        "character": "Screeching Alien",
+        "credit_id": "6a3da81abead8976fba69e39",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3281802,
+        "known_for_department": "Acting",
+        "name": "Luke Rollason",
+        "original_name": "Luke Rollason",
+        "popularity": 0.6433,
+        "profile_path": "/3ZM3JVnAR8GQZUbpfWXd5yZVvi5.jpg",
+        "cast_id": 128,
+        "character": "Rest Stop Clerk",
+        "credit_id": "6a3da8a5c3daddfc02753e13",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6308832,
+        "known_for_department": "Acting",
+        "name": "Adam Young",
+        "original_name": "Adam Young",
+        "popularity": 0.2967,
+        "profile_path": null,
+        "cast_id": 129,
+        "character": "Bilqui Criminal",
+        "credit_id": "6a3da8dbfe0bc84642753e3b",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6308836,
+        "known_for_department": "Acting",
+        "name": "Winnie Ama",
+        "original_name": "Winnie Ama",
+        "popularity": 0.3173,
+        "profile_path": "/8BscEw5d0ByNRJ1DMLoemNR6hPW.jpg",
+        "cast_id": 131,
+        "character": "Evely Band Singer",
+        "credit_id": "6a3da910f9dfbeca9f4e85ff",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6308838,
+        "known_for_department": "Acting",
+        "name": "Henry Tozer",
+        "original_name": "Henry Tozer",
+        "popularity": 0.2682,
+        "profile_path": null,
+        "cast_id": 132,
+        "character": "Evely Band Pianist",
+        "credit_id": "6a3da92916e7d97de24e85a2",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1656814,
+        "known_for_department": "Acting",
+        "name": "Jordan Coulson",
+        "original_name": "Jordan Coulson",
+        "popularity": 0.4796,
+        "profile_path": "/fURASMM0DzlzZSNlvSvx91VoAQx.jpg",
+        "cast_id": 133,
+        "character": "Skeevy Dude",
+        "credit_id": "6a3da97f0d26a4e7409e583e",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1951021,
+        "known_for_department": "Acting",
+        "name": "James Eeles",
+        "original_name": "James Eeles",
+        "popularity": 0.9596,
+        "profile_path": "/rnuxXcPGuGeYcCVQeqCaeDRJIaY.jpg",
+        "cast_id": 134,
+        "character": "Wiry Criminal",
+        "credit_id": "6a3da9cc0da9f9576be17843",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1653293,
+        "known_for_department": "Acting",
+        "name": "Tom Godwin",
+        "original_name": "Tom Godwin",
+        "popularity": 0.4768,
+        "profile_path": "/qWEElzB8xpnu3Os0OZwv1KIztLt.jpg",
+        "cast_id": 135,
+        "character": "Sleeping Prisoner",
+        "credit_id": "6a3daa0716f2f67e4b043098",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1108142,
+        "known_for_department": "Acting",
+        "name": "Shaun Mason",
+        "original_name": "Shaun Mason",
+        "popularity": 1.2469,
+        "profile_path": "/6JDlkUjE9tsWwLYbxoMStnYMMB4.jpg",
+        "cast_id": 136,
+        "character": "Brigand Underling",
+        "credit_id": "6a3daa1a16f2f67e4b04309c",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1770733,
+        "known_for_department": "Acting",
+        "name": "Dean Nolan",
+        "original_name": "Dean Nolan",
+        "popularity": 0.4656,
+        "profile_path": "/46BioKbGvlxC4yRHqZkqIGgBuff.jpg",
+        "cast_id": 137,
+        "character": "Brigand Superior",
+        "credit_id": "6a3daa36eba95a773573cc50",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2399173,
+        "known_for_department": "Acting",
+        "name": "Daniel Scott-Smith",
+        "original_name": "Daniel Scott-Smith",
+        "popularity": 0.3935,
+        "profile_path": "/eq2KS0QT8anOGyw1LgbF5Jye0PT.jpg",
+        "cast_id": 138,
+        "character": "Peeing Brigand",
+        "credit_id": "6a3daa4efe0bc84642753e5e",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4076286,
+        "known_for_department": "Acting",
+        "name": "Audrey Kattan",
+        "original_name": "Audrey Kattan",
+        "popularity": 0.4924,
+        "profile_path": "/nNDz6kv657LhEMosK5PnM3L5uQw.jpg",
+        "cast_id": 139,
+        "character": "Caged Bride",
+        "credit_id": "6a3daa91e9a900223c04314e",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2671413,
+        "known_for_department": "Acting",
+        "name": "Florisa Kamara",
+        "original_name": "Florisa Kamara",
+        "popularity": 0.5455,
+        "profile_path": "/w4CayNiu6azOaPwilgpoQrQJuUO.jpg",
+        "cast_id": 140,
+        "character": "Harpoon Bride",
+        "credit_id": "6a3daaa299d95f35d898f7ac",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19274,
+        "known_for_department": "Acting",
+        "name": "سيث روغن",
+        "original_name": "Seth Rogen",
+        "popularity": 4.251,
+        "profile_path": "/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg",
+        "cast_id": 109,
+        "character": "Mousy Alien (voice) (uncredited)",
+        "credit_id": "6a3c0577bdcbeb0bcc7d2322",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2223768,
+        "known_for_department": "Acting",
+        "name": "Adam Young",
+        "original_name": "Adam Young",
+        "popularity": 0.5629,
+        "profile_path": "/dMp9t3CnylsSL1lLniCjZUhqblx.jpg",
+        "cast_id": 182,
+        "character": "Bilqui Criminal",
+        "credit_id": "6a81aecb4164558e69f8034c",
+        "order": 41
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1300711,
+        "known_for_department": "Writing",
+        "name": "أنا نوغيرا",
+        "original_name": "Ana Nogueira",
+        "popularity": 1.3031,
+        "profile_path": "/w3LlhcNxVazkfHL8v2LtcmyndOO.jpg",
+        "credit_id": "6553dc08ea84c71094ff7f50",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15218,
+        "known_for_department": "Writing",
+        "name": "جيمس غان",
+        "original_name": "James Gunn",
+        "popularity": 4,
+        "profile_path": "/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
+        "credit_id": "63d94fa1c15b5500a0538bb9",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52259,
+        "known_for_department": "Production",
+        "name": "Peter Safran",
+        "original_name": "Peter Safran",
+        "popularity": 1.0056,
+        "profile_path": "/p9gR2taQgpt9FI8lMzZJXfOGrPy.jpg",
+        "credit_id": "63d94fa9a9117f007976dea5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 50767,
+        "known_for_department": "Directing",
+        "name": "كريغ غيليسبي",
+        "original_name": "Craig Gillespie",
+        "popularity": 1.702,
+        "profile_path": "/pVHspL9QWsXCm3t3VXEaCJ9y8Zz.jpg",
+        "credit_id": "6643f3c1e997a2e6b08e2663",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6688,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anna B. Sheppard",
+        "original_name": "Anna B. Sheppard",
+        "popularity": 0.611,
+        "profile_path": "/k3bznaLxtBMltY2A0AvJnNk3IP3.jpg",
+        "credit_id": "668df887932514c8020a483c",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1325211,
+        "known_for_department": "Art",
+        "name": "Neil Lamont",
+        "original_name": "Neil Lamont",
+        "popularity": 1.4581,
+        "profile_path": "/3FDtrWmEdfOyTsWkjjIqS17rxAm.jpg",
+        "credit_id": "66cefa2fa54b07197ca46f89",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1691976,
+        "known_for_department": "Visual Effects",
+        "name": "Geoffrey Baumann",
+        "original_name": "Geoffrey Baumann",
+        "popularity": 0.5548,
+        "profile_path": "/A7U4w5phSSEj2vKakIieYLrA6PM.jpg",
+        "credit_id": "66cef94185f7b593372b9851",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2025837,
+        "known_for_department": "Art",
+        "name": "Tara Ilsley",
+        "original_name": "Tara Ilsley",
+        "popularity": 0.433,
+        "profile_path": null,
+        "credit_id": "66fafeaef906b98958f1a1ef",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1828173,
+        "known_for_department": "Production",
+        "name": "Chantal Nong Vo",
+        "original_name": "Chantal Nong Vo",
+        "popularity": 0.5494,
+        "profile_path": "/zscpdONQxMypmH4tly56PUXj2Jy.jpg",
+        "credit_id": "67155db3cef14628fef5ef0c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1349452,
+        "known_for_department": "Directing",
+        "name": "Lars P. Winther",
+        "original_name": "Lars P. Winther",
+        "popularity": 0.5114,
+        "profile_path": "/JYh9xcd3YdmCYcJ5TuFoo40vOU.jpg",
+        "credit_id": "6723c793826fe5799cc4e9cf",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2854871,
+        "known_for_department": "Visual Effects",
+        "name": "Nicole Rowley",
+        "original_name": "Nicole Rowley",
+        "popularity": 0.4087,
+        "profile_path": null,
+        "credit_id": "672920dd5309b8a5b047216d",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1162217,
+        "known_for_department": "Camera",
+        "name": "روب هاردي",
+        "original_name": "Rob Hardy",
+        "popularity": 0.4529,
+        "profile_path": "/b4Fa1o108wsU8h9IZDHpZyHg2OX.jpg",
+        "credit_id": "674b1d4c51d26ba93c78ad4b",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1430498,
+        "known_for_department": "Lighting",
+        "name": "Lee Walters",
+        "original_name": "Lee Walters",
+        "popularity": 0.8335,
+        "profile_path": null,
+        "credit_id": "67607945fe7a911e34bd4c34",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 29611,
+        "known_for_department": "Visual Effects",
+        "name": "Paul Corbould",
+        "original_name": "Paul Corbould",
+        "popularity": 0.7913,
+        "profile_path": null,
+        "credit_id": "67607e53aca3549e54f67da4",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 23424,
+        "known_for_department": "Production",
+        "name": "Lucy Bevan",
+        "original_name": "Lucy Bevan",
+        "popularity": 1.9867,
+        "profile_path": "/hT17FBbxl9gXD5IdieHKoydRcb4.jpg",
+        "credit_id": "6765a8e7f926be03cc74a8eb",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105780,
+        "known_for_department": "Sound",
+        "name": "Chris Munro",
+        "original_name": "Chris Munro",
+        "popularity": 0.746,
+        "profile_path": "/xfuQraRSxQNwgKyrY47FLeoVB4z.jpg",
+        "credit_id": "676bee65789c7125b5a9db31",
+        "department": "Sound",
+        "job": "Production Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1692253,
+        "known_for_department": "Crew",
+        "name": "Trayan Milenov-Troy",
+        "original_name": "Trayan Milenov-Troy",
+        "popularity": 0.5725,
+        "profile_path": "/lsjrsnbPKTDE02J54u8Y4tNvoGU.jpg",
+        "credit_id": "676edb08d6d10ecc8c12bb8e",
+        "department": "Crew",
+        "job": "Fight Choreographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1453245,
+        "known_for_department": "Crew",
+        "name": "Alex Abelman",
+        "original_name": "Alex Abelman",
+        "popularity": 0.3854,
+        "profile_path": null,
+        "credit_id": "6772dcee0f248e85081297e9",
+        "department": "Crew",
+        "job": "Carpenter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2162698,
+        "known_for_department": "Art",
+        "name": "Phil Hawley",
+        "original_name": "Phil Hawley",
+        "popularity": 0.2884,
+        "profile_path": null,
+        "credit_id": "6772dd2d0f248e850812981a",
+        "department": "Art",
+        "job": "Painter"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2704267,
+        "known_for_department": "Art",
+        "name": "Vincent Jenkins",
+        "original_name": "Vincent Jenkins",
+        "popularity": 0.2906,
+        "profile_path": null,
+        "credit_id": "6772dd5cbf10ff198461f1f2",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1697272,
+        "known_for_department": "Art",
+        "name": "Eva Kuntz",
+        "original_name": "Eva Kuntz",
+        "popularity": 0.3301,
+        "profile_path": null,
+        "credit_id": "6772dd7f0f248e850812984f",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2615684,
+        "known_for_department": "Art",
+        "name": "Christopher Vincent",
+        "original_name": "Christopher Vincent",
+        "popularity": 0.2718,
+        "profile_path": null,
+        "credit_id": "6772de654111599e38128dd9",
+        "department": "Art",
+        "job": "Concept Artist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1400092,
+        "known_for_department": "Camera",
+        "name": "Jeremy Braben",
+        "original_name": "Jeremy Braben",
+        "popularity": 0.4468,
+        "profile_path": null,
+        "credit_id": "6772df09cfe62644df133494",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2968943,
+        "known_for_department": "Production",
+        "name": "Katie Brydon",
+        "original_name": "Katie Brydon",
+        "popularity": 0.4822,
+        "profile_path": null,
+        "credit_id": "6772df3d3fc76ea588928a31",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1766257,
+        "known_for_department": "Production",
+        "name": "Sydney Shircliff",
+        "original_name": "Sydney Shircliff",
+        "popularity": 0.5224,
+        "profile_path": null,
+        "credit_id": "6772df910f248e850812995f",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2117573,
+        "known_for_department": "Visual Effects",
+        "name": "Michael Melchiorre",
+        "original_name": "Michael Melchiorre",
+        "popularity": 0.4418,
+        "profile_path": null,
+        "credit_id": "679509ee0a30d6d05923cfae",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2750306,
+        "known_for_department": "Art",
+        "name": "James M. Spencer",
+        "original_name": "James M. Spencer",
+        "popularity": 0.3773,
+        "profile_path": null,
+        "credit_id": "679ccb92bb7269b6b34d23ed",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1404875,
+        "known_for_department": "Directing",
+        "name": "Jo Beckett",
+        "original_name": "Jo Beckett",
+        "popularity": 0.5216,
+        "profile_path": null,
+        "credit_id": "679e3a461742b44a14cb41e4",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2001258,
+        "known_for_department": "Camera",
+        "name": "Sam Phillips",
+        "original_name": "Sam Phillips",
+        "popularity": 0.4018,
+        "profile_path": null,
+        "credit_id": "67bb8ba4bf521f190f0a7d18",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5914,
+        "known_for_department": "Production",
+        "name": "Mary Vernieu",
+        "original_name": "Mary Vernieu",
+        "popularity": 0.8219,
+        "profile_path": "/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg",
+        "credit_id": "67d3715200c85c5a2864e64d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 75586,
+        "known_for_department": "Directing",
+        "name": "Alex Oakley",
+        "original_name": "Alex Oakley",
+        "popularity": 0.6212,
+        "profile_path": null,
+        "credit_id": "67db4a76c60d5177ade9e14e",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 11296,
+        "known_for_department": "Art",
+        "name": "Alastair Bullock",
+        "original_name": "Alastair Bullock",
+        "popularity": 0.4703,
+        "profile_path": null,
+        "credit_id": "681bd920abfaf9c59cc1d864",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52164,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Peter Swords King",
+        "original_name": "Peter Swords King",
+        "popularity": 0.6487,
+        "profile_path": "/dwdONUPDDjrCco7n7JOnPglx7OT.jpg",
+        "credit_id": "681bd9593ea459f59b01e63a",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52164,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Peter Swords King",
+        "original_name": "Peter Swords King",
+        "popularity": 0.6487,
+        "profile_path": "/dwdONUPDDjrCco7n7JOnPglx7OT.jpg",
+        "credit_id": "681bd961fa53de5d8c6e349b",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1413927,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Kristyan Mallett",
+        "original_name": "Kristyan Mallett",
+        "popularity": 0.4796,
+        "profile_path": null,
+        "credit_id": "682e351a437fadcc6f649d03",
+        "department": "Costume & Make-Up",
+        "job": "Prosthetic Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2143672,
+        "known_for_department": "Crew",
+        "name": "Florian Robin",
+        "original_name": "Florian Robin",
+        "popularity": 0.7096,
+        "profile_path": "/iRXSyqY65hq8lZHSZNDEyx8JX4Y.jpg",
+        "credit_id": "68386f3b1fa0c455ba731078",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2770611,
+        "known_for_department": "Crew",
+        "name": "Bogdan Kumšackij",
+        "original_name": "Bogdan Kumšackij",
+        "popularity": 0.6016,
+        "profile_path": "/bJSkpkpRSbb7DgIVovxKu2cagN6.jpg",
+        "credit_id": "68386f57df895e1db1730ff3",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1359416,
+        "known_for_department": "Crew",
+        "name": "Laura Swift",
+        "original_name": "Laura Swift",
+        "popularity": 0.7875,
+        "profile_path": "/eMYeKkEYIQ2MCdw4puoHWo65xnn.jpg",
+        "credit_id": "684219f312beb1d6bcf2c9a4",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 33685,
+        "known_for_department": "Editing",
+        "name": "Tatiana S. Riegel",
+        "original_name": "Tatiana S. Riegel",
+        "popularity": 0.685,
+        "profile_path": "/mms5qpMvookGWLw2UZ54QqO9hES.jpg",
+        "credit_id": "684b6e383cc157a5091be5f4",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2476623,
+        "known_for_department": "Camera",
+        "name": "Phil Arntz",
+        "original_name": "Phil Arntz",
+        "popularity": 0.3289,
+        "profile_path": null,
+        "credit_id": "6865c52b34071e9e9c8e6467",
+        "department": "Camera",
+        "job": "Aerial Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 8415,
+        "known_for_department": "Production",
+        "name": "Nigel Gostelow",
+        "original_name": "Nigel Gostelow",
+        "popularity": 0.4224,
+        "profile_path": null,
+        "credit_id": "686ef92ad0628c2c89104b10",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379991,
+        "known_for_department": "Visual Effects",
+        "name": "Stephane Naze",
+        "original_name": "Stephane Naze",
+        "popularity": 0.616,
+        "profile_path": "/1Mqp2rjthrVToUKwgcaJa2YAABw.jpg",
+        "credit_id": "68b8699dad3fc053b49baea6",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5470614,
+        "known_for_department": "Visual Effects",
+        "name": "Loïc Mireault",
+        "original_name": "Loïc Mireault",
+        "popularity": 0.3643,
+        "profile_path": null,
+        "credit_id": "68b869a6fc53c833ae8cd8a9",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2657903,
+        "known_for_department": "Crew",
+        "name": "Kevin Sears",
+        "original_name": "Kevin Sears",
+        "popularity": 0.3383,
+        "profile_path": null,
+        "credit_id": "68fab6257e41e4906cf2a1e2",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1575736,
+        "known_for_department": "Visual Effects",
+        "name": "Malcolm Humphreys",
+        "original_name": "Malcolm Humphreys",
+        "popularity": 0.5648,
+        "profile_path": "/oVkzEVHDUFYhBBDobBbcMXRb5nN.jpg",
+        "credit_id": "693b2b44c1cc16357ee0b858",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2147816,
+        "known_for_department": "Visual Effects",
+        "name": "Ben Krolick",
+        "original_name": "Ben Krolick",
+        "popularity": 0.3925,
+        "profile_path": "/i3Q0uhAfkKFohCgDnx5HGkDUnSw.jpg",
+        "credit_id": "694b38e5a6394c2ad2fb2040",
+        "department": "Visual Effects",
+        "job": "Animation Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4338418,
+        "known_for_department": "Visual Effects",
+        "name": "Jordan Harding",
+        "original_name": "Jordan Harding",
+        "popularity": 0.4649,
+        "profile_path": null,
+        "credit_id": "694b390653fa4b5e778ec4c9",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1998244,
+        "known_for_department": "Visual Effects",
+        "name": "Lee Briggs",
+        "original_name": "Lee Briggs",
+        "popularity": 0.5011,
+        "profile_path": "/zRvlrS7KkqHPMyRegutjdfIXHm.jpg",
+        "credit_id": "694b391b0ec3833de27ad00e",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 40713,
+        "known_for_department": "Crew",
+        "name": "Rob Inch",
+        "original_name": "Rob Inch",
+        "popularity": 0.6749,
+        "profile_path": "/ihuAlrMLqovvyoNq42MJ4ZauvJz.jpg",
+        "credit_id": "6951799a25713176bbd79634",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2144196,
+        "known_for_department": "Visual Effects",
+        "name": "Jean-Baptiste Godin",
+        "original_name": "Jean-Baptiste Godin",
+        "popularity": 0.3681,
+        "profile_path": null,
+        "credit_id": "696d1e83cb195c9856f12131",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20007,
+        "known_for_department": "Writing",
+        "name": "جيري سيغل",
+        "original_name": "Jerry Siegel",
+        "popularity": 1.7164,
+        "profile_path": "/tpkgpm3pHrkSNewoDasKz6Chpg4.jpg",
+        "credit_id": "698698e5bad4cfdb4b57676a",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 20008,
+        "known_for_department": "Writing",
+        "name": "جو شوستر",
+        "original_name": "Joe Shuster",
+        "popularity": 1.9315,
+        "profile_path": "/bb2RpPm1GZy45dxndVdlxNx7AvU.jpg",
+        "credit_id": "698698e9d6fa9b875393b48a",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 968470,
+        "known_for_department": "Sound",
+        "name": "Claudia Sarne",
+        "original_name": "Claudia Sarne",
+        "popularity": 0.4809,
+        "profile_path": "/gu9nioMcFUtKZ8bJZk5I2U5Ulmr.jpg",
+        "credit_id": "69b1faeaeceab4369221cfeb",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1285933,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Michael Mooney",
+        "original_name": "Michael Mooney",
+        "popularity": 0.3811,
+        "profile_path": null,
+        "credit_id": "69cbf24e0419bf1c9542a6ca",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 232158,
+        "known_for_department": "Sound",
+        "name": "Susan Jacobs",
+        "original_name": "Susan Jacobs",
+        "popularity": 0.7187,
+        "profile_path": "/lYEYUJ6ytJInZs594BM8Q8rgBQG.jpg",
+        "credit_id": "69cbf25e363d4de9ae645906",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3027234,
+        "known_for_department": "Visual Effects",
+        "name": "Benjamin Loch",
+        "original_name": "Benjamin Loch",
+        "popularity": 0.3692,
+        "profile_path": null,
+        "credit_id": "69cd618f60aca6014d2637d7",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6111389,
+        "known_for_department": "Crew",
+        "name": "Kat Mann",
+        "original_name": "Kat Mann",
+        "popularity": 0.2991,
+        "profile_path": null,
+        "credit_id": "69cd61dfd507752d2d3f9672",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1767601,
+        "known_for_department": "Visual Effects",
+        "name": "Massimo Meo",
+        "original_name": "Massimo Meo",
+        "popularity": 0.3996,
+        "profile_path": "/7W13iWapGUOoZrDFxThfIAhGSeb.jpg",
+        "credit_id": "69cd61ec0570d90f68895846",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6111390,
+        "known_for_department": "Visual Effects",
+        "name": "Dan Hogg",
+        "original_name": "Dan Hogg",
+        "popularity": 0.2591,
+        "profile_path": null,
+        "credit_id": "69cd6214a5f939c7649c76c4",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1685570,
+        "known_for_department": "Production",
+        "name": "Bret Howe",
+        "original_name": "Bret Howe",
+        "popularity": 0.6163,
+        "profile_path": null,
+        "credit_id": "69dfb6996b823ef6903af553",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58194,
+        "known_for_department": "Editing",
+        "name": "Fred Raskin",
+        "original_name": "Fred Raskin",
+        "popularity": 0.6626,
+        "profile_path": "/aqNCDunpfVqzPYPpzhZZQeXDNQe.jpg",
+        "credit_id": "69ffbec573db014d552215d2",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3755291,
+        "known_for_department": "Visual Effects",
+        "name": "Fabricio de Vasconcellos Baessa Antonio",
+        "original_name": "Fabricio de Vasconcellos Baessa Antonio",
+        "popularity": 0.2706,
+        "profile_path": null,
+        "credit_id": "69ffbf5cd9e7ad65521e111f",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1855854,
+        "known_for_department": "Visual Effects",
+        "name": "Jaume Creus",
+        "original_name": "Jaume Creus",
+        "popularity": 0.3448,
+        "profile_path": null,
+        "credit_id": "69ffbf901c09a0a963ed786e",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1103587,
+        "known_for_department": "Camera",
+        "name": "James Friend",
+        "original_name": "James Friend",
+        "popularity": 0.3856,
+        "profile_path": "/1965gWiNN5N4T0APbwBD4yaSwIe.jpg",
+        "credit_id": "6a2ad1693fa944a5d69a0a7d",
+        "department": "Camera",
+        "job": "Additional Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1325212,
+        "known_for_department": "Art",
+        "name": "Lee Sandales",
+        "original_name": "Lee Sandales",
+        "popularity": 0.82,
+        "profile_path": null,
+        "credit_id": "6a2ad3f0776dd8e842efda47",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2157956,
+        "known_for_department": "Visual Effects",
+        "name": "Luke Ballard",
+        "original_name": "Luke Ballard",
+        "popularity": 0.6825,
+        "profile_path": null,
+        "credit_id": "6a2ad4c4deb921a1d1efe06b",
+        "department": "Visual Effects",
+        "job": "Compositing Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2976441,
+        "known_for_department": "Visual Effects",
+        "name": "Patrik Marek",
+        "original_name": "Patrik Marek",
+        "popularity": 0.4575,
+        "profile_path": null,
+        "credit_id": "6a2ad83ca7c37e8f84a0d08d",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445622,
+        "known_for_department": "Production",
+        "name": "Pete Chiappetta",
+        "original_name": "Pete Chiappetta",
+        "popularity": 1.0186,
+        "profile_path": null,
+        "credit_id": "6a3c26c9e8f1ee4f3df75242",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445623,
+        "known_for_department": "Production",
+        "name": "Andrew Lary",
+        "original_name": "Andrew Lary",
+        "popularity": 0.5853,
+        "profile_path": null,
+        "credit_id": "6a3c26dda598b6f60bdd0fa2",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4445624,
+        "known_for_department": "Production",
+        "name": "Anthony Tittanegro",
+        "original_name": "Anthony Tittanegro",
+        "popularity": 0.5885,
+        "profile_path": "/3KPNXBg7a1jw97234n98weScLmF.jpg",
+        "credit_id": "6a3c26eabdcbeb0bcc7d2501",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3752845,
+        "known_for_department": "Crew",
+        "name": "Miguel Perez Senent",
+        "original_name": "Miguel Perez Senent",
+        "popularity": 0.3522,
+        "profile_path": null,
+        "credit_id": "6a4003c79fbdf393d328cdbb",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2341700,
+        "known_for_department": "Crew",
+        "name": "Christian Waite",
+        "original_name": "Christian Waite",
+        "popularity": 0.303,
+        "profile_path": null,
+        "credit_id": "6a400405370634dbf0cf0967",
+        "department": "Crew",
+        "job": "CG Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1072762,
+        "known_for_department": "Crew",
+        "name": "أوتو بيندر",
+        "original_name": "Otto Binder",
+        "popularity": 0.535,
+        "profile_path": "/6mwm19PNZpSb5hKdggRmu2mbCXm.jpg",
+        "credit_id": "6a40c75af1b0e422f4b981a0",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222509,
+        "known_for_department": "Writing",
+        "name": "كيث غيفن",
+        "original_name": "Keith Giffen",
+        "popularity": 0.9729,
+        "profile_path": null,
+        "credit_id": "6a40c77e5100734380c0e3f6",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1381571,
+        "known_for_department": "Writing",
+        "name": "Alan Grant",
+        "original_name": "Alan Grant",
+        "popularity": 0.7122,
+        "profile_path": "/m1QiXwVTYdQdfy8AvQ6LaWZkihF.jpg",
+        "credit_id": "6a40c789cdfe2ace452043f4",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1246237,
+        "known_for_department": "Acting",
+        "name": "Paul Levitz",
+        "original_name": "Paul Levitz",
+        "popularity": 0.7434,
+        "profile_path": null,
+        "credit_id": "6a40c79ab230026bede7f021",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1072763,
+        "known_for_department": "Crew",
+        "name": "Al Plastino",
+        "original_name": "Al Plastino",
+        "popularity": 0.4258,
+        "profile_path": "/qdPNNIdfNBnD23Y6IyLlUJZtpeY.jpg",
+        "credit_id": "6a40c7c7040762551db053e3",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2069043,
+        "known_for_department": "Writing",
+        "name": "Roger Slifer",
+        "original_name": "Roger Slifer",
+        "popularity": 0.6768,
+        "profile_path": null,
+        "credit_id": "6a40c7cd46f8e66687c0e331",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2137704,
+        "known_for_department": "Crew",
+        "name": "Curt Swan",
+        "original_name": "Curt Swan",
+        "popularity": 0.4281,
+        "profile_path": null,
+        "credit_id": "6a40c7d35100734380c0e3fb",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2325172,
+        "known_for_department": "Crew",
+        "name": "توم كينغ",
+        "original_name": "Tom King",
+        "popularity": 0.7066,
+        "profile_path": "/no73FbFgWdBB5wU6xEc7WKT8EIs.jpg",
+        "credit_id": "6a40c7dbd76f5b3fc0eb8445",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11350,
+        "known_for_department": "Sound",
+        "name": "James Boyle",
+        "original_name": "James Boyle",
+        "popularity": 0.5149,
+        "profile_path": null,
+        "credit_id": "6a42e8c72a1f1233c563af53",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11350,
+        "known_for_department": "Sound",
+        "name": "James Boyle",
+        "original_name": "James Boyle",
+        "popularity": 0.5149,
+        "profile_path": null,
+        "credit_id": "6a42e8cd9d8f8c62324cc984",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6317609,
+        "known_for_department": "Crew",
+        "name": "Bilquis Evely",
+        "original_name": "Bilquis Evely",
+        "popularity": 0.2993,
+        "profile_path": "/bAqWnnXZ3q40W92I6B31oewzyB6.jpg",
+        "credit_id": "6a4353d2cbaed40046a53585",
+        "department": "Crew",
+        "job": "Thanks"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1463515,
+        "known_for_department": "Visual Effects",
+        "name": "Chad Hudson",
+        "original_name": "Chad Hudson",
+        "popularity": 0.3258,
+        "profile_path": null,
+        "credit_id": "6a483a07104686870a68b921",
+        "department": "Crew",
+        "job": "Executive Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1661403,
+        "known_for_department": "Visual Effects",
+        "name": "Hannes Poser",
+        "original_name": "Hannes Poser",
+        "popularity": 0.3795,
+        "profile_path": null,
+        "credit_id": "6a483a1ca582fd3562134e14",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6325244,
+        "known_for_department": "Visual Effects",
+        "name": "Kristen Gregory",
+        "original_name": "Kristen Gregory",
+        "popularity": 0.2828,
+        "profile_path": null,
+        "credit_id": "6a483a39cc9953c061280b3c",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15218,
+        "known_for_department": "Writing",
+        "name": "جيمس غان",
+        "original_name": "James Gunn",
+        "popularity": 4,
+        "profile_path": "/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
+        "credit_id": "6a4ac8b57d6d07e96d7983cf",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1665616,
+        "known_for_department": "Art",
+        "name": "Matt Curtis",
+        "original_name": "Matt Curtis",
+        "popularity": 0.7334,
+        "profile_path": null,
+        "credit_id": "6a4c4396119fdd2f22d366f6",
+        "department": "Art",
+        "job": "Title Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1331887,
+        "known_for_department": "Acting",
+        "name": "Marissa Labog",
+        "original_name": "Marissa Labog",
+        "popularity": 0.7319,
+        "profile_path": "/77ORtHAM23gcnBuRflh5hQKZzX3.jpg",
+        "credit_id": "6a51a59d5f549899fab9adf9",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2298730,
+        "known_for_department": "Acting",
+        "name": "Chelsea Mather",
+        "original_name": "Chelsea Mather",
+        "popularity": 0.8942,
+        "profile_path": "/t8Yb5vFo529Zci1goz0hl7TM6zf.jpg",
+        "credit_id": "6a51a5a3d75c6bf69fb9ae0b",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2151821,
+        "known_for_department": "Crew",
+        "name": "Sarah Lochlan",
+        "original_name": "Sarah Lochlan",
+        "popularity": 0.4449,
+        "profile_path": "/oEnUndENW5LBe4jyePVob8L0aON.jpg",
+        "credit_id": "6a51a5b0546cc06309e53a3d",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2057,
+        "known_for_department": "Crew",
+        "name": "Kim McGarrity",
+        "original_name": "Kim McGarrity",
+        "popularity": 0.6129,
+        "profile_path": null,
+        "credit_id": "6a51a5b5546cc06309e53a40",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3352337,
+        "known_for_department": "Crew",
+        "name": "Maureen Lavoyer",
+        "original_name": "Maureen Lavoyer",
+        "popularity": 0.647,
+        "profile_path": null,
+        "credit_id": "6a51a5bed7b178678445291e",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2272446,
+        "known_for_department": "Crew",
+        "name": "Kim Fardy",
+        "original_name": "Kim Fardy",
+        "popularity": 0.4497,
+        "profile_path": "/qDyu4KnaWLcnAwmh7RqfNMA2Iqh.jpg",
+        "credit_id": "6a51a5ce468b19c1f1d9aef9",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4858600,
+        "known_for_department": "Crew",
+        "name": "Nilly Cetin",
+        "original_name": "Nilly Cetin",
+        "popularity": 0.6611,
+        "profile_path": "/vLKWIjSztXEHUOMFolVudij4jbs.jpg",
+        "credit_id": "6a51a5d8546cc06309e53a43",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2421432,
+        "known_for_department": "Crew",
+        "name": "Katy Bullock",
+        "original_name": "Katy Bullock",
+        "popularity": 0.4015,
+        "profile_path": null,
+        "credit_id": "6a51a5df87da3cf32b608dce",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4307746,
+        "known_for_department": "Crew",
+        "name": "Jessica Barfoot",
+        "original_name": "Jessica Barfoot",
+        "popularity": 0.3903,
+        "profile_path": null,
+        "credit_id": "6a51a5e7118840739f45293e",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1032068,
+        "known_for_department": "Crew",
+        "name": "Nina Armstrong",
+        "original_name": "Nina Armstrong",
+        "popularity": 0.6053,
+        "profile_path": null,
+        "credit_id": "6a51a5ee118840739f452941",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 937222,
+        "known_for_department": "Acting",
+        "name": "Russell Balogh",
+        "original_name": "Russell Balogh",
+        "popularity": 0.8178,
+        "profile_path": "/fMQ4y0ebqBfrOuKj3Y0RKEjEi63.jpg",
+        "credit_id": "6a51a5f586079b88cbb9addc",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3539198,
+        "known_for_department": "Crew",
+        "name": "Peter Alberti",
+        "original_name": "Peter Alberti",
+        "popularity": 0.4158,
+        "profile_path": "/lmBLk9WzoDl31IGTLEq4XNfOqcD.jpg",
+        "credit_id": "6a51a5fb98913255a9e53a69",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2277896,
+        "known_for_department": "Crew",
+        "name": "Lucy Cork",
+        "original_name": "Lucy Cork",
+        "popularity": 0.7411,
+        "profile_path": "/litpdpX4LfUyB4OM9q25pUIkPT3.jpg",
+        "credit_id": "6a51a608faaee649d42406e5",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4503687,
+        "known_for_department": "Crew",
+        "name": "Noelia Gil Cristobal",
+        "original_name": "Noelia Gil Cristobal",
+        "popularity": 0.4143,
+        "profile_path": null,
+        "credit_id": "6a51a60d546cc06309e53a46",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1870653,
+        "known_for_department": "Crew",
+        "name": "Rick English",
+        "original_name": "Rick English",
+        "popularity": 0.8612,
+        "profile_path": "/oH1PKbLQwEwJBdeI8iOLdPgB9y6.jpg",
+        "credit_id": "6a51a6171ce9b4f714501f8d",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2999931,
+        "known_for_department": "Crew",
+        "name": "Mélissa Humler",
+        "original_name": "Mélissa Humler",
+        "popularity": 0.5986,
+        "profile_path": null,
+        "credit_id": "6a51a62607cb7260be608dc2",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3345198,
+        "known_for_department": "Crew",
+        "name": "Gyula Tóth",
+        "original_name": "Gyula Tóth",
+        "popularity": 0.5088,
+        "profile_path": null,
+        "credit_id": "6a51a65185272ce905120904",
+        "department": "Crew",
+        "job": "Stunt Double"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1814911,
+        "known_for_department": "Acting",
+        "name": "Zara Treherne",
+        "original_name": "Zara Treherne",
+        "popularity": 0.3282,
+        "profile_path": "/ivWjInpK0g2OQsaUMM0JhPCOA2m.jpg",
+        "credit_id": "6a51a65ae4b0155396608dcb",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2086774,
+        "known_for_department": "Crew",
+        "name": "Vasil Yordanov",
+        "original_name": "Vasil Yordanov",
+        "popularity": 0.4199,
+        "profile_path": "/dth5LHiBZg0eoXvoTiH4ne2AGlK.jpg",
+        "credit_id": "6a51a66662a98ee76112091a",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5476755,
+        "known_for_department": "Sound",
+        "name": "Amalía Sif Jessen",
+        "original_name": "Amalía Sif Jessen",
+        "popularity": 0.3801,
+        "profile_path": null,
+        "credit_id": "6a5f4f84816fd558903332b3",
+        "department": "Sound",
+        "job": "Sound Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2115817,
+        "known_for_department": "Crew",
+        "name": "James Young",
+        "original_name": "James Young",
+        "popularity": 0.6432,
+        "profile_path": "/oTphvoYZcqCAbg33wMNxZ7AZhFR.jpg",
+        "credit_id": "6a63a77ae6a1df60345b9942",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hYMVwlquxdKRdqW3YIyNobA6A1V.jpg",
+        "genre_ids": [
+          27,
+          878
+        ],
+        "id": 1579168,
+        "title": "Our Effed Up World",
+        "original_language": "en",
+        "original_title": "Our Effed Up World",
+        "overview": "",
+        "popularity": 0.9541,
+        "poster_path": "/xJ2JAEJR76oj2YmVJh2CMWrgYbS.jpg",
+        "release_date": "2026-06-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zP0w7GLqJ89X24ksNJc2hcRxa2j.jpg",
+        "genre_ids": [
+          878,
+          18
+        ],
+        "id": 1019312,
+        "title": "Spaceman",
+        "original_language": "en",
+        "original_title": "Spaceman",
+        "overview": "",
+        "popularity": 0.6107,
+        "poster_path": "/suVuiRvtbTtmAROHfn0ZJGchDJJ.jpg",
+        "release_date": "2022-09-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 9,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9K4thh2YEpzjI5LX8AwYzFWGeWu.jpg",
+        "genre_ids": [
+          16,
+          12,
+          10751,
+          14,
+          9648
+        ],
+        "id": 268899,
+        "title": "Justice League: Starcrossed - The Movie",
+        "original_language": "en",
+        "original_title": "Justice League: Starcrossed - The Movie",
+        "overview": "",
+        "popularity": 1.617,
+        "poster_path": "/4euOQztpRoN4vJyH0wwjBCydecb.jpg",
+        "release_date": "2004-07-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.084,
+        "vote_count": 125
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jYbABnXml6XyQ7cfhZFkMRZvMQz.jpg",
+        "genre_ids": [
+          80,
+          28
+        ],
+        "id": 823999,
+        "title": "Diabolik - Ginko all'attacco!",
+        "original_language": "it",
+        "original_title": "Diabolik - Ginko all'attacco!",
+        "overview": "",
+        "popularity": 2.0768,
+        "poster_path": "/cAbETsJrXMnELEyoU1tPRBds6Nj.jpg",
+        "release_date": "2022-11-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.99,
+        "vote_count": 489
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rmG0rboJMA9sE6vttQCM2eXXJ2Q.jpg",
+        "genre_ids": [
+          28,
+          35,
+          878,
+          14
+        ],
+        "id": 9067,
+        "title": "Tank Girl",
+        "original_language": "en",
+        "original_title": "Tank Girl",
+        "overview": "",
+        "popularity": 5.8344,
+        "poster_path": "/dpX63vJd6k5fMTudLaEOw9ffX8h.jpg",
+        "release_date": "1995-03-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.501,
+        "vote_count": 593
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mJhEzR254JifF0wjKj48hcqabus.jpg",
+        "genre_ids": [
+          878,
+          27
+        ],
+        "id": 9077,
+        "title": "Tarantula",
+        "original_language": "en",
+        "original_title": "Tarantula",
+        "overview": "",
+        "popularity": 2.0822,
+        "poster_path": "/4mFsbUObsmbTe0rZCXBFPLfDbRt.jpg",
+        "release_date": "1955-10-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.487,
+        "vote_count": 313
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hLYH6wbi3Mgscdv2KuYcTdWGlUV.jpg",
+        "genre_ids": [
+          80,
+          28,
+          9648,
+          53
+        ],
+        "id": 824003,
+        "title": "Diabolik - Chi sei?",
+        "original_language": "it",
+        "original_title": "Diabolik - Chi sei?",
+        "overview": "",
+        "popularity": 2.1703,
+        "poster_path": "/uAp4vMYHLo5Pxd0tX4TdXAjAIbQ.jpg",
+        "release_date": "2023-11-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.397,
+        "vote_count": 165
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xh0ZRdnL4pSqfW73HBf97xiNEFP.jpg",
+        "genre_ids": [
+          14,
+          28
+        ],
+        "id": 8960,
+        "title": "هانكوك",
+        "original_language": "en",
+        "original_title": "Hancock",
+        "overview": "هانكوك هو بطل خارق يضطر إلى توظيف خبير في العلاقات العامة للمساعدة في إصلاح صورته عندما يشعر الجمهور بالضجر من كل الأضرار التي ألحقها خلال بطولاته المنقذة للحياة. فكرة الوكيل عن حبس الأبطال لجعل العالم يفتقده تثبت نجاحها ، لكن هل سيتمسك هانكوك بإحساسه الجديد بالهدف أم يعود إلى العادات القديمة؟",
+        "popularity": 10.6973,
+        "poster_path": "/7DyuV2G0hLEqHeueDfOqhZ2DVut.jpg",
+        "release_date": "2008-07-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.357,
+        "vote_count": 10457
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 1205241,
+        "title": "Alien Legion",
+        "original_language": "en",
+        "original_title": "Alien Legion",
+        "overview": "",
+        "popularity": 0.629,
+        "poster_path": null,
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9tOkjBEiiGcaClgJFtwocStZvIT.jpg",
+        "genre_ids": [
+          16,
+          12,
+          10751,
+          35
+        ],
+        "id": 269149,
+        "title": "زوتروبوليس",
+        "original_language": "en",
+        "original_title": "Zootopia",
+        "overview": "لقد تغير عالم الحيوان: لم يعد منقسما إلى قسمين بين الفرائس الوديعة والحيوانات المفترسة الشرسة، بل أصبح يتعايش بينهما بانسجام. جودي هي أرنبة صغيرة ذات طموحات كبيرة وتحلم بأن تصبح ضابطة شرطة، حيث تم تعليمها أن كل شيء ممكن في هذا العالم الجديد. نيك هو ثعلب يعيش بذكائه في العاصمة زوتروبوليس، حيث تعمل جودي، بعد تدريب شاق في الأكاديمية، كحارسة مرور. وسيكون على عاتقهم، وهم متحدون بشكل غير متوقع، حل لغز الحيوانات الأربعة عشر المفقودة التي تبحث عنها المدينة بأكملها وإحباط خطط أولئك الذين يريدون الاستيلاء على السلطة المحلية، وفقًا لمبدأ فرق تسد القديم.",
+        "popularity": 30.5045,
+        "poster_path": "/gEi9HS7OZwdpiU3Uc8aVIF88Pa6.jpg",
+        "release_date": "2016-02-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.765,
+        "vote_count": 18500
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3raqIytmaDD9AkAWh8W0FYtx3gX.jpg",
+        "genre_ids": [
+          14,
+          16,
+          878,
+          10751,
+          28
+        ],
+        "id": 8965,
+        "title": "أطلانتس∶ عودة مايلو",
+        "original_language": "en",
+        "original_title": "Atlantis: Milo's Return",
+        "overview": "بعد التراجع في الثقافة الأطلانتية الذي جاء بعد الغرق، كيدا (كيدارداش) هي الملكة الآن، ومتزوجة من (ميلو تاتش )، وتستخدم قلب أطلانتس لإستعادة المجد السابق لمدينتها.",
+        "popularity": 5.219,
+        "poster_path": "/5UrE8qM1TDTZTv8JMAGkLmwnRdV.jpg",
+        "release_date": "2003-02-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.329,
+        "vote_count": 3917
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gLIDdvf3vmYmZ9RPzEfGUKQqbDO.jpg",
+        "genre_ids": [
+          28,
+          35
+        ],
+        "id": 8980,
+        "title": "La gran aventura de Mortadelo y Filemón",
+        "original_language": "es",
+        "original_title": "La gran aventura de Mortadelo y Filemón",
+        "overview": "",
+        "popularity": 1.6353,
+        "poster_path": "/kWIcAP0g63M6v31EX02VOcBI9zn.jpg",
+        "release_date": "2003-02-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.899,
+        "vote_count": 159
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8KcvxZCwkahVDphIzRENl7rZECy.jpg",
+        "genre_ids": [
+          12,
+          53,
+          18
+        ],
+        "id": 8987,
+        "title": "The River Wild",
+        "original_language": "en",
+        "original_title": "The River Wild",
+        "overview": "",
+        "popularity": 5.5984,
+        "poster_path": "/wVgQ2T63ThjIsY4R0qoHXjyllql.jpg",
+        "release_date": "1994-09-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.456,
+        "vote_count": 986
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1A7s8zG4PF6YoJrncrTO6N4r0Sx.jpg",
+        "genre_ids": [
+          27,
+          53,
+          878
+        ],
+        "id": 1400940,
+        "title": "ذو الطِّينة",
+        "original_language": "en",
+        "original_title": "Clayface",
+        "overview": "تابع الانحدار المرعب إلى الجحيم لممثل هوليوودي واعد تحول إلى وحش تحركه الرغبة في الانتقام، في رحلة تستكشف فقدان الهوية والإنسانية، ودمار الحب السام، والجانب المظلم للطموح العلمي.",
+        "popularity": 8.4868,
+        "poster_path": "/hoq8AUTtYowqmKWoYwhoAfkMpLr.jpg",
+        "release_date": "2026-10-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8eRscFbRYl681zDfkjv1jjW1KAA.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 1452,
+        "title": "عودة سوبرمان",
+        "original_language": "en",
+        "original_title": "Superman Returns",
+        "overview": "",
+        "popularity": 10.5205,
+        "poster_path": "/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
+        "release_date": "2006-06-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.823,
+        "vote_count": 4692
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/avwEj8wiywFH6FZ6h2wzvyJpiH7.jpg",
+        "genre_ids": [
+          14,
+          28
+        ],
+        "id": 1487,
+        "title": "Hellboy",
+        "original_language": "en",
+        "original_title": "Hellboy",
+        "overview": "خلال أربعينيات القرن العشرين، تعاون النازيون مع الراهب (راسبوتين) في بناء بوابة بمثابة ثغرة على العوالم الأخرى، تتيح لهم البوابة استدعاء كائنات رهيبة لتدمير أعدائهم.. ترسل الولايات المتحدة فريقًا لتدمير البوابة وينجحون في مهمتهم، ولكنهم يكتشفون تسلل طفلٍ صغيرٍ من هذه الكائنات يرعونه ويطلقون عليه (هيل بوي).\r بعد مرور 60 عامًا، نشاهد فريق الخارقين ومنهم (هيل بوي) والذي أصبح راشدًا، متعاونًا مع البشر في التصدي للأشرار، بينما في تلك الأثناء يعود (راسبوتين) للحياة، ويقوم بتحرير وحشٍ رهيب، ويصبح على الفريق أن يتصدوا للرعب القادم من أعماق الجحيم.",
+        "popularity": 9.6074,
+        "poster_path": "/lbaTEneOofwvAyg77R8HbFML2zT.jpg",
+        "release_date": "2004-04-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.676,
+        "vote_count": 7601
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8VGaEXbTOGeWGW7IvzOf1j2rjet.jpg",
+        "genre_ids": [
+          878,
+          12,
+          28,
+          35,
+          10751
+        ],
+        "id": 1497,
+        "title": "سلاحف النينجا المراهقة المتحولة 2: سر المادة اللزجة",
+        "original_language": "en",
+        "original_title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+        "overview": "تخوض السلاحف وشريدر معركةً جديدة، وهذه المرة من أجل آخر عبوة من المادة اللزجة التي خلقت السلاحف، والتي يريد شريدر استخدامها لإنشاء جيش من المتحولين الجدد. في هذه الأثناء، يقترب سبلينتر من اتخاذ قراره",
+        "popularity": 6.0386,
+        "poster_path": "/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg",
+        "release_date": "1991-03-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.235,
+        "vote_count": 1283
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qXM08jXRwlT9rm10iAC2uoq0Kn.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          35,
+          10751
+        ],
+        "id": 1498,
+        "title": "سلاحف النينجا المراهقة المتحولة",
+        "original_language": "en",
+        "original_title": "Teenage Mutant Ninja Turtles",
+        "overview": "يجب على أربعة سلاحف بشرية الشكل، درّبها معلمها في فنون النينجوتسو، أن تتعلم العمل معًا لمواجهة خطر شريدر وعشيرة القدم",
+        "popularity": 10.071,
+        "poster_path": "/shfAU6xIIEAEtsloIT3n9Fscz2E.jpg",
+        "release_date": "1990-03-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.704,
+        "vote_count": 2015
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jIZ67qdDawus6s3Aua96e7nV7eM.jpg",
+        "genre_ids": [
+          28,
+          12,
+          35,
+          10751,
+          14,
+          878
+        ],
+        "id": 1499,
+        "title": "سلاحف النينجا المراهقة المتحولة الجزء الثالث",
+        "original_language": "en",
+        "original_title": "Teenage Mutant Ninja Turtles III",
+        "overview": "تسافر السلاحف الأربع عبر الزمن إلى أيام الساموراي الأسطوريين والدمويين في اليابان القديمة، حيث تتدرب لإتقان فنّهم. كما تساعد السلاحف قرية صغيرة في انتفاضة",
+        "popularity": 6.1538,
+        "poster_path": "/fwX5RdPDBFsbEAXc46DrvRz5Bca.jpg",
+        "release_date": "1993-03-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.513,
+        "vote_count": 937
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 1724,
+        "title": "هولك المذهل",
+        "original_language": "en",
+        "original_title": "The Incredible Hulk",
+        "overview": "بروس بانر، عالم هارب من الحكومة الأمريكية، عليه أن يجد علاجاً للوحش الذي يتحول إليه كلما فقد أعصابه.",
+        "popularity": 28.9346,
+        "poster_path": "/783TC3fhSq7kMyWdPfuHZp9SfSR.jpg",
+        "release_date": "2008-06-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.26,
+        "vote_count": 13113
+      }
+    ],
+    "total_pages": 4933,
+    "total_results": 98651
+  },
+  "watch/providers": {
+    "results": {
+      "AL": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=AR",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=AT",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/dSa84VG4VTMh2drouWvgucRsLYV.png",
+            "provider_id": 1856,
+            "provider_name": "Magenta TV",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 19
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 152
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 19
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=AU",
+        "rent": [
+          {
+            "logo_path": "/aJXLTvX11u4fBLMPRVJZVKkLYHP.png",
+            "provider_id": 2285,
+            "provider_name": "JustWatch TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 91
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=BE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=BG",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 30
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 30
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=BO",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+            "provider_id": 484,
+            "provider_name": "Claro tv+",
+            "display_priority": 21
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 13
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 13
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png",
+            "provider_id": 140,
+            "provider_name": "CosmoGo",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/fyUUKmDdzpJjSwsXPN4Rpi7jTu5.png",
+            "provider_id": 140,
+            "provider_name": "CosmoGo",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 79
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 76
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=CL",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 56
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 56
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=CO",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=CR",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=CV",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 11
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 19
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=CZ",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 29
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 42
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 29
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 42
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 217
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=DK",
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=EC",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=EE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 37
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=ES",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=FI",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 21
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 176
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=GG",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=GR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=GT",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=HK",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=HN",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=HR",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=HU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 26
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 37
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 26
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 37
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=ID",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=IE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 67
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=IL",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=IN",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=IS",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=IT",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/iGb7XGcCiCZyBgBqIdSEBiOxNc4.png",
+            "provider_id": 109,
+            "provider_name": "Timvision",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/xfDy4aGaOqbUqKPVQobjoJ9ZsSs.png",
+            "provider_id": 40,
+            "provider_name": "CHILI",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 86
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/iGb7XGcCiCZyBgBqIdSEBiOxNc4.png",
+            "provider_id": 109,
+            "provider_name": "Timvision",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/xfDy4aGaOqbUqKPVQobjoJ9ZsSs.png",
+            "provider_id": 40,
+            "provider_name": "CHILI",
+            "display_priority": 37
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=JP",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=LT",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=LV",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 34
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=MU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 12
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=MX",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=MY",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=MZ",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=NL",
+        "rent": [
+          {
+            "logo_path": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png",
+            "provider_id": 71,
+            "provider_name": "Pathé Thuis",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/oB7QrPnusUtIpKr8k0YQ12INLeP.png",
+            "provider_id": 71,
+            "provider_name": "Pathé Thuis",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=NO",
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+            "provider_id": 578,
+            "provider_name": "Strim",
+            "display_priority": 28
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=NZ",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/aJXLTvX11u4fBLMPRVJZVKkLYHP.png",
+            "provider_id": 2285,
+            "provider_name": "JustWatch TV",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/68KYULhVkHI6TVrmPSE0LlPXB1U.png",
+            "provider_id": 273,
+            "provider_name": "Neon TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 67
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=PE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=PG",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 14
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=PH",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 18
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=PL",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/xfDy4aGaOqbUqKPVQobjoJ9ZsSs.png",
+            "provider_id": 40,
+            "provider_name": "CHILI",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png",
+            "provider_id": 2669,
+            "provider_name": "Pilot WP",
+            "display_priority": 63
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/xfDy4aGaOqbUqKPVQobjoJ9ZsSs.png",
+            "provider_id": 40,
+            "provider_name": "CHILI",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/1VxmGpd4KF1m74zYo4CXQEqk3Q2.png",
+            "provider_id": 2669,
+            "provider_name": "Pilot WP",
+            "display_priority": 63
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/8mtdz2Y3NW5NfiSZiBFhngFSy3S.png",
+            "provider_id": 505,
+            "provider_name": "Player",
+            "display_priority": 11
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=PT",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 44
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=PY",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=RO",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=SE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=SG",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=SI",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 24
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=SK",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 47
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 47
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=TH",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=TW",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=UA",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 18
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 5
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=US",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 124
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/movie/1081003-supergirl/watch?locale=ZA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 3
+          }
+        ]
+      }
+    }
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rRGl4Uqo962I2iqQSOT8nArWNWd.jpg",
+        "id": 887357,
+        "title": "المصباح الأخضر: احذر قوتي",
+        "original_title": "Green Lantern: Beware My Power",
+        "overview": "القناص البحري جون ستيوارت الذي تم تسريحه مؤخرًا يقف عند مفترق طرق في حياته ، وهو أمر معقد فقط من خلال تلقيه حلقة من خارج كوكب الأرض تمنحه قوى المصباح الأخضر للأرض.",
+        "poster_path": "/nS41LN1m2HYvVotvgOTcbPW2cjL.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          878,
+          28
+        ],
+        "popularity": 4.2086,
+        "release_date": "2022-07-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.73,
+        "vote_count": 259
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/69EFgWWPFWbRNHmQgYdSnyJ94Ge.jpg",
+        "id": 49521,
+        "title": "رجلٌ مِن الفولاذ",
+        "original_title": "Man of Steel",
+        "overview": "تدور قصة الفيلم حول سوبرمان أو كلارك كينت (هنري كافيل) وهو شاب في العشرين من عمره يعمل صحافي، يشعر بالغربة نتيجة قوة خارقة تميزه عن غيره. ويتضح أنه نُقل من كوكب \"كريبتون\" منذ سنوات إلى الأرض، وتبناه كلا من مارثا (داني لين) وجوناثان كينت (كيفين كوستنر) منذ الصغر، وعندما بلغ أشده، بدأ يساعد العالم عقب أي مأساة أو كارثة.",
+        "poster_path": "/kKfEMF3UKhZPQCJKNvdDVfbRngk.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 23.6869,
+        "release_date": "2013-06-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.661,
+        "vote_count": 16571
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bazlsLkNuhy3IuhviepqvlMm2hV.jpg",
+        "id": 618354,
+        "title": "Superman: Man of Tomorrow",
+        "original_title": "Superman: Man of Tomorrow",
+        "overview": "It’s the dawn of a new age of heroes, and Metropolis has just met its first. But as Daily Planet intern Clark Kent – working alongside reporter Lois Lane – secretly wields his alien powers of flight, super-strength and x-ray vision in the battle for good, there’s even greater trouble on the horizon.",
+        "poster_path": "/n9GtiJiBETVFayQy7YnVdF9AucU.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          878
+        ],
+        "popularity": 3.6202,
+        "release_date": "2020-08-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.06,
+        "vote_count": 509
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8eRscFbRYl681zDfkjv1jjW1KAA.jpg",
+        "id": 1452,
+        "title": "عودة سوبرمان",
+        "original_title": "Superman Returns",
+        "overview": "Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free, and that those he was closest to felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever, as well as ridding himself of the Man of Steel.",
+        "poster_path": "/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "popularity": 10.5205,
+        "release_date": "2006-06-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.823,
+        "vote_count": 4692
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yRBc6WY3r1Fz5Cjd6DhSvzqunED.jpg",
+        "id": 1061474,
+        "title": "سوبرمان",
+        "original_title": "Superman",
+        "overview": "سوبرمان، مراسل مبتدئ في مدينة \"ميتروبوليس\"، ينطلق في رحلة للتوفيق بين إرثه الكريبتوني وتربيته البشرية كـ\"كلارك كينت\".",
+        "poster_path": "/mpqGo2IkRrP5KzmJrbUWNw0p8jc.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "popularity": 38.2691,
+        "release_date": "2025-07-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.325,
+        "vote_count": 5413
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ltlPFTMRsohmi2QbbSZUkAVg7Nc.jpg",
+        "id": 297556,
+        "title": "Justice League: Throne of Atlantis",
+        "original_title": "Justice League: Throne of Atlantis",
+        "overview": "After the events of Justice League: War, Ocean Master and Black Manta have declared a war against the surface in retaliation of the aftermath of Apokoliptian-tyrant Darkseid's planetary invasion. Queen Atlanna seeks out her other son, Ocean Master’s half-brother Arthur Curry, a half-human with aquatic powers with no knowledge of his Atlantean heritage, to restore balance.  Living with powers he doesn’t understand and seeing the danger around him, Curry takes steps to embrace his destiny, joining the Justice League, and with his new teammates he battles to save Earth from total destruction.",
+        "poster_path": "/iaYZA8teYeIxmR8wRrEED5wwR0u.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          16,
+          12
+        ],
+        "popularity": 3.7574,
+        "release_date": "2015-01-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.963,
+        "vote_count": 1016
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg",
+        "id": 297761,
+        "title": "الفرقة الإنتحارية",
+        "original_title": "Suicide Squad",
+        "overview": "تدور احداث الفيلم حول الفرقة الانتحارية وهم مجموعة من الأشخاص المسجونين الأكثر شرا على الأرض حينما يعقدوا معاهدات مع الحكومة الفاسدة من اجل تنفيذ مهام شديدة الخطورة وبمقابل ذلك تحصل الفرقة الانتحارية على الأمان والحماية بالسجن وبعض المزايا الأخرى.",
+        "poster_path": "/2eeRDA8MICo82yYrejoxiNA6Kph.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          14
+        ],
+        "popularity": 16.0645,
+        "release_date": "2016-08-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.917,
+        "vote_count": 22395
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6t8ES1d12OzWyCGxBeDYLHoaDrT.jpg",
+        "id": 330459,
+        "title": "روغ وان: قصة من حرب النجوم",
+        "original_title": "Rogue One: A Star Wars Story",
+        "overview": "في زمن يسوده الصراع، تتحد مجموعة من الأبطال غير المتوقعين بقيادة الشابة المتمردة جين إيرسو والجاسوس كاسيان أندور في مهمة انتحارية وسرية للغاية لسرقة المخططات الهندسية لـ \"نجم الموت\"، وهو السلاح الفتاك والمدمر للمجرات الذي أُجبر والد جين على تصميمه لصالح الإمبراطورية؛ ومع اكتشاف وجود ثغرة أمنية خفية وضعها والدها في قلب السلاح لتدميره، يخوض هذا الفريق معركة يائسة وسباقاً ملحمياً ضد الزمن وقوات الإمبراطورية الغاشمة، بهدف إيصال المخططات لتحالف الثوار ومنح المجرة فرصة جديدة للأمل والسلام.",
+        "poster_path": "/iU47HAJPrdwTopXVhK61V8VG7pa.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 16.3996,
+        "release_date": "2016-12-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.51,
+        "vote_count": 16731
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2vcdZBbf7sPPzIHfN5ial24UbxK.jpg",
+        "id": 305470,
+        "title": "Power Rangers",
+        "original_title": "Power Rangers",
+        "overview": "يتبع Saban Power Rangers خمسة مراهقين عاديين يجب أن يصبحوا شيئًا غير عادي عندما يعلمون أن بلدتهم الصغيرة Angel Grove - والعالم - على وشك أن يتم طمسها بواسطة تهديد أجنبي. تم اختيارهم حسب القدر ، وسرعان ما يكتشف أبطالنا أنهم الوحيدين الذين يمكنهم إنقاذ الكوكب. ولكن للقيام بذلك ، سيتعين عليهم التغلب على مشكلاتهم الواقعية وقبل فوات الأوان ، يتحدوا معًا كباور رينجرز.",
+        "poster_path": "/bKYKyyIv5YnisxjZtDreWtYA386.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "popularity": 10.1619,
+        "release_date": "2017-03-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.245,
+        "vote_count": 4719
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+        "id": 298618,
+        "title": "ذا فلاش",
+        "original_title": "The Flash",
+        "overview": "يسافر الفلاش عبر الزمن لمنع مقتل والدته ، وهو عمل يعطل الوقت بشكل كبير.",
+        "poster_path": "/abT8jngvBDk31BsVgMMNrP4OTIY.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "popularity": 21.7649,
+        "release_date": "2023-06-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.607,
+        "vote_count": 5233
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/FUnAVgaTs5xZWXcVzPJNxd9qGA.jpg",
+        "id": 934632,
+        "title": "‫Rebel Moon - جزء 2: حافرة الندوب",
+        "original_title": "Rebel Moon - Part Two: The Scargiver",
+        "overview": "يتأهب المتمردون لخوض معركة ضد قوات \"الكوكب الأم\" الشرسة، في الوقت الذي تتوطّد فيه الأواصر ويبرز الأبطال وتُولَد الأساطير.",
+        "poster_path": "/4EPP0c41tKiy804RzfwWkMJRITt.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "popularity": 9.6609,
+        "release_date": "2024-04-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.067,
+        "vote_count": 1575
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+        "id": 609681,
+        "title": "ذا مارفلز",
+        "original_title": "The Marvels",
+        "overview": "تتشابك قوى كارول دانفرز مع قوى كامالا خان ومونيكا رامبو، مما يجبرهن على العمل معًا لإنقاذ الكون.",
+        "poster_path": "/qN3zZr4115pYKTWME8BC9VBS7O5.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "popularity": 19.7243,
+        "release_date": "2023-11-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.912,
+        "vote_count": 3625
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+        "id": 299536,
+        "title": "المنتقمون: الحرب الأبدية",
+        "original_title": "Avengers: Infinity War",
+        "overview": "مع استمرار المنتقمون وحلفائهم في حماية العالم من التهديدات التي لا يمكن لأي بطل لوحده التعامل معها، ظهر خطر جديد من الظلال الكوني - ثانوس -  مستبد من العار المجحف، هدفه هو جمع كل حجارة اللانهاية الستة، التي تحمل قوة لا يمكن تصورها، واستخدامها لإلحاق إرادته الملتوية على كل الواقع. لقد قادت كل الأمور التي كافحها المنتقمون حتى هذه اللحظة  - لم يكن مصير الأرض ووجودها أكثر غموضاً من ذي قبل.",
+        "poster_path": "/pig5cJjP08d9OUgBXNjiqbU6RjH.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "popularity": 67.9591,
+        "release_date": "2018-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.242,
+        "vote_count": 32842
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cdCMUHWyXBOsbLL4dOEPdCEtwM4.jpg",
+        "id": 487672,
+        "title": "Reign of the Supermen",
+        "original_title": "Reign of the Supermen",
+        "overview": "In the wake of The Death of Superman, the world is still mourning the loss of the Man of Steel following his fatal battle with the monster Doomsday. However, no sooner as his body been laid to rest than do four new bearers of the Superman shield come forward to take on the mantle. The Last Son of Krypton, Superboy, Steel, and the Cyborg Superman all attempt to fill the vacuum left by the world's greatest champion. Meanwhile, Superman's death has also signaled to the universe that Earth is vulnerable. Can these new Supermen and the rest of the heroes prove them wrong?",
+        "poster_path": "/e9TzqscNRUaG8HqEP3K1jUvi8pC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          16,
+          28,
+          14,
+          18,
+          12
+        ],
+        "popularity": 4.141,
+        "release_date": "2019-01-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.997,
+        "vote_count": 710
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lanjolLsav0NxKPZDpPTmoZPYSv.jpg",
+        "id": 408647,
+        "title": "Teen Titans: The Judas Contract",
+        "original_title": "Teen Titans: The Judas Contract",
+        "overview": "Tara Markov is a girl who has power over earth and stone; she is also more than she seems. Is the newest Teen Titan an ally or a threat? And what are the mercenary Deathstroke's plans for the Titans?",
+        "poster_path": "/nuGIlNAJUati4qEAH1nrYKUA3xa.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          16,
+          28
+        ],
+        "popularity": 3.6842,
+        "release_date": "2017-04-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.3,
+        "vote_count": 777
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+        "id": 299534,
+        "title": "المنتقمون: نهاية اللعبة",
+        "original_title": "Avengers: Endgame",
+        "overview": "بعد الأحداث المدمّرة لفيلم Avengers: Infinity War، أصبح الكون في حالة خراب بسبب أفعال الفضائي المجنون، ثانوس. وبمساعدة الحلفاء المتبقين، يجب على المنتقمين أن يجتمعوا مرة أخرى من أجل التراجع عن أفعال ثانوس وإعادة النظام إلى الكون مرة أخيرة، مهما كانت العواقب التي قد تنتظرهم.",
+        "poster_path": "/ydgRpTwwiBkBL1GtNJdTUmNnRVR.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          878,
+          28
+        ],
+        "popularity": 58.0672,
+        "release_date": "2019-04-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.241,
+        "vote_count": 28595
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zYARGakIhHUvPuVJzlbqU40FrnV.jpg",
+        "id": 17445,
+        "title": "Green Lantern: First Flight",
+        "original_title": "Green Lantern: First Flight",
+        "overview": "Test pilot Hal Jordan finds himself recruited as the newest member of the intergalactic police force, The Green Lantern Corps.",
+        "poster_path": "/ii48ohKJrDPyrGGOBVJ8XSxr5Xk.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          878,
+          16
+        ],
+        "popularity": 5.3164,
+        "release_date": "2009-07-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.946,
+        "vote_count": 516
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j9ZV0UOagjQ4seR8Hd5N6JfwdTP.jpg",
+        "id": 320288,
+        "title": "عنقاء الظلام",
+        "original_title": "Dark Phoenix",
+        "overview": "يواجه \"الإكس-مِن\" أقوى وأخطر خصم مرّ عليهم على الإطلاق، عندما تبدأ إحدى عضوات الفريق، \"جين غراي\"، في فقدان السيطرة على قواها.  وخلال مهمة إنقاذ في الفضاء الخارجي، تكاد \"جين\" أن تلقى حتفها بعد تعرضها لقوة كونية غامضة. وعندما تعود إلى الأرض، لا تجعلها هذه القوة أكثر قوة فحسب، بل تجعلها أيضًا أكثر اضطرابًا وخطورة.  ومع تزايد فقدانها للسيطرة على نفسها، يجد الإكس-مِن أنفسهم مضطرين للتكاتف من أجل إنقاذها وإنقاذ روحها، بينما يواجهون في الوقت نفسه كائنات فضائية تسعى لاستغلال قواها الجديدة للسيطرة على المجرة.",
+        "poster_path": "/cCTJPelKGLhALq3r51A9uMonxKj.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "popularity": 19.3887,
+        "release_date": "2019-06-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.959,
+        "vote_count": 7280
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/biu21pZCpfe6dv9rrl23k6m6MXJ.jpg",
+        "id": 323027,
+        "title": "Justice League: Gods and Monsters",
+        "original_title": "Justice League: Gods and Monsters",
+        "overview": "In an alternate universe, very different versions of DC's Trinity fight against the government after they are framed for an embassy bombing.",
+        "poster_path": "/9EoqQuEZKmQIYjexoUbkxMcMCVr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          16,
+          14,
+          12,
+          878
+        ],
+        "popularity": 3.284,
+        "release_date": "2015-06-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.087,
+        "vote_count": 626
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/egg7KFi18TSQc1s24RMmR9i2zO6.jpg",
+        "id": 464052,
+        "title": "المرأة الأعجوبة ١٩٨٤",
+        "original_title": "Wonder Woman 1984",
+        "overview": "تتحول عملية سطو فاشلة على متجر إلى بداية معركة عالمية تخوضها \"المرأة الأعجوبة\" ضد قوة قديمة غامضة، تضع قواها الخارقة على المحك.",
+        "poster_path": "/e8mtpAnqT4Qbs1Ncm7hlZwJryA4.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          14
+        ],
+        "popularity": 13.4354,
+        "release_date": "2020-12-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.354,
+        "vote_count": 9240
+      }
+    ],
+    "total_pages": 23,
+    "total_results": 458
+  }
+}

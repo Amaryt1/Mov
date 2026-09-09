@@ -1,0 +1,729 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    210
+  ],
+  "first_air_date": "1999-01-04",
+  "genres": [
+    {
+      "id": 10762,
+      "name": "أطفال"
+    }
+  ],
+  "homepage": "http://www.gm.tv/",
+  "id": 37057,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2010-07-16",
+  "last_episode_to_air": {
+    "id": 835777,
+    "name": "الحلقة 197",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2010-07-16",
+    "episode_number": 197,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 210,
+    "season_number": 12,
+    "show_id": 37057,
+    "still_path": null
+  },
+  "name": "CITV Breakfast",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 9,
+      "logo_path": "/oz9pjTHnBUmlju8OkaTymhKbh6C.png",
+      "name": "ITV1",
+      "origin_country": "GB"
+    },
+    {
+      "id": 149,
+      "logo_path": "/fYi08k1rC5L0OOqgwyXfcAKCZ2H.png",
+      "name": "ITV2",
+      "origin_country": "GB"
+    },
+    {
+      "id": 261,
+      "logo_path": "/igyJPr4pId4XeRP5IJPieGYYeDn.png",
+      "name": "ITV4",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7966,
+      "logo_path": "/wB8tvca8opc4Dwzu6Y3Mk0uXGrL.png",
+      "name": "GMTV (Good Morning Television)",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 3760,
+  "number_of_seasons": 12,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "CITV Breakfast",
+  "overview": "",
+  "popularity": 118.0768,
+  "poster_path": null,
+  "production_companies": [
+    {
+      "id": 270533,
+      "logo_path": "/wB8tvca8opc4Dwzu6Y3Mk0uXGrL.png",
+      "name": "ITV Breakfast",
+      "origin_country": "GB"
+    },
+    {
+      "id": 214075,
+      "logo_path": "/aBuAiCG3pa8iJASHXg81xjsIRTf.png",
+      "name": "CITV",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-01-04",
+      "episode_count": 352,
+      "id": 48220,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-01",
+      "episode_count": 361,
+      "id": 48221,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 358,
+      "id": 48222,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 341,
+      "id": 48223,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 331,
+      "id": 48224,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 342,
+      "id": 48225,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 323,
+      "id": 48226,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 318,
+      "id": 48227,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 304,
+      "id": 48228,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 302,
+      "id": 48229,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 279,
+      "id": 48230,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 149,
+      "id": 48219,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 0,
+  "vote_count": 0,
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/4OdUMDotYdLJXn6JPfOL5UXQLRi.jpg",
+        "id": 1780,
+        "name": "Art Attack",
+        "original_name": "Art Attack",
+        "overview": "Art Attack is a British children's television series revolving around art. The original series was one of CITV's longest running programmes, running from 1990 to 2007, and was presented throughout by Neil Buchanan.\n\nThe new series launched on Disney Junior on 6 June 2011 and was presented by Jassa Ahluwalia. Each show involved Ahluwalia voicing-over footage of an artist producing three works of art, taking the viewer through the various stages of production step by step.\n\nThe show's latest series is hosted by Lloyd Warbey. The new series launched on SAB TV on 10 June 2013 at 7 am IST.",
+        "poster_path": "/o1QTIgwrkEqjrC4Q6sIWKZ61zcS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 9.8939,
+        "first_air_date": "1990-06-15",
+        "softcore": false,
+        "vote_average": 6.9,
+        "vote_count": 51,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4XKhVE10MOao7dieT4QP34vKk9K.jpg",
+        "id": 8379,
+        "name": "Clifford the Big Red Dog",
+        "original_name": "Clifford the Big Red Dog",
+        "overview": "The adventures of a larger-than-life red dog on Bridwell Island.",
+        "poster_path": "/tZLS8aT8Iqnbw8oMKIi1WHidCA1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 22.6442,
+        "first_air_date": "2000-09-04",
+        "softcore": false,
+        "vote_average": 6.67,
+        "vote_count": 91,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gzoDeOxJ1mvtoBQdk94l5HzVil2.jpg",
+        "id": 17572,
+        "name": "كيك باتاوسكي: المغامر",
+        "original_name": "Kick Buttowski: Suburban Daredevil",
+        "overview": "نظرة ساخرة على صبي يبلغ من العمر 10 سنوات يطمح لأن يكون أكثر المغامرين جرأة على الإطلاق.",
+        "poster_path": "/fkkpMA6EBCxwVP7niDeJVlRACp3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10762
+        ],
+        "popularity": 26.7454,
+        "first_air_date": "2010-02-13",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 673,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bvbOrvK0hQveMB6SmQoAwIuRToh.jpg",
+        "id": 15,
+        "name": "Mister Rogers' Neighborhood",
+        "original_name": "Mister Rogers' Neighborhood",
+        "overview": "Mister Rogers' Neighborhood is an American children's television series that was created and hosted by namesake Fred Rogers. The series originated in 1963 as Misterogers on CBC Television, and was later debuted in 1966 as Misterogers' Neighborhood on the regional Eastern Educational Network, followed by its US network debut on February 19, 1968, and it aired on NET and its successor, PBS, until August 31, 2001. The series is aimed primarily at preschool ages 2 to 5, but has been stated by PBS as \"appropriate for all ages\". Mister Rogers' Neighborhood was produced by Pittsburgh, Pennsylvania, USA public broadcaster WQED and Rogers' non-profit production company Family Communications, Inc.; previously known as Small World Enterprises prior to 1971, the company was renamed The Fred Rogers Company after Rogers' death.",
+        "poster_path": "/qhbeRYVg120cBmc9XvGxvk6EmJF.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 22.311,
+        "first_air_date": "1968-02-19",
+        "softcore": false,
+        "vote_average": 6.123,
+        "vote_count": 126,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nnH6rWF1osVe245jy9hKYAiz96o.jpg",
+        "id": 34921,
+        "name": "The Wiggles",
+        "original_name": "The Wiggles",
+        "overview": "A show geared for babies up to older toddlers. This show is full of music, teaching kids songs and easy dances.",
+        "poster_path": "/e4O9IXM3ZmuDsrEICslrwqCl7MT.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762,
+          10751
+        ],
+        "popularity": 19.4397,
+        "first_air_date": "1998-07-31",
+        "softcore": false,
+        "vote_average": 6.375,
+        "vote_count": 24,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5tf3hx7RbUovAYGMZ6slmoROWI1.jpg",
+        "id": 10938,
+        "name": "Bob the Builder",
+        "original_name": "Bob the Builder",
+        "overview": "Bob the Builder and his machine team are ready to tackle any project. Bob and the Can-Do Crew demonstrate the power of positive thinking, problem-solving, teamwork, and follow-through. The team always shows that “The Fun Is In Getting It Done!”",
+        "poster_path": "/jfIAxRMSLuMjczB0ezl8L9Ukzfi.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 24.2015,
+        "first_air_date": "1999-04-12",
+        "softcore": false,
+        "vote_average": 5.92,
+        "vote_count": 132,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9kNBDpilniJFSOM0ciq12XUduRF.jpg",
+        "id": 10048,
+        "name": "Reading Rainbow",
+        "original_name": "Reading Rainbow",
+        "overview": "Journey to exciting places and build a lasting connection with your favorite books. Each episode centers on a theme from a book, or other children's literature, which is explored through a number of segments or stories.",
+        "poster_path": "/ndlSMn2zCP6MNIp6OYexGAa1Yj1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10762
+        ],
+        "popularity": 11.8429,
+        "first_air_date": "1983-06-06",
+        "softcore": false,
+        "vote_average": 8.38,
+        "vote_count": 50,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/drq6G92EyHIZ29RU8jGDw9gMhJF.jpg",
+        "id": 211779,
+        "name": "The Really Loud House",
+        "original_name": "The Really Loud House",
+        "overview": "12-year-old Lincoln Loud goes on new adventures in the town of Royal Woods with his best friend Clyde McBride, while also navigating the chaos of living in a family with 10 sisters.",
+        "poster_path": "/sMQiGeozy1xUWjhlbcp2QArtnPV.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10762
+        ],
+        "popularity": 9.5037,
+        "first_air_date": "2022-11-03",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5heUHCpib5gGY8WvWatJvQ1Ba0t.jpg",
+        "id": 14759,
+        "name": "Yo Gabba Gabba!",
+        "original_name": "Yo Gabba Gabba!",
+        "overview": "Yo Gabba Gabba! is an American children's television show that airs on the Nick Jr. cable network in the United States and the Nick Jr. networks in the United Kingdom & Ireland, Italy, France and Australia as well as Treehouse TV network in Canada and RTE2 on RTÉjr in Ireland.  The show stars five costumed toys-come-to-life and their friend DJ Lance Rock, who explore a single topic in each episode through songs and short storylines in the half-hour program while teaching children life and social skills.  It also encourages viewers to move along with and dance with the characters in the program. The show is noted for its indie-culture guest stars and bands, and for drawing visual inspiration from 8-bit video games and H. R. Pufnstuff.",
+        "poster_path": "/h8UHNBBnJwdXVtMIA5OAxJoXWid.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10762
+        ],
+        "popularity": 9.493,
+        "first_air_date": "2007-08-20",
+        "softcore": false,
+        "vote_average": 7.16,
+        "vote_count": 25,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yFpUE2IyBZqzNVcHkAEYusAbAma.jpg",
+        "id": 41676,
+        "name": "احذر باتمان",
+        "original_name": "Beware the Batman",
+        "overview": "تبدأ قصة \"احذر باتمان\" في بدايات بروس واين كـ \"الرجل الوطواط\"، حيث يظهر كشاب محقق لا يزال يطور مهاراته في مدينة غوثام الغامضة والباردة تقنياً. القصة تأخذ منحى مختلفاً بوجود ألفرد بينيورث، الذي ليس مجرد خادم، بل هو عميل سابق في المخابرات البريطانية (MI6) وصديق قديم لوالد بروس، وهو من قام بتدريبه قتالياً ويشاركه العمل الميداني بخشونة. تنضم إليهما تاتسو ياماشيرو (كاتانا)، التي عيَّنها ألفرد كحارسة شخصية لبروس، لكنها سرعان ما تكتشف سره وتصبح شريكته المقاتلة بدلاً من \"روبن\".",
+        "poster_path": "/4BoJaShIuo6Mwpz6yrwc0ffBdwz.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10762
+        ],
+        "popularity": 9.7037,
+        "first_air_date": "2013-07-13",
+        "softcore": false,
+        "vote_average": 7.219,
+        "vote_count": 96,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/80KgNNF0bpoDvU5iNXT07Lgb2wL.jpg",
+        "id": 6673,
+        "name": "مغامرات فلاب جاك",
+        "original_name": "The Marvelous Misadventures of Flapjack",
+        "overview": "فتًى يافع تربّى في جوف حوت ناطق، يبحر صوب \"جزيرة السكاكر\" الساحرة، يصحبه القبطان كنَكلز، قرصانٌ عجوز قاسي الملامح.",
+        "poster_path": "/zBKpx0FiW1y7n4fY5EE891Csge3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10762
+        ],
+        "popularity": 19.1685,
+        "first_air_date": "2008-06-05",
+        "softcore": false,
+        "vote_average": 8.052,
+        "vote_count": 385,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4i5ALQiqsTQ2S28B0uZSvk6cV1E.jpg",
+        "id": 3288,
+        "name": "The Weekenders",
+        "original_name": "The Weekenders",
+        "overview": "Four friends, Tino, Carver, Lor, and Tish, spend each weekend discovering and creating new levels of fun, while negotiating the obligatory obstacles of adolescence.",
+        "poster_path": "/aqpaC32hWrf9jdPkLiS3u73OcyZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 11.992,
+        "first_air_date": "2000-02-26",
+        "softcore": false,
+        "vote_average": 8.182,
+        "vote_count": 33,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2McrDIPnOQvg1ZZlQ3vBMD0xIma.jpg",
+        "id": 2824,
+        "name": "The Adventures of Pete & Pete",
+        "original_name": "The Adventures of Pete & Pete",
+        "overview": "Pete and Pete are two redheaded brothers living in the somewhat surreal town of Wellsville. Pete, the older of the two, narrates the stories about their adventures in everyday life.",
+        "poster_path": "/hfDDYKx5v7esCSidKxrDLDGTu3m.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10762
+        ],
+        "popularity": 9.1495,
+        "first_air_date": "1993-11-28",
+        "softcore": false,
+        "vote_average": 7.696,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/px5mLaDKXmRAp9MxVGaXswmzDyh.jpg",
+        "id": 4429,
+        "name": "تيمون وبومبا",
+        "original_name": "Timon and Pumbaa",
+        "overview": "تدور أحداث الفيلم بعد أحداث \"الأسد الملك\" ، وتابعوا تيمون وبومبا وهم يذهبون في مغامرات سيئة في الغابة ، وكذلك في جميع أنحاء العالم بأشكال مختلفة.",
+        "poster_path": "/zIeH63sSOMkotZyD0BTjnNPQ0xP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "popularity": 29.3037,
+        "first_air_date": "1995-09-08",
+        "softcore": false,
+        "vote_average": 7.252,
+        "vote_count": 670,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pmfDPxanEVZ2qFiNJvuKtuwYeoX.jpg",
+        "id": 14636,
+        "name": "عائلة ساترديز",
+        "original_name": "The Secret Saturdays",
+        "overview": "The Saturdays, a family of cryptozoologists, work to keep the truth about cryptids from getting out, in order to protect both the human race and the creatures themselves. They travel the world searching for cryptids to study and battling twisted villains like the megalomaniac V.V. Argost.",
+        "poster_path": "/A6ulaU7kehrXmMOhuaBW98qx2aL.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10759
+        ],
+        "popularity": 12.068,
+        "first_air_date": "2008-10-03",
+        "softcore": false,
+        "vote_average": 6.9,
+        "vote_count": 64,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vDVf9hNQvybKjiXfgHLThTVp3q8.jpg",
+        "id": 44931,
+        "name": "Superbook",
+        "original_name": "Superbook",
+        "overview": "CBN Animation's Superbook teaches children timeless moral truths and life lessons through the captivating, Bible-based adventures of two time-traveling children and their robot friend.",
+        "poster_path": "/4gxPU54vvA5ZGaICzwDXAQY5SvR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762,
+          10751
+        ],
+        "popularity": 25.4401,
+        "first_air_date": "2011-09-01",
+        "softcore": false,
+        "vote_average": 8.63,
+        "vote_count": 166,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fKpfCR3l0WukHTkI6Z2ySX1if4P.jpg",
+        "id": 3022,
+        "name": "راغراتس",
+        "original_name": "Rugrats",
+        "overview": "يركز المسلسل على مجموعة من الأطفال الصغار، أبرزهم تومي، تشاكي، فيل، ليل، وأنجليكا، وحياتهم اليومية، التي تتضمن عادةً تجارب حياتية عادية تتحول إلى مغامرات في مخيلة الأطفال. يكاد الكبار في المسلسل لا يدركون ما يفعله الأطفال؛ إلا أن هذا يمنحهم مساحة أكبر لاستكشاف محيطهم واكتشافه",
+        "poster_path": "/wmsINbZuEBLNP2Z26Xffx5NHJpW.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          16,
+          10762,
+          35
+        ],
+        "popularity": 78.8816,
+        "first_air_date": "1991-08-11",
+        "softcore": false,
+        "vote_average": 7.608,
+        "vote_count": 771,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cqSHB5nn84lzCuDGh2P2aSJtFAC.jpg",
+        "id": 4961,
+        "name": "M.A.S.K.",
+        "original_name": "M.A.S.K.",
+        "overview": "The ‘80s animated series about masked crime fighters, the Mobile Armored Strike Kommand, out to stop the chaotic crime syndicate known as V.E.N.O.M.",
+        "poster_path": "/cGkNcWubSCTD5HLCscBhVcvh8tt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10762
+        ],
+        "popularity": 6.3145,
+        "first_air_date": "1985-09-30",
+        "softcore": false,
+        "vote_average": 7.383,
+        "vote_count": 64,
+        "origin_country": [
+          "CA",
+          "FR",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sWWI0PdloHNCPAwf2s7MIQKq1nS.jpg",
+        "id": 4230,
+        "name": "PB&J Otter",
+        "original_name": "PB&J Otter",
+        "overview": "Peanut, Jelly, and Baby Butter Otter live on a houseboat along with all of their friends. Whenever they get into a situation where they need to think, they perform \"The Noodle Dance\" until one of them gets an idea.",
+        "poster_path": "/jTAQVBNVb9socC2IpjVqZuU4hKr.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10762
+        ],
+        "popularity": 12.366,
+        "first_air_date": "1998-03-15",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iohe4KtMpFKYzuA3QIBRrcbJIbz.jpg",
+        "id": 3611,
+        "name": "Cow and Chicken",
+        "original_name": "Cow and Chicken",
+        "overview": "Follows the surreal adventures of a cow, named Cow, and her chicken brother, named Chicken. They are often antagonized by \"The Red Guy\", who poses as various characters to scam them.",
+        "poster_path": "/1vsIbN9FOsr97vIAGLYpRu7ZiSq.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
+        "popularity": 34.0241,
+        "first_air_date": "1997-09-16",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 530,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 28,
+    "total_results": 544
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "watch/providers": {
+    "results": {}
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  }
+}

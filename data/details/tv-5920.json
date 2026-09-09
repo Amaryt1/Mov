@@ -1,0 +1,4700 @@
+{
+  "adult": false,
+  "backdrop_path": "/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+  "created_by": [
+    {
+      "id": 1211883,
+      "credit_id": "525783be760ee36aaa612f2a",
+      "name": "برونو هيلر",
+      "original_name": "Bruno Heller",
+      "gender": 2,
+      "profile_path": "/k33JqtocSqI13tf8QKTLbGQKrL4.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2008-09-23",
+  "genres": [
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/tv/mentalist",
+  "id": 5920,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2015-02-18",
+  "last_episode_to_air": {
+    "id": 1021664,
+    "name": "زهور الأوركيد البيضاء",
+    "overview": "\"في ختام تاريخي، عاطفي، وملحمي للمسلسل، تتقاطع كافة الخطوط والقضايا العالقة لسنوات. ومع اقتراب الفريق من طي الصفحة الأخيرة، يبتكر (باتريك جين) خطته النهائية المطلقة لفرض العدالة، وتأمين مستقبله مع (تيريزا ليزبون)، ورسم السطر الأخير في حكايته الأسطورية كمستشار فريد من نوعه أمتع الجميع بذكائه وحدسه.\"",
+    "vote_average": 8.56,
+    "vote_count": 25,
+    "air_date": "2015-02-18",
+    "episode_number": 13,
+    "episode_type": "finale",
+    "production_code": "4X5963",
+    "runtime": 40,
+    "season_number": 7,
+    "show_id": 5920,
+    "still_path": "/xTNpscIllI0MybnpOLTuSlXp9RK.jpg"
+  },
+  "name": "الوسيط الروحي",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 151,
+  "number_of_seasons": 7,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Mentalist",
+  "overview": "يعمل باتريك جين مستشارًا لدى مكتب التحقيقات في كاليفورنيا، ويستخدم ملاحظته الدقيقة وذكاءه وقدرته على قراءة سلوك الآخرين لكشف الخداع وحل جرائم القتل الغامضة. كان جين في السابق مدعيًا لامتلاك قدرات خارقة، إلى أن تسبب تحديه لقاتل متسلسل يُعرف باسم جون الأحمر في مأساة غيّرت حياته ودفعته إلى تكريس نفسه لتعقب القاتل. وبمساعدة فريق من المحققين، يشارك جين في حل القضايا بأساليب غير تقليدية، بينما يواصل مطاردة جون الأحمر في رحلة طويلة تتشابك فيها الألغاز والخداع والانتقام.",
+  "popularity": 378.876,
+  "poster_path": "/mMC4qAitti5tHnQ0w8mc3HRC7qk.jpg",
+  "production_companies": [
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 22938,
+      "logo_path": null,
+      "name": "Primrose Hill Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2009-08-20",
+      "episode_count": 2,
+      "id": 15976,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/n777EHyaK4yKiErzbvMGxKfdcV3.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-23",
+      "episode_count": 23,
+      "id": 15977,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/gs7BTjvDXFwASiN9XGzFihGPWx0.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2009-09-24",
+      "episode_count": 23,
+      "id": 15978,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/7bAwr7PAW0ynlnHfni5HaSzl7ci.jpg",
+      "season_number": 2,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2010-09-23",
+      "episode_count": 24,
+      "id": 15979,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/AprjB0BcIpIC2la4eRMGDWIrfMU.jpg",
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2011-09-22",
+      "episode_count": 24,
+      "id": 15980,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/w5AZMD6f6zQ9JVOBEUWWcdhfFML.jpg",
+      "season_number": 4,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2012-09-30",
+      "episode_count": 22,
+      "id": 15981,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/3LsyuIXcNDV1mnyZIiBN64GbNzr.jpg",
+      "season_number": 5,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2013-09-29",
+      "episode_count": 22,
+      "id": 15982,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/3wbMbYqry3ZLSuvFFy4lhbBQq34.jpg",
+      "season_number": 6,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2014-11-30",
+      "episode_count": 13,
+      "id": 62058,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/xroML8XHuaB6MP9VKmHg3429037.jpg",
+      "season_number": 7,
+      "vote_average": 7.8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.403,
+  "vote_count": 4680,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1284159,
+        "known_for_department": "Acting",
+        "name": "سايمون بيكر",
+        "original_name": "Simon Baker",
+        "popularity": 9.2656,
+        "profile_path": "/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg",
+        "character": "Patrick Jane",
+        "credit_id": "52cdd5b119c295599d036583",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17346,
+        "known_for_department": "Acting",
+        "name": "روبن توني",
+        "original_name": "Robin Tunney",
+        "popularity": 9.0823,
+        "profile_path": "/vOmWyYNoVEaPPvoto4IW8dSXn7I.jpg",
+        "character": "Teresa Lisbon",
+        "credit_id": "525783bc760ee36aaa612d09",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52947,
+        "known_for_department": "Acting",
+        "name": "تيم كانج",
+        "original_name": "Tim Kang",
+        "popularity": 4.8025,
+        "profile_path": "/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg",
+        "character": "Kimball Cho",
+        "credit_id": "525783bc760ee36aaa612d37",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17345,
+        "known_for_department": "Acting",
+        "name": "روكموند دنبار",
+        "original_name": "Rockmond Dunbar",
+        "popularity": 2.5216,
+        "profile_path": "/gim7zIrYkbKWsp2Kod7fp74fWyI.jpg",
+        "character": "Dennis Abbott",
+        "credit_id": "5375ddd60e0a26304700147d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 970561,
+        "known_for_department": "Acting",
+        "name": "جو أدلر",
+        "original_name": "Joe Adler",
+        "popularity": 2.3268,
+        "profile_path": "/bsle7zqj6HBs6NYstkwDwQY7EEf.jpg",
+        "character": "Jason Wylie",
+        "credit_id": "5391cc8cc3a3686491001595",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 146516,
+        "known_for_department": "Acting",
+        "name": "جوزي لورين",
+        "original_name": "Josie Loren",
+        "popularity": 2.443,
+        "profile_path": "/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg",
+        "character": "Michelle Vega",
+        "credit_id": "56e1a554c3a3680a260031cc",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1598062,
+        "known_for_department": "Writing",
+        "name": "Marisa Wegrzyn",
+        "original_name": "Marisa Wegrzyn",
+        "popularity": 0.3926,
+        "profile_path": null,
+        "credit_id": "689b54d8404b91859db706f3",
+        "department": "Writing",
+        "job": "Story Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77202,
+        "known_for_department": "Production",
+        "name": "Robert J. Ulrich",
+        "original_name": "Robert J. Ulrich",
+        "popularity": 0.5753,
+        "profile_path": null,
+        "credit_id": "689b54b0dc60600e6a8db016",
+        "department": "Production",
+        "job": "Original Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1197284,
+        "known_for_department": "Production",
+        "name": "Carol Kritzer",
+        "original_name": "Carol Kritzer",
+        "popularity": 0.6392,
+        "profile_path": null,
+        "credit_id": "689b54aca8cae6d7a58eb53e",
+        "department": "Production",
+        "job": "Original Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77200,
+        "known_for_department": "Production",
+        "name": "Eric Dawson",
+        "original_name": "Eric Dawson",
+        "popularity": 0.9454,
+        "profile_path": null,
+        "credit_id": "689b54a7e16f13ee78c6ff19",
+        "department": "Production",
+        "job": "Original Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1865673,
+        "known_for_department": "Production",
+        "name": "Sara Isaacson",
+        "original_name": "Sara Isaacson",
+        "popularity": 0.4777,
+        "profile_path": null,
+        "credit_id": "689b481514835f85285d19c7",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1865674,
+        "known_for_department": "Production",
+        "name": "Eric Souliere",
+        "original_name": "Eric Souliere",
+        "popularity": 0.2778,
+        "profile_path": null,
+        "credit_id": "689b480f7aedc17af06d76d3",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1320139,
+        "known_for_department": "Writing",
+        "name": "Jordan Harper",
+        "original_name": "Jordan Harper",
+        "popularity": 0.5122,
+        "profile_path": null,
+        "credit_id": "56d982fa92514175a3006916",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1486893,
+        "known_for_department": "Production",
+        "name": "Alex Berger",
+        "original_name": "Alex Berger",
+        "popularity": 0.6449,
+        "profile_path": null,
+        "credit_id": "56f84abb9251410a31000dca",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1597203,
+        "known_for_department": "Writing",
+        "name": "Tom Donaghy",
+        "original_name": "Tom Donaghy",
+        "popularity": 0.447,
+        "profile_path": null,
+        "credit_id": "56f84b119251414c320007b1",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1408705,
+        "known_for_department": "Sound",
+        "name": "Angela Claverie",
+        "original_name": "Angela Claverie",
+        "popularity": 0.3756,
+        "profile_path": null,
+        "credit_id": "689b53fed7e1256b40c6ff1e",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1122804,
+        "known_for_department": "Directing",
+        "name": "Nina Lopez-Corrado",
+        "original_name": "Nina Lopez-Corrado",
+        "popularity": 0.7039,
+        "profile_path": "/pOleBiod4Un0aiRdJsgdfoGW7H0.jpg",
+        "credit_id": "569fd6bdc3a36858c300a3ee",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1284159,
+        "known_for_department": "Acting",
+        "name": "سايمون بيكر",
+        "original_name": "Simon Baker",
+        "popularity": 9.2656,
+        "profile_path": "/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg",
+        "credit_id": "569fd8949251415e6700a6ab",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 136009,
+        "known_for_department": "Art",
+        "name": "Cherie Day Ledwith",
+        "original_name": "Cherie Day Ledwith",
+        "popularity": 0.4478,
+        "profile_path": null,
+        "credit_id": "689b48649e81e6e63b26868b",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1456030,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Sharisse Fine",
+        "original_name": "Sharisse Fine",
+        "popularity": 0.7376,
+        "profile_path": null,
+        "credit_id": "689b49a2aecb6c64866d7368",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 989146,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Amanda Friedland",
+        "original_name": "Amanda Friedland",
+        "popularity": 0.4911,
+        "profile_path": null,
+        "credit_id": "689b48f28d3f98726526871b",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1557074,
+        "known_for_department": "Directing",
+        "name": "John Scherer",
+        "original_name": "John Scherer",
+        "popularity": 0.4004,
+        "profile_path": null,
+        "credit_id": "5688036b92514169d000f018",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2383,
+        "known_for_department": "Production",
+        "name": "Peter Lauritson",
+        "original_name": "Peter Lauritson",
+        "popularity": 0.4327,
+        "profile_path": null,
+        "credit_id": "568802cb9251412e5202220c",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1215660,
+        "known_for_department": "Production",
+        "name": "Tom Szentgyorgyi",
+        "original_name": "Tom Szentgyorgyi",
+        "popularity": 0.6802,
+        "profile_path": "/gPiQnaMSfIexiPlEmyq5ZKVrinY.jpg",
+        "credit_id": "568011099251417ddd00d9af",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1304270,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Denise Fischer",
+        "original_name": "Denise Fischer",
+        "popularity": 0.5764,
+        "profile_path": null,
+        "credit_id": "689b49817f24db9c02b708aa",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1557074,
+        "known_for_department": "Directing",
+        "name": "John Scherer",
+        "original_name": "John Scherer",
+        "popularity": 0.4004,
+        "profile_path": null,
+        "credit_id": "6458f99f156cc7013ff18652",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1214432,
+        "known_for_department": "Directing",
+        "name": "Chris Long",
+        "original_name": "Chris Long",
+        "popularity": 1.3413,
+        "profile_path": "/kphn24MER5N0g7vnD69csE3onU4.jpg",
+        "credit_id": "568011e09251414f63006754",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 81729,
+        "known_for_department": "Production",
+        "name": "Matthew Carlisle",
+        "original_name": "Matthew Carlisle",
+        "popularity": 0.5183,
+        "profile_path": null,
+        "credit_id": "5680122e92514132db00b3a7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 960431,
+        "known_for_department": "Art",
+        "name": "Michael Novotny",
+        "original_name": "Michael Novotny",
+        "popularity": 0.5019,
+        "profile_path": null,
+        "credit_id": "689b48282bc79d9c128db135",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1462841,
+        "known_for_department": "Sound",
+        "name": "Thierry J. Couturier",
+        "original_name": "Thierry J. Couturier",
+        "popularity": 0.3478,
+        "profile_path": null,
+        "credit_id": "689b5247f7c834ebd3c6ffe6",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1546559,
+        "known_for_department": "Sound",
+        "name": "Ed Carr",
+        "original_name": "Ed Carr",
+        "popularity": 0.6221,
+        "profile_path": null,
+        "credit_id": "689b5253a100ffff205d1a4a",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1412455,
+        "known_for_department": "Sound",
+        "name": "Todd Grace",
+        "original_name": "Todd Grace",
+        "popularity": 0.5426,
+        "profile_path": null,
+        "credit_id": "689b525810ba8593fc5e3e24",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 53017,
+        "known_for_department": "Sound",
+        "name": "بليك نيلي",
+        "original_name": "Blake Neely",
+        "popularity": 1.1461,
+        "profile_path": "/ip0bUF22rBJNqLu5hTPEtzZa6hp.jpg",
+        "credit_id": "56631ca1c3a3682bd20045f0",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1211883,
+        "known_for_department": "Writing",
+        "name": "برونو هيلر",
+        "original_name": "Bruno Heller",
+        "popularity": 1.2833,
+        "profile_path": "/k33JqtocSqI13tf8QKTLbGQKrL4.jpg",
+        "credit_id": "525783be760ee36aaa612ff8",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/tUKU1WLqMtIZHUl8lP9bLAJx0nl.jpg",
+        "id": 954,
+        "name": "The Rockford Files",
+        "original_name": "The Rockford Files",
+        "overview": "Cranky but likable L.A. PI Jim Rockford pulls no punches (but takes plenty of them). An ex-con sent to the slammer for a crime he didn't commit, Rockford takes on cases others don't want, aided by his tough old man, his lawyer girlfriend and some shady associates from his past.",
+        "poster_path": "/fniHEsTeqHMg41GlCYJxZVgtn7H.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 40.9616,
+        "first_air_date": "1974-09-13",
+        "softcore": false,
+        "vote_average": 7.611,
+        "vote_count": 131,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oYwaOeQmE0tuBKy8kt43NFNI4bE.jpg",
+        "id": 578,
+        "name": "Numb3rs",
+        "original_name": "Numb3rs",
+        "overview": "Inspired by actual cases and experiences, Numb3rs depicts the confluence of police work and mathematics in solving crime as an FBI agent recruits his mathematical genius brother to help solve a wide range of challenging crimes in Los Angeles from a very different perspective.",
+        "poster_path": "/wOzbxJmpccPA5MYvBSGbor3WKh3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 42.5163,
+        "first_air_date": "2005-01-23",
+        "softcore": false,
+        "vote_average": 7.027,
+        "vote_count": 451,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k7w3VSy1F4pW5HeoZjk2wn73AXS.jpg",
+        "id": 45194,
+        "name": "Dragnet",
+        "original_name": "Dragnet",
+        "overview": "Police Detective Sgt. Joe Friday and his partners investigate crimes in Los Angeles.",
+        "poster_path": "/tvozcbojiCAHIFar7kdaGfwSWew.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 19.2663,
+        "first_air_date": "1967-01-12",
+        "softcore": false,
+        "vote_average": 6.957,
+        "vote_count": 23,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7lYBvjfgrguOUgnS9NrpysHtaCq.jpg",
+        "id": 4582,
+        "name": "Ironside",
+        "original_name": "Ironside",
+        "overview": "When an assassin's bullet confines him to a wheelchair for life ending his career as Chief of Detectives, Robert T. Ironside becomes a consultant to the police department. Detective Sergeant Ed Brown and policewoman Eve Whitfield join with him to crack varied and fascinating cases. Ex-con Mark Sanger is employed by the chief as home help but eventually becomes a fully fledged member of the team also. Officer Whitfield leaves after 4 years service, and is replaced by Officer Fran Belding.",
+        "poster_path": "/Fu9Sv0pQ0s89uWwwXcaG0kiNW7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 55.1088,
+        "first_air_date": "1967-03-28",
+        "softcore": false,
+        "vote_average": 6.789,
+        "vote_count": 71,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wixjwQv8aPfIwbc7euj0fPPsMjT.jpg",
+        "id": 3216,
+        "name": "Baretta",
+        "original_name": "Baretta",
+        "overview": "Baretta is an American detective television series which ran on ABC from 1975 to 1978. The show was a milder version of a successful 1973–74 ABC series, Toma, starring Tony Musante as chameleon-like, real-life New Jersey police officer David Toma. While popular, Toma received intense criticism at the time for its realistic and frequent depiction of police and criminal violence. When Musante left the series after a single season, the concept was retooled as Baretta, with Robert Blake in the title role.",
+        "poster_path": "/xayGSRT2GbcFTwNIqt6l355v29F.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.8278,
+        "first_air_date": "1975-01-17",
+        "softcore": false,
+        "vote_average": 6.536,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mEuysnOZceRFx1BbRcz4gsCkSzN.jpg",
+        "id": 39957,
+        "name": "Perception",
+        "original_name": "Perception",
+        "overview": "Dr. Daniel Pierce, a neuroscientist and professor, is recruited to help the federal government crack difficult cases. His intimate knowledge of human behavior and masterful understanding of the mind give him an extraordinary ability to read people, but his eccentric view of the world and less-than-stellar social skills can often interfere with his work.",
+        "poster_path": "/5L6MsJVdMDbdGZ4P1lGBunOp0VZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 17.1019,
+        "first_air_date": "2012-07-09",
+        "softcore": false,
+        "vote_average": 7.16,
+        "vote_count": 285,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zOnLMRD3PIhwO5KZmWMVEnLokMo.jpg",
+        "id": 1419,
+        "name": "كاسل",
+        "original_name": "Castle",
+        "overview": "\" ريتشارد كاسل\"روائي شهير يعيش في نيويورك مع والدته مارثا وابنته المراهقة ألكسيس يستدعى يوما إلى قسم شرطة نيويورك من أجل التحقيق معه في اكتشاف قاتل متسلسل يقوم باستخدام اساليب القتل التي وردت في رواياته، يخضع \" كاسل \" للتحقيق من قبل التحرية اللامعة كايت التي تحاول الاطاحة بالمجرم. بعدها يشارك \" كاسل \" في الإمساك بالقاتل، ثم ما تلبث أن تنشأ علاقة بين \" كاسل \" وكايت اللذان يقومان بالتعاون على حل المزيد من جرائم القتل في مدينة نيويورك. في بداية الامر ترفض المحققة وجود كاسل معها، والذي يستخدم علاقاته ومعرفته بالحاكم من أجل البقاء بالقرب من المحققة الجميلة والتي يتخذها ألهاما له في كتابة الشخصية المحورية في احدى رواياته الجديدة.",
+        "poster_path": "/diXBeMzvfJb2iJg3G0kCUaMCzEc.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 93.6904,
+        "first_air_date": "2009-03-09",
+        "softcore": false,
+        "vote_average": 7.965,
+        "vote_count": 2145,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+        "id": 764,
+        "name": "Midsomer Murders",
+        "original_name": "Midsomer Murders",
+        "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+        "poster_path": "/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 192.0578,
+        "first_air_date": "1997-03-23",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 372,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iq4BjyVsDxzg24XnjoGP0Xi2Tz5.jpg",
+        "id": 4177,
+        "name": "Perry Mason",
+        "original_name": "Perry Mason",
+        "overview": "The cases of master criminal defense attorney Perry Mason and his staff who handled the most difficult of cases in the aid of the innocent.",
+        "poster_path": "/sK6JvgNFP1ClT4aF4nPAZiDpAdk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 92.2863,
+        "first_air_date": "1957-09-21",
+        "softcore": false,
+        "vote_average": 7.71,
+        "vote_count": 138,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7sJrNKwzyJWnFPFpDL9wnZ859LZ.jpg",
+        "id": 1415,
+        "name": "Elementary",
+        "original_name": "Elementary",
+        "overview": "في العصر الحالي بمدينة نيويورك، يعيش المحقق شرلوك هولمز حياته اليومية بمتابعة وتولي أصعب تحقيقات القضايا، حيث يتلقى المساعدة من زميلته الدكتورة جون واتسون، ويخوض الثنائي العديد من المغامرات معًا.",
+        "poster_path": "/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 82.8767,
+        "first_air_date": "2012-09-27",
+        "softcore": false,
+        "vote_average": 7.634,
+        "vote_count": 1889,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wofevfOdZrHPqFnhZTkHHV25IOO.jpg",
+        "id": 587,
+        "name": "Barnaby Jones",
+        "original_name": "Barnaby Jones",
+        "overview": "Barnaby Jones is a television detective series starring Buddy Ebsen and Lee Meriwether as father- and daughter-in-law who run a private detective firm in Los Angeles. The show ran on CBS from January 28, 1973 to April 3, 1980, beginning as a midseason replacement. William Conrad guest starred as Frank Cannon of Cannon on the first episode of Barnaby Jones, \"Requiem for a Son\" and the two series had a two-part crossover episode in 1975, \"The Deadly Conspiracy\".",
+        "poster_path": "/wn1kkCGHJcUQ7C8umfQH9LL2zXR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 20.85,
+        "first_air_date": "1973-01-28",
+        "softcore": false,
+        "vote_average": 7.097,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bhG1XJ1fubbZkLnoBAxNrzzGXOg.jpg",
+        "id": 1620,
+        "name": "CSI: Miami",
+        "original_name": "CSI: Miami",
+        "overview": "The show follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
+        "poster_path": "/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "popularity": 113.0501,
+        "first_air_date": "2002-09-23",
+        "softcore": false,
+        "vote_average": 7.688,
+        "vote_count": 1741,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z2ZmYbhk0McewduBFtCqkmcZoqT.jpg",
+        "id": 72597,
+        "name": "Manhunt",
+        "original_name": "Manhunt",
+        "overview": "لمواجهة قلة الأدلّة والذعر المتزايد للعامة، يطلب مكتب التحقيقات الفيدرالي تخصصًا جديدًا لمحللي الشخصيات للمساعدة في تعقّب \"يونابومبر\".",
+        "poster_path": "/na9All5vbpvLwI1B2d2QpuyJore.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648
+        ],
+        "popularity": 28.5239,
+        "first_air_date": "2017-08-01",
+        "softcore": false,
+        "vote_average": 7.61,
+        "vote_count": 553,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8AkvTlCLmGipNEGL9wYVfWMiPLd.jpg",
+        "id": 39483,
+        "name": "Major Crimes",
+        "original_name": "Major Crimes",
+        "overview": "Major Crimes explores how the American justice system approaches the art of the deals as law enforcement officers and prosecutors work together to score a conviction. Los Angeles Police Captain Sharon Raydor heads up a special squad within the LAPD that deals with high-profile or particularly sensitive crimes.",
+        "poster_path": "/fZ502JXujnxVtprmigTO2jA205P.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 41.6129,
+        "first_air_date": "2012-08-13",
+        "softcore": false,
+        "vote_average": 7.369,
+        "vote_count": 214,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/66Qqh7rJTCOSZgJkVAJa3wfUMMI.jpg",
+        "id": 3716,
+        "name": "Dragnet",
+        "original_name": "Dragnet",
+        "overview": "Follows the cases of a dedicated Los Angeles police detective, Sergeant Joe Friday, and his partners. The show takes its name from the police term \"dragnet\", meaning a system of coordinated measures for apprehending criminals or suspects.",
+        "poster_path": "/393BVqnVaioYBE5f3LMUwFRAwPQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 46.793,
+        "first_air_date": "1951-12-16",
+        "softcore": false,
+        "vote_average": 6.486,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yxHPyiOGOcc3k2WGGAzrHnrq5kw.jpg",
+        "id": 58057,
+        "name": "Jack Irish",
+        "original_name": "Jack Irish",
+        "overview": "Jack Irish is a man getting his life back together again. A former criminal lawyer whose world imploded, he now spends his days as a part-time investigator, debt collector, apprentice cabinet maker, punter and sometime lover – the complete man really. An expert in finding those who don’t want to be found – dead or alive, Jack helps out his mates while avoiding the past. That is until the past finds him.",
+        "poster_path": "/9f66kq0vLHztRL44FcGCqyaqUJo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 7.2649,
+        "first_air_date": "2016-02-11",
+        "softcore": false,
+        "vote_average": 6.525,
+        "vote_count": 40,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5puZfo53LmwAkqOGObg59X3qmC7.jpg",
+        "id": 241549,
+        "name": "Murder in a Small Town",
+        "original_name": "Murder in a Small Town",
+        "overview": "ينتقل كارل ألبرغ إلى بلدة ساحلية هادئة لتهدئة نفسه التي أرهقتها أعمال الشرطة في المدينة الكبيرة، لكنه يجد نفسه مضطراً إلى الاستعانة بكل مهاراته لحل جرائم القتل التي تستمر في الظهور على شاطئه",
+        "poster_path": "/r8rdmK4vSIhNDQAtbamEFL2kLhG.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 20.1417,
+        "first_air_date": "2024-09-24",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 64,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nBkF6LVt0y8ly4QhUcN0n5nVPBz.jpg",
+        "id": 71722,
+        "name": "Deception",
+        "original_name": "Deception",
+        "overview": "Cameron Black is the world's greatest illusionist. At least, that's what people used to call him—before his greatest secret was exposed and his career destroyed. Even worse, Cameron has good reason to believe this was no accident.",
+        "poster_path": "/fRQ3JV67ADyTrRNyXqefqJkJsD4.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 8.6988,
+        "first_air_date": "2018-03-11",
+        "softcore": false,
+        "vote_average": 7.688,
+        "vote_count": 253,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yVP12H81dwaay5B7GVqgO893q2c.jpg",
+        "id": 226637,
+        "name": "قدرات استثنائية",
+        "original_name": "High Potential",
+        "overview": "مورغان، أم عزباء ذات عقل استثنائي، تمتلك موهبة غير تقليدية في حل الجرائم، ما يقودها إلى شراكة فريدة لا يمكن إيقافها مع محقق مخضرم يلتزم بالقواعد حرفيًا.",
+        "poster_path": "/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 73.9241,
+        "first_air_date": "2024-09-17",
+        "softcore": false,
+        "vote_average": 8.236,
+        "vote_count": 663,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7398a0SJBEH8i7hGQL94No4lUqT.jpg",
+        "id": 157409,
+        "name": "Signora Volpe",
+        "original_name": "Signora Volpe",
+        "overview": "After years as an MI6 operative, Sylvia winds up in a village in Umbria visiting her sister Isabel and becomes involved in a murder investigation.",
+        "poster_path": "/wEhY7XzejGMPc4vWpJwfwhRAg3N.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 7.9653,
+        "first_air_date": "2022-05-02",
+        "softcore": false,
+        "vote_average": 7.181,
+        "vote_count": 48,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 12,
+    "total_results": 238
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/iK7tPi9j4d34g5p6bNKmGVba95K.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 1908,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Miami Vice",
+        "overview": "",
+        "popularity": 54.0525,
+        "poster_path": "/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg",
+        "first_air_date": "1984-09-16",
+        "softcore": false,
+        "name": "Miami Vice",
+        "vote_average": 7.449,
+        "vote_count": 535
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iMFsQ7yyToYg7SkS9Ml0by9UJ0X.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 2025,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Beverly Hills, 90210",
+        "overview": "",
+        "popularity": 57.0393,
+        "poster_path": "/b7BYfkhu653D894krwGO1ysIKTf.jpg",
+        "first_air_date": "1990-10-04",
+        "softcore": false,
+        "name": "Beverly Hills, 90210",
+        "vote_average": 7.293,
+        "vote_count": 842
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/czvNMbnwOqR76Rz7u1CpBcJMIHM.jpg",
+        "genre_ids": [
+          9648
+        ],
+        "id": 93198,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "面具背后",
+        "overview": "",
+        "popularity": 2.4382,
+        "poster_path": "/sbr5IK0NtBVFWaasg7UWL7xgu2b.jpg",
+        "first_air_date": "2019-04-01",
+        "softcore": false,
+        "name": "面具背后",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iHMvmuWdPaRBLcYhDBRKiiGX6UN.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 239740,
+        "origin_country": [
+          "PL"
+        ],
+        "original_language": "pl",
+        "original_name": "Profilerka",
+        "overview": "",
+        "popularity": 5.4456,
+        "poster_path": "/gev7L2KDEYi1yPtmitkArSyI2n.jpg",
+        "first_air_date": "2024-09-07",
+        "softcore": false,
+        "name": "Profilerka",
+        "vote_average": 6.8,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7OCAlRz13R9HZIbXTNUfyEAYyvf.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 93097,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "동백꽃 필 무렵",
+        "overview": "عندما تشعر أنّ حبًّا جديدًا قد اقتحم حياتها، تسعى الأمّ العزباء \"دونغبايك\" إلى مواجهة الوصمات الاجتماعيّة التي تُحاصرها بشتّى الطُرق.",
+        "popularity": 13.0266,
+        "poster_path": "/mjXjqD83omUyeVXtc8X8AFyBZ7.jpg",
+        "first_air_date": "2019-09-18",
+        "softcore": false,
+        "name": "ربيع الكاميليا",
+        "vote_average": 8.132,
+        "vote_count": 68
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1920,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Twin Peaks",
+        "overview": "عُثر على جثة لورا بالمر على شاطئ بالقرب من بلدة توين بيكس الصغيرة في ولاية واشنطن. استُدعي العميل الخاص في مكتب التحقيقات الفيدرالي، ديل كوبر، للتحقيق في وفاتها الغامضة، ليكشف عن شبكة من الألغاز تقوده في نهاية المطاف إلى أعماق الغابة المحيطة ونفسه",
+        "popularity": 53.8821,
+        "poster_path": "/fgJJMIA8zFeRErCgCvs73Tsr28d.jpg",
+        "first_air_date": "1990-04-08",
+        "softcore": false,
+        "name": "توين بيكس",
+        "vote_average": 8.341,
+        "vote_count": 2690
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5ziXtCZye3NowgFJCBrK3kTd7vn.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648,
+          10765
+        ],
+        "id": 60726,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Forever",
+        "overview": "الدكتور هنري مورغان ، الفاحص الطبي النجم في مدينة نيويورك ، لديه سر. إنه لا يدرس الموتى فقط لحل القضايا الجنائية ، بل يفعل ذلك لحل اللغز الذي استعصى عليه لمدة 200 عام - الجواب على خلوده الذي لا يمكن تفسيره. هذه الحياة الطويلة أعطت هنري مهارات ملحوظة في الملاحظة مما أثار إعجاب شريكه الجديد ،\n\nالمحقق جو مارتينيز. كل أسبوع ، ستكشف قضية جديدة وصداقتهما الناشئة طبقات من ماضي هنري الطويل والملون. فقط أفضل أصدقائه وصديقه ، آبي يعرف سر هنري.",
+        "popularity": 14.8137,
+        "poster_path": "/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg",
+        "first_air_date": "2014-09-22",
+        "softcore": false,
+        "name": "للابد",
+        "vote_average": 7.825,
+        "vote_count": 662
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uCM3uuVGTRBCIuyGdPRqWfpZald.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 60748,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "갑동이",
+        "overview": "",
+        "popularity": 4.4825,
+        "poster_path": "/5ulmGI4lABXPdDji9WN8sGmYE7x.jpg",
+        "first_air_date": "2014-04-11",
+        "softcore": false,
+        "name": "갑동이",
+        "vote_average": 6.4,
+        "vote_count": 11
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bhELjzqO7A7q6BZCu3puYiZ5YAv.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 2254,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Sunset Beach",
+        "overview": "",
+        "popularity": 42.1306,
+        "poster_path": "/b4wqMNq1v3oksZ1V88aemWxbx15.jpg",
+        "first_air_date": "1997-01-06",
+        "softcore": false,
+        "name": "Sunset Beach",
+        "vote_average": 6.122,
+        "vote_count": 37
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oFO1g8otqXCz3Frb3Lq7GsdbVuN.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 2134,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Gentle Touch",
+        "overview": "",
+        "popularity": 6.0744,
+        "poster_path": "/uiTy0RD7J0OdqHl7GshB9zxmYAe.jpg",
+        "first_air_date": "1980-04-11",
+        "softcore": false,
+        "name": "The Gentle Touch",
+        "vote_average": 7.2,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wFGCKc0nSsxolXUN7uGCqw1qx7D.jpg",
+        "genre_ids": [
+          99,
+          80
+        ],
+        "id": 126597,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Jeffrey Dahmer: Killer Cannibal",
+        "overview": "",
+        "popularity": 1.0615,
+        "poster_path": "/37zygSVZpHufmSz9RGRRF8qsXyo.jpg",
+        "first_air_date": "2019-05-16",
+        "softcore": false,
+        "name": "Jeffrey Dahmer: Killer Cannibal",
+        "vote_average": 5.5,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tzk6NKctIOA1GyWuVPmrago05L4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          9648
+        ],
+        "id": 2150,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Scooby-Doo/Dynomutt Hour",
+        "overview": "",
+        "popularity": 5.9812,
+        "poster_path": "/7w13OFlmt6QPFEVxqs6eJwGXAZR.jpg",
+        "first_air_date": "1976-09-11",
+        "softcore": false,
+        "name": "The Scooby-Doo/Dynomutt Hour",
+        "vote_average": 7.9,
+        "vote_count": 173
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dQOZFpC2p2OSxOxHMAZc8EKQPhr.jpg",
+        "genre_ids": [
+          9648,
+          80
+        ],
+        "id": 93355,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "我心深触",
+        "overview": "",
+        "popularity": 2.0551,
+        "poster_path": "/q67o2S9v8wfwsyBByksTzpiRTDv.jpg",
+        "first_air_date": "2019-06-19",
+        "softcore": false,
+        "name": "我心深触",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10759,
+          80,
+          18
+        ],
+        "id": 30543,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "The Line",
+        "overview": "",
+        "popularity": 3.9207,
+        "poster_path": "/rQk1gNOe9DR8KeLFyzYVJj1wgoE.jpg",
+        "first_air_date": "2009-03-16",
+        "softcore": false,
+        "name": "The Line",
+        "vote_average": 3.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dlOkqakV9AKFFUS6Sxn64VS5ffp.jpg",
+        "genre_ids": [
+          16,
+          35,
+          80,
+          9648
+        ],
+        "id": 126725,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Velma",
+        "overview": "",
+        "popularity": 11.7846,
+        "poster_path": "/zxkNhuPSHeDv3yA7sFu2RuEOGgR.jpg",
+        "first_air_date": "2023-01-12",
+        "softcore": false,
+        "name": "Velma",
+        "vote_average": 3.427,
+        "vote_count": 365
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oMeCp8jXpSyI41vHsjMkFfIJReh.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 2171,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Cold Case",
+        "overview": "",
+        "popularity": 54.3923,
+        "poster_path": "/5dmiNE8UdAqIyjjwZZWsjMhhV0b.jpg",
+        "first_air_date": "2003-09-28",
+        "softcore": false,
+        "name": "Cold Case",
+        "vote_average": 7.735,
+        "vote_count": 455
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zjNJgnm3agWjzg5Qq4oYGwHYRVY.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 30716,
+        "origin_country": [
+          "IE"
+        ],
+        "original_language": "en",
+        "original_name": "Single-Handed",
+        "overview": "",
+        "popularity": 4.3044,
+        "poster_path": "/8KR0c7AVMOy2rTEdzBjzkTxlH5R.jpg",
+        "first_air_date": "2007-01-01",
+        "softcore": false,
+        "name": "Single-Handed",
+        "vote_average": 6.8,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gawTr5Nfn7DZpFAYqznbFYJ7aj9.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 93454,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Serpent",
+        "overview": "",
+        "popularity": 9.2805,
+        "poster_path": "/mZve7vS8S7nyYMIJ5rJrjzOGwAZ.jpg",
+        "first_air_date": "2021-01-01",
+        "softcore": false,
+        "name": "The Serpent",
+        "vote_average": 7.404,
+        "vote_count": 399
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lp9Md7E5Y17u9t9hTgYCZ0w7D9f.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 30668,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Thieves",
+        "overview": "",
+        "popularity": 3.8813,
+        "poster_path": "/rEIc3FTeHbeSXkNqBFmSiszx2JW.jpg",
+        "first_air_date": "2001-09-28",
+        "softcore": false,
+        "name": "Thieves",
+        "vote_average": 6.857,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vey6RohbMfUzwWiRGm8P7wnYtIR.jpg",
+        "genre_ids": [
+          80,
+          99
+        ],
+        "id": 277316,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Cold Case Files: The Grim Sleeper",
+        "overview": "",
+        "popularity": 0.963,
+        "poster_path": "/dH6hMZug6OEXBzNdWhvE5LouROL.jpg",
+        "first_air_date": "2024-11-08",
+        "softcore": false,
+        "name": "Cold Case Files: The Grim Sleeper",
+        "vote_average": 3,
+        "vote_count": 3
+      }
+    ],
+    "total_pages": 3006,
+    "total_results": 60105
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 25
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 12
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=AT",
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 69
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 62
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 152
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 91
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 92
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 103
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BE",
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BF": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BF",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 22
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 29
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 80
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 25
+          }
+        ]
+      },
+      "BY": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 10
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 91
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 109
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "CD": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CD",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 76
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 69
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DE",
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 11
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 217
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DK",
+        "rent": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/q8EUxAMcTw7qjdMKMcTPLl06gum.png",
+            "provider_id": 423,
+            "provider_name": "Blockbuster",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 87
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=FI",
+        "rent": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/q8EUxAMcTw7qjdMKMcTPLl06gum.png",
+            "provider_id": 423,
+            "provider_name": "Blockbuster",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=FR",
+        "ads": [
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 85
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 98
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 34
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 71
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 24
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/iGb7XGcCiCZyBgBqIdSEBiOxNc4.png",
+            "provider_id": 109,
+            "provider_name": "Timvision",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 85
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 87
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=JP",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/mrzVKXhM1vryerBWd65emU9TfUm.png",
+            "provider_id": 2284,
+            "provider_name": "HBO Max on U-Next",
+            "display_priority": 28
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 9
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 27
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 12
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=LU",
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=LV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 27
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MW": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 70
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 14
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=NO",
+        "buy": [
+          {
+            "logo_path": "/q8EUxAMcTw7qjdMKMcTPLl06gum.png",
+            "provider_id": 423,
+            "provider_name": "Blockbuster",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+            "provider_id": 578,
+            "provider_name": "Strim",
+            "display_priority": 28
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=PG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 30
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 29
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=RU",
+        "flatrate": [
+          {
+            "logo_path": "/j5NFNAdVCTTRLL2fP2MvJcYZgKz.png",
+            "provider_id": 115,
+            "provider_name": "Okko",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=SE",
+        "buy": [
+          {
+            "logo_path": "/q8EUxAMcTw7qjdMKMcTPLl06gum.png",
+            "provider_id": 423,
+            "provider_name": "Blockbuster",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 29
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 11
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 13
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=UA",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 18
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "VA": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=VA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/tv/5920-the-mentalist/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      }
+    }
+  }
+}

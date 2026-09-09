@@ -1,0 +1,1461 @@
+{
+  "adult": false,
+  "backdrop_path": "/hINekSpbcBxjnjGqmIm6I4bz2ab.jpg",
+  "created_by": [
+    {
+      "id": 54772,
+      "credit_id": "551da459c3a3683a18000dbe",
+      "name": "أندي كوهن",
+      "original_name": "Andy Cohen",
+      "gender": 2,
+      "profile_path": "/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2009-07-16",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "حوار"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    }
+  ],
+  "homepage": "http://www.bravotv.com/watch-what-happens-live",
+  "id": 22980,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-08-16",
+  "last_episode_to_air": {
+    "id": 7692192,
+    "name": "الحلقة 139",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-08",
+    "episode_number": 139,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 23,
+    "show_id": 22980,
+    "still_path": null
+  },
+  "name": "Watch What Happens Live with Andy Cohen",
+  "next_episode_to_air": {
+    "id": 7769926,
+    "name": "الحلقة 140",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-09",
+    "episode_number": 140,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 21,
+    "season_number": 23,
+    "show_id": 22980,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 74,
+      "logo_path": "/wX5HsfS47u6UUCSpYXqaQ1x2qdu.png",
+      "name": "Bravo",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 3197,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Watch What Happens Live with Andy Cohen",
+  "overview": "",
+  "popularity": 440.0731,
+  "poster_path": "/onSD9UXfJwrMXWhq7UY7hGF2S1h.jpg",
+  "production_companies": [
+    {
+      "id": 23601,
+      "logo_path": "/jZYnbLWzOGhRDrvLWOOpoQZnuAB.png",
+      "name": "Embassy Row",
+      "origin_country": "US"
+    },
+    {
+      "id": 11073,
+      "logo_path": "/wHs44fktdoj6c378ZbSWfzKsM2Z.png",
+      "name": "Sony Pictures Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2012-08-26",
+      "episode_count": 6,
+      "id": 32935,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-07-16",
+      "episode_count": 22,
+      "id": 32928,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2010-01-14",
+      "episode_count": 29,
+      "id": 32929,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-09",
+      "episode_count": 44,
+      "id": 32930,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-06",
+      "episode_count": 57,
+      "id": 32931,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-25",
+      "episode_count": 26,
+      "id": 32932,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-08",
+      "episode_count": 91,
+      "id": 32933,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-06-17",
+      "episode_count": 35,
+      "id": 32934,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-09",
+      "episode_count": 64,
+      "id": 32936,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-06",
+      "episode_count": 91,
+      "id": 32937,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-06-16",
+      "episode_count": 111,
+      "id": 32938,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-05",
+      "episode_count": 210,
+      "id": 386675,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-04",
+      "episode_count": 206,
+      "id": 384135,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-03",
+      "episode_count": 208,
+      "id": 77111,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/qEzjl8JjB8TK06DsiERIFRUgrAN.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-03",
+      "episode_count": 208,
+      "id": 83411,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/pjsCVPzKXss8s786W1lkgAyVZs5.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-07",
+      "episode_count": 209,
+      "id": 97793,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/pjsCVPzKXss8s786W1lkgAyVZs5.jpg",
+      "season_number": 15,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2019-01-06",
+      "episode_count": 208,
+      "id": 115656,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/pjsCVPzKXss8s786W1lkgAyVZs5.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-05",
+      "episode_count": 208,
+      "id": 140166,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/voSasi6honCTXMl8wvIm1RY4FgB.jpg",
+      "season_number": 17,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2021-01-03",
+      "episode_count": 208,
+      "id": 177920,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/voSasi6honCTXMl8wvIm1RY4FgB.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-05",
+      "episode_count": 209,
+      "id": 238733,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/voSasi6honCTXMl8wvIm1RY4FgB.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 203,
+      "id": 322933,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/voSasi6honCTXMl8wvIm1RY4FgB.jpg",
+      "season_number": 20,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2024-01-07",
+      "episode_count": 208,
+      "id": 370457,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/64UgfcMR3Zc80YZrJWRUrBqTAy9.jpg",
+      "season_number": 21,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 203,
+      "id": 436163,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/wG4e3leA8pSx745WxvlZD432gZ2.jpg",
+      "season_number": 22,
+      "vote_average": 1.1
+    },
+    {
+      "air_date": "2026-01-05",
+      "episode_count": 142,
+      "id": 492037,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/wG4e3leA8pSx745WxvlZD432gZ2.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4.902,
+  "vote_count": 92,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 54772,
+        "known_for_department": "Acting",
+        "name": "أندي كوهن",
+        "original_name": "Andy Cohen",
+        "popularity": 1.8696,
+        "profile_path": "/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg",
+        "character": "Self - Host",
+        "credit_id": "58f431579251413d7201b5c6",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 122
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 74
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 48
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 24
+          },
+          {
+            "logo_path": "/iyXO5Abg68XdO00nTzXcC1YD7mf.png",
+            "provider_id": 2171,
+            "provider_name": "Citytvplus Amazon Channel",
+            "display_priority": 113
+          },
+          {
+            "logo_path": "/cpTEoKdYe8z2exgnhKfHPXa8oPq.png",
+            "provider_id": 1985,
+            "provider_name": "Citytvplus",
+            "display_priority": 121
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 179
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 36
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 42
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 34
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 49
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 61
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 53
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/7j9bf0UmdxxmZtPsLggYLnGqrqS.png",
+            "provider_id": 296,
+            "provider_name": "Hayu Amazon Channel",
+            "display_priority": 52
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/22980-watch-what-happens-live-with-andy-cohen/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/a1UIdq5BrkcAxnxcUhFsNbXnxeu.png",
+            "provider_id": 386,
+            "provider_name": "Peacock Premium",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+            "provider_id": 79,
+            "provider_name": "NBC",
+            "display_priority": 48
+          },
+          {
+            "logo_path": "/8VIyhPVvdnmfpi4XCchb2qbbwwb.png",
+            "provider_id": 365,
+            "provider_name": "Bravo TV",
+            "display_priority": 98
+          },
+          {
+            "logo_path": "/yrEwyMzEKdqAoGhaWUARtIxByol.png",
+            "provider_id": 387,
+            "provider_name": "Peacock Premium Plus",
+            "display_priority": 214
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/geRNAmvuPF6hOLExMHLKpt7bGBD.png",
+            "provider_id": 79,
+            "provider_name": "NBC",
+            "display_priority": 48
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/wz1puyMeYyMWOTOmSGr0v5od0T.jpg",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "id": 58509,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Love You, Mean It with Whitney Cummings",
+        "overview": "",
+        "popularity": 1.5316,
+        "poster_path": "/dvDsG7Z6qGzfuLB2KZhuGBONYoq.jpg",
+        "first_air_date": "2012-11-28",
+        "softcore": false,
+        "name": "Love You, Mean It with Whitney Cummings",
+        "vote_average": 5.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10767
+        ],
+        "id": 319,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Tony Danza Show",
+        "overview": "",
+        "popularity": 18.126,
+        "poster_path": null,
+        "first_air_date": "2004-09-13",
+        "softcore": false,
+        "name": "The Tony Danza Show",
+        "vote_average": 6.375,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 259,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Kumars at No. 42",
+        "overview": "",
+        "popularity": 3.8539,
+        "poster_path": "/5Z6pXON261ErRf4ndVewEpGe0Uy.jpg",
+        "first_air_date": "2001-11-12",
+        "softcore": false,
+        "name": "The Kumars at No. 42",
+        "vote_average": 6,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10767
+        ],
+        "id": 28585,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Terry Wogan's Friday Night",
+        "overview": "",
+        "popularity": 3.1578,
+        "poster_path": null,
+        "first_air_date": "1992-10-09",
+        "softcore": false,
+        "name": "Terry Wogan's Friday Night",
+        "vote_average": 6.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ppwW0bAMRqEMrgu248dfEHjzNbY.jpg",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "id": 231,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Soup",
+        "overview": "",
+        "popularity": 27.1784,
+        "poster_path": "/kUCMWgkia4jnGUmbQkHpk9L95VK.jpg",
+        "first_air_date": "2004-07-01",
+        "softcore": false,
+        "name": "The Soup",
+        "vote_average": 6.313,
+        "vote_count": 32
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10767
+        ],
+        "id": 58602,
+        "origin_country": [
+          "IE"
+        ],
+        "original_language": "en",
+        "original_name": "Lifelines",
+        "overview": "",
+        "popularity": 0.4775,
+        "poster_path": null,
+        "first_air_date": "1993-06-18",
+        "softcore": false,
+        "name": "Lifelines",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aRF4dIryY94gw3O9Cln7vEQ97nQ.jpg",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "id": 275145,
+        "origin_country": [
+          "RU"
+        ],
+        "original_language": "ru",
+        "original_name": "Шоу Воли",
+        "overview": "",
+        "popularity": 11.7432,
+        "poster_path": "/oWcnKSpnYFfCpqItJSUK0oOJFmk.jpg",
+        "first_air_date": "2023-04-16",
+        "softcore": false,
+        "name": "Шоу Воли",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gxLSVFRRtotmgpWLMAQ55Bnu3uD.jpg",
+        "genre_ids": [
+          10767
+        ],
+        "id": 275195,
+        "origin_country": [
+          "ZA"
+        ],
+        "original_language": "af",
+        "original_name": "Die Tollie & Manila Show",
+        "overview": "",
+        "popularity": 1.786,
+        "poster_path": "/twCzqZgMiQ11o25uNfAxMcP30Aw.jpg",
+        "first_air_date": "2024-11-04",
+        "softcore": false,
+        "name": "Die Tollie & Manila Show",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3jMCaxKK4r5A5gu196dCCrk5d6X.jpg",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "id": 562,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Ellen DeGeneres Show",
+        "overview": "",
+        "popularity": 37.5867,
+        "poster_path": "/PhUYIGUUk1RzWq2Aw3TqH65McE.jpg",
+        "first_air_date": "2003-09-08",
+        "softcore": false,
+        "name": "The Ellen DeGeneres Show",
+        "vote_average": 5.587,
+        "vote_count": 179
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10767
+        ],
+        "id": 59021,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Nikki & Sara Live",
+        "overview": "",
+        "popularity": 1.1338,
+        "poster_path": null,
+        "first_air_date": "2013-01-29",
+        "softcore": false,
+        "name": "Nikki & Sara Live",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2dXIL3sZ9TmR3nxaEfZmhouuSbF.jpg",
+        "genre_ids": [
+          10767,
+          10763
+        ],
+        "id": 519,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Larry King Live",
+        "overview": "",
+        "popularity": 3.9295,
+        "poster_path": "/bjBePP4oQdyVWzsVp168WsoiRDm.jpg",
+        "first_air_date": "1985-06-03",
+        "softcore": false,
+        "name": "Larry King Live",
+        "vote_average": 5.2,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 58976,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Chris Gethard Show: Public Access",
+        "overview": "",
+        "popularity": 7.6819,
+        "poster_path": "/wHGirPRGPWn2ZsoUHScqQSMoEaz.jpg",
+        "first_air_date": "2011-06-22",
+        "softcore": false,
+        "name": "The Chris Gethard Show: Public Access",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ip4TNLbBZylLENlYvE1Z8NtiEKB.jpg",
+        "genre_ids": [
+          10767
+        ],
+        "id": 124766,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Face to Grace",
+        "overview": "",
+        "popularity": 1.26,
+        "poster_path": null,
+        "first_air_date": "2018-09-26",
+        "softcore": false,
+        "name": "Face to Grace",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/intKGqIazYkIgQAvF9H61Dotgiq.jpg",
+        "genre_ids": [
+          10767
+        ],
+        "id": 724,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Oprah Winfrey Show",
+        "overview": "",
+        "popularity": 1.8756,
+        "poster_path": "/tY1qqz4dfSreH9rjkW7fqug6ifX.jpg",
+        "first_air_date": "1986-09-08",
+        "softcore": false,
+        "name": "The Oprah Winfrey Show",
+        "vote_average": 3.9,
+        "vote_count": 51
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bJtIv11qBOE0yxssf5Yj80CYnz4.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 802,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "TV Heaven, Telly Hell",
+        "overview": "",
+        "popularity": 1.5278,
+        "poster_path": "/3Rgt8xAeDP8PhAol2twIuknBbTN.jpg",
+        "first_air_date": "2006-03-26",
+        "softcore": false,
+        "name": "TV Heaven, Telly Hell",
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4mLCvXAhrlpEhUXjZC1fBnQtayZ.jpg",
+        "genre_ids": [
+          99,
+          10767
+        ],
+        "id": 59225,
+        "origin_country": [],
+        "original_language": "en",
+        "original_name": "Flick Flack",
+        "overview": "",
+        "popularity": 2.1058,
+        "poster_path": "/1mXtts6qTqDxEjZKI84xHx7Z09q.jpg",
+        "first_air_date": "1974-01-07",
+        "softcore": false,
+        "name": "Flick Flack",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9GbnI3EzZLGkKYbI1dw27vLBJks.jpg",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "id": 999,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Best Week Ever",
+        "overview": "",
+        "popularity": 14.937,
+        "poster_path": "/jSdiH87vkxM0aXTvkaOOvtIHYCg.jpg",
+        "first_air_date": "2004-01-23",
+        "softcore": false,
+        "name": "Best Week Ever",
+        "vote_average": 5.9,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10767
+        ],
+        "id": 871,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Betty White Show",
+        "overview": "",
+        "popularity": 0.6563,
+        "poster_path": null,
+        "first_air_date": "1954-02-08",
+        "softcore": false,
+        "name": "The Betty White Show",
+        "vote_average": 7.75,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xQTT4mTaE4GeaZT6HkhovGZRpot.jpg",
+        "genre_ids": [
+          10767,
+          10764
+        ],
+        "id": 238950,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "TCKs",
+        "overview": "",
+        "popularity": 1.6764,
+        "poster_path": "/zNuSZTPSalvZoddPtA49QUE6mwS.jpg",
+        "first_air_date": "2021-04-23",
+        "softcore": false,
+        "name": "TCKs",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qQQoAGsoPBncomMCWjwWrv1yBjj.jpg",
+        "genre_ids": [
+          35,
+          10764,
+          10767
+        ],
+        "id": 207530,
+        "origin_country": [
+          "BG"
+        ],
+        "original_language": "bg",
+        "original_name": "Шоуто на Николаос Цитиридис",
+        "overview": "",
+        "popularity": 0.6167,
+        "poster_path": "/dLez4PIWZBnkpN4rvg71gTe1Kcg.jpg",
+        "first_air_date": "2020-01-27",
+        "softcore": false,
+        "name": "Шоуто на Николаос Цитиридис",
+        "vote_average": 5.5,
+        "vote_count": 2
+      }
+    ],
+    "total_pages": 1856,
+    "total_results": 37111
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/q9unI9oHyLUNK97RQPYAGjFs4Xu.jpg",
+        "id": 4573,
+        "name": "Late Night with Conan O'Brien",
+        "original_name": "Late Night with Conan O'Brien",
+        "overview": "Stepping into the late-late slot vacated by David Letterman, Conan O'Brien stars in a show that far outdoes its competition in sheer strangeness. Along with the celebrity interviews and musical numbers typical of late-night talk shows, this program make frequent use of odd walk-on characters and frequent \"visits\" from celebrity guests.",
+        "poster_path": "/gJZ1rhLLFpatuAeylJoUI82DKC7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 53.3201,
+        "first_air_date": "1993-09-13",
+        "softcore": false,
+        "vote_average": 7.306,
+        "vote_count": 165,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ter4f3edK6YTlTQzR1wWZiQtj1x.jpg",
+        "id": 77076,
+        "name": "The Joel McHale Show with Joel McHale",
+        "original_name": "The Joel McHale Show with Joel McHale",
+        "overview": "Trending news, pop culture, social media, original videos and more come together in host Joel McHale's weekly comedy commentary show.",
+        "poster_path": "/xKcjHKJzaiMn1viUhMvQlYntQWL.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 5.872,
+        "first_air_date": "2018-02-18",
+        "softcore": false,
+        "vote_average": 6.058,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 4787,
+        "name": "Comedy Central Presents",
+        "original_name": "Comedy Central Presents",
+        "overview": "These half-hour specials showcased some of the best up-and-coming comedians of the moment. The show was a pivotal stepping stone for many of today's stand-up stars.",
+        "poster_path": "/223LsiI29uOQpdN32QdeMTfmB5R.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 15.1004,
+        "first_air_date": "1998-12-01",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 33,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7oX1mr71ymBEJOBSDS5UZQDrhng.jpg",
+        "id": 76178,
+        "name": "My Next Guest Needs No Introduction with David Letterman",
+        "original_name": "My Next Guest Needs No Introduction with David Letterman",
+        "overview": "Late-night TV legend David Letterman hosts an intimate talk show featuring insightful conversations and fun-filled excursions with notable figures.",
+        "poster_path": "/5dObN91CjQPUhgQoEMbpmLTtxc8.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 5.3316,
+        "first_air_date": "2018-01-12",
+        "softcore": false,
+        "vote_average": 7.046,
+        "vote_count": 76,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8vYTfxycZuEed087aFlyiGojYJd.jpg",
+        "id": 82193,
+        "name": "Norm Macdonald Has a Show",
+        "original_name": "Norm Macdonald Has a Show",
+        "overview": "Building on their original talk show, comedian Norm Macdonald and sidekick Adam Eget sit down and chat with celebrity guests about their life, career and views in a somewhat unconventional and often irreverent way.",
+        "poster_path": "/99RcaUmpgdXqbEXmhyPTWCFbm8K.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 4.0707,
+        "first_air_date": "2018-09-14",
+        "softcore": false,
+        "vote_average": 8.179,
+        "vote_count": 39,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6ZBGjgnY6IEcMiWdKHHCDCfnOd.jpg",
+        "id": 72025,
+        "name": "The Jim Jefferies Show",
+        "original_name": "The Jim Jefferies Show",
+        "overview": "Each week, Jefferies tackles the week’s top stories from behind his desk and travels the globe to far-off locations to provide an eye opening look at hypocrisy around the world. Featuring interviews, international field pieces, and man on the ground investigations, Jim tackles the news of the day with no-bulls**t candor, piercing insight and a uniquely Aussie viewpoint.",
+        "poster_path": "/oGBUMBbBFlzFH41TADyFpkZbPWw.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 8.1294,
+        "first_air_date": "2017-06-06",
+        "softcore": false,
+        "vote_average": 6.638,
+        "vote_count": 47,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/37v0WURfK4QLT5DfLzypLsjcLOA.jpg",
+        "id": 1915,
+        "name": "The Larry Sanders Show",
+        "original_name": "The Larry Sanders Show",
+        "overview": "Comic Garry Shandling draws upon his own talk show experiences to create the character of Larry Sanders, a paranoid, insecure host of a late night talk show. Larry, along with his obsequious TV sidekick Hank Kingsley and his fiercely protective producer Artie, allows Garry Shandling and his talented writers to look behind the scenes and to show us a convincing slice of behind the camera life.",
+        "poster_path": "/uAYwC1jnIgwjaIAhy4SE9nnRgwN.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 36.869,
+        "first_air_date": "1992-08-15",
+        "softcore": false,
+        "vote_average": 7.704,
+        "vote_count": 93,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yQDsMnXoBjNl6x6rfwAeITNcLKy.jpg",
+        "id": 59717,
+        "name": "Comedians in Cars Getting Coffee",
+        "original_name": "Comedians in Cars Getting Coffee",
+        "overview": "Jerry takes his comedy pals out for coffee in a selection of his classic automobiles. Larry David sums it up best when he says, 'You've finally made a show about nothing.'",
+        "poster_path": "/hpK5MsFa7k7RQdClvRglBo0wAoT.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 11.6167,
+        "first_air_date": "2012-07-19",
+        "softcore": false,
+        "vote_average": 7.09,
+        "vote_count": 184,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jtwWiskjpvuAYIq6jhuSwb16k1Q.jpg",
+        "id": 42021,
+        "name": "Talking Dead",
+        "original_name": "Talking Dead",
+        "overview": "Host Chris Hardwick discusses episodes of the AMC television series The Walking Dead with guests, including celebrity fans, cast members, and crew from the series.",
+        "poster_path": "/wEsDfVvYNsAgmJeynSQGuLKyhcJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 16.0612,
+        "first_air_date": "2011-10-16",
+        "softcore": false,
+        "vote_average": 7.21,
+        "vote_count": 62,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yhsQvMJSYAku5AgHTuTXrNHx16r.jpg",
+        "id": 75127,
+        "name": "UNHhhh",
+        "original_name": "UNHhhh",
+        "overview": "RuPaul's Drag Race season 7 queens Katya Zamolodchikova and Trixie Mattel in 'UNHhhh.' It's a show about nothing, and yet it's about everything.",
+        "poster_path": "/k6vsQiQS3isEcOvVZGUPgihdETg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767,
+          35
+        ],
+        "popularity": 11.065,
+        "first_air_date": "2016-03-25",
+        "softcore": false,
+        "vote_average": 8.273,
+        "vote_count": 22,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1P5jytV6vMT70ZVa8Zff4qulxoA.jpg",
+        "id": 87058,
+        "name": "This Time with Alan Partridge",
+        "original_name": "This Time with Alan Partridge",
+        "overview": "Alan is handed a career lifeline - the chance to stand in as co-host on This Time, a weekday magazine show. But can he capitalise on the opportunity?",
+        "poster_path": "/nbMIrXFKCNyuOTRN3TA7YlHtWw7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 4.7851,
+        "first_air_date": "2019-02-25",
+        "softcore": false,
+        "vote_average": 7.766,
+        "vote_count": 47,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q8SnrVhqbB8P2vb1ok70yhpDlpL.jpg",
+        "id": 5580,
+        "name": "The Man Show",
+        "original_name": "The Man Show",
+        "overview": "The Man Show is an American comedy television show on Comedy Central. It was created in 1999 by its two original co-hosts, Jimmy Kimmel and Adam Carolla, and their executive producer Daniel Kellison.",
+        "poster_path": "/jjBnTzDJzXnQ9PzwLHGFNp9ykMA.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 14.1844,
+        "first_air_date": "1999-06-15",
+        "softcore": false,
+        "vote_average": 6.093,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hqzle7QIKvk8PvIMcK1gh9waOH4.jpg",
+        "id": 1229,
+        "name": "Tim and Eric Awesome Show, Great Job!",
+        "original_name": "Tim and Eric Awesome Show, Great Job!",
+        "overview": "Tim and Eric Awesome Show, Great Job! is an American sketch comedy television series, created by and starring Tim Heidecker and Eric Wareheim, which premiered February 11, 2007 on Cartoon Network's Adult Swim comedy block and ran until May 2010. The program features surrealistic and often satirical humor, public-access television–style musical acts, bizarre faux-commercials, and editing and special effects chosen to make the show appear camp.\n\nThe program featured a wide range of actors, spanning from stars such as Will Ferrell, John C. Reilly, David Cross, Bob Odenkirk, Will Forte and Zach Galifianakis, to alternative comedians like Neil Hamburger, to television actors like Alan Thicke, celebrity look-alikes and impressionists.\n\nThe creators of the show have described it as \"the nightmare version of television.\"",
+        "poster_path": "/1dzPN5M6BbT44CTMaXqqkIdhOWK.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 18.596,
+        "first_air_date": "2007-02-11",
+        "softcore": false,
+        "vote_average": 7.196,
+        "vote_count": 102,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uXcPWOgj6RGphspYiIau44obMsJ.jpg",
+        "id": 90877,
+        "name": "A Black Lady Sketch Show",
+        "original_name": "A Black Lady Sketch Show",
+        "overview": "A narrative series set in a limitless magical reality full of dynamic, hilarious characters and celebrity guests presenting sketches performed by a core cast of black women.",
+        "poster_path": "/sf1BjG7dZGqJCSwEt25v2lzjqVr.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.5378,
+        "first_air_date": "2019-08-02",
+        "softcore": false,
+        "vote_average": 7.076,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5xGt8gdGOvcYcoHlhw4g9Y14riz.jpg",
+        "id": 76345,
+        "name": "On Cinema",
+        "original_name": "On Cinema",
+        "overview": "Tim Heidecker reviews the latest movies in theaters with a special guest.",
+        "poster_path": "/4TDQEYCS8HmvY7d8udmeS2ILqFl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 72.3654,
+        "first_air_date": "2012-12-04",
+        "softcore": false,
+        "vote_average": 8.357,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bYx97fcrrAQOJldXdKW4iXCsHsl.jpg",
+        "id": 56590,
+        "name": "The Eric Andre Show",
+        "original_name": "The Eric Andre Show",
+        "overview": "A comedic talk show from an alternate reality featuring unstable hosts, a variety of celebrities—both real and fake—and unusual studio action.",
+        "poster_path": "/mXmZJy8AtOF5s5SMW3WfAVxYG7V.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 15.0799,
+        "first_air_date": "2012-05-20",
+        "softcore": false,
+        "vote_average": 7.895,
+        "vote_count": 172,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/m67I7sJNdmvOGs3I6EPdVSaQhl7.jpg",
+        "id": 713,
+        "name": "Chappelle's Show",
+        "original_name": "Chappelle's Show",
+        "overview": "Dave Chappelle's singular point of view is unleashed through a combination of laidback stand-up and street-smart sketches.",
+        "poster_path": "/aHpTmNU2wLHokoVpzcnh2VQBJOI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 8.2911,
+        "first_air_date": "2003-01-22",
+        "softcore": false,
+        "vote_average": 8.109,
+        "vote_count": 449,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6OkpAR1IWKYe8bJPt1FVCtcPB7T.jpg",
+        "id": 1551,
+        "name": "The Kids in the Hall",
+        "original_name": "The Kids in the Hall",
+        "overview": "The Kids in the Hall is a Canadian sketch comedy group formed in 1984, consisting of comedians Dave Foley, Kevin McDonald, Bruce McCulloch, Mark McKinney, and Scott Thompson.",
+        "poster_path": "/2dNiB88EBv64V9rcicXwNGQosJW.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 11.2506,
+        "first_air_date": "1989-10-24",
+        "softcore": false,
+        "vote_average": 7.564,
+        "vote_count": 102,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vQwKpCOG2MM4F6dFCvxkzb1Pz1K.jpg",
+        "id": 62238,
+        "name": "Blunt Talk",
+        "original_name": "Blunt Talk",
+        "overview": "A British newscaster moves to Los Angeles with his alcoholic manservant and the baggage of several failed marriages to host a sanctimonious talk show.",
+        "poster_path": "/n4in78wNjE5yRkJdL3K1kKbq8LB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 5.6706,
+        "first_air_date": "2015-08-22",
+        "softcore": false,
+        "vote_average": 6.686,
+        "vote_count": 59,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/njEGYHyq58q94ZPJlSGs6bGrepv.jpg",
+        "id": 4419,
+        "name": "وقت حقيقي مع بيل ماهر",
+        "original_name": "Real Time with Bill Maher",
+        "overview": "كل أسبوع، يحيط بنفسه بفريق ضيوف يتضمن سياسيين وممثلين وكوميديين وموسيقيين وغيرهم، يناقشون أحداث العالم.",
+        "poster_path": "/pbpoLLp4kvnYVfnEGiEhagpJuVZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10767
+        ],
+        "popularity": 101.8127,
+        "first_air_date": "2003-02-21",
+        "softcore": false,
+        "vote_average": 6.026,
+        "vote_count": 246,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 22,
+    "total_results": 429
+  }
+}

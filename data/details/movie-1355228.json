@@ -1,0 +1,2535 @@
+{
+  "adult": false,
+  "backdrop_path": "/sT5WVT8LzvDwIbfy9BGXK0fvf3s.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 53,
+      "name": "إثارة"
+    }
+  ],
+  "homepage": "",
+  "id": 1355228,
+  "imdb_id": "tt33354945",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "गांधारी",
+  "overview": "",
+  "popularity": 72.3274,
+  "poster_path": "/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+  "production_companies": [
+    {
+      "id": 203515,
+      "logo_path": "/1DQUdR4QgcKQE8avIipnGzxe6Qj.png",
+      "name": "Kathha Pictures",
+      "origin_country": "IN"
+    },
+    {
+      "id": 157345,
+      "logo_path": "/lZx0WzlB00ZpuFZ8qUva0NmzWcP.png",
+      "name": "Outsiders Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2026-09-03",
+  "revenue": 0,
+  "runtime": 117,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "गांधारी",
+  "video": false,
+  "vote_average": 4.929,
+  "vote_count": 7,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 550167,
+        "known_for_department": "Acting",
+        "name": "Taapsee Pannu",
+        "original_name": "Taapsee Pannu",
+        "popularity": 1.5461,
+        "profile_path": "/43e24aeOC8AZITo6ShaKKG9aV0Y.jpg",
+        "cast_id": 1,
+        "character": "Bani",
+        "credit_id": "66e139a2000000000042bedc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1424750,
+        "known_for_department": "Acting",
+        "name": "Ishwak Singh",
+        "original_name": "Ishwak Singh",
+        "popularity": 1.0252,
+        "profile_path": "/iN1QUGzN7c4qBps3xpuWYVzpMag.jpg",
+        "cast_id": 3,
+        "character": "Gokul",
+        "credit_id": "678d058b1afc346467651e4e",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1140663,
+        "known_for_department": "Acting",
+        "name": "Mita Vashisht",
+        "original_name": "Mita Vashisht",
+        "popularity": 1.0397,
+        "profile_path": "/mcnaQTCmuz3lXNotFFdkwCO7FTY.jpg",
+        "cast_id": 7,
+        "character": "",
+        "credit_id": "69dcb1484aa06dee573588ea",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1144344,
+        "known_for_department": "Acting",
+        "name": "Swastika Mukherjee",
+        "original_name": "Swastika Mukherjee",
+        "popularity": 1.1939,
+        "profile_path": "/xjEdXwco3KjWU7zFDhJgMJYmerh.jpg",
+        "cast_id": 5,
+        "character": "",
+        "credit_id": "69dcb1354efe490de69b8887",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1550351,
+        "known_for_department": "Acting",
+        "name": "छाया कदम",
+        "original_name": "छाया कदम",
+        "popularity": 1.2376,
+        "profile_path": "/umOPkpPA4JUWLkVziYU5GF6gELD.jpg",
+        "cast_id": 6,
+        "character": "",
+        "credit_id": "69dcb14184cd8797091d9e42",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1529105,
+        "known_for_department": "Acting",
+        "name": "Jatin Sarna",
+        "original_name": "Jatin Sarna",
+        "popularity": 1.3751,
+        "profile_path": "/bnKqppKcRxSiEPiq2Fmbriibf5N.jpg",
+        "cast_id": 8,
+        "character": "",
+        "credit_id": "69dcb150ef7501e5271da17e",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 129320,
+        "known_for_department": "Acting",
+        "name": "Prashant Narayanan",
+        "original_name": "Prashant Narayanan",
+        "popularity": 0.8372,
+        "profile_path": "/wm0EzbLnwUBgyz0DjQsGWXViXEa.jpg",
+        "cast_id": 10,
+        "character": "",
+        "credit_id": "6a89c1b05583edadb18f206a",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2587938,
+        "known_for_department": "Acting",
+        "name": "Chandan Roy",
+        "original_name": "Chandan Roy",
+        "popularity": 0.9016,
+        "profile_path": "/2zIIonCsFrdcmmZD0g5YIaCPnQY.jpg",
+        "cast_id": 11,
+        "character": "",
+        "credit_id": "6a89c1bc683a7d1e9893780d",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2202721,
+        "known_for_department": "Acting",
+        "name": "Vishwanath Chatterjee",
+        "original_name": "Vishwanath Chatterjee",
+        "popularity": 0.8307,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "",
+        "credit_id": "6a89c1c7863cddf8c2937acc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4823353,
+        "known_for_department": "Acting",
+        "name": "Priti Shroff",
+        "original_name": "Priti Shroff",
+        "popularity": 0.3888,
+        "profile_path": null,
+        "cast_id": 13,
+        "character": "",
+        "credit_id": "6a89c1d04708bad10d389f39",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6429322,
+        "known_for_department": "Acting",
+        "name": "Myrah Shivan",
+        "original_name": "Myrah Shivan",
+        "popularity": 0.4377,
+        "profile_path": null,
+        "cast_id": 14,
+        "character": "",
+        "credit_id": "6a89c1dca58812c0bfa10f0d",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 547435,
+        "known_for_department": "Writing",
+        "name": "Kanika Dhillon",
+        "original_name": "Kanika Dhillon",
+        "popularity": 1.2399,
+        "profile_path": "/i7dcrVssTpUHrr56mvEQNVmRi3a.jpg",
+        "credit_id": "66e139ccc3ff8f97070815c8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1616912,
+        "known_for_department": "Directing",
+        "name": "Devashish Makhija",
+        "original_name": "Devashish Makhija",
+        "popularity": 0.6207,
+        "profile_path": "/xswkOMLOrK528hTIJZ00NgZK1Ko.jpg",
+        "credit_id": "698225f14b65a9ddcf4193b6",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 547435,
+        "known_for_department": "Writing",
+        "name": "Kanika Dhillon",
+        "original_name": "Kanika Dhillon",
+        "popularity": 1.2399,
+        "profile_path": "/i7dcrVssTpUHrr56mvEQNVmRi3a.jpg",
+        "credit_id": "69dcb163c219c3811d9b85c7",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1640345,
+        "known_for_department": "Camera",
+        "name": "Amit Roy",
+        "original_name": "Amit Roy",
+        "popularity": 0.5475,
+        "profile_path": null,
+        "credit_id": "6a90739fa81338849ea835ad",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 231570,
+        "known_for_department": "Production",
+        "name": "Vikesh Bhutani",
+        "original_name": "Vikesh Bhutani",
+        "popularity": 0.3931,
+        "profile_path": null,
+        "credit_id": "6a9073b1c72e77ecf7ce80ab",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5022430,
+        "known_for_department": "Crew",
+        "name": "Kunal Keswani",
+        "original_name": "Kunal Keswani",
+        "popularity": 0.3682,
+        "profile_path": null,
+        "credit_id": "6a9073e3a47aeeca9ba237f4",
+        "department": "Production",
+        "job": "Head of Production"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3639158,
+        "known_for_department": "Sound",
+        "name": "Shor Police",
+        "original_name": "Shor Police",
+        "popularity": 0.3062,
+        "profile_path": null,
+        "credit_id": "6a90744893e6507c80f7f34f",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1562506,
+        "known_for_department": "Sound",
+        "name": "Clinton Cerejo",
+        "original_name": "Clinton Cerejo",
+        "popularity": 0.4134,
+        "profile_path": null,
+        "credit_id": "6a9074536bc6144a90a237eb",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2391096,
+        "known_for_department": "Sound",
+        "name": "Bianca Gomes",
+        "original_name": "Bianca Gomes",
+        "popularity": 0.2828,
+        "profile_path": null,
+        "credit_id": "6a90745fe703112678d01b78",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1495603,
+        "known_for_department": "Writing",
+        "name": "Kausar Munir",
+        "original_name": "Kausar Munir",
+        "popularity": 0.6257,
+        "profile_path": "/7opGgmpEUXFmXJ5JiXnSfqvUNB4.jpg",
+        "credit_id": "6a90746f688f5ad3c8fc2c45",
+        "department": "Writing",
+        "job": "Lyricist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2119253,
+        "known_for_department": "Art",
+        "name": "Nikhil S Kovale",
+        "original_name": "Nikhil S Kovale",
+        "popularity": 0.3241,
+        "profile_path": null,
+        "credit_id": "6a907598948a0722b626682d",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5457812,
+        "known_for_department": "Art",
+        "name": "Apurva Bhagat",
+        "original_name": "Apurva Bhagat",
+        "popularity": 0.2699,
+        "profile_path": null,
+        "credit_id": "6a9076002198861c7854d8e7",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2985667,
+        "known_for_department": "Crew",
+        "name": "Rinku Bachan Singh",
+        "original_name": "Rinku Bachan Singh",
+        "popularity": 0.3204,
+        "profile_path": null,
+        "credit_id": "6a907669d6265df5856b21c8",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3165066,
+        "known_for_department": "Crew",
+        "name": "Riyaz Shaikh",
+        "original_name": "Riyaz Shaikh",
+        "popularity": 0.3905,
+        "profile_path": null,
+        "credit_id": "6a9076751aa896081e1fcdba",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3165068,
+        "known_for_department": "Crew",
+        "name": "Habib Sayed",
+        "original_name": "Habib Sayed",
+        "popularity": 0.4479,
+        "profile_path": null,
+        "credit_id": "6a907684eae57b2e9cecd145",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 234990,
+        "known_for_department": "Acting",
+        "name": "Brahim Achabbakhe",
+        "original_name": "Brahim Achabbakhe",
+        "popularity": 0.9358,
+        "profile_path": "/vmvgvldLCBOPASWJbrWcEcvDrAZ.jpg",
+        "credit_id": "6a90769cc2f1dbeea66582e8",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6430305,
+        "known_for_department": "Crew",
+        "name": "Annu Shaikh",
+        "original_name": "Annu Shaikh",
+        "popularity": 0.5609,
+        "profile_path": null,
+        "credit_id": "6a9076d6cd602bc620a835b2",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5022375,
+        "known_for_department": "Writing",
+        "name": "Anaya Mazumdar",
+        "original_name": "Anaya Mazumdar",
+        "popularity": 0.3457,
+        "profile_path": null,
+        "credit_id": "6a9077bef00bdc8cbd6b21de",
+        "department": "Writing",
+        "job": "Creative Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3951910,
+        "known_for_department": "Crew",
+        "name": "Rishabh Katyaayan",
+        "original_name": "Rishabh Katyaayan",
+        "popularity": 0.342,
+        "profile_path": null,
+        "credit_id": "6a9077d4fcd8dc25ff2cd0e7",
+        "department": "Production",
+        "job": "Post Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1708062,
+        "known_for_department": "Production",
+        "name": "Anmol Ahuja",
+        "original_name": "Anmol Ahuja",
+        "popularity": 0.6102,
+        "profile_path": null,
+        "credit_id": "6a9077ea268bfdbcad2cd105",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3728198,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ramesh Panda",
+        "original_name": "Ramesh Panda",
+        "popularity": 0.3236,
+        "profile_path": null,
+        "credit_id": "6a907800f0eb5afafba237fc",
+        "department": "Costume & Make-Up",
+        "job": "Makeup & Hair"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2119252,
+        "known_for_department": "Sound",
+        "name": "Kaamod Kharade",
+        "original_name": "Kaamod Kharade",
+        "popularity": 0.332,
+        "profile_path": null,
+        "credit_id": "6a90780e5a51cc6431ecd176",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3633522,
+        "known_for_department": "Editing",
+        "name": "Naman Arora",
+        "original_name": "Naman Arora",
+        "popularity": 0.5263,
+        "profile_path": null,
+        "credit_id": "6a907892260c6e509e6582ea",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2401157,
+        "known_for_department": "Editing",
+        "name": "Rajesh Pandey",
+        "original_name": "Rajesh Pandey",
+        "popularity": 0.4644,
+        "profile_path": null,
+        "credit_id": "6a9078a39cc5d94980485dbe",
+        "department": "Editing",
+        "job": "Supervising Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2074629,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Prashant Sawant",
+        "original_name": "Prashant Sawant",
+        "popularity": 0.2719,
+        "profile_path": null,
+        "credit_id": "6a9086060357dbca945cbbc6",
+        "department": "Costume & Make-Up",
+        "job": "Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3292521,
+        "known_for_department": "Sound",
+        "name": "Deepali Sahay",
+        "original_name": "Deepali Sahay",
+        "popularity": 0.2552,
+        "profile_path": null,
+        "credit_id": "6a909510d5ea1484aa5cbc5a",
+        "department": "Sound",
+        "job": "Playback Singer"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+        "id": 1387382,
+        "title": "موسم الصيد",
+        "original_title": "Hunting Season",
+        "overview": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive.",
+        "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18,
+          53
+        ],
+        "popularity": 12.8032,
+        "release_date": "2025-12-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 437
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3luwjhBo76a7swVxqfjcOh3e8tR.jpg",
+        "id": 74998,
+        "title": "Seeking Justice",
+        "original_title": "Seeking Justice",
+        "overview": "After his wife is assaulted, a husband enlists the services of a vigilante group to help him settle the score.",
+        "poster_path": "/fJCBxeeKLmxOG2TS4ewhalSb9ur.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18,
+          53
+        ],
+        "popularity": 5.3554,
+        "release_date": "2011-09-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.937,
+        "vote_count": 1127
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/feLcWM4lSq4fNSRZomeKVDBBOLK.jpg",
+        "id": 595743,
+        "title": "SAS: Red Notice",
+        "original_title": "SAS: Red Notice",
+        "overview": "تدور أحداث الفيلم حول جيش صغير من المجرمين المتدربين بقيادة لازلو يخطط لاختطاف طائرة يوروستار في أعماق القناة الإنجليوية، لتبدأ رحلة من المخاطر التي لا تنتهي .",
+        "poster_path": "/6Y9fl8tD1xtyUrOHV2MkCYTpzgi.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          28,
+          53
+        ],
+        "popularity": 5.5698,
+        "release_date": "2021-08-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.819,
+        "vote_count": 612
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6FbWhRR5B7OWVgzXuTkIFiaI2N3.jpg",
+        "id": 848123,
+        "title": "الموقع الأسود",
+        "original_title": "Black Site",
+        "overview": "داخل متاهة شديدة السرية، يقاتل مجموعة من الضباط من أجل النجاة بحياتهم من معتقل دموي للنجاح في الهروب، فتصبح حياتهم بمرور الوقت في خطر.",
+        "poster_path": "/ipn8khVVC4eToWiGf89WF9J5PJn.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80,
+          18
+        ],
+        "popularity": 5.1828,
+        "release_date": "2022-05-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 298
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i91YI9y3GS68rLNy6eKrH2NEzln.jpg",
+        "id": 1128546,
+        "title": "Barron's Cove",
+        "original_title": "Barron's Cove",
+        "overview": "When his young son is viciously murdered by a classmate, a grieving father with a history of violence kidnaps the child responsible, igniting a frenzied manhunt fueled by a powerful politician -- the father of the kidnapped boy.",
+        "poster_path": "/wo8qFjc2FLJdGg8FmnZeTxVBf7D.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "popularity": 3.2974,
+        "release_date": "2025-06-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.164,
+        "vote_count": 64
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+        "id": 628847,
+        "title": "بيت الفخ",
+        "original_title": "Trap House",
+        "overview": "ينطلق عميل سري في إدارة مكافحة المخدرات وشريكه في لعبة كر وفر مع مجموعة من اللصوص المراهقون المتمردون، حيث تشتعل الأمور حينما تبدأ العصابة في السرقة من عصابة خطيرة.",
+        "poster_path": "/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 11.0468,
+        "release_date": "2025-11-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.661,
+        "vote_count": 316
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pgVvGaqM77sQR90OeMMVNvQAxbg.jpg",
+        "id": 1146344,
+        "title": "Misdirection",
+        "original_title": "Misdirection",
+        "overview": "A desperate couple have pulled off a string of high-end break-ins to pay off a mob debt. When they attempt to rob their latest victim, they find themselves caught in a deadly game of cat and mouse. The tables are turned and the hunters become the hunted.",
+        "poster_path": "/z7padnoIDHbmxPdqEHryhqlaVqc.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 5.2836,
+        "release_date": "2026-02-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.253,
+        "vote_count": 95
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ngrFnbtZjEvDvvbwLBHQ05kbt6Q.jpg",
+        "id": 435036,
+        "title": "A Crooked Somebody",
+        "original_title": "A Crooked Somebody",
+        "overview": "An attention-seeking psychic is kidnapped and tries to use the situation to boost his popularity.",
+        "poster_path": "/sMi0sz3qnj2xBdT0tfHlqnw5zIh.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          53,
+          80
+        ],
+        "popularity": 2.9737,
+        "release_date": "2018-10-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.308,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pfcyWSaPKGagqdunfBXQYCqZHxx.jpg",
+        "id": 1339876,
+        "title": "Mardaani 3",
+        "original_title": "मर्दानी 3",
+        "overview": "Officer Shivani Shivaji Roy returns to hunt down those behind the disappearance of young girls, risking everything to bring them back alive.",
+        "poster_path": "/dHxLBtHw4InwsVumnthupZYz6NM.jpg",
+        "media_type": "movie",
+        "original_language": "hi",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 6.0874,
+        "release_date": "2026-01-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.6,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iVytJHJmbAQ5wnPCbYYAt4xZqR6.jpg",
+        "id": 1024627,
+        "title": "النظام",
+        "original_title": "The System",
+        "overview": "عندما يتورط جندي شاب ، عاد حديثا من الحرب ، في تمثال نصفي للمخدرات ، يتم تجنيده من قبل السلطات للتخفي في سجن خطير للغاية من أجل معرفة ما يجري حقا.",
+        "poster_path": "/uj6BjK7OXSCDhg0AjC2duL34vwQ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 3.2292,
+        "release_date": "2022-10-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.209,
+        "vote_count": 153
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zQXo8qMCd0Oial7Ped5746uHR7N.jpg",
+        "id": 127521,
+        "title": "6 Bullets",
+        "original_title": "6 Bullets",
+        "overview": "An ex-mercenary known for finding missing children is hired by a mixed martial arts fighter whose daughter has been kidnapped.",
+        "poster_path": "/7yEbEUrOsAS0d5DW1OqtvSpmRQv.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          28,
+          80
+        ],
+        "popularity": 4.24,
+        "release_date": "2012-09-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.276,
+        "vote_count": 417
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/10NS0wKi2kKDTzMQIBV7TTMlxDP.jpg",
+        "id": 695282,
+        "title": "استعده",
+        "original_title": "Take Back",
+        "overview": "تعيش زهراء (جيليان وايت) وبريان (مايكل جاي وايت) حياة البلدة الصغيرة المثالية عندما يقوم شخص غريب غامض من الماضي السري لزهراء باختطاف ابنتهما والآن يتعين عليهم التسابق لإنقاذ حياتها.",
+        "poster_path": "/16JXKkATNiSKouOhxyg9lkHBag9.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "popularity": 2.6112,
+        "release_date": "2021-06-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.9,
+        "vote_count": 72
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nExUHyCBfZFwklyOIStWoj6b7JC.jpg",
+        "id": 999205,
+        "title": "Stowaway",
+        "original_title": "Stowaway",
+        "overview": "فتاة حفلة عنيدة تقاتل من أجل البقاء على قيد الحياة بعد أن استولى ثلاثة لصوص على يختها الفاخر. غير قادرة على الهروب ومحاصرة على متن اليخت في أعالي البحار ، تصبح من الفريسة  الى صياد لأنها تقلب الطاولة على المتسللين",
+        "poster_path": "/8ZfKo5349nEssW0n2wqNf4vPtbZ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          9648,
+          53
+        ],
+        "popularity": 2.4043,
+        "release_date": "2022-08-31",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 107
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tCQfubckzzcuCbsGugkpLhfjS5z.jpg",
+        "id": 970347,
+        "title": "The Killer",
+        "original_title": "The Killer",
+        "overview": "يتبع العمل قصة القاتلة (زي) والتي تُعرف في عالم الجريمة باسم ملكة الموتى، حيث ترفض مهمة قتل امرأة ضريرة في باريس، ويترتب على قرارها العديد من الصراعات التي تلقي بظلالها على حياة (زي).",
+        "poster_path": "/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "popularity": 7.5136,
+        "release_date": "2024-08-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.284,
+        "vote_count": 615
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qcDDn7WeKBenM4nLlOPXAeJ4hpg.jpg",
+        "id": 1280450,
+        "title": "الفتاة المسروقة",
+        "original_title": "Stolen Girl",
+        "overview": "في عام ١٩٩٣، قام كريم، الزوج السابق لمورين، بتهريب ابنتهما أمينة البالغة من العمر ست سنوات إلى خارج البلاد. وبعد سنوات من المحاولات الفاشلة للعثور عليها، تلتقي مورين بمتخصص في استعادة الأطفال المختطفين دولياً، والذي يعد بمساعدتها في العثور على أمينة مقابل تعاونها معه.",
+        "poster_path": "/njU663VbT88zZjsJYizfWcam6sS.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          28,
+          12
+        ],
+        "popularity": 8.4047,
+        "release_date": "2025-09-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.359,
+        "vote_count": 202
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z439MV4UMYubDX0MMo6yfdhadsK.jpg",
+        "id": 32049,
+        "title": "Best of the Best 2",
+        "original_title": "Best of the Best 2",
+        "overview": "In an underground fight club, blackbelt Travis Brickley is killed after losing to the evil martial arts master Brakus. Travis' death is witnessed by Walter Grady, the son of his best friend Alex Grady. Alex and his partner, Tommy Lee, vow to avenge their friend's death by defeating Brakus and shutting down the fight club.",
+        "poster_path": "/vCVKYnyZKmd2nSwfQhPHSeNbwFF.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80,
+          18
+        ],
+        "popularity": 3.6701,
+        "release_date": "1993-03-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.989,
+        "vote_count": 183
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vVX3rJ9GKlAaWrxZeloPnKpKbIu.jpg",
+        "id": 1020662,
+        "title": "Inside Man",
+        "original_title": "Inside Man",
+        "overview": "Based on true events. A disgraced police detective seeking redemption goes undercover to expose a violent crime syndicate. But as he sinks deeper into the mob, the price for absolution may be higher than he can afford.",
+        "poster_path": "/hIJ5QNIjQ2oILCNLBtbnS0Cmw9z.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53,
+          18
+        ],
+        "popularity": 3.4444,
+        "release_date": "2023-08-11",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.086,
+        "vote_count": 82
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aRd95psLUVBQcnBAu65qeBKcquq.jpg",
+        "id": 1007427,
+        "title": "قطار الليل",
+        "original_title": "Night Train",
+        "overview": "أم عازبة تكافح من أجل تغطية نفقاتها بينما تهرب عضوة فريق في هوليوود من القبض عليها من قبل وكيل مكتب التحقيقات الفيدرالي الذي لا يرحم أثناء تشغيل الإمدادات الطبية في السوق السوداء في شاحنتها الصغيرة الأسطورية.",
+        "poster_path": "/vKzdwficUcFNisOM5mN3XXXUzA6.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          80
+        ],
+        "popularity": 2.4694,
+        "release_date": "2023-01-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.85,
+        "vote_count": 50
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hD5F3Y98ksgjikInJoRsGD19efp.jpg",
+        "id": 48129,
+        "title": "Run",
+        "original_title": "Run",
+        "overview": "عندما يقتل طالب قانون عن طريق الخطأ ابن زعيم عصابة في شجار، يجد نفسه مطارداً بلا هوادة من قبل العصابة والشرطة",
+        "poster_path": "/w4sxXgXpALEDFexRZE9cb3j8bb2.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53,
+          18
+        ],
+        "popularity": 2.0369,
+        "release_date": "1991-02-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.022,
+        "vote_count": 68
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aSglK0vFI50etQENUq4EIcwfoMR.jpg",
+        "id": 808023,
+        "title": "الموهوب",
+        "original_title": "The Virtuoso",
+        "overview": "يجب على رجل وحيد وغريب تعقب قاتل لا يرحم بمعلومات قليلة عنه من أجل تسوية ديونه، ولكن سرعان ما تتعرض خطته للعديد من المفارقات حينما تتورط نساء في الأمر .",
+        "poster_path": "/ehqLZxi3mJJBjiFH2FeXDuugC9w.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          80,
+          28
+        ],
+        "popularity": 6.7475,
+        "release_date": "2021-04-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.935,
+        "vote_count": 452
+      }
+    ],
+    "total_pages": 29,
+    "total_results": 564
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 50
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BY": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 91
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CU": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=JP",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 25
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 27
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=LV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=MU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=PF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=UA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 151
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/movie/1355228/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    }
+  }
+}

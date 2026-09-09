@@ -1,0 +1,2977 @@
+{
+  "adult": false,
+  "backdrop_path": "/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+  "created_by": [
+    {
+      "id": 1235310,
+      "credit_id": "52575b4d19c29531db186270",
+      "name": "Jeff Davis",
+      "original_name": "Jeff Davis",
+      "gender": 2,
+      "profile_path": "/c3M3mdKxFM2uTKHSVapRhWs93kY.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-09-22",
+  "genres": [
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/shows/criminal_minds",
+  "id": 4057,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-07-23",
+  "last_episode_to_air": {
+    "id": 7166554,
+    "name": "الحلقة 10",
+    "overview": "",
+    "vote_average": 7.8,
+    "vote_count": 5,
+    "air_date": "2026-07-23",
+    "episode_number": 10,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 54,
+    "season_number": 19,
+    "show_id": 4057,
+    "still_path": "/eSbmOraqOcp0ElBeNWlAX6YpF07.jpg"
+  },
+  "name": "عقول اجرامية",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    },
+    {
+      "id": 4330,
+      "logo_path": "/fi83B1oztoS47xxcemFdPMhIzK.png",
+      "name": "Paramount+",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 364,
+  "number_of_seasons": 19,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Criminal Minds",
+  "overview": "يقوم نخبة من مكتب التحقيقات الفيدرالي (FBI) بتحليل العقول الإجرامية الأكثر التواءا في البلاد، بتوقع تحركاتهم التالية قبل أن يضربون مرة أخرى.",
+  "popularity": 199.6252,
+  "poster_path": "/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+  "production_companies": [
+    {
+      "id": 1558,
+      "logo_path": "/wwaKUcOENHix2jxLfFBfNkCtOEQ.png",
+      "name": "Touchstone Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1557,
+      "logo_path": "/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png",
+      "name": "The Mark Gordon Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 9223,
+      "logo_path": "/40qzTBM38vokoWhLKurficZ5syV.png",
+      "name": "Paramount Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 173121,
+      "logo_path": null,
+      "name": "Erica Messer Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 236613,
+      "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+      "name": "ABC Signature",
+      "origin_country": "US"
+    },
+    {
+      "id": 51848,
+      "logo_path": "/jmrRZgqHnYmJC4uePQI2sLijpSk.png",
+      "name": "Entertainment One Television",
+      "origin_country": "CA"
+    },
+    {
+      "id": 28523,
+      "logo_path": "/zzULw9w7d50BHR8fE30PZT3zJ1D.png",
+      "name": "Lionsgate Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 1,
+      "id": 485994,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-09-22",
+      "episode_count": 22,
+      "id": 12013,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/w7KYo8SDpI2joKEzxhzJMbluyeS.jpg",
+      "season_number": 1,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2006-09-20",
+      "episode_count": 23,
+      "id": 12014,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/5RkngSb1jo4DpFfTkxCdFGZtubO.jpg",
+      "season_number": 2,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2007-09-26",
+      "episode_count": 20,
+      "id": 12015,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/iAMSBqbzn6sL1n2b5KM1INlBqko.jpg",
+      "season_number": 3,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2008-09-24",
+      "episode_count": 26,
+      "id": 12012,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/yNZ2AJpahtcAytB5IYdLpRmiDsZ.jpg",
+      "season_number": 4,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2009-09-23",
+      "episode_count": 23,
+      "id": 12016,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/uq4zzJkJ3kGEdd2SoFoN4k8tkGl.jpg",
+      "season_number": 5,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2010-09-22",
+      "episode_count": 24,
+      "id": 12017,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/6vcbxnn5BDR1bxNUVByEShFNpNf.jpg",
+      "season_number": 6,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2011-09-21",
+      "episode_count": 24,
+      "id": 12019,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/3F83aqGQA8gliWPAR4pmS8UUcOJ.jpg",
+      "season_number": 7,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2012-09-26",
+      "episode_count": 24,
+      "id": 12020,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/x3iTTaUnnIs2sRmKW1l61LOvwLm.jpg",
+      "season_number": 8,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2013-09-25",
+      "episode_count": 24,
+      "id": 12021,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/dNL2tC2EDphFRV5nk0GfpvHXdP2.jpg",
+      "season_number": 9,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2014-10-01",
+      "episode_count": 23,
+      "id": 62052,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/4lGrSVKoCaSd3rj0ObErw9aZMhZ.jpg",
+      "season_number": 10,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2015-09-30",
+      "episode_count": 22,
+      "id": 70623,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/kKnmgCQCAiqnueSYeAtdhxRipAF.jpg",
+      "season_number": 11,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2016-09-28",
+      "episode_count": 22,
+      "id": 77046,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/AkPJTmMLMt9mYjDbU3cXRtVHXUC.jpg",
+      "season_number": 12,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2017-09-27",
+      "episode_count": 22,
+      "id": 93290,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/mf7o44gtDHZvbVWzvxxflCYFcKX.jpg",
+      "season_number": 13,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2018-10-03",
+      "episode_count": 15,
+      "id": 109662,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/sHcR0u81jydfWPCBjWLVk82llAT.jpg",
+      "season_number": 14,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2020-01-08",
+      "episode_count": 10,
+      "id": 122207,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/8GOVxAbq2cPd0rknDnFqODQNccs.jpg",
+      "season_number": 15,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2022-11-24",
+      "episode_count": 10,
+      "id": 315208,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/4R3NdjNPfA2RTIrFnvFmoP4KGZQ.jpg",
+      "season_number": 16,
+      "vote_average": 8.2
+    },
+    {
+      "air_date": "2024-06-06",
+      "episode_count": 10,
+      "id": 392125,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/8d8qAa4Gt5Rmx0efTB9hNtPh8j3.jpg",
+      "season_number": 17,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2025-05-08",
+      "episode_count": 10,
+      "id": 423090,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/gigxjNnACiXAfrwoMox5WJFgc0I.jpg",
+      "season_number": 18,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2026-05-28",
+      "episode_count": 10,
+      "id": 506824,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+      "season_number": 19,
+      "vote_average": 8.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.3,
+  "vote_count": 4164,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3266,
+        "known_for_department": "Acting",
+        "name": "Joe Mantegna",
+        "original_name": "Joe Mantegna",
+        "popularity": 2.7308,
+        "profile_path": "/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg",
+        "character": "David Rossi",
+        "credit_id": "52575b4c19c29531db186138",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 15423,
+        "known_for_department": "Acting",
+        "name": "Paget Brewster",
+        "original_name": "Paget Brewster",
+        "popularity": 2.577,
+        "profile_path": "/nq9ZuGPvzyfS8dOuPWTQUw7Igxg.jpg",
+        "character": "Emily Prentiss",
+        "credit_id": "52575b4c19c29531db186102",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 49706,
+        "known_for_department": "Acting",
+        "name": "Adam Rodriguez",
+        "original_name": "Adam Rodriguez",
+        "popularity": 2.0023,
+        "profile_path": "/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg",
+        "character": "Luke Alvez",
+        "credit_id": "586f450fc3a3686dc4000735",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 123727,
+        "known_for_department": "Acting",
+        "name": "Kirsten Vangsness",
+        "original_name": "Kirsten Vangsness",
+        "popularity": 1.4845,
+        "profile_path": "/davwWkIDqUoVF28YmSAqpvUUFuS.jpg",
+        "character": "Penelope Garcia",
+        "credit_id": "52575b4c19c29531db186098",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 17236,
+        "known_for_department": "Acting",
+        "name": "A.J. Cook",
+        "original_name": "A.J. Cook",
+        "popularity": 3.552,
+        "profile_path": "/tvEjGDQVuu7jiOvWXwEU6tEE7NW.jpg",
+        "character": "Jennifer Jareau",
+        "credit_id": "5431df83c3a3681143002b83",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 38674,
+        "known_for_department": "Acting",
+        "name": "عايشة تايلور",
+        "original_name": "Aisha Tyler",
+        "popularity": 2.2764,
+        "profile_path": "/gVvqznx4udJMgO86IbufADinfE9.jpg",
+        "character": "Dr. Tara Lewis",
+        "credit_id": "55f5c5f59251414f6d00183c",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70303,
+        "known_for_department": "Acting",
+        "name": "Zach Gilford",
+        "original_name": "Zach Gilford",
+        "popularity": 2.4979,
+        "profile_path": "/z7PA2poYtjl9KSy4S0IgW6d5Y9.jpg",
+        "character": "Elias Voit",
+        "credit_id": "63bfe57f8efe73009488c867",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1437574,
+        "known_for_department": "Acting",
+        "name": "Ryan-James Hatanaka",
+        "original_name": "Ryan-James Hatanaka",
+        "popularity": 1.1938,
+        "profile_path": "/7yBbtb5zCJyWq7gWPDCZR3kmWMh.jpg",
+        "character": "Tyler Green",
+        "credit_id": "63890339a410c8008cd69e68",
+        "order": 12
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316300,
+        "known_for_department": "Production",
+        "name": "Glenn Kershaw",
+        "original_name": "Glenn Kershaw",
+        "popularity": 0.7191,
+        "profile_path": "/ojhyUXd1Z9ItQGdV0hOjqqftB26.jpg",
+        "credit_id": "63648bbc336e01007a47421c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1228592,
+        "known_for_department": "Writing",
+        "name": "Erica Messer",
+        "original_name": "Erica Messer",
+        "popularity": 0.5067,
+        "profile_path": null,
+        "credit_id": "58df5a2dc3a3683cff0055be",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6048,
+        "known_for_department": "Production",
+        "name": "مارك غوردون",
+        "original_name": "Mark Gordon",
+        "popularity": 1.1237,
+        "profile_path": "/lATsud5NyaXaKE5p8H1kEkUsbWN.jpg",
+        "credit_id": "5ab7213f92514139610163b0",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/e014XdmeBhOsouYYRUzAY05dBKQ.jpg",
+        "id": 2651,
+        "name": "Profiler",
+        "original_name": "Profiler",
+        "overview": "Rachel Burke is a criminal profiler, one of the best, actually.\n\nShe, along with a sophisticated team of specialists on the FBI's Violent Crimes Task Force in Atlanta, investigates crimes throughout the country.\n\nTogether, they solve the toughest of cases while trying to live their lives as best they can.",
+        "poster_path": "/rZPFS2CRMZOy2LV4hE64KBxAbGg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 22.2687,
+        "first_air_date": "1996-09-21",
+        "softcore": false,
+        "vote_average": 7.034,
+        "vote_count": 74,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+        "id": 46952,
+        "name": "القائمة السوداء",
+        "original_name": "The Blacklist",
+        "overview": "ريموند ريدينغتون، عميل الحكومة السابق وأحد الهاربين المطلوبين من الإف بي آي، يسلم نفسه في مقر مكتب التحقيقات الفدرالي في العاصمة واشنطن. ويدعي أن الإف بي آي وهو لديهم نفس المصلحة في التخلص من مجرمين خطيرين وإرهابيين. ويقدم عرض لا يمكن للإف بي آي رفضه لكن تحت شرط واحد: ريدينغتون يتحدث فقط مع اليزابيث كين، تحليل الجاني إف بي آي مبتدئة. كين استجوبت ريدينغتون حول إهتمامه المفاجأ بها، لكن ريجنغتون يجيب بأنها مميزة جداً فقط. بعد أن استفادت الإف بي آي من معلومات ريدينغتون للقبض على إرهابي، ريدينغتون يكشف أن هذا الإرهابي هو واحد من عدة مجرمين سيساعد في القبض عليهم. من خلال ما عرفه خلال مسيرته الإجرامية، وضع قائمة بأسماء مجريمين يعتقد بأنهم خطرين، وأغلبهم لا يعرفهم الإف بي آي. ويسمي القائمة بـالقائمة السوداء.",
+        "poster_path": "/rEdj5QilkxWy9jykcl7ICdSmSQO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 112.2597,
+        "first_air_date": "2013-09-23",
+        "softcore": false,
+        "vote_average": 7.632,
+        "vote_count": 3702,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q5pHoCGndSOcedKDY5nSDIrtBBH.jpg",
+        "id": 4860,
+        "name": "Waking the Dead",
+        "original_name": "Waking the Dead",
+        "overview": "A detective team apply new techniques to old crimes as they solve cold cases.",
+        "poster_path": "/pthoQb9tOrM0gi43ZER4cOKgm8D.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 19.5839,
+        "first_air_date": "2001-06-18",
+        "softcore": false,
+        "vote_average": 7.217,
+        "vote_count": 45,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg",
+        "id": 287238,
+        "name": "الــثــائــرة",
+        "original_name": "Furious",
+        "overview": "تدور القصة حول عميلة في مكتب التحقيقات الفيدرالي (FBI) تُدعى أليس بلاك، تؤدي دورها إيمي روسوم، تنطلق في مطاردة قاتلة متسلسلة ذكية وغامضة تُدعى كاثرين. ومع تقدم الأحداث، تبدأ حياة المطاردة والمجرمة بالتشابك، ويصبح من الصعب التمييز بين الخير والشر والعدالة والانتقام",
+        "poster_path": "/hf3tdaDfpkCk4XWukWlk6vh3PAW.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 59.58,
+        "first_air_date": "2026-07-27",
+        "softcore": false,
+        "vote_average": 7.25,
+        "vote_count": 108,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
+        "id": 2458,
+        "name": "CSI: NY",
+        "original_name": "CSI: NY",
+        "overview": "Follow the investigations of a team of NYPD forensic scientists and police officers identified as \"Crime Scene Investigators\".",
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 58.0396,
+        "first_air_date": "2004-09-22",
+        "softcore": false,
+        "vote_average": 7.32,
+        "vote_count": 774,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nS5ZSmrX92lu1GYAlXZye1mkDfd.jpg",
+        "id": 1405,
+        "name": "دكستر",
+        "original_name": "Dexter",
+        "overview": "يعيش دكستر مورغان حياة مزدوجة في مدينة ميامي، حيث يعمل خبيرًا في تحليل أنماط الدم لدى الشرطة، بينما يخفي عن الجميع جانبًا مظلمًا من شخصيته. يستغل دكستر مهاراته وخبرته في التحقيق لتعقب القتلة والمجرمين الذين تمكنوا من الإفلات من العدالة، ثم يأخذ القانون بيده وفق قواعد صارمة وضعها له والده بالتبني. ومع استمراره في إخفاء جرائمه عن زملائه وأسرته، يجد دكستر نفسه أمام قتلة متسلسلين وأعداء يقتربون من كشف حقيقته، مما يهدد حياته السرية ويضعه في مواجهات خطيرة تختبر قدرته على السيطرة على جانبه المظلم.",
+        "poster_path": "/ivs37ueaO7jac4NXkfBRT9u3Say.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 134.6432,
+        "first_air_date": "2006-10-01",
+        "softcore": false,
+        "vote_average": 8.241,
+        "vote_count": 5825,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
+        "id": 1486,
+        "name": "21 Jump Street",
+        "original_name": "21 Jump Street",
+        "overview": "تدور أحداث مسلسل \"21 Jump Street\" حول مجموعة من رجال الشرطة الشباب الذين يستخدمون مظهرهم الشاب للتخفي وحل الجرائم التي تشمل المراهقين والشباب",
+        "poster_path": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 34.0052,
+        "first_air_date": "1987-04-12",
+        "softcore": false,
+        "vote_average": 7.27,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3BrydJp2XpdWevRbMP8ZZ0xJYrj.jpg",
+        "id": 92926,
+        "name": "Criminal: UK",
+        "original_name": "Criminal: UK",
+        "overview": "Within the walls of an interrogation room, London investigators question suspects accused of grievous crimes until the truth comes to light.",
+        "poster_path": "/xkfYO8qOqeCdXoHQGIK0aPTXDE9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 9.8641,
+        "first_air_date": "2019-09-20",
+        "softcore": false,
+        "vote_average": 7.218,
+        "vote_count": 259,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A2qdFRq9oJDC5E7fbgSS4POUMDF.jpg",
+        "id": 1426,
+        "name": "لوثر",
+        "original_name": "Luther",
+        "overview": "رجل يعاني من ماضيه الاسود، الذي قد يكون اخطر من القتلة الذي يطاردهم.",
+        "poster_path": "/hDxOMX8zzH1FiqKWVBzNaYGBkle.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 16.5511,
+        "first_air_date": "2010-05-04",
+        "softcore": false,
+        "vote_average": 7.859,
+        "vote_count": 1246,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+        "id": 58841,
+        "name": "شيكاغو بي.دي.",
+        "original_name": "Chicago P.D.",
+        "overview": "تدور أحداث المسلسل عن (مقاطعة 21) التي تجاور قسم شرطة (شيكاجو)، وهى المقاطعة التي تتألف من مجموعتين مختلفتين، الأولى منهما تتمثل في رجال شرطة بزيهم الرسمي، والثانية هي وحدة الاستخبارات.",
+        "poster_path": "/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 111.7367,
+        "first_air_date": "2014-01-08",
+        "softcore": false,
+        "vote_average": 8.424,
+        "vote_count": 2628,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5lyGqz3YiqpKNgS78xiZ4ImpB8w.jpg",
+        "id": 289560,
+        "name": "CIA",
+        "original_name": "CIA",
+        "overview": "When by-the-book FBI Special Agent Bill Goodman is loaned out to a clandestine CIA/FBI task force, he finds himself teamed up with secretive and roguish CIA case officer Colin Glass. Together they work covert operations in New York, uncovering international plots, terrorist cells, and geopolitical secrets.",
+        "poster_path": "/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 22.0174,
+        "first_air_date": "2026-02-23",
+        "softcore": false,
+        "vote_average": 8.607,
+        "vote_count": 122,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/24Kr67DhRIDalcRvarQeQ9650RI.jpg",
+        "id": 32200,
+        "name": "Criminal Minds: Suspect Behavior",
+        "original_name": "Criminal Minds: Suspect Behavior",
+        "overview": "Criminal Minds: Suspect Behavior was a short-lived American police procedural drama that aired on CBS. The show debuted in 2011 as a spin-off from the successful Criminal Minds, which had premiered in 2005. This edition's profiling team also worked for the Federal Bureau of Investigation's Behavioral Analysis Unit in Quantico, Virginia. In an April 2010 episode of Criminal Minds, during the show's fifth season, the original team met the new team and worked with them to find a San Francisco serial killer. This episode served as the new series' backdoor pilot.",
+        "poster_path": "/fifOg15YZum0KK07UKyg1gLYXRp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 6.5809,
+        "first_air_date": "2011-02-16",
+        "softcore": false,
+        "vote_average": 7.219,
+        "vote_count": 114,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/27qMrYslAN7LGMpXWKHNm0EkVRy.jpg",
+        "id": 91875,
+        "name": "Prodigal Son",
+        "original_name": "Prodigal Son",
+        "overview": "مسلسل تحقيقات تدور أحداثه حول (مالكوم برايت) أحد أمهر علماء النفس الجنائيين، الذي يساعد شرطة “نيويورك” لحل الجرائم والقبض على القتلة والمجرمين مستخدمًا عبقريته وخبرته مع والده القاتل المتسلسل المعروف باسم “الجراح”.",
+        "poster_path": "/sp5BL7O4SnnTnXf9ECNrXbJQyqt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 13.848,
+        "first_air_date": "2019-09-23",
+        "softcore": false,
+        "vote_average": 8.076,
+        "vote_count": 470,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
+        "id": 80748,
+        "name": "FBI",
+        "original_name": "FBI",
+        "overview": "من أجل الحفاظ على أن يسود اﻷمن واﻷمان في مدينة نيويورك، تدور احداث المسلسل عن دراما المغامرات واﻹثارة في مكتب التحقيقات الفيدرالية اﻷمريكية واستخدامهم كل وسائل التفكير والتكنولوجيا الحديثة.",
+        "poster_path": "/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "popularity": 98.5883,
+        "first_air_date": "2018-09-25",
+        "softcore": false,
+        "vote_average": 7.9,
+        "vote_count": 944,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zhUA4iMufUZFaQmqGWXiwRUnld5.jpg",
+        "id": 127948,
+        "name": "Class of '09",
+        "original_name": "Class of '09",
+        "overview": "Set in three distinct points in time, follow a class of FBI agents who grapple with immense changes as the U.S. criminal justice system is altered by artificial intelligence.",
+        "poster_path": "/5eCGq50CMloT2a1bMDB8JPpGuf2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          80,
+          10765
+        ],
+        "popularity": 8.0069,
+        "first_air_date": "2023-05-10",
+        "softcore": false,
+        "vote_average": 7.051,
+        "vote_count": 118,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1GY7ih45OzZKjNCJ97XHxBCtuSU.jpg",
+        "id": 8358,
+        "name": "Lie to Me",
+        "original_name": "Lie to Me",
+        "overview": "The world's leading deception researcher, Dr. Cal Lightman, studies facial expression, body language and tone of voice to determine when a person is lying and why, which helps law enforcement and government agencies uncover the truth. But his skills also make it easier for him to deceive others.",
+        "poster_path": "/2xpQxwsGYtdGDrmLvCosTZ0I54R.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 32.6502,
+        "first_air_date": "2009-01-21",
+        "softcore": false,
+        "vote_average": 7.882,
+        "vote_count": 1726,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q4CvEUdq9mVveQfbv5jAgKJA0QZ.jpg",
+        "id": 201992,
+        "name": "The Rookie: Feds",
+        "original_name": "The Rookie: Feds",
+        "overview": "Special Agent Simone Clark, the oldest rookie in the FBI, is a force of nature, the living embodiment of a dream deferred – and she works together with her new colleagues at the Los Angeles office of the Bureau to bring down the country’s toughest criminals.",
+        "poster_path": "/ttqpW20UVabyy8DQFWe56ov1JHS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 18.0128,
+        "first_air_date": "2022-09-27",
+        "softcore": false,
+        "vote_average": 6.955,
+        "vote_count": 122,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
+        "id": 46648,
+        "name": "محقق فذّ",
+        "original_name": "True Detective",
+        "overview": "مسلسل شرطة أمريكي من نوع الأنثولوجيا (كل موسم قصة وشخصيات مختلفة)، يستخدم خطوطًا زمنية متعددة، حيث يبدو أن التحقيقات تكشف أسرارًا شخصية ومهنية للأشخاص المتورطين، سواء كانوا من داخل القانون أو خارجه.",
+        "poster_path": "/3xkUxpRuK1aaysdNRB9soY3zQwh.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 59.7602,
+        "first_air_date": "2014-01-12",
+        "softcore": false,
+        "vote_average": 8.291,
+        "vote_count": 4342,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+        "id": 1431,
+        "name": "سي اس آي: التحقيق في مسرح الجريمة",
+        "original_name": "CSI: Crime Scene Investigation",
+        "overview": "في إطار من الجريمة والغموض، تدور الأحداث حول مجموعة من خبراء الطب الشرعى التابعين للشرطة في وﻻية لوس أنجلوس الأمريكية، الذين يقومون بالتحقيق فى القضايا الغامضة.",
+        "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 172.3904,
+        "first_air_date": "2000-10-06",
+        "softcore": false,
+        "vote_average": 7.616,
+        "vote_count": 1429,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uXY6k8Gd45cTGzlz5s0A2ejDBXa.jpg",
+        "id": 72755,
+        "name": "Absentia",
+        "original_name": "Absentia",
+        "overview": "A missing FBI agent reappears six years after being declared dead.",
+        "poster_path": "/t3yVaAlmCLBwbqTrKGcWHwuCmkh.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 24.9525,
+        "first_air_date": "2017-09-25",
+        "softcore": false,
+        "vote_average": 7.256,
+        "vote_count": 405,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 33,
+    "total_results": 659
+  },
+  "watch/providers": {
+    "results": {
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 33
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 46
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 48
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png",
+            "provider_id": 421,
+            "provider_name": "Joyn Plus",
+            "display_priority": 70
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 69
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 81
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 82
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/lnnW6BXeL8iyXzlYK4U6oITaA7K.png",
+            "provider_id": 572,
+            "provider_name": "RTL Play",
+            "display_priority": 24
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+            "provider_id": 484,
+            "provider_name": "Claro tv+",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 43
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 71
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
+            "provider_id": 230,
+            "provider_name": "Crave",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 92
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 118
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 119
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 44
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 41
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 42
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/gzlCSbeTdiLJNxdZuMKNhW8X7cy.png",
+            "provider_id": 1939,
+            "provider_name": "Lepsi TV",
+            "display_priority": 27
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=DE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/mjkfHoWsOku18fGjmYF5O1VXUrm.png",
+            "provider_id": 421,
+            "provider_name": "Joyn Plus",
+            "display_priority": 39
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 90
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 11
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 29
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/53JKjrhdG4z8DQ4pfdbHoAgPWeO.png",
+            "provider_id": 2241,
+            "provider_name": "Movistar Plus+",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/o1Z73d95pgJMpS3iCfRDtK5XJgp.png",
+            "provider_id": 1838,
+            "provider_name": "Tivify",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 56
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 58
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 78
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 75
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 87
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 119
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 120
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 64
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+            "provider_id": 122,
+            "provider_name": "Disney+",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=IE",
+        "buy": [
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 45
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 46
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 57
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 51
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 54
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=JP",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 9
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 62
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+            "provider_id": 122,
+            "provider_name": "Disney+",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 13
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 29
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 30
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 29
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=RU",
+        "buy": [
+          {
+            "logo_path": "/oroIyNGCu4ltli1lI4m7em1IYE5.png",
+            "provider_id": 117,
+            "provider_name": "Kinopoisk",
+            "display_priority": 21
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/oroIyNGCu4ltli1lI4m7em1IYE5.png",
+            "provider_id": 117,
+            "provider_name": "Kinopoisk",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/ruMrSFMJBMUpzjUL3dHD647qyEF.png",
+            "provider_id": 122,
+            "provider_name": "Disney+",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=US",
+        "free": [
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+            "provider_id": 2616,
+            "provider_name": "Paramount Plus Essential",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 23
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+            "provider_id": 2616,
+            "provider_name": "Paramount Plus Essential",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+            "provider_id": 2383,
+            "provider_name": "Philo",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 23
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 26
+          },
+          {
+            "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+            "provider_id": 2528,
+            "provider_name": "YouTube TV",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+            "provider_id": 633,
+            "provider_name": "Paramount+ Roku Premium Channel",
+            "display_priority": 62
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 202
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/4057-criminal-minds/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 27
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/u4K0mJLCcJ2XIRkFLj01eOeVph8.jpg",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "id": 238581,
+        "origin_country": [
+          "ES"
+        ],
+        "original_language": "es",
+        "original_name": "Una vida menos en Canarias",
+        "overview": "",
+        "popularity": 1.6164,
+        "poster_path": "/9wRdLzrThgh3hpu6rKfGqHpoFbr.jpg",
+        "first_air_date": "2024-01-28",
+        "softcore": false,
+        "name": "Una vida menos en Canarias",
+        "vote_average": 5.357,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ylCMaSBPemstvqS13W3n57NcWvf.jpg",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "id": 91830,
+        "origin_country": [
+          "RU"
+        ],
+        "original_language": "ru",
+        "original_name": "Вeликолепная пятёрка",
+        "overview": "",
+        "popularity": 48.3267,
+        "poster_path": "/7GOwhwqKpoFeGVCX3JVCv699zV7.jpg",
+        "first_air_date": "2019-05-27",
+        "softcore": false,
+        "name": "Вeликолепная пятёрка",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3IPbuOFNBv3A4ygYHTItlxVgeMl.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 383,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Cain's Hundred",
+        "overview": "",
+        "popularity": 15.2651,
+        "poster_path": "/gF52PA0wga7Cl5VWcjZ3wVVYTg.jpg",
+        "first_air_date": "1961-09-19",
+        "softcore": false,
+        "name": "Cain's Hundred",
+        "vote_average": 5.2,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 58841,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Chicago P.D.",
+        "overview": "تدور أحداث المسلسل عن (مقاطعة 21) التي تجاور قسم شرطة (شيكاجو)، وهى المقاطعة التي تتألف من مجموعتين مختلفتين، الأولى منهما تتمثل في رجال شرطة بزيهم الرسمي، والثانية هي وحدة الاستخبارات.",
+        "popularity": 111.7367,
+        "poster_path": "/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+        "first_air_date": "2014-01-08",
+        "softcore": false,
+        "name": "شيكاغو بي.دي.",
+        "vote_average": 8.424,
+        "vote_count": 2628
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3Xtc2iqCBXoXFmD8GhVdYaIY111.jpg",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "id": 124727,
+        "origin_country": [
+          "HK"
+        ],
+        "original_language": "cn",
+        "original_name": "逆天奇案",
+        "overview": "",
+        "popularity": 5.0136,
+        "poster_path": "/o8ygqy0d7xrW1Qhpc3Fdaio7Y2d.jpg",
+        "first_air_date": "2021-05-03",
+        "softcore": false,
+        "name": "逆天奇案",
+        "vote_average": 8.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "id": 304919,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Safe Houses",
+        "overview": "",
+        "popularity": 3.1985,
+        "poster_path": null,
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Safe Houses",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zAYP32L0uBWx136DzKURvpdTVB1.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 28727,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Angel Street",
+        "overview": "",
+        "popularity": 4.0426,
+        "poster_path": "/fKSHrrhwUuWEcUyfu1bGrlAiI2i.jpg",
+        "first_air_date": "1992-09-15",
+        "softcore": false,
+        "name": "Angel Street",
+        "vote_average": 7,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/27qMrYslAN7LGMpXWKHNm0EkVRy.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 91875,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Prodigal Son",
+        "overview": "مسلسل تحقيقات تدور أحداثه حول (مالكوم برايت) أحد أمهر علماء النفس الجنائيين، الذي يساعد شرطة “نيويورك” لحل الجرائم والقبض على القتلة والمجرمين مستخدمًا عبقريته وخبرته مع والده القاتل المتسلسل المعروف باسم “الجراح”.",
+        "popularity": 13.848,
+        "poster_path": "/sp5BL7O4SnnTnXf9ECNrXbJQyqt.jpg",
+        "first_air_date": "2019-09-23",
+        "softcore": false,
+        "name": "Prodigal Son",
+        "vote_average": 8.076,
+        "vote_count": 470
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f8aE5naRTPsyjgfZKLRfhdlhWkA.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 630,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Standoff",
+        "overview": "",
+        "popularity": 3.5081,
+        "poster_path": "/q4741FlAgOXbs1PdD5eCDxO4ykQ.jpg",
+        "first_air_date": "2006-09-05",
+        "softcore": false,
+        "name": "Standoff",
+        "vote_average": 6.111,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sFs3DIc4GNLwrijEfuyjYEr9W8w.jpg",
+        "genre_ids": [
+          80,
+          99
+        ],
+        "id": 238699,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "FEDS",
+        "overview": "",
+        "popularity": 1.7816,
+        "poster_path": "/AhcuoMgtqmIY27bWeBPGatzo4OC.jpg",
+        "first_air_date": "2023-11-08",
+        "softcore": false,
+        "name": "FEDS",
+        "vote_average": 6.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oYwaOeQmE0tuBKy8kt43NFNI4bE.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 578,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Numb3rs",
+        "overview": "",
+        "popularity": 42.5163,
+        "poster_path": "/wOzbxJmpccPA5MYvBSGbor3WKh3.jpg",
+        "first_air_date": "2005-01-23",
+        "softcore": false,
+        "name": "Numb3rs",
+        "vote_average": 7.027,
+        "vote_count": 451
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 549,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Law & Order",
+        "overview": "في حالات مستمدة من الأحداث الراهنة، يقوم رجال الشرطة بالتحقيق في جرائم خطيرة وغالبًا ما تكون قاتلة، حيث يقومون بتحليل الأدلة واستجواب المشتبه بهم حتى يتم اعتقال شخص ما. ثم يقوم مكتب الادعاء ببناء قضية لإدانة الجاني من خلال إثبات إدانته بما يفوق الشك العادل. يعمل هذان الفريقان المتخصصان معًا على التنقل في جميع جوانب النظام القضائي الجنائي المعقد لجعل نيويورك مكانًا أكثر أمانًا.",
+        "popularity": 215.7596,
+        "poster_path": "/3BSTL8BrYQFCcBzodFA1rJlKU93.jpg",
+        "first_air_date": "1990-09-13",
+        "softcore": false,
+        "name": "القانون والنظام",
+        "vote_average": 7.265,
+        "vote_count": 712
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nOIMQQi5nwoIJzBegRBlmDkSZS1.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 734,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Magnum, P.I.",
+        "overview": "",
+        "popularity": 42.0817,
+        "poster_path": "/uaiztRrI2gwBNVtFh6iGvkXqgfz.jpg",
+        "first_air_date": "1980-12-11",
+        "softcore": false,
+        "name": "Magnum, P.I.",
+        "vote_average": 7.291,
+        "vote_count": 457
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cwGBqNgnFwWUWETgoIJWb9r0DSf.jpg",
+        "genre_ids": [
+          99,
+          80,
+          10764
+        ],
+        "id": 660,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The FBI Files",
+        "overview": "",
+        "popularity": 4.6803,
+        "poster_path": "/xY7A8Gn4L9iyLDMv2ziOo8aXItW.jpg",
+        "first_air_date": "1998-10-20",
+        "softcore": false,
+        "name": "The FBI Files",
+        "vote_average": 8,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Ams57f2bNSwWsoQWCfD5u3xQjgS.jpg",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "id": 711,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Threat Matrix",
+        "overview": "",
+        "popularity": 7.9289,
+        "poster_path": "/xOeA42Rc9EiIe0dGnwywLqYKetG.jpg",
+        "first_air_date": "2003-09-18",
+        "softcore": false,
+        "name": "Threat Matrix",
+        "vote_average": 6.143,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sA75aetDQryaJej3I8Vw44E3dxG.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "id": 59312,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Bletchley Circle",
+        "overview": "",
+        "popularity": 5.2459,
+        "poster_path": "/1BUErHvxmwmuxPhBBsL3gNDu0oF.jpg",
+        "first_air_date": "2012-09-06",
+        "softcore": false,
+        "name": "The Bletchley Circle",
+        "vote_average": 7.614,
+        "vote_count": 149
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/myxZGRG7jOJj8a07fCeS1nJ3v22.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 934,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Strangers",
+        "overview": "",
+        "popularity": 6.1739,
+        "poster_path": "/qcn0luhISlkNy8Iil9WZvwMFGp6.jpg",
+        "first_air_date": "1978-06-05",
+        "softcore": false,
+        "name": "Strangers",
+        "vote_average": 7.25,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5xq45O9LuK1NV8LjydUHIuDxsq3.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 844,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Line of Fire",
+        "overview": "",
+        "popularity": 4.0469,
+        "poster_path": "/q4b6vahiI8BdMIBu7jJAyU808Gf.jpg",
+        "first_air_date": "2003-12-02",
+        "softcore": false,
+        "name": "Line of Fire",
+        "vote_average": 6.3,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eVGaiNUPhwKyiuWH6LfNa60JFyQ.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 125282,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Cleaning Lady",
+        "overview": "تأتي طبيبة ذكية إلى الولايات المتحدة لتلقي العلاج الطبي لإنقاذ ابنها المريض. ولكن عندما يفشل النظام ويدفعها إلى الاختباء، فإنها ترفض أن تتعرض للضرب والتهميش. بدلا من ذلك ، تصبح سيدة تنظيف للغوغاء وتبدأ في لعب اللعبة وفقا لقواعدها الخاصة.",
+        "popularity": 38.644,
+        "poster_path": "/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg",
+        "first_air_date": "2022-01-03",
+        "softcore": false,
+        "name": "عاملة النظافة",
+        "vote_average": 7.438,
+        "vote_count": 267
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hxi3AQVw0hT9ztHKvn32Agk1pLK.jpg",
+        "genre_ids": [
+          9648,
+          80
+        ],
+        "id": 59410,
+        "origin_country": [
+          "PL"
+        ],
+        "original_language": "pl",
+        "original_name": "Kapitan Sowa na tropie",
+        "overview": "",
+        "popularity": 2.2022,
+        "poster_path": "/fq62RL7tSmP2Qd1wSdedTz1SdRA.jpg",
+        "first_air_date": "1965-12-25",
+        "softcore": false,
+        "name": "Kapitan Sowa na tropie",
+        "vote_average": 7.2,
+        "vote_count": 6
+      }
+    ],
+    "total_pages": 3005,
+    "total_results": 60095
+  }
+}

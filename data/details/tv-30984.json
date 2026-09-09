@@ -1,0 +1,2617 @@
+{
+  "adult": false,
+  "backdrop_path": "/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "2004-10-05",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    }
+  ],
+  "homepage": "https://bleach-anime.com",
+  "id": 30984,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-09-05",
+  "last_episode_to_air": {
+    "id": 7470577,
+    "name": "الحلقة 47",
+    "overview": "",
+    "vote_average": 7,
+    "vote_count": 4,
+    "air_date": "2026-09-05",
+    "episode_number": 47,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 2,
+    "show_id": 30984,
+    "still_path": "/a9J5kfdSPtWT1m5qygA7veiEOqJ.jpg"
+  },
+  "name": "المطهر",
+  "next_episode_to_air": {
+    "id": 7470579,
+    "name": "الحلقة 48",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-12",
+    "episode_number": 48,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 2,
+    "show_id": 30984,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 98,
+      "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo",
+      "origin_country": "JP"
+    },
+    {
+      "id": 252,
+      "logo_path": "/zFZ5KCuvx7K0vP9XgGcidfXjuUd.png",
+      "name": "TV Aichi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 822,
+      "logo_path": "/gOlBe3BMo5WJHeUlWBBfKawgdiO.png",
+      "name": "TVQ",
+      "origin_country": "JP"
+    },
+    {
+      "id": 824,
+      "logo_path": "/6foQmoPac7WCDnDuDbuCZklmDuA.png",
+      "name": "TV Osaka",
+      "origin_country": "JP"
+    },
+    {
+      "id": 938,
+      "logo_path": "/f12LLqBVFnDVIY8HidhWEitI77c.png",
+      "name": "TVh",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2064,
+      "logo_path": "/qi4L1ffRabF5LJqVimCaaUYpeSj.png",
+      "name": "TSC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3471,
+      "logo_path": "/a19TItuT3En6OVTqQ7RQeIf4J7U.png",
+      "name": "BS TV Tokyo",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 416,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "BLEACH",
+  "overview": "تحكي قصة الأنمي عن فتى في 15 من عمره يدعى كوروساكي إتشيغو لديه القدرة على رؤية الأشباح و الهولو و الشينيغاميين ….. ثم تبدأ الأحداث بمقابلة إتشيغو لروكيا كوتشيكي شينيغامية قادمة من مجتمع الأطياف ،، جاءت إلى العالم الحقيقي حتى تقضي على الأشباح التي تهاجم العالم الحقيقي ،، وجدت روكيا قوة كبيرة لدى إتشيغو فقامت بإعطائه القليل من قوتها حتى يستطيع إتشيغو استعمال طاقته الروحية  و تستمر الحلقات حتى تنشأ علاقة حميمة بين العالم الحقيقي و مجتمع الأطياف ،، و يظهر أعداء جدد و مفاجآت لا يمكن توقعها أبداً ،،",
+  "popularity": 129.2525,
+  "poster_path": "/tEUE489V8OGlPAbY0VkNbkXbXMv.jpg",
+  "production_companies": [
+    {
+      "id": 3234,
+      "logo_path": "/wTPPnz05ZCQgEQVeSOxTkUCyhr5.png",
+      "name": "Pierrot",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2883,
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+      "name": "Aniplex",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3034,
+      "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1778,
+      "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+      "name": "dentsu",
+      "origin_country": "JP"
+    },
+    {
+      "id": 187238,
+      "logo_path": null,
+      "name": "Zack Promotion",
+      "origin_country": "JP"
+    },
+    {
+      "id": 238533,
+      "logo_path": null,
+      "name": "PIERROT FILMS",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2004-12-18",
+      "episode_count": 4,
+      "id": 42575,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/bxmbx54WhY7XFjRaQA4TmWxhucC.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-10-05",
+      "episode_count": 366,
+      "id": 42567,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/bxmbx54WhY7XFjRaQA4TmWxhucC.jpg",
+      "season_number": 1,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2022-10-11",
+      "episode_count": 50,
+      "id": 295738,
+      "name": "حرب الدم التي دامت ألف عام",
+      "overview": "الفصل الأخير من سلسلة بليتش، حيث يواجه إيتشيغو كوروساكي وحاصدو الأرواح جيش الكوينسي القوي بقيادة يوهاخ، في معركة تهدد توازن جميع العوالم",
+      "poster_path": "/2cT8jkEVsAL86CVKALR4pnaVLDb.jpg",
+      "season_number": 2,
+      "vote_average": 7.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.349,
+  "vote_count": 2265,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 78402,
+        "known_for_department": "Acting",
+        "name": "森田成一",
+        "original_name": "森田成一",
+        "popularity": 1.8234,
+        "profile_path": "/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg",
+        "character": "Ichigo Kurosaki (voice)",
+        "credit_id": "52589be5760ee346615fd536",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 23988,
+        "known_for_department": "Acting",
+        "name": "فوميكو أوريكاسا",
+        "original_name": "折笠富美子",
+        "popularity": 2.1139,
+        "profile_path": "/f5d1J13fksa1hK8u7AS95aO8b9.jpg",
+        "character": "Rukia Kuchiki (voice)",
+        "credit_id": "52589be5760ee346615fd5a6",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 216448,
+        "known_for_department": "Acting",
+        "name": "安元洋貴",
+        "original_name": "安元洋貴",
+        "popularity": 1.6613,
+        "profile_path": "/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg",
+        "character": "Yasutora Sado (voice)",
+        "credit_id": "52589be7760ee346615fe09e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 70099,
+        "known_for_department": "Acting",
+        "name": "松岡由貴",
+        "original_name": "松岡由貴",
+        "popularity": 2.752,
+        "profile_path": "/e8rNkMM9O7ULA1RJtLbvkN9789v.jpg",
+        "character": "Orihime Inoue (voice)",
+        "credit_id": "52589be5760ee346615fd616",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 82056,
+        "known_for_department": "Acting",
+        "name": "杉山紀彰",
+        "original_name": "杉山紀彰",
+        "popularity": 2.1541,
+        "profile_path": "/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg",
+        "character": "Uryu Ishida (voice)",
+        "credit_id": "52589be8760ee346615fe56e",
+        "order": 4
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 5108762,
+        "known_for_department": "Sound",
+        "name": "水槽",
+        "original_name": "水槽",
+        "popularity": 0.4883,
+        "profile_path": null,
+        "credit_id": "67571f499e12fa25e8fbe9a2",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3331947,
+        "known_for_department": "Art",
+        "name": "奥原聡美",
+        "original_name": "奥原聡美",
+        "popularity": 0.3926,
+        "profile_path": null,
+        "credit_id": "6344506ff3b49a007c949fde",
+        "department": "Art",
+        "job": "Assistant Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2381767,
+        "known_for_department": "Sound",
+        "name": "武藤晶子",
+        "original_name": "武藤晶子",
+        "popularity": 0.4437,
+        "profile_path": null,
+        "credit_id": "63444f0ecf62cd007ead85d0",
+        "department": "Sound",
+        "job": "Sound Effects"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3498531,
+        "known_for_department": "Production",
+        "name": "ねぎしげんき",
+        "original_name": "ねぎしげんき",
+        "popularity": 0.3146,
+        "profile_path": null,
+        "credit_id": "63444f90cf62cd007ead85f3",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3460292,
+        "known_for_department": "Production",
+        "name": "富永禎彦",
+        "original_name": "富永禎彦",
+        "popularity": 0.2939,
+        "profile_path": null,
+        "credit_id": "63445040b7a154007cc7128a",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3156788,
+        "known_for_department": "Production",
+        "name": "本多祐",
+        "original_name": "本多祐",
+        "popularity": 0.5662,
+        "profile_path": null,
+        "credit_id": "6344503bcffeed008181ffd2",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3719488,
+        "known_for_department": "Production",
+        "name": "濱本航",
+        "original_name": "濱本航",
+        "popularity": 0.3013,
+        "profile_path": null,
+        "credit_id": "63444ee75b4fed007fe7832a",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3046630,
+        "known_for_department": "Sound",
+        "name": "山内真治",
+        "original_name": "山内真治",
+        "popularity": 0.7909,
+        "profile_path": "/zvUJh1vW61OqOYyhirjjJ7GOg5p.jpg",
+        "credit_id": "63444f4cd34eb30079fdea7e",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1937937,
+        "known_for_department": "Production",
+        "name": "土方真",
+        "original_name": "土方真",
+        "popularity": 0.4751,
+        "profile_path": null,
+        "credit_id": "63445016f3b49a0079d4ea9f",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3227010,
+        "known_for_department": "Sound",
+        "name": "星野賢爾",
+        "original_name": "星野賢爾",
+        "popularity": 0.3677,
+        "profile_path": null,
+        "credit_id": "63444f19b7a1540090c3bf35",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2168143,
+        "known_for_department": "Visual Effects",
+        "name": "宮川治雄",
+        "original_name": "宮川治雄",
+        "popularity": 0.462,
+        "profile_path": null,
+        "credit_id": "634dcfcb1089ba007ab3d5ac",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2039558,
+        "known_for_department": "Visual Effects",
+        "name": "後藤和史",
+        "original_name": "後藤和史",
+        "popularity": 0.3838,
+        "profile_path": null,
+        "credit_id": "62c1846c22e4800fa8f1e81c",
+        "department": "Visual Effects",
+        "job": "CGI Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1672040,
+        "known_for_department": "Art",
+        "name": "谷岡善王",
+        "original_name": "谷岡善王",
+        "popularity": 0.5427,
+        "profile_path": null,
+        "credit_id": "62c18436f1b5710059a966d4",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1373229,
+        "known_for_department": "Directing",
+        "name": "田口智久",
+        "original_name": "田口智久",
+        "popularity": 0.9661,
+        "profile_path": "/c2UHmjFjfQ9fxoFjz2990VdXWhF.jpg",
+        "credit_id": "62c1840f0bb07617b5b3e53e",
+        "department": "Directing",
+        "job": "Series Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2768960,
+        "known_for_department": "Visual Effects",
+        "name": "佐々木俊宏",
+        "original_name": "佐々木俊宏",
+        "popularity": 0.6962,
+        "profile_path": null,
+        "credit_id": "62c18451924ce61299541748",
+        "department": "Visual Effects",
+        "job": "CGI Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316309,
+        "known_for_department": "Editing",
+        "name": "三嶋章紀",
+        "original_name": "三嶋章紀",
+        "popularity": 0.8943,
+        "profile_path": null,
+        "credit_id": "62c18445af6e941e2454e471",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 16139,
+        "known_for_department": "Sound",
+        "name": "長崎行男",
+        "original_name": "長崎行男",
+        "popularity": 0.9274,
+        "profile_path": "/3STXZUzqjcVbuHEIuWRpaWOrYEC.jpg",
+        "credit_id": "62c184760bb07617b5b3e571",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1342702,
+        "known_for_department": "Camera",
+        "name": "山田和弘",
+        "original_name": "山田和弘",
+        "popularity": 0.6083,
+        "profile_path": null,
+        "credit_id": "62c1844b0bb07617b5b3e554",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2565114,
+        "known_for_department": "Visual Effects",
+        "name": "合田沙織",
+        "original_name": "合田沙織",
+        "popularity": 0.7137,
+        "profile_path": null,
+        "credit_id": "62c18440af6e941e2282243e",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1275117,
+        "known_for_department": "Writing",
+        "name": "平松正樹",
+        "original_name": "平松正樹",
+        "popularity": 0.9574,
+        "profile_path": null,
+        "credit_id": "62c18423e54d5d007c3e0248",
+        "department": "Writing",
+        "job": "Series Composition"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1373229,
+        "known_for_department": "Directing",
+        "name": "田口智久",
+        "original_name": "田口智久",
+        "popularity": 0.9661,
+        "profile_path": "/c2UHmjFjfQ9fxoFjz2990VdXWhF.jpg",
+        "credit_id": "62c1841d28723c1704a8995a",
+        "department": "Writing",
+        "job": "Series Composition"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2569200,
+        "known_for_department": "Art",
+        "name": "天田俊貴",
+        "original_name": "天田俊貴",
+        "popularity": 0.6427,
+        "profile_path": null,
+        "credit_id": "62c1843be54d5d004c45b575",
+        "department": "Art",
+        "job": "Art Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17132,
+        "known_for_department": "Sound",
+        "name": "鷺巣詩郎",
+        "original_name": "鷺巣詩郎",
+        "popularity": 1.0137,
+        "profile_path": "/8hbT6x1exPiGxqYpt59DkVxRPy.jpg",
+        "credit_id": "61a8b9203dc3130044b36f67",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 222403,
+        "known_for_department": "Visual Effects",
+        "name": "工藤昌史",
+        "original_name": "工藤昌史",
+        "popularity": 0.5483,
+        "profile_path": null,
+        "credit_id": "608bfcb0f8aee8006d07354d",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg",
+        "id": 30669,
+        "name": "يويو هاكوشو",
+        "original_name": "幽☆遊☆白書",
+        "overview": "يجد يوسوكي نفسه ميتاً بعد إنقاذه لطفل من حادث مروري ,يوسوكي ذا شخصية سيئة جعلت عالم الأرواح يتعجب من أنه ضحى بحياته من أجل الطفل لكنه يكتشف بأنه من المفترض ألا يموت ولديه فرصة استعادة حياته من جديد من حينها يصبح محقق أرواح مع رفاقه في رحلة من المغامرة سعياً للسعادة",
+        "poster_path": "/fXsofnnDYpSUmazXn49S4SR0CIv.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 31.8415,
+        "first_air_date": "1992-10-10",
+        "softcore": false,
+        "vote_average": 8.467,
+        "vote_count": 509,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+        "id": 240411,
+        "name": "داندادان",
+        "original_name": "ダンダダン",
+        "overview": "في رهان لمعرفة حقيقة وجود الأشباح والكائنات الفضائية من عدمه، يواجه طالبان في المرحلة الثانوية مخاطر مروعة خارقة للطبيعة ويكتسبان قوى خارقة... وربما يقعان في الحب أيضًا.",
+        "poster_path": "/AnRpml5TmL0qkLbTNJRxEdkPgIr.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 27.6925,
+        "first_air_date": "2024-10-04",
+        "softcore": false,
+        "vote_average": 8.519,
+        "vote_count": 939,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
+        "id": 95479,
+        "name": "JUJUTSU KAISEN",
+        "original_name": "呪術廻戦",
+        "overview": "إيتادوري يوجي فتى يملك قوة جسدية هائلة، لكنّه يعيش حياة مدرسية عادية تمامًا. في أحد الأيّام، ومن أجل إنقاذ صديق هاجمته لعنة، يأكل إصبع طيفٍ ذو وجهين ويمتص اللعنة. وهنا تبدأ قصة فتى يصبح لعنة كي يطرد لعنة تحت إشراف أقوى مستعمل جوجيتسو، غوجو ساتورو.",
+        "poster_path": "/feS8k6Wy8b0mLGzJLwmEyVkZ9xx.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 75.5304,
+        "first_air_date": "2020-10-03",
+        "softcore": false,
+        "vote_average": 8.582,
+        "vote_count": 4641,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n4VljCX22hbw3RwfxaY8FX8eLzN.jpg",
+        "id": 245842,
+        "name": "Tsue to Tsurugi no Wistoria",
+        "original_name": "杖と剣のウィストリア",
+        "overview": "عندما تعرضت البشرية للاضطهاد على يد أعداء غامضين يُعرفون باسم **الأوصياء السماويين**، اتحد خمسة سحرة استثنائيين لهزيمتهم. وبسبب الخوف من عودتهم، قام هؤلاء السحرة الأقوياء، المعروفون باسم **ماجيا فاندر**، ببناء قبة سحرية وبرج ضخم لاحتوائهم. منذ ذلك الحين، أُوكلت مهمة مراقبة القبة، من قمة **برج السحرة**، إلى أقوى خمسة سحرة في كل جيل.",
+        "poster_path": "/5n0IZQA9MiXn5JBKZibtNhhFSAZ.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 19.4952,
+        "first_air_date": "2024-07-07",
+        "softcore": false,
+        "vote_average": 8.03,
+        "vote_count": 150,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hhRhddxhSInMAuIqcx2rP61FmlS.jpg",
+        "id": 95269,
+        "name": "هاناكو-كن شبح الحمام",
+        "original_name": "地縛少年花子くん",
+        "overview": "لكي تلتقي بحبيبها، تستدعي فتاة رومانسية ميؤوس منها شبحًا في حمام الفتيات بمدرستها. لكنها تُصدم عندما تكتشف أن الشبح صبي!",
+        "poster_path": "/h1X1G8Q9Ba9Vy1YIgXHduenP8nv.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          9648,
+          10765
+        ],
+        "popularity": 23.4382,
+        "first_air_date": "2020-01-10",
+        "softcore": false,
+        "vote_average": 8.578,
+        "vote_count": 787,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xHjRfQIRlxug491JrKiEYl9vHM1.jpg",
+        "id": 69500,
+        "name": "Natsume's Book of Friends",
+        "original_name": "夏目友人帳",
+        "overview": "يمتلك ناتسومي تاكاشي قدرةً على رؤية الأرواح، وهي قدرةٌ أخفاها طويلاً. لكن عندما يرث كتاباً غريباً كان ملكاً لجدته الراحلة، ريكو، يكتشف سبب وجود الأرواح.",
+        "poster_path": "/6iIoK9LEM92hBEZD3aVQVCWeaRC.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "popularity": 42.8068,
+        "first_air_date": "2008-07-08",
+        "softcore": false,
+        "vote_average": 8.186,
+        "vote_count": 110,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
+        "id": 67075,
+        "name": "موب سايكو ١٠٠",
+        "original_name": "モブサイコ100",
+        "overview": "القصة تدور حول الفتى “موب” حيث انه يستطيع ثنيَ الملاعق ورفعَ الأشياء بعقله في سنٍ مُبكّرة، ولكنّه امتنع تدريجيًا عن استخدام قدرته في الأماكن العامّة وهو ينفجر إذا وصلت قدرته العاطفية إلى 100%، هذا الفتى ذو القوة النفسية امتلك لقب “موب” و قام بكبت قدرته النفسية حتى يتمكن من العيش بشكل طبيعي و يحظى بصداقة مع زميلته في الصف.",
+        "poster_path": "/vR7hwaGQ0ySRoq1WobiNRaPs4WO.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 32.4715,
+        "first_air_date": "2016-07-12",
+        "softcore": false,
+        "vote_average": 8.494,
+        "vote_count": 1362,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7XloWeuHmw94BFzPf4oF59rvPZH.jpg",
+        "id": 113808,
+        "name": "Seirei Gensouki: Spirit Chronicles",
+        "original_name": "精霊幻想記",
+        "overview": "تتقاطع حياته الماضية مع حياته الحالية - صبي يحمل ذكريات حياتين يواجه مصيره! بعد مقتل والدته في سن مبكرة، كافح ريو اليتيم بكل قوته من أجل البقاء على قيد الحياة.",
+        "poster_path": "/dNki26bfC3ad6mRQZOxY8ysosrb.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 19.3605,
+        "first_air_date": "2021-07-06",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 260,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wf7HeTRRa9SOQ8up5EJZeOKseLO.jpg",
+        "id": 67154,
+        "name": "Chivalry of a Failed Knight",
+        "original_name": "落第騎士の英雄譚",
+        "overview": "Magic Knights are modern magic-users who fight with weapons converted from their souls. Ikki Kurogane goes to a school for these Magic Knights, but he is the \"Failed Knight\" or \"Worst One\" who is failing because he has no magical skills. However, one day, he is challenged to a duel by Stella, a foreign princess and the \"Number One\" student. In this duel, \"the loser must be obedient for life.\"",
+        "poster_path": "/g2DoS2AwOtaRlJStUNlcTsm3pmS.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 7.7758,
+        "first_air_date": "2015-10-03",
+        "softcore": false,
+        "vote_average": 7.076,
+        "vote_count": 157,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1lL1ts7dzTUp0eOTHvMqfw6zFJn.jpg",
+        "id": 86034,
+        "name": "Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou",
+        "original_name": "ありふれた職業で世界最強",
+        "overview": "هاجيمي ناجومو - البالغ من العمر سبعة عشر عامًا - انقلبت حياتها البسيطة رأسًا على عقب عندما يتم استدعاؤها إلى عالم آخر!",
+        "poster_path": "/kB9tdE00Z5zWIJQux1jiYvRyPIC.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 5.619,
+        "first_air_date": "2019-07-08",
+        "softcore": false,
+        "vote_average": 8.403,
+        "vote_count": 657,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
+        "id": 285993,
+        "name": "BLACK TORCH",
+        "original_name": "BLACK TORCH",
+        "overview": "Jiro Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jiro is also able to talk with animals. After a mysterious encounter with an injured cat named Rago, Jiro discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Rago’s powers.",
+        "poster_path": "/fkZ19fifxAOAxbE2ZJvXGVvDDGs.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          9648,
+          10759,
+          10765
+        ],
+        "popularity": 33.1708,
+        "first_air_date": "2026-07-04",
+        "softcore": false,
+        "vote_average": 8.6,
+        "vote_count": 40,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hsmYzDPyfiv3IlkxZsbeO92C7mP.jpg",
+        "id": 60728,
+        "name": "كيل لا كيل kill la kill",
+        "original_name": "キルラキル",
+        "overview": "بطلة هذا الأنمي هي ساتسوكي كيورين وهي رئيسة مجلس الطلبة وتفرض سيطرتها بالقوة إلا أن قدوم ريوكو ماتوي سيقلب موازين القوى.تابعو الأنمي واستمتعو",
+        "poster_path": "/4F1WtP3dFIwLPOfa3u29VEVnNkf.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
+        "popularity": 16.4988,
+        "first_air_date": "2013-10-04",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 558,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vjiIuR3XGpoGSumQ7DziPAmxIYR.jpg",
+        "id": 117465,
+        "name": "فردوس الجحيم",
+        "original_name": "地獄楽",
+        "overview": "تدور احداث القصة في عصر الإيدو عن النينجا غابمارو أخطر وأقوى نينجا على الإطلاق تم القبض عليه وحُكم عليه بالإعدام، وبينما كان ينتظر حكمه تلقى عرض من الجلاد الذي كُلف بإعدامه بأنه يمكن العفو عنه وتركه يعيش بسلام مع زوجته ولكن بشرطٍ واحد أن يجلب إكسير الخلود الموجود في أرضٍ بعيدة وغامضة…",
+        "poster_path": "/rcHx4deE1OOhlQ1ayxx06fOtZOG.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 26.47,
+        "first_air_date": "2023-04-01",
+        "softcore": false,
+        "vote_average": 8.215,
+        "vote_count": 511,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5bOYtdiBKBnrbfPTwZaAEJOfDmW.jpg",
+        "id": 22634,
+        "name": "Shakugan no Shana",
+        "original_name": "灼眼のシャナ",
+        "overview": "Murdered by a demonic being, 15-year-old Yuji Sakai has his life force replaced by a flame that dims with each day. When the flame dies, no one will remember he was ever alive. This is how he meets Shana: a warrior with a burning sword, and the will of a god as her guide. The two form a bond as Yuji becomes Shana’s accomplice in her battles to keep the balance between the ordinary world and hers.",
+        "poster_path": "/3Y3DxgbIZQAj3M8VsB3oG0oL5qC.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          18,
+          10765,
+          35
+        ],
+        "popularity": 14.8014,
+        "first_air_date": "2005-10-06",
+        "softcore": false,
+        "vote_average": 7.364,
+        "vote_count": 107,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lpLZuBJuGDGSzLDVvIDKkdOpLuD.jpg",
+        "id": 60833,
+        "name": "The Irregular at Magic High School",
+        "original_name": "魔法科高校の劣等生",
+        "overview": "يلتحق الشقيقان تاتسويا وميوكي بمدرسة ماجيك الثانوية، حيث يقف تفوق ميوكي الدراسي عائقاً بينها وبين شقيقها الأكبر الذي لم يحقق النجاح المأمول.",
+        "poster_path": "/4mJpMjdghHo4LfvmP1q1mubkEvl.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 20.7139,
+        "first_air_date": "2014-04-06",
+        "softcore": false,
+        "vote_average": 7.748,
+        "vote_count": 322,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+        "id": 82684,
+        "name": "ذلك الوقت الذي تجسدت فيه كوحش هلامي",
+        "original_name": "転生したらスライムだった件",
+        "overview": "عاش مينامي ساتورو حياة عادية خالية تماماً من أي حدث مهمّ حتّى عام السّابعة والثلاثين وبقي أعزب إلى هذا الحين. في الطريق، تعرّض لطعنة من شخص عابر ليغلق بذلك السّتار على حياته المملّة. كان ينبغي أن يكون الأمر هكذا على الأقل. لكن فجأة... شعر بأنه على قيد الحياة، لكن بلا سمع ولا بصر. سرعان ما أدرك بعد ذلك حقيقة أنّه خُلِق من جديد لكن كحمأة.",
+        "poster_path": "/pzujcdPAoH361NObVrtbA7zACE7.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          35
+        ],
+        "popularity": 43.6137,
+        "first_air_date": "2018-10-02",
+        "softcore": false,
+        "vote_average": 8.422,
+        "vote_count": 979,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/covxbfX4QxxXm0GtDbWSBUYN5jf.jpg",
+        "id": 71000,
+        "name": "Tsugumomo",
+        "original_name": "つぐもも",
+        "overview": "Kazuya Kagami never goes anywhere without the precious \"Sakura Obi\" his mother gave him. One day a beautiful, kimono-clad girl named Kiriha appeared before him. Kiriha naturally began to live with Kazuya in his room. Then there's Chisato, Kazuya's childhood friend with glasses and a ponytail, who meddles in his affairs. Soon there's also an overprotective older sister who seems to want to take baths with him. Jumble in a huge-chested priestess, a good-looking sorceress named Kokuyoura, beautiful women, and hot girls, and Kazuya's happy, embarrassing, confusing life begins…",
+        "poster_path": "/aQLw9RZvzYTUukElg11bHIFNoQg.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 8.9686,
+        "first_air_date": "2017-04-02",
+        "softcore": false,
+        "vote_average": 6.489,
+        "vote_count": 44,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xi5O2Cxmss0pY7QgTBzUvSu9Ugk.jpg",
+        "id": 208493,
+        "name": "حصلت على مهارة غش في عالم آخر، وأصبحت لا مثيل لي في العالم الحقيقي أيضًا.",
+        "original_name": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
+        "overview": "يُفتح بابٌ لعالمٍ آخر أمام فتى عانى من التنمّر الوحشي طوال حياته. يمنحه هذا الواقع البديل إمكانية الوصول إلى كل أنواع الأشياء، مثل القدرات الخارقة وبوابةٍ تُتيح له السفر بين عالمه القديم والجديد! هل يستطيع هذا الفتى الخاسر تغيير حياته في موطنه؟",
+        "poster_path": "/dXrUejdxJFgk6FGoB8V3VQhYsjJ.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 10.1004,
+        "first_air_date": "2023-04-07",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 310,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n5J23cWQW4FUWhifL530qEkstFY.jpg",
+        "id": 64710,
+        "name": "نورغامي",
+        "original_name": "ノラガミ",
+        "overview": "القصة حول الحدود بين هذا العالم والعالم الاخر،ويعيش حوالي ثمنية ملاين إله وارواح ميتة تخدمهم وارواح مختلة تساعد وتتدخل في شؤن البشر ، فتاة تدعى [ إيكي هيوري ] بعد ان قامت بإنقاذ فتى متشرد من حادثة مرور إتضح فيما بعد انه إله يدعى [ ياتو ] و يقوم بحل جميع مشاكل مقابل 5 ين ،بعدها تطلب الفتاة [ إيكي هيوري ] مساعدته لحل مشكلة جسدها العالق بين العالمين . .",
+        "poster_path": "/7pL2wGmy92v31ceYvCVIg4ilwLr.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 12.3352,
+        "first_air_date": "2014-01-05",
+        "softcore": false,
+        "vote_average": 8.203,
+        "vote_count": 716,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v9fZdX7ra8ifTZokT27MLT3r30J.jpg",
+        "id": 233408,
+        "name": "After-school Hanako-kun",
+        "original_name": "放課後少年花子くん",
+        "overview": "The spirit Hanako-kun and his human assistant, first-year student Nene Yashiro, keep the peace between supernatural forces and the students of Kamome Academy. When they’re not fighting to maintain balance between the living and spirit worlds, how do they spend their time? Join Hanako-kun and Nene on their adventures after school!",
+        "poster_path": "/6qtqmilWKwgbcz7l31aTvj7Edmu.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 5.8471,
+        "first_air_date": "2023-10-13",
+        "softcore": false,
+        "vote_average": 8.147,
+        "vote_count": 34,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    ],
+    "total_pages": 36,
+    "total_results": 702
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/huZv8g3q1wsgxUaMmhWJC2DjL1K.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 60556,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "Bitten",
+        "overview": "",
+        "popularity": 8.1229,
+        "poster_path": "/guhxl5I8J1WVEA3yeDt8hwgpYWx.jpg",
+        "first_air_date": "2014-01-11",
+        "softcore": false,
+        "name": "Bitten",
+        "vote_average": 7.235,
+        "vote_count": 277
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gd2r6lQEv9gqjqGmlTRYNkkvstX.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "id": 93019,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "俺を好きなのはお前だけかよ",
+        "overview": "",
+        "popularity": 6.2151,
+        "poster_path": "/1Rt4Lyobg82l10F3OUqNux5PtEl.jpg",
+        "first_air_date": "2019-10-03",
+        "softcore": false,
+        "name": "俺を好きなのはお前だけかよ",
+        "vote_average": 8.442,
+        "vote_count": 292
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "id": 306086,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Grim",
+        "overview": "",
+        "popularity": 1.1676,
+        "poster_path": null,
+        "first_air_date": "2025-11-20",
+        "softcore": false,
+        "name": "Grim",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4U5cJTbXBzW1WxDUZErqU3VNNWl.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 208067,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "山田くんとLv999の恋をする",
+        "overview": "عد أن هجرها حبيبها، أوشكت \"أكاني\" على اعتزال اللعبة التي كانت تجمعهما، لكنها التقت باللاعب \"يامادا\" بالصدفة داخل الـ RPG. تبين أن \"يامادا\" أسطورة حقيقية وشاب جذاب في الواقع، لكن عيبه الوحيد هو هوسه التام بالألعاب وعدم مبالاته بالرومانسية. فهل يظل تركيزه منصباً على اللعبة بينما تنمو مشاعر \"أكاني\" نحوه؟",
+        "popularity": 15.3258,
+        "poster_path": "/qsanOnxFaZAwhR3zbXx3woWSXyN.jpg",
+        "first_air_date": "2023-04-02",
+        "softcore": false,
+        "name": "قصة حبي مع يامادا-كن عند المستوى 999",
+        "vote_average": 8.11,
+        "vote_count": 200
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wQcy20hJw1u1yw1zLN7Q1uWbpmu.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "id": 239761,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "先輩はおとこのこ",
+        "overview": "",
+        "popularity": 8.8067,
+        "poster_path": "/au90540MP5FlnZGZZM6Gszjwcnl.jpg",
+        "first_air_date": "2024-07-05",
+        "softcore": false,
+        "name": "先輩はおとこのこ",
+        "vote_average": 7.095,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rRu0Ogex93Fd3kFzxcLozhHqtZl.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "id": 239764,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "かつて魔法少女と悪は敵対していた。",
+        "overview": "",
+        "popularity": 4.8858,
+        "poster_path": "/9NivXf13bsUsL5ipeZwByuwJLcB.jpg",
+        "first_air_date": "2024-07-09",
+        "softcore": false,
+        "name": "かつて魔法少女と悪は敵対していた。",
+        "vote_average": 7.1,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gDtZQmfzvErZpeXOVeCBQE9WkSF.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "id": 239770,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Doctor Who",
+        "overview": "يسافر الدكتور ورفيقته عبر الزمان والمكان ويقابلان أصدقاء رائعين وخصوماً خطرين.",
+        "popularity": 19.561,
+        "poster_path": "/2JP6NSmBwxg75uTcIHiv5R8PpPi.jpg",
+        "first_air_date": "2024-05-11",
+        "softcore": false,
+        "name": "Doctor Who",
+        "vote_average": 6.372,
+        "vote_count": 331
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yNQT7fVLhopmytPytN6VVPgrMoX.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "id": 239779,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "여신강림",
+        "overview": "",
+        "popularity": 4.1424,
+        "poster_path": "/kpbI1RUrcZOQzo0TRO0XI4ywa3J.jpg",
+        "first_air_date": "2024-08-07",
+        "softcore": false,
+        "name": "여신강림",
+        "vote_average": 8.25,
+        "vote_count": 92
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dESXig57pMNT49NWfnniqBkTJEL.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 239837,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "アフリカのサラリーマン",
+        "overview": "",
+        "popularity": 1.2713,
+        "poster_path": "/95NnPpNHzVhyh6HPeUN7Ko6K4va.jpg",
+        "first_air_date": "2017-06-19",
+        "softcore": false,
+        "name": "アフリカのサラリーマン",
+        "vote_average": 7,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dWhXUMlQuSoASikDLbUfKyPtGeB.jpg",
+        "genre_ids": [
+          16,
+          18,
+          9648
+        ],
+        "id": 306121,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "神の雫",
+        "overview": "",
+        "popularity": 10.1826,
+        "poster_path": "/eJngpqzGzppVkR5XoM9uuPFOukn.jpg",
+        "first_air_date": "2026-04-10",
+        "softcore": false,
+        "name": "神の雫",
+        "vote_average": 6.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ek2gvRzKzD16uiQAXwkkl16BkI7.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "id": 126273,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "COBRA THE ANIMATION ザ・サイコガン",
+        "overview": "",
+        "popularity": 3.1571,
+        "poster_path": "/gQWHV1WuJTZgw3KtmWQWIszbX7N.jpg",
+        "first_air_date": "2008-08-28",
+        "softcore": false,
+        "name": "COBRA THE ANIMATION ザ・サイコガン",
+        "vote_average": 7,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3BBCWMfACKTDpaaMh3FCZuWrzI3.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "id": 126278,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "COBRA THE ANIMATION タイム・ドライブ",
+        "overview": "",
+        "popularity": 2.344,
+        "poster_path": "/jSNFUXlAoBRmBn1DQxK6fUc5GIL.jpg",
+        "first_air_date": "2009-04-24",
+        "softcore": false,
+        "name": "COBRA THE ANIMATION タイム・ドライブ",
+        "vote_average": 6.9,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "id": 93149,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "プランダラ",
+        "overview": "في عالم ما بعد نهاية العالم الذي تهيمن عليها ما يسمى بـ\"الأرقام\"، سيكون لكل إنسان هويته المميزة بـ \"الكونت\"، التي يمكن أن تحدد أي رقم متعلق بحياتهم. قد تكون المسافة التي قطعها المرء أو مجاملاته التي قدمها له الآخرون، يمكن لهذا الكونت أن يقودهم إلى الهاوية عندما ينخفض  للصفر.",
+        "popularity": 7.5187,
+        "poster_path": "/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+        "first_air_date": "2020-01-09",
+        "softcore": false,
+        "name": "الناهب",
+        "vote_average": 8.27,
+        "vote_count": 790
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          9648,
+          10765
+        ],
+        "id": 93154,
+        "origin_country": [
+          "ES"
+        ],
+        "original_language": "en",
+        "original_name": "Los Secretos de la Residencia Castle Rock",
+        "overview": "",
+        "popularity": 1.2399,
+        "poster_path": "/kC5KiQvvjLa7ppeyrOYpCzS7wqt.jpg",
+        "first_air_date": "2018-05-04",
+        "softcore": false,
+        "name": "Los Secretos de la Residencia Castle Rock",
+        "vote_average": 9,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jtpGcS4ns3kjQ7d11ocq6KHKNpt.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 93169,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "安玲与史迪奇",
+        "overview": "",
+        "popularity": 2.4689,
+        "poster_path": "/gOMeH86HMATMRAFtr5iqFZEZKvV.jpg",
+        "first_air_date": "2017-03-27",
+        "softcore": false,
+        "name": "安玲与史迪奇",
+        "vote_average": 4.7,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2gqmRyFc1srk8VWQDesQTslbWoX.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 208221,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ついでにとんちんかん",
+        "overview": "",
+        "popularity": 2.7101,
+        "poster_path": "/nMFg4BFReGpL9DbsiWHYlg1bJrI.jpg",
+        "first_air_date": "1987-10-17",
+        "softcore": false,
+        "name": "ついでにとんちんかん",
+        "vote_average": 6,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4ixh7PNNWd1VaohzKD7pcP33SiN.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 126437,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "アオアシ",
+        "overview": "اوي اشيتو هو لاعب كرة قدم شاب طموح من بلدة منعزلة في اليابان تبددت آماله في الالتحاق بمدرسة ثانوية لديها نادٍ جيد لكرة القدم ذالك عندما تسبب في حادث خلال مباراة حاسمة لفريقه مما أدى إلى خسارتهم وإقصائهم من البطولة ومع ذلك فإنه يلفت انتباه شخص مهم من طوكيو كان في زيارة كيف ستنتهي الأمور بالنسبة لـ اشيتو؟.",
+        "popularity": 24.8463,
+        "poster_path": "/zoQf7ZycPDtrxRWTLMlw7DMqgPI.jpg",
+        "first_air_date": "2022-04-09",
+        "softcore": false,
+        "name": "أواشي",
+        "vote_average": 7.8,
+        "vote_count": 69
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10759
+        ],
+        "id": 126485,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "무빙",
+        "overview": "الأطفال الذين يعيشون في الخفاء مع قوى خارقة، جنبًا إلى جنب مع آبائهم الذين يعيشون مع أسرار الماضي المؤلمة، يواجهون معًا مخاطر هائلة.",
+        "popularity": 30.7799,
+        "poster_path": "/b9MhD5syJ7TbYSeje4wB4oyTzc7.jpg",
+        "first_air_date": "2023-08-09",
+        "softcore": false,
+        "name": "무빙",
+        "vote_average": 8.5,
+        "vote_count": 307
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4eufRkflTkrmmONcswo02A4S6en.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 2046,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Alias",
+        "overview": "",
+        "popularity": 17.2104,
+        "poster_path": "/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
+        "first_air_date": "2001-09-30",
+        "softcore": false,
+        "name": "Alias",
+        "vote_average": 6.809,
+        "vote_count": 726
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "id": 2048,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Hitchhiker's Guide to the Galaxy",
+        "overview": "",
+        "popularity": 5.6131,
+        "poster_path": "/yKiH7IIbo23uA72MmY318mXorjw.jpg",
+        "first_air_date": "1981-01-05",
+        "softcore": false,
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "vote_average": 8.023,
+        "vote_count": 44
+      }
+    ],
+    "total_pages": 1404,
+    "total_results": 28076
+  },
+  "watch/providers": {
+    "results": {
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 14
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=AT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 43
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=DE",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 23
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 29
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 22
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=ID",
+        "ads": [
+          {
+            "logo_path": "/yEa5cB4KpN4LkiuNhbtsnUR6PX5.png",
+            "provider_id": 489,
+            "provider_name": "Vidio",
+            "display_priority": 17
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/yEa5cB4KpN4LkiuNhbtsnUR6PX5.png",
+            "provider_id": 489,
+            "provider_name": "Vidio",
+            "display_priority": 17
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 9
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/coM4QWbmIOa0xJ5cGR9BRmoV25B.png",
+            "provider_id": 237,
+            "provider_name": "Sony Liv",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 50
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/kqwaac38jeFJRkZj9FJ09MYiyJE.png",
+            "provider_id": 515,
+            "provider_name": "MX Player",
+            "display_priority": 24
+          },
+          {
+            "logo_path": "/46U3TOB3PhVDjA7qaFOuYSaGMiq.png",
+            "provider_id": 1898,
+            "provider_name": "Amazon MX Player",
+            "display_priority": 43
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 9
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=IT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/znUEdjHzuxK2WrNDkKS2Xgv1ooW.png",
+            "provider_id": 2494,
+            "provider_name": "dAnime Amazon Channel",
+            "display_priority": 100
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=JP",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+            "provider_id": 2182,
+            "provider_name": "Anime Times Amazon Channel",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/4kODbXQH5KChF2iIxYz80pmV6c1.png",
+            "provider_id": 2519,
+            "provider_name": "Toei Animation Channel  Amazon Channel",
+            "display_priority": 68
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/ppQIS7UMtBwJSspSoGqDR8wO1Gr.png",
+            "provider_id": 97,
+            "provider_name": "Watcha",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          },
+          {
+            "logo_path": "/w4ov8Zx73eu2TjHsDs5EmiuYKA4.png",
+            "provider_id": 1883,
+            "provider_name": "TVING",
+            "display_priority": 29
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 10
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 23
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 23
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 8
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 27
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/vmBE15FtFOa5RDcH5LEy5TftBLI.png",
+            "provider_id": 1715,
+            "provider_name": "Shahid VIP",
+            "display_priority": 24
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/30984-bleach/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      }
+    }
+  }
+}

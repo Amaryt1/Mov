@@ -1,0 +1,4042 @@
+{
+  "adult": false,
+  "backdrop_path": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+  "created_by": [
+    {
+      "id": 28974,
+      "credit_id": "667b240b8e91ec743ec27c72",
+      "name": "دامون ليندلوف",
+      "original_name": "Damon Lindelof",
+      "gender": 2,
+      "profile_path": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg"
+    },
+    {
+      "id": 2325172,
+      "credit_id": "667b2415af94a9c945f68fcc",
+      "name": "توم كينغ",
+      "original_name": "Tom King",
+      "gender": 2,
+      "profile_path": "/no73FbFgWdBB5wU6xEc7WKT8EIs.jpg"
+    },
+    {
+      "id": 1258079,
+      "credit_id": "667b69db74da0fb41e7ba4e0",
+      "name": "كريس موندي",
+      "original_name": "Chris Mundy",
+      "gender": 2,
+      "profile_path": "/aEWK5Qo1U896iMsUMd2oY8yso1I.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2026-08-16",
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    }
+  ],
+  "homepage": "https://www.hbo.com/content/lanterns",
+  "id": 95350,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-09-06",
+  "last_episode_to_air": {
+    "id": 7179885,
+    "name": "ويني",
+    "overview": "‫مع اقتراب انتهاء مهلة الـ 48 ساعة، يطور جون نظرية جديدة حول موقع مانهنتر، مما يدفعه هو وهال إلى عرض خطوتهم التالية على الشريف كين. و في غضون ذلك، تنجم عواقب عن زيارة هال إلى سينسترو.",
+    "vote_average": 7.84,
+    "vote_count": 25,
+    "air_date": "2026-09-06",
+    "episode_number": 4,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 53,
+    "season_number": 1,
+    "show_id": 95350,
+    "still_path": "/i6Wz0LHsnqke3Bw0ZKmVjFfd1du.jpg"
+  },
+  "name": "الفوانيس",
+  "next_episode_to_air": {
+    "id": 7179886,
+    "name": "الحلقة 5",
+    "overview": "",
+    "vote_average": 4,
+    "vote_count": 3,
+    "air_date": "2026-09-13",
+    "episode_number": 5,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 95350,
+    "still_path": "/nChv7fiUuW19byDdEvnFvoC5hh9.jpg"
+  },
+  "networks": [
+    {
+      "id": 49,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 8,
+  "number_of_seasons": 1,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Lanterns",
+  "overview": "يتبع العمل قصة المجند الجديد (جون ستيوارت) وأسطورة اللانترنز (هال جوردان)، وهما شرطيان يجدان نفسيهما منخرطين في لغز مظلم على كوكب الأرض، أثناء تحقيقهما في جريمة قتل وقعت في قلب الولايات المتحدة.",
+  "popularity": 253.5113,
+  "poster_path": "/5ocVCsES4bb0SpMIAAjXCujIxoL.jpg",
+  "production_companies": [
+    {
+      "id": 184898,
+      "logo_path": "/iNTsbEgntSUwHmsZ9whiLhm60WB.png",
+      "name": "DC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 3268,
+      "logo_path": "/tuomPhY2UtuPTqqFnKMVHvSb724.png",
+      "name": "HBO",
+      "origin_country": "US"
+    },
+    {
+      "id": 1957,
+      "logo_path": "/pJJw98MtNFC9cHn3o15G7vaUnnX.png",
+      "name": "Warner Bros. Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 66224,
+      "logo_path": null,
+      "name": "Man, Woman & Child Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2026-08-16",
+      "episode_count": 8,
+      "id": 165308,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/qbTO96IcUmkyJLmNbFeFdHlt7f6.jpg",
+      "season_number": 1,
+      "vote_average": 6.6
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "واحد فقط يمكنه ارتداء الخاتم.",
+  "type": "Scripted",
+  "vote_average": 8.277,
+  "vote_count": 298,
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/rbDFI2I1nMyJtX4Y3jJ4H1QRdRX.jpg",
+        "id": 60708,
+        "name": "قوثام",
+        "original_name": "Gotham",
+        "overview": "الجميع يعرف اسم المفوض قوردون. من أكبر أعداء الجريمة في العالم، هو رجل تشتهر سمعته بالقانون والنظام. ولكن ما هو معروف من قصة قوردون وصعوده شرطي مبتدئ لمفوض الشرطة؟ ما الذي يتطلبه الأمر للتنقل بين طبقات الفساد المتعددة التي حكمت سراً مدينة قوثام، وما هي الظروف التي أوجدت الشخصيات المشهوره مثل المرأة القط، البطريق، الاحجية، ذو الوجهين والجوكر؟",
+        "poster_path": "/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10765
+        ],
+        "popularity": 58.3843,
+        "first_air_date": "2014-09-22",
+        "softcore": false,
+        "vote_average": 7.597,
+        "vote_count": 3791,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wsviXEJ210JPoFQuHYGH9X4yt2B.jpg",
+        "id": 42531,
+        "name": "Powers",
+        "original_name": "Powers",
+        "overview": "Two homicide detectives, Christian Walker and Deena Pilgrim, are assigned to investigate cases involving people with superhuman abilities, referred to as “Powers.” Set amidst today’s paparazzi culture, Powers asks the questions, what if the world was full of superheroes who aren't actually heroic at all? What if all that power was just one more excuse for mischief, mayhem, murder, and endorsement deals?",
+        "poster_path": "/7imMR8ySLCPG3LsNlGej8GGtXBg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 10.6141,
+        "first_air_date": "2015-03-10",
+        "softcore": false,
+        "vote_average": 6.678,
+        "vote_count": 197,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oS3nip9GGsx5A7vWp8A1cazqJlF.jpg",
+        "id": 39351,
+        "name": "جريم",
+        "original_name": "Grimm",
+        "overview": "يتم تكليف (نيك بوكهاردت) محقق جرائم القتل في إدارة شرطة (بورتلاند) بأن يكون من (الأوصياء) المكلفين بحفظ التوازن بين البشر ، والمخلوقات الخارقة ، وعليه محاربة مجموعة من المخلوقات الخطرة ، بمساعدة صديقه ، وشريكه المحقق (هانك جريفين) .",
+        "poster_path": "/iOptnt1QHi6bIHmOq6adnZTV0bU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 83.2437,
+        "first_air_date": "2011-10-28",
+        "softcore": false,
+        "vote_average": 8.265,
+        "vote_count": 3625,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iAzH3jFEaDMkjEsNNBUpGzSJ6VR.jpg",
+        "id": 75450,
+        "name": "تايتنز",
+        "original_name": "Titans",
+        "overview": "يتشكل فريق التايتنز من أبطال خارقين شباب، بقيادة نايت وينق (روبن سابقا) لمحاربة الشر والمخاطر الأخرى.",
+        "poster_path": "/oUSnGxC06ptTw9YQfTnEFNxFEWI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 34.5072,
+        "first_air_date": "2018-10-12",
+        "softcore": false,
+        "vote_average": 7.852,
+        "vote_count": 2899,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jHkeqXYUU4khZEig88AFLMUOmep.jpg",
+        "id": 50825,
+        "name": "Sleepy Hollow",
+        "original_name": "Sleepy Hollow",
+        "overview": "Ichabod Crane is resurrected and pulled two and a half centuries through time to unravel a mystery that dates all the way back to the founding fathers.",
+        "poster_path": "/2RHj62XneYMCRPAyQrEIrKVij12.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 28.1523,
+        "first_air_date": "2013-09-16",
+        "softcore": false,
+        "vote_average": 7.418,
+        "vote_count": 1135,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sSJZVwCS0tFzcLSaQOjLpv5mFau.jpg",
+        "id": 79501,
+        "name": "دوامة الموت",
+        "original_name": "Doom Patrol",
+        "overview": "عانى أعضاء دوامة الموت من حوادث مروعة أعطتهم قدرات فائقة، لكنها تركتهم مشوهين. وقد وجد الفريق، المصابين بالصدمة والضطهاد، غرضاً من خلال - ذا تشيف - الذي جمعهم معاً للتحقيق في أغرب الظواهر الموجودة - ولحماية الأرض مما يعثرون عليه.",
+        "poster_path": "/nVN7Dt0Xr78gnJepRsRLaLYklbY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 26.5645,
+        "first_air_date": "2019-02-15",
+        "softcore": false,
+        "vote_average": 7.483,
+        "vote_count": 1487,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iWopHyAvuIDjGX10Yc3nn6UEebW.jpg",
+        "id": 1403,
+        "name": "مارفيل: عملاء شيلد",
+        "original_name": "Marvel's Agents of S.H.I.E.L.D.",
+        "overview": "العميل فيل كولسون من S.H.I.E.L.D. (قسم التدخل الداخلي والإنفاذ واللوجستيات الاستراتيجي) يجمع فريقًا من العملاء للتحقيق في الجديد، الغريب والمجهول في جميع أنحاء العالم، يحمي العادي من غير العادي.",
+        "poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 62.3559,
+        "first_air_date": "2013-09-24",
+        "softcore": false,
+        "vote_average": 7.487,
+        "vote_count": 3889,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fh2CStc3fKFYhkKOFyUHBGksRWj.jpg",
+        "id": 79788,
+        "name": "Watchmen",
+        "original_name": "Watchmen",
+        "overview": "Set in an alternate history where “superheroes” are treated as outlaws, “Watchmen” embraces the nostalgia of the original groundbreaking graphic novel while attempting to break new ground of its own.",
+        "poster_path": "/m8rWq3j73ZGhDuSCZWMMoE9ePH1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10765,
+          9648
+        ],
+        "popularity": 13.9008,
+        "first_air_date": "2019-10-20",
+        "softcore": false,
+        "vote_average": 7.624,
+        "vote_count": 1684,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
+        "id": 1486,
+        "name": "21 Jump Street",
+        "original_name": "21 Jump Street",
+        "overview": "تدور أحداث مسلسل \"21 Jump Street\" حول مجموعة من رجال الشرطة الشباب الذين يستخدمون مظهرهم الشاب للتخفي وحل الجرائم التي تشمل المراهقين والشباب",
+        "poster_path": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 34.0052,
+        "first_air_date": "1987-04-12",
+        "softcore": false,
+        "vote_average": 7.27,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kv0vCJOoGyWQdDPK9vFnyvqqDHt.jpg",
+        "id": 71663,
+        "name": "البرق اﻷسود",
+        "original_name": "Black Lightning",
+        "overview": "يعود \"جيفرسون بيرس\" مدير المدرسة والبطل الخارق المتقاعد لمواجهة الخطر في رداء \"بلاك لايتنينغ\" الأسطوري بعد أن هدّدت إحدى العصابات أسرته.",
+        "poster_path": "/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 26.2298,
+        "first_air_date": "2018-01-16",
+        "softcore": false,
+        "vote_average": 6.914,
+        "vote_count": 977,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nYxqUQaYGUv3pgMfe9BQ2WtUMQu.jpg",
+        "id": 86423,
+        "name": "Locke & Key",
+        "original_name": "Locke & Key",
+        "overview": "ينتقل ثلاثة أشقّاء مع والدتهم إلى منزل أسلافهم بعد مقتل والدهم، حيث يعثرون على مفاتيح سحريّة تمتلك قوًى خارقة، وتكشف عن أسرار خفيّة.",
+        "poster_path": "/zuxGfRKziGHPogipnEXXykdDmyT.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          9648
+        ],
+        "popularity": 19.1701,
+        "first_air_date": "2020-02-07",
+        "softcore": false,
+        "vote_average": 7.736,
+        "vote_count": 1501,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4sIjlFa2jn0SsWQVuTBEFgQy4eH.jpg",
+        "id": 98187,
+        "name": "The Irregulars",
+        "original_name": "The Irregulars",
+        "overview": "In Victorian London, a gang of troubled street teens are manipulated into solving crimes for the sinister Doctor Watson and his mysterious business partner, the elusive Sherlock Holmes. As the crimes take on a horrifying supernatural edge and a dark power emerges, it'll be up to the Irregulars to come together to save not only London but the entire world.",
+        "poster_path": "/qN6HCKR3ZRqbpGBWFctVlSTKR2k.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 6.3101,
+        "first_air_date": "2021-03-26",
+        "softcore": false,
+        "vote_average": 7.104,
+        "vote_count": 365,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5n3dwYOqekTyANEyRs0GNhZPfOs.jpg",
+        "id": 53425,
+        "name": "Wayward Pines",
+        "original_name": "Wayward Pines",
+        "overview": "Imagine the perfect American town... beautiful homes, manicured lawns, children playing safely in the streets. Now imagine never being able to leave. You have no communication with the outside world. You think you're going insane. You must be in Wayward Pines.",
+        "poster_path": "/mK9MowBCPEn7RbsDXqN0MxyPc4.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "popularity": 16.5207,
+        "first_air_date": "2015-05-14",
+        "softcore": false,
+        "vote_average": 6.885,
+        "vote_count": 947,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kb9XvtEnDhBVVit4eeKygqll4EA.jpg",
+        "id": 69050,
+        "name": "ريفرديل",
+        "original_name": "Riverdale",
+        "overview": "أرشي، بيتي، فيرونيكا وأصدقائهم، يستكشفون حياة بلدة صغيرة، الظلام والغرابة تنشب تحت المظهر الزائف لبلدة ريفرديل.",
+        "poster_path": "/aKc9Cw3vPYuHMbkiP5Ca9YDh2Z2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 80.3375,
+        "first_air_date": "2017-01-26",
+        "softcore": false,
+        "vote_average": 8.4,
+        "vote_count": 13784,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4amkATUf2mh5QL9OQ3WmHQqx9wk.jpg",
+        "id": 66190,
+        "name": "Marvel's Cloak & Dagger",
+        "original_name": "Marvel's Cloak & Dagger",
+        "overview": "Two teenagers from very different backgrounds awaken to newly acquired superpowers which mysteriously link them to one another.",
+        "poster_path": "/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 10.014,
+        "first_air_date": "2018-06-07",
+        "softcore": false,
+        "vote_average": 7.075,
+        "vote_count": 681,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
+        "id": 38472,
+        "name": "جيسيكا جونز",
+        "original_name": "Marvel's Jessica Jones",
+        "overview": "لأن ماضيها المؤلم يطاردها، تستخدم \"جيسيكا جونز\" ملكتَها كمحققة خاصة للوصول إلى معذِّبها قبل أن يتمكن من إيذاء الآخرين في \"هيلزكيتشن\".",
+        "poster_path": "/kv5RhTuy29YWddgMTar8pS9BqnG.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 21.3158,
+        "first_air_date": "2015-11-20",
+        "softcore": false,
+        "vote_average": 7.487,
+        "vote_count": 2703,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kzRPbMYm6ony1m0czLamZ15s0dk.jpg",
+        "id": 62620,
+        "name": "No Offence",
+        "original_name": "No Offence",
+        "overview": "Keeping these streets clean is a Herculean task, enough to demoralize even the keenest rookie – but there’s a reason why this hotchpotch of committed cops are on this force, on this side of town. Drug labs, arsonists, neo-Nazis and notorious murderers are all in a day’s work for this close-knit team, led by the dizzyingly capable but unquestionably unhinged DI Vivienne Deering. But when a particularly twisted serial killer emerges it leaves even the most hardened of these seasoned coppers reeling.",
+        "poster_path": "/yqftJK3cwbbjmfm8SsN2kjBezVc.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "popularity": 14.0704,
+        "first_air_date": "2015-05-05",
+        "softcore": false,
+        "vote_average": 7.466,
+        "vote_count": 74,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uNvpN37f9HbvsDBQFhHU5m2EnVo.jpg",
+        "id": 128904,
+        "name": "Dark Winds",
+        "original_name": "Dark Winds",
+        "overview": "رجلي شرطة في السبعينات عليهم تغيير عقائدهم الروحية عندما يبحثون عن خيوط في قضية قتل مزدوج.",
+        "poster_path": "/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 27.9009,
+        "first_air_date": "2022-06-12",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 210,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w4HqCpNojW3kbgtj4qHCnf5G7bf.jpg",
+        "id": 213306,
+        "name": "Cross",
+        "original_name": "Cross",
+        "overview": "دراما بوليسية تدور أحداثها في العاصمة \"واشنطن\" وترصد حياة \"أليكس كروس\" المحقق الجنائي اللامع، الذي تهدد صراعاته الشخصية بهدم حياته المهنية والأسرية. مسلسل مستوحى من سلسلة الروايات الأكثر مبيعاً من تأليف \"جيمس باترسون\".",
+        "poster_path": "/6hhKdavCEZi8d584ZtIrQIrBvZI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 21.6882,
+        "first_air_date": "2024-11-14",
+        "softcore": false,
+        "vote_average": 7.019,
+        "vote_count": 322,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9PARvL1FQtyjNhLF6AT6Oanqg1U.jpg",
+        "id": 80213,
+        "name": "The Purge",
+        "original_name": "The Purge",
+        "overview": "تدور أحداث المسلسل في أمريكا بائسة يحكمها حزب سياسي شمولي، ويتابع عدة شخصيات تبدو غير مترابطة تعيش في مدينة صغيرة. يربطهم جميعًا منقذ غامض مجهز تجهيزًا مثاليًا لمواجهة كل ما يخبئه لهم الليل. ومع اقتراب نهاية الوقت ومصيرهم معلق في الميزان، يُجبر كل شخصية على مواجهة ماضيها واكتشاف إلى أي مدى ستذهب للبقاء على قيد الحياة.",
+        "poster_path": "/9CaS2XFd0Db42grzzVBnWcSkrbg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "popularity": 14.4267,
+        "first_air_date": "2018-09-04",
+        "softcore": false,
+        "vote_average": 6.904,
+        "vote_count": 3411,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 28,
+    "total_results": 543
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3497,
+        "known_for_department": "Acting",
+        "name": "كايل تشاندلر",
+        "original_name": "Kyle Chandler",
+        "popularity": 6.4047,
+        "profile_path": "/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg",
+        "character": "Hal Jordan",
+        "credit_id": "66f6f9f25315c2d048c11645",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1763709,
+        "known_for_department": "Acting",
+        "name": "آرون بيير",
+        "original_name": "Aaron Pierre",
+        "popularity": 6.4106,
+        "profile_path": "/hNwZWdT2KxKj1YLbipvtUhNjfAp.jpg",
+        "character": "John Stewart",
+        "credit_id": "6706b04a7e3cee7d3f9cf7db",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 9015,
+        "known_for_department": "Acting",
+        "name": "كيلي ماكدونالد",
+        "original_name": "Kelly Macdonald",
+        "popularity": 4.8565,
+        "profile_path": "/k0yVocTnTMWlNdaeOO7YRViCdhO.jpg",
+        "character": "Sheriff Kerry Kane",
+        "credit_id": "671fb1a8427c5c19f0267ace",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 39520,
+        "known_for_department": "Acting",
+        "name": "غاريت ديلاهونت",
+        "original_name": "Garret Dillahunt",
+        "popularity": 4.274,
+        "profile_path": "/4L9bdqQIdfrtqR7JQdsIhlF3Fjk.jpg",
+        "character": "William 'Will' Macon",
+        "credit_id": "672529622a4deb99bd9dce0d",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 428440,
+        "known_for_department": "Acting",
+        "name": "بورنا جاجاناثان",
+        "original_name": "Poorna Jagannathan",
+        "popularity": 3.918,
+        "profile_path": "/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg",
+        "character": "Zoe Macon",
+        "credit_id": "673d1faa8fbc08961a23c50f",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4455,
+        "known_for_department": "Acting",
+        "name": "Ulrich Thomsen",
+        "original_name": "Ulrich Thomsen",
+        "popularity": 2.3387,
+        "profile_path": "/qjXAPbuO8CicunlQs07c1fbFG67.jpg",
+        "character": "Sinestro",
+        "credit_id": "6a9e2b2a33e9b6d02a144031",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 15218,
+        "known_for_department": "Writing",
+        "name": "جيمس غان",
+        "original_name": "James Gunn",
+        "popularity": 4,
+        "profile_path": "/pnKqZub3IlKYbyH9RRTMDOoqEn0.jpg",
+        "credit_id": "63dde9c8cd204600e20e21d3",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52259,
+        "known_for_department": "Production",
+        "name": "Peter Safran",
+        "original_name": "Peter Safran",
+        "popularity": 1.0056,
+        "profile_path": "/p9gR2taQgpt9FI8lMzZJXfOGrPy.jpg",
+        "credit_id": "63dde9d2e5593700c744cbd5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1258079,
+        "known_for_department": "Writing",
+        "name": "كريس موندي",
+        "original_name": "Chris Mundy",
+        "popularity": 4.2072,
+        "profile_path": "/aEWK5Qo1U896iMsUMd2oY8yso1I.jpg",
+        "credit_id": "667b23a237cdaf14803b6e54",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 28974,
+        "known_for_department": "Writing",
+        "name": "دامون ليندلوف",
+        "original_name": "Damon Lindelof",
+        "popularity": 1.6166,
+        "profile_path": "/9V75oRAKiI0chdg1wGh1wPqaXsG.jpg",
+        "credit_id": "667b23af85ef0c58f6a0b29e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2325172,
+        "known_for_department": "Crew",
+        "name": "توم كينغ",
+        "original_name": "Tom King",
+        "popularity": 0.7066,
+        "profile_path": "/no73FbFgWdBB5wU6xEc7WKT8EIs.jpg",
+        "credit_id": "667b23bf116357f919b18146",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 30310,
+        "known_for_department": "Directing",
+        "name": "James Hawes",
+        "original_name": "James Hawes",
+        "popularity": 0.9175,
+        "profile_path": "/9MmTr9DHvPPcAkRK0ddNxZs0gzS.jpg",
+        "credit_id": "6706b19aa88614d6b08b08f5",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63291,
+        "known_for_department": "Production",
+        "name": "Ron Schmidt",
+        "original_name": "Ron Schmidt",
+        "popularity": 0.8522,
+        "profile_path": null,
+        "credit_id": "6796f9e63ae355c4788f2a2c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53360,
+        "known_for_department": "Production",
+        "name": "Alexa L. Fogel",
+        "original_name": "Alexa L. Fogel",
+        "popularity": 0.8099,
+        "profile_path": "/ctcsQwIEB10RFqZiCnMQ70WiTJc.jpg",
+        "credit_id": "6796fa673f7fcf67d08f4947",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1762782,
+        "known_for_department": "Production",
+        "name": "Karen Wacker",
+        "original_name": "Karen Wacker",
+        "popularity": 0.9036,
+        "profile_path": "/85faEMafMaXi1CuiayoybUwBmQY.jpg",
+        "credit_id": "67a0b3c7f0f9dbdba6958cf1",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1852275,
+        "known_for_department": "Writing",
+        "name": "Breannah Gibson",
+        "original_name": "Breannah Gibson",
+        "popularity": 0.999,
+        "profile_path": null,
+        "credit_id": "697db443e8950d7430cfe1d4",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1452717,
+        "known_for_department": "Writing",
+        "name": "Justin Britt-Gibson",
+        "original_name": "Justin Britt-Gibson",
+        "popularity": 0.6634,
+        "profile_path": null,
+        "credit_id": "697db497800b95b5bdcfe38c",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1227391,
+        "known_for_department": "Acting",
+        "name": "فانيسا بيدن",
+        "original_name": "Vanessa Baden Kelly",
+        "popularity": 1.0551,
+        "profile_path": "/qywwmAIhNPKJnmwM4qVDjFnmCca.jpg",
+        "credit_id": "697db4aabc377f78e715e365",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2584071,
+        "known_for_department": "Sound",
+        "name": "Stephanie Economou",
+        "original_name": "Stephanie Economou",
+        "popularity": 0.5098,
+        "profile_path": "/4Zc2XadAVeAfOPuRKG9Q7X1omdV.jpg",
+        "credit_id": "69f3e889b9484a1fa1e7cd8b",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 21268,
+        "known_for_department": "Art",
+        "name": "John Paino",
+        "original_name": "John Paino",
+        "popularity": 0.649,
+        "profile_path": "/nyxXZK2bit8lJtG4LZusrPul64n.jpg",
+        "credit_id": "6a826c79e73dd5e900022002",
+        "department": "Art",
+        "job": "Production Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1970151,
+        "known_for_department": "Production",
+        "name": "Kiegan Downs",
+        "original_name": "Kiegan Downs",
+        "popularity": 0.3828,
+        "profile_path": null,
+        "credit_id": "6a826d91c0d8d39bda72bf97",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2194373,
+        "known_for_department": "Production",
+        "name": "Don Bensko",
+        "original_name": "Don Bensko",
+        "popularity": 0.3684,
+        "profile_path": null,
+        "credit_id": "6a826da3e73dd5e900022012",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1747745,
+        "known_for_department": "Editing",
+        "name": "Vikash Patel",
+        "original_name": "Vikash Patel",
+        "popularity": 0.4594,
+        "profile_path": null,
+        "credit_id": "6a826dbb58549012b69020ff",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1762704,
+        "known_for_department": "Acting",
+        "name": "Justin Riemer",
+        "original_name": "Justin Riemer",
+        "popularity": 0.5049,
+        "profile_path": "/fopwG7tU8UK5pWuqThf0CjMZGnE.jpg",
+        "credit_id": "6a826f5d48b652cdc12b1baa",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2194373,
+        "known_for_department": "Production",
+        "name": "Don Bensko",
+        "original_name": "Don Bensko",
+        "popularity": 0.3684,
+        "profile_path": null,
+        "credit_id": "6a826f68a31f5e1dcd066dc3",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1762782,
+        "known_for_department": "Production",
+        "name": "Karen Wacker",
+        "original_name": "Karen Wacker",
+        "popularity": 0.9036,
+        "profile_path": "/85faEMafMaXi1CuiayoybUwBmQY.jpg",
+        "credit_id": "6a826f6ea31f5e1dcd066dc6",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 63291,
+        "known_for_department": "Production",
+        "name": "Ron Schmidt",
+        "original_name": "Ron Schmidt",
+        "popularity": 0.8522,
+        "profile_path": null,
+        "credit_id": "6a826f730ca406c595495abf",
+        "department": "Production",
+        "job": "Unit Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2014532,
+        "known_for_department": "Visual Effects",
+        "name": "Greg Steele",
+        "original_name": "Greg Steele",
+        "popularity": 0.6189,
+        "profile_path": "/I4vx0E1bpwXUZZI8Ws2q3Kt0OK.jpg",
+        "credit_id": "6a826fa926148149de768dde",
+        "department": "Visual Effects",
+        "job": "Visual Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4115027,
+        "known_for_department": "Visual Effects",
+        "name": "Eddie Bonin",
+        "original_name": "Eddie Bonin",
+        "popularity": 0.3499,
+        "profile_path": null,
+        "credit_id": "6a826fb30a583f46ca182e1d",
+        "department": "Visual Effects",
+        "job": "Visual Effects Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 53115,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cynthia Ann Summers",
+        "original_name": "Cynthia Ann Summers",
+        "popularity": 0.5897,
+        "profile_path": "/ehNdj9qJCyJaVMisENzbmiNNAe7.jpg",
+        "credit_id": "6a826fbec410b961b5ff697e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1529999,
+        "known_for_department": "Sound",
+        "name": "Gabe Hilfer",
+        "original_name": "Gabe Hilfer",
+        "popularity": 1.1419,
+        "profile_path": "/yzgug2dkaDpbMcEvufBCeJZyqY9.jpg",
+        "credit_id": "6a826ffe2c763b1ed8879ad6",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2661380,
+        "known_for_department": "Production",
+        "name": "Matthew Monaco",
+        "original_name": "Matthew Monaco",
+        "popularity": 0.2919,
+        "profile_path": null,
+        "credit_id": "6a82702ff05fab78982dbb0b",
+        "department": "Crew",
+        "job": "Production Controller"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3458451,
+        "known_for_department": "Production",
+        "name": "Nicole Kimmel",
+        "original_name": "Nicole Kimmel",
+        "popularity": 0.3437,
+        "profile_path": null,
+        "credit_id": "6a82706c77093df004495aa9",
+        "department": "Production",
+        "job": "Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416820,
+        "known_for_department": "Production",
+        "name": "Sarah Scharfenberg",
+        "original_name": "Sarah Scharfenberg",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a8270942022a17f28957a8d",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5126660,
+        "known_for_department": "Production",
+        "name": "Sara Chaisson",
+        "original_name": "Sara Chaisson",
+        "popularity": 0.4544,
+        "profile_path": null,
+        "credit_id": "6a8270a03c2e4998b4768e4f",
+        "department": "Production",
+        "job": "Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416822,
+        "known_for_department": "Production",
+        "name": "Elise Risio",
+        "original_name": "Elise Risio",
+        "popularity": 0.2566,
+        "profile_path": null,
+        "credit_id": "6a8270b941ea05e718957a28",
+        "department": "Production",
+        "job": "Assistant Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416825,
+        "known_for_department": "Production",
+        "name": "James Shickich",
+        "original_name": "James Shickich",
+        "popularity": 0.2566,
+        "profile_path": null,
+        "credit_id": "6a8270d5f8a7824bbc182fb0",
+        "department": "Production",
+        "job": "Production Secretary"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416827,
+        "known_for_department": "Production",
+        "name": "Janice Fung",
+        "original_name": "Janice Fung",
+        "popularity": 0.2615,
+        "profile_path": null,
+        "credit_id": "6a8270e773a0e226ec495acd",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2195269,
+        "known_for_department": "Production",
+        "name": "Stefanie Swanson",
+        "original_name": "Stefanie Swanson",
+        "popularity": 0.3373,
+        "profile_path": null,
+        "credit_id": "6a8270efe73dd5e90002201b",
+        "department": "Production",
+        "job": "First Assistant Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4201068,
+        "known_for_department": "Production",
+        "name": "Kirsten Short",
+        "original_name": "Kirsten Short",
+        "popularity": 0.2694,
+        "profile_path": null,
+        "credit_id": "6a827104a955860d2c72bd81",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3772781,
+        "known_for_department": "Production",
+        "name": "Tyler Hansen",
+        "original_name": "Tyler Hansen",
+        "popularity": 0.2754,
+        "profile_path": null,
+        "credit_id": "6a82710b22ead9ffd5ff69f9",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416831,
+        "known_for_department": "Production",
+        "name": "Robert Lewandowski",
+        "original_name": "Robert Lewandowski",
+        "popularity": 0.2819,
+        "profile_path": null,
+        "credit_id": "6a82712095322294bd182f4b",
+        "department": "Production",
+        "job": "Payroll Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416832,
+        "known_for_department": "Production",
+        "name": "Francisco Altamirano",
+        "original_name": "Francisco Altamirano",
+        "popularity": 0.2749,
+        "profile_path": null,
+        "credit_id": "6a82713d92816153762b1c02",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416834,
+        "known_for_department": "Production",
+        "name": "Jake Baker",
+        "original_name": "Jake Baker",
+        "popularity": 0.2735,
+        "profile_path": null,
+        "credit_id": "6a8271599eb5bf2236066dee",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416835,
+        "known_for_department": "Production",
+        "name": "Abbas J. Esrafili",
+        "original_name": "Abbas J. Esrafili",
+        "popularity": 0.2604,
+        "profile_path": null,
+        "credit_id": "6a827174640dc3cbbcff6a59",
+        "department": "Production",
+        "job": "Second Assistant Accountant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1352983,
+        "known_for_department": "Directing",
+        "name": "Valeria Migliassi Collins",
+        "original_name": "Valeria Migliassi Collins",
+        "popularity": 0.4783,
+        "profile_path": null,
+        "credit_id": "6a827184d6e8c758ad066d92",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3149321,
+        "known_for_department": "Directing",
+        "name": "Matthew Kramer",
+        "original_name": "Matthew Kramer",
+        "popularity": 0.2837,
+        "profile_path": null,
+        "credit_id": "6a82718d8a232a8862022014",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3499414,
+        "known_for_department": "Directing",
+        "name": "Laura Hoyt",
+        "original_name": "Laura Hoyt",
+        "popularity": 0.3157,
+        "profile_path": null,
+        "credit_id": "6a8271932828ac577490205c",
+        "department": "Directing",
+        "job": "Second Second Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416838,
+        "known_for_department": "Production",
+        "name": "Julia Getz",
+        "original_name": "Julia Getz",
+        "popularity": 0.2632,
+        "profile_path": null,
+        "credit_id": "6a8271a2f8a7824bbc182fc0",
+        "department": "Production",
+        "job": "Key Set Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2003114,
+        "known_for_department": "Production",
+        "name": "Kathryn Zamora-Benson",
+        "original_name": "Kathryn Zamora-Benson",
+        "popularity": 0.6048,
+        "profile_path": null,
+        "credit_id": "6a8271b02c763b1ed8879adc",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2899955,
+        "known_for_department": "Production",
+        "name": "Elizabeth Berra",
+        "original_name": "Elizabeth Berra",
+        "popularity": 0.5338,
+        "profile_path": null,
+        "credit_id": "6a8271b78153cc698aff6a3e",
+        "department": "Production",
+        "job": "Casting Associate"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416839,
+        "known_for_department": "Production",
+        "name": "Jenise Crawford",
+        "original_name": "Jenise Crawford",
+        "popularity": 0.3017,
+        "profile_path": null,
+        "credit_id": "6a8271c34d097fca99182efa",
+        "department": "Production",
+        "job": "Casting Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416840,
+        "known_for_department": "Crew",
+        "name": "Christopher Ryan Askew",
+        "original_name": "Christopher Ryan Askew",
+        "popularity": 0.2936,
+        "profile_path": null,
+        "credit_id": "6a8271cf22ead9ffd5ff6a08",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416842,
+        "known_for_department": "Crew",
+        "name": "Alexia Colombo DIaz",
+        "original_name": "Alexia Colombo DIaz",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a8271db149acab15de0b5fe",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4891648,
+        "known_for_department": "Production",
+        "name": "Brooke Elkjer",
+        "original_name": "Brooke Elkjer",
+        "popularity": 0.2801,
+        "profile_path": null,
+        "credit_id": "6a8271e376e433d2bc879a7d",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5897278,
+        "known_for_department": "Crew",
+        "name": "Isaac Meiring",
+        "original_name": "Isaac Meiring",
+        "popularity": 0.2566,
+        "profile_path": null,
+        "credit_id": "6a8271ec5f137105f690209c",
+        "department": "Crew",
+        "job": "Set Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1492646,
+        "known_for_department": "Production",
+        "name": "Sande Alessi",
+        "original_name": "Sande Alessi",
+        "popularity": 0.4691,
+        "profile_path": null,
+        "credit_id": "6a8272130ca406c595495ac4",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2052477,
+        "known_for_department": "Production",
+        "name": "Shayne Hartigan",
+        "original_name": "Shayne Hartigan",
+        "popularity": 0.5866,
+        "profile_path": "/nS8PyufxmoZFS3JgQmNb1HqNtee.jpg",
+        "credit_id": "6a82723176e433d2bc879a84",
+        "department": "Production",
+        "job": "Extras Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19663,
+        "known_for_department": "Art",
+        "name": "Austin Gorg",
+        "original_name": "Austin Gorg",
+        "popularity": 0.407,
+        "profile_path": null,
+        "credit_id": "6a827246f6784563882b1d08",
+        "department": "Art",
+        "job": "Supervising Art Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1634418,
+        "known_for_department": "Art",
+        "name": "Wes Hottman",
+        "original_name": "Wes Hottman",
+        "popularity": 0.4209,
+        "profile_path": null,
+        "credit_id": "6a82724ef6784563882b1d0b",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2116292,
+        "known_for_department": "Art",
+        "name": "Jason Perrine",
+        "original_name": "Jason Perrine",
+        "popularity": 0.8296,
+        "profile_path": null,
+        "credit_id": "6a827254e6c66478ac182f1f",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1634421,
+        "known_for_department": "Art",
+        "name": "Steven Light-Orr",
+        "original_name": "Steven Light-Orr",
+        "popularity": 0.3196,
+        "profile_path": null,
+        "credit_id": "6a82725e09b2e7860f72be62",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2337324,
+        "known_for_department": "Art",
+        "name": "Mary Sader",
+        "original_name": "Mary Sader",
+        "popularity": 0.2659,
+        "profile_path": null,
+        "credit_id": "6a82726a381680968de0b62d",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1612808,
+        "known_for_department": "Art",
+        "name": "Venessa De Anda",
+        "original_name": "Venessa De Anda",
+        "popularity": 0.3051,
+        "profile_path": null,
+        "credit_id": "6a8272a89eb5bf2236066dfb",
+        "department": "Art",
+        "job": "Art Department Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3961765,
+        "known_for_department": "Crew",
+        "name": "Kimberly Pope",
+        "original_name": "Kimberly Pope",
+        "popularity": 0.3487,
+        "profile_path": null,
+        "credit_id": "6a8272b622ead9ffd5ff6a1a",
+        "department": "Crew",
+        "job": "Clearances Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416851,
+        "known_for_department": "Production",
+        "name": "Taylor Johnston",
+        "original_name": "Taylor Johnston",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a8272da1eb5a0eea7768d6c",
+        "department": "Production",
+        "job": "Art Department Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 21591,
+        "known_for_department": "Art",
+        "name": "Amy Wells",
+        "original_name": "Amy Wells",
+        "popularity": 0.4061,
+        "profile_path": null,
+        "credit_id": "6a8272e97277fc3a78768d75",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2463895,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Katherine Kousakis",
+        "original_name": "Katherine Kousakis",
+        "popularity": 0.4296,
+        "profile_path": null,
+        "credit_id": "6a8272fdd6e8c758ad066da4",
+        "department": "Costume & Make-Up",
+        "job": "Hair Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 938068,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Myriam Arougheti",
+        "original_name": "Myriam Arougheti",
+        "popularity": 0.3806,
+        "profile_path": "/8As1RY9kuBbECVKZMLd3glzipQl.jpg",
+        "credit_id": "6a8273094c0b69db58879add",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Department Head"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2229839,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Anna Zenner",
+        "original_name": "Anna Zenner",
+        "popularity": 0.3252,
+        "profile_path": null,
+        "credit_id": "6a827313381680968de0b646",
+        "department": "Costume & Make-Up",
+        "job": "Key Hair Stylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3678622,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Guyla Wilkerson",
+        "original_name": "Guyla Wilkerson",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a82732209b2e7860f72be65",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2776778,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christopher Leneo",
+        "original_name": "Christopher Leneo",
+        "popularity": 0.2707,
+        "profile_path": null,
+        "credit_id": "6a827336381680968de0b649",
+        "department": "Costume & Make-Up",
+        "job": "Hairstylist"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1560061,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Christian Burgoyne",
+        "original_name": "Christian Burgoyne",
+        "popularity": 0.3043,
+        "profile_path": null,
+        "credit_id": "6a827350a31f5e1dcd066dd3",
+        "department": "Costume & Make-Up",
+        "job": "Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1313058,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Ivy Heather Thaide",
+        "original_name": "Ivy Heather Thaide",
+        "popularity": 0.2829,
+        "profile_path": null,
+        "credit_id": "6a8273625d5bcc3a02182f8a",
+        "department": "Costume & Make-Up",
+        "job": "Assistant Costume Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1341860,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Eden Clark Coblenz",
+        "original_name": "Eden Clark Coblenz",
+        "popularity": 0.2904,
+        "profile_path": null,
+        "credit_id": "6a82736ef6784563882b1d0f",
+        "department": "Costume & Make-Up",
+        "job": "Costume Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416857,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aaron E. Millsap",
+        "original_name": "Aaron E. Millsap",
+        "popularity": 0.2683,
+        "profile_path": null,
+        "credit_id": "6a82739241ea05e718957a65",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2244091,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Danny Vick",
+        "original_name": "Danny Vick",
+        "popularity": 0.33,
+        "profile_path": null,
+        "credit_id": "6a8273981eafb73b0272bea6",
+        "department": "Costume & Make-Up",
+        "job": "Key Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416858,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Steve Kovacic",
+        "original_name": "Steve Kovacic",
+        "popularity": 0.2563,
+        "profile_path": null,
+        "credit_id": "6a8273abad16887ff6ff6a09",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1594001,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Cesha Ventre",
+        "original_name": "Cesha Ventre",
+        "popularity": 0.3328,
+        "profile_path": null,
+        "credit_id": "6a8273b54c718a396702206d",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416861,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Julia Batch",
+        "original_name": "Julia Batch",
+        "popularity": 0.2607,
+        "profile_path": null,
+        "credit_id": "6a8273c47989592544e0b67e",
+        "department": "Costume & Make-Up",
+        "job": "Costume Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1415109,
+        "known_for_department": "Camera",
+        "name": "John Johnson",
+        "original_name": "John Johnson",
+        "popularity": 0.4886,
+        "profile_path": "/70KInyN8BRtsDr3qgexjWnR18Ma.jpg",
+        "credit_id": "6a8273e4f6784563882b1d3b",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1565006,
+        "known_for_department": "Sound",
+        "name": "Richard Bullock Jr.",
+        "original_name": "Richard Bullock Jr.",
+        "popularity": 0.4267,
+        "profile_path": null,
+        "credit_id": "6a8273f8d124ef61ca066e0b",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2066584,
+        "known_for_department": "Sound",
+        "name": "Patrick Martens",
+        "original_name": "Patrick Martens",
+        "popularity": 0.4316,
+        "profile_path": null,
+        "credit_id": "6a827407be11fa40b32b1e39",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3418543,
+        "known_for_department": "Lighting",
+        "name": "Craig Riley",
+        "original_name": "Craig Riley",
+        "popularity": 0.3174,
+        "profile_path": null,
+        "credit_id": "6a827420c410b961b5ff6998",
+        "department": "Camera",
+        "job": "Key Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416865,
+        "known_for_department": "Visual Effects",
+        "name": "Mark Byers",
+        "original_name": "Mark Byers",
+        "popularity": 0.3006,
+        "profile_path": null,
+        "credit_id": "6a82743fad16887ff6ff6a1f",
+        "department": "Visual Effects",
+        "job": "Special Effects Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416866,
+        "known_for_department": "Crew",
+        "name": "Nicholas Morrow",
+        "original_name": "Nicholas Morrow",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a827455308b1c2cbf103a24",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416867,
+        "known_for_department": "Crew",
+        "name": "Eric Smith",
+        "original_name": "Eric Smith",
+        "popularity": 0.2812,
+        "profile_path": null,
+        "credit_id": "6a82746d22ead9ffd5ff6a5d",
+        "department": "Crew",
+        "job": "Special Effects Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2254049,
+        "known_for_department": "Production",
+        "name": "Chelsea Madison",
+        "original_name": "Chelsea Madison",
+        "popularity": 0.319,
+        "profile_path": null,
+        "credit_id": "6a8274802022a17f28957ac0",
+        "department": "Crew",
+        "job": "Special Effects Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416868,
+        "known_for_department": "Production",
+        "name": "Adriana Ruacho",
+        "original_name": "Adriana Ruacho",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a827498fd1e56b90a72bf14",
+        "department": "Production",
+        "job": "Location Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2413835,
+        "known_for_department": "Writing",
+        "name": "Brittany Worthington",
+        "original_name": "Brittany Worthington",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "6a8274ba77093df004495b30",
+        "department": "Directing",
+        "job": "Script Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4264649,
+        "known_for_department": "Production",
+        "name": "Noah Sellman",
+        "original_name": "Noah Sellman",
+        "popularity": 0.267,
+        "profile_path": null,
+        "credit_id": "6a8274c409df9127dd066e3f",
+        "department": "Writing",
+        "job": "Writers' Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1347760,
+        "known_for_department": "Crew",
+        "name": "Elizabeth Himelstein",
+        "original_name": "Elizabeth Himelstein",
+        "popularity": 0.4562,
+        "profile_path": null,
+        "credit_id": "6a8274dbab54588a522b1d24",
+        "department": "Crew",
+        "job": "Dialect Coach"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6088531,
+        "known_for_department": "Acting",
+        "name": "Ally Lucchi",
+        "original_name": "Ally Lucchi",
+        "popularity": 0.3726,
+        "profile_path": null,
+        "credit_id": "6a8274e9361a98e65472bf49",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416873,
+        "known_for_department": "Production",
+        "name": "Joaquin Lopez",
+        "original_name": "Joaquin Lopez",
+        "popularity": 0.2654,
+        "profile_path": null,
+        "credit_id": "6a82751a09df9127dd066e4c",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5641622,
+        "known_for_department": "Production",
+        "name": "Michael Carragher",
+        "original_name": "Michael Carragher",
+        "popularity": 0.3003,
+        "profile_path": null,
+        "credit_id": "6a8275234c0b69db58879afa",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5641624,
+        "known_for_department": "Production",
+        "name": "Macelyn Morris",
+        "original_name": "Macelyn Morris",
+        "popularity": 0.3169,
+        "profile_path": null,
+        "credit_id": "6a827532c410b961b5ff699f",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416877,
+        "known_for_department": "Production",
+        "name": "Jack Bernstein",
+        "original_name": "Jack Bernstein",
+        "popularity": 0.2691,
+        "profile_path": null,
+        "credit_id": "6a82753ee6c66478ac182f35",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416879,
+        "known_for_department": "Production",
+        "name": "Kerry Sadlier",
+        "original_name": "Kerry Sadlier",
+        "popularity": 0.2823,
+        "profile_path": null,
+        "credit_id": "6a82754be6c66478ac182f42",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5682684,
+        "known_for_department": "Production",
+        "name": "Maryana Nikolin",
+        "original_name": "Maryana Nikolin",
+        "popularity": 0.2825,
+        "profile_path": null,
+        "credit_id": "6a8275584b84571d07066d95",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5682684,
+        "known_for_department": "Production",
+        "name": "Maryana Nikolin",
+        "original_name": "Maryana Nikolin",
+        "popularity": 0.2825,
+        "profile_path": null,
+        "credit_id": "6a827565c410b961b5ff69a7",
+        "department": "Production",
+        "job": "Executive Producer's Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3709569,
+        "known_for_department": "Production",
+        "name": "Kymberly Pereira",
+        "original_name": "Kymberly Pereira",
+        "popularity": 0.3326,
+        "profile_path": null,
+        "credit_id": "6a8275a84d097fca99182f09",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416820,
+        "known_for_department": "Production",
+        "name": "Sarah Scharfenberg",
+        "original_name": "Sarah Scharfenberg",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a8275b1ed04a2abea103ae2",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1970151,
+        "known_for_department": "Production",
+        "name": "Kiegan Downs",
+        "original_name": "Kiegan Downs",
+        "popularity": 0.3828,
+        "profile_path": null,
+        "credit_id": "6a8275b9f8a7824bbc183003",
+        "department": "Crew",
+        "job": "Post Production Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416889,
+        "known_for_department": "Production",
+        "name": "Jazmin Freire",
+        "original_name": "Jazmin Freire",
+        "popularity": 0.2967,
+        "profile_path": null,
+        "credit_id": "6a8275c577e30ea1fb103b0a",
+        "department": "Production",
+        "job": "Post Production Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416890,
+        "known_for_department": "Crew",
+        "name": "Patience Owusu-Ofori",
+        "original_name": "Patience Owusu-Ofori",
+        "popularity": 0.2657,
+        "profile_path": null,
+        "credit_id": "6a8275d5640dc3cbbcff6a6c",
+        "department": "Crew",
+        "job": "Post Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416893,
+        "known_for_department": "Sound",
+        "name": "Michael Alexander",
+        "original_name": "Michael Alexander",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a8275eea4f5900a81022017",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1558994,
+        "known_for_department": "Sound",
+        "name": "Rebecca Rienks",
+        "original_name": "Rebecca Rienks",
+        "popularity": 0.3174,
+        "profile_path": null,
+        "credit_id": "6a8275fa1a9c3d6db7103ab6",
+        "department": "Sound",
+        "job": "Music Consultant"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1865401,
+        "known_for_department": "Acting",
+        "name": "Wes Whitehead",
+        "original_name": "Wes Whitehead",
+        "popularity": 0.3691,
+        "profile_path": null,
+        "credit_id": "6a82760fd6e8c758ad066dcb",
+        "department": "Sound",
+        "job": "Music Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3498708,
+        "known_for_department": "Sound",
+        "name": "Caroline Ho",
+        "original_name": "Caroline Ho",
+        "popularity": 0.5346,
+        "profile_path": "/pkQdV93Y5Z5pjgp9wyBdDXrHonB.jpg",
+        "credit_id": "6a827659381680968de0b658",
+        "department": "Sound",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2878353,
+        "known_for_department": "Sound",
+        "name": "سكوت سميث",
+        "original_name": "Scott Michael Smith",
+        "popularity": 0.5038,
+        "profile_path": null,
+        "credit_id": "6a82766426148149de768e06",
+        "department": "Sound",
+        "job": "Scoring Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1537682,
+        "known_for_department": "Sound",
+        "name": "Nick Forshager",
+        "original_name": "Nick Forshager",
+        "popularity": 0.4528,
+        "profile_path": null,
+        "credit_id": "6a82767477e30ea1fb103b2f",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1903381,
+        "known_for_department": "Sound",
+        "name": "Kathryn Madsen",
+        "original_name": "Kathryn Madsen",
+        "popularity": 0.4004,
+        "profile_path": null,
+        "credit_id": "6a827682381680968de0b65b",
+        "department": "Sound",
+        "job": "Sound Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1903381,
+        "known_for_department": "Sound",
+        "name": "Kathryn Madsen",
+        "original_name": "Kathryn Madsen",
+        "popularity": 0.4004,
+        "profile_path": null,
+        "credit_id": "6a82769276e433d2bc879ad5",
+        "department": "Sound",
+        "job": "ADR Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83090,
+        "known_for_department": "Sound",
+        "name": "Todd Toon",
+        "original_name": "Todd Toon",
+        "popularity": 0.5503,
+        "profile_path": "/4GUXef80FGLGhSyXUlhkVrbue8g.jpg",
+        "credit_id": "6a82769ce73dd5e900022046",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1412455,
+        "known_for_department": "Sound",
+        "name": "Todd Grace",
+        "original_name": "Todd Grace",
+        "popularity": 0.5426,
+        "profile_path": null,
+        "credit_id": "6a8276a9308b1c2cbf103a39",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1546559,
+        "known_for_department": "Sound",
+        "name": "Ed Carr",
+        "original_name": "Ed Carr",
+        "popularity": 0.6221,
+        "profile_path": null,
+        "credit_id": "6a8276d67feaea1184103ae7",
+        "department": "Sound",
+        "job": "Sound Re-Recording Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 554886,
+        "known_for_department": "Sound",
+        "name": "Jane Boegel",
+        "original_name": "Jane Boegel",
+        "popularity": 0.6151,
+        "profile_path": null,
+        "credit_id": "6a8276f2d35c43708b957a76",
+        "department": "Sound",
+        "job": "Dialogue Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1428595,
+        "known_for_department": "Sound",
+        "name": "Jason King",
+        "original_name": "Jason King",
+        "popularity": 0.4448,
+        "profile_path": null,
+        "credit_id": "6a82771fd6e8c758ad066dd1",
+        "department": "Sound",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2877402,
+        "known_for_department": "Sound",
+        "name": "Brad J. Bakelmun",
+        "original_name": "Brad J. Bakelmun",
+        "popularity": 0.338,
+        "profile_path": null,
+        "credit_id": "6a82772c09b2e7860f72bea1",
+        "department": "Sound",
+        "job": "Foley Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1616432,
+        "known_for_department": "Production",
+        "name": "Fabiana Arrastia",
+        "original_name": "Fabiana Arrastia",
+        "popularity": 0.3688,
+        "profile_path": null,
+        "credit_id": "6a82773d22ead9ffd5ff6a87",
+        "department": "Sound",
+        "job": "Loop Group Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3321237,
+        "known_for_department": "Visual Effects",
+        "name": "Carrie Stula",
+        "original_name": "Carrie Stula",
+        "popularity": 0.2952,
+        "profile_path": null,
+        "credit_id": "6a8277557b7c1bbe2f879aa1",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1463507,
+        "known_for_department": "Editing",
+        "name": "Reginald Harber Jr.",
+        "original_name": "Reginald Harber Jr.",
+        "popularity": 0.3482,
+        "profile_path": null,
+        "credit_id": "6a82777d8e189deb48495a74",
+        "department": "Visual Effects",
+        "job": "VFX Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416915,
+        "known_for_department": "Visual Effects",
+        "name": "Sarah Best",
+        "original_name": "Sarah Best",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a8277941a9c3d6db7103ac0",
+        "department": "Visual Effects",
+        "job": "Visual Effects Production Assistant"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1733875,
+        "known_for_department": "Editing",
+        "name": "J. Cody Baker",
+        "original_name": "J. Cody Baker",
+        "popularity": 0.4712,
+        "profile_path": null,
+        "credit_id": "6a8277fd7b7c1bbe2f879aaf",
+        "department": "Editing",
+        "job": "Additional Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6416918,
+        "known_for_department": "Production",
+        "name": "Todd Gordon",
+        "original_name": "Todd Gordon",
+        "popularity": 0.2563,
+        "profile_path": null,
+        "credit_id": "6a8278122022a17f28957ad9",
+        "department": "Production",
+        "job": "Finishing Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 62723,
+        "known_for_department": "Editing",
+        "name": "Stefan Sonnenfeld",
+        "original_name": "Stefan Sonnenfeld",
+        "popularity": 0.5331,
+        "profile_path": null,
+        "credit_id": "6a82784b70fc220c25495a7f",
+        "department": "Editing",
+        "job": "Other"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2767072,
+        "known_for_department": "Camera",
+        "name": "Mikael Levin",
+        "original_name": "Mikael Levin",
+        "popularity": 0.3193,
+        "profile_path": null,
+        "credit_id": "6a832dd21a9c3d6db7104128",
+        "department": "Camera",
+        "job": "\"A\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2767072,
+        "known_for_department": "Camera",
+        "name": "Mikael Levin",
+        "original_name": "Mikael Levin",
+        "popularity": 0.3193,
+        "profile_path": null,
+        "credit_id": "6a832dd82022a17f289581bd",
+        "department": "Camera",
+        "job": "Steadicam Operator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1577249,
+        "known_for_department": "Camera",
+        "name": "Ilan Levin",
+        "original_name": "Ilan Levin",
+        "popularity": 0.2824,
+        "profile_path": null,
+        "credit_id": "6a832ddee73dd5e90002285a",
+        "department": "Camera",
+        "job": "\"B\" Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3362602,
+        "known_for_department": "Camera",
+        "name": "Niran Martin",
+        "original_name": "Niran Martin",
+        "popularity": 0.3072,
+        "profile_path": null,
+        "credit_id": "6a832e08c6db69eef62b219a",
+        "department": "Camera",
+        "job": "First Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2246642,
+        "known_for_department": "Camera",
+        "name": "Neil Chartier",
+        "original_name": "Neil Chartier",
+        "popularity": 0.2952,
+        "profile_path": null,
+        "credit_id": "6a832e0e1eafb73b0272c4b8",
+        "department": "Camera",
+        "job": "First Assistant \"B\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1660987,
+        "known_for_department": "Camera",
+        "name": "Blake Hooks",
+        "original_name": "Blake Hooks",
+        "popularity": 0.4287,
+        "profile_path": null,
+        "credit_id": "6a832e1526148149de7694cf",
+        "department": "Camera",
+        "job": "Second Assistant \"A\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2793747,
+        "known_for_department": "Camera",
+        "name": "Traci Chartier",
+        "original_name": "Traci Chartier",
+        "popularity": 0.2824,
+        "profile_path": null,
+        "credit_id": "6a832e1aceba891aae87a3de",
+        "department": "Camera",
+        "job": "Second Assistant \"B\" Camera"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1789808,
+        "known_for_department": "Camera",
+        "name": "Dean Georgopoulos",
+        "original_name": "Dean Georgopoulos",
+        "popularity": 0.2909,
+        "profile_path": null,
+        "credit_id": "6a832e22d35c43708b958228",
+        "department": "Camera",
+        "job": "Digital Imaging Technician"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1755543,
+        "known_for_department": "Crew",
+        "name": "Alex Gadberry",
+        "original_name": "Alex Gadberry",
+        "popularity": 0.25,
+        "profile_path": null,
+        "credit_id": "6a832e5309b2e7860f72c6c5",
+        "department": "Crew",
+        "job": "Loader"
+      }
+    ]
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/p4zxZJCQNTPYlMok9MCU4ai2gOf.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 60611,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Believe",
+        "overview": "",
+        "popularity": 8.3072,
+        "poster_path": "/1h1txgv70Rl0b4OrNIJi6korazk.jpg",
+        "first_air_date": "2014-03-10",
+        "softcore": false,
+        "name": "Believe",
+        "vote_average": 6.781,
+        "vote_count": 180
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 60622,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Fargo",
+        "overview": "تبدأ القصة في بلدة هادئة بولاية مينيسوتا عندما يلتقي ليستر نايغارد برجل غامض يدعى لورن مالفو، فيقوده هذا اللقاء إلى سلسلة من الأحداث العنيفة والجرائم التي تقلب حياته رأسًا على عقب. ومع تصاعد الفوضى، تبدأ الشرطة في التحقيق في سلسلة من جرائم القتل، بينما تتشابك حياة المجرمين والسكان العاديين في صراعات غير متوقعة. وبين الطمع والخداع والعنف، يجد ليستر نفسه منجرفًا إلى عالم الجريمة، في حين يسعى المحققون لكشف الحقيقة وإيقاف الأشخاص المسؤولين عن هذه الجرائم.",
+        "popularity": 67.4643,
+        "poster_path": "/dlqixQblNL0SJqt6W37Vz7vcEbD.jpg",
+        "first_air_date": "2014-04-15",
+        "softcore": false,
+        "name": "فارغو",
+        "vote_average": 8.29,
+        "vote_count": 3401
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 93168,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "A Confession",
+        "overview": "",
+        "popularity": 4.4283,
+        "poster_path": "/6c6q8m5PCiXv3TlxmM0vIcLylb0.jpg",
+        "first_air_date": "2019-09-02",
+        "softcore": false,
+        "name": "A Confession",
+        "vote_average": 7.062,
+        "vote_count": 89
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bjSvFFmLtB4luDBdh4amXCO0qUL.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126409,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ギヴン",
+        "overview": "",
+        "popularity": 3.4737,
+        "poster_path": "/zRTUNQt9MYT2HfzsgElYb3CkbqO.jpg",
+        "first_air_date": "2021-07-17",
+        "softcore": false,
+        "name": "ギヴン",
+        "vote_average": 6.542,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k5r2N22yTSIlLZBraf9792MK1gN.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          10762
+        ],
+        "id": 2022,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Batman",
+        "overview": "يحارب الملياردير الشاب بروس واين الجريمة والشر بصفته البطل الغامض، باتمان",
+        "popularity": 21.0449,
+        "poster_path": "/3w7koeOR2x71XYMJDGpygxYtScI.jpg",
+        "first_air_date": "2004-09-11",
+        "softcore": false,
+        "name": "باتمان",
+        "vote_average": 8.032,
+        "vote_count": 511
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/29jWaRhKtey1efp5G7Fu97NAmzz.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          10759
+        ],
+        "id": 126485,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "무빙",
+        "overview": "الأطفال الذين يعيشون في الخفاء مع قوى خارقة، جنبًا إلى جنب مع آبائهم الذين يعيشون مع أسرار الماضي المؤلمة، يواجهون معًا مخاطر هائلة.",
+        "popularity": 30.7799,
+        "poster_path": "/b9MhD5syJ7TbYSeje4wB4oyTzc7.jpg",
+        "first_air_date": "2023-08-09",
+        "softcore": false,
+        "name": "무빙",
+        "vote_average": 8.5,
+        "vote_count": 307
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "id": 60585,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bosch",
+        "overview": "تدور أحداث القصة حول محقق الجرائم الجنائية بوش والذي يجسد شخصيته الفنان تيتوس ويليفر . يحقق بوش في جريمة مقتل طفل وففي نفس الأثناء يواجه قضية قتله لمجرم متسلسل في المحكمة الفدرالية، لتتنقل القصة ما بين التحري والمحاكمة.",
+        "popularity": 52.3387,
+        "poster_path": "/zCltiygaUiAkh5dpuZ2KIFA8WBI.jpg",
+        "first_air_date": "2015-01-14",
+        "softcore": false,
+        "name": "بوش",
+        "vote_average": 7.933,
+        "vote_count": 754
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3J5rPQtETWuEyY9BPr2Lt7FGg7x.jpg",
+        "genre_ids": [
+          10759,
+          10762,
+          18,
+          10765,
+          9648
+        ],
+        "id": 239741,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "仮面ライダークウガ",
+        "overview": "",
+        "popularity": 92.6644,
+        "poster_path": "/iMG3gbf2WUOFKKLdB5c4YX5YWu3.jpg",
+        "first_air_date": "2000-01-30",
+        "softcore": false,
+        "name": "仮面ライダークウガ",
+        "vote_average": 9,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aSye04zKzWtUP3U6Cl4bOXc5Ih9.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 1911,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Bones",
+        "overview": "تدور أحداثه حول مجموعة من الجرائم، حيث يقوم مجموعة من المحققين الفيدراليين بالتحقيق في كل جرائم القتل، ودراسة تفاصيلها الدقيقة، ويكتشفوا سبب القتل عن طريق عظام الضحايا.",
+        "popularity": 130.7207,
+        "poster_path": "/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg",
+        "first_air_date": "2005-09-13",
+        "softcore": false,
+        "name": "عظام",
+        "vote_average": 8.178,
+        "vote_count": 3580
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dZklTql88IDOmkC3JAYQSTgyK6f.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 1920,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Twin Peaks",
+        "overview": "عُثر على جثة لورا بالمر على شاطئ بالقرب من بلدة توين بيكس الصغيرة في ولاية واشنطن. استُدعي العميل الخاص في مكتب التحقيقات الفيدرالي، ديل كوبر، للتحقيق في وفاتها الغامضة، ليكشف عن شبكة من الألغاز تقوده في نهاية المطاف إلى أعماق الغابة المحيطة ونفسه",
+        "popularity": 53.8821,
+        "poster_path": "/fgJJMIA8zFeRErCgCvs73Tsr28d.jpg",
+        "first_air_date": "1990-04-08",
+        "softcore": false,
+        "name": "توين بيكس",
+        "vote_average": 8.341,
+        "vote_count": 2690
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mvi2YbFePpq68xaHEwezpmSEdsv.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "id": 1941,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "牙狼＜GARO＞",
+        "overview": "",
+        "popularity": 32.7418,
+        "poster_path": "/3IBGi1F4oRlykR0k9beIwygn8YM.jpg",
+        "first_air_date": "2005-10-07",
+        "softcore": false,
+        "name": "牙狼＜GARO＞",
+        "vote_average": 7.7,
+        "vote_count": 30
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pXpK8GnLL0wZkfelg5lCVSOnytN.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 1950,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Everwood",
+        "overview": "",
+        "popularity": 47.3022,
+        "poster_path": "/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg",
+        "first_air_date": "2002-09-16",
+        "softcore": false,
+        "name": "Everwood",
+        "vote_average": 7.6,
+        "vote_count": 238
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qw8XT80DuF9OuJKeaBsj1x1trar.jpg",
+        "genre_ids": [
+          10765,
+          10759,
+          10762
+        ],
+        "id": 1983,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "未来戦隊タイムレンジャー",
+        "overview": "",
+        "popularity": 9.9355,
+        "poster_path": "/iWor5oLRzYzOvaE5bbrE6mFZ4fe.jpg",
+        "first_air_date": "2000-02-13",
+        "softcore": false,
+        "name": "未来戦隊タイムレンジャー",
+        "vote_average": 8,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 30391,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Global Frequency",
+        "overview": "",
+        "popularity": 2.3531,
+        "poster_path": "/kPkHV23B92URwGKBDpngZ1ArU2W.jpg",
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Global Frequency",
+        "vote_average": 7.2,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5InCCgNPTtJE0UC2XmpfZicrflx.jpg",
+        "genre_ids": [
+          10759,
+          10751,
+          10762,
+          10765,
+          18
+        ],
+        "id": 2044,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "魔弾戦記リュウケンドー",
+        "overview": "",
+        "popularity": 7.9391,
+        "poster_path": "/iuyz46E7GOU0JzAb44W7A0UZgGk.jpg",
+        "first_air_date": "2006-01-08",
+        "softcore": false,
+        "name": "魔弾戦記リュウケンドー",
+        "vote_average": 8.4,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rbDFI2I1nMyJtX4Y3jJ4H1QRdRX.jpg",
+        "genre_ids": [
+          18,
+          80,
+          10765
+        ],
+        "id": 60708,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Gotham",
+        "overview": "الجميع يعرف اسم المفوض قوردون. من أكبر أعداء الجريمة في العالم، هو رجل تشتهر سمعته بالقانون والنظام. ولكن ما هو معروف من قصة قوردون وصعوده شرطي مبتدئ لمفوض الشرطة؟ ما الذي يتطلبه الأمر للتنقل بين طبقات الفساد المتعددة التي حكمت سراً مدينة قوثام، وما هي الظروف التي أوجدت الشخصيات المشهوره مثل المرأة القط، البطريق، الاحجية، ذو الوجهين والجوكر؟",
+        "popularity": 58.3843,
+        "poster_path": "/zLpSNnVoL2bjQdc1PcaHUPUzttP.jpg",
+        "first_air_date": "2014-09-22",
+        "softcore": false,
+        "name": "قوثام",
+        "vote_average": 7.597,
+        "vote_count": 3791
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5ziXtCZye3NowgFJCBrK3kTd7vn.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648,
+          10765
+        ],
+        "id": 60726,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Forever",
+        "overview": "الدكتور هنري مورغان ، الفاحص الطبي النجم في مدينة نيويورك ، لديه سر. إنه لا يدرس الموتى فقط لحل القضايا الجنائية ، بل يفعل ذلك لحل اللغز الذي استعصى عليه لمدة 200 عام - الجواب على خلوده الذي لا يمكن تفسيره. هذه الحياة الطويلة أعطت هنري مهارات ملحوظة في الملاحظة مما أثار إعجاب شريكه الجديد ،\n\nالمحقق جو مارتينيز. كل أسبوع ، ستكشف قضية جديدة وصداقتهما الناشئة طبقات من ماضي هنري الطويل والملون. فقط أفضل أصدقائه وصديقه ، آبي يعرف سر هنري.",
+        "popularity": 14.8137,
+        "poster_path": "/4OnnU4j2tQEOnsPnRZswW91v9vr.jpg",
+        "first_air_date": "2014-09-22",
+        "softcore": false,
+        "name": "للابد",
+        "vote_average": 7.827,
+        "vote_count": 663
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hsmYzDPyfiv3IlkxZsbeO92C7mP.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
+        "id": 60728,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "キルラキル",
+        "overview": "بطلة هذا الأنمي هي ساتسوكي كيورين وهي رئيسة مجلس الطلبة وتفرض سيطرتها بالقوة إلا أن قدوم ريوكو ماتوي سيقلب موازين القوى.تابعو الأنمي واستمتعو",
+        "popularity": 16.4988,
+        "poster_path": "/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg",
+        "first_air_date": "2013-10-04",
+        "softcore": false,
+        "name": "كيل لا كيل kill la kill",
+        "vote_average": 8.2,
+        "vote_count": 558
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 60735,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Flash",
+        "overview": "بعد أن شاهد والدته تقتل على يد شيء خارق للطبيعة وإدانة والده بالجريمة  التي لم يرتكبها، يذهب باري ألين للعيش مع المحقق جو ويست وعائلته. يكبر ألين ويصبح محقق جرائم ذكي لكن غريب الاطوار في دائرة شرطة سنترال سيتي. في  يوم من الأيام تضرب عاصفة غامضة باري ألين وتعطيه سرعة خارقه. يستغل باري  قدرته الجديدة في محاربة الجريمة وآخرين يمتلكون قدرات خارقة بمساعدة  أصدقائه في مختبرات ستار وفي نفس الوقت يحاول معرفة من قتل والدته عندما  كان صغيراً.",
+        "popularity": 116.521,
+        "poster_path": "/on67BDRo1P6LrsYpnmviCfXN6kR.jpg",
+        "first_air_date": "2014-10-07",
+        "softcore": false,
+        "name": "فلاش",
+        "vote_average": 7.7,
+        "vote_count": 11761
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lmDDpCCei9kTPIZb13P2NAqpmvO.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "id": 60743,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Constantine",
+        "overview": "",
+        "popularity": 12.2139,
+        "poster_path": "/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg",
+        "first_air_date": "2014-10-24",
+        "softcore": false,
+        "name": "Constantine",
+        "vote_average": 7.756,
+        "vote_count": 1659
+      }
+    ],
+    "total_pages": 3097,
+    "total_results": 61928
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 25
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 12
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 151
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 152
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 91
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 103
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 39
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 62
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 22
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 29
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+            "provider_id": 484,
+            "provider_name": "Claro tv+",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 49
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 25
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 10
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
+            "provider_id": 230,
+            "provider_name": "Crave",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/6EuODonAziRYWv90wAtEmUjk78R.png",
+            "provider_id": 2604,
+            "provider_name": "Crave Amazon Channel",
+            "display_priority": 137
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 76
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 69
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 19
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 217
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 218
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/hPIVVR7yvR0PrTe7eHR2I5nAFis.png",
+            "provider_id": 1961,
+            "provider_name": "Allente",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 40
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/bWrdc66M5z0FJgznkdRdPueU2S.png",
+            "provider_id": 373,
+            "provider_name": "Go3",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 37
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 87
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 21
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 73
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 104
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 176
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 37
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 34
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 67
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 36
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+            "provider_id": 2336,
+            "provider_name": "JioHotstar",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 85
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 86
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=JP",
+        "flatrate": [
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/mrzVKXhM1vryerBWd65emU9TfUm.png",
+            "provider_id": 2284,
+            "provider_name": "HBO Max on U-Next",
+            "display_priority": 28
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 12
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 42
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/bWrdc66M5z0FJgznkdRdPueU2S.png",
+            "provider_id": 373,
+            "provider_name": "Go3",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=LV",
+        "flatrate": [
+          {
+            "logo_path": "/bWrdc66M5z0FJgznkdRdPueU2S.png",
+            "provider_id": 373,
+            "provider_name": "Go3",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 26
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 27
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 34
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 16
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 14
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 75
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 41
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 67
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 8
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=PG",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 14
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 32
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 18
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 34
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 30
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 24
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 29
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 44
+          },
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 65
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 29
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 38
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 31
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 11
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 30
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/ck9ropbn6okqSdtgxGkkvMMgtSe.png",
+            "provider_id": 1904,
+            "provider_name": "TV+",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 29
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 13
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 37
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/64fLWeSyZ1KQZhIdvTdy4QHeWty.png",
+            "provider_id": 1825,
+            "provider_name": "HBO Max Amazon Channel",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 152
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 5
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/95350-lanterns/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/skypuy7SXuugIQeYg0IglmzoKaS.png",
+            "provider_id": 1899,
+            "provider_name": "HBO Max",
+            "display_priority": 28
+          }
+        ]
+      }
+    }
+  }
+}

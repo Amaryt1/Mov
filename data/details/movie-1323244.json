@@ -1,0 +1,1634 @@
+{
+  "adult": false,
+  "backdrop_path": "/z7lZgL5tzefTfhyRtouThFhsuUS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 878,
+      "name": "خيال علمي"
+    },
+    {
+      "id": 53,
+      "name": "إثارة"
+    }
+  ],
+  "homepage": "",
+  "id": 1323244,
+  "imdb_id": "tt29512655",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "en",
+  "original_title": "Rage of Stars",
+  "overview": "",
+  "popularity": 143.0448,
+  "poster_path": "/oLld47ZT1I3iecM3OWhIphohQUJ.jpg",
+  "production_companies": [
+    {
+      "id": 235192,
+      "logo_path": null,
+      "name": "Lukra Films",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2026-08-06",
+  "revenue": 0,
+  "runtime": 106,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rage of Stars",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 79,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1631815,
+        "known_for_department": "Acting",
+        "name": "Andrea Tivadar",
+        "original_name": "Andrea Tivadar",
+        "popularity": 0.9701,
+        "profile_path": "/iYtFxJGcrNmxYTq6rhivdFsotMx.jpg",
+        "cast_id": 6,
+        "character": "Jemma",
+        "credit_id": "66a946d4146f128153e3abaa",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1475710,
+        "known_for_department": "Acting",
+        "name": "Jord Knotter",
+        "original_name": "Jord Knotter",
+        "popularity": 0.5738,
+        "profile_path": "/f0ufZ6YbyWnu36kFg1d2OOjcM2S.jpg",
+        "cast_id": 7,
+        "character": "Luk",
+        "credit_id": "66a946e98dbf1cf326e3abf1",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2385575,
+        "known_for_department": "Acting",
+        "name": "Jack McEvoy",
+        "original_name": "Jack McEvoy",
+        "popularity": 0.6321,
+        "profile_path": "/pmE0tQiPxQT5yI6DZlnnjd8m8nB.jpg",
+        "cast_id": 8,
+        "character": "Kriss",
+        "credit_id": "66a946f695caaeb35da37028",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2037498,
+        "known_for_department": "Acting",
+        "name": "Elijah Rowen",
+        "original_name": "Elijah Rowen",
+        "popularity": 0.7519,
+        "profile_path": "/9aa2UljPdCZlp7meRE4dIzeu4Ej.jpg",
+        "cast_id": 9,
+        "character": "Tom",
+        "credit_id": "66a94706423212c0a2755512",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1613074,
+        "known_for_department": "Acting",
+        "name": "Małgorzata Klara",
+        "original_name": "Małgorzata Klara",
+        "popularity": 0.6197,
+        "profile_path": "/aOpwXHLkh2KrctgTX7cD7Cs1QN0.jpg",
+        "cast_id": 10,
+        "character": "Commander",
+        "credit_id": "66a947193ae53a501f755580",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2199010,
+        "known_for_department": "Acting",
+        "name": "Mayu Gralińska Sakai",
+        "original_name": "Mayu Gralińska Sakai",
+        "popularity": 0.4579,
+        "profile_path": null,
+        "cast_id": 11,
+        "character": "Maya",
+        "credit_id": "66a9472abd7e6168c502e91f",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3036669,
+        "known_for_department": "Acting",
+        "name": "Jakub Ormaniec",
+        "original_name": "Jakub Ormaniec",
+        "popularity": 0.3821,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Mike",
+        "credit_id": "66a94758ac403283a4f2aae6",
+        "order": 6
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858160,
+        "known_for_department": "Directing",
+        "name": "Łukasz Róg",
+        "original_name": "Łukasz Róg",
+        "popularity": 0.5633,
+        "profile_path": null,
+        "credit_id": "66a945df7bb91cbd2119307f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858160,
+        "known_for_department": "Directing",
+        "name": "Łukasz Róg",
+        "original_name": "Łukasz Róg",
+        "popularity": 0.5633,
+        "profile_path": null,
+        "credit_id": "66a946af7c1f118c004e2fdc",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858160,
+        "known_for_department": "Directing",
+        "name": "Łukasz Róg",
+        "original_name": "Łukasz Róg",
+        "popularity": 0.5633,
+        "profile_path": null,
+        "credit_id": "66a945efdd9d9856e65c50d2",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858160,
+        "known_for_department": "Directing",
+        "name": "Łukasz Róg",
+        "original_name": "Łukasz Róg",
+        "popularity": 0.5633,
+        "profile_path": null,
+        "credit_id": "66a946a72efb01213c4e2fef",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858160,
+        "known_for_department": "Directing",
+        "name": "Łukasz Róg",
+        "original_name": "Łukasz Róg",
+        "popularity": 0.5633,
+        "profile_path": null,
+        "credit_id": "66a9469335fcd6873a02dc31",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858275,
+        "known_for_department": "Crew",
+        "name": "Ewelina Bomba",
+        "original_name": "Ewelina Bomba",
+        "popularity": 0.2606,
+        "profile_path": null,
+        "credit_id": "66a94d6439784e264af2ab42",
+        "department": "Crew",
+        "job": "Stunt Driver"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858285,
+        "known_for_department": "Camera",
+        "name": "Krystian Krok",
+        "original_name": "Krystian Krok",
+        "popularity": 0.273,
+        "profile_path": null,
+        "credit_id": "66a94de4ef2ddd0e469333b8",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858265,
+        "known_for_department": "Directing",
+        "name": "Dominika Platek",
+        "original_name": "Dominika Platek",
+        "popularity": 0.2731,
+        "profile_path": null,
+        "credit_id": "66a94d0ddcd9e196d72845c6",
+        "department": "Directing",
+        "job": "First Assistant Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858160,
+        "known_for_department": "Directing",
+        "name": "Łukasz Róg",
+        "original_name": "Łukasz Róg",
+        "popularity": 0.5633,
+        "profile_path": null,
+        "credit_id": "66a94dabe1d640deea59c7d0",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858160,
+        "known_for_department": "Directing",
+        "name": "Łukasz Róg",
+        "original_name": "Łukasz Róg",
+        "popularity": 0.5633,
+        "profile_path": null,
+        "credit_id": "66a94cd217f564eed6755562",
+        "department": "Costume & Make-Up",
+        "job": "Costume Design"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858291,
+        "known_for_department": "Camera",
+        "name": "Aleksandra Zielińska",
+        "original_name": "Aleksandra Zielińska",
+        "popularity": 0.2631,
+        "profile_path": null,
+        "credit_id": "66a94e3cbfc9b2a182eee9c8",
+        "department": "Camera",
+        "job": "Still Photographer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858264,
+        "known_for_department": "Production",
+        "name": "Radosław Tworek",
+        "original_name": "Radosław Tworek",
+        "popularity": 0.2606,
+        "profile_path": null,
+        "credit_id": "66a94cfb68efed09eb87e97c",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858271,
+        "known_for_department": "Sound",
+        "name": "Tomasz Grab",
+        "original_name": "Tomasz Grab",
+        "popularity": 0.2606,
+        "profile_path": null,
+        "credit_id": "66a94d3c33556571035c4643",
+        "department": "Sound",
+        "job": "Boom Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858280,
+        "known_for_department": "Lighting",
+        "name": "Mateusz Cyran",
+        "original_name": "Mateusz Cyran",
+        "popularity": 0.3053,
+        "profile_path": null,
+        "credit_id": "66a94db308dbe0dcbb02eaf4",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858284,
+        "known_for_department": "Camera",
+        "name": "Michał Kozba",
+        "original_name": "Michał Kozba",
+        "popularity": 0.2918,
+        "profile_path": null,
+        "credit_id": "66a94dd325446b17debfcc18",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858256,
+        "known_for_department": "Camera",
+        "name": "Wojciech Pawłowski",
+        "original_name": "Wojciech Pawłowski",
+        "popularity": 0.3019,
+        "profile_path": null,
+        "credit_id": "66a94cb571cf3a936be3ac5d",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858258,
+        "known_for_department": "Art",
+        "name": "Angelika Dydyńska",
+        "original_name": "Angelika Dydyńska",
+        "popularity": 0.2268,
+        "profile_path": null,
+        "credit_id": "66a94cc4d14d591a6c59c776",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858282,
+        "known_for_department": "Camera",
+        "name": "Bartłomiej Grajewski",
+        "original_name": "Bartłomiej Grajewski",
+        "popularity": 0.293,
+        "profile_path": null,
+        "credit_id": "66a94dc68dbf1cf326e3ac1b",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3445217,
+        "known_for_department": "Acting",
+        "name": "Maciej Maślanka",
+        "original_name": "Maciej Maślanka",
+        "popularity": 0.316,
+        "profile_path": null,
+        "credit_id": "66a94ded429aa31a55eeea31",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858276,
+        "known_for_department": "Camera",
+        "name": "Bartosz Chorąży",
+        "original_name": "Bartosz Chorąży",
+        "popularity": 0.2782,
+        "profile_path": null,
+        "credit_id": "66a94d8f5d7f317f7687e978",
+        "department": "Camera",
+        "job": "Grip"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858274,
+        "known_for_department": "Sound",
+        "name": "Maciej Zeman",
+        "original_name": "Maciej Zeman",
+        "popularity": 0.2728,
+        "profile_path": null,
+        "credit_id": "66a94d5669ea4865f79338b3",
+        "department": "Sound",
+        "job": "Sound Mixer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3805823,
+        "known_for_department": "Writing",
+        "name": "Karolina Wolska",
+        "original_name": "Karolina Wolska",
+        "popularity": 0.2719,
+        "profile_path": null,
+        "credit_id": "66a94d7207688d49012845c1",
+        "department": "Crew",
+        "job": "Stunts"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858278,
+        "known_for_department": "Camera",
+        "name": "Konrad Chrobak",
+        "original_name": "Konrad Chrobak",
+        "popularity": 0.2731,
+        "profile_path": null,
+        "credit_id": "66a94d9a1575dd985adab388",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858267,
+        "known_for_department": "Art",
+        "name": "Witold Budzyński",
+        "original_name": "Witold Budzyński",
+        "popularity": 0.2749,
+        "profile_path": null,
+        "credit_id": "66a94d2019edcb7512b4369c",
+        "department": "Art",
+        "job": "Set Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858292,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Katarzyna Aksamit",
+        "original_name": "Katarzyna Aksamit",
+        "popularity": 0.2735,
+        "profile_path": null,
+        "credit_id": "66a94e4807688d49012845d1",
+        "department": "Costume & Make-Up",
+        "job": "Costumer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858268,
+        "known_for_department": "Art",
+        "name": "Bartosz Pelc",
+        "original_name": "Bartosz Pelc",
+        "popularity": 0.28,
+        "profile_path": null,
+        "credit_id": "66a94d2c748ca24fb35c4af3",
+        "department": "Art",
+        "job": "Construction Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858273,
+        "known_for_department": "Sound",
+        "name": "Pawel Leniart",
+        "original_name": "Pawel Leniart",
+        "popularity": 0.2606,
+        "profile_path": null,
+        "credit_id": "66a94d4d967788d974e0b344",
+        "department": "Sound",
+        "job": "Sound"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858209,
+        "known_for_department": "Acting",
+        "name": "Konrad Napiorkowski",
+        "original_name": "Konrad Napiorkowski",
+        "popularity": 0.2606,
+        "profile_path": null,
+        "credit_id": "66a94d7a662f321fabb436c8",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858296,
+        "known_for_department": "Directing",
+        "name": "Marta Arczyńska",
+        "original_name": "Marta Arczyńska",
+        "popularity": 0.2433,
+        "profile_path": null,
+        "credit_id": "66a94e693dc68f582002deb7",
+        "department": "Directing",
+        "job": "Script Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858287,
+        "known_for_department": "Camera",
+        "name": "Paweł Rykiel",
+        "original_name": "Paweł Rykiel",
+        "popularity": 0.2957,
+        "profile_path": null,
+        "credit_id": "66a94e0c7bb91cbd211930cd",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858289,
+        "known_for_department": "Camera",
+        "name": "Przemysław Szumski",
+        "original_name": "Przemysław Szumski",
+        "popularity": 0.2268,
+        "profile_path": null,
+        "credit_id": "66a94e1bb52b624fad1930cb",
+        "department": "Camera",
+        "job": "Camera Operator"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858286,
+        "known_for_department": "Lighting",
+        "name": "Mirosław Mazurkiewicz",
+        "original_name": "Mirosław Mazurkiewicz",
+        "popularity": 0.2719,
+        "profile_path": null,
+        "credit_id": "66a94dfc95caaeb35da37082",
+        "department": "Lighting",
+        "job": "Gaffer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3555568,
+        "known_for_department": "Production",
+        "name": "Konrad Wróblewski",
+        "original_name": "Konrad Wróblewski",
+        "popularity": 0.3669,
+        "profile_path": null,
+        "credit_id": "66a94e29c11842a7c8dab35c",
+        "department": "Camera",
+        "job": "First Assistant Camera"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858295,
+        "known_for_department": "Editing",
+        "name": "Sebastian Augustyn",
+        "original_name": "Sebastian Augustyn",
+        "popularity": 0.2884,
+        "profile_path": null,
+        "credit_id": "66a94e5a78440332f94e3051",
+        "department": "Editing",
+        "job": "Colorist"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4858262,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Aleksandra Pisarik",
+        "original_name": "Aleksandra Pisarik",
+        "popularity": 0.2606,
+        "profile_path": null,
+        "credit_id": "6a7310ad258f6bad3499423f",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6392606,
+        "known_for_department": "Writing",
+        "name": "Krzysztof Klader",
+        "original_name": "Krzysztof Klader",
+        "popularity": 0.4554,
+        "profile_path": null,
+        "credit_id": "6a737c4337581f1f163ebffa",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6392610,
+        "known_for_department": "Production",
+        "name": "Rafal Kalisz",
+        "original_name": "Rafal Kalisz",
+        "popularity": 0.3094,
+        "profile_path": null,
+        "credit_id": "6a737c9477561929754524d2",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/cBrzOqgAJv1YG4Jww9dt1B54Sv8.jpg",
+        "id": 324670,
+        "title": "Spectral",
+        "original_title": "Spectral",
+        "overview": "تدور أحداث القصة حول الغزو الفضائي لكوكب الأرض والهجمات الفضائية، حيث يتم إرسال فريق من الأبطال الخارقين لمقاتلة تلك المخلوقات الفضائية بعد هجومها على مدينة نيويورك وتهديدها لأهل المدينة والعالم.",
+        "poster_path": "/5yprxs7ZyBr58RsTQJrKCVmqk8X.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          53,
+          28
+        ],
+        "popularity": 7.2236,
+        "release_date": "2016-12-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.567,
+        "vote_count": 2091
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1uPcQNsgZIMRZl07rbIuw7EEtwX.jpg",
+        "id": 1738,
+        "title": "التالي",
+        "original_title": "Next",
+        "overview": "لدى الساحر كريس جونسون في صالة عرض لاس فيغاس سر يعذبه: يمكنه رؤية بضع دقائق في المستقبل. لقد سئم من الفحوصات التي خضع لها عندما كان طفلاً واهتمام الحكومة والمؤسسة الطبية بسلطته ، فهو يكمن تحت اسم مستعار في فيغاس ، يؤدي حيلًا رخيصة ويعيش على \"مكاسب\" القمار الصغيرة. لكن عندما تهدد جماعة إرهابية بتفجير جهاز نووي في لوس أنجلوس ، يجب على العميلة الحكومية كالي فيريس أن تستخدم كل حيلها للقبض على كريس وإقناعه بمساعدتها في وقف الكارثة.",
+        "poster_path": "/wtBOCJBCP0MWNjmBwjMAzbwgtTK.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          53
+        ],
+        "popularity": 9.7892,
+        "release_date": "2007-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.14,
+        "vote_count": 3377
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5d3v2DhPsh2fO0kb2zUuFp6KovA.jpg",
+        "id": 491854,
+        "title": "Foxtrot Six",
+        "original_title": "Foxtrot Six",
+        "overview": "Escalating climate change is turning the world economy upside down. With crops dying and food price spiking, FOOD has replaced oil as the world's most valuable commodity.  Among the very few lands still left fertile, Indonesia is quickly rising as the next economic superpower, when its government is suddenly and ruthlessly overtaken by a popular rogue political party.  In just three days, six former Marines must work together, find their long-lost brotherhood, stop a nationwide government- sanctioned genocide, and save millions of lives, for one last shot at redemption. Or die trying.",
+        "poster_path": "/o7c8FKCZFIrLKrZSzgqufvNo4mr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18,
+          878
+        ],
+        "popularity": 2.5084,
+        "release_date": "2019-02-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.196,
+        "vote_count": 51
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+        "id": 1241470,
+        "title": "أوزيريس",
+        "original_title": "Osiris",
+        "overview": "يختطف أفراد من قوات العمليات الخاصة أثناء تنفيذ مهمة عسكرية بواسطة مركبة فضائية غامضة، وعندما يستفيقون، يجدون أنفسهم مطاردين من قِبل جنس فضائي لا يرحم، فيبدأوا معركة مميتة من أجل البقاء على قيد الحياة",
+        "poster_path": "/tVs6RH5prFcG2CYhHY1pwTuD9S4.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          27
+        ],
+        "popularity": 8.3103,
+        "release_date": "2025-07-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.132,
+        "vote_count": 310
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vguQyReCAYJg6EVwokOLPWAZwuH.jpg",
+        "id": 13059,
+        "title": "The Signal",
+        "original_title": "The Signal",
+        "overview": "A horror film told in three parts, from three perspectives, in which a mysterious transmission that turns people into killers invades every cell phone, radio, and television.",
+        "poster_path": "/qRs8osQJZLItwQER2bzuuK9A0sp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "popularity": 2.0628,
+        "release_date": "2007-07-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.927,
+        "vote_count": 347
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3aGsZdB5ud6LmU9lppwTLh2fqH1.jpg",
+        "id": 16320,
+        "title": "السفينة سيرينتي",
+        "original_title": "Serenity",
+        "overview": "في المستقبل، يحاول طاقم السفينة (سيرينيتي) التهرب من قاتل تم ارساله لاستعادة واحد من الذين يملكون القدرة الخارقة على توارد الخواطر على متن هذه السفينة.",
+        "poster_path": "/4sqUOaPFoP2W81mq1UYqZqf5WzA.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          53
+        ],
+        "popularity": 9.4281,
+        "release_date": "2005-09-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.358,
+        "vote_count": 3987
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vruRG9oFSC2QI3F6vLAsj1ND14S.jpg",
+        "id": 934194,
+        "title": "Slash/Back",
+        "original_title": "Slash/Back",
+        "overview": "In a remote Arctic community, a group of Inuit girls fight off an alien invasion, all while trying to make it to the coolest party in town.",
+        "poster_path": "/fmmRFQtsRrNOpmcfoxVIyE1LxxT.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          53,
+          27
+        ],
+        "popularity": 2.4691,
+        "release_date": "2022-06-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.427,
+        "vote_count": 124
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fCdc3TZNNHGk1ZQBXENdWLqjUio.jpg",
+        "id": 8836,
+        "title": "The X-Files: I Want to Believe",
+        "original_title": "The X-Files: I Want to Believe",
+        "overview": "تبدأ القصة عندما تختفي امرأة في ظروف غامضة، وتظهر معلومات مرتبطة برجل يدّعي أنه يستطيع رؤية أشياء وأحداث خارقة للطبيعة",
+        "poster_path": "/3zQMhutUMJP6lK49x7i2YfsOHL9.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          878,
+          53
+        ],
+        "popularity": 8.2077,
+        "release_date": "2008-07-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.876,
+        "vote_count": 1719
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l2bAhg1h3eJrXiIZv8v2uMkuQPF.jpg",
+        "id": 534,
+        "title": "المدمر: الخلاص",
+        "original_title": "Terminator Salvation",
+        "overview": "تدور أحداث الفيلم في سنة 2018، عندما تصبح ماكينات (سكاي نت) مهيمنة على العالم، والأمل الأخير لإنقاذ البشرية هو (جون كونر)، حيث يرافق (جون) مسجون من الماضي اسمه (ماركوس ريت)، ويحاولا وقف (سكاي نت) قبل أن تدمر ما تبقى من الإنسانية.",
+        "poster_path": "/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          53
+        ],
+        "popularity": 13.5998,
+        "release_date": "2009-05-20",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.101,
+        "vote_count": 7226
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dUbOGH7CWEIr2aCZBpG2n33Vhw2.jpg",
+        "id": 1141182,
+        "title": "Die Alone",
+        "original_title": "Die Alone",
+        "overview": "Lost in a world reclaimed by nature and overrun by mysterious creatures, Ethan, a young man with amnesia navigates the dangerous landscape in search of his lost love Emma.  His journey takes an unexpected turn when he encounters Mae, a hardened and eccentric survivor.  Together, Ethan and Mae face threats both human and otherwise before a fateful encounter with Kai unravels a secret that lies just beyond Ethan's fractured memory.",
+        "poster_path": "/3Ac2kfGs81xIDZZxug2M99DbhNZ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          53,
+          878
+        ],
+        "popularity": 4.8159,
+        "release_date": "2024-09-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.365,
+        "vote_count": 189
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mPNGcX1j5SFeDETkvcJA9POaNx8.jpg",
+        "id": 429415,
+        "title": "Extinction",
+        "original_title": "Extinction",
+        "overview": "A chief mechanic at a factory, haunted by apocalyptic nightmares, becomes a hero when Earth is invaded by a mysterious army bent on destruction.",
+        "poster_path": "/qjnNdjrZIdi7d316SjjkgEjJRSg.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          18,
+          878,
+          53
+        ],
+        "popularity": 5.8661,
+        "release_date": "2018-07-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.058,
+        "vote_count": 2051
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oOZtWMhJft0QvPcnJXFgGlt0Jn7.jpg",
+        "id": 11683,
+        "title": "Land of the Dead",
+        "original_title": "Land of the Dead",
+        "overview": "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+        "poster_path": "/xxp0qcZ3n2YA53SIzWilDSfIaA4.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          27,
+          878,
+          53
+        ],
+        "popularity": 5.9605,
+        "release_date": "2005-06-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.265,
+        "vote_count": 1873
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dv4tLF2gISz3w1e9YK3rK1jxpLj.jpg",
+        "id": 4965,
+        "title": "Impostor",
+        "original_title": "Impostor",
+        "overview": "A top-secret government weapons designer is arrested by a clandestine government organization on suspicion of being a clone created by the hostile alien race wanting to take over Earth.",
+        "poster_path": "/7Uy4JbalP0mEyKnFW2IorQDmbBa.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          53
+        ],
+        "popularity": 5.3715,
+        "release_date": "2001-12-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.131,
+        "vote_count": 495
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xVV8JrQKuHVjBS4CfwIMNktf70G.jpg",
+        "id": 347548,
+        "title": "Containment",
+        "original_title": "Containment",
+        "overview": "يستيقظ الجيران في أحد المباني ذات صباح ليجدوا أنهم مغلقون داخل شققهم. هل يمكنهم العمل معًا لمعرفة السبب؟ أم سوف يدمرون بعضهم البعض في معركتهم للهروب؟",
+        "poster_path": "/lz6G41YdOK1CO2qOkoBe6cudofb.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          27,
+          878
+        ],
+        "popularity": 2.6916,
+        "release_date": "2015-07-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.903,
+        "vote_count": 216
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9s9o9RT9Yj6nDuRJjnJm78WFoFl.jpg",
+        "id": 1051896,
+        "title": "Arcadian",
+        "original_title": "Arcadian",
+        "overview": "يسعى أب رفقة ابنيه التوأم النجاة من هجوم من مخلوقات مرعبة، ذلك خلال وجودهم في منزلهم الريفي البعيد.",
+        "poster_path": "/h4T8Xeydkw53h9uIbulYsss25UF.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          27,
+          878
+        ],
+        "popularity": 8.3632,
+        "release_date": "2024-04-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.072,
+        "vote_count": 957
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yky6Dsxbv5ItMepk8GGu23K6Mvs.jpg",
+        "id": 1093995,
+        "title": "Chief of Station",
+        "original_title": "Chief of Station",
+        "overview": "يقرر رئيس سابق بإحدى وحدات وكالات الاستخبارات الأمريكية العودة للعمل، حينما يكتشف أن حادث وفاة زوجته كان مدبرًا، ويُكشف في طريقه عن العديد من الحقائق الصادمة والمؤامرات.",
+        "poster_path": "/yndlj5aNPWAZ5ayJ4a2S37o98lq.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 5.702,
+        "release_date": "2024-05-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.295,
+        "vote_count": 263
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cT0YCYCtAQC8wi56VWK1JRGgk3a.jpg",
+        "id": 5549,
+        "title": "RoboCop 2",
+        "original_title": "RoboCop 2",
+        "overview": "بعد نجاح نشر وحدة روبوكوب لإنفاذ القانون، ترى شركة OCP هدفها المتمثل في تحقيق الأمن الحضري يقترب أكثر فأكثر، ولكن مع تطور هذا الوضع، يغزو مخدر جديد يُعرف باسم \"نوك\" الشوارع بقيادة كين، الزعيم المتوهم بأنه إله. ومع تزايد هذا الخطر، قد يصبح من الصعب على مورفي التعامل معه. تحاول OCP تكرار نجاح الوحدة الأولى، لكنها تنتهي بنماذج أولية فاشلة تعاني من ميول انتحارية... إلى أن يقوم الدكتور فاكس، وهو عالم انحرف عن مسار OCP، باستخدام كين كموضوع جديد لمشروع روبوكوب 2، إله حي",
+        "poster_path": "/nhqBxhOJXUJeFsyLxTFkctH9H5F.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          53
+        ],
+        "popularity": 8.2503,
+        "release_date": "1990-06-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.04,
+        "vote_count": 2201
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uBHeAB2Ug9ELBzkMyls8CUjzn4i.jpg",
+        "id": 64635,
+        "title": "Total Recall",
+        "original_title": "Total Recall",
+        "overview": "مرحبًا بكم في Rekall ، الشركة التي يمكنها تحويل أحلامك إلى ذكريات حقيقية. بالنسبة لعامل مصنع يُدعى دوجلاس كويد ، على الرغم من أن لديه زوجة جميلة يحبها ، فإن رحلة العقل تبدو وكأنها إجازة مثالية من حياته المحبطة - الذكريات الحقيقية للحياة كجاسوس خارق قد تكون فقط ما يحتاجه. ولكن عندما تسوء الإجراءات بشكل فظيع ، يصبح كويد رجلاً مطاردًا. يجد نفسه هاربًا من الشرطة - التي يسيطر عليها المستشار Cohaagen ، زعيم العالم الحر - يتعاون كويد مع مقاتل متمرد للعثور على رأس المقاومة السرية وإيقاف Cohaagen. يصبح الخط الفاصل بين الخيال والواقع غير واضح ، ومصير عالمه معلق في الميزان بينما يكتشف كويد هويته الحقيقية ، وحبه الحقيقي ، ومصيره الحقيقي.",
+        "poster_path": "/hVUxVVzZ0WvvPIpKwsMPMDOQyqi.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          53
+        ],
+        "popularity": 11.1828,
+        "release_date": "2012-08-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.035,
+        "vote_count": 6001
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg",
+        "id": 841,
+        "title": "Dune",
+        "original_title": "Dune",
+        "overview": "في مستقبل بعيد، يُكلَّف بول أتريدس بالانتقال مع عائلته إلى كوكب صحراوي يُعد المصدر الوحيد لأثمن مادة في الكون. لكن صراعًا على السلطة يقلب حياته رأسًا على عقب ويضعه في قلب حرب تحدد مصير الإمبراطورية.",
+        "poster_path": "/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "popularity": 25.076,
+        "release_date": "1984-12-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.198,
+        "vote_count": 3535
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9SSPezaZ3VrilgXmSvYuuTnzF8R.jpg",
+        "id": 34028,
+        "title": "Warning Sign",
+        "original_title": "Warning Sign",
+        "overview": "An accident occurs in an ultra-secret government biological weapons laboratory spreading a sinister bacteria.",
+        "poster_path": "/bcwnXp1fESWS4oMnEgSgT7weEWC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          878,
+          53
+        ],
+        "popularity": 3.4248,
+        "release_date": "1985-08-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.962,
+        "vote_count": 78
+      }
+    ],
+    "total_pages": 29,
+    "total_results": 578
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/x12t7AMcvHd4K4LdW5md4aFQGBA.jpg",
+        "genre_ids": [
+          18,
+          36,
+          53
+        ],
+        "id": 42241,
+        "title": "Sebastiane",
+        "original_language": "la",
+        "original_title": "Sebastiane",
+        "overview": "",
+        "popularity": 1.6907,
+        "poster_path": "/xBek1olo2OUVmK3j0NMYRvKprpA.jpg",
+        "release_date": "1976-12-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 87
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/b3Yne4Ir8WSx4yQUgs2WU6NZ8j9.jpg",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "id": 27380,
+        "title": "MegaForce",
+        "original_language": "en",
+        "original_title": "MegaForce",
+        "overview": "",
+        "popularity": 2.1829,
+        "poster_path": "/dlx9fw9uqySaXNaeRSNY2tDCcwK.jpg",
+        "release_date": "1982-06-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.04,
+        "vote_count": 87
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lDlc1NeSqgJzEhxCakNeiss3kJ8.jpg",
+        "genre_ids": [
+          28,
+          27,
+          53,
+          878
+        ],
+        "id": 17577,
+        "title": "The Devil's Tomb",
+        "original_language": "en",
+        "original_title": "The Devil's Tomb",
+        "overview": "",
+        "popularity": 2.5126,
+        "poster_path": "/ex0dNOuABfkWVrNFfhsC0qTviA2.jpg",
+        "release_date": "2009-05-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.64,
+        "vote_count": 200
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5SMoDVzDiIQDyhwBZPfVl02fPbd.jpg",
+        "genre_ids": [
+          28,
+          878,
+          27
+        ],
+        "id": 82871,
+        "title": "Auton",
+        "original_language": "en",
+        "original_title": "Auton",
+        "overview": "",
+        "popularity": 1.0557,
+        "poster_path": "/qtjNjZjFwU2qi1QIPIIf1LpaCSh.jpg",
+        "release_date": "1997-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dOtH7s8gIP6lt3WfeK4ws8udI3E.jpg",
+        "genre_ids": [
+          28,
+          18,
+          36,
+          10752
+        ],
+        "id": 724495,
+        "title": "المرأة الملك",
+        "original_language": "en",
+        "original_title": "The Woman King",
+        "overview": "قصة Agojie، الوحدة النسائية بالكامل من المحاربين الذين قاموا بحماية مملكة داهومي الأفريقية في القرن التاسع عشر بمهارات وشراسة لا تشبه أي شيء رآه العالم على الإطلاق، والجنرال نانيسكا وهي تدرب الجيل القادم من المجندين وتجهزهم للمعركة ضد عدو مصمم على تدمير أسلوب حياتهم.",
+        "popularity": 8.9994,
+        "poster_path": "/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+        "release_date": "2022-09-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.56,
+        "vote_count": 2422
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5v60mZhF7nLgmPS3qZ9JUwDr33l.jpg",
+        "genre_ids": [
+          27,
+          53
+        ],
+        "id": 514277,
+        "title": "Mara",
+        "original_language": "en",
+        "original_title": "Mara",
+        "overview": "",
+        "popularity": 3.3037,
+        "poster_path": "/gQDmXAef1Oc1SXci5mui2x5DJwt.jpg",
+        "release_date": "2018-08-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.696,
+        "vote_count": 426
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8ww5EwVeJTcgZ7Ah7sqKpVwU98.jpg",
+        "genre_ids": [
+          878,
+          28,
+          14,
+          12,
+          27
+        ],
+        "id": 82411,
+        "title": "Auton 2: Sentinel",
+        "original_language": "en",
+        "original_title": "Auton 2: Sentinel",
+        "overview": "",
+        "popularity": 0.6993,
+        "poster_path": "/r2ygZCI5N46rIqYIvR0LKRsgc9t.jpg",
+        "release_date": "1998-01-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3gBsQr0MlDwUpirHqkTByoTE3Oy.jpg",
+        "genre_ids": [
+          27,
+          28
+        ],
+        "id": 410486,
+        "title": "Road to Moloch",
+        "original_language": "en",
+        "original_title": "Road to Moloch",
+        "overview": "",
+        "popularity": 0.9698,
+        "poster_path": "/oghmam3QGWSeeriIe1kbCKCuOzT.jpg",
+        "release_date": "2009-07-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1YsmP89lRD8SIb0WNXyzjFB8jvI.jpg",
+        "genre_ids": [
+          12,
+          18,
+          10752
+        ],
+        "id": 36851,
+        "title": "Beau Geste",
+        "original_language": "en",
+        "original_title": "Beau Geste",
+        "overview": "",
+        "popularity": 2.8415,
+        "poster_path": "/xDRHfwghNNXy4ASdus5GSzyTX6x.jpg",
+        "release_date": "1939-07-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.027,
+        "vote_count": 113
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aqiDlBETO51QMd5MlzSiODYK4bH.jpg",
+        "genre_ids": [
+          27
+        ],
+        "id": 361235,
+        "title": "שמור עלי",
+        "original_language": "he",
+        "original_title": "שמור עלי",
+        "overview": "",
+        "popularity": 0.6933,
+        "poster_path": "/5OeiUlDcLJek7wAW4CCfA28GgZ.jpg",
+        "release_date": "2010-09-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.25,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          14
+        ],
+        "id": 1658306,
+        "title": "The Plutonian Prophecy: Preface",
+        "original_language": "en",
+        "original_title": "The Plutonian Prophecy: Preface",
+        "overview": "",
+        "popularity": 0.5108,
+        "poster_path": "/tMt68IddMvvNgw5sUND3pRZPN0l.jpg",
+        "release_date": "2026-03-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          27,
+          10752,
+          9648
+        ],
+        "id": 1643244,
+        "title": "Mirage",
+        "original_language": "en",
+        "original_title": "Mirage",
+        "overview": "",
+        "popularity": 2.6575,
+        "poster_path": "/tDLLtstzaEkcQ1gdIikrjE9d0Tq.jpg",
+        "release_date": "2026-02-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          10752
+        ],
+        "id": 1540138,
+        "title": "Fokking hell!",
+        "original_language": "nl",
+        "original_title": "Fokking hell!",
+        "overview": "",
+        "popularity": 0.5019,
+        "poster_path": null,
+        "release_date": "2010-12-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vaPyoxy0E717YflFi0hKpYhLtcL.jpg",
+        "genre_ids": [
+          14,
+          12
+        ],
+        "id": 1730437,
+        "title": "Snake Eyes",
+        "original_language": "en",
+        "original_title": "Snake Eyes",
+        "overview": "",
+        "popularity": 0.821,
+        "poster_path": "/qkjM78IXT2PYKsroYD0xMxnS6wW.jpg",
+        "release_date": "2026-07-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v4b2qqOv3TXJdj9hjxNovhS2fur.jpg",
+        "genre_ids": [
+          28
+        ],
+        "id": 1205066,
+        "title": "Joshua Buatsi vs. Dan Azeez",
+        "original_language": "en",
+        "original_title": "Joshua Buatsi vs. Dan Azeez",
+        "overview": "",
+        "popularity": 1.115,
+        "poster_path": "/h8dNsrI2sKFoJWFplVoKyr2V7YC.jpg",
+        "release_date": "2024-02-03",
+        "softcore": false,
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2oOCF2tWCOjekZFRY7rGTK8jjB7.jpg",
+        "genre_ids": [
+          28
+        ],
+        "id": 1205069,
+        "title": "Natasha Jonas vs. Mikaela Mayer",
+        "original_language": "en",
+        "original_title": "Natasha Jonas vs. Mikaela Mayer",
+        "overview": "",
+        "popularity": 1.2013,
+        "poster_path": "/5goxVehMF72jcrWOx11ChMbXSvn.jpg",
+        "release_date": "2024-01-20",
+        "softcore": false,
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          878,
+          27
+        ],
+        "id": 1400838,
+        "title": "The Paradoxical Green Cherry Blossom",
+        "original_language": "en",
+        "original_title": "The Paradoxical Green Cherry Blossom",
+        "overview": "",
+        "popularity": 1.5876,
+        "poster_path": "/bEOQpdbz5rEWn4Pofnt3chMtNXC.jpg",
+        "release_date": "2026-02-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x3avMZgmX1FVEkIAvZgOjF5U0aO.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 1204983,
+        "title": "第13回 ゴッデス・オブ・スターダム～タッグリーグ～in SENDAI",
+        "original_language": "ja",
+        "original_title": "第13回 ゴッデス・オブ・スターダム～タッグリーグ～in SENDAI",
+        "overview": "",
+        "popularity": 1.1513,
+        "poster_path": "/rpfJgNAW4Vd1U4fHtMvchADHbES.jpg",
+        "release_date": "2023-11-10",
+        "softcore": false,
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yilsbTS9JSIDuiRGeMhTIVxSQr6.jpg",
+        "genre_ids": [
+          28,
+          18
+        ],
+        "id": 1204986,
+        "title": "第13回 ゴッデス・オブ・スターダム ～タッグリーグ～in UTSUNOMIYA",
+        "original_language": "ja",
+        "original_title": "第13回 ゴッデス・オブ・スターダム ～タッグリーグ～in UTSUNOMIYA",
+        "overview": "",
+        "popularity": 0.9194,
+        "poster_path": "/rpfJgNAW4Vd1U4fHtMvchADHbES.jpg",
+        "release_date": "2023-11-11",
+        "softcore": false,
+        "video": true,
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 6388,
+    "total_results": 127750
+  },
+  "watch/providers": {
+    "results": {
+      "BE": {
+        "link": "https://www.themoviedb.org/movie/1323244-rage-of-stars/watch?locale=BE",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/movie/1323244-rage-of-stars/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/movie/1323244-rage-of-stars/watch?locale=FR",
+        "ads": [
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/g8P4BJ2Wrya0VkbGUxBoUqpXtSs.png",
+            "provider_id": 1967,
+            "provider_name": "Molotov TV",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/5sfivEdalxJRF96pcTQ8bffu05s.png",
+            "provider_id": 685,
+            "provider_name": "Cine+ OCS Amazon Channel ",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 85
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/movie/1323244-rage-of-stars/watch?locale=JP",
+        "rent": [
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ]
+      }
+    }
+  }
+}

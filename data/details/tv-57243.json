@@ -1,0 +1,1651 @@
+{
+  "adult": false,
+  "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+  "created_by": [
+    {
+      "id": 57293,
+      "credit_id": "527f9c6b19c29514f208c30e",
+      "name": "Sydney Newman",
+      "original_name": "Sydney Newman",
+      "gender": 2,
+      "profile_path": "/QKW3Widw7yaemYlB3NKEmJrhrF.jpg"
+    },
+    {
+      "id": 1213434,
+      "credit_id": "527f9c7619c29514f208c31e",
+      "name": "C. E. Webber",
+      "original_name": "C. E. Webber",
+      "gender": 2,
+      "profile_path": "/lHzDADWGW2ESV1uDovZzLG79sRc.jpg"
+    },
+    {
+      "id": 1213433,
+      "credit_id": "527f9c8119c29514ef0a0829",
+      "name": "Donald Wilson",
+      "original_name": "Donald Wilson",
+      "gender": 2,
+      "profile_path": "/zjaWtI7qPMYYYkoSO1pDu5zESZC.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-03-26",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    }
+  ],
+  "homepage": "http://www.bbc.co.uk/programmes/b006q2x0",
+  "id": 57243,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2021-12-05",
+  "last_episode_to_air": {
+    "id": 3336493,
+    "name": "الحلقة 6",
+    "overview": "",
+    "vote_average": 5.556,
+    "vote_count": 45,
+    "air_date": "2021-12-05",
+    "episode_number": 6,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 60,
+    "season_number": 13,
+    "show_id": 57243,
+    "still_path": "/20wu1cj5iZWyphnYQvKY1M9yBYQ.jpg"
+  },
+  "name": "دكتور هو",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 4,
+      "logo_path": "/uJjcCg3O4DMEjM0xtno9OWFciRP.png",
+      "name": "BBC One",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 153,
+  "number_of_seasons": 13,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Doctor Who",
+  "overview": "الدكتور هو من جنس أسياد الوقت (تايم لوردز): فضائي عمره 900 عام ولديه قلبان، قدم من حضارة أتقنت السفر عبر الزمن. الدكتور وظيفته إنقاذ الكواكب - أكثر كهواية في الواقع - والدكتور جيد، جيد جدا في ذلك.",
+  "popularity": 156.7837,
+  "poster_path": "/zEuutNuGMlAM98K5iWnDJb6Gqb5.jpg",
+  "production_companies": [
+    {
+      "id": 4762,
+      "logo_path": "/igWZmjr5Zhbnxf7DinSOLoiggLU.png",
+      "name": "BBC Cymru Wales",
+      "origin_country": "GB"
+    },
+    {
+      "id": 80893,
+      "logo_path": "/enAjeGPTtVw8pt7HSzZYBXPfbOY.png",
+      "name": "BBC Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12113,
+      "logo_path": "/lwnLVleFG0sRAYBq5IObgN30r9F.png",
+      "name": "CBC",
+      "origin_country": "CA"
+    },
+    {
+      "id": 216944,
+      "logo_path": "/5vrTzX9jnrz7ko3MxOzvzm0mxSP.png",
+      "name": "BBC Studios Drama Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-11-18",
+      "episode_count": 199,
+      "id": 58476,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/oKUI2vCVGpakvfZJ4GmEZC8AvRX.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-03-26",
+      "episode_count": 13,
+      "id": 58468,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/9Jt2FFCAME7eHDC28r4qCHErhhF.jpg",
+      "season_number": 1,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2006-04-15",
+      "episode_count": 13,
+      "id": 58469,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/oXVmsIkZCgJDNcZJJxzvV7zwyb1.jpg",
+      "season_number": 2,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2007-04-01",
+      "episode_count": 13,
+      "id": 58470,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/67xbjSv353G2rqQIs6dnDKc6P11.jpg",
+      "season_number": 3,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2008-04-05",
+      "episode_count": 13,
+      "id": 58471,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/h6hogh9U371q87XLhvrJbczg8lm.jpg",
+      "season_number": 4,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2010-04-03",
+      "episode_count": 13,
+      "id": 58472,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/hUsQerEeMqsu9cVYzMEB2OGJjrw.jpg",
+      "season_number": 5,
+      "vote_average": 7.7
+    },
+    {
+      "air_date": "2011-04-23",
+      "episode_count": 13,
+      "id": 58473,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/xmfMcVkVer5r33QhA4e2DpIR78B.jpg",
+      "season_number": 6,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2012-09-01",
+      "episode_count": 13,
+      "id": 58474,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/6biGcR0OyFnKRxxUW7bGtK49wTd.jpg",
+      "season_number": 7,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2014-08-23",
+      "episode_count": 12,
+      "id": 58475,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/wLxULmhnIM1wbzjzvFnEq8YXtFB.jpg",
+      "season_number": 8,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2015-09-19",
+      "episode_count": 12,
+      "id": 64188,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/AeFY6HsLGcanP2fhD6Feii9BhHW.jpg",
+      "season_number": 9,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2017-04-15",
+      "episode_count": 12,
+      "id": 76615,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/9ExkVNeQw695kQ8xsnm2TJhTEFP.jpg",
+      "season_number": 10,
+      "vote_average": 7.1
+    },
+    {
+      "air_date": "2018-10-07",
+      "episode_count": 10,
+      "id": 97100,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/tFu6Or2wZP8xW5CBUy3MROtcF29.jpg",
+      "season_number": 11,
+      "vote_average": 6
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 10,
+      "id": 135741,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/lbogQ62ZgARQd3uuLl7e3fJeQ5r.jpg",
+      "season_number": 12,
+      "vote_average": 6.1
+    },
+    {
+      "air_date": "2021-10-31",
+      "episode_count": 6,
+      "id": 175012,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/hnAwYE6NvC4UVdMRPd7FOX52PQy.jpg",
+      "season_number": 13,
+      "vote_average": 6.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.625,
+  "vote_count": 3452,
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/gDtZQmfzvErZpeXOVeCBQE9WkSF.jpg",
+        "id": 239770,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "يسافر الدكتور ورفيقته عبر الزمان والمكان ويقابلان أصدقاء رائعين وخصوماً خطرين.",
+        "poster_path": "/2JP6NSmBwxg75uTcIHiv5R8PpPi.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 19.561,
+        "first_air_date": "2024-05-11",
+        "softcore": false,
+        "vote_average": 6.372,
+        "vote_count": 331,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8VWgyQjExeMgeg6Qzv6agduMU1A.jpg",
+        "id": 121,
+        "name": "Doctor Who",
+        "original_name": "Doctor Who",
+        "overview": "The adventures of The Doctor, a time-traveling humanoid alien known as a Time Lord. He explores the universe in his TARDIS, a sentient time-traveling spaceship. Its exterior appears as a blue British police box, which was a common sight in Britain in 1963 when the series first aired. Along with a succession of companions, The Doctor faces a variety of foes while working to save civilizations, help ordinary people, and right many wrongs.",
+        "poster_path": "/xinqAmYrZ1TEwowcQhgTkZVtVE0.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 102.0769,
+        "first_air_date": "1963-11-23",
+        "softcore": false,
+        "vote_average": 7.915,
+        "vote_count": 718,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rY4HsR1MLlddyrotCDskeC4ROXb.jpg",
+        "id": 2985,
+        "name": "Andromeda",
+        "original_name": "Andromeda",
+        "overview": "Captain Dylan Hunt and his crew quest to restore a government that once presided over an extended peace and prosperity.",
+        "poster_path": "/uAOyxeDiNwYU8GuOebU0FExh49C.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "popularity": 27.5139,
+        "first_air_date": "2000-10-02",
+        "softcore": false,
+        "vote_average": 7.057,
+        "vote_count": 309,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tmTqDRHs3oXdAQApF8G2D3q5GFx.jpg",
+        "id": 4562,
+        "name": "Seven Days",
+        "original_name": "Seven Days",
+        "overview": "\"Ever wish you could live your last week all over again? Well, my name's Frank B. Parker, and I do it all the time. I work for a secret government project experimenting in time travel. When things really get screwed up, I'm the guinea pig they send back to take care of it. The catch is, I can only go back 7 days.\"",
+        "poster_path": "/yhnSqxQc8QaeBC2ZuWqZDtECtHv.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "popularity": 11.751,
+        "first_air_date": "1998-10-07",
+        "softcore": false,
+        "vote_average": 6.82,
+        "vote_count": 61,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/z3RpjgmF9AjuhTog4yLLG3QGLPN.jpg",
+        "id": 46922,
+        "name": "بن 10: أومنيفرس",
+        "original_name": "Ben 10: Omniverse",
+        "overview": "هزيمة الأشرار مجرد جزء من هوايات البطل الخارق. ومع قليل من المساعدة من شريكه المبتدئ الجديد، يقوم بن باستكشاف الجانب الغريب في عالم الكائنات الفضائية وأعداء من الماضي الذين يبحثون عن الثأر، بينما يطارده صياد غامض! لقد عاد بن تنيسون من جديد وبجعبته عشرة كائنات فضائية جديدة وفرصة المزيد من المتعة أكثر من ذي قبل!",
+        "poster_path": "/yY8mOS4ZR0P8JKvyWl8LhCKZ3HT.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          10762
+        ],
+        "popularity": 22.835,
+        "first_air_date": "2012-08-01",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 542,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5TpptGoxVVght2n6oz8QJklmSTu.jpg",
+        "id": 4018,
+        "name": "Quantum Leap",
+        "original_name": "Quantum Leap",
+        "overview": "Theorizing that one could time travel within his own lifetime, Dr. Sam Beckett stepped into the Quantum Leap accelerator and vanished... He woke to find himself trapped in the past, facing mirror images that were not his own and driven by an unknown force to change history for the better. His only guide on this journey is Al, an observer from his own time, who appears in the form of a hologram that only Sam can see and hear. And so Dr. Beckett finds himself leaping from life to life, striving to put right what once went wrong and hoping each time that his next leap will be the leap home.",
+        "poster_path": "/ujIGP3e3V6kDQHRhjNYtUE3fHJi.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 51.5021,
+        "first_air_date": "1989-03-26",
+        "softcore": false,
+        "vote_average": 8.005,
+        "vote_count": 799,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p28CNA5SVW3tF1A6RnEUyyJ0L0j.jpg",
+        "id": 13881,
+        "name": "The Invaders",
+        "original_name": "The Invaders",
+        "overview": "The Invaders, alien beings from a dying planet. Their destination: the Earth. Their purpose: to make it their world. David Vincent has seen them, for him it began one lost night on a lonely country road, looking for a shortcut that he never found. It began with a closed deserted diner, and a man too long without sleep to continue his journey. It began with the landing of a craft from another galaxy. Now, David Vincent knows that the Invaders are here, that they have taken human form. Somehow he must convince a disbelieving world that the nightmare has already begun.",
+        "poster_path": "/a6hE0lx1ploE0bLw8R9nv3IrI5T.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 15.3478,
+        "first_air_date": "1967-01-10",
+        "softcore": false,
+        "vote_average": 6.9,
+        "vote_count": 61,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/omPcylzcwlsser7aKTlsyoMJLyK.jpg",
+        "id": 103,
+        "name": "The Time Tunnel",
+        "original_name": "The Time Tunnel",
+        "overview": "The Time Tunnel is a 1966–1967 U.S. color science fiction TV series, written around a theme of time travel adventure. The show was creator-producer Irwin Allen's third science fiction television series, released by 20th Century Fox and broadcast on ABC. The show ran for one season of 30 episodes. Reruns are viewable on cable and by internet streaming. A pilot for a new series was produced in 2002, although it was not picked up.",
+        "poster_path": "/6E3Ncd9iLWqi8m1GcdkU5bSwOnS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          10765,
+          18
+        ],
+        "popularity": 12.5238,
+        "first_air_date": "1966-09-09",
+        "softcore": false,
+        "vote_average": 7.641,
+        "vote_count": 198,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qd8GllAmewP7VMSiqfQfpJvHfPN.jpg",
+        "id": 3345,
+        "name": "Land of the Giants",
+        "original_name": "Land of the Giants",
+        "overview": "Set fifteen years in the then-future year 1983, the series tells the tale of the crew and passengers of a sub-orbital transport ship named Spindrift. In the pilot episode, the Spindrift is en route from Los Angeles to London, on an ultra-fast sub-orbital flight. Just beyond Earth's boundary with space, the Spindrift encounters a magnetic space storm, and is dragged through a space warp to a mysterious planet where everything is twelve times larger than on Earth, whose inhabitants the Earthlings nickname \"the Giants\". The Spindrift crash-lands, and the damage renders it inoperable.",
+        "poster_path": "/ljbqDwgOoqYvQ6WRnuLr8QleEkH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 18.8521,
+        "first_air_date": "1968-09-22",
+        "softcore": false,
+        "vote_average": 6.79,
+        "vote_count": 50,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9TvRRh8HUAMK9phVXLInPXHUg6K.jpg",
+        "id": 66786,
+        "name": "Timeless",
+        "original_name": "Timeless",
+        "overview": "تنطلق مؤرّخة وجندي ومبرمج في مغامرة تحبس الأنفاس، قافزين عبر الزمن لمطاردة مجرمين غامضين يستهدفون تخريب نسيج التسلسل الزمني.",
+        "poster_path": "/wFaS9kROwztTWNxIKBbOLwIgApV.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 30.3089,
+        "first_air_date": "2016-10-03",
+        "softcore": false,
+        "vote_average": 7.2,
+        "vote_count": 819,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sDXpAPO6MudcF98AH599RJc2Bbg.jpg",
+        "id": 486,
+        "name": "Captain Scarlet and the Mysterons",
+        "original_name": "Captain Scarlet and the Mysterons",
+        "overview": "Captain Scarlet heads up an international intelligence agency as they battle against the Mysterons, an alien species from Mars that vows vengeance after a misunderstanding with humans.",
+        "poster_path": "/83Q8UHBJYLQx4bbCDYvt3TxODd1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "popularity": 9.4306,
+        "first_air_date": "1967-09-29",
+        "softcore": false,
+        "vote_average": 7.545,
+        "vote_count": 33,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rRLwVEle5bKWhMXvG7eAjmwyFzJ.jpg",
+        "id": 2840,
+        "name": "Earth: Final Conflict",
+        "original_name": "Earth: Final Conflict",
+        "overview": "Years ago, the Taelons came to Earth, offering friendship and technology to humanity. But there are those who believe the Taelons have more sinister motives.",
+        "poster_path": "/xOcw7r57ppfPHdaTIauMnE64Npz.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          18,
+          10759,
+          9648
+        ],
+        "popularity": 44.0289,
+        "first_air_date": "1997-10-06",
+        "softcore": false,
+        "vote_average": 6.765,
+        "vote_count": 100,
+        "origin_country": [
+          "CA",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2yWQg2FBynT8vFQw3kmBlOTdrXy.jpg",
+        "id": 1481,
+        "name": "The 4400",
+        "original_name": "The 4400",
+        "overview": "4400 centers on the return of 4400 people who, previously presumed dead or reported missing, reappear on Earth. Though they have not aged physically, some of them seem to have deeper alterations ranging from superhuman strength to an unexplained healing touch. A government agency is formed to track the 4400 people after one of them commits a murder.",
+        "poster_path": "/nWpatnVtPVxjsn7mMiRZNAalEMf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "popularity": 21.3595,
+        "first_air_date": "2004-07-11",
+        "softcore": false,
+        "vote_average": 7.15,
+        "vote_count": 757,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9AEi1twvgO7gDUc5bHo9Mi4YMDi.jpg",
+        "id": 201836,
+        "name": "The Way Home",
+        "original_name": "The Way Home",
+        "overview": "When three generations of women reunite after being estranged for more than two decades, they embark on an enlightening – and surprising – journey toward healing none of them could have imagined as they learn how to find their way back to each other.",
+        "poster_path": "/kfKsJktZvK22sYX2gV2LjsdIz3u.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10751,
+          10765
+        ],
+        "popularity": 8.7093,
+        "first_air_date": "2023-01-15",
+        "softcore": false,
+        "vote_average": 7.7,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hK7iYSziOzETEok7kRPvZ2y0P2p.jpg",
+        "id": 2275,
+        "name": "The Bionic Woman",
+        "original_name": "The Bionic Woman",
+        "overview": "After fully recovering from her near fatal bout of bionic rejection, Jaime Sommers, the first female cyborg, is assigned to spy missions of her own.",
+        "poster_path": "/3V3XrXk1DSp1z0qsGOZRI1K2acd.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 22.2091,
+        "first_air_date": "1976-01-14",
+        "softcore": false,
+        "vote_average": 7.023,
+        "vote_count": 281,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/te4VJNMipsFQofCkiytuyswGDlV.jpg",
+        "id": 1437,
+        "name": "Firefly",
+        "original_name": "Firefly",
+        "overview": "خمسمائة عام في المستقبل، وعلى متن مركبة صغيرة في الفضاء، يحاول الطاقم المنشق البقاء على قيد الحياة، في رحلتهم إلى أجزاء غير معروفة في المجرة، بها فصائل متحاربة، يجب عليهم الهروب منها.",
+        "poster_path": "/vZcKsy4sGAvWMVqLluwYuoi11Kj.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 21.1505,
+        "first_air_date": "2002-09-20",
+        "softcore": false,
+        "vote_average": 8.344,
+        "vote_count": 2495,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8Mga1PD5fVnB21JyarIE2EBu58S.jpg",
+        "id": 71383,
+        "name": "The Crossing",
+        "original_name": "The Crossing",
+        "overview": "Refugees from a war-torn country start showing up to seek asylum in an American town. Only the country these people are from is America and the war they are fleeing is 250 years in the future. The local sheriff with a past, a federal agent and a mother in search of her missing refugee daughter drive this allegory with a surprising conspiracy at the center.",
+        "poster_path": "/cvoSPs6We2u88mXz2vSqjbd4kQ0.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759
+        ],
+        "popularity": 5.7539,
+        "first_air_date": "2018-04-02",
+        "softcore": false,
+        "vote_average": 6.9,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Bsfr4QipqfAMlv9DCk8zNACvUG.jpg",
+        "id": 3122,
+        "name": "Star Wars: Clone Wars",
+        "original_name": "Star Wars: Clone Wars",
+        "overview": "During the Clone Wars, Jedi Master Obi-Wan Kenobi leads an assault on the planet Muunilinst, home of the Intergalactic Banking Clan; and his Padawan, Anakin Skywalker, is appointed by Supreme Chancellor Palpatine to lead the Republic’s space forces. Meanwhile, Separatist leader and Sith Lord Count Dooku takes in Force-sensitive gladiator Asajj Ventress as his Sith apprentice, and tasks her with eliminating Skywalker.",
+        "poster_path": "/jKfAVTGkf9qpGPZ4E1pNKdW6vra.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          18
+        ],
+        "popularity": 9.02,
+        "first_air_date": "2003-11-07",
+        "softcore": false,
+        "vote_average": 7.785,
+        "vote_count": 516,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uo4wPlubpUwjlLm39PF8BxXCqLm.jpg",
+        "id": 4271,
+        "name": "Farscape",
+        "original_name": "Farscape",
+        "overview": "A freak accident during an experimental space mission catapults Astronaut John Crichton across a thousand galaxies to an alien battlefield.",
+        "poster_path": "/fCJx7cCXKOEkmCVIIyP8qk0Pb7Y.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 31.802,
+        "first_air_date": "1999-03-19",
+        "softcore": false,
+        "vote_average": 7.887,
+        "vote_count": 626,
+        "origin_country": [
+          "AU",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zAgcM7zwWAVOIT9dMMzQx7e4vdX.jpg",
+        "id": 6357,
+        "name": "توايلايت زون",
+        "original_name": "The Twilight Zone",
+        "overview": "سلسلة مختارات تحتوي على الدراما والإثارة النفسية والخيال والخيال العلمي والتشويق و/أو الرعب، وغالبًا ما تنتهي بتحول غريب أو غير متوقع.",
+        "poster_path": "/7uY4pCOxbEdv4M8jTE4uMPVoSIW.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          9648,
+          18
+        ],
+        "popularity": 35.3305,
+        "first_air_date": "1959-10-02",
+        "softcore": false,
+        "vote_average": 8.507,
+        "vote_count": 1067,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 23,
+    "total_results": 453
+  },
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 66431,
+        "known_for_department": "Acting",
+        "name": "جودي ويتاكر",
+        "original_name": "Jodie Whittaker",
+        "popularity": 2.0691,
+        "profile_path": "/zS6EO1GsfOiuyaa66YqmUPWDX78.jpg",
+        "character": "The Doctor",
+        "credit_id": "597b356a925141364a0106fb",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1752554,
+        "known_for_department": "Acting",
+        "name": "Mandip Gill",
+        "original_name": "Mandip Gill",
+        "popularity": 1.1583,
+        "profile_path": "/8YK6RDwTSrPhx6fwQaD83LnDxuN.jpg",
+        "character": "Yasmin 'Yaz' Khan",
+        "credit_id": "5a6f45b90e0a26795f0000f9",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 216049,
+        "known_for_department": "Acting",
+        "name": "John Bishop",
+        "original_name": "John Bishop",
+        "popularity": 0.9513,
+        "profile_path": "/tooZmoOa6YLZTyak8gbbYXFeile.jpg",
+        "character": "Dan Lewis",
+        "credit_id": "5fef84a4140bad003ca577ad",
+        "order": 10
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1970272,
+        "known_for_department": "Sound",
+        "name": "Segun Akinola",
+        "original_name": "Segun Akinola",
+        "popularity": 0.3185,
+        "profile_path": "/g3nuRxGLX3gQTmqTRZjNl4toy4.jpg",
+        "credit_id": "5dd9983528723c18ad56a2d7",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1970272,
+        "known_for_department": "Sound",
+        "name": "Segun Akinola",
+        "original_name": "Segun Akinola",
+        "popularity": 0.3185,
+        "profile_path": "/g3nuRxGLX3gQTmqTRZjNl4toy4.jpg",
+        "credit_id": "6647ed0ba4e55d40af11e435",
+        "department": "Sound",
+        "job": "Theme Song Performance"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24260,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claire Pritchard",
+        "original_name": "Claire Pritchard",
+        "popularity": 0.424,
+        "profile_path": "/9yoXqLnATg2qzE4DORtYDdGzp6c.jpg",
+        "credit_id": "6627ecd1af9590017d6be4bf",
+        "department": "Costume & Make-Up",
+        "job": "Hair Designer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24260,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Claire Pritchard",
+        "original_name": "Claire Pritchard",
+        "popularity": 0.424,
+        "profile_path": "/9yoXqLnATg2qzE4DORtYDdGzp6c.jpg",
+        "credit_id": "5995b6f09251417ee30004ca",
+        "department": "Costume & Make-Up",
+        "job": "Makeup Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9002,
+        "known_for_department": "Production",
+        "name": "Andy Pryor",
+        "original_name": "Andy Pryor",
+        "popularity": 0.7691,
+        "profile_path": "/lzugGZGMc9Q12dWf3VCvOpOioxh.jpg",
+        "credit_id": "568d4604c3a3686075032d7f",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 68685,
+        "known_for_department": "Sound",
+        "name": "Ron Grainer",
+        "original_name": "Ron Grainer",
+        "popularity": 0.5582,
+        "profile_path": "/kdk6yQc4scGlzeMDWMgcoWYPBkV.jpg",
+        "credit_id": "6647ec4b62724628012f3e49",
+        "department": "Sound",
+        "job": "Main Title Theme Composer"
+      }
+    ]
+  },
+  "watch/providers": {
+    "results": {
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=AT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=AU",
+        "buy": [
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=CA",
+        "free": [
+          {
+            "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+            "provider_id": 212,
+            "provider_name": "Hoopla",
+            "display_priority": 8
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=CH",
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=DE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=FR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/73lu1dtE9uJLWK1laXpeaAFh48j.png",
+            "provider_id": 61,
+            "provider_name": "Orange VOD",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+            "provider_id": 38,
+            "provider_name": "BBC iPlayer",
+            "display_priority": 15
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=JP",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/mh1vBeclG7Eq15TjRnmyustqp3v.png",
+            "provider_id": 356,
+            "provider_name": "wavve",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/ppQIS7UMtBwJSspSoGqDR8wO1Gr.png",
+            "provider_id": 97,
+            "provider_name": "Watcha",
+            "display_priority": 6
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=RU",
+        "flatrate": [
+          {
+            "logo_path": "/oroIyNGCu4ltli1lI4m7em1IYE5.png",
+            "provider_id": 117,
+            "provider_name": "Kinopoisk",
+            "display_priority": 21
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/57243-doctor-who/watch?locale=US",
+        "free": [
+          {
+            "logo_path": "/gtjNBzAoGgUtYzt0UKXmwG34WWL.png",
+            "provider_id": 212,
+            "provider_name": "Hoopla",
+            "display_priority": 36
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+            "provider_id": 2383,
+            "provider_name": "Philo",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/wLl5LRLVC6UOSaUlsmuzY0H9LS1.png",
+            "provider_id": 1854,
+            "provider_name": "AMC Plus Apple TV channel",
+            "display_priority": 24
+          },
+          {
+            "logo_path": "/tg5ufQ1GkYDCMxSSxemfeKWcvRe.png",
+            "provider_id": 528,
+            "provider_name": "AMC+ Amazon Channel",
+            "display_priority": 28
+          },
+          {
+            "logo_path": "/xMyod7PSWlER7Q8FLDqVckKeyyB.png",
+            "provider_id": 635,
+            "provider_name": "AMC+ Roku Premium Channel",
+            "display_priority": 30
+          },
+          {
+            "logo_path": "/6qPtM96UZkt3Bu4ZFPsDeHFWUZ2.png",
+            "provider_id": 486,
+            "provider_name": "Spectrum On Demand",
+            "display_priority": 119
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60625,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Rick and Morty",
+        "overview": "تتمحور قصة المسلسل حول مغامرات عائلة سميث المكونة من ريك سانشيز، عالم عبقري مجنون ومدمن كحول، مورتي سميث حفيد ريك المراهق ذو الأربعة عشر عام، سمر سميث؛ شقيقة مورتي ذو السابعة عشر، بيث سميث؛ ابنة ريك والدة مورتي وسمر، طبيبة حيوانات جراحية؛ جيري سميث، زوج بيث، رجل بسيط مهزوز الثقة غالباً ما يختلف مع ريك.",
+        "popularity": 150.4147,
+        "poster_path": "/hzaQf6KjsWAO2jW1ixcTG7XClYp.jpg",
+        "first_air_date": "2013-12-02",
+        "softcore": false,
+        "name": "ريك ومورتي",
+        "vote_average": 8.682,
+        "vote_count": 11372
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gDtZQmfzvErZpeXOVeCBQE9WkSF.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "id": 239770,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Doctor Who",
+        "overview": "يسافر الدكتور ورفيقته عبر الزمان والمكان ويقابلان أصدقاء رائعين وخصوماً خطرين.",
+        "popularity": 19.561,
+        "poster_path": "/2JP6NSmBwxg75uTcIHiv5R8PpPi.jpg",
+        "first_air_date": "2024-05-11",
+        "softcore": false,
+        "name": "Doctor Who",
+        "vote_average": 6.388,
+        "vote_count": 330
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qw8XT80DuF9OuJKeaBsj1x1trar.jpg",
+        "genre_ids": [
+          10765,
+          10759,
+          10762
+        ],
+        "id": 1983,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "未来戦隊タイムレンジャー",
+        "overview": "",
+        "popularity": 9.9355,
+        "poster_path": "/iWor5oLRzYzOvaE5bbrE6mFZ4fe.jpg",
+        "first_air_date": "2000-02-13",
+        "softcore": false,
+        "name": "未来戦隊タイムレンジャー",
+        "vote_average": 8,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bVc0t8e4EZU7GroYu35x6UYw7SW.jpg",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "id": 276903,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ホットスポット",
+        "overview": "",
+        "popularity": 4.6047,
+        "poster_path": "/vnGjkOA1cyvBo4Av8S5x738Rr7x.jpg",
+        "first_air_date": "2025-01-12",
+        "softcore": false,
+        "name": "ホットスポット",
+        "vote_average": 8.288,
+        "vote_count": 33
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dnePq1kDs0On398Oc7sVUCZgtft.jpg",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "id": 1952,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Mystery Science Theater 3000",
+        "overview": "",
+        "popularity": 29.7881,
+        "poster_path": "/nNeb35RFoeLwxu0CFzZ9NAI5UTA.jpg",
+        "first_air_date": "1989-11-25",
+        "softcore": false,
+        "name": "Mystery Science Theater 3000",
+        "vote_average": 7.697,
+        "vote_count": 229
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xtMhBn1RTKR7cYjAVZXvuZ88A4O.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10765
+        ],
+        "id": 30180,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "DearS",
+        "overview": "",
+        "popularity": 4.6025,
+        "poster_path": "/lKydkmuKjmQpNKrOzwMUSVmCgPq.jpg",
+        "first_air_date": "2004-07-10",
+        "softcore": false,
+        "name": "DearS",
+        "vote_average": 6.25,
+        "vote_count": 34
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6HCTF1qRwysB7Q5pJjPTTTY0spr.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10765
+        ],
+        "id": 1818,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "Lexx",
+        "overview": "",
+        "popularity": 19.9607,
+        "poster_path": "/oSDZ9YpDvAbXxzbC3YdknfyBR3W.jpg",
+        "first_air_date": "1997-04-18",
+        "softcore": false,
+        "name": "Lexx",
+        "vote_average": 7.003,
+        "vote_count": 146
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7YFranrnnIcCrgsLYQsoq8aE3Ir.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 1855,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Star Trek: Voyager",
+        "overview": "",
+        "popularity": 68.4701,
+        "poster_path": "/gNS5tRSG3UlXodCxznKKOKweqxh.jpg",
+        "first_air_date": "1995-01-16",
+        "softcore": false,
+        "name": "Star Trek: Voyager",
+        "vote_average": 7.782,
+        "vote_count": 1153
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3wC5gpD417hMzHpgOX3ZV6LyN0V.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 1898,
+        "origin_country": [
+          "CA",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Odyssey 5",
+        "overview": "",
+        "popularity": 4.7662,
+        "poster_path": "/cFmvX3lFdBXRkSsTqS2eUoDTdC3.jpg",
+        "first_air_date": "2002-06-21",
+        "softcore": false,
+        "name": "Odyssey 5",
+        "vote_average": 6.443,
+        "vote_count": 35
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jtpGcS4ns3kjQ7d11ocq6KHKNpt.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 93169,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "安玲与史迪奇",
+        "overview": "",
+        "popularity": 2.4689,
+        "poster_path": "/gOMeH86HMATMRAFtr5iqFZEZKvV.jpg",
+        "first_air_date": "2017-03-27",
+        "softcore": false,
+        "name": "安玲与史迪奇",
+        "vote_average": 4.7,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/l4ckEs9v5MaYVikwG1ycFdTITTQ.jpg",
+        "genre_ids": [
+          35,
+          10765
+        ],
+        "id": 2048,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Hitchhiker's Guide to the Galaxy",
+        "overview": "",
+        "popularity": 5.6131,
+        "poster_path": "/yKiH7IIbo23uA72MmY318mXorjw.jpg",
+        "first_air_date": "1981-01-05",
+        "softcore": false,
+        "name": "The Hitchhiker's Guide to the Galaxy",
+        "vote_average": 8.023,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/UJdcsAYSMqrA2i0CYlaAMl4Gvf.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          10759,
+          10765,
+          35
+        ],
+        "id": 60789,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Monsters vs. Aliens",
+        "overview": "",
+        "popularity": 8.0709,
+        "poster_path": "/ktmwzcWou5vCyqDnRJXih812XGI.jpg",
+        "first_air_date": "2013-03-23",
+        "softcore": false,
+        "name": "Monsters vs. Aliens",
+        "vote_average": 6.3,
+        "vote_count": 58
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7kPV6VKnAoEe7MyXMyIKI8lqOjt.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "id": 60806,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "キャプテン・アース",
+        "overview": "",
+        "popularity": 3.8969,
+        "poster_path": "/nBs0EhoQLJRp0eAN17rmueBafko.jpg",
+        "first_air_date": "2014-04-06",
+        "softcore": false,
+        "name": "キャプテン・アース",
+        "vote_average": 6.526,
+        "vote_count": 19
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dDDGlVK9cABrVskRUjFrqpVzJgm.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "id": 60831,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "シドニアの騎士",
+        "overview": "دمرت فصيلة فضائية تُدعى غاونا كوكب الأرض، تاركةً البشرية تُكافح من أجل البقاء على متن سفينة الفضاء سيدونيا. ورغم مرور قرن على آخر لقاء مع الغاونا، إلا أن الخدمة العسكرية إلزامية. بالنسبة لناغاتي تانيكازي، الذي أخفاه جده سرًا في أعماق سيدونيا المنسية، يُعد هذا عالمًا جديدًا غريبًا عليه، إذ يُجبر على الصعود إلى السطح. لكن تجنيده يأتي في الوقت المناسب تمامًا، فقد عاد الغاونا للظهور فجأة.",
+        "popularity": 11.0366,
+        "poster_path": "/kzdYpEzyvDbxSLSaCxJhZQgksfJ.jpg",
+        "first_air_date": "2014-04-11",
+        "softcore": false,
+        "name": "シドニアの騎士",
+        "vote_average": 7.663,
+        "vote_count": 147
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/47eKN7qf7einF1rkRBNL55HjQyZ.jpg",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "id": 2120,
+        "origin_country": [
+          "CA",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Crusade",
+        "overview": "",
+        "popularity": 5.5171,
+        "poster_path": "/nro8P92M0XFA4sxwD7xy1h6yFIy.jpg",
+        "first_air_date": "1999-06-09",
+        "softcore": false,
+        "name": "Crusade",
+        "vote_average": 6.687,
+        "vote_count": 134
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/52KNjM7p43UuTLCgWo1ACd4TMBm.jpg",
+        "genre_ids": [
+          18,
+          10751,
+          10765,
+          10759
+        ],
+        "id": 126577,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "超速パラヒーロー ガンディーン",
+        "overview": "",
+        "popularity": 1.6717,
+        "poster_path": "/angC1GUJFKZpcaXZgiVaoTzFRfn.jpg",
+        "first_air_date": "2021-06-26",
+        "softcore": false,
+        "name": "超速パラヒーロー ガンディーン",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oReDAVfMTBi1J543aKg7LpeecPv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 60948,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "12 Monkeys",
+        "overview": "",
+        "popularity": 22.652,
+        "poster_path": "/w5u1PqBYfDyfrlkxADTA38jYG3I.jpg",
+        "first_air_date": "2015-01-16",
+        "softcore": false,
+        "name": "12 Monkeys",
+        "vote_average": 7.433,
+        "vote_count": 1211
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ayOqM9CJxqB3ChvR6pNSYqe02Sn.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 60957,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "별에서 온 그대",
+        "overview": "لم ينجح مين جون في إخافة سونغ يي بعدما كشف هويته، بل إن سونغ يي أصيبت بالفضول تجاهه، وبعد ذلك، يكشف مين جون هويته لليوكسي ليحمي سونغ يي.",
+        "popularity": 9.6106,
+        "poster_path": "/lUFUnfVxQaDg1NLbLffXCXTuOlS.jpg",
+        "first_air_date": "2013-12-18",
+        "softcore": false,
+        "name": "حبيبي من نجم آخر",
+        "vote_average": 8.295,
+        "vote_count": 825
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9q84THOPkb4rQgEGstanCoNcrDY.jpg",
+        "genre_ids": [
+          10759,
+          10765
+        ],
+        "id": 2203,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "First Wave",
+        "overview": "",
+        "popularity": 23.3158,
+        "poster_path": "/os8qvB3iGLbOGgmHacDLaf1QrHx.jpg",
+        "first_air_date": "1998-09-09",
+        "softcore": false,
+        "name": "First Wave",
+        "vote_average": 7.145,
+        "vote_count": 62
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o5P2aI2MKuMYZIP5YO3ahVMBaOh.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "id": 60874,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "スペース☆ダンディ",
+        "overview": "",
+        "popularity": 9.0515,
+        "poster_path": "/fiF6xVytcy0RHvIzMWUXNIGOIKu.jpg",
+        "first_air_date": "2014-01-04",
+        "softcore": false,
+        "name": "スペース☆ダンディ",
+        "vote_average": 7.5,
+        "vote_count": 137
+      }
+    ],
+    "total_pages": 3111,
+    "total_results": 62210
+  }
+}

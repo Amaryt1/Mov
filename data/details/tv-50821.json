@@ -1,0 +1,1296 @@
+{
+  "adult": false,
+  "backdrop_path": "/hHMWfDlqKisD5zVcZfz3KEw5U3v.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    12
+  ],
+  "first_air_date": "1998-10-26",
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
+    }
+  ],
+  "homepage": "http://rtl.hu/rtlklub/baratok",
+  "id": 50821,
+  "in_production": false,
+  "languages": [
+    "hu"
+  ],
+  "last_air_date": "2021-07-17",
+  "last_episode_to_air": {
+    "id": 4191290,
+    "name": "الحلقة 502",
+    "overview": "",
+    "vote_average": 10,
+    "vote_count": 1,
+    "air_date": "2021-07-17",
+    "episode_number": 502,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 12,
+    "season_number": 23,
+    "show_id": 50821,
+    "still_path": null
+  },
+  "name": "Barátok közt",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 833,
+      "logo_path": "/r3GEPOAXaREH765QVreesBK9mE0.png",
+      "name": "RTL",
+      "origin_country": "HU"
+    }
+  ],
+  "number_of_episodes": 10456,
+  "number_of_seasons": 23,
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_name": "Barátok közt",
+  "overview": "",
+  "popularity": 320.6505,
+  "poster_path": "/kBBbSgNchtMvsgD6z1oI1RRluHP.jpg",
+  "production_companies": [
+    {
+      "id": 56902,
+      "logo_path": "/uVFsyoIrj5IakdsaLWkZn13ef5x.png",
+      "name": "UFA Magyarország Kft.",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1998-10-26",
+      "episode_count": 368,
+      "id": 239008,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-08-23",
+      "episode_count": 450,
+      "id": 319727,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-08-21",
+      "episode_count": 444,
+      "id": 322087,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-21",
+      "episode_count": 438,
+      "id": 322097,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-08-21",
+      "episode_count": 434,
+      "id": 324430,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-08-21",
+      "episode_count": 446,
+      "id": 324469,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-08-23",
+      "episode_count": 460,
+      "id": 324510,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2005-08-22",
+      "episode_count": 456,
+      "id": 324595,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-21",
+      "episode_count": 462,
+      "id": 324835,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-08-27",
+      "episode_count": 450,
+      "id": 324967,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-25",
+      "episode_count": 454,
+      "id": 325111,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-08-31",
+      "episode_count": 438,
+      "id": 325126,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-08-23",
+      "episode_count": 448,
+      "id": 325219,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-08-22",
+      "episode_count": 404,
+      "id": 325302,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-21",
+      "episode_count": 418,
+      "id": 325320,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-08-21",
+      "episode_count": 428,
+      "id": 325328,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-07-14",
+      "episode_count": 492,
+      "id": 325343,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-07-13",
+      "episode_count": 502,
+      "id": 325375,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-07-18",
+      "episode_count": 496,
+      "id": 325450,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-07-17",
+      "episode_count": 490,
+      "id": 325492,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-07-16",
+      "episode_count": 488,
+      "id": 325530,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-07-15",
+      "episode_count": 488,
+      "id": 325746,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-07-13",
+      "episode_count": 502,
+      "id": 325873,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 3.775,
+  "vote_count": 20,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1259684,
+        "known_for_department": "Acting",
+        "name": "Zoltán Szőke",
+        "original_name": "Zoltán Szőke",
+        "popularity": 0.5603,
+        "profile_path": "/TQaY1xYb2qtrncM0VguVtmfSDW.jpg",
+        "character": "Berényi Miklós",
+        "credit_id": "63af3dc48741c4008442781c",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1259689,
+        "known_for_department": "Acting",
+        "name": "Izabella Varga",
+        "original_name": "Izabella Varga",
+        "popularity": 0.3623,
+        "profile_path": "/xs62bVx6BM53PJ8azd3HdK1sUof.jpg",
+        "character": "dr Balogh Nóra",
+        "credit_id": "658eb38663536a5dceb83dd4",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3391992,
+        "known_for_department": "Acting",
+        "name": "Virág Pásztor",
+        "original_name": "Virág Pásztor",
+        "popularity": 0.5514,
+        "profile_path": "/vxyGiLAtjYFNcNinO4kNPdVTI1M.jpg",
+        "character": "Berényi Tímea",
+        "credit_id": "658eb66e19ab596512561a50",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1259692,
+        "known_for_department": "Acting",
+        "name": "Edina Som-Balogh",
+        "original_name": "Edina Som-Balogh",
+        "popularity": 0.6451,
+        "profile_path": "/u0OMYtsv7MapoXDqbafgGH1raRv.jpg",
+        "character": "Nádor Kinga",
+        "credit_id": "658eb7a863536a5dceb83eab",
+        "order": 505
+      }
+    ],
+    "crew": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/uVe8fWCLMqIhgMTI9maIUncfZAP.jpg",
+        "id": 130464,
+        "name": "Tell Me Lies",
+        "original_name": "Tell Me Lies",
+        "overview": "When Lucy Albright and Stephen DeMarco meet at college, they are at that formative age when seemingly mundane choices lead the way to irrevocable consequences. They quickly fall into an addictive entanglement that will permanently alter not only their lives, but the lives of everyone around them.",
+        "poster_path": "/tc5c5X1ZbJx5guaQUo1Xqt24S8z.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 16.7794,
+        "first_air_date": "2022-09-07",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 249,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7EB84rTBUmjY2tPhNpGjxnKJVeo.jpg",
+        "id": 262352,
+        "name": "The Assassin",
+        "original_name": "The Assassin",
+        "overview": "Secluded on a remote Greek island, retired assassin Julie has a somewhat thorny reunion with her estranged son, Edward, visiting from England. Armed with questions around new information on his paternity, Edward battles to find the right time to speak to his frustratingly distant mother. But, when the moment finally presents itself, things take a deadly turn as Julie’s dangerous past catches up with her and they are forced to flee the island and go on the run together.",
+        "poster_path": "/3O2UgEszp1CVbL8p9XnKkFDkbk3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 11.4705,
+        "first_air_date": "2025-07-25",
+        "softcore": false,
+        "vote_average": 6.882,
+        "vote_count": 76,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f1Z5X3iCCKK5FGu5VvzPkXO7eOl.jpg",
+        "id": 64199,
+        "name": "Sneaky Pete",
+        "original_name": "Sneaky Pete",
+        "overview": "رجل محتال هارب من رجل عصابات شرير يحتمي من ماضيه من خلال افتراض هوية زميله في زنزانة السجن ، بيت ، \"لم شمله\" مع عائلة بيت المنفصلة ، وهي مجموعة ملونة ومختلة وظيفيا تهدد بجره إلى عالم لا يقل خطورة عن العالم الذي يحاول الهروب منه - وربما يعطيه طعما للعائلة المحبة التي لم يكن لديه أبدا.",
+        "poster_path": "/nNpcea9lLHI4iv8QpOIvHveVnT9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 30.2696,
+        "first_air_date": "2015-08-07",
+        "softcore": false,
+        "vote_average": 7.499,
+        "vote_count": 429,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9c93Cao5u30HPRbcZjjUBwzc0TT.jpg",
+        "id": 90399,
+        "name": "Ambitions",
+        "original_name": "Ambitions",
+        "overview": "A multigenerational family saga centered around one woman who, having recently relocated and intent on revitalizing her marriage, finds herself going head to head with some of the most powerful and deceitful players in the city.",
+        "poster_path": "/yZR31jvMgGwG4i0Z6Jee2iRUHyI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 8.8179,
+        "first_air_date": "2019-06-18",
+        "softcore": false,
+        "vote_average": 7.3,
+        "vote_count": 33,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yyOMIYaHB1xDSULKvT0djOwP4qc.jpg",
+        "id": 246461,
+        "name": "Sherlock & Daughter",
+        "original_name": "Sherlock & Daughter",
+        "overview": "يواجه شرلوك هولمز قضيةً خطيرةً تُعرّض حياة أصدقائه للخطر. تنضم إليه الأمريكية أميليا، التي تبحث عن والدها بعد مقتل والدتها. ورغم اختلافاتهم، ينجحون في حلّ لغز مؤامرة وقضية والدتها",
+        "poster_path": "/ifh5NNMzUEqErsHmeKjjGblbOav.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 12.3238,
+        "first_air_date": "2025-04-16",
+        "softcore": false,
+        "vote_average": 6.746,
+        "vote_count": 65,
+        "origin_country": [
+          "GB",
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bqopwxfw2Sd30gPDfUUFflCpjtK.jpg",
+        "id": 121710,
+        "name": "Inside Man",
+        "original_name": "Inside Man",
+        "overview": "A prisoner on death row in the US, a vicar in a quiet English town, and a maths teacher trapped in a cellar cross paths in the most unexpected way.",
+        "poster_path": "/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 7.7131,
+        "first_air_date": "2022-09-26",
+        "softcore": false,
+        "vote_average": 6.915,
+        "vote_count": 407,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/frNEERYvgDAThEcCR5FKzggktsR.jpg",
+        "id": 67136,
+        "name": "This Is Us",
+        "original_name": "This Is Us",
+        "overview": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect.",
+        "poster_path": "/huxmY6Dmzwpv5Q2hnNft0UMK7vf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 57.7302,
+        "first_air_date": "2016-09-20",
+        "softcore": false,
+        "vote_average": 8.228,
+        "vote_count": 1664,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nOWU1NSYQEOXRXcdfZbtJshwRGK.jpg",
+        "id": 283297,
+        "name": "نقطة سترلينغ",
+        "original_name": "Sterling Point",
+        "overview": "بعد اكتشافها أنها ورثت جزيرة نائية في \"كندا\" من جدها المغترب، الذي لم يُسمح لها بلقائه قط، تقرر \"آني جايكوبسون\" ذات الـ17 عاماً التحري عن الأمر، مما يجرها إلى عالم من الأسرار المدفونة وعلاقة أخوّة غير متوقعة، والتاريخ العائلي المعقّد الذي لم يكن مقدراً لها معرفته.",
+        "poster_path": "/3ri5Rdi8pHYtajZ1IiumDaul0TL.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18
+        ],
+        "popularity": 35.9964,
+        "first_air_date": "2026-08-05",
+        "softcore": false,
+        "vote_average": 8.225,
+        "vote_count": 131,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lnVWmFvLv2pTZGsuAJytiqKu541.jpg",
+        "id": 253376,
+        "name": "الحبيبة",
+        "original_name": "The Girlfriend",
+        "overview": "لورا تنعم بكل شيء: حياة مهنية ممتلئة بالنجاح وزوج محب وابنها الغالي دانيال. لكن حياتها المثالية تنهار حين يعود دانيال إلى المنزل برفقة تشيري، فتقلب حياتها رأسًا على عقب. بعد لقاء تعارف يسوده التوتر، تقتنع لورا بأن تشيري تخفي شيئًا. فهل هي متسلقة اجتماعية ماكرة، أم أن لورا تعاني من الارتياب؟ الحقيقة مسألة مرهونة بوجهة النظر.",
+        "poster_path": "/lAEc2446bj0mjX7CbuvOPbfwFsx.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 10.2411,
+        "first_air_date": "2025-09-10",
+        "softcore": false,
+        "vote_average": 7.136,
+        "vote_count": 154,
+        "origin_country": [
+          "US",
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/amYND1mIdCYEGVqKEH764W4HBtb.jpg",
+        "id": 226174,
+        "name": "Matlock",
+        "original_name": "Matlock",
+        "overview": "After achieving success in her younger years, the brilliant septuagenarian Madeline Matlock rejoins the workforce at a prestigious law firm where she uses her unassuming demeanor and wily tactics to win cases and expose corruption from within. Inspired by the classic television series of the same name.",
+        "poster_path": "/6kEAVyhalzv4HCAfnLfXUcF3nQZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 27.1475,
+        "first_air_date": "2024-09-22",
+        "softcore": false,
+        "vote_average": 6.98,
+        "vote_count": 150,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8ZJYKoCmRCdaMDArewEwg3Uy8Bg.jpg",
+        "id": 256711,
+        "name": "The Rainmaker",
+        "original_name": "The Rainmaker",
+        "overview": "Fresh out of law school, Rudy Baylor goes head to head with courtroom lion Leo Drummond as well as his law school girlfriend, Sarah. Rudy, along with his boss, Bruiser, and her disheveled paralegal, Deck, uncovers two connected conspiracies surrounding the mysterious death of their client's son.",
+        "poster_path": "/q8l0lj20amBFi0SBs8NI9yJpaHq.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 14.076,
+        "first_air_date": "2025-08-15",
+        "softcore": false,
+        "vote_average": 7.627,
+        "vote_count": 51,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ntsEP1jUbLxz62MZqxmVfM5TNfX.jpg",
+        "id": 199001,
+        "name": "حياتي مع أبناء عائلة والتر",
+        "original_name": "My Life with the Walter Boys",
+        "overview": "تتعرقل حياة مراهقة بسبب مأساة تجبرها على الانتقال للعيش مع عائلة وصيّتها الكبيرة في بلدة صغيرة، فتتعلم دروسًا جديدة عن الحب والأمل والصداقة.",
+        "poster_path": "/dQOwpTpBQEqRUcev4423LrU32G6.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 35.6832,
+        "first_air_date": "2023-12-07",
+        "softcore": false,
+        "vote_average": 7.816,
+        "vote_count": 427,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ksryUSn2iuvZjtgDlQ0uhcVQYbR.jpg",
+        "id": 194741,
+        "name": "Parish",
+        "original_name": "Parish",
+        "overview": "Gray Parish is a good man with a troubled past who gave up his life of crime for life as a family man. But when his son is violently murdered, old habits return, sending him on a relentless quest with moral intentions and dangerous consequences.",
+        "poster_path": "/iV1YDLXuJHwhxF85zwaTxXyrzN6.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 6.3863,
+        "first_air_date": "2024-03-31",
+        "softcore": false,
+        "vote_average": 6.3,
+        "vote_count": 70,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ulXewCeBreYuw1fpjpibYQ66RRv.jpg",
+        "id": 72071,
+        "name": "The Chi",
+        "original_name": "The Chi",
+        "overview": "A relevant, timely and distinctive coming-of-age story following a half dozen interrelated characters in the South Side of Chicago. The story centers on Brandon, an ambitious and confident young man who dreams about opening a restaurant of his own someday, but is conflicted between the promise of a new life and his responsibility to his mother and teenage brother back in the South Side.",
+        "poster_path": "/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 36.2387,
+        "first_air_date": "2018-01-07",
+        "softcore": false,
+        "vote_average": 7.839,
+        "vote_count": 223,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vNwCFyc5Y2Mrtu94L95KoZHKQ8y.jpg",
+        "id": 43020,
+        "name": "Continuum",
+        "original_name": "Continuum",
+        "overview": "The series centers on the conflict between a group of rebels from the year 2077 who time-travel to Vancouver, BC, in 2012, and a police officer who accidentally accompanies them. In spite of being many years early, the rebel group decides to continue its violent campaign to stop corporations of the future from replacing governments, while the police officer endeavours to stop them without revealing to anyone that she and the rebels are from the future.",
+        "poster_path": "/ckeF0gNdw9mvjiNEebNbeoKZcwt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "popularity": 24.8069,
+        "first_air_date": "2012-05-27",
+        "softcore": false,
+        "vote_average": 7.467,
+        "vote_count": 965,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x2C0zrnNTcyW5zes26DvkbqfVnQ.jpg",
+        "id": 157064,
+        "name": "Litvinenko",
+        "original_name": "Litvinenko",
+        "overview": "The story of the determined Scotland Yard Officers who worked to prove who was responsible for the death of Alexander Litvinenko, in one of the most complex and dangerous investigations in the history of the Metropolitan Police.",
+        "poster_path": "/ojaSBvv1EZqcf4qvgHBhjWcm3Lb.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 13.5223,
+        "first_air_date": "2022-12-15",
+        "softcore": false,
+        "vote_average": 7.375,
+        "vote_count": 36,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5PfCoV4e9DVRkOTowXAUi1yMn9k.jpg",
+        "id": 87773,
+        "name": "The Bay",
+        "original_name": "The Bay",
+        "overview": "Family Liaison Officer Lisa Armstrong becomes a little too emotionally involved with a case (to the point where she might compromise it) concerning a pair of missing Morecambe twins to whose distraught parents she is assigned.",
+        "poster_path": "/1ZbCq6t1aKssAhFOjvslUpt9W2x.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 10.2024,
+        "first_air_date": "2019-03-20",
+        "softcore": false,
+        "vote_average": 6.5,
+        "vote_count": 100,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iWopHyAvuIDjGX10Yc3nn6UEebW.jpg",
+        "id": 1403,
+        "name": "مارفيل: عملاء شيلد",
+        "original_name": "Marvel's Agents of S.H.I.E.L.D.",
+        "overview": "العميل فيل كولسون من S.H.I.E.L.D. (قسم التدخل الداخلي والإنفاذ واللوجستيات الاستراتيجي) يجمع فريقًا من العملاء للتحقيق في الجديد، الغريب والمجهول في جميع أنحاء العالم، يحمي العادي من غير العادي.",
+        "poster_path": "/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 62.3559,
+        "first_air_date": "2013-09-24",
+        "softcore": false,
+        "vote_average": 7.487,
+        "vote_count": 3889,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dIOCCTC3hd2zhTh0qeEDE4Gf3oO.jpg",
+        "id": 323903,
+        "name": "The Terror: Devil in Silver",
+        "original_name": "The Terror: Devil in Silver",
+        "overview": "أُودِع \"بيبر\" ظلمًا في مستشفى نيو هايد للأمراض النفسية، ليجد نفسه في مواجهة أطباء يوارون أسرارًا مظلمة، ونزلاء خطرين، وكيانٍ غامض أشد هولًا من الجميع، يتربص في أعماق المصحة.",
+        "poster_path": "/bdblQNZ4rP8AVJPqvGi82woxZkg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 13.1373,
+        "first_air_date": "2026-05-07",
+        "softcore": false,
+        "vote_average": 6.625,
+        "vote_count": 36,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gJOpHgHa37qnglH3dL9g63iztky.jpg",
+        "id": 269,
+        "name": "One Tree Hill",
+        "original_name": "One Tree Hill",
+        "overview": "في تري هيل، كارولينا الشمالية، يشترك شقيقان غير شقيقين في اسم عائلة ولا شيء آخر. لوكاس هو لاعب كرة سلة موهوب على جانب الشارع، ولكن مهاراته لا يقدرها سوى أصدقائه في ملعب النهر. يتشفق ناثان الشهير والثري في عبادة البطل في المدينة، كنجم لفريق مدرسته الثانوية. وكلا الصبيين هما ابن لاعب الكرة الجامعي السابق دان سكوت الذي سيطارده منذ فترة طويلة اختياره للتخلي عن لوكاس وأمه كارين، لفترة طويلة في حياته مع زوجته ديب وابنهما ناثان.",
+        "poster_path": "/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 96.114,
+        "first_air_date": "2003-09-23",
+        "softcore": false,
+        "vote_average": 7.819,
+        "vote_count": 623,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 46,
+    "total_results": 901
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/qP9EDrkbsZLEmT7yqbQwfw2wHl9.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 206696,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "生き残った6人によると",
+        "overview": "",
+        "popularity": 2.2336,
+        "poster_path": "/j5I8NCe5qdqUd4TV7H1zpasJUbp.jpg",
+        "first_air_date": "2022-08-10",
+        "softcore": false,
+        "name": "生き残った6人によると",
+        "vote_average": 6.429,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eZwtU4sLSBxdzW4FlvtTNQTumDV.jpg",
+        "genre_ids": [
+          18,
+          10765
+        ],
+        "id": 238551,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "แวมไพร์ไวน์แดง",
+        "overview": "",
+        "popularity": 2.0375,
+        "poster_path": "/4yVaW2eHPo9TwvaLJIRqmRbpWbB.jpg",
+        "first_air_date": "2024-05-19",
+        "softcore": false,
+        "name": "แวมไพร์ไวน์แดง",
+        "vote_average": 6.6,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gDRaMkzNBWiwpvkZXat7wI82Zbb.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 91845,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "MARS 〜ただ、君を愛してる〜",
+        "overview": "",
+        "popularity": 2.2949,
+        "poster_path": "/9CqS3JvpRmHnV3pCib9x2ej5oMx.jpg",
+        "first_air_date": "2016-01-24",
+        "softcore": false,
+        "name": "MARS 〜ただ、君を愛してる〜",
+        "vote_average": 3,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2zdd8K73kRGXYIe1BT1ne6eIh4N.jpg",
+        "genre_ids": [
+          16,
+          10762,
+          10751
+        ],
+        "id": 345,
+        "origin_country": [
+          "JP",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "My Little Pony",
+        "overview": "",
+        "popularity": 10.9473,
+        "poster_path": "/tkVztC8YKR8JSIHgwRWD5boViBJ.jpg",
+        "first_air_date": "1986-09-15",
+        "softcore": false,
+        "name": "My Little Pony",
+        "vote_average": 6.6,
+        "vote_count": 22
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eD2U2RwxQosUDwvu19n46KvJEf9.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 124549,
+        "origin_country": [
+          "PH"
+        ],
+        "original_language": "tl",
+        "original_name": "Marry Me, Marry You",
+        "overview": "",
+        "popularity": 3.8369,
+        "poster_path": "/7qZUC0AQmSi7pxNP6cH3swkb8Is.jpg",
+        "first_air_date": "2021-09-13",
+        "softcore": false,
+        "name": "Marry Me, Marry You",
+        "vote_average": 3.8,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4PhaaA593zHfAyYUIXVWTih3qcD.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          10765
+        ],
+        "id": 605,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Sabrina, the Teenage Witch",
+        "overview": "",
+        "popularity": 46.8416,
+        "poster_path": "/nNhj3coHNVVJPVM7fm5PEYVTCMO.jpg",
+        "first_air_date": "1996-09-27",
+        "softcore": false,
+        "name": "Sabrina, the Teenage Witch",
+        "vote_average": 7.782,
+        "vote_count": 1245
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6neiLkVRYIVbbRTLhlSLtt8o5di.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10751
+        ],
+        "id": 537,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Hey Arnold!",
+        "overview": "الحياة اليومية لأرنولد - تلميذ في الصف الرابع يتمتع بخيال جامح وذكاء فطري ورأس على شكل كرة قدم",
+        "popularity": 39.9035,
+        "poster_path": "/c1Yv042okfvMdT1Ulwlat9Tj70B.jpg",
+        "first_air_date": "1996-10-07",
+        "softcore": false,
+        "name": "مرحباً أرنولد!",
+        "vote_average": 8.017,
+        "vote_count": 998
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/42F4irTzujiXRKopByJMaRtKkFL.jpg",
+        "genre_ids": [
+          18,
+          10751
+        ],
+        "id": 91984,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "마이 올드 프렌드",
+        "overview": "",
+        "popularity": 0.854,
+        "poster_path": "/4CZJUnHwfVHklGqt2G5eu1AF9r4.jpg",
+        "first_air_date": "2016-12-14",
+        "softcore": false,
+        "name": "마이 올드 프렌드",
+        "vote_average": 6,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8cpXau1LjYMBjiaHUS75JmlgGsU.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 124834,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Heartstopper",
+        "overview": "في مسلسل عن بلوغ سن الرشد، يكتشف المراهقان \"تشارلي\" و\"نك\" وهما يختبران الحياة المدرسية والحب أن صداقتهما الغريبة قد تحمل ما هو أكثر من ذلك.",
+        "popularity": 14.7111,
+        "poster_path": "/dQc0QbDiHjGmWxTfKtBgYtS4bj5.jpg",
+        "first_air_date": "2022-04-22",
+        "softcore": false,
+        "name": "Heartstopper",
+        "vote_average": 8.566,
+        "vote_count": 1769
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/izMS1kNbfZ4jyQrpA3mMunRuCc7.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 92045,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Baker and the Beauty",
+        "overview": "تدور الأحداث في “ميامي” عن خبّاز بسيط يعمل في مخبز لعائلته، تقوده الصدفة أثناء انفصاله عن حبيبته إلى التعرف على نجمة وعارضة أزياء مشهورة.",
+        "popularity": 5.0163,
+        "poster_path": "/i0AB2fH7KZNlrh9SBNY3a5ooD0Q.jpg",
+        "first_air_date": "2020-04-13",
+        "softcore": false,
+        "name": "The Baker and the Beauty",
+        "vote_average": 7.343,
+        "vote_count": 67
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5fTHePFeUm6Aynyi4hZlYPlP0qZ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 124969,
+        "origin_country": [
+          "SE"
+        ],
+        "original_language": "sv",
+        "original_name": "Thunder in My Heart",
+        "overview": "",
+        "popularity": 2.295,
+        "poster_path": "/n8V1Aibi1EO5q4ON6zbCtinH7Wj.jpg",
+        "first_air_date": "2021-05-23",
+        "softcore": false,
+        "name": "Thunder in My Heart",
+        "vote_average": 5,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vWQUmlWbLiSp4eEug8wbDwucY0p.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 207207,
+        "origin_country": [
+          "TW"
+        ],
+        "original_language": "zh",
+        "original_name": "流星雨",
+        "overview": "",
+        "popularity": 1.5069,
+        "poster_path": "/omb39WdBaAnw6z035MNgZ4qoojw.jpg",
+        "first_air_date": "2001-09-13",
+        "softcore": false,
+        "name": "流星雨",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cuGHiBCIS8cUbnsV1TecOg9Z9Nd.jpg",
+        "genre_ids": [
+          16,
+          9648,
+          35,
+          10751,
+          10765
+        ],
+        "id": 926,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Scooby-Doo, Where Are You!",
+        "overview": "سكوبي دو أين أنت! هو مسلسل تلفزيوني كوميدي أمريكي للرسوم المتحركة من تأليف جو روبي وكين سبيرز وإنتاج هانا باربيرا لشبكة سي بي إس. تم عرض المسلسل لأول مرة كجزء من جدول الرسوم المتحركة الصباحية يوم السبت للشبكة في 13 سبتمبر 1969 ، وتم بثه لمدة موسمين حتى 31 أكتوبر 1970.",
+        "popularity": 13.4709,
+        "poster_path": "/lTzUSCtXR77CmGmEHcaxpxu2b4h.jpg",
+        "first_air_date": "1969-09-13",
+        "softcore": false,
+        "name": "سكوبي دو أين انت!",
+        "vote_average": 7.8,
+        "vote_count": 849
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 750,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Where the Heart Is",
+        "overview": "",
+        "popularity": 8.2575,
+        "poster_path": "/gjwVDpZHpcEPfz2AuqJBt3ue9na.jpg",
+        "first_air_date": "1997-04-06",
+        "softcore": false,
+        "name": "Where the Heart Is",
+        "vote_average": 7.7,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yJNopTE4y4kOvdC0uPCdxLaGB6j.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          18
+        ],
+        "id": 275724,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Electric Bloom",
+        "overview": "",
+        "popularity": 8.0653,
+        "poster_path": "/2QZAkwZZ1SI72YD2IygwVMDSP4k.jpg",
+        "first_air_date": "2025-07-10",
+        "softcore": false,
+        "name": "Electric Bloom",
+        "vote_average": 8.4,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p802Sw2f4XRXSym3K0tcLd6akAR.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 125215,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "鎌倉殿の13人",
+        "overview": "",
+        "popularity": 9.8346,
+        "poster_path": "/s4UyI28iOOJ0Lkj7S8VzaHuoWTo.jpg",
+        "first_air_date": "2022-01-09",
+        "softcore": false,
+        "name": "鎌倉殿の13人",
+        "vote_average": 8.5,
+        "vote_count": 12
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nKJnR7gVYgood4FlviIwzmIsKGw.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 92298,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "先生に恋した夏",
+        "overview": "",
+        "popularity": 1.2517,
+        "poster_path": "/43j4zki4HMQ8GY7O1s6KuZIDzme.jpg",
+        "first_air_date": "2016-09-06",
+        "softcore": false,
+        "name": "先生に恋した夏",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tCRULN0yw17rEEUuq4tQqw8qDXI.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 275969,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "一起长大的约定",
+        "overview": "",
+        "popularity": 3.6604,
+        "poster_path": "/r4V6TmKjhA6N5HzAJeunqTI0fJ.jpg",
+        "first_air_date": "2024-11-22",
+        "softcore": false,
+        "name": "一起长大的约定",
+        "vote_average": 8.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "id": 207347,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "アオのハコ",
+        "overview": "لطالما كان لاعب الريشة الطائرة \"تايكي\" معجبًا بنجمة كرة السلة \"تشيناتسو\" من بعيد. ولكن في أحد أيام الربيع، ينشأ تحول مفاجئ يقربهما من بعضهما بصورة غير متوقعة",
+        "popularity": 27.3459,
+        "poster_path": "/f9AQ6awDZzjPqFpQvTCv2Cd4jYO.jpg",
+        "first_air_date": "2024-10-03",
+        "softcore": false,
+        "name": "بلو بوكس",
+        "vote_average": 7.9,
+        "vote_count": 98
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1aUZEebBamWzkrZ2fqqbPjMo1Mt.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 239137,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "阿修羅のごとく",
+        "overview": "في \"طوكيو\" عام 1979، تكشف أربع شقيقات مختلفات عن العلاقة الغرامية لوالدهن المُسن، الأمر الذي يزيح الستار عما وراء مظهرهن السعيد ومشاعرهن المكبوتة شيئًا فشيئًا.",
+        "popularity": 4.5513,
+        "poster_path": "/jWHHkHspmVSDcEt416fcCg8aTd2.jpg",
+        "first_air_date": "2025-01-09",
+        "softcore": false,
+        "name": "أشورا",
+        "vote_average": 7.917,
+        "vote_count": 36
+      }
+    ],
+    "total_pages": 2983,
+    "total_results": 59658
+  },
+  "watch/providers": {
+    "results": {}
+  }
+}

@@ -1,0 +1,4221 @@
+{
+  "adult": false,
+  "backdrop_path": "/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+  "created_by": [
+    {
+      "id": 67855,
+      "credit_id": "5b12fbf10e0a263dbb0089e5",
+      "name": "Alexi Hawley",
+      "original_name": "Alexi Hawley",
+      "gender": 2,
+      "profile_path": "/eIyGbyHTfsIxEOPlD5lByW9A80y.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2018-10-16",
+  "genres": [
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    }
+  ],
+  "homepage": "https://abc.com/show/ada4e644-ce0b-4590-9dac-b04ce0a446e8",
+  "id": 79744,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-05-04",
+  "last_episode_to_air": {
+    "id": 7116417,
+    "name": "الحلقة 18",
+    "overview": "",
+    "vote_average": 8.8,
+    "vote_count": 26,
+    "air_date": "2026-05-04",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "818",
+    "runtime": 43,
+    "season_number": 8,
+    "show_id": 79744,
+    "still_path": "/vFjXxYZPXm5qM9tRVd0579NoEBW.jpg"
+  },
+  "name": "المبتدئ",
+  "next_episode_to_air": {
+    "id": 7708032,
+    "name": "الحلقة 1",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2027-01-01",
+    "episode_number": 1,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 9,
+    "show_id": 79744,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 2,
+      "logo_path": "/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png",
+      "name": "ABC",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 145,
+  "number_of_seasons": 9,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Rookie",
+  "overview": "يحاول (جون نولان) السير في بداية جديدة في حياته بعد تعرضه لحادثة كبيرة، حيث يسعى للانضمام إلى شرطة لوس أنجلوس لتحقيق أحلامه، ولكنه يعاني من التجاهل من الجميع ظنًا منهم أنه يعاني من أزمة منتصف العمر.",
+  "popularity": 269.5935,
+  "poster_path": "/q01ehpXMsa8VxRpflinG4l5gIP3.jpg",
+  "production_companies": [
+    {
+      "id": 19366,
+      "logo_path": "/vOH8dyQhLK01pg5fYkgiS31jlFm.png",
+      "name": "ABC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 8147,
+      "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+      "name": "Entertainment One",
+      "origin_country": "CA"
+    },
+    {
+      "id": 28523,
+      "logo_path": "/zzULw9w7d50BHR8fE30PZT3zJ1D.png",
+      "name": "Lionsgate Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 236613,
+      "logo_path": "/9DTggoZARHzATCRewGRs9XSNOWP.png",
+      "name": "ABC Signature",
+      "origin_country": "US"
+    },
+    {
+      "id": 195749,
+      "logo_path": null,
+      "name": "Perfectman Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2018-10-16",
+      "episode_count": 20,
+      "id": 104126,
+      "name": "الموسم 1",
+      "overview": "رجل في الخامسة والأربعين من عمره تدفعه حادثة مصيرية إلى تحقيق حلمه لأن يصبح شرطيًّا، لكن يتعين عليه أن يثبت نفسه لرؤسائه في شرطة \"لوس أنجلوس\" ويصل لمستوى توقعاتهم.",
+      "poster_path": "/9oRc3hNfKEvtwY9EV66dqkNYHp9.jpg",
+      "season_number": 1,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2019-09-29",
+      "episode_count": 20,
+      "id": 127101,
+      "name": "الموسم 2",
+      "overview": "تزداد المخاطر أكثر من أي وقت مضى بالنسبة إلى \"نولان\" وزملائه المبتدئين في شرطة \"لوس أنجلوس\" وهم يحاربون الجريمة، ويخوضون العلاقات، ويواصلون تدريبهم أثناء العمل.",
+      "poster_path": "/arPUIveaNTdlZeSrOPrgof6UvhQ.jpg",
+      "season_number": 2,
+      "vote_average": 8.1
+    },
+    {
+      "air_date": "2021-01-03",
+      "episode_count": 14,
+      "id": 173119,
+      "name": "الموسم 3",
+      "overview": "مع انتهاء فترة تدريبهم، يتعين على \"نولان\" وزملائه المبتدئين في فرقة العمليات مواجهة التحديات المعقدة في حياتهم المهنية والشخصية.",
+      "poster_path": "/6hChiX0vIjWY4y2kz1WndHVMsDu.jpg",
+      "season_number": 3,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2021-09-26",
+      "episode_count": 22,
+      "id": 202438,
+      "name": "الموسم 4",
+      "overview": "يتعين على الشرطي \"نولان\" وفرقته في شرطة \"لوس أنجلوس\" مواجهة أكبر تحدياتهم حتى الآن بينما يحاولون حلّ جرائم معقدة تتضمن فريقهم الخاص.",
+      "poster_path": "/gSGj4zhuFllpZEkHGdsBMV2BGsq.jpg",
+      "season_number": 4,
+      "vote_average": 7.9
+    },
+    {
+      "air_date": "2022-09-25",
+      "episode_count": 22,
+      "id": 297660,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/cofQdlJ0voWzWlpisBqfuRChTbf.jpg",
+      "season_number": 5,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2024-02-20",
+      "episode_count": 10,
+      "id": 366041,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/wbeqBUFydztHDQ4h7dZqnknh5HE.jpg",
+      "season_number": 6,
+      "vote_average": 8.9
+    },
+    {
+      "air_date": "2025-01-07",
+      "episode_count": 18,
+      "id": 427613,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/lzj5hEKBuiJ86gSVY8BdLiigWiU.jpg",
+      "season_number": 7,
+      "vote_average": 8.6
+    },
+    {
+      "air_date": "2026-01-06",
+      "episode_count": 18,
+      "id": 455290,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/3zEqWPODdrzQNOB77eYdzgL0z5l.jpg",
+      "season_number": 8,
+      "vote_average": 8.8
+    },
+    {
+      "air_date": "2027-01-01",
+      "episode_count": 1,
+      "id": 514233,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 8.542,
+  "vote_count": 3514,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51797,
+        "known_for_department": "Acting",
+        "name": "ناثان فيليون",
+        "original_name": "Nathan Fillion",
+        "popularity": 6.6251,
+        "profile_path": "/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg",
+        "character": "John Nolan",
+        "credit_id": "5b12f9100e0a263dd9007baf",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1234713,
+        "known_for_department": "Acting",
+        "name": "Melissa O'Neil",
+        "original_name": "Melissa O'Neil",
+        "popularity": 6.8043,
+        "profile_path": "/9KqgbNttW79hAP9xQ5Ffd2fjGk.jpg",
+        "character": "Lucy Chen",
+        "credit_id": "5b12fcab0e0a263dbb008a88",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74409,
+        "known_for_department": "Acting",
+        "name": "Eric Winter",
+        "original_name": "Eric Winter",
+        "popularity": 5.5482,
+        "profile_path": "/tDQSZv5rHm4s2hwwVWpp5EMQ0w9.jpg",
+        "character": "Tim Bradford",
+        "credit_id": "5b12fc8792514167070073f2",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 134180,
+        "known_for_department": "Acting",
+        "name": "Alyssa Diaz",
+        "original_name": "Alyssa Diaz",
+        "popularity": 4.4938,
+        "profile_path": "/ihLNjM4E1Fjx5h4l8EL6r3iDRTa.jpg",
+        "character": "Angela Lopez",
+        "credit_id": "5b12fd3892514167120070ed",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 202952,
+        "known_for_department": "Acting",
+        "name": "Mekia Cox",
+        "original_name": "Mekia Cox",
+        "popularity": 4.9695,
+        "profile_path": "/r8RrebMle9U3Xiwl2hiD6pFdfSl.jpg",
+        "character": "Nyla Harper",
+        "credit_id": "5e568345a6d93100165b0278",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55755,
+        "known_for_department": "Acting",
+        "name": "Richard T. Jones",
+        "original_name": "Richard T. Jones",
+        "popularity": 3.9102,
+        "profile_path": "/hdko2C45Wr5G03Z8JwGjWMynP84.jpg",
+        "character": "Wade Grey",
+        "credit_id": "5b12fcfa92514166e900758c",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 11023,
+        "known_for_department": "Acting",
+        "name": "شون أشمور",
+        "original_name": "Shawn Ashmore",
+        "popularity": 4.8258,
+        "profile_path": "/tXA1gFtsp9HWnzlQsaZSoZC8L4r.jpg",
+        "character": "Wesley Evers",
+        "credit_id": "5ca560970e0a261b8fb4fd8d",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20381,
+        "known_for_department": "Acting",
+        "name": "Jenna Dewan",
+        "original_name": "Jenna Dewan",
+        "popularity": 5.9093,
+        "profile_path": "/8zZkN1ewGxN8MHiqB8lRmBle8yf.jpg",
+        "character": "Bailey Nune",
+        "credit_id": "615dc8c9eb14fa002a7b4813",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1600095,
+        "known_for_department": "Acting",
+        "name": "Lisseth Chavez",
+        "original_name": "Lisseth Chavez",
+        "popularity": 3.4068,
+        "profile_path": "/fFnGQVFGAtTZcmLAr7XuUhvtjEW.jpg",
+        "character": "Celina Juarez",
+        "credit_id": "633937400b5fd60090179a3d",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1411745,
+        "known_for_department": "Acting",
+        "name": "Deric Augustine",
+        "original_name": "Deric Augustine",
+        "popularity": 1.4242,
+        "profile_path": "/lJNKxDavwDrGhingpGpzlKfd6I9.jpg",
+        "character": "Miles Penn",
+        "credit_id": "677e487a044b6ca6764e5b87",
+        "order": 13
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2753113,
+        "known_for_department": "Sound",
+        "name": "Justine von Winterfeldt",
+        "original_name": "Justine von Winterfeldt",
+        "popularity": 0.44,
+        "profile_path": null,
+        "credit_id": "6a6d352496ef05abf0e588e6",
+        "department": "Sound",
+        "job": "Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1512040,
+        "known_for_department": "Crew",
+        "name": "David Rowden",
+        "original_name": "David Rowden",
+        "popularity": 0.6873,
+        "profile_path": null,
+        "credit_id": "634d051a9e458600811af249",
+        "department": "Crew",
+        "job": "Stunt Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 51797,
+        "known_for_department": "Acting",
+        "name": "ناثان فيليون",
+        "original_name": "Nathan Fillion",
+        "popularity": 6.6251,
+        "profile_path": "/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg",
+        "credit_id": "5b12fe170e0a263dd1007c10",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2409166,
+        "known_for_department": "Production",
+        "name": "Bill Norcross",
+        "original_name": "Bill Norcross",
+        "popularity": 0.4108,
+        "profile_path": null,
+        "credit_id": "5d79ebd7069f0e14703187ad",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2409164,
+        "known_for_department": "Production",
+        "name": "Michelle Chapman",
+        "original_name": "Michelle Chapman",
+        "popularity": 0.4604,
+        "profile_path": null,
+        "credit_id": "5d79ebc4af43243b21968b71",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 6048,
+        "known_for_department": "Production",
+        "name": "مارك غوردون",
+        "original_name": "Mark Gordon",
+        "popularity": 1.1237,
+        "profile_path": "/lATsud5NyaXaKE5p8H1kEkUsbWN.jpg",
+        "credit_id": "5d79ebb9069f0e62d7316a50",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 67855,
+        "known_for_department": "Writing",
+        "name": "Alexi Hawley",
+        "original_name": "Alexi Hawley",
+        "popularity": 1.2092,
+        "profile_path": "/eIyGbyHTfsIxEOPlD5lByW9A80y.jpg",
+        "credit_id": "5d79eb9c0d5d850012dd48be",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2409170,
+        "known_for_department": "Production",
+        "name": "Jon Steinberg",
+        "original_name": "Jon Steinberg",
+        "popularity": 0.3762,
+        "profile_path": null,
+        "credit_id": "5d79ec480d5d850013dd47a0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77200,
+        "known_for_department": "Production",
+        "name": "Eric Dawson",
+        "original_name": "Eric Dawson",
+        "popularity": 0.9454,
+        "profile_path": null,
+        "credit_id": "634d02109e4586007ea4a0f1",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 77202,
+        "known_for_department": "Production",
+        "name": "Robert J. Ulrich",
+        "original_name": "Robert J. Ulrich",
+        "popularity": 0.5753,
+        "profile_path": null,
+        "credit_id": "634d01fdef9d72007abb4950",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1545977,
+        "known_for_department": "Sound",
+        "name": "Grant Conway",
+        "original_name": "Grant Conway",
+        "popularity": 0.4369,
+        "profile_path": null,
+        "credit_id": "634d06019e4586007ea4a2a3",
+        "department": "Sound",
+        "job": "Music Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1648082,
+        "known_for_department": "Crew",
+        "name": "Jon Tardino",
+        "original_name": "Jon Tardino",
+        "popularity": 0.4056,
+        "profile_path": null,
+        "credit_id": "634d04f5e263bb009c4ffba9",
+        "department": "Crew",
+        "job": "Transportation Coordinator"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1197284,
+        "known_for_department": "Production",
+        "name": "Carol Kritzer",
+        "original_name": "Carol Kritzer",
+        "popularity": 0.6392,
+        "profile_path": null,
+        "credit_id": "634d0220c175b2007f81794c",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1971806,
+        "known_for_department": "Sound",
+        "name": "Jordan Gagne",
+        "original_name": "Jordan Gagne",
+        "popularity": 0.4827,
+        "profile_path": null,
+        "credit_id": "641690cc357c00007b954500",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/mL5qHLgVWqeoH5bbj6Q1gdyldhM.jpg",
+        "id": 1450,
+        "name": "The Closer",
+        "original_name": "The Closer",
+        "overview": "Deputy Police Chief Brenda Leigh Johnson transfers from Atlanta to LA to head up a special unit of the LAPD that handles sensitive, high-profile murder cases. Johnson's quirky personality and hard-nosed approach often rubs her colleagues the wrong way, but her reputation as one of the world's best interrogator eventually wins over even her toughest critics.",
+        "poster_path": "/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 75.5954,
+        "first_air_date": "2005-06-13",
+        "softcore": false,
+        "vote_average": 7.804,
+        "vote_count": 355,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yqZ5ACKeNJ30mylUEzvtWZu4pGU.jpg",
+        "id": 67116,
+        "name": "Lethal Weapon",
+        "original_name": "Lethal Weapon",
+        "overview": "A slightly unhinged former Navy SEAL lands a job as a police officer in Los Angeles where he's partnered with a veteran detective trying to keep maintain a low stress level in his life.",
+        "poster_path": "/grGOtTZ0OfNQoWnNtdJOiY1LB8e.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          80,
+          18,
+          35
+        ],
+        "popularity": 30.1242,
+        "first_air_date": "2016-09-21",
+        "softcore": false,
+        "vote_average": 7.302,
+        "vote_count": 811,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i3WNbk47niwSrWe3Q81vqpSndiY.jpg",
+        "id": 32632,
+        "name": "Law & Order: LA",
+        "original_name": "Law & Order: LA",
+        "overview": "From the tony Beverly Hills to the seedy side of Hollywood, LAPD’s elite Robbery Homicide Division is on the case. Fusing classic ripped-from-the-headlines storytelling with the backdrop of LA, the series delves into the high profile crimes of the west coast.",
+        "poster_path": "/mxYWv7XeeUqT0ikW9ccIyjeJKTQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 12.5957,
+        "first_air_date": "2010-09-29",
+        "softcore": false,
+        "vote_average": 6.837,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/abPpGpwh7lpbNJxmut4hSEPTZfk.jpg",
+        "id": 61969,
+        "name": "Angie Tribeca",
+        "original_name": "Angie Tribeca",
+        "overview": "Lone-wolf detective Angie Tribeca and a squad of committed LAPD detectives investigate the most serious cases, from the murder of a ventriloquist to a rash of baker suicides.",
+        "poster_path": "/xi6gGST5L7FiUiYDPifHGtzl3zG.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10759,
+          80
+        ],
+        "popularity": 18.5609,
+        "first_air_date": "2016-01-17",
+        "softcore": false,
+        "vote_average": 6.407,
+        "vote_count": 150,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fQ3LSr8KpLBz4xegkGdLd07AlI6.jpg",
+        "id": 239826,
+        "name": "بالارد",
+        "original_name": "Ballard",
+        "overview": "تغوص المحققة \"بالارد\" في شبكة من الجرائم والفساد في أثناء مطاردتها لقاتل متسلسل عديم الرحمة وتكشف النقاب عن مؤامرة شريرة في سلك الشرطة تهدد كل أهدافها ومبادئها. مُثقلة بذكريات أليمة من الماضي، يتوجب على \"بالارد\" أن تتفوق ذكاءً على المجرمين وزملائها على حد سواء لإحقاق العدالة التي طال انتظارها للضحايا وعائلاتهم.",
+        "poster_path": "/9Fwz6qwnW6PNIkwHWlx0VXL7LpZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 15.8351,
+        "first_air_date": "2025-07-09",
+        "softcore": false,
+        "vote_average": 7.242,
+        "vote_count": 198,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
+        "id": 1486,
+        "name": "21 Jump Street",
+        "original_name": "21 Jump Street",
+        "overview": "تدور أحداث مسلسل \"21 Jump Street\" حول مجموعة من رجال الشرطة الشباب الذين يستخدمون مظهرهم الشاب للتخفي وحل الجرائم التي تشمل المراهقين والشباب",
+        "poster_path": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 34.0052,
+        "first_air_date": "1987-04-12",
+        "softcore": false,
+        "vote_average": 7.27,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7j4ug9B6JXVeh5HhQjjPScrdj4Z.jpg",
+        "id": 71790,
+        "name": "S.W.A.T.",
+        "original_name": "S.W.A.T.",
+        "overview": "يتتبع المسلسل حياة ملازم من القوات الخاصة، ولد وترعرع في لوس أنجلوس، ويسلط الضوء على صراعه الداخلي بين وفائه تجاه الشارع والحياة في مدينته، وبين زملائه الضباط، وذلك بعد توليه قيادة وحدة خاصة مدربة تدريبًا عاليًا، والتي تعتبر المحطة الأخيرة لكشف الجرائم في لوس أنجلوس.",
+        "poster_path": "/1l7vsAIkqOzrqiPwjO27Cb5QdfJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "popularity": 122.397,
+        "first_air_date": "2017-11-02",
+        "softcore": false,
+        "vote_average": 8.032,
+        "vote_count": 1603,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dBh58h71ZMi7WJE4ZQr2xT9iW4i.jpg",
+        "id": 62927,
+        "name": "Wicked City",
+        "original_name": "Wicked City",
+        "overview": "Detectives Jack and Paco investigate a murder spree on the rock ’n’ roll, cocaine-infused revelry of the Sunset Strip.",
+        "poster_path": "/myEcHo82olJ5HM5IC9hTCehSpIV.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 5.2573,
+        "first_air_date": "2015-10-27",
+        "softcore": false,
+        "vote_average": 5.906,
+        "vote_count": 48,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ojSWom4hbO8RAhMem8jITICrKlD.jpg",
+        "id": 85385,
+        "name": "خيرة ضباط لوس أنجلوس",
+        "original_name": "L.A.'s Finest",
+        "overview": "في هذا المسلسل المشتقّ من سلسلة Bad Boys، يتعيّن على شرطيّتين التغاضي عن ماضييهما المضطرب لاستهداف أخطر مجرمي المدينة.",
+        "poster_path": "/pecfFki7ADklKNuqMrcBD7U9lWc.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 12.0855,
+        "first_air_date": "2019-05-13",
+        "softcore": false,
+        "vote_average": 6.89,
+        "vote_count": 260,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
+        "id": 75219,
+        "name": "9-1-1",
+        "original_name": "9-1-1",
+        "overview": "برنامج تليفزيوني يستعرض تجارب التوتر العالي، لضباط الشرطة والمساعدين الطبيين، ورجال الإطفاء الذين يعيشون أكثر المخاوف والمخاطر الحرجة أثناء ممارسة وظيفتهم، حيث يجب على هؤلاء المستجيبين لحالات الطواريء أن يوازنوا بين واجبهم بإنقاذ البشر وتعاملاتهم في حياتهم الخاصة.",
+        "poster_path": "/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "popularity": 108.8362,
+        "first_air_date": "2018-01-03",
+        "softcore": false,
+        "vote_average": 8.219,
+        "vote_count": 2851,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5PfCoV4e9DVRkOTowXAUi1yMn9k.jpg",
+        "id": 87773,
+        "name": "The Bay",
+        "original_name": "The Bay",
+        "overview": "Family Liaison Officer Lisa Armstrong becomes a little too emotionally involved with a case (to the point where she might compromise it) concerning a pair of missing Morecambe twins to whose distraught parents she is assigned.",
+        "poster_path": "/1ZbCq6t1aKssAhFOjvslUpt9W2x.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 10.2024,
+        "first_air_date": "2019-03-20",
+        "softcore": false,
+        "vote_average": 6.5,
+        "vote_count": 100,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+        "id": 58841,
+        "name": "شيكاغو بي.دي.",
+        "original_name": "Chicago P.D.",
+        "overview": "تدور أحداث المسلسل عن (مقاطعة 21) التي تجاور قسم شرطة (شيكاجو)، وهى المقاطعة التي تتألف من مجموعتين مختلفتين، الأولى منهما تتمثل في رجال شرطة بزيهم الرسمي، والثانية هي وحدة الاستخبارات.",
+        "poster_path": "/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 111.7367,
+        "first_air_date": "2014-01-08",
+        "softcore": false,
+        "vote_average": 8.421,
+        "vote_count": 2629,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wIoLcxlk5lh8na0P8kdbLIBWd9D.jpg",
+        "id": 75797,
+        "name": "The Oath",
+        "original_name": "The Oath",
+        "overview": "Explore a gang world we've never seen before: gangs that are made up of the very men and women sworn to uphold the law – cops. Only select officers make the cut, but once inside, gang members will do what they must to protect each other from enemies inside and outside their ranks.",
+        "poster_path": "/ouEeuz1XsMRnPPVC9pzxgM2DpBB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 8.327,
+        "first_air_date": "2018-03-08",
+        "softcore": false,
+        "vote_average": 6.367,
+        "vote_count": 45,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/q4CvEUdq9mVveQfbv5jAgKJA0QZ.jpg",
+        "id": 201992,
+        "name": "The Rookie: Feds",
+        "original_name": "The Rookie: Feds",
+        "overview": "Special Agent Simone Clark, the oldest rookie in the FBI, is a force of nature, the living embodiment of a dream deferred – and she works together with her new colleagues at the Los Angeles office of the Bureau to bring down the country’s toughest criminals.",
+        "poster_path": "/ttqpW20UVabyy8DQFWe56ov1JHS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 18.0128,
+        "first_air_date": "2022-09-27",
+        "softcore": false,
+        "vote_average": 6.955,
+        "vote_count": 122,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+        "id": 285807,
+        "name": "الخصمان اللدودان",
+        "original_name": "Nemesis",
+        "overview": "يصبح محقّق عنيد من شرطة \"لوس أنجلوس\" مهووسًا بالقبض على لصّ محنك يقف وراء سلسلة من عمليات السطو الجريئة... ولن تكون الغلبة إلا لواحد منهما.",
+        "poster_path": "/9mDtRLBZ1UfMhXZdWb2Jg3g6JI2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10759,
+          18,
+          80
+        ],
+        "popularity": 22.9559,
+        "first_air_date": "2026-05-14",
+        "softcore": false,
+        "vote_average": 7.697,
+        "vote_count": 109,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AuQGIa3ZarPdS0bhWjQWJR0mhJj.jpg",
+        "id": 1414,
+        "name": "الدرع",
+        "original_name": "The Shield",
+        "overview": "قصة دائرة شرطة لوس أنجلوس داخل المدينة حيث لا يتجاوز بعض رجال الشرطة كسر القواعد أو العمل ضد شركائهم للحفاظ على سلامة الشوارع ومصالحهم الذاتية سليمة.",
+        "poster_path": "/9tslGvwOKTd9Dz4GOdvkxAkh9bR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 51.9189,
+        "first_air_date": "2002-03-12",
+        "softcore": false,
+        "vote_average": 8.176,
+        "vote_count": 898,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vac3SIBwaqB3RoFbEO0yJd8PbYJ.jpg",
+        "id": 202296,
+        "name": "East New York",
+        "original_name": "East New York",
+        "overview": "Regina Haywood is the newly promoted deputy inspector of East New York, a working-class neighborhood at the edge of Brooklyn. She leads a diverse group of officers and detectives, some of whom are reluctant to deploy her creative methods of serving and protecting in the midst of social upheaval and the early seeds of gentrification.",
+        "poster_path": "/vOos5pwq3tzPCwFohG80i2SXAgR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 8.2297,
+        "first_air_date": "2022-10-02",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tdhRbNchHe6xbGQOaJbZ6wopu52.jpg",
+        "id": 40675,
+        "name": "DCI Banks",
+        "original_name": "DCI Banks",
+        "overview": "A thrilling drama based on the novels by Peter Robinson. Stephen Tompkinson and Andrea Lowe star as the tenacious and stubborn Chief Inspector Alan Banks and the feisty and headstrong Detective Sergeant Annie Cabbot.",
+        "poster_path": "/5TKwpU4Q04dyZwg5jN80zOrzGgP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 12.2524,
+        "first_air_date": "2011-09-16",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 82,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sSjN5Fq7q8LNhrFoCYaGIcaTBV2.jpg",
+        "id": 70384,
+        "name": "Tin Star",
+        "original_name": "Tin Star",
+        "overview": "ينتقل شرطي بريطاني سابق مع عائلته إلى بلدة نائية في جبال الروكي الكندية ليبدأ حياة هادئة كرئيس للشرطة، لكن وصول شركة نفط كبرى يجلب الجريمة والفساد، وسرعان ما يطارد ماضيه العنيف عائلته من جديد.",
+        "poster_path": "/lFHZBtugqDiLtjVP9GC3Ig5GfwU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10751
+        ],
+        "popularity": 10.1012,
+        "first_air_date": "2017-09-07",
+        "softcore": false,
+        "vote_average": 6.611,
+        "vote_count": 162,
+        "origin_country": [
+          "GB",
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
+        "id": 60585,
+        "name": "بوش",
+        "original_name": "Bosch",
+        "overview": "تدور أحداث القصة حول محقق الجرائم الجنائية بوش والذي يجسد شخصيته الفنان تيتوس ويليفر . يحقق بوش في جريمة مقتل طفل وففي نفس الأثناء يواجه قضية قتله لمجرم متسلسل في المحكمة الفدرالية، لتتنقل القصة ما بين التحري والمحاكمة.",
+        "poster_path": "/zCltiygaUiAkh5dpuZ2KIFA8WBI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 52.3387,
+        "first_air_date": "2015-01-14",
+        "softcore": false,
+        "vote_average": 7.932,
+        "vote_count": 755,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 37,
+    "total_results": 739
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hKu2k32h5V9ICyVgSixG0rWqBDR.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 238557,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "Analog Squad ทีมรักนักหลอก",
+        "overview": "بعد أن علم بمرض والده المفارق له، يكوّن رجل مراوغ في منتصف العمر عائلة وهمية ليجتمع به من جديد للمرة الأخيرة.",
+        "popularity": 4.2345,
+        "poster_path": "/8Fe09Xrig1xRGKmgW46ev7Kf8gp.jpg",
+        "first_air_date": "2023-12-07",
+        "softcore": false,
+        "name": "العائلة المستأجرة",
+        "vote_average": 8.1,
+        "vote_count": 10
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bblnBLNL8w45P8QYXsbC8b1GlLs.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 474,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Nash Bridges",
+        "overview": "",
+        "popularity": 31.1032,
+        "poster_path": "/hJeHSCFoxWN2Pt2lg56CKOi9g87.jpg",
+        "first_air_date": "1996-03-29",
+        "softcore": false,
+        "name": "Nash Bridges",
+        "vote_average": 6.557,
+        "vote_count": 114
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/18wS3MdzWlaWoKB8WtjBqGx2Kac.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 480,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Lou Grant",
+        "overview": "",
+        "popularity": 25.5208,
+        "poster_path": "/m03ZVjhCnkS6KakipWjQ9xGtS65.jpg",
+        "first_air_date": "1977-09-20",
+        "softcore": false,
+        "name": "Lou Grant",
+        "vote_average": 7.371,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nxXg5kU9voim9j45a3LCFt0gOv3.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 28599,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "The Capture of the Green River Killer",
+        "overview": "",
+        "popularity": 2.1791,
+        "poster_path": "/1YNZ9UxbfP6sXiKzbQLAsb3Ce8L.jpg",
+        "first_air_date": "2008-03-30",
+        "softcore": false,
+        "name": "The Capture of the Green River Killer",
+        "vote_average": 6.194,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gpRM2AB4tjfUXxjaCZWnHLjiGmC.jpg",
+        "genre_ids": [
+          10765,
+          10759,
+          18
+        ],
+        "id": 424,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Torchwood",
+        "overview": "",
+        "popularity": 20.3681,
+        "poster_path": "/bv7C5r7QyXGsaMxvU40FVY7SvrD.jpg",
+        "first_air_date": "2006-10-22",
+        "softcore": false,
+        "name": "Torchwood",
+        "vote_average": 7.298,
+        "vote_count": 584
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uU3tSAxLwjY1YTCavhj80r2C97j.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 396,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The District",
+        "overview": "",
+        "popularity": 23.8272,
+        "poster_path": "/hnd8bGqWZhtEdCwDf5YXdIDaJei.jpg",
+        "first_air_date": "2000-10-07",
+        "softcore": false,
+        "name": "The District",
+        "vote_average": 6.857,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yqbIAJBoZ6DTHsOOiyppg79go3x.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "id": 400,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Shark",
+        "overview": "",
+        "popularity": 15.137,
+        "poster_path": "/Ahxpbk4Uu6zs1DgAbgfU80eHerx.jpg",
+        "first_air_date": "2006-09-21",
+        "softcore": false,
+        "name": "Shark",
+        "vote_average": 6.689,
+        "vote_count": 106
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2iKOl8635V4txujzFfFN8jDlEr0.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 337,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Nine",
+        "overview": "",
+        "popularity": 5.7563,
+        "poster_path": "/5FWsBK96U8VUywOun1N34cCU7Nj.jpg",
+        "first_air_date": "2006-10-04",
+        "softcore": false,
+        "name": "The Nine",
+        "vote_average": 5.8,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5LU77x2BK2IFn0hhyA8GbqjzMt4.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10751,
+          10765
+        ],
+        "id": 346,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "American Dragon: Jake Long",
+        "overview": "مسلسل التنين الأمريكي هو مسلسل كوميدي حركي عن بلوغ سن الرشد، يدور حول جايك لونغ، وهو فتى أمريكي آسيوي يبلغ من العمر 13 عامًا، يسعى جاهدًا لإيجاد التوازن في حياته كشاب مراهق يمارس رياضة التزلج على الألواح في نيويورك، بينما يتعلم إتقان قواه الخارقة (في هويته السرية) كالتنين الأمريكي، حامي وراعي جميع المخلوقات السحرية التي تعيش سرًا بين البشر",
+        "popularity": 18.9866,
+        "poster_path": "/sAgoJOdvuMa3DD0JDpos9bdaF9S.jpg",
+        "first_air_date": "2005-01-21",
+        "softcore": false,
+        "name": "التنين الأمريكي: جيك لونغ",
+        "vote_average": 7.76,
+        "vote_count": 526
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 58841,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Chicago P.D.",
+        "overview": "تدور أحداث المسلسل عن (مقاطعة 21) التي تجاور قسم شرطة (شيكاجو)، وهى المقاطعة التي تتألف من مجموعتين مختلفتين، الأولى منهما تتمثل في رجال شرطة بزيهم الرسمي، والثانية هي وحدة الاستخبارات.",
+        "popularity": 111.7367,
+        "poster_path": "/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+        "first_air_date": "2014-01-08",
+        "softcore": false,
+        "name": "شيكاغو بي.دي.",
+        "vote_average": 8.421,
+        "vote_count": 2629
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r2T5JhXySW6EdTO76hG6gbITD7O.jpg",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "id": 509,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "CHiPs",
+        "overview": "",
+        "popularity": 7.9522,
+        "poster_path": "/1464ScbUZQ22RjFtRtGiv4i2Zrs.jpg",
+        "first_air_date": "1977-09-15",
+        "softcore": false,
+        "name": "CHiPs",
+        "vote_average": 6.824,
+        "vote_count": 153
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gQYwrYJUf8Vq8biFFqkHCj4QsOk.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 512,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Third Watch",
+        "overview": "",
+        "popularity": 39.3381,
+        "poster_path": "/rWQmgNLdyZGIL6Xuo9ImL0Kh6wt.jpg",
+        "first_air_date": "1999-09-23",
+        "softcore": false,
+        "name": "Third Watch",
+        "vote_average": 7.941,
+        "vote_count": 238
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/62TMbi34WJupGcmcWQ21ZScg42U.jpg",
+        "genre_ids": [
+          35,
+          80,
+          10759
+        ],
+        "id": 520,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Sledge Hammer!",
+        "overview": "",
+        "popularity": 12.8066,
+        "poster_path": "/exYBfVOkRDg9f7HlRIDZ6gy3A73.jpg",
+        "first_air_date": "1986-09-23",
+        "softcore": false,
+        "name": "Sledge Hammer!",
+        "vote_average": 8,
+        "vote_count": 179
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3Xtc2iqCBXoXFmD8GhVdYaIY111.jpg",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "id": 124727,
+        "origin_country": [
+          "HK"
+        ],
+        "original_language": "cn",
+        "original_name": "逆天奇案",
+        "overview": "",
+        "popularity": 5.0136,
+        "poster_path": "/o8ygqy0d7xrW1Qhpc3Fdaio7Y2d.jpg",
+        "first_air_date": "2021-05-03",
+        "softcore": false,
+        "name": "逆天奇案",
+        "vote_average": 8.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "id": 304919,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Safe Houses",
+        "overview": "",
+        "popularity": 3.1985,
+        "poster_path": null,
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Safe Houses",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zAYP32L0uBWx136DzKURvpdTVB1.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 28727,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Angel Street",
+        "overview": "",
+        "popularity": 4.0426,
+        "poster_path": "/fKSHrrhwUuWEcUyfu1bGrlAiI2i.jpg",
+        "first_air_date": "1992-09-15",
+        "softcore": false,
+        "name": "Angel Street",
+        "vote_average": 7,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 597,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "Cold Squad",
+        "overview": "",
+        "popularity": 9.8836,
+        "poster_path": "/4JC7VvbplEXMGw2jW15QzHqqoN6.jpg",
+        "first_air_date": "1998-01-23",
+        "softcore": false,
+        "name": "Cold Squad",
+        "vote_average": 7.1,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uz9xYdqbECij0vAUWqCcKVKVLzm.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 206916,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Orphan Black: Echoes",
+        "overview": "",
+        "popularity": 6.4684,
+        "poster_path": "/iz8w67Q6pJBB7JJiczA95YlHrfG.jpg",
+        "first_air_date": "2024-06-23",
+        "softcore": false,
+        "name": "Orphan Black: Echoes",
+        "vote_average": 6.925,
+        "vote_count": 40
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oYwaOeQmE0tuBKy8kt43NFNI4bE.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 578,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Numb3rs",
+        "overview": "",
+        "popularity": 42.5163,
+        "poster_path": "/wOzbxJmpccPA5MYvBSGbor3WKh3.jpg",
+        "first_air_date": "2005-01-23",
+        "softcore": false,
+        "name": "Numb3rs",
+        "vote_average": 7.027,
+        "vote_count": 451
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bEEeg5AZElE39TKRMJ2hkoD0WR0.jpg",
+        "genre_ids": [
+          10759,
+          35,
+          80,
+          18
+        ],
+        "id": 586,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Martial Law",
+        "overview": "",
+        "popularity": 16.2236,
+        "poster_path": "/iLseFnM1UwzHLQxnNTiCqfRMgkx.jpg",
+        "first_air_date": "1998-09-26",
+        "softcore": false,
+        "name": "Martial Law",
+        "vote_average": 7.045,
+        "vote_count": 112
+      }
+    ],
+    "total_pages": 4035,
+    "total_results": 80694
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=AD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AO": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=AO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=AR",
+        "ads": [
+          {
+            "logo_path": "/1jZnP6bS5nNOqwY7GGJuyLhWEYW.png",
+            "provider_id": 2302,
+            "provider_name": "Mercado Play",
+            "display_priority": 41
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 60
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jGLRnvajVBg3QXikgHiI0HdG9Qe.png",
+            "provider_id": 321,
+            "provider_name": "Sky X",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 62
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 157
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 69
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 106
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/nhp23IYeFqZm4J2ZseUzSPuZ1UM.png",
+            "provider_id": 246,
+            "provider_name": "7plus",
+            "display_priority": 19
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BE",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 65
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BR",
+        "ads": [
+          {
+            "logo_path": "/1jZnP6bS5nNOqwY7GGJuyLhWEYW.png",
+            "provider_id": 2302,
+            "provider_name": "Mercado Play",
+            "display_priority": 79
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+            "provider_id": 307,
+            "provider_name": "Globoplay",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/olzQMHt2SX7iNy8WDMR299hVFcL.png",
+            "provider_id": 484,
+            "provider_name": "Claro tv+",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 80
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 83
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 92
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BY": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/dLpf8SgUM19VcFyMrK2KFcsF52i.png",
+            "provider_id": 146,
+            "provider_name": "iciTouTV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/a2o4bE63LR71m8jHrkx9BnBucN0.png",
+            "provider_id": 230,
+            "provider_name": "Crave",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/f8793PGMyrigh8uPd9BiK2jLV7N.png",
+            "provider_id": 469,
+            "provider_name": "Club Illico",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 91
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 92
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 118
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 119
+          },
+          {
+            "logo_path": "/6EuODonAziRYWv90wAtEmUjk78R.png",
+            "provider_id": 2604,
+            "provider_name": "Crave Amazon Channel",
+            "display_priority": 137
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/9DoQOfCz9S9j4cif3Cqx3ebk3FP.png",
+            "provider_id": 210,
+            "provider_name": "Sky",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 77
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 7
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 43
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 69
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/1jZnP6bS5nNOqwY7GGJuyLhWEYW.png",
+            "provider_id": 2302,
+            "provider_name": "Mercado Play",
+            "display_priority": 51
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CO",
+        "ads": [
+          {
+            "logo_path": "/1jZnP6bS5nNOqwY7GGJuyLhWEYW.png",
+            "provider_id": 2302,
+            "provider_name": "Mercado Play",
+            "display_priority": 52
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 44
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 71
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CU": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/gzlCSbeTdiLJNxdZuMKNhW8X7cy.png",
+            "provider_id": 1939,
+            "provider_name": "Lepsi TV",
+            "display_priority": 27
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/2o26YwA7tXQ7I6CSrMvO9Rj4oNi.png",
+            "provider_id": 30,
+            "provider_name": "WOW",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          },
+          {
+            "logo_path": "/mIR4wc2DLEIbn9TbtemvoX4zb26.png",
+            "provider_id": 2660,
+            "provider_name": "Wow Fiction Amazon Channel",
+            "display_priority": 216
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 223
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/sQsgEUFPgsuJaBf68OJ7s6ht6ta.png",
+            "provider_id": 537,
+            "provider_name": "ZDF",
+            "display_priority": 50
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 62
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/1jZnP6bS5nNOqwY7GGJuyLhWEYW.png",
+            "provider_id": 2302,
+            "provider_name": "Mercado Play",
+            "display_priority": 34
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/53JKjrhdG4z8DQ4pfdbHoAgPWeO.png",
+            "provider_id": 2241,
+            "provider_name": "Movistar Plus+",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/o1Z73d95pgJMpS3iCfRDtK5XJgp.png",
+            "provider_id": 1838,
+            "provider_name": "Tivify",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 90
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/gBha9E4jehvgjTrLSm82VW8SxnS.png",
+            "provider_id": 2029,
+            "provider_name": "MTV Katsomo",
+            "display_priority": 39
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 63
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=FR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 4
+          },
+          {
+            "logo_path": "/g8P4BJ2Wrya0VkbGUxBoUqpXtSs.png",
+            "provider_id": 1967,
+            "provider_name": "Molotov TV",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 106
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/9o7nQnmlVE94XqPcMhVPGycatxU.png",
+            "provider_id": 147,
+            "provider_name": "M6+",
+            "display_priority": 23
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 44
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 171
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 90
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1Yvl9eP3pmktqChitnFhHJHcBtX.png",
+            "provider_id": 29,
+            "provider_name": "Sky Go",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/oFAnvlaEW2KT6J7XM0DXjlWqKu9.png",
+            "provider_id": 39,
+            "provider_name": "Now TV",
+            "display_priority": 11
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=IL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 88
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 24
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 99
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=JP",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 5
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/mh1vBeclG7Eq15TjRnmyustqp3v.png",
+            "provider_id": 356,
+            "provider_name": "wavve",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/ppQIS7UMtBwJSspSoGqDR8wO1Gr.png",
+            "provider_id": 97,
+            "provider_name": "Watcha",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/w4ov8Zx73eu2TjHsDs5EmiuYKA4.png",
+            "provider_id": 1883,
+            "provider_name": "TVING",
+            "display_priority": 29
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=KW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=LT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=LU",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=LV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=MC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=MK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=MT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=MU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=MX",
+        "ads": [
+          {
+            "logo_path": "/1jZnP6bS5nNOqwY7GGJuyLhWEYW.png",
+            "provider_id": 2302,
+            "provider_name": "Mercado Play",
+            "display_priority": 69
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/j3Q750FwRyIejO5MrNu25Kia57.png",
+            "provider_id": 1889,
+            "provider_name": "Universal+ Amazon Channel",
+            "display_priority": 59
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 70
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 84
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=MY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=MZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/3IdfSLRjSoDoo9lrpvX4oxZmnVi.png",
+            "provider_id": 72,
+            "provider_name": "Videoland",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 77
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/m502wSLGwHL9WUK38NeAbwrBk6P.png",
+            "provider_id": 431,
+            "provider_name": "TV 2 Play",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/mlNPljPGzSDqNK2Fjr4SS0gTITj.png",
+            "provider_id": 578,
+            "provider_name": "Strim",
+            "display_priority": 28
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 54
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=NZ",
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 64
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/1RZw1lIi2R42ElHV5yrAXi7zLtn.png",
+            "provider_id": 395,
+            "provider_name": "TVNZ+",
+            "display_priority": 12
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=PE",
+        "ads": [
+          {
+            "logo_path": "/1jZnP6bS5nNOqwY7GGJuyLhWEYW.png",
+            "provider_id": 2302,
+            "provider_name": "Mercado Play",
+            "display_priority": 36
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=PL",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 27
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 66
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=PT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 44
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 51
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=RU",
+        "flatrate": [
+          {
+            "logo_path": "/oroIyNGCu4ltli1lI4m7em1IYE5.png",
+            "provider_id": 117,
+            "provider_name": "Kinopoisk",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=SC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/uzJAlKOjD4PCqqx3N1fwkmu0Ttb.png",
+            "provider_id": 497,
+            "provider_name": "Tele2 Play",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/8sxwkXfXhlIHkAlkZ64kTU9BNyT.png",
+            "provider_id": 1944,
+            "provider_name": "TV4 Play",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/1356slxu4QrHOMrEVDKHJXRo5sW.png",
+            "provider_id": 2358,
+            "provider_name": "Lionsgate+ Amazon Channels",
+            "display_priority": 67
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/8sxwkXfXhlIHkAlkZ64kTU9BNyT.png",
+            "provider_id": 1944,
+            "provider_name": "TV4 Play",
+            "display_priority": 40
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=SI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=SN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=TH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=TN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/2mFR27VIMSTc1fxNk7vH8nPhoo1.png",
+            "provider_id": 1833,
+            "provider_name": "Tivibu",
+            "display_priority": 32
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=TZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=UA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+            "provider_id": 2383,
+            "provider_name": "Philo",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/48bVXEIyCLSL9pZUQ7gB9ToyWto.png",
+            "provider_id": 2528,
+            "provider_name": "YouTube TV",
+            "display_priority": 38
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=UY",
+        "ads": [
+          {
+            "logo_path": "/1jZnP6bS5nNOqwY7GGJuyLhWEYW.png",
+            "provider_id": 2302,
+            "provider_name": "Mercado Play",
+            "display_priority": 34
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    }
+  }
+}

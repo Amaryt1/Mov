@@ -1,0 +1,684 @@
+{
+  "adult": false,
+  "backdrop_path": "/uFDlUMdp3NoXhnveAfgSpty8vBy.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    60
+  ],
+  "first_air_date": "1999-10-27",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "حوار"
+    }
+  ],
+  "homepage": "https://tv.orf.at/karlich/topstory-karlich100.html",
+  "id": 108188,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2024-03-15",
+  "last_episode_to_air": {
+    "id": 5139067,
+    "name": "الحلقة 50",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2024-03-15",
+    "episode_number": 50,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 26,
+    "show_id": 108188,
+    "still_path": null
+  },
+  "name": "Barbara Karlich – Talk um 4",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 189,
+      "logo_path": "/k1poBlW9HGDnIyZU67BtH3BXQuz.png",
+      "name": "ORF 1",
+      "origin_country": "AT"
+    }
+  ],
+  "number_of_episodes": 4783,
+  "number_of_seasons": 26,
+  "origin_country": [
+    "AT"
+  ],
+  "original_language": "de",
+  "original_name": "Barbara Karlich – Talk um 4",
+  "overview": "",
+  "popularity": 184.9402,
+  "poster_path": "/1NAVqNAKXbFbBzl9P52boCOUACJ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1999-10-27",
+      "episode_count": 36,
+      "id": 160310,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-10",
+      "episode_count": 231,
+      "id": 160311,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-08",
+      "episode_count": 237,
+      "id": 160312,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-07",
+      "episode_count": 241,
+      "id": 160313,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-02",
+      "episode_count": 242,
+      "id": 160314,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-02",
+      "episode_count": 194,
+      "id": 160315,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-03",
+      "episode_count": 204,
+      "id": 160316,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 198,
+      "id": 358682,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 208,
+      "id": 358683,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 203,
+      "id": 358684,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-02",
+      "episode_count": 246,
+      "id": 358685,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 208,
+      "id": 358686,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 194,
+      "id": 358687,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 196,
+      "id": 358688,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-03",
+      "episode_count": 196,
+      "id": 358689,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 197,
+      "id": 358690,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-02",
+      "episode_count": 191,
+      "id": 358691,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 205,
+      "id": 358692,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 191,
+      "id": 358693,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-02",
+      "episode_count": 185,
+      "id": 358694,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 182,
+      "id": 358695,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-03",
+      "episode_count": 168,
+      "id": 358696,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 125,
+      "id": 358697,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 141,
+      "id": 358698,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-02-01",
+      "episode_count": 114,
+      "id": 358699,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-08",
+      "episode_count": 50,
+      "id": 378647,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 4.5,
+  "vote_count": 4,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1916634,
+        "known_for_department": "Acting",
+        "name": "Barbara Karlich",
+        "original_name": "Barbara Karlich",
+        "popularity": 0.5875,
+        "profile_path": "/6IX328pAt0E2GAYek84v4KWi8pb.jpg",
+        "character": "Self - Host",
+        "credit_id": "5f44fe53fdc4fa0037b38117",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {}
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/fvNn1mQS4ecSph1QVSpKCQNyh47.jpg",
+        "id": 9890,
+        "name": "The Dick Cavett Show",
+        "original_name": "The Dick Cavett Show",
+        "overview": "The Dick Cavett Show has been the title of several talk shows hosted by Dick Cavett on various television networks.",
+        "poster_path": "/uDkndfnwbEGeSY4YmZbTRg4U5RQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 23.6326,
+        "first_air_date": "1968-06-06",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 22,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bk7QdAIUqkGpZO5GUX4AMB2AZIB.jpg",
+        "id": 82873,
+        "name": "The Kelly Clarkson Show",
+        "original_name": "The Kelly Clarkson Show",
+        "overview": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+        "poster_path": "/sBix25bie9UQFzbarN51DpFO5ky.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 133.1092,
+        "first_air_date": "2019-09-09",
+        "softcore": false,
+        "vote_average": 6.3,
+        "vote_count": 72,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/acJDjIEdm66k2oKsr0xbOPvn0wH.jpg",
+        "id": 2225,
+        "name": "Who Wants to Be a Millionaire?",
+        "original_name": "Who Wants to Be a Millionaire?",
+        "overview": "American version of the tense gameshow where contestants tackle a series of multiple-choice questions to win large cash prizes.",
+        "poster_path": "/oZ7fBwLRgKYyJcliFOfp03xv6Mk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 50.7786,
+        "first_air_date": "1999-08-16",
+        "softcore": false,
+        "vote_average": 6.31,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+        "id": 2261,
+        "name": "The Tonight Show Starring Johnny Carson",
+        "original_name": "The Tonight Show Starring Johnny Carson",
+        "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+        "poster_path": "/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 215.6306,
+        "first_air_date": "1962-10-01",
+        "softcore": false,
+        "vote_average": 7.536,
+        "vote_count": 96,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s6ed2W9N7a3zz216ZbHtWSWxWG5.jpg",
+        "id": 4020,
+        "name": "8 Out of 10 Cats",
+        "original_name": "8 Out of 10 Cats",
+        "overview": "A weekly, topical panel show based around a huge series of opinion poll surveys carried out around Britain.",
+        "poster_path": "/1v9PXvumKXZT9AKzNjqdAADNPKS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 22.8256,
+        "first_air_date": "2005-06-03",
+        "softcore": false,
+        "vote_average": 7.209,
+        "vote_count": 55,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jtwWiskjpvuAYIq6jhuSwb16k1Q.jpg",
+        "id": 42021,
+        "name": "Talking Dead",
+        "original_name": "Talking Dead",
+        "overview": "Host Chris Hardwick discusses episodes of the AMC television series The Walking Dead with guests, including celebrity fans, cast members, and crew from the series.",
+        "poster_path": "/wEsDfVvYNsAgmJeynSQGuLKyhcJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 16.0612,
+        "first_air_date": "2011-10-16",
+        "softcore": false,
+        "vote_average": 7.21,
+        "vote_count": 62,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7ysNbTEttcxUq0MJwqWe3MO30Qy.jpg",
+        "id": 64711,
+        "name": "StarTalk with Neil deGrasse Tyson",
+        "original_name": "StarTalk with Neil deGrasse Tyson",
+        "overview": "Host Neil deGrasse Tyson brings together celebrities, scientists and comedians to explore a variety of cosmic topics and collide pop culture with science in a way that late-night television has never seen before. Weekly topics range from popular science fiction, space travel, extraterrestrial life, the Big Bang, to the future of Earth and the environment. Tyson is an astrophysicist with a gifted ability to connect with everyone, inspiring us all to to \"keep looking up.\"",
+        "poster_path": "/qCSXMlSNtgqTkrAYzK9dWPS7hHR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 8.1186,
+        "first_air_date": "2015-04-20",
+        "softcore": false,
+        "vote_average": 6.673,
+        "vote_count": 26,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fE4vTc4IAneVYFvKSoSL3Th91S1.jpg",
+        "id": 23521,
+        "name": "Kids' Choice Awards",
+        "original_name": "Kids' Choice Awards",
+        "overview": "Honoring the year's biggest in television, film, music, and sports as voted by viewers worldwide of Nickelodeon networks. Winners receive a hollow orange blimp figurine which also functions as a kaleidoscope.",
+        "poster_path": "/aXmN5IYM0zWtfe8MD0WNMZlHjeE.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 9.764,
+        "first_air_date": "1987-01-18",
+        "softcore": false,
+        "vote_average": 8.8,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 3836,
+        "name": "At the Movies",
+        "original_name": "At the Movies",
+        "overview": "At the Movies is a movie review television program produced by Disney-ABC Domestic Television in which two film critics shared their opinions of newly released films. The program aired under various names. Its original hosts were Roger Ebert of the Chicago Sun-Times and WLS-TV and Gene Siskel of the Chicago Tribune and WBBM-TV. Richard Roeper of the Sun-Times became Ebert's regular partner in 2000 after Siskel died in 1999.",
+        "poster_path": "/fRXcgV3d0dexf7WFyNpPZcMmr2p.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 3.1744,
+        "first_air_date": "1986-09-13",
+        "softcore": false,
+        "vote_average": 6,
+        "vote_count": 29,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8InkNNcz5MGZUgeuZA58nQ1glGJ.jpg",
+        "id": 80865,
+        "name": "13 Reasons Why: Beyond the Reasons",
+        "original_name": "13 Reasons Why: Beyond the Reasons",
+        "overview": "Cast members, writers, producers and mental health professionals discuss some of the difficult issues and themes explored in \"13 Reasons Why.\"",
+        "poster_path": "/aauFzhjAGSemDpDBSmWDJpkeQiw.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 2.1241,
+        "first_air_date": "2017-03-31",
+        "softcore": false,
+        "vote_average": 7.049,
+        "vote_count": 41,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h1NDX8KuFkefABPujQJ5wWlqRdj.jpg",
+        "id": 46732,
+        "name": "MTV Video Music Awards",
+        "original_name": "MTV Video Music Awards",
+        "overview": "An annual award ceremony presented by MTV to honor the best in the music video medium.",
+        "poster_path": "/nwcFFwWc0CYKW95ytYQqtC5D3sa.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 21.3268,
+        "first_air_date": "1984-09-14",
+        "softcore": false,
+        "vote_average": 7.9,
+        "vote_count": 24,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eFQHW9fJL1NsK6aMVTVKQMnZ0nZ.jpg",
+        "id": 98069,
+        "name": "Crisis Aftermath",
+        "original_name": "Crisis Aftermath",
+        "overview": "Join Kevin Smith as he takes you into one of the greatest crossover events in television history.",
+        "poster_path": "/kaCjmS5tyAcfCrcdKuqxQ1CwvZ9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 1.9553,
+        "first_air_date": "2019-12-08",
+        "softcore": false,
+        "vote_average": 8.145,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dzBLF50c8hD8XgFtcRHXEB6XP2a.jpg",
+        "id": 259383,
+        "name": "كوبرا كاي 6: داخل مدرسة الكاراتيه",
+        "original_name": "Cobra Kai: Inside the Dojo",
+        "overview": "رافقونا إلى ما وراء الكواليس مع طاقم عمل \"كوبرا كاي\" وصناعه وهم يحللون الأحداث والمفاجآت التي تنتظر جمهور المعجبين في الموسم السادس... ختام المسلسل.",
+        "poster_path": "/hLEfmXVsChXKRA8Kxb5J37IhDgr.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 2.1602,
+        "first_air_date": "2024-07-18",
+        "softcore": false,
+        "vote_average": 8.863,
+        "vote_count": 62,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hjkPZoUDluo2jrEt9KCMBmlNua.jpg",
+        "id": 318503,
+        "name": "Peaky Blinders: The Immortal Man Podcast",
+        "original_name": "Peaky Blinders: The Immortal Man Podcast",
+        "overview": "Creators, special guests and stars — including Cillian Murphy — unpack the \"Peaky Blinders\" saga in this official companion podcast for the new film.",
+        "poster_path": "/aWwZiQliCxdc2xVfBiiCNSt3aMY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 1.4812,
+        "first_air_date": "2026-03-06",
+        "softcore": false,
+        "vote_average": 9,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 14
+  }
+}

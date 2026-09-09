@@ -1,0 +1,1408 @@
+{
+  "adult": false,
+  "backdrop_path": "/s1dTt4M31q2HwD5Fkl1tf5tQzJg.jpg",
+  "created_by": [
+    {
+      "id": 4191118,
+      "credit_id": "64c8a4dd08cf8700e2778123",
+      "name": "Human Stark",
+      "original_name": "Human Stark",
+      "gender": 0,
+      "profile_path": null
+    },
+    {
+      "id": 4191117,
+      "credit_id": "64c8a4d61fa1c800cdf649d3",
+      "name": "Elsje Stark",
+      "original_name": "Elsje Stark",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "2005-10-13",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "أوبرا صابونية"
+    }
+  ],
+  "homepage": "https://www.showmax.com/eng/tvseries/98g2yjrb-binnelanders",
+  "id": 206559,
+  "in_production": true,
+  "languages": [
+    "af",
+    "en"
+  ],
+  "last_air_date": "2026-08-20",
+  "last_episode_to_air": {
+    "id": 7699820,
+    "name": "الحلقة 72",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-08",
+    "episode_number": 72,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 22,
+    "show_id": 206559,
+    "still_path": null
+  },
+  "name": "Binnelanders",
+  "next_episode_to_air": {
+    "id": 7699822,
+    "name": "الحلقة 73",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-09",
+    "episode_number": 73,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 22,
+    "show_id": 206559,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 192,
+      "logo_path": "/dJ9KWprPx7AXMOxBrGJoadLhhZQ.png",
+      "name": "M-Net",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 1826,
+      "logo_path": "/2tNeujuBe8MR40hoUE4FLYA7Knl.png",
+      "name": "kykNET",
+      "origin_country": "ZA"
+    }
+  ],
+  "number_of_episodes": 5199,
+  "number_of_seasons": 22,
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "af",
+  "original_name": "Binnelanders",
+  "overview": "",
+  "popularity": 214.4877,
+  "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+  "production_companies": [
+    {
+      "id": 240436,
+      "logo_path": "/uQbJVxmj5hhGWmym13JOs2rFAM8.png",
+      "name": "Stark Studios",
+      "origin_country": "ZA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2005-10-13",
+      "episode_count": 52,
+      "id": 301848,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 9.3
+    },
+    {
+      "air_date": "2006-04-13",
+      "episode_count": 88,
+      "id": 301849,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-05-09",
+      "episode_count": 260,
+      "id": 301850,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-05-07",
+      "episode_count": 260,
+      "id": 301851,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-05-07",
+      "episode_count": 237,
+      "id": 301852,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-04-05",
+      "episode_count": 260,
+      "id": 301853,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-04-04",
+      "episode_count": 260,
+      "id": 301854,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-04-02",
+      "episode_count": 260,
+      "id": 301855,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-04-01",
+      "episode_count": 260,
+      "id": 301856,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-03-31",
+      "episode_count": 260,
+      "id": 301857,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/n8or9JBQ52qELY7TccfLbB3FLws.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-03-30",
+      "episode_count": 260,
+      "id": 301858,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-03-28",
+      "episode_count": 315,
+      "id": 301859,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-06-12",
+      "episode_count": 260,
+      "id": 301860,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-06-11",
+      "episode_count": 260,
+      "id": 301861,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-06-10",
+      "episode_count": 260,
+      "id": 301862,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-06-08",
+      "episode_count": 260,
+      "id": 301863,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/2g4RnUinfqMyeQnwNpRROkbgbRQ.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-06-07",
+      "episode_count": 260,
+      "id": 301864,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/5URikDdjnciD9t5VgqMpcIKQyVU.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-06-06",
+      "episode_count": 260,
+      "id": 351344,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/tdX2Fb6yXpxBolz0OXPp3JSQWB8.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-06-05",
+      "episode_count": 260,
+      "id": 351346,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/qPoSrOelpnCtZw63SKfl6KigmWH.jpg",
+      "season_number": 19,
+      "vote_average": 9.3
+    },
+    {
+      "air_date": "2024-06-03",
+      "episode_count": 260,
+      "id": 394733,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/3bzECfllho8PphdYujLUIuhncJD.jpg",
+      "season_number": 20,
+      "vote_average": 9.6
+    },
+    {
+      "air_date": "2025-06-02",
+      "episode_count": 260,
+      "id": 457248,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/iwc1CFXTepqF3LuCi1P7crzL6Kr.jpg",
+      "season_number": 21,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2026-06-01",
+      "episode_count": 87,
+      "id": 517620,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/j4GU4T3F66j8Im1PfMsbJ1rQkMI.jpg",
+      "season_number": 22,
+      "vote_average": 10
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 112,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 70966,
+        "known_for_department": "Acting",
+        "name": "Hans Strydom",
+        "original_name": "Hans Strydom",
+        "popularity": 0.9535,
+        "profile_path": "/o5MURlJJCC67EvJ2hYXMFpvwFEb.jpg",
+        "character": "Dr. At Koster",
+        "credit_id": "64c8a92d89f74900e8cc6281",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2057047,
+        "known_for_department": "Acting",
+        "name": "Germandt Geldenhuys",
+        "original_name": "Germandt Geldenhuys",
+        "popularity": 0.4161,
+        "profile_path": "/7ektNcRTOtIr4eopAybV00JiRN.jpg",
+        "character": "Louis Koster",
+        "credit_id": "65c480a9fd6fa10187791b08",
+        "order": 66
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1854858,
+        "known_for_department": "Acting",
+        "name": "Je-ani Swiegelaar",
+        "original_name": "Je-ani Swiegelaar",
+        "popularity": 0.7368,
+        "profile_path": "/7ikfkseBLPdPD55NFWW4hJlwS9L.jpg",
+        "character": "Naomi Koster",
+        "credit_id": "65c4811c9451e70184bd0e3b",
+        "order": 71
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3947231,
+        "known_for_department": "Acting",
+        "name": "Gerald Steyn",
+        "original_name": "Gerald Steyn",
+        "popularity": 0.6998,
+        "profile_path": "/dYnfi6UYok930QgcqECBhKRdiWg.jpg",
+        "character": "Dr. Uys Wagener",
+        "credit_id": "65002153d7dcd200ffeb7b45",
+        "order": 81
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 230817,
+        "known_for_department": "Acting",
+        "name": "Marlee van der Merwe",
+        "original_name": "Marlee van der Merwe",
+        "popularity": 0.7216,
+        "profile_path": "/epCX7JDvUxDI7JCrRFXw2FhQZ4.jpg",
+        "character": "Dr. Ella Swart",
+        "credit_id": "651ba410967cc73424681b46",
+        "order": 82
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3182686,
+        "known_for_department": "Acting",
+        "name": "Roberto Kyle",
+        "original_name": "Roberto Kyle",
+        "popularity": 0.4414,
+        "profile_path": "/6uQJc7epTqEJ1BsSrSpFFJ6YMyi.jpg",
+        "character": "Dr. Joe Olivier",
+        "credit_id": "66bdd8e0fbfa4d8ee54032eb",
+        "order": 83
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4195190,
+        "known_for_department": "Acting",
+        "name": "Melinda Viljoen",
+        "original_name": "Melinda Viljoen",
+        "popularity": 0.9553,
+        "profile_path": "/8VviPGl59PZhHDXO4R5q0HrP95Q.jpg",
+        "character": "Tracy Jonker",
+        "credit_id": "67aae6239d346d3ef49b97bf",
+        "order": 84
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4266950,
+        "known_for_department": "Acting",
+        "name": "Antoinette Modise",
+        "original_name": "Antoinette Modise",
+        "popularity": 0.2753,
+        "profile_path": "/5OEpJvTOpDh4snWx6eKWKcDgryV.jpg",
+        "character": "Bonnie Jacobs",
+        "credit_id": "6500223c6a222700aba88ca5",
+        "order": 85
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4268808,
+        "known_for_department": "Acting",
+        "name": "Megan Troskie",
+        "original_name": "Megan Troskie",
+        "popularity": 0.3901,
+        "profile_path": "/84kqZzeWF8L397qMQM2lcSZ9IFa.jpg",
+        "character": "Thalia Ferreira",
+        "credit_id": "65018324db4ed610385659fd",
+        "order": 86
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4526442,
+        "known_for_department": "Acting",
+        "name": "Izette Blignaut",
+        "original_name": "Izette Blignaut",
+        "popularity": 0.753,
+        "profile_path": "/5DtYuUg1dsQvWG2ReArFuR1DdrY.jpg",
+        "character": "Petro van Zyl",
+        "credit_id": "68874d3ca9c1f6893e38ff9b",
+        "order": 87
+      }
+    ],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/wnyMAP1Xep5BUwTqMq2KBHjRHws.jpg",
+        "id": 1021,
+        "name": "Casualty",
+        "original_name": "Casualty",
+        "overview": "Drama series about the staff and patients at Holby City Hospital's emergency department, charting the ups and downs in their personal and professional lives.",
+        "poster_path": "/ahqMUNIUeGIBQSkShEV32085IFZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 60.2281,
+        "first_air_date": "1986-09-06",
+        "softcore": false,
+        "vote_average": 6.2,
+        "vote_count": 88,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ynd225o8GuCahYGjHtFdEt8Xizm.jpg",
+        "id": 235484,
+        "name": "Suidooster",
+        "original_name": "Suidooster",
+        "overview": "Suidooster is a South African television soap opera produced by Suidooster Films which revolves around a matriarch, her family, friends and the people of Suidooster, a small shopping and business centre in the fictional Cape Town suburb of Ruiterbosch.",
+        "poster_path": "/sS0N6EfeaeykTpvVwIDEtB07SNr.jpg",
+        "media_type": "tv",
+        "original_language": "af",
+        "genre_ids": [
+          10766
+        ],
+        "popularity": 68.4609,
+        "first_air_date": "2015-11-16",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 24,
+        "origin_country": [
+          "ZA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Mc3flEYVk5u0kZyBHeKMAbmNCM.jpg",
+        "id": 6467,
+        "name": "Chicago Hope",
+        "original_name": "Chicago Hope",
+        "overview": "Chicago Hope is an American medical drama television series, created by David E. Kelley. It ran on CBS from September 18, 1994, to May 4, 2000. The series is set in a fictional private charity hospital in Chicago, Illinois.",
+        "poster_path": "/x8ic33t4NurJul1oXmvKwKtWH28.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 52.2205,
+        "first_air_date": "1994-09-18",
+        "softcore": false,
+        "vote_average": 7.165,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/24plaX4WSNEbqx74MzZBLPwlpBE.jpg",
+        "id": 1054,
+        "name": "The Young and the Restless",
+        "original_name": "The Young and the Restless",
+        "overview": "The rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Baldwin and Winters families.",
+        "poster_path": "/mN3kMuh7Cy9byeySK6pymnpIOZO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 19.9543,
+        "first_air_date": "1973-03-26",
+        "softcore": false,
+        "vote_average": 7.012,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fi3F610zUye8u7HaaGYUGviZTwj.jpg",
+        "id": 2674,
+        "name": "Neighbours",
+        "original_name": "Neighbours",
+        "overview": "Neighbours is an Australian television soap opera.  The show's storylines concern the domestic and professional lives of the people who live and work in Erinsborough, a fictional suburb of Melbourne, Victoria. The series primarily centres around the residents of Ramsay Street, a short cul-de-sac, and its neighbouring areas, the Lassiters complex, which includes a bar, hotel, cafe, news office and park. Neighbours began with three families created by Watson – the Ramsays, the Robinsons and the Clarkes. Watson said that he wanted to show three families who are friends living in a small street. The Robinsons and the Ramsays had a long history and were involved in an ongoing rivalry.",
+        "poster_path": "/bXY78bQsKCIiD17Sr6yO4wLIXqS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18,
+          10751,
+          35
+        ],
+        "popularity": 42.6833,
+        "first_air_date": "1985-03-18",
+        "softcore": false,
+        "vote_average": 6.074,
+        "vote_count": 61,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Rvq9wwTDyH1k1Qg660KXTknTfG.jpg",
+        "id": 1948,
+        "name": "Degrassi",
+        "original_name": "Degrassi",
+        "overview": "The life of a group of adolescents going through the trials and tribulations of teendom at Degrassi Community School.",
+        "poster_path": "/AfqQ4lZAi9LWyhnHm3VCpm2hLpB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 34.0899,
+        "first_air_date": "2001-10-14",
+        "softcore": false,
+        "vote_average": 7.593,
+        "vote_count": 114,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/brYNyCDlPoSskLhupEYMYulyyOB.jpg",
+        "id": 2822,
+        "name": "Felicity",
+        "original_name": "Felicity",
+        "overview": "Felicity Porter, a sensitive and intelligent girl from the San Francisco Bay Area, decides to give up a slot at Stanford University's pre-med program to follow her long time crush to college in New York City. Things get even more complicated when she meets her dorm's resident advisor and they fall in love.",
+        "poster_path": "/i6gZ7fVpLBK3l5FkxCzMtEtT7Bz.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 30.5125,
+        "first_air_date": "1998-09-29",
+        "softcore": false,
+        "vote_average": 6.559,
+        "vote_count": 94,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h8A6J31szyLPWU2HXS2wZkp8aQa.jpg",
+        "id": 3437,
+        "name": "Hotel",
+        "original_name": "Hotel",
+        "overview": "Hotel is an American prime time drama series which aired on ABC from September 21, 1983 to May 5, 1988 in the timeslot following Dynasty.\n\nBased on Arthur Hailey's 1965 novel of the same name, the series was produced by Aaron Spelling and set in the elegant and fictitious St. Gregory Hotel in San Francisco. Establishing shots of the hotel were filmed in front of The Fairmont San Francisco atop the Nob Hill neighborhood. Episodes followed the activities of passing guests, as well as the personal and professional lives of the hotel staff.",
+        "poster_path": "/bYOQJm7O7cEPvkcMp3VI6TSP6Eg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 26.4736,
+        "first_air_date": "1982-08-21",
+        "softcore": false,
+        "vote_average": 6.846,
+        "vote_count": 26,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fmFsm4dq02k2Xxs7M887unPAiXd.jpg",
+        "id": 2883,
+        "name": "Dark Shadows",
+        "original_name": "Dark Shadows",
+        "overview": "Dark Shadows is an American gothic soap opera that originally aired weekdays on the ABC television network, from June 27, 1966, to April 2, 1971. The show was created by Dan Curtis. The story bible, which was written by Art Wallace, does not mention any supernatural elements. It was unprecedented in daytime television when ghosts were introduced about six months after it began.\n\nThe series became hugely popular when vampire Barnabas Collins appeared a year into its run. Dark Shadows also featured werewolves, zombies, man-made monsters, witches, warlocks, time travel, and a parallel universe. A small company of actors each played many roles; indeed, as actors came and went, some characters were played by more than one actor. Major writers besides Art Wallace included Malcolm Marmorstein, Sam Hall, Gordon Russell, and Violet Welles.",
+        "poster_path": "/eRtnI7qTJIiPUmlY3J8TTM3jlT7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10766
+        ],
+        "popularity": 59.8326,
+        "first_air_date": "1966-06-27",
+        "softcore": false,
+        "vote_average": 7.321,
+        "vote_count": 95,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ofiNBOL7gpuzqXEqWBprF90CtY7.jpg",
+        "id": 2327,
+        "name": "Dawson's Creek",
+        "original_name": "Dawson's Creek",
+        "overview": "Dawson's Creek is an American teen drama that portrays the fictional lives of a close-knit group of teenagers through high school and college.",
+        "poster_path": "/arT93dBemanftfWTcf9I0JRIlxU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 38.9043,
+        "first_air_date": "1998-01-20",
+        "softcore": false,
+        "vote_average": 7.315,
+        "vote_count": 627,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sCTNR6iYgEAaYxjvibhzt8sc1nQ.jpg",
+        "id": 40,
+        "name": "Dallas",
+        "original_name": "Dallas",
+        "overview": "The world's first mega-soap, and one of the most popular ever produced, Dallas had it all. Beautiful women, expensive cars, and men playing Monopoly with real buildings. Famous for one of the best cliffhangers in TV history, as the world asked \"Who shot J.R.?\" A slow-burner to begin with, Dallas hit its stride in the 2nd season, with long storylines and expert character development. Dallas ruled the airwaves in the 1980's.",
+        "poster_path": "/jmqo8bgHrhKYPc0RK5F71GHa8rm.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18,
+          10751
+        ],
+        "popularity": 83.9862,
+        "first_air_date": "1978-04-02",
+        "softcore": false,
+        "vote_average": 6.864,
+        "vote_count": 246,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wQoyCT75vPgWybLp4o11gatSFoJ.jpg",
+        "id": 5522,
+        "name": "Doña Bárbara",
+        "original_name": "Doña Bárbara",
+        "overview": "Doña Bárbara is a Spanish-language telenovela produced by the United States-based television network Telemundo, Sony Pictures Television International and RTI Colombia. Edith González and Christian Meier star in this adaptation of the 1929 novel by Venezuelan author Rómulo Gallegos.",
+        "poster_path": "/H8Gz2bG7p2lmbrtM6duGpkY7z8.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          35,
+          10766
+        ],
+        "popularity": 37.7743,
+        "first_air_date": "2008-08-04",
+        "softcore": false,
+        "vote_average": 7.809,
+        "vote_count": 750,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jE378K4gP68vDrEPDIxWbpqaJO8.jpg",
+        "id": 14733,
+        "name": "Rich Man, Poor Man",
+        "original_name": "Rich Man, Poor Man",
+        "overview": "Based on the best-selling 1969 novel by Irwin Shaw, the series follows the divergent career courses of the impoverished German American Jordache brothers.",
+        "poster_path": "/8LmpOZ8JVzHEgHGLi3opMWsqOdt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 6.4802,
+        "first_air_date": "1976-02-01",
+        "softcore": false,
+        "vote_average": 7.859,
+        "vote_count": 32,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5GXW5SRUO8oWLOAaOhK1nxiCZEV.jpg",
+        "id": 236921,
+        "name": "Vuelve a mí",
+        "original_name": "Vuelve a mí",
+        "overview": "The kidnapping of her son unleashes a storm in Nuria García's life who, in the most difficult moment, meets Santiago Zepeda; together, they find redemption in the face of adversity.",
+        "poster_path": "/sGgYl7voI8T34azn5biA0MRpG3c.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 7.7004,
+        "first_air_date": "2023-10-09",
+        "softcore": false,
+        "vote_average": 8.55,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/izsm4820pUH2lOLScqJez9hJJBW.jpg",
+        "id": 173,
+        "name": "Degrassi Junior High",
+        "original_name": "Degrassi Junior High",
+        "overview": "Degrassi Junior High is a Canadian CBC Television teen drama series that was produced from 1987-1989 as part of the Degrassi series. The show followed the lives of a group of students attending the titular fictional school. Many episodes tackled difficult topics such as drug use, child abuse, teenage pregnancy, homosexuality, homophobia, racism, and divorce, and the series was acclaimed for its sensitive and realistic portrayal of the challenges of teenage life. The cast comprised mainly non-professional actors, which added to the show's sense of realism.\n\nThe series featured many of the same actors who had starred on The Kids of Degrassi Street a few years earlier, including Stacie Mistysyn, Neil Hope, Anais Granofsky, Sarah Charlesworth and others. However, their character names and family situations had been changed, so Degrassi Junior High cannot, therefore, be considered a direct spinoff.\n\nThe legal counsel for all the episodes was Stephen Stohn who later became the executive producer of Degrassi: The Next Generation. The series was filmed at the unused Vincent Massey Public School in Etobicoke, Ontario.",
+        "poster_path": "/fYetgZI5fkmIFsxUGqzryGmql8G.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 5.5126,
+        "first_air_date": "1987-01-18",
+        "softcore": false,
+        "vote_average": 7.714,
+        "vote_count": 35,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7ssuZk33GSPkAdMsrAcr02PwbLj.jpg",
+        "id": 67725,
+        "name": "Famous in Love",
+        "original_name": "Famous in Love",
+        "overview": "Ordinary college student Paige gets her big break after auditioning for the starring role in a Hollywood blockbuster. She must now navigate her new star-studded life and the highs and lows that come with being the new It Girl in town as well as balancing her college workload.",
+        "poster_path": "/ae4z2yBQr5htmHyfh89XdHlyQn2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 4.1963,
+        "first_air_date": "2017-04-18",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 83,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Ao5XqVJj74hYWnnEG98MvRLBHdY.jpg",
+        "id": 3769,
+        "name": "Dynasty",
+        "original_name": "Dynasty",
+        "overview": "The saga of a wealthy Denver family in the oil business: Blake Carrington, the patriarch; Krystle, his former secretary and wife; his children: Adam, lost in childhood after a kidnapping; Fallon, pampered and spoiled; Steven, openly gay; and Amanda, hidden from him by his ex-wife, the conniving Alexis. Most of the show features the conflict between 2 large corporations, Blake's Denver Carrington and Alexis' ColbyCo.",
+        "poster_path": "/wxKEdlB4Zuq2THGqKYLnGKU37g9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 43.656,
+        "first_air_date": "1981-01-12",
+        "softcore": false,
+        "vote_average": 6.519,
+        "vote_count": 133,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iqsEVKhFfOLnD4WGB19sg39bb21.jpg",
+        "id": 47335,
+        "name": "A Place to Call Home",
+        "original_name": "A Place to Call Home",
+        "overview": "A mysterious woman is perched between the harsh legacy of World War II and the hope of a new life in Australia. A sweeping romantic drama set in 1950s rural Australia following the lives of the Blighs, a wealthy and complicated pastoralist family, who lives in Inverness, NSW.",
+        "poster_path": "/ctjoNliuHbsRK3asfSjP7z8qhum.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 9.1034,
+        "first_air_date": "2013-04-28",
+        "softcore": false,
+        "vote_average": 7.404,
+        "vote_count": 47,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kXNBx6zc25SyL6zVMJZUQAB9Eu7.jpg",
+        "id": 3295,
+        "name": "Soap",
+        "original_name": "Soap",
+        "overview": "The antics of a wealthy family, the Tates, and a working-class family, the Campbells, in the fictional town of Dunn's River, Connecticut.",
+        "poster_path": "/kq2G0SjdVcZnKh5cpq9hp0MKvWL.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10766,
+          18
+        ],
+        "popularity": 12.7332,
+        "first_air_date": "1977-09-13",
+        "softcore": false,
+        "vote_average": 7.3,
+        "vote_count": 69,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yWY9senDDTOyNmaOljIF1xKIRVY.jpg",
+        "id": 349,
+        "name": "Point Pleasant",
+        "original_name": "Point Pleasant",
+        "overview": "A series of supernatural events begins in a small coastal New Jersey town after the arrival of a mysterious teenage girl, who apparently has the ability to influence the people and events around her.",
+        "poster_path": "/hwVJnaxrC6GPLISLrcLEICurKH9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80,
+          18,
+          10766
+        ],
+        "popularity": 4.4877,
+        "first_air_date": "2005-01-19",
+        "softcore": false,
+        "vote_average": 6.81,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 2,
+    "total_results": 21
+  },
+  "watch/providers": {
+    "results": {}
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 276713,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "暧昧失温",
+        "overview": "",
+        "popularity": 1.0842,
+        "poster_path": "/wKRX62COUw4ScE8aQfx0ZvJiEqI.jpg",
+        "first_air_date": "2024-10-16",
+        "softcore": false,
+        "name": "暧昧失温",
+        "vote_average": 9,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tH8r7QTBB5u4EsjC7tLolUPJ1Zs.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 61104,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "รักในม่านเมฆ",
+        "overview": "",
+        "popularity": 1.511,
+        "poster_path": "/sRh7T64DLwdzUXhtFAaU89PuM63.jpg",
+        "first_air_date": "2010-06-19",
+        "softcore": false,
+        "name": "รักในม่านเมฆ",
+        "vote_average": 6,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vozvAHeGkMGu7HKAlYnPgDzdrUw.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 4504,
+        "origin_country": [
+          "NZ"
+        ],
+        "original_language": "en",
+        "original_name": "Shortland Street",
+        "overview": "",
+        "popularity": 40.5942,
+        "poster_path": "/7T7TphnK6yvz9J5sMbJ5UyquYWK.jpg",
+        "first_air_date": "1992-05-25",
+        "softcore": false,
+        "name": "Shortland Street",
+        "vote_average": 5.3,
+        "vote_count": 18
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lbedT9CO6LeVL0GMuJ1lUGDZYvt.jpg",
+        "genre_ids": [
+          10766
+        ],
+        "id": 158,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Port Charles",
+        "overview": "",
+        "popularity": 2.3718,
+        "poster_path": "/edkPF1gwzWYBoodM54zFQ3BSKVv.jpg",
+        "first_air_date": "1997-06-02",
+        "softcore": false,
+        "name": "Port Charles",
+        "vote_average": 7.75,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10766
+        ],
+        "id": 28388,
+        "origin_country": [
+          "NL"
+        ],
+        "original_language": "nl",
+        "original_name": "Onderweg naar morgen",
+        "overview": "",
+        "popularity": 11.2769,
+        "poster_path": "/9sgHhyzQ49mgxd0L5hIpopsTGMm.jpg",
+        "first_air_date": "1994-01-03",
+        "softcore": false,
+        "name": "Onderweg naar morgen",
+        "vote_average": 4.667,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lBbMUEbyvCRpVhY4jey6sCisfv7.jpg",
+        "genre_ids": [
+          10764,
+          10766
+        ],
+        "id": 207030,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "cs",
+        "original_name": "Praha - den & noc",
+        "overview": "",
+        "popularity": 2.4927,
+        "poster_path": "/ep1rPpXHLj6FcNMNYeLVMXVeAKI.jpg",
+        "first_air_date": "2022-07-11",
+        "softcore": false,
+        "name": "Praha - den & noc",
+        "vote_average": 7,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6VR8b4e2XsPeIz4HWCLafi8PNAW.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 1028,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Holby City",
+        "overview": "",
+        "popularity": 71.6258,
+        "poster_path": "/rDlIwW4NEUDNyrlaxrJeO63VrRO.jpg",
+        "first_air_date": "1999-01-12",
+        "softcore": false,
+        "name": "Holby City",
+        "vote_average": 5.8,
+        "vote_count": 48
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wnyMAP1Xep5BUwTqMq2KBHjRHws.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 1021,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Casualty",
+        "overview": "",
+        "popularity": 60.2281,
+        "poster_path": "/ahqMUNIUeGIBQSkShEV32085IFZ.jpg",
+        "first_air_date": "1986-09-06",
+        "softcore": false,
+        "name": "Casualty",
+        "vote_average": 6.2,
+        "vote_count": 88
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10766
+        ],
+        "id": 1151,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Doctors",
+        "overview": "",
+        "popularity": 4.6927,
+        "poster_path": "/nVrUXzcTdCsAoQ4rled68diuGx5.jpg",
+        "first_air_date": "1963-04-01",
+        "softcore": false,
+        "name": "The Doctors",
+        "vote_average": 6.4,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e7JKhKiZGoweShzTOn5OL7uMhVJ.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 1501,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "The Young Doctors",
+        "overview": "",
+        "popularity": 6.4965,
+        "poster_path": "/q0HmHMzo741krzMk0aFiOwnEnBZ.jpg",
+        "first_air_date": "1976-11-08",
+        "softcore": false,
+        "name": "The Young Doctors",
+        "vote_average": 8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eTgyAgjP9pS2fsf3NWbohc0KgN8.jpg",
+        "genre_ids": [
+          10751,
+          18,
+          9648,
+          10766,
+          10765
+        ],
+        "id": 281364,
+        "origin_country": [
+          "PK"
+        ],
+        "original_language": "ur",
+        "original_name": "گڈی",
+        "overview": "",
+        "popularity": 0.9775,
+        "poster_path": "/myb0Myj8f5uMwfDR9bIy6f4fMrn.jpg",
+        "first_air_date": "2024-12-20",
+        "softcore": false,
+        "name": "گڈی",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10766
+        ],
+        "id": 281901,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "臣服",
+        "overview": "",
+        "popularity": 0.964,
+        "poster_path": "/djDUwMfLTYrU812WHcKtYMZ9a3J.jpg",
+        "first_air_date": "2024-11-08",
+        "softcore": false,
+        "name": "臣服",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10766
+        ],
+        "id": 281835,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "废墟有神明",
+        "overview": "",
+        "popularity": 0.726,
+        "poster_path": "/vY0mxGXEGOhuNy5zTwThYz9oCx8.jpg",
+        "first_air_date": "2024-12-24",
+        "softcore": false,
+        "name": "废墟有神明",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Mc3flEYVk5u0kZyBHeKMAbmNCM.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 6467,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Chicago Hope",
+        "overview": "",
+        "popularity": 52.2205,
+        "poster_path": "/x8ic33t4NurJul1oXmvKwKtWH28.jpg",
+        "first_air_date": "1994-09-18",
+        "softcore": false,
+        "name": "Chicago Hope",
+        "vote_average": 7.165,
+        "vote_count": 82
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fkn704BTYzc7ciN1gMYqc6FljiE.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 7159,
+        "origin_country": [
+          "BE"
+        ],
+        "original_language": "nl",
+        "original_name": "Sara",
+        "overview": "",
+        "popularity": 7.6192,
+        "poster_path": "/en0VYyFU9COw8xCuwIMPro2tmdE.jpg",
+        "first_air_date": "2007-09-25",
+        "softcore": false,
+        "name": "Sara",
+        "vote_average": 7.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xaTAJzpmBg3TXcbBpdHjtQWopNn.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 135536,
+        "origin_country": [
+          "MX"
+        ],
+        "original_language": "es",
+        "original_name": "Contigo Sí",
+        "overview": "",
+        "popularity": 6.1512,
+        "poster_path": "/oZBdVCkMkuUIo6ddJtygmsaDXT0.jpg",
+        "first_air_date": "2021-10-11",
+        "softcore": false,
+        "name": "Contigo Sí",
+        "vote_average": 5.947,
+        "vote_count": 19
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gZCicIIHXqS07zMqaMY5oBtZYms.jpg",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "id": 70713,
+        "origin_country": [
+          "AR"
+        ],
+        "original_language": "es",
+        "original_name": "Mujeres de nadie",
+        "overview": "",
+        "popularity": 13.208,
+        "poster_path": "/uS51WJDeqsWvLcLxYuIuh5ZcGa6.jpg",
+        "first_air_date": "2007-05-10",
+        "softcore": false,
+        "name": "Mujeres de nadie",
+        "vote_average": 3.2,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3z4zE7WvIyQYadqxDQ7MCpSRbOG.jpg",
+        "genre_ids": [
+          10766
+        ],
+        "id": 249010,
+        "origin_country": [
+          "ZA"
+        ],
+        "original_language": "af",
+        "original_name": "Kelders van Geheime",
+        "overview": "",
+        "popularity": 24.3545,
+        "poster_path": "/r0hqXxOTJ7pTEYQYl7HWrD50ym0.jpg",
+        "first_air_date": "2024-05-06",
+        "softcore": false,
+        "name": "Kelders van Geheime",
+        "vote_average": 6,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/brRNyiqKKcgo27V7nA7Ea9qDyyE.jpg",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 13344,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Emergency: Ward 10",
+        "overview": "",
+        "popularity": 5.8557,
+        "poster_path": "/uI9uHBIjeaQSM8iEYkOXj5DS0ZL.jpg",
+        "first_air_date": "1957-02-19",
+        "softcore": false,
+        "name": "Emergency: Ward 10",
+        "vote_average": 6.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r20ZFzZ50dilUrrFtUeqA91iH7Z.jpg",
+        "genre_ids": [
+          18,
+          80,
+          10766,
+          35
+        ],
+        "id": 249112,
+        "origin_country": [
+          "SE"
+        ],
+        "original_language": "sv",
+        "original_name": "Sociala Medier Akuten",
+        "overview": "",
+        "popularity": 0.9145,
+        "poster_path": "/wdR2C7BuRdb4zsI070ffuPUIk1w.jpg",
+        "first_air_date": "2022-05-25",
+        "softcore": false,
+        "name": "Sociala Medier Akuten",
+        "vote_average": 0,
+        "vote_count": 0
+      }
+    ],
+    "total_pages": 190,
+    "total_results": 3798
+  }
+}

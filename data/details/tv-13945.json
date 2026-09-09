@@ -1,0 +1,1405 @@
+{
+  "adult": false,
+  "backdrop_path": "/ottT2Yt0OfHiHp3PHJTLNVV8JPE.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    23
+  ],
+  "first_air_date": "1992-05-11",
+  "genres": [
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 10766,
+      "name": "أوبرا صابونية"
+    }
+  ],
+  "homepage": "http://www.gzsz.de",
+  "id": 13945,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-08-21",
+  "last_episode_to_air": {
+    "id": 7741490,
+    "name": "الحلقة 172",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-04",
+    "episode_number": 172,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 25,
+    "season_number": 35,
+    "show_id": 13945,
+    "still_path": null
+  },
+  "name": "Gute Zeiten, schlechte Zeiten",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 207,
+      "logo_path": "/g5w1CvcMMBnxmXcsFUTLVBhH9Qp.png",
+      "name": "RTL",
+      "origin_country": "DE"
+    },
+    {
+      "id": 3211,
+      "logo_path": null,
+      "name": "RTL Passion",
+      "origin_country": ""
+    }
+  ],
+  "number_of_episodes": 8596,
+  "number_of_seasons": 35,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Gute Zeiten, schlechte Zeiten",
+  "overview": "",
+  "popularity": 242.9119,
+  "poster_path": "/qujVFLAlBnPU9mZElV4NZgL8iXT.jpg",
+  "production_companies": [
+    {
+      "id": 51150,
+      "logo_path": null,
+      "name": "UFA Serial Drama",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2018,
+      "logo_path": null,
+      "name": "Grundy UFA",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1992-05-11",
+      "episode_count": 160,
+      "id": 25198,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/AfOEFu8zXzAHuABj7TzEn45VrB1.jpg",
+      "season_number": 1,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1993-01-01",
+      "episode_count": 242,
+      "id": 131248,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/jqoiYjFuD0j8yeSTPwjBjucK98H.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-03",
+      "episode_count": 245,
+      "id": 131249,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/9iFkGLBhlqZGVvYBye0wnx8TyZ.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-02",
+      "episode_count": 241,
+      "id": 131250,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/7P2bAVMjSAEzewzJmFup2sbFHIp.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-02",
+      "episode_count": 249,
+      "id": 131251,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/dajzy6PppZHIwchssfKK1T0hmIO.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-02",
+      "episode_count": 245,
+      "id": 131252,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/ssKXbJgurmeuMmcPoIqGYOoImOy.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-02",
+      "episode_count": 253,
+      "id": 131253,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/x0t65yT09sQ8TueFFdfVsizcrah.jpg",
+      "season_number": 7,
+      "vote_average": 6
+    },
+    {
+      "air_date": "1999-01-04",
+      "episode_count": 253,
+      "id": 131254,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/91cFWV7IRteyAK0rCT2BymYehAx.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-03",
+      "episode_count": 250,
+      "id": 131255,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/qTKHT60nnaRw9sj8zDjLGLi3WXp.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-02",
+      "episode_count": 244,
+      "id": 131256,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/oyTbpRRpNlsq3RfPv5dgOgvMrGD.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-02",
+      "episode_count": 250,
+      "id": 131257,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/v0Xy7e3FiNDAg2BimlUEKY1B5CE.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-02",
+      "episode_count": 249,
+      "id": 131258,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/x1QH3TfodvIXVrr7WtDoz4jo3t1.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-02",
+      "episode_count": 253,
+      "id": 131259,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/3u5olfQl3rW1WEGuu86enTZzUpa.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-03",
+      "episode_count": 255,
+      "id": 131260,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/hSyNPbiAC600Ixm00skBZ2wutAJ.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 257,
+      "id": 131261,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/qKWbvKxJpb1H9Ug999nRYJKnfq.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-02",
+      "episode_count": 249,
+      "id": 131262,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/9wh8MCtx56zOR4wlYwhKFhb0UXe.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-02",
+      "episode_count": 252,
+      "id": 131263,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/rKzPRHMLmJbE4X8aHnaZOOMy0dS.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-02",
+      "episode_count": 252,
+      "id": 131264,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/8B73xJ3wZoQuQuHHrqVKq4eYXLw.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 248,
+      "id": 131265,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/lyPdR8CqIeM7npTRQfbA5uGCsVv.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 254,
+      "id": 131266,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/oNF58NO3I3wfxyuFcDxxZFlL3p7.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 251,
+      "id": 131267,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/6W4hvjYQ0UlvT9PrYoz6Fbox0SY.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 250,
+      "id": 131268,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/ybC8xIvHOkjmKBZxnNquZn9RnRv.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 250,
+      "id": 131269,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/coeS0dyld2PcFmKES4NosB7FvnB.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-02",
+      "episode_count": 252,
+      "id": 131270,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/nznARm5Y89jridoAFiwhZ3MJp3k.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 256,
+      "id": 131271,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/w7AMk2zIBDqqMfV3S9FxPT457D9.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 254,
+      "id": 131272,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": "/6NkDBFfbh2kYsMSdxIfY7FVLF3N.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-02",
+      "episode_count": 252,
+      "id": 131273,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": "/13vyWhBVBB5FTAkB6hVOipyliKK.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 251,
+      "id": 131274,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": "/g9dCuoRDueNdjChz9c3nyYivVtj.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-02",
+      "episode_count": 248,
+      "id": 144089,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": "/zcc8lxRTSvndK4neaeUWaETpqhB.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 252,
+      "id": 186998,
+      "name": "الموسم 30",
+      "overview": "",
+      "poster_path": "/3tCnAR3ZEm5aibrgfzvzNxufDp9.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 256,
+      "id": 238509,
+      "name": "الموسم 31",
+      "overview": "",
+      "poster_path": "/dNpqh5zRV2HPRv1Z95Fgghb0zRx.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 254,
+      "id": 315027,
+      "name": "الموسم 32",
+      "overview": "",
+      "poster_path": "/aiu3GrUJY3wSOKJwdncRfAlDAaM.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-02",
+      "episode_count": 252,
+      "id": 369662,
+      "name": "الموسم 33",
+      "overview": "",
+      "poster_path": "/tfPHC0WqoNAYxvtJOXiqC81IJeJ.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-02",
+      "episode_count": 250,
+      "id": 433683,
+      "name": "الموسم 34",
+      "overview": "",
+      "poster_path": "/yOPhbZK4w1byT8A7Imp84HpqXU.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-02",
+      "episode_count": 172,
+      "id": 489670,
+      "name": "الموسم 35",
+      "overview": "",
+      "poster_path": "/gaCWgIiu45ZvF8a5YG3b00VAHIi.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.5,
+  "vote_count": 49,
+  "credits": {
+    "cast": [],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1225093,
+        "known_for_department": "Creator",
+        "name": "ريج واتسون",
+        "original_name": "Reg Watson",
+        "popularity": 0.765,
+        "profile_path": null,
+        "credit_id": "605258568c7b0f003c35a2ff",
+        "department": "Writing",
+        "job": "Idea"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/kGxPVyra9Lvf5tPmTXnMEBpwOip.jpg",
+        "id": 45789,
+        "name": "Storm of Love",
+        "original_name": "Sturm der Liebe",
+        "overview": "These are the stories of relationships taking place in the fictional five-star hotel Fürstenhof, located in Feldkirchen-Westerham near Rosenheim with the plot revolving around members of the family room area, the hotel owners, and employees.",
+        "poster_path": "/jfFNydakwvbeACEwSd2Gh8UWtba.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 186.6215,
+        "first_air_date": "2005-09-26",
+        "softcore": false,
+        "vote_average": 6,
+        "vote_count": 39,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rtMPDlUDXbIAcewFbYsa1nbuo0j.jpg",
+        "id": 78508,
+        "name": "DRUCK",
+        "original_name": "DRUCK",
+        "overview": "Druck follows a group of friends in their teen life in Berlin and deals with daily and current events, like friendship, love and the search for their own identity. Every season centers on a new character.",
+        "poster_path": "/vhyrWHKmviYvIAGZ5gW6Tw9n9ih.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.553,
+        "first_air_date": "2018-03-23",
+        "softcore": false,
+        "vote_average": 8.3,
+        "vote_count": 26,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/60jKAbSaOphy1RAOzJeqNxeNKuG.jpg",
+        "id": 70837,
+        "name": "Charité",
+        "original_name": "Charité",
+        "overview": "Berlin, 1888. After penniless Ida’s life is saved at the Charité Hospital she must work off the treatment costs. While she becomes acquainted with the most brilliant physicians of this era at the world-famous hospital, the self-determined young woman discovers her passion for medicine.",
+        "poster_path": "/5CD8MfminpPROOHoiIWguujmu2S.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 7.2831,
+        "first_air_date": "2017-03-21",
+        "softcore": false,
+        "vote_average": 7.315,
+        "vote_count": 127,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/brYNyCDlPoSskLhupEYMYulyyOB.jpg",
+        "id": 2822,
+        "name": "Felicity",
+        "original_name": "Felicity",
+        "overview": "Felicity Porter, a sensitive and intelligent girl from the San Francisco Bay Area, decides to give up a slot at Stanford University's pre-med program to follow her long time crush to college in New York City. Things get even more complicated when she meets her dorm's resident advisor and they fall in love.",
+        "poster_path": "/i6gZ7fVpLBK3l5FkxCzMtEtT7Bz.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 30.5125,
+        "first_air_date": "1998-09-29",
+        "softcore": false,
+        "vote_average": 6.559,
+        "vote_count": 94,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3q4C0QTGU6NoqcW5SV64a21Nn2o.jpg",
+        "id": 15571,
+        "name": "Holocaust",
+        "original_name": "Holocaust",
+        "overview": "Berlin, Germany, 1935. The day Karl Weiss, a Jewish painter, and Inga Helms, a Christian woman, marry, is the one in which both of them and the entire Weiss family are caught up in the maelstrom of the Nazi regime, the storms of World War II and the horrors of the criminal Final Solution, the Holocaust, the Shoah; while Erik Dorf, an ambitious lawyer, undertakes his fall into hell at the hands of the sinister Reinhard Heydrich.",
+        "poster_path": "/gK1gnzIOwZWuTqp4HGEPmjTMijg.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10768
+        ],
+        "popularity": 4.634,
+        "first_air_date": "1978-04-16",
+        "softcore": false,
+        "vote_average": 7.3,
+        "vote_count": 76,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bHuvrPj5cGz41kJ9K4IOmBy3KPF.jpg",
+        "id": 43189,
+        "name": "Berlin Alexanderplatz",
+        "original_name": "Berlin Alexanderplatz",
+        "overview": "In late 1920s Berlin, Franz Biberkopf is released from prison and vows to go straight. However, he soon finds himself embroiled in the city’s criminal underworld.",
+        "poster_path": "/A7g70KrSxtNl2BmFJQbPZXG5ZLd.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 10.2453,
+        "first_air_date": "1980-10-12",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 51,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/24plaX4WSNEbqx74MzZBLPwlpBE.jpg",
+        "id": 1054,
+        "name": "The Young and the Restless",
+        "original_name": "The Young and the Restless",
+        "overview": "The rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Baldwin and Winters families.",
+        "poster_path": "/mN3kMuh7Cy9byeySK6pymnpIOZO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 19.9543,
+        "first_air_date": "1973-03-26",
+        "softcore": false,
+        "vote_average": 7.012,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Mc3flEYVk5u0kZyBHeKMAbmNCM.jpg",
+        "id": 6467,
+        "name": "Chicago Hope",
+        "original_name": "Chicago Hope",
+        "overview": "Chicago Hope is an American medical drama television series, created by David E. Kelley. It ran on CBS from September 18, 1994, to May 4, 2000. The series is set in a fictional private charity hospital in Chicago, Illinois.",
+        "poster_path": "/x8ic33t4NurJul1oXmvKwKtWH28.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 52.2205,
+        "first_air_date": "1994-09-18",
+        "softcore": false,
+        "vote_average": 7.165,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j55LbVtDKcnQDOhOymeB1w0B78a.jpg",
+        "id": 4583,
+        "name": "Derrick",
+        "original_name": "Derrick",
+        "overview": "Derrick was a German TV series produced by Telenova Film und Fernsehproduktion in association with ZDF, ORF and SRG between 1974 and 1998 about Detective Chief Inspector Stephan Derrick and his loyal assistant Inspector Harry Klein, who solve murder cases in Munich and surroundings.",
+        "poster_path": "/5HPuyO4V3rcoMgPZmgcdKJrdXUI.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 32.6772,
+        "first_air_date": "1974-10-20",
+        "softcore": false,
+        "vote_average": 6.01,
+        "vote_count": 52,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tMZZ8W30TtGRcydsxrtXcL3j7YT.jpg",
+        "id": 341,
+        "name": "Brothers and Sisters",
+        "original_name": "Brothers and Sisters",
+        "overview": "The close-knit Walker family deals with struggles and triumphs.",
+        "poster_path": "/u49srJvTHKlgdakN4SQzFysfBlu.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 38.2785,
+        "first_air_date": "2006-09-24",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 201,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oZ2ST23FHaAWgN2A04oTBQU9lqE.jpg",
+        "id": 133908,
+        "name": "SkyMed",
+        "original_name": "SkyMed",
+        "overview": "Life, death and drama at 20,000 feet. The series weaves together intense character journeys and high-stakes medical rescues, as we follow the triumphs, heartbreaks and tribulations of budding nurses and pilots flying air ambulances in remote Northern Canada. They’re all in over their heads, and on their own, with no one to rely on but each other.",
+        "poster_path": "/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 8.6544,
+        "first_air_date": "2022-07-10",
+        "softcore": false,
+        "vote_average": 6.661,
+        "vote_count": 93,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wnyMAP1Xep5BUwTqMq2KBHjRHws.jpg",
+        "id": 1021,
+        "name": "Casualty",
+        "original_name": "Casualty",
+        "overview": "Drama series about the staff and patients at Holby City Hospital's emergency department, charting the ups and downs in their personal and professional lives.",
+        "poster_path": "/ahqMUNIUeGIBQSkShEV32085IFZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 60.2281,
+        "first_air_date": "1986-09-06",
+        "softcore": false,
+        "vote_average": 6.2,
+        "vote_count": 88,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Rvq9wwTDyH1k1Qg660KXTknTfG.jpg",
+        "id": 1948,
+        "name": "Degrassi",
+        "original_name": "Degrassi",
+        "overview": "The life of a group of adolescents going through the trials and tribulations of teendom at Degrassi Community School.",
+        "poster_path": "/AfqQ4lZAi9LWyhnHm3VCpm2hLpB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 34.0899,
+        "first_air_date": "2001-10-14",
+        "softcore": false,
+        "vote_average": 7.593,
+        "vote_count": 114,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gJ8jYq82wn7LOrJPHcCu9eoKBAS.jpg",
+        "id": 46849,
+        "name": "جيل الحرب",
+        "original_name": "Unsere Mütter, unsere Väter",
+        "overview": "يروي جيل الحرب: أمهاتنا، آباؤنا قصة خمسة أصدقاء ألمان خلال الأعوام الممتدة من 1941 إلى 1945. كانت صداقتهم تبدو وكأنها ستدوم مدى الحياة، لكن الحرب غيّرت كل شيء.",
+        "poster_path": "/2bDGcmBssBq4InVBf8m0SzJeGTi.jpg",
+        "media_type": "tv",
+        "original_language": "de",
+        "genre_ids": [
+          10768,
+          18,
+          10759
+        ],
+        "popularity": 8.2367,
+        "first_air_date": "2013-03-17",
+        "softcore": false,
+        "vote_average": 8.067,
+        "vote_count": 480,
+        "origin_country": [
+          "DE"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5GXW5SRUO8oWLOAaOhK1nxiCZEV.jpg",
+        "id": 236921,
+        "name": "Vuelve a mí",
+        "original_name": "Vuelve a mí",
+        "overview": "The kidnapping of her son unleashes a storm in Nuria García's life who, in the most difficult moment, meets Santiago Zepeda; together, they find redemption in the face of adversity.",
+        "poster_path": "/sGgYl7voI8T34azn5biA0MRpG3c.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 7.7004,
+        "first_air_date": "2023-10-09",
+        "softcore": false,
+        "vote_average": 8.55,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sMEohaNKA30mv5iQgPcTd5uj6bM.jpg",
+        "id": 223438,
+        "name": "The Couple Next Door",
+        "original_name": "The Couple Next Door",
+        "overview": "ينتقل زوجان شابان إلى حي راقي لبدء حياة عائلية، ولكنهما سرعان ما يعلقان داخل شبكة معقدة من الرغبة والخيانة مع جيرانهما الجدد.",
+        "poster_path": "/ifQ5ffAI6KfywBcSGoGU1YWO3yC.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 8.9021,
+        "first_air_date": "2023-11-27",
+        "softcore": false,
+        "vote_average": 5.853,
+        "vote_count": 51,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pFp7O5yDav4xWw8FXzO6uigOGOt.jpg",
+        "id": 138181,
+        "name": "The Tower",
+        "original_name": "The Tower",
+        "overview": "A veteran beat cop and teenage girl fall to their deaths from a tower block in south-east London, leaving a five-year-old boy and rookie police officer Lizzie Griffiths on the roof, only for them to go missing. Detective Sergeant Sarah Collins is drafted in to investigate, working to find Lizzie before she comes to serious harm, but also to uncover the truth behind the grisly tower block deaths.",
+        "poster_path": "/9lw4ZiZITgOy1bQIlv7cxGfNGqp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 9.3424,
+        "first_air_date": "2021-11-08",
+        "softcore": false,
+        "vote_average": 6.784,
+        "vote_count": 81,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rvlQ6u2ZR8phyOtQSmaOOP9pOPv.jpg",
+        "id": 18856,
+        "name": "Hawthorne",
+        "original_name": "Hawthorne",
+        "overview": "Christina Hawthorne is a compassionate and headstrong Chief Nursing Officer heading up a group of dedicated nurses at Richmond Trinity Hospital on the hospital's front lines. She does everything in her power to help her patients. When necessary, she takes on doctors and administrators who are overworked, distracted or just unable to see the human being behind the hospital chart. But the long days at the hospital and Hawthorne’s intense focus on helping others take a toll on her personal life.",
+        "poster_path": "/bZuFnSA7RtgEQJUBdHqbhtlbpmp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 12.0524,
+        "first_air_date": "2009-06-16",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 48,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/72zLfNDaL8JpfLDwmQ2b8DPbeHc.jpg",
+        "id": 21762,
+        "name": "Parenthood",
+        "original_name": "Parenthood",
+        "overview": "The trials and tribulations of the very large, colorful and imperfect Braverman family.",
+        "poster_path": "/9KjKLJrrUI1sU9bNsQaQ5H8kTyY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18
+        ],
+        "popularity": 31.0723,
+        "first_air_date": "2010-03-02",
+        "softcore": false,
+        "vote_average": 7.465,
+        "vote_count": 187,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Am2ZRSkoOQd00kmhUF7QtOFbLWQ.jpg",
+        "id": 3828,
+        "name": "Hill Street Blues",
+        "original_name": "Hill Street Blues",
+        "overview": "A realistic glimpse into the daily lives of the officers and detectives at an urban police station.",
+        "poster_path": "/elvCmYxmwVzv2va3rLKponOJOfm.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 41.2752,
+        "first_air_date": "1981-01-15",
+        "softcore": false,
+        "vote_average": 7.618,
+        "vote_count": 127,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 34,
+    "total_results": 663
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/13945-gute-zeiten-schlechte-zeiten/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 50
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/13945-gute-zeiten-schlechte-zeiten/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 19
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "id": 276713,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "暧昧失温",
+        "overview": "",
+        "popularity": 1.0842,
+        "poster_path": "/wKRX62COUw4ScE8aQfx0ZvJiEqI.jpg",
+        "first_air_date": "2024-10-16",
+        "softcore": false,
+        "name": "暧昧失温",
+        "vote_average": 9,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2yYWgVDLWWCodMqgR7bzxDnTjv.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 1867,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Shining",
+        "overview": "",
+        "popularity": 6.9166,
+        "poster_path": "/YTH851DpQxoWFRu9gAYwPM56Yy.jpg",
+        "first_air_date": "1997-04-27",
+        "softcore": false,
+        "name": "The Shining",
+        "vote_average": 6.348,
+        "vote_count": 355
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/b2fhZk0xB2TgMsDXT6goR28PoHX.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 1891,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Rome",
+        "overview": "سرد واقعي لحياة الرومان، سواء كانوا من المشاهير أو من عامة الناس، في الأيام الأخيرة للجمهورية الرومانية.",
+        "popularity": 24.3901,
+        "poster_path": "/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg",
+        "first_air_date": "2005-08-28",
+        "softcore": false,
+        "name": "Rome",
+        "vote_average": 8.232,
+        "vote_count": 1565
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pIe3Gn1NcE0fQJZuNn31CCSxR2Y.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 1906,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Shameless",
+        "overview": "",
+        "popularity": 36.1603,
+        "poster_path": "/kE30UWJvJZ03KIIJMmL6m6YoG0l.jpg",
+        "first_air_date": "2004-01-13",
+        "softcore": false,
+        "name": "Shameless",
+        "vote_average": 7.522,
+        "vote_count": 158
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18
+        ],
+        "id": 93054,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "ภาตุฆาต",
+        "overview": "",
+        "popularity": 1.2938,
+        "poster_path": "/9GpyxBtgT7yr0qgCmk0L6RbTpaU.jpg",
+        "first_air_date": "2019-08-19",
+        "softcore": false,
+        "name": "ภาตุฆาต",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zEOflrK5FIf32LEpsaCTvKK59cC.jpg",
+        "genre_ids": [
+          18,
+          10751,
+          80
+        ],
+        "id": 93058,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "สองนรี",
+        "overview": "",
+        "popularity": 1.7219,
+        "poster_path": "/4Ydkna0N4Aqd9LomzLyq90VWXeA.jpg",
+        "first_air_date": "2019-08-19",
+        "softcore": false,
+        "name": "สองนรี",
+        "vote_average": 8,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ite3lj4atrXI9d3ZvF39hnbBNrd.jpg",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 306129,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ラムネモンキー",
+        "overview": "",
+        "popularity": 8.7179,
+        "poster_path": "/6P4mbhpsmHQdDcngIv8N7rw1r0n.jpg",
+        "first_air_date": "2026-01-14",
+        "softcore": false,
+        "name": "ラムネモンキー",
+        "vote_average": 8.2,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ku271NPFqnUgpyL6buIw0lz1cUj.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126276,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "猎狼者",
+        "overview": "",
+        "popularity": 2.1262,
+        "poster_path": "/ffT1wVAxDRgYUhQAcbVcTJJk7Bq.jpg",
+        "first_air_date": "2021-05-24",
+        "softcore": false,
+        "name": "猎狼者",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9nBVkNBe4x9HKDAzxjxlIqecxCW.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126280,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Sex/Life",
+        "overview": "",
+        "popularity": 20.8754,
+        "poster_path": "/kfcJl5e8CRWDU7e4vX6uNABPRbS.jpg",
+        "first_air_date": "2021-06-25",
+        "softcore": false,
+        "name": "Sex/Life",
+        "vote_average": 7.058,
+        "vote_count": 1403
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9TyOYxzQr0SOmruw2i9F4vb1wXW.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 93168,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "A Confession",
+        "overview": "",
+        "popularity": 4.4283,
+        "poster_path": "/6c6q8m5PCiXv3TlxmM0vIcLylb0.jpg",
+        "first_air_date": "2019-09-02",
+        "softcore": false,
+        "name": "A Confession",
+        "vote_average": 7.062,
+        "vote_count": 89
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bM9aExeCQ8FuxTItoqfRXwZ5d4X.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 126400,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Anne Boleyn",
+        "overview": "",
+        "popularity": 7.694,
+        "poster_path": "/1vC3LpIJl9BkNNsYVPhT9qGIYTY.jpg",
+        "first_air_date": "2021-06-01",
+        "softcore": false,
+        "name": "Anne Boleyn",
+        "vote_average": 2.213,
+        "vote_count": 75
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7hde5HC3Va7U6Cl4O4xRXaCsGUP.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 93206,
+        "origin_country": [
+          "NO"
+        ],
+        "original_language": "no",
+        "original_name": "Besatt",
+        "overview": "",
+        "popularity": 2.1988,
+        "poster_path": "/rWWByfvrIBkuBuAtbsYDrFBoeod.jpg",
+        "first_air_date": "2019-10-31",
+        "softcore": false,
+        "name": "Besatt",
+        "vote_average": 5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4eufRkflTkrmmONcswo02A4S6en.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 2046,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Alias",
+        "overview": "",
+        "popularity": 17.2104,
+        "poster_path": "/Dl3KIxWlSEvnXogNHxdXA4pbAk.jpg",
+        "first_air_date": "2001-09-30",
+        "softcore": false,
+        "name": "Alias",
+        "vote_average": 6.809,
+        "vote_count": 726
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gznAtuA5VYtQq1vqZvX1HEJHCda.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 2062,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Darling Buds of May",
+        "overview": "",
+        "popularity": 8.3562,
+        "poster_path": "/9ljT4e814I7P6voSbXEuaYYDear.jpg",
+        "first_air_date": "1991-04-07",
+        "softcore": false,
+        "name": "The Darling Buds of May",
+        "vote_average": 7.875,
+        "vote_count": 24
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xKKl8f3G5gYStIhfvpJVKZ7sMdJ.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 2081,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "South of Nowhere",
+        "overview": "",
+        "popularity": 8.417,
+        "poster_path": "/zGvtxSlopOuhXDjjQrSuPqW62kU.jpg",
+        "first_air_date": "2005-11-04",
+        "softcore": false,
+        "name": "South of Nowhere",
+        "vote_average": 7.25,
+        "vote_count": 34
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/urwFZXFCKzqk0Jw5RzsiTIqnASV.jpg",
+        "genre_ids": [
+          9648,
+          35,
+          18
+        ],
+        "id": 93251,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "热血书院",
+        "overview": "",
+        "popularity": 1.9933,
+        "poster_path": "/lEPdxApFKySNVP1I2OK7NyeCjSv.jpg",
+        "first_air_date": "2018-07-04",
+        "softcore": false,
+        "name": "热血书院",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dzq83RHwQcnP6WGJ6YkenIqeaa5.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 60574,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Peaky Blinders",
+        "overview": "تركزت إنجلترا على عصابة قامت بخياطة شفرات الحلاقة في قمم قبعاتها، ورئيسها الشرس تومي شيلبي، الذي يريد الصعود إلى أعلى العالم.",
+        "popularity": 81.2773,
+        "poster_path": "/wDgEshHZzwFIkjuOEbvhqMxWD6q.jpg",
+        "first_air_date": "2013-09-12",
+        "softcore": false,
+        "name": "بيكي بلايندرز",
+        "vote_average": 8.526,
+        "vote_count": 11356
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aPtygCQY7FOBO0Ns3bKhafR9HrI.jpg",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "id": 60605,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "cy",
+        "original_name": "Y Gwyll",
+        "overview": "",
+        "popularity": 6.9455,
+        "poster_path": "/uyYp5sZqTkviCtRjQNuOuqWTssM.jpg",
+        "first_air_date": "2013-10-29",
+        "softcore": false,
+        "name": "Y Gwyll",
+        "vote_average": 7.232,
+        "vote_count": 112
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lxl2LzGj5Y1E7jLCmrX5LjOACSG.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 208131,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "日曜の夜ぐらいは…",
+        "overview": "",
+        "popularity": 3.2707,
+        "poster_path": "/8VkYThaqM8RyBguwvZbmziTkMzU.jpg",
+        "first_air_date": "2023-04-30",
+        "softcore": false,
+        "name": "日曜の夜ぐらいは…",
+        "vote_average": 8,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/adSgugIoQiEQw3DLIwANdyjgrXC.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 93096,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "시크릿 부티크",
+        "overview": "",
+        "popularity": 2.4564,
+        "poster_path": "/i7jBm8HcZQscycSzVwqgHo2tW2L.jpg",
+        "first_air_date": "2019-09-18",
+        "softcore": false,
+        "name": "시크릿 부티크",
+        "vote_average": 7.5,
+        "vote_count": 4
+      }
+    ],
+    "total_pages": 2773,
+    "total_results": 55449
+  }
+}

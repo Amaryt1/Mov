@@ -1,0 +1,846 @@
+{
+  "adult": false,
+  "backdrop_path": "/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "كوميديا"
+    },
+    {
+      "id": 53,
+      "name": "إثارة"
+    }
+  ],
+  "homepage": "",
+  "id": 1599993,
+  "imdb_id": "tt34224947",
+  "origin_country": [
+    "DO"
+  ],
+  "original_language": "es",
+  "original_title": "Animales",
+  "overview": "",
+  "popularity": 84.0433,
+  "poster_path": "/9fbZdiOI9fRinl44mNm3CYgEtYR.jpg",
+  "production_companies": [
+    {
+      "id": 143363,
+      "logo_path": "/blNnSzGhVlG2ntchLosmCZobN1W.png",
+      "name": "Star Distribution",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DO",
+      "name": "Dominican Republic"
+    }
+  ],
+  "release_date": "2026-02-05",
+  "revenue": 0,
+  "runtime": 0,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Animales",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 40,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 232262,
+        "known_for_department": "Acting",
+        "name": "Nashla Bogaert",
+        "original_name": "Nashla Bogaert",
+        "popularity": 1.1797,
+        "profile_path": "/tGCIlMxyMh3qpt7xNLzzltNHDQq.jpg",
+        "cast_id": 1,
+        "character": "Amelia",
+        "credit_id": "6986bbe033f8fea1a85ca112",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 232245,
+        "known_for_department": "Acting",
+        "name": "Frank Perozo",
+        "original_name": "Frank Perozo",
+        "popularity": 1.6879,
+        "profile_path": "/qWqwiMFEdQE0dLuqSPt3qHDQfQQ.jpg",
+        "cast_id": 2,
+        "character": "Martín",
+        "credit_id": "6986bbfc857bfaa0215ca0eb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4843988,
+        "known_for_department": "Acting",
+        "name": "Pamela Sued",
+        "original_name": "Pamela Sued",
+        "popularity": 0.7901,
+        "profile_path": "/pk9vigh6rVrJMcsGDyuxabaBfcm.jpg",
+        "cast_id": 3,
+        "character": "Sofía",
+        "credit_id": "6986bc0fea012e3fc52ce0af",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1684891,
+        "known_for_department": "Directing",
+        "name": "David Maler",
+        "original_name": "David Maler",
+        "popularity": 0.9199,
+        "profile_path": "/u4KAt1CqQ3LocxyKxWsXKUbuPeQ.jpg",
+        "cast_id": 4,
+        "character": "Santiago",
+        "credit_id": "6986bc1a4bc7cc6b65c1c0ba",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3238925,
+        "known_for_department": "Acting",
+        "name": "Camila Issa",
+        "original_name": "Camila Issa",
+        "popularity": 0.48,
+        "profile_path": "/xOlZ7bA7OlePdxMRNPsGJ8Yi3nU.jpg",
+        "cast_id": 5,
+        "character": "Jessica",
+        "credit_id": "6986bc29508247de018c8799",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5179137,
+        "known_for_department": "Acting",
+        "name": "Pedro Casals",
+        "original_name": "Pedro Casals",
+        "popularity": 0.5645,
+        "profile_path": null,
+        "cast_id": 6,
+        "character": "Franco",
+        "credit_id": "6986bc36352610a13ef806ee",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5179140,
+        "known_for_department": "Acting",
+        "name": "Vitaly Sánchez",
+        "original_name": "Vitaly Sánchez",
+        "popularity": 0.5255,
+        "profile_path": null,
+        "cast_id": 7,
+        "character": "Deborah",
+        "credit_id": "6986bc43508247de018c879d",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2785131,
+        "known_for_department": "Acting",
+        "name": "María del Mar Bonelly",
+        "original_name": "María del Mar Bonelly",
+        "popularity": 0.3677,
+        "profile_path": "/uCePs7Ag3uoLTbcZbJdX1O1Iqtm.jpg",
+        "cast_id": 10,
+        "character": "Lucía",
+        "credit_id": "6a847ebcea17be9020438d74",
+        "order": 7
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1691351,
+        "known_for_department": "Writing",
+        "name": "José Ramón Alama",
+        "original_name": "José Ramón Alama",
+        "popularity": 0.9224,
+        "profile_path": null,
+        "credit_id": "6986bc5f43ceabfc098c878c",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1691351,
+        "known_for_department": "Writing",
+        "name": "José Ramón Alama",
+        "original_name": "José Ramón Alama",
+        "popularity": 0.9224,
+        "profile_path": null,
+        "credit_id": "6986c23922e55a21258c87bb",
+        "department": "Writing",
+        "job": "Writer"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/1lVzpmCxVd7SNSswEIfFND4I2si.jpg",
+        "id": 596054,
+        "title": "Heroic Losers",
+        "original_title": "La odisea de los giles",
+        "overview": "In a town in the Northwest of the province of Buenos Aires, a group of neighbors is organized to recover the economy of the area, but when the corralito is implemented in the country and they suffer a fraud, their hopes disappear. Now, they will unite to recover the lost money and give the blow of their lives to their greatest enemy.",
+        "poster_path": "/9MaAzW8sERDcIEYORE7jzeCew3P.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          53
+        ],
+        "popularity": 2.4919,
+        "release_date": "2019-08-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.558,
+        "vote_count": 625
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v9tnOguGFRmLFIjnFLuOq3EPTZj.jpg",
+        "id": 162510,
+        "title": "Strange Voyage",
+        "original_title": "El extraño viaje",
+        "overview": "In a small town near Madrid, Paquita and her brother Venancio, both single and with a childish personality, live under the shadow of their bossy older sister, Ignacia, a grumpy old maid.",
+        "poster_path": "/qR34wM5e8tDuE1u5o1G8alP5AKo.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          35,
+          53
+        ],
+        "popularity": 1.7041,
+        "release_date": "1964-08-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.304,
+        "vote_count": 51
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iG8HRE45X13dxZSzSgFcEms85O5.jpg",
+        "id": 27590,
+        "title": "Gotcha!",
+        "original_title": "Gotcha!",
+        "overview": "A student on a trip to France is tricked into smuggling secrets across the Iron Curtain by a sexy spy.",
+        "poster_path": "/8qHvL1w0NYemVeppB1UKlAd1pS0.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "popularity": 2.3914,
+        "release_date": "1985-05-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.939,
+        "vote_count": 179
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8Sh04np6IA2shSycI9uy5xrjC6I.jpg",
+        "id": 375846,
+        "title": "Bad Sister",
+        "original_title": "Bad Sister",
+        "overview": "As a top student at St. Adeline's Catholic Boarding School, Zoe senses that something is not quite right about the school's new nun-- a sense proven to be true when it is revealed the \"good' nun is an imposter with a fatal attraction to Zoe's brother.",
+        "poster_path": "/qkJsjd5KMympLxdOL6l4Gq12dAr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53,
+          10770
+        ],
+        "popularity": 5.1345,
+        "release_date": "2015-08-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.589,
+        "vote_count": 257
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xw4ffBqSFPIolJx286psPVvr55P.jpg",
+        "id": 14550,
+        "title": "The Dream Team",
+        "original_title": "The Dream Team",
+        "overview": "Four mental patients on a field trip in New York City must save their caring chaperone, who ends up being taken to a hospital in a coma after accidentally witnessing a murder, before the killers can find him and finish the job.",
+        "poster_path": "/lBVjTP8Cb66GBabUBQaBUtV6OqD.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          53
+        ],
+        "popularity": 2.4109,
+        "release_date": "1989-04-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.129,
+        "vote_count": 263
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5wHcVeMuUNlgQ2JvN0bVQ4sSDeM.jpg",
+        "id": 28339,
+        "title": "Hard to Die",
+        "original_title": "Hard to Die",
+        "overview": "While doing the inventory for a lingerie outlet in a high rise office building, five attractive women are terrorized by a series of bizarre killings. They suspect that the strange janitor, who witnessed another series of killings six months previously, is at the bottom of the whole thing. Little do they know the real horror that they face in the end.",
+        "poster_path": "/sQPdz28o3LmEaknwwnKB8zqqIYF.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "popularity": 6.946,
+        "release_date": "1990-10-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.071,
+        "vote_count": 70
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w5XLCxf5WzsqGC94r4O2wOlCY59.jpg",
+        "id": 1319895,
+        "title": "Hostile Takeover",
+        "original_title": "Hostile Takeover",
+        "overview": "Follows Pete, a professional hitman, as he faces a group of assassins after the boss of a crime syndicate suspects disloyalty due to his attendance at Workaholics Anonymous meetings.",
+        "poster_path": "/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "popularity": 5.4048,
+        "release_date": "2025-08-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.877,
+        "vote_count": 110
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8liHMI4t6VZsovqyHxgrwaFpipf.jpg",
+        "id": 981848,
+        "title": "تهديد مزدوج",
+        "original_title": "Double Threat",
+        "overview": "بعد سرقة الأموال من الغوغاء ، تجد ناتاشا المقاتلة الجميلة المدربة جيدًا نفسها هاربة مع شخص غريب وساذج ، جيمي (ماثيو لورانس) الذي توشك حياته على أن تصبح أكثر إثارة مما يمكن أن يتخيله.",
+        "poster_path": "/5Z9KqbOA8WbInbmB0TsO62L7QIy.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          35
+        ],
+        "popularity": 3.0673,
+        "release_date": "2023-03-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.532,
+        "vote_count": 108
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2OFh2lG1uSwl6ZLYlgHHBr7UyBg.jpg",
+        "id": 256474,
+        "title": "In the Blood",
+        "original_title": "In the Blood",
+        "overview": "When her husband goes missing during their Caribbean vacation, a woman sets off on her own to take down the men she thinks are responsible.",
+        "poster_path": "/zLqmFJWiXnkhKFmx1dbsARwNWgu.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "popularity": 5.2465,
+        "release_date": "2014-04-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.813,
+        "vote_count": 390
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jsp420JTZ7EK5LhpwzunE1Pu43d.jpg",
+        "id": 1072876,
+        "title": "Self Reliance",
+        "original_title": "Self Reliance",
+        "overview": "When a man is offered a million dollars to play a game in which hunters try to kill him, he thinks he has found the perfect loophole: they can only attack when he’s alone. His only problem is that none of his friends or family believe the game is real. Forced to seek companionship in unexpected places, he navigates the bizarre challenge with humor, paranoia, and a surprising search for connection.",
+        "poster_path": "/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          53
+        ],
+        "popularity": 8.2249,
+        "release_date": "2024-01-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.878,
+        "vote_count": 333
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xN7NnkNvgL41OI3NDhQy0cFrtBH.jpg",
+        "id": 15313,
+        "title": "The Wrong Guy",
+        "original_title": "The Wrong Guy",
+        "overview": "Nelson Hibbert expects to become the new president of Nagel Industries, but Mr. Nagel gives the promotion to another employee. When Nelson barges into Nagel's office to confront him, he finds Nagel's been murdered. Fearing that he will be implicated, Nelson decides to run from the law...despite the fact that the police already know the killer's identity.",
+        "poster_path": "/9X22sqQI5UAwajmSNH293avRtFr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          53
+        ],
+        "popularity": 2.4937,
+        "release_date": "1997-08-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.799,
+        "vote_count": 77
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vfXQtrT70gauTsFHldxwx78iiLW.jpg",
+        "id": 512239,
+        "title": "The Corrupted",
+        "original_title": "The Corrupted",
+        "overview": "تدور أحداث الفيلم قبل أولمبياد لندن 2012، وتدور أحداثه حول ليام، وهو محتال سابق يحاول استعادة حب عائلته وثقتها. لقد خسر كل شيء على أيدي عصابة الجريمة المحلية التي يديرها كليفورد كولين ، الذي لديه علاقات رفيعة المستوى في السياسة والمالية وقوات الشرطة. إن سعي ليام للخلاص يراه عالقا في شبكة من المؤامرة والجريمة والفساد.",
+        "poster_path": "/elf6HOIOAwMlxc4ZBsprEc5VQHc.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          53
+        ],
+        "popularity": 3.6318,
+        "release_date": "2019-05-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.071,
+        "vote_count": 105
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jxeIgOEY5pbl9aMRExGawV6xkyO.jpg",
+        "id": 119738,
+        "title": "Thunderstruck",
+        "original_title": "Thunderstruck",
+        "overview": "After NBA star Kevin Durant switches talent with 16 year old Brian, the teenager becomes the star of his high school team, but Durant starts struggling and eventually learns an important lesson.",
+        "poster_path": "/lR1ssqRzslQx9WtTOKnfgqbNB1y.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 3.2214,
+        "release_date": "2012-08-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.229,
+        "vote_count": 260
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xvt55bd9icHideORq3X2pVyohKn.jpg",
+        "id": 19345,
+        "title": "Black Widow",
+        "original_title": "Black Widow",
+        "overview": "Federal agent Alexandra Barnes believes that Catherine Petersen is a serial killer who marries rich men and then murders them for their money. But since Catherine is seemingly a master of disguise and has multiple identities, Alexandra can't prove anything with conventional detective work. With no other option, she goes undercover, pursuing the same man as Catherine, and hoping that Catherine will slip up and reveal her true identity.",
+        "poster_path": "/iAlUN6XFuvSz1it58aH2cuEITrt.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          53
+        ],
+        "popularity": 4.1145,
+        "release_date": "1987-02-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 233
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1leYKN0DPNffpldGnCWnbXaiWoD.jpg",
+        "id": 1305717,
+        "title": "Hunting Grounds",
+        "original_title": "Hunting Grounds",
+        "overview": "Desperate to find refuge for her children, Chloe Marvino runs away from her Mafia tied husband, and finds shelter in a cabin with a recluse drifter named Jake. But as her husband's henchmen draw closer to her, it turns out that Jake is the biggest enemy of them all.",
+        "poster_path": "/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 3.7151,
+        "release_date": "2025-05-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 127
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ggzUa7gPXs7mnLhJEcwP9r10Z9e.jpg",
+        "id": 1312150,
+        "title": "ريكي جيرفيز: حتمية الموت",
+        "original_title": "Ricky Gervais: Mortality",
+        "overview": "يتطرق \"ريكي جيرفيز\" إلى غرائب الحياة والموت والوضع الراهن للعالم في عرض خاص يتسم بصراحة جارحة تطال جميع القضايا، حتى مسألة موته هو شخصيًّا.",
+        "poster_path": "/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 4.9497,
+        "release_date": "2025-12-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.99,
+        "vote_count": 105
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9aXeUmNuClqe6pzEHt22N1Ah053.jpg",
+        "id": 227300,
+        "title": "Stretch",
+        "original_title": "Stretch",
+        "overview": "A hard-luck limo driver struggling to go straight and pay off a debt to his bookie takes on a job with a crazed passenger whose sought-after ledger implicates some seriously dangerous criminals.",
+        "poster_path": "/pLmIFQu2fFB6YkYuYzBotKMFGqZ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          53
+        ],
+        "popularity": 3.6085,
+        "release_date": "2014-10-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.192,
+        "vote_count": 742
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6SukPXIL4ipy2JptYaTgeYnRD0p.jpg",
+        "id": 1148713,
+        "title": "ناقل الأموال",
+        "original_title": "El correo",
+        "overview": "بعد أن يغتنم عامل ركن سيارات متواضع فرصته للانضمام إلى مخطط غسيل أموال بدهاء، ينغمس في عالم جني المال الوفير والسيارات السريعة... والسقوط الذي لا مفر منه.",
+        "poster_path": "/1IRKYqQXXleihbzaFXeDU1TdxKP.jpg",
+        "media_type": "movie",
+        "original_language": "es",
+        "genre_ids": [
+          53,
+          80
+        ],
+        "popularity": 5.8912,
+        "release_date": "2024-01-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.43,
+        "vote_count": 194
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rYj9RVPntrnjqxBAZbF0LPZuFFP.jpg",
+        "id": 1001783,
+        "title": "LaRoy, Texas",
+        "original_title": "LaRoy, Texas",
+        "overview": "Broke and depressed, Ray  is mistaken for a dangerous hitman and given an envelope of cash. Along with his P.I. friend Skip, he must escape the actual hitman to make it out of LaRoy alive.",
+        "poster_path": "/fEYfXyWhFJScE0I5rHsS2JxIiPP.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          35,
+          53
+        ],
+        "popularity": 3.9654,
+        "release_date": "2024-04-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.847,
+        "vote_count": 190
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wIb43RlPf5iYeoBAYIfxfhpE8NI.jpg",
+        "id": 1094319,
+        "title": "الإشبين",
+        "original_title": "The Best Man",
+        "overview": "تدور احداث الفيلم حول مرتزقة يستولى على فندق بعيد خلال حفل زفاف ، والأمر بيد أقرب صديق للعريس، وصديق العائلة المقرب الثمل لإيقاف الإرهابيين وإنقاذ الرهان.",
+        "poster_path": "/c9f6mFZqkyz4AD0sxGmynE1pe0v.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "popularity": 2.7013,
+        "release_date": "2023-04-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.022,
+        "vote_count": 136
+      }
+    ],
+    "total_pages": 50,
+    "total_results": 997
+  },
+  "watch/providers": {
+    "results": {
+      "AR": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 2
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/movie/1599993-animales/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  }
+}

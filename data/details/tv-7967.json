@@ -1,0 +1,470 @@
+{
+  "adult": false,
+  "backdrop_path": "/lrKyCG1DSJHvpJsw7YozU3e4ydV.jpg",
+  "created_by": [],
+  "episode_run_time": [],
+  "first_air_date": "2008-09-08",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "أخبار"
+    },
+    {
+      "id": 10767,
+      "name": "حوار"
+    }
+  ],
+  "homepage": "https://www.msnbc.com/rachel-maddow-show",
+  "id": 7967,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-08-24",
+  "last_episode_to_air": {
+    "id": 7692784,
+    "name": "الحلقة 36",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-07",
+    "episode_number": 36,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 19,
+    "show_id": 7967,
+    "still_path": null
+  },
+  "name": "The Rachel Maddow Show",
+  "next_episode_to_air": {
+    "id": 7692785,
+    "name": "الحلقة 37",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-14",
+    "episode_number": 37,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 42,
+    "season_number": 19,
+    "show_id": 7967,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 37,
+      "logo_path": "/tK9acpEuJgVLDTmnd6rdCsDYP0E.png",
+      "name": "MSNBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 8703,
+      "logo_path": "/c0gqBI9q8ayIKRQD5mwUKvev7j2.png",
+      "name": "MS NOW",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 2604,
+  "number_of_seasons": 19,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "The Rachel Maddow Show",
+  "overview": "",
+  "popularity": 130.4047,
+  "poster_path": "/7Jzrp2piY29h8UgA2hEXsxCskt1.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-03-06",
+      "episode_count": 34,
+      "id": 115916,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-09-08",
+      "episode_count": 81,
+      "id": 296644,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-05",
+      "episode_count": 257,
+      "id": 521937,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 258,
+      "id": 493967,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 258,
+      "id": 493968,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 259,
+      "id": 493969,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 260,
+      "id": 493970,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 257,
+      "id": 493972,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 256,
+      "id": 493973,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 251,
+      "id": 493974,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 250,
+      "id": 493976,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-02",
+      "episode_count": 247,
+      "id": 107195,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 250,
+      "id": 164266,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-02",
+      "episode_count": 224,
+      "id": 164267,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-04",
+      "episode_count": 247,
+      "id": 193425,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-03",
+      "episode_count": 133,
+      "id": 238176,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 52,
+      "id": 322668,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-08",
+      "episode_count": 46,
+      "id": 377637,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 112,
+      "id": 437838,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/oYHo9nWuF7P2eIfU2y1Zg69IJJ.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-05",
+      "episode_count": 52,
+      "id": 493957,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 5.9,
+  "vote_count": 30,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 451844,
+        "known_for_department": "Acting",
+        "name": "Rachel Maddow",
+        "original_name": "Rachel Maddow",
+        "popularity": 2.3874,
+        "profile_path": "/a5VyrKJVzFiUUVkiLc6a3NTiEgl.jpg",
+        "character": "Self - Hostess",
+        "credit_id": "5c46b96c92514105c14d20f1",
+        "order": 0
+      }
+    ],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {}
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/n1yKf2VV9niUmsDK3oOuw5P8vte.jpg",
+        "id": 651,
+        "name": "60 دقيقة",
+        "original_name": "60 Minutes",
+        "overview": "برنامج تلفزيوني تحقيقي أمريكي، يعرض على قناة CBS الأمريكية منذ 24 سبتمبر 1968. يعد من أول برامج المجلات الإخبارية التلفزيونية (newsmagazine).",
+        "poster_path": "/vDlT8YU1pF8z37RfNaCOyJ5uO7l.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10763
+        ],
+        "popularity": 54.1828,
+        "first_air_date": "1968-09-24",
+        "softcore": false,
+        "vote_average": 6.5,
+        "vote_count": 84,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qFfWFwfaEHzDLWLuttWiYq7Poy2.jpg",
+        "id": 2261,
+        "name": "The Tonight Show Starring Johnny Carson",
+        "original_name": "The Tonight Show Starring Johnny Carson",
+        "overview": "The Tonight Show Starring Johnny Carson is a talk show hosted by Johnny Carson under The Tonight Show franchise from 1962 to 1992. It originally aired during late-night. For its first ten years, Carson's Tonight Show was based in New York City with occasional trips to Burbank, California; in May 1972, the show moved permanently to Burbank, California. In 2002, The Tonight Show Starring Johnny Carson was ranked #12 on TV Guide's 50 Greatest TV Shows of All Time.",
+        "poster_path": "/uSvET5YUvHNDIeoCpErrbSmasFb.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 215.6306,
+        "first_air_date": "1962-10-01",
+        "softcore": false,
+        "vote_average": 7.536,
+        "vote_count": 96,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2ze7svJECVkbEYSRqQQjwmy8lwG.jpg",
+        "id": 1738,
+        "name": "60 Minutes Australia",
+        "original_name": "60 Minutes Australia",
+        "overview": "60 Minutes, an Australian version of the U.S. television newsmagazine 60 Minutes, airs on Sunday nights on the Nine Network and is presented in much the same way as the American program on which it is based. The New Zealand version of the show has also featured segments of the Australian version.\n\nGerald Stone, the founding executive producer, was given the job by Kerry Packer and was told: \"I don't give a f... what it takes. Just do it and get it right.\" After the first episode was broadcast on 11 February 1979, Packer was less than impressed, telling Stone: \"You've blown it, son. You better fix it fast.\" Over the years, Stone's award winning 60 Minutes revolutionised Australian current affairs reporting and enhanced the careers of Ray Martin, Ian Leslie, George Negus, and later Jana Wendt.\n\nSince it was first broadcast, 60 Minutes has won five Silver Logies, one Special Achievement Logie, and received nominations for a further six Logie awards.",
+        "poster_path": "/cRqVCZPAzaerPv4ysDrXdkyXZ8M.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10763
+        ],
+        "popularity": 21.2549,
+        "first_air_date": "1979-02-11",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 21,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fvNn1mQS4ecSph1QVSpKCQNyh47.jpg",
+        "id": 9890,
+        "name": "The Dick Cavett Show",
+        "original_name": "The Dick Cavett Show",
+        "overview": "The Dick Cavett Show has been the title of several talk shows hosted by Dick Cavett on various television networks.",
+        "poster_path": "/uDkndfnwbEGeSY4YmZbTRg4U5RQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 23.6326,
+        "first_air_date": "1968-06-06",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 22,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/s6ed2W9N7a3zz216ZbHtWSWxWG5.jpg",
+        "id": 4020,
+        "name": "8 Out of 10 Cats",
+        "original_name": "8 Out of 10 Cats",
+        "overview": "A weekly, topical panel show based around a huge series of opinion poll surveys carried out around Britain.",
+        "poster_path": "/1v9PXvumKXZT9AKzNjqdAADNPKS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 22.8256,
+        "first_air_date": "2005-06-03",
+        "softcore": false,
+        "vote_average": 7.209,
+        "vote_count": 55,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eFQHW9fJL1NsK6aMVTVKQMnZ0nZ.jpg",
+        "id": 98069,
+        "name": "Crisis Aftermath",
+        "original_name": "Crisis Aftermath",
+        "overview": "Join Kevin Smith as he takes you into one of the greatest crossover events in television history.",
+        "poster_path": "/kaCjmS5tyAcfCrcdKuqxQ1CwvZ9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 1.9553,
+        "first_air_date": "2019-12-08",
+        "softcore": false,
+        "vote_average": 8.145,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 6
+  }
+}

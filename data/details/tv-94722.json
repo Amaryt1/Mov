@@ -1,0 +1,1324 @@
+{
+  "adult": false,
+  "backdrop_path": "/jWXrQstj7p3Wl5MfYWY6IHqRpDb.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    15
+  ],
+  "first_air_date": "1952-12-26",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "أخبار"
+    }
+  ],
+  "homepage": "https://www.tagesschau.de/",
+  "id": 94722,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2026-03-04",
+  "last_episode_to_air": {
+    "id": 6955585,
+    "name": "الحلقة 57",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-03-04",
+    "episode_number": 57,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 75,
+    "show_id": 94722,
+    "still_path": null
+  },
+  "name": "Tagesschau",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 308,
+      "logo_path": "/nGl2dDGonksWY4fTzPPdkK3oNyq.png",
+      "name": "Das Erste",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 21352,
+  "number_of_seasons": 75,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Tagesschau",
+  "overview": "",
+  "popularity": 390.697,
+  "poster_path": "/7dFZJ2ZJJdcmkp05B9NWlqTJ5tq.jpg",
+  "production_companies": [
+    {
+      "id": 7201,
+      "logo_path": "/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png",
+      "name": "NDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1952-12-26",
+      "episode_count": 6,
+      "id": 134441,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/lEOhLYxSlqYcAlSSunb0fbXkKM5.jpg",
+      "season_number": 1,
+      "vote_average": 3.5
+    },
+    {
+      "air_date": "1953-01-01",
+      "episode_count": 1,
+      "id": 170277,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/irxJNLAXFNwkoARq62Aj4MBRxoG.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1954-01-01",
+      "episode_count": 1,
+      "id": 170278,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/1rltcJ60qGJhCVavjLxU6pnBgda.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1955-01-01",
+      "episode_count": 1,
+      "id": 170279,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/efXlmRCWwvJgeTyVrbMGkiTQdKw.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1956-01-01",
+      "episode_count": 1,
+      "id": 170280,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/dXEXqPsyzKmXf055cX4EQxaAkpU.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1957-01-01",
+      "episode_count": 1,
+      "id": 170281,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/1yli38KN1RlPWbf6PFacEYvynjx.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1958-01-01",
+      "episode_count": 1,
+      "id": 170282,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/29RPG4xnaELzYygPEhcrirywMpg.jpg",
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1959-01-01",
+      "episode_count": 1,
+      "id": 170283,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/3SqVCtdjuWZMiZCJiDKePelxeiU.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1960-01-01",
+      "episode_count": 1,
+      "id": 170284,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/cYWhJUTOLhG3vy7esupVjObD9Qj.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1961-01-01",
+      "episode_count": 1,
+      "id": 170285,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/dxKp1LGNuRhIS8gTAiDfa1VKEYc.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1962-01-01",
+      "episode_count": 1,
+      "id": 170286,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/ujnEVEtl5TZRUyYL33CHhUFxir3.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1963-01-01",
+      "episode_count": 1,
+      "id": 170287,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/z4FdJH8QIFMkcr3vNSxxGjeB4WM.jpg",
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1964-01-01",
+      "episode_count": 1,
+      "id": 170288,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/tC4hRgLakMBzB85JgpKG7fCohYU.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1965-01-01",
+      "episode_count": 1,
+      "id": 170289,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/oAO67W18ttbvZE0OYaDHb5rsWc7.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1966-01-01",
+      "episode_count": 1,
+      "id": 170290,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/eBIZQAnb0o1aloNmoPoNKZX8fCf.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1967-01-01",
+      "episode_count": 365,
+      "id": 170291,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/lUAhQNO8bzjQP7wd1o10EuhGTNV.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1968-01-01",
+      "episode_count": 366,
+      "id": 170292,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/5AM8lpT176wJydmdOJcIn1HMaH0.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1969-01-01",
+      "episode_count": 365,
+      "id": 170293,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/q8UmYymc9ZvyphASxjzZyGQ9eEA.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1970-01-01",
+      "episode_count": 365,
+      "id": 170294,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/2EcTKYF3gJBLNkw9WDoWd8G8G19.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1971-01-01",
+      "episode_count": 365,
+      "id": 170295,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/9xb0D64IJ2wBfRiuJVbV1UOAUki.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-01-01",
+      "episode_count": 366,
+      "id": 170296,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/vK8Q2G8O7UBQkixUboAr4jpgx0T.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-01-01",
+      "episode_count": 365,
+      "id": 170297,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/zNaXZquXXCTuH5xFnuP25Z1oeBq.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-01",
+      "episode_count": 365,
+      "id": 170298,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/z4HZVlRkttSqvqaT0Yrbw6u3Lgv.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-01",
+      "episode_count": 365,
+      "id": 170299,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/5Q3etzc9zNcIoNlJfypw5JkrbeE.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-01-01",
+      "episode_count": 366,
+      "id": 170300,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/mWc6kgXPVhktOh10piIgtupMzpE.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-01",
+      "episode_count": 365,
+      "id": 170301,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": "/3bEcwyhLm4XXzMa7mtRdnx0aRK7.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-01",
+      "episode_count": 365,
+      "id": 170302,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": "/fjS4j2C8XcLsWX7RjvNLXPcC5q6.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-01",
+      "episode_count": 365,
+      "id": 170303,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": "/aQECejNWupivGSks0sY39E79APg.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-01",
+      "episode_count": 366,
+      "id": 170304,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": "/1Prmqai0IHTESy0287PFhS43iHU.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-01",
+      "episode_count": 365,
+      "id": 170305,
+      "name": "الموسم 30",
+      "overview": "",
+      "poster_path": "/L8aq3NI5LqpmYUcBLZjVokIdex.jpg",
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-01",
+      "episode_count": 365,
+      "id": 170306,
+      "name": "الموسم 31",
+      "overview": "",
+      "poster_path": "/sV0Ajdw80UwoCTaUvUU0rB0Ctaf.jpg",
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-01",
+      "episode_count": 365,
+      "id": 170307,
+      "name": "الموسم 32",
+      "overview": "",
+      "poster_path": "/1DKgb0bPmaYk9q3ZNCQlvuL7N6k.jpg",
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-01",
+      "episode_count": 366,
+      "id": 170308,
+      "name": "الموسم 33",
+      "overview": "",
+      "poster_path": "/b8DGfCh3hivg0TyJPGScUgAGL5d.jpg",
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-01",
+      "episode_count": 365,
+      "id": 170309,
+      "name": "الموسم 34",
+      "overview": "",
+      "poster_path": "/hntwDFaqNPdIr1qcntas7lN0jQP.jpg",
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-01",
+      "episode_count": 365,
+      "id": 170310,
+      "name": "الموسم 35",
+      "overview": "",
+      "poster_path": "/wcuXSYQNa1j79FR7OUBGul03NmK.jpg",
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-01",
+      "episode_count": 365,
+      "id": 170311,
+      "name": "الموسم 36",
+      "overview": "",
+      "poster_path": "/nnIr3mJNvDd25QYNgS639mjzDva.jpg",
+      "season_number": 36,
+      "vote_average": 10
+    },
+    {
+      "air_date": "1988-01-01",
+      "episode_count": 366,
+      "id": 170312,
+      "name": "الموسم 37",
+      "overview": "",
+      "poster_path": "/aVWVbZkO1MEE9lgnZCap83JtAD0.jpg",
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-01",
+      "episode_count": 365,
+      "id": 170313,
+      "name": "الموسم 38",
+      "overview": "",
+      "poster_path": "/rUrwedb18bv15C82YxXWkVDpC0E.jpg",
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-01",
+      "episode_count": 365,
+      "id": 170314,
+      "name": "الموسم 39",
+      "overview": "",
+      "poster_path": "/kLF3KAbDhkFO4Mc1SFWMAU8dT7d.jpg",
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-01",
+      "episode_count": 365,
+      "id": 170315,
+      "name": "الموسم 40",
+      "overview": "",
+      "poster_path": "/mf3iRRLUEJrwsM5bU6Px2rN2WdV.jpg",
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-01",
+      "episode_count": 366,
+      "id": 170316,
+      "name": "الموسم 41",
+      "overview": "",
+      "poster_path": "/7dAkMFUI7D0GvP6LA9aOHXM3qIl.jpg",
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-01",
+      "episode_count": 365,
+      "id": 170317,
+      "name": "الموسم 42",
+      "overview": "",
+      "poster_path": "/AvLRNvuLFfD13KlCH6mhFtSZu5A.jpg",
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-01",
+      "episode_count": 365,
+      "id": 170318,
+      "name": "الموسم 43",
+      "overview": "",
+      "poster_path": "/gWT0DUce5tH6PBXYPXLd9gT5Trn.jpg",
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-01",
+      "episode_count": 365,
+      "id": 170319,
+      "name": "الموسم 44",
+      "overview": "",
+      "poster_path": "/ulNoJxJLobvyHEStNb1mfTA6t2d.jpg",
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 366,
+      "id": 170320,
+      "name": "الموسم 45",
+      "overview": "",
+      "poster_path": "/yuOFRDtKlbirc19u4fuTKFaVTX.jpg",
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-01",
+      "episode_count": 365,
+      "id": 170321,
+      "name": "الموسم 46",
+      "overview": "",
+      "poster_path": "/xnnusmryTKLwrPv4L13PbAvQW8a.jpg",
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-01",
+      "episode_count": 365,
+      "id": 170322,
+      "name": "الموسم 47",
+      "overview": "",
+      "poster_path": "/P1tgezvaWD7XRSuvBXof8VBOqe.jpg",
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-01",
+      "episode_count": 365,
+      "id": 170323,
+      "name": "الموسم 48",
+      "overview": "",
+      "poster_path": "/mgwzR0kh5gESF735L1RnFI4LBCQ.jpg",
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-01",
+      "episode_count": 366,
+      "id": 170324,
+      "name": "الموسم 49",
+      "overview": "",
+      "poster_path": "/cGdW1nIGpGxKqWpStk6jdHcVxBl.jpg",
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 365,
+      "id": 170325,
+      "name": "الموسم 50",
+      "overview": "",
+      "poster_path": "/tSsU3MBeHDIc2eBJXGpj55h9Cb9.jpg",
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 365,
+      "id": 170326,
+      "name": "الموسم 51",
+      "overview": "",
+      "poster_path": "/pqPI01dhU1sBuS9AaQV2j51gQmY.jpg",
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 365,
+      "id": 170327,
+      "name": "الموسم 52",
+      "overview": "",
+      "poster_path": "/vKnO8vuXtOwk5woCB7xNLUAyiNa.jpg",
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 366,
+      "id": 170328,
+      "name": "الموسم 53",
+      "overview": "",
+      "poster_path": "/963AZmFZ2O6XgEe6pAhPb6MtcIL.jpg",
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 365,
+      "id": 170329,
+      "name": "الموسم 54",
+      "overview": "",
+      "poster_path": "/zm7cevbKSwgB1QZTTR9OJMmuQoC.jpg",
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-01",
+      "episode_count": 365,
+      "id": 170330,
+      "name": "الموسم 55",
+      "overview": "",
+      "poster_path": "/ssLsnZCrhfHdUAMOhlJePgUudgq.jpg",
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 365,
+      "id": 170331,
+      "name": "الموسم 56",
+      "overview": "",
+      "poster_path": "/paXDiaj53sFZZ2qatzus5UkuwMa.jpg",
+      "season_number": 56,
+      "vote_average": 8
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 366,
+      "id": 170332,
+      "name": "الموسم 57",
+      "overview": "",
+      "poster_path": "/q7d9AFjCxcufTcVHW1zSOHGkQWl.jpg",
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 365,
+      "id": 170333,
+      "name": "الموسم 58",
+      "overview": "",
+      "poster_path": "/a4AGwp7UfzlC6P6i6zwWNfvRDcb.jpg",
+      "season_number": 58,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 365,
+      "id": 170334,
+      "name": "الموسم 59",
+      "overview": "",
+      "poster_path": "/aKMkj0hjVp65Pn47zgdD28HXd6Z.jpg",
+      "season_number": 59,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-01",
+      "episode_count": 365,
+      "id": 170335,
+      "name": "الموسم 60",
+      "overview": "",
+      "poster_path": "/zcV7amrmdowNxad0OtuPNgK58LK.jpg",
+      "season_number": 60,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-01",
+      "episode_count": 366,
+      "id": 170336,
+      "name": "الموسم 61",
+      "overview": "",
+      "poster_path": "/fdUEY5ZG65uyPUI7NZfWKUMkA5E.jpg",
+      "season_number": 61,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 365,
+      "id": 170337,
+      "name": "الموسم 62",
+      "overview": "",
+      "poster_path": "/cEqDDPZy8ixeC2xGKSAsdnXItia.jpg",
+      "season_number": 62,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 365,
+      "id": 170338,
+      "name": "الموسم 63",
+      "overview": "",
+      "poster_path": "/jPYS4475MKauMDGFMmzpPUm6mIt.jpg",
+      "season_number": 63,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 365,
+      "id": 170339,
+      "name": "الموسم 64",
+      "overview": "",
+      "poster_path": "/kChxTruYOX76zmRP8mrANbq30yC.jpg",
+      "season_number": 64,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 366,
+      "id": 170340,
+      "name": "الموسم 65",
+      "overview": "",
+      "poster_path": "/fYUES0AeaN5Kw88ZRGlIpqGYlW8.jpg",
+      "season_number": 65,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-01",
+      "episode_count": 365,
+      "id": 170341,
+      "name": "الموسم 66",
+      "overview": "",
+      "poster_path": "/tceLH5bcBXVEXUZzdjGkDJJoo9b.jpg",
+      "season_number": 66,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 365,
+      "id": 170342,
+      "name": "الموسم 67",
+      "overview": "",
+      "poster_path": "/w4GgThRplEFX8L3unETiZb8wgRw.jpg",
+      "season_number": 67,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 365,
+      "id": 170343,
+      "name": "الموسم 68",
+      "overview": "",
+      "poster_path": "/v7q2U0vxMxUkjMXQExiIIZGqTBY.jpg",
+      "season_number": 68,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 366,
+      "id": 170344,
+      "name": "الموسم 69",
+      "overview": "",
+      "poster_path": "/ooAAgXmRyVvCotda2fmwBjqEfA6.jpg",
+      "season_number": 69,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 365,
+      "id": 174386,
+      "name": "الموسم 70",
+      "overview": "",
+      "poster_path": "/ryQwRK3f6K06UJuMK9oVH1WhZdA.jpg",
+      "season_number": 70,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-01",
+      "episode_count": 365,
+      "id": 345700,
+      "name": "الموسم 71",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 71,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-01",
+      "episode_count": 365,
+      "id": 345701,
+      "name": "الموسم 72",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 72,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 366,
+      "id": 374259,
+      "name": "الموسم 73",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 73,
+      "vote_average": 1
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 128,
+      "id": 445079,
+      "name": "الموسم 74",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 74,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-01",
+      "episode_count": 19,
+      "id": 496917,
+      "name": "الموسم 75",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 75,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 6.768,
+  "vote_count": 256,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {}
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/lNqsolPU1DZc61JduQm5l0buoNS.jpg",
+        "id": 4026,
+        "name": "CBS News Sunday Morning",
+        "original_name": "CBS News Sunday Morning",
+        "overview": "The sparkling notes of a trumpet fanfare and the familiar logo of the sun alert viewers that it's time for CBS's Sunday morning staple. Journalist Jane Pauley helms the show, taking over hosting duties from Charles Osgood, who spent 22 years on the job. A morning talk show, this program airs at a different pace and focuses much of its attention on the performing arts. After a quick update of the day's news and national weather, correspondents offer longer-length segments on a variety of topics, from architecture to ballet to music to pop culture to politics.",
+        "poster_path": "/g9pLy4LCj8u9dDLrNlCGwlVFMBH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10763
+        ],
+        "popularity": 62.0482,
+        "first_air_date": "1979-01-28",
+        "softcore": false,
+        "vote_average": 6.792,
+        "vote_count": 24,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 1
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/dGLkz4vPwqsXoe6Nh9L2MOWWW0.jpg",
+        "genre_ids": [
+          10763,
+          10767
+        ],
+        "id": 556,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Good Morning America",
+        "overview": "",
+        "popularity": 26.8456,
+        "poster_path": "/axm2r80XQQD8EAKLVJ02n53NP5z.jpg",
+        "first_air_date": "1975-01-06",
+        "softcore": false,
+        "name": "Good Morning America",
+        "vote_average": 4.9,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10767,
+          10764,
+          35,
+          10763
+        ],
+        "id": 238828,
+        "origin_country": [
+          "SE"
+        ],
+        "original_language": "sv",
+        "original_name": "Då är vi igång",
+        "overview": "",
+        "popularity": 2.8672,
+        "poster_path": null,
+        "first_air_date": "2021-09-23",
+        "softcore": false,
+        "name": "Då är vi igång",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n1yKf2VV9niUmsDK3oOuw5P8vte.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 651,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "60 Minutes",
+        "overview": "برنامج تلفزيوني تحقيقي أمريكي، يعرض على قناة CBS الأمريكية منذ 24 سبتمبر 1968. يعد من أول برامج المجلات الإخبارية التلفزيونية (newsmagazine).",
+        "popularity": 54.1828,
+        "poster_path": "/vDlT8YU1pF8z37RfNaCOyJ5uO7l.jpg",
+        "first_air_date": "1968-09-24",
+        "softcore": false,
+        "name": "60 دقيقة",
+        "vote_average": 6.5,
+        "vote_count": 84
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          99,
+          10763
+        ],
+        "id": 1619,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "See It Now",
+        "overview": "",
+        "popularity": 0.9997,
+        "poster_path": "/dJkJQ0W9WKhNXu7WAw8bYcfFzNs.jpg",
+        "first_air_date": "1951-11-18",
+        "softcore": false,
+        "name": "See It Now",
+        "vote_average": 7.25,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/RDFXwFdDLhOJ1Nmi0GSU7mWtOT.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 1655,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "PBS News Hour",
+        "overview": "",
+        "popularity": 27.8506,
+        "poster_path": "/1IOCTC4SQk8N4cBwzjq9Zve8b9E.jpg",
+        "first_air_date": "1975-10-20",
+        "softcore": false,
+        "name": "PBS News Hour",
+        "vote_average": 5.7,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2ze7svJECVkbEYSRqQQjwmy8lwG.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 1738,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "60 Minutes Australia",
+        "overview": "",
+        "popularity": 21.2549,
+        "poster_path": "/cRqVCZPAzaerPv4ysDrXdkyXZ8M.jpg",
+        "first_air_date": "1979-02-11",
+        "softcore": false,
+        "name": "60 Minutes Australia",
+        "vote_average": 6.8,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vgzTeyvBTumK2JrByrDTs65yhsd.jpg",
+        "genre_ids": [
+          10763,
+          10768
+        ],
+        "id": 1975,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "This Week",
+        "overview": "",
+        "popularity": 11.9094,
+        "poster_path": "/6PeM4uf6I839nidogcxMlE6XLck.jpg",
+        "first_air_date": "1981-11-15",
+        "softcore": false,
+        "name": "This Week",
+        "vote_average": 9,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tj4jDer9xNy46yc0GKcAjrsMVSW.jpg",
+        "genre_ids": [
+          10767,
+          10763
+        ],
+        "id": 126517,
+        "origin_country": [
+          "CL"
+        ],
+        "original_language": "es",
+        "original_name": "Estado nacional",
+        "overview": "",
+        "popularity": 11.9514,
+        "poster_path": "/sAkZ8Nw3NH65ZyoPn2nhyRcM4bI.jpg",
+        "first_air_date": "2006-09-10",
+        "softcore": false,
+        "name": "Estado nacional",
+        "vote_average": 2,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bcKWJG13gWoiJgzG0QLZmAszO35.jpg",
+        "genre_ids": [
+          10763,
+          10767,
+          10768
+        ],
+        "id": 93543,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Brexitcast",
+        "overview": "",
+        "popularity": 1.3871,
+        "poster_path": "/gD6wIKg0zEwCT1xRmyocUDcXC0b.jpg",
+        "first_air_date": "2019-09-12",
+        "softcore": false,
+        "name": "Brexitcast",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ftSFCPImcUqafkgvt07Z03XKTbH.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 2441,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Tonight",
+        "overview": "",
+        "popularity": 18.5026,
+        "poster_path": "/fuQF9F1AKQfIiLoheLhtD8OvKjB.jpg",
+        "first_air_date": "1999-04-08",
+        "softcore": false,
+        "name": "Tonight",
+        "vote_average": 6,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          10763
+        ],
+        "id": 30920,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Russell Howard's Good News",
+        "overview": "",
+        "popularity": 5.1988,
+        "poster_path": "/iDgDEoUGgn3TItWUx1Y1adaEGnn.jpg",
+        "first_air_date": "2009-10-22",
+        "softcore": false,
+        "name": "Russell Howard's Good News",
+        "vote_average": 7.039,
+        "vote_count": 38
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8L2fUOfWtHvflNF7xpeUxjnVEvh.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 3174,
+        "origin_country": [
+          "AU"
+        ],
+        "original_language": "en",
+        "original_name": "A Current Affair",
+        "overview": "",
+        "popularity": 4.5752,
+        "poster_path": "/jlpzaamUs35hCYteqF1o1tfvl9A.jpg",
+        "first_air_date": "1971-11-22",
+        "softcore": false,
+        "name": "A Current Affair",
+        "vote_average": 7.333,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3lUiaEvom2dDPgjJPiBaqSwCTkI.jpg",
+        "genre_ids": [
+          10763,
+          10767
+        ],
+        "id": 209415,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Sunday with Laura Kuenssberg",
+        "overview": "",
+        "popularity": 18.1264,
+        "poster_path": "/le6vaFe9E0en3znFhy8eFhP3DQV.jpg",
+        "first_air_date": "2022-09-04",
+        "softcore": false,
+        "name": "Sunday with Laura Kuenssberg",
+        "vote_average": 2.8,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gWTNhs5cwr0oG8sIWOf5pGOUhNz.jpg",
+        "genre_ids": [
+          10763,
+          10767
+        ],
+        "id": 127911,
+        "origin_country": [
+          "CL"
+        ],
+        "original_language": "es",
+        "original_name": "Mesa central",
+        "overview": "",
+        "popularity": 6.8908,
+        "poster_path": "/60MOZlloxWdfbxYx919GlC5J14R.jpg",
+        "first_air_date": "2018-03-25",
+        "softcore": false,
+        "name": "Mesa central",
+        "vote_average": 4.4,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10763
+        ],
+        "id": 128203,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Indisputable with Dr. Rashad Richey",
+        "overview": "",
+        "popularity": 3.1833,
+        "poster_path": "/nuEzvbpTIhRVGTliUkQeBLNllTu.jpg",
+        "first_air_date": "2021-06-07",
+        "softcore": false,
+        "name": "Indisputable with Dr. Rashad Richey",
+        "vote_average": 4.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10763
+        ],
+        "id": 241133,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "The Way It Is",
+        "overview": "",
+        "popularity": 1.0344,
+        "poster_path": "/f0U8AnqgPYNfszpAATzDRh25nnE.jpg",
+        "first_air_date": "1967-09-01",
+        "softcore": false,
+        "name": "The Way It Is",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10763,
+          10767
+        ],
+        "id": 242360,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Dinosaur Hour",
+        "overview": "",
+        "popularity": 1.0517,
+        "poster_path": "/7XWh4u4f07pR3WCfyNJu1EhrPIE.jpg",
+        "first_air_date": "2023-10-29",
+        "softcore": false,
+        "name": "The Dinosaur Hour",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uTgOA2xhQZP1OnSwEaJ3TAu5UZn.jpg",
+        "genre_ids": [
+          10767,
+          10763
+        ],
+        "id": 129911,
+        "origin_country": [
+          "CL"
+        ],
+        "original_language": "es",
+        "original_name": "El informante",
+        "overview": "",
+        "popularity": 9.3124,
+        "poster_path": "/vwYGFWxHyGcG2tdbZ2z4FkDej7I.jpg",
+        "first_air_date": "2013-04-16",
+        "softcore": false,
+        "name": "El informante",
+        "vote_average": 3.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wAvgxpgqhthNpvaneBHh71CzcFZ.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 281215,
+        "origin_country": [
+          "BE"
+        ],
+        "original_language": "fr",
+        "original_name": "Rendez-vous",
+        "overview": "",
+        "popularity": 2.0194,
+        "poster_path": "/cL8e4o0raDT3Gtf11tRDQlAlKfA.jpg",
+        "first_air_date": "2024-01-14",
+        "softcore": false,
+        "name": "Rendez-vous",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10767,
+          10764,
+          10763
+        ],
+        "id": 69043,
+        "origin_country": [
+          "DE"
+        ],
+        "original_language": "de",
+        "original_name": "HYPE - Das Selfie-Magazin",
+        "overview": "",
+        "popularity": 1.4791,
+        "poster_path": null,
+        "first_air_date": "2016-05-30",
+        "softcore": false,
+        "name": "HYPE - Das Selfie-Magazin",
+        "vote_average": 2,
+        "vote_count": 1
+      }
+    ],
+    "total_pages": 115,
+    "total_results": 2293
+  }
+}

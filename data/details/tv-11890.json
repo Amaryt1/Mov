@@ -1,0 +1,947 @@
+{
+  "adult": false,
+  "backdrop_path": "/hlVfglhjnlCP5tp8hFvTQKQVaMp.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    30
+  ],
+  "first_air_date": "1990-10-01",
+  "genres": [
+    {
+      "id": 10766,
+      "name": "أوبرا صابونية"
+    }
+  ],
+  "homepage": "http://www.rtl.nl/soaps/gtst/",
+  "id": 11890,
+  "in_production": true,
+  "languages": [
+    "nl"
+  ],
+  "last_air_date": "2026-07-09",
+  "last_episode_to_air": {
+    "id": 7438603,
+    "name": "الحلقة 6",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-08",
+    "episode_number": 6,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 37,
+    "show_id": 11890,
+    "still_path": null
+  },
+  "name": "Goede Tijden, Slechte Tijden",
+  "next_episode_to_air": {
+    "id": 7438604,
+    "name": "الحلقة 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-09",
+    "episode_number": 7,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 37,
+    "show_id": 11890,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 274,
+      "logo_path": "/jJnRnPYp49BrUC44hrtwqGNkaQw.png",
+      "name": "RTL 4",
+      "origin_country": "NL"
+    },
+    {
+      "id": 1334,
+      "logo_path": "/Ov29JztLk1yyMVe1FeuknzDYbL.png",
+      "name": "Videoland",
+      "origin_country": "NL"
+    }
+  ],
+  "number_of_episodes": 7325,
+  "number_of_seasons": 37,
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_name": "Goede Tijden, Slechte Tijden",
+  "overview": "",
+  "popularity": 152.3205,
+  "poster_path": "/p1oXgtJ0q0wAcEp3tHA5DpiynxL.jpg",
+  "production_companies": [
+    {
+      "id": 66389,
+      "logo_path": "/ewSYWqmrOst8pEyFu1w2dG0EP9T.png",
+      "name": "Endemol",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2021-08-19",
+      "episode_count": 8,
+      "id": 202135,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-10-01",
+      "episode_count": 195,
+      "id": 22545,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-09-16",
+      "episode_count": 185,
+      "id": 22551,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-09-21",
+      "episode_count": 180,
+      "id": 184916,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-08-30",
+      "episode_count": 190,
+      "id": 184917,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 7
+    },
+    {
+      "air_date": "1994-08-29",
+      "episode_count": 195,
+      "id": 184918,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-08-28",
+      "episode_count": 200,
+      "id": 184919,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-08-26",
+      "episode_count": 200,
+      "id": 184920,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-09-01",
+      "episode_count": 195,
+      "id": 184921,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-08-31",
+      "episode_count": 195,
+      "id": 184922,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-09-06",
+      "episode_count": 200,
+      "id": 184923,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-09-04",
+      "episode_count": 195,
+      "id": 184924,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-08-27",
+      "episode_count": 220,
+      "id": 184925,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-09-02",
+      "episode_count": 215,
+      "id": 184926,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-09-01",
+      "episode_count": 215,
+      "id": 184927,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-08-30",
+      "episode_count": 215,
+      "id": 184928,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-08-29",
+      "episode_count": 215,
+      "id": 184929,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-08-28",
+      "episode_count": 220,
+      "id": 184930,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-08-27",
+      "episode_count": 215,
+      "id": 22546,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-08-25",
+      "episode_count": 225,
+      "id": 22547,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-09-07",
+      "episode_count": 215,
+      "id": 22548,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-09-06",
+      "episode_count": 220,
+      "id": 22549,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-09-05",
+      "episode_count": 220,
+      "id": 22550,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-09-03",
+      "episode_count": 220,
+      "id": 22552,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-02",
+      "episode_count": 220,
+      "id": 22554,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/elM5dPtQUmLyaPIYrvoFgTBgPte.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-09-01",
+      "episode_count": 220,
+      "id": 70380,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-08-31",
+      "episode_count": 220,
+      "id": 70381,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-09-05",
+      "episode_count": 220,
+      "id": 184932,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-09-04",
+      "episode_count": 220,
+      "id": 184934,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-09-03",
+      "episode_count": 220,
+      "id": 184935,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-26",
+      "episode_count": 190,
+      "id": 184936,
+      "name": "الموسم 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-08-31",
+      "episode_count": 180,
+      "id": 184937,
+      "name": "الموسم 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-08-30",
+      "episode_count": 180,
+      "id": 206595,
+      "name": "الموسم 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-08-29",
+      "episode_count": 160,
+      "id": 306804,
+      "name": "الموسم 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-08-28",
+      "episode_count": 160,
+      "id": 349236,
+      "name": "الموسم 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-08-26",
+      "episode_count": 180,
+      "id": 402446,
+      "name": "الموسم 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 180,
+      "id": 462773,
+      "name": "الموسم 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-08-31",
+      "episode_count": 30,
+      "id": 525652,
+      "name": "الموسم 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 5.3,
+  "vote_count": 21,
+  "watch/providers": {
+    "results": {
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/11890-goede-tijden-slechte-tijden/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/3IdfSLRjSoDoo9lrpvX4oxZmnVi.png",
+            "provider_id": 72,
+            "provider_name": "Videoland",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/jY3kxKfekzgpEDtghtK9elh4G6T.png",
+            "provider_id": 472,
+            "provider_name": "NLZIET",
+            "display_priority": 22
+          }
+        ]
+      }
+    }
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/24plaX4WSNEbqx74MzZBLPwlpBE.jpg",
+        "id": 1054,
+        "name": "The Young and the Restless",
+        "original_name": "The Young and the Restless",
+        "overview": "The rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Baldwin and Winters families.",
+        "poster_path": "/mN3kMuh7Cy9byeySK6pymnpIOZO.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 19.9543,
+        "first_air_date": "1973-03-26",
+        "softcore": false,
+        "vote_average": 7.012,
+        "vote_count": 168,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fmFsm4dq02k2Xxs7M887unPAiXd.jpg",
+        "id": 2883,
+        "name": "Dark Shadows",
+        "original_name": "Dark Shadows",
+        "overview": "Dark Shadows is an American gothic soap opera that originally aired weekdays on the ABC television network, from June 27, 1966, to April 2, 1971. The show was created by Dan Curtis. The story bible, which was written by Art Wallace, does not mention any supernatural elements. It was unprecedented in daytime television when ghosts were introduced about six months after it began.\n\nThe series became hugely popular when vampire Barnabas Collins appeared a year into its run. Dark Shadows also featured werewolves, zombies, man-made monsters, witches, warlocks, time travel, and a parallel universe. A small company of actors each played many roles; indeed, as actors came and went, some characters were played by more than one actor. Major writers besides Art Wallace included Malcolm Marmorstein, Sam Hall, Gordon Russell, and Violet Welles.",
+        "poster_path": "/eRtnI7qTJIiPUmlY3J8TTM3jlT7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10765,
+          10766
+        ],
+        "popularity": 59.8326,
+        "first_air_date": "1966-06-27",
+        "softcore": false,
+        "vote_average": 7.321,
+        "vote_count": 95,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fi3F610zUye8u7HaaGYUGviZTwj.jpg",
+        "id": 2674,
+        "name": "Neighbours",
+        "original_name": "Neighbours",
+        "overview": "Neighbours is an Australian television soap opera.  The show's storylines concern the domestic and professional lives of the people who live and work in Erinsborough, a fictional suburb of Melbourne, Victoria. The series primarily centres around the residents of Ramsay Street, a short cul-de-sac, and its neighbouring areas, the Lassiters complex, which includes a bar, hotel, cafe, news office and park. Neighbours began with three families created by Watson – the Ramsays, the Robinsons and the Clarkes. Watson said that he wanted to show three families who are friends living in a small street. The Robinsons and the Ramsays had a long history and were involved in an ongoing rivalry.",
+        "poster_path": "/bXY78bQsKCIiD17Sr6yO4wLIXqS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18,
+          10751,
+          35
+        ],
+        "popularity": 42.6833,
+        "first_air_date": "1985-03-18",
+        "softcore": false,
+        "vote_average": 6.074,
+        "vote_count": 61,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Mc3flEYVk5u0kZyBHeKMAbmNCM.jpg",
+        "id": 6467,
+        "name": "Chicago Hope",
+        "original_name": "Chicago Hope",
+        "overview": "Chicago Hope is an American medical drama television series, created by David E. Kelley. It ran on CBS from September 18, 1994, to May 4, 2000. The series is set in a fictional private charity hospital in Chicago, Illinois.",
+        "poster_path": "/x8ic33t4NurJul1oXmvKwKtWH28.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 52.2205,
+        "first_air_date": "1994-09-18",
+        "softcore": false,
+        "vote_average": 7.165,
+        "vote_count": 82,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wnyMAP1Xep5BUwTqMq2KBHjRHws.jpg",
+        "id": 1021,
+        "name": "Casualty",
+        "original_name": "Casualty",
+        "overview": "Drama series about the staff and patients at Holby City Hospital's emergency department, charting the ups and downs in their personal and professional lives.",
+        "poster_path": "/ahqMUNIUeGIBQSkShEV32085IFZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 60.2281,
+        "first_air_date": "1986-09-06",
+        "softcore": false,
+        "vote_average": 6.2,
+        "vote_count": 88,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/brYNyCDlPoSskLhupEYMYulyyOB.jpg",
+        "id": 2822,
+        "name": "Felicity",
+        "original_name": "Felicity",
+        "overview": "Felicity Porter, a sensitive and intelligent girl from the San Francisco Bay Area, decides to give up a slot at Stanford University's pre-med program to follow her long time crush to college in New York City. Things get even more complicated when she meets her dorm's resident advisor and they fall in love.",
+        "poster_path": "/i6gZ7fVpLBK3l5FkxCzMtEtT7Bz.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 30.5125,
+        "first_air_date": "1998-09-29",
+        "softcore": false,
+        "vote_average": 6.559,
+        "vote_count": 94,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6Rvq9wwTDyH1k1Qg660KXTknTfG.jpg",
+        "id": 1948,
+        "name": "Degrassi",
+        "original_name": "Degrassi",
+        "overview": "The life of a group of adolescents going through the trials and tribulations of teendom at Degrassi Community School.",
+        "poster_path": "/AfqQ4lZAi9LWyhnHm3VCpm2hLpB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 34.0899,
+        "first_air_date": "2001-10-14",
+        "softcore": false,
+        "vote_average": 7.593,
+        "vote_count": 114,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/FNeJtRUd5XID186SHzjNNneP3f.jpg",
+        "id": 61733,
+        "name": "Empire",
+        "original_name": "Empire",
+        "overview": "A powerful family drama about the head of a music empire whose three sons and ex-wife all battle for his throne.",
+        "poster_path": "/gTrzYR6gWMhQ8yINW9JCLeoJHvf.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 28.6507,
+        "first_air_date": "2015-01-07",
+        "softcore": false,
+        "vote_average": 7.137,
+        "vote_count": 763,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1SUer2UeRe4LFxil6LJo60KoQrX.jpg",
+        "id": 4349,
+        "name": "Melrose Place",
+        "original_name": "Melrose Place",
+        "overview": "Follow the lives of a group of young adults living in a brownstone apartment complex on Melrose Place, in Los Angeles, California.",
+        "poster_path": "/kIc03DwT3DPd48lKlbpyPxx3O1S.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 62.3152,
+        "first_air_date": "1992-07-08",
+        "softcore": false,
+        "vote_average": 5.834,
+        "vote_count": 190,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/Ao5XqVJj74hYWnnEG98MvRLBHdY.jpg",
+        "id": 3769,
+        "name": "Dynasty",
+        "original_name": "Dynasty",
+        "overview": "The saga of a wealthy Denver family in the oil business: Blake Carrington, the patriarch; Krystle, his former secretary and wife; his children: Adam, lost in childhood after a kidnapping; Fallon, pampered and spoiled; Steven, openly gay; and Amanda, hidden from him by his ex-wife, the conniving Alexis. Most of the show features the conflict between 2 large corporations, Blake's Denver Carrington and Alexis' ColbyCo.",
+        "poster_path": "/wxKEdlB4Zuq2THGqKYLnGKU37g9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 43.656,
+        "first_air_date": "1981-01-12",
+        "softcore": false,
+        "vote_average": 6.519,
+        "vote_count": 133,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ofiNBOL7gpuzqXEqWBprF90CtY7.jpg",
+        "id": 2327,
+        "name": "Dawson's Creek",
+        "original_name": "Dawson's Creek",
+        "overview": "Dawson's Creek is an American teen drama that portrays the fictional lives of a close-knit group of teenagers through high school and college.",
+        "poster_path": "/arT93dBemanftfWTcf9I0JRIlxU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 38.9043,
+        "first_air_date": "1998-01-20",
+        "softcore": false,
+        "vote_average": 7.315,
+        "vote_count": 627,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kXNBx6zc25SyL6zVMJZUQAB9Eu7.jpg",
+        "id": 3295,
+        "name": "Soap",
+        "original_name": "Soap",
+        "overview": "The antics of a wealthy family, the Tates, and a working-class family, the Campbells, in the fictional town of Dunn's River, Connecticut.",
+        "poster_path": "/kq2G0SjdVcZnKh5cpq9hp0MKvWL.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10766,
+          18
+        ],
+        "popularity": 12.7332,
+        "first_air_date": "1977-09-13",
+        "softcore": false,
+        "vote_average": 7.3,
+        "vote_count": 69,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/izsm4820pUH2lOLScqJez9hJJBW.jpg",
+        "id": 173,
+        "name": "Degrassi Junior High",
+        "original_name": "Degrassi Junior High",
+        "overview": "Degrassi Junior High is a Canadian CBC Television teen drama series that was produced from 1987-1989 as part of the Degrassi series. The show followed the lives of a group of students attending the titular fictional school. Many episodes tackled difficult topics such as drug use, child abuse, teenage pregnancy, homosexuality, homophobia, racism, and divorce, and the series was acclaimed for its sensitive and realistic portrayal of the challenges of teenage life. The cast comprised mainly non-professional actors, which added to the show's sense of realism.\n\nThe series featured many of the same actors who had starred on The Kids of Degrassi Street a few years earlier, including Stacie Mistysyn, Neil Hope, Anais Granofsky, Sarah Charlesworth and others. However, their character names and family situations had been changed, so Degrassi Junior High cannot, therefore, be considered a direct spinoff.\n\nThe legal counsel for all the episodes was Stephen Stohn who later became the executive producer of Degrassi: The Next Generation. The series was filmed at the unused Vincent Massey Public School in Etobicoke, Ontario.",
+        "poster_path": "/fYetgZI5fkmIFsxUGqzryGmql8G.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 5.5126,
+        "first_air_date": "1987-01-18",
+        "softcore": false,
+        "vote_average": 7.714,
+        "vote_count": 35,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7ssuZk33GSPkAdMsrAcr02PwbLj.jpg",
+        "id": 67725,
+        "name": "Famous in Love",
+        "original_name": "Famous in Love",
+        "overview": "Ordinary college student Paige gets her big break after auditioning for the starring role in a Hollywood blockbuster. She must now navigate her new star-studded life and the highs and lows that come with being the new It Girl in town as well as balancing her college workload.",
+        "poster_path": "/ae4z2yBQr5htmHyfh89XdHlyQn2.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 4.1963,
+        "first_air_date": "2017-04-18",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 83,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yWY9senDDTOyNmaOljIF1xKIRVY.jpg",
+        "id": 349,
+        "name": "Point Pleasant",
+        "original_name": "Point Pleasant",
+        "overview": "A series of supernatural events begins in a small coastal New Jersey town after the arrival of a mysterious teenage girl, who apparently has the ability to influence the people and events around her.",
+        "poster_path": "/hwVJnaxrC6GPLISLrcLEICurKH9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          80,
+          18,
+          10766
+        ],
+        "popularity": 4.4877,
+        "first_air_date": "2005-01-19",
+        "softcore": false,
+        "vote_average": 6.81,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iqsEVKhFfOLnD4WGB19sg39bb21.jpg",
+        "id": 47335,
+        "name": "A Place to Call Home",
+        "original_name": "A Place to Call Home",
+        "overview": "A mysterious woman is perched between the harsh legacy of World War II and the hope of a new life in Australia. A sweeping romantic drama set in 1950s rural Australia following the lives of the Blighs, a wealthy and complicated pastoralist family, who lives in Inverness, NSW.",
+        "poster_path": "/ctjoNliuHbsRK3asfSjP7z8qhum.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 9.1034,
+        "first_air_date": "2013-04-28",
+        "softcore": false,
+        "vote_average": 7.404,
+        "vote_count": 47,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e7MSbwYRVqd4rZQQWcNuJvOSHLC.jpg",
+        "id": 881,
+        "name": "Days of Our Lives",
+        "original_name": "Days of Our Lives",
+        "overview": "The Horton and Brady broods endure the romantic trials of life in Salem, a Midwestern hamlet filled with evil geniuses, star-crossed lovers and a rich family history.",
+        "poster_path": "/7Zm7epVFEovMEVLpM6FvrjhaNXn.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 13.9312,
+        "first_air_date": "1965-11-08",
+        "softcore": false,
+        "vote_average": 6.2,
+        "vote_count": 159,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/AoKpDxiDcJxcchgSaUvOBpVJHVQ.jpg",
+        "id": 2354,
+        "name": "Home and Away",
+        "original_name": "Home and Away",
+        "overview": "Home and Away is set in the fictional town of Summer Bay, a coastal town in New South Wales, and follows the personal and professional lives of the people living in the area. The show initially focused on the Fletcher family, Pippa and Tom Fletcher and their five foster children Frank Morgan, Carly Morris, Steven Matheson, Lynn Davenport and Sally Keating, who would go on to become one of the show's longest-running characters. The show also originally and currently focuses on the Stewart family. Home and Away had proved popular when it premiered in 1988 and had risen to become a hit in Australia, and after only a few weeks, the show tackled its first major and disturbing storyline, the rape of Carly Morris; it was one of the first shows to feature such storylines during the early timeslot. H&A has tackled many adult-themed and controversial storylines; something rarely found in its restricted timeslot.",
+        "poster_path": "/vn0eKMiG69bhQtxb7qLRo8SSqu5.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10766
+        ],
+        "popularity": 77.1299,
+        "first_air_date": "1988-01-18",
+        "softcore": false,
+        "vote_average": 6.4,
+        "vote_count": 78,
+        "origin_country": [
+          "AU"
+        ]
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 18
+  },
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  }
+}

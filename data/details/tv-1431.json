@@ -1,0 +1,2620 @@
+{
+  "adult": false,
+  "backdrop_path": "/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+  "created_by": [
+    {
+      "id": 1214544,
+      "credit_id": "5256e62319c2956ff60dcf86",
+      "name": "آن دوناهو",
+      "original_name": "Ann Donahue",
+      "gender": 1,
+      "profile_path": "/loRNThhBJCx3FJi2RQvX519WD1j.jpg"
+    },
+    {
+      "id": 1039314,
+      "credit_id": "5256e62319c2956ff60dcf80",
+      "name": "Anthony E. Zuiker",
+      "original_name": "Anthony E. Zuiker",
+      "gender": 2,
+      "profile_path": "/fXCjUuwHvPhQTwYjckOjEdLdhVS.jpg"
+    }
+  ],
+  "episode_run_time": [
+    43
+  ],
+  "first_air_date": "2000-10-06",
+  "genres": [
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 9648,
+      "name": "غموض"
+    }
+  ],
+  "homepage": "http://www.cbs.com/shows/csi/",
+  "id": 1431,
+  "in_production": false,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2015-02-15",
+  "last_episode_to_air": {
+    "id": 1037502,
+    "name": "الحلقة 18",
+    "overview": "",
+    "vote_average": 6.5,
+    "vote_count": 13,
+    "air_date": "2015-02-15",
+    "episode_number": 18,
+    "episode_type": "finale",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 15,
+    "show_id": 1431,
+    "still_path": "/nqwhOYpGyppa7yqQXdb1tTFpcin.jpg"
+  },
+  "name": "سي اس آي: التحقيق في مسرح الجريمة",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 16,
+      "logo_path": "/wju8KhOUsR5y4bH9p3Jc50hhaLO.png",
+      "name": "CBS",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 335,
+  "number_of_seasons": 15,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "CSI: Crime Scene Investigation",
+  "overview": "في إطار من الجريمة والغموض، تدور الأحداث حول مجموعة من خبراء الطب الشرعى التابعين للشرطة في وﻻية لوس أنجلوس الأمريكية، الذين يقومون بالتحقيق فى القضايا الغامضة.",
+  "popularity": 172.3904,
+  "poster_path": "/i5hmoRjHNWady4AtAGICTUXknKH.jpg",
+  "production_companies": [
+    {
+      "id": 803,
+      "logo_path": "/jEMVaCuEjQ3lzkhakWDKNVjwd9Q.png",
+      "name": "Alliance Atlantis",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2161,
+      "logo_path": "/kaHPCUD2nQ1DGWDAH3zbYVCkTae.png",
+      "name": "CBS Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1081,
+      "logo_path": "/19kn4jVvpc3sAL3YpZNb3elhSMl.png",
+      "name": "CBS Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2015-09-27",
+      "episode_count": 1,
+      "id": 3803,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/eFPCsMA9Pt82LNAShPnWSg8Un0.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-10-06",
+      "episode_count": 23,
+      "id": 3792,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/4476Frhzun0BilSwZFgiQ6Nkrb8.jpg",
+      "season_number": 1,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2001-09-27",
+      "episode_count": 23,
+      "id": 3793,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/vPNwbSgfIrTsKbRPElYQ5OdDSOv.jpg",
+      "season_number": 2,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2002-09-25",
+      "episode_count": 23,
+      "id": 3794,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/t7A6CvGB4zElX8DKv7srwFVQUBo.jpg",
+      "season_number": 3,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2003-09-24",
+      "episode_count": 23,
+      "id": 3795,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/b5ya3S8ErtamIWvNORnf1BFA3Dz.jpg",
+      "season_number": 4,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2004-09-23",
+      "episode_count": 25,
+      "id": 3796,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/d9zBALX3L8f347LKB64KWBL5Fwx.jpg",
+      "season_number": 5,
+      "vote_average": 7.5
+    },
+    {
+      "air_date": "2005-09-22",
+      "episode_count": 24,
+      "id": 3797,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/tgVt1Rub8FmW0tlpBjWeUYMYsYw.jpg",
+      "season_number": 6,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2006-09-21",
+      "episode_count": 24,
+      "id": 3798,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/6IHQ6w0vaDOhXciwXYLlavnwB9d.jpg",
+      "season_number": 7,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2007-09-27",
+      "episode_count": 17,
+      "id": 3799,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/fRIDRonYf5twnnIhmGXIuEQHV6h.jpg",
+      "season_number": 8,
+      "vote_average": 7.8
+    },
+    {
+      "air_date": "2008-10-09",
+      "episode_count": 24,
+      "id": 3800,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/zzh7ejjQ3t56IGmdMekrPO4PmHU.jpg",
+      "season_number": 9,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2009-09-24",
+      "episode_count": 23,
+      "id": 3801,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/b18YZzXdiTtsMJP0OosYSwHV9Pc.jpg",
+      "season_number": 10,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2010-09-23",
+      "episode_count": 22,
+      "id": 3802,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/o5aqgaVdaqx9MnwKvMBvBtYZd9c.jpg",
+      "season_number": 11,
+      "vote_average": 7.4
+    },
+    {
+      "air_date": "2011-09-21",
+      "episode_count": 22,
+      "id": 3804,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/sgSRAvaCmEHPNFKddlzVtBHOavq.jpg",
+      "season_number": 12,
+      "vote_average": 7.6
+    },
+    {
+      "air_date": "2012-09-26",
+      "episode_count": 22,
+      "id": 3805,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/8xg1EYYN7owHAzUubyMRY2O4V6U.jpg",
+      "season_number": 13,
+      "vote_average": 7.2
+    },
+    {
+      "air_date": "2013-09-25",
+      "episode_count": 22,
+      "id": 3806,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/qNa0GND7eCX1UVRTpyv3Bvd1EZ9.jpg",
+      "season_number": 14,
+      "vote_average": 7.3
+    },
+    {
+      "air_date": "2014-09-28",
+      "episode_count": 18,
+      "id": 62053,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/uQeaYhBz9jnMaDgM0sZXv5HTbTG.jpg",
+      "season_number": 15,
+      "vote_average": 7.2
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Ended",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 7.607,
+  "vote_count": 1431,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 12836,
+        "known_for_department": "Acting",
+        "name": "Ted Danson",
+        "original_name": "Ted Danson",
+        "popularity": 3.4305,
+        "profile_path": "/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg",
+        "character": "D.B. Russell",
+        "credit_id": "5256e62119c2956ff60dcd30",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 117484,
+        "known_for_department": "Acting",
+        "name": "George Eads",
+        "original_name": "George Eads",
+        "popularity": 2.013,
+        "profile_path": "/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg",
+        "character": "Nick Stokes",
+        "credit_id": "5256e61e19c2956ff60dc79a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 536,
+        "known_for_department": "Acting",
+        "name": "Jorja Fox",
+        "original_name": "Jorja Fox",
+        "popularity": 3.886,
+        "profile_path": "/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg",
+        "character": "Sara Sidle",
+        "credit_id": "5256e61f19c2956ff60dc9f6",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 173849,
+        "known_for_department": "Acting",
+        "name": "Eric Szmanda",
+        "original_name": "Eric Szmanda",
+        "popularity": 1.2852,
+        "profile_path": "/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg",
+        "character": "Greg Sanders",
+        "credit_id": "5256e61f19c2956ff60dc990",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1217657,
+        "known_for_department": "Acting",
+        "name": "Robert David Hall",
+        "original_name": "Robert David Hall",
+        "popularity": 1.1142,
+        "profile_path": "/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg",
+        "character": "Al Robbins",
+        "credit_id": "5256e61f19c2956ff60dca52",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 17421,
+        "known_for_department": "Acting",
+        "name": "Wallace Langham",
+        "original_name": "Wallace Langham",
+        "popularity": 1.7515,
+        "profile_path": "/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg",
+        "character": "David Hodges",
+        "credit_id": "5256e61f19c2956ff60dcabe",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1219224,
+        "known_for_department": "Acting",
+        "name": "Jon Wellner",
+        "original_name": "Jon Wellner",
+        "popularity": 0.7565,
+        "profile_path": "/kIX1mef4re6MJs8nX0BHdRZyvXg.jpg",
+        "character": "Henry Andrews",
+        "credit_id": "5256e62319c2956ff60dcefc",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 78197,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Harnois",
+        "original_name": "Elisabeth Harnois",
+        "popularity": 1.8976,
+        "profile_path": "/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg",
+        "character": "Morgan Brody",
+        "credit_id": "5256e62319c2956ff60dceb4",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1951,
+        "known_for_department": "Acting",
+        "name": "Elisabeth Shue",
+        "original_name": "Elisabeth Shue",
+        "popularity": 4.4218,
+        "profile_path": "/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg",
+        "character": "Julie Finlay",
+        "credit_id": "5256e62119c2956ff60dcdbe",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224393,
+        "known_for_department": "Acting",
+        "name": "David Berman",
+        "original_name": "David Berman",
+        "popularity": 1.0424,
+        "profile_path": "/5nLITn9pJtO3kTchHieHo8VZ4a5.jpg",
+        "character": "David Phillips",
+        "credit_id": "5256e62319c2956ff60dce52",
+        "order": 14
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2023784,
+        "known_for_department": "Sound",
+        "name": "Jonathan Christiansen",
+        "original_name": "Jonathan Christiansen",
+        "popularity": 0.4181,
+        "profile_path": null,
+        "credit_id": "6a810122361a98e65472b2fc",
+        "department": "Sound",
+        "job": "Assistant Music Supervisor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224396,
+        "known_for_department": "Writing",
+        "name": "Tom Mularz",
+        "original_name": "Tom Mularz",
+        "popularity": 0.5414,
+        "profile_path": "/usAzhw4h0vluZ3QObdKttXRwtWw.jpg",
+        "credit_id": "69fe803a10afc0422562ff03",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224395,
+        "known_for_department": "Writing",
+        "name": "Christopher Barbour",
+        "original_name": "Christopher Barbour",
+        "popularity": 0.4446,
+        "profile_path": null,
+        "credit_id": "69e5542f1cb2614ae1692c63",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1224394,
+        "known_for_department": "Writing",
+        "name": "إليزابيث ديفين",
+        "original_name": "Elizabeth Devine",
+        "popularity": 0.4957,
+        "profile_path": null,
+        "credit_id": "69fe80e2ff9cc13530f876b4",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218784,
+        "known_for_department": "Writing",
+        "name": "Andrew Dettmann",
+        "original_name": "Andrew Dettmann",
+        "popularity": 0.891,
+        "profile_path": null,
+        "credit_id": "69e53dcef6559779a6802886",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224397,
+        "known_for_department": "Writing",
+        "name": "Gavin Harris",
+        "original_name": "Gavin Harris",
+        "popularity": 0.3817,
+        "profile_path": null,
+        "credit_id": "69fe817b10afc0422562ff3a",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224410,
+        "known_for_department": "Production",
+        "name": "Philip Conserva",
+        "original_name": "Philip Conserva",
+        "popularity": 0.3121,
+        "profile_path": null,
+        "credit_id": "69fe839993d3f07527571d90",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224348,
+        "known_for_department": "Directing",
+        "name": "Alec Smight",
+        "original_name": "Alec Smight",
+        "popularity": 0.5,
+        "profile_path": null,
+        "credit_id": "69dec75a084b6dfb8c88537c",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1224385,
+        "known_for_department": "Writing",
+        "name": "Melissa R. Byer",
+        "original_name": "Melissa R. Byer",
+        "popularity": 0.4684,
+        "profile_path": null,
+        "credit_id": "69fe7ff568c7c5a47b316b73",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25300,
+        "known_for_department": "Art",
+        "name": "Andi Brittan",
+        "original_name": "Andi Brittan",
+        "popularity": 0.5402,
+        "profile_path": "/c17aFweDP6FBaJX4vVB9czSVelO.jpg",
+        "credit_id": "62361bcd894ed6001c9c2e54",
+        "department": "Art",
+        "job": "Set Decoration"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1224386,
+        "known_for_department": "Writing",
+        "name": "Treena Hancock",
+        "original_name": "Treena Hancock",
+        "popularity": 0.5221,
+        "profile_path": null,
+        "credit_id": "69fe7fdc3ae877e7ca1e0595",
+        "department": "Production",
+        "job": "Co-Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1218788,
+        "known_for_department": "Writing",
+        "name": "دون ماكجيل",
+        "original_name": "Don McGill",
+        "popularity": 0.8132,
+        "profile_path": "/9QMLJDoA3hYlWdOhQyTVqimPok9.jpg",
+        "credit_id": "69fe79037db332f8fe1e05d0",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224408,
+        "known_for_department": "Directing",
+        "name": "Louis Shaw Milito",
+        "original_name": "Louis Shaw Milito",
+        "popularity": 0.7303,
+        "profile_path": "/br0wV5EuB07p6XifA8ENWCmlDtQ.jpg",
+        "credit_id": "69fe82c0ba457d8a2779d168",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224417,
+        "known_for_department": "Production",
+        "name": "Nicholas Fuentes",
+        "original_name": "Nicholas Fuentes",
+        "popularity": 0.4212,
+        "profile_path": null,
+        "credit_id": "69fe82e768c7c5a47b316ba2",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224416,
+        "known_for_department": "Production",
+        "name": "Carlos M. Marimon",
+        "original_name": "Carlos M. Marimon",
+        "popularity": 0.3062,
+        "profile_path": null,
+        "credit_id": "69e5536b9eb1579d5d520a34",
+        "department": "Production",
+        "job": "Associate Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224412,
+        "known_for_department": "Directing",
+        "name": "Brad Tanenbaum",
+        "original_name": "Brad Tanenbaum",
+        "popularity": 0.4517,
+        "profile_path": null,
+        "credit_id": "69e54e5e64f33fe372fb962f",
+        "department": "Production",
+        "job": "Co-Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224413,
+        "known_for_department": "Production",
+        "name": "Steven Felder",
+        "original_name": "Steven Felder",
+        "popularity": 0.3867,
+        "profile_path": null,
+        "credit_id": "69fe8099176c4e7a9f316b69",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 92336,
+        "known_for_department": "Costume & Make-Up",
+        "name": "Clinton Wayne",
+        "original_name": "Clinton Wayne",
+        "popularity": 0.6447,
+        "profile_path": "/eYKuhXBXpZ16Yu8hMhEkOTSAbPN.jpg",
+        "credit_id": "674016d532a9aaf43d96773f",
+        "department": "Costume & Make-Up",
+        "job": "Special Effects Key Makeup Artist"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1224407,
+        "known_for_department": "Production",
+        "name": "Cynthia Chvatal",
+        "original_name": "Cynthia Chvatal",
+        "popularity": 0.5336,
+        "profile_path": null,
+        "credit_id": "5256e63c19c2956ff60ddb00",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 52267,
+        "known_for_department": "Acting",
+        "name": "وليام بيترسين",
+        "original_name": "William L. Petersen",
+        "popularity": 3.6991,
+        "profile_path": "/rA0QRKqpXef7ciO2zY6CnHZC3cO.jpg",
+        "credit_id": "5256e63719c2956ff60dd730",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 770,
+        "known_for_department": "Production",
+        "name": "جيري بروكهايمر",
+        "original_name": "Jerry Bruckheimer",
+        "popularity": 2.698,
+        "profile_path": "/sYjNrmbMi4DGAPX6Kt8wVy7LNXI.jpg",
+        "credit_id": "5256e63819c2956ff60dd7e4",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1224406,
+        "known_for_department": "Production",
+        "name": "Jonathan Littman",
+        "original_name": "Jonathan Littman",
+        "popularity": 0.8218,
+        "profile_path": null,
+        "credit_id": "5256e63a19c2956ff60dda2e",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 6052,
+        "known_for_department": "Production",
+        "name": "April Webster",
+        "original_name": "April Webster",
+        "popularity": 0.4699,
+        "profile_path": null,
+        "credit_id": "69e69cba6a9199952d84fb23",
+        "department": "Production",
+        "job": "Original Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1039314,
+        "known_for_department": "Production",
+        "name": "Anthony E. Zuiker",
+        "original_name": "Anthony E. Zuiker",
+        "popularity": 1.2683,
+        "profile_path": "/fXCjUuwHvPhQTwYjckOjEdLdhVS.jpg",
+        "credit_id": "5256e63819c2956ff60dd84c",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1214544,
+        "known_for_department": "Writing",
+        "name": "آن دوناهو",
+        "original_name": "Ann Donahue",
+        "popularity": 1.0307,
+        "profile_path": "/loRNThhBJCx3FJi2RQvX519WD1j.jpg",
+        "credit_id": "5256e63b19c2956ff60dda96",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1221343,
+        "known_for_department": "Writing",
+        "name": "Carol Mendelsohn",
+        "original_name": "Carol Mendelsohn",
+        "popularity": 0.9309,
+        "profile_path": "/8PlgEHno8Mvg4wqireq7ZQY6Y3a.jpg",
+        "credit_id": "5256e63919c2956ff60dd9c4",
+        "department": "Production",
+        "job": "Executive Producer"
+      }
+    ]
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/q5pHoCGndSOcedKDY5nSDIrtBBH.jpg",
+        "id": 4860,
+        "name": "Waking the Dead",
+        "original_name": "Waking the Dead",
+        "overview": "A detective team apply new techniques to old crimes as they solve cold cases.",
+        "poster_path": "/pthoQb9tOrM0gi43ZER4cOKgm8D.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 19.5839,
+        "first_air_date": "2001-06-18",
+        "softcore": false,
+        "vote_average": 7.217,
+        "vote_count": 45,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qn4xPcrZnYUKk9gSQd1yuNn6xqk.jpg",
+        "id": 2458,
+        "name": "CSI: NY",
+        "original_name": "CSI: NY",
+        "overview": "Follow the investigations of a team of NYPD forensic scientists and police officers identified as \"Crime Scene Investigators\".",
+        "poster_path": "/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 58.0396,
+        "first_air_date": "2004-09-22",
+        "softcore": false,
+        "vote_average": 7.32,
+        "vote_count": 774,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nH1tZM9QAQrJKRMxH7mityjWNZe.jpg",
+        "id": 46316,
+        "name": "Motive",
+        "original_name": "Motive",
+        "overview": "A team of Vancouver investigators, led by homicide detective Angie Flynn, sets out to uncover the motive of each puzzling murder by discovering the killer's connection to the victim. Viewers get a glimpse of the killer before and after the crime is committed.",
+        "poster_path": "/gA5mK6VO1tJ4DCGhmXEcsYetvqH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 14.5632,
+        "first_air_date": "2013-02-03",
+        "softcore": false,
+        "vote_average": 6.451,
+        "vote_count": 91,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tT78TvxoSFEMQEqoqHJIw472yrF.jpg",
+        "id": 2750,
+        "name": "Silent Witness",
+        "original_name": "Silent Witness",
+        "overview": "A team of exceptional forensic pathologists and scientists investigate heinous crimes and use their skills to catch the people responsible.",
+        "poster_path": "/yRwf0yAZvYMfFLMonPusv6F256s.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 57.0897,
+        "first_air_date": "1996-02-21",
+        "softcore": false,
+        "vote_average": 7.6,
+        "vote_count": 112,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+        "id": 4057,
+        "name": "عقول اجرامية",
+        "original_name": "Criminal Minds",
+        "overview": "يقوم نخبة من مكتب التحقيقات الفيدرالي (FBI) بتحليل العقول الإجرامية الأكثر التواءا في البلاد، بتوقع تحركاتهم التالية قبل أن يضربون مرة أخرى.",
+        "poster_path": "/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 199.6252,
+        "first_air_date": "2005-09-22",
+        "softcore": false,
+        "vote_average": 8.3,
+        "vote_count": 4164,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oMeCp8jXpSyI41vHsjMkFfIJReh.jpg",
+        "id": 2171,
+        "name": "Cold Case",
+        "original_name": "Cold Case",
+        "overview": "The Philadelphia homicide squad's lone female detective finds her calling when she is assigned cases that have never been solved. Detective Lilly Rush combines her natural instincts with the updated technology available today to bring about justice for all the victims she can.",
+        "poster_path": "/5dmiNE8UdAqIyjjwZZWsjMhhV0b.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 54.3923,
+        "first_air_date": "2003-09-28",
+        "softcore": false,
+        "vote_average": 7.735,
+        "vote_count": 455,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mL5qHLgVWqeoH5bbj6Q1gdyldhM.jpg",
+        "id": 1450,
+        "name": "The Closer",
+        "original_name": "The Closer",
+        "overview": "Deputy Police Chief Brenda Leigh Johnson transfers from Atlanta to LA to head up a special unit of the LAPD that handles sensitive, high-profile murder cases. Johnson's quirky personality and hard-nosed approach often rubs her colleagues the wrong way, but her reputation as one of the world's best interrogator eventually wins over even her toughest critics.",
+        "poster_path": "/q6FhABXGf3TaYKoKNwzGAEzW7bt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 75.5954,
+        "first_air_date": "2005-06-13",
+        "softcore": false,
+        "vote_average": 7.804,
+        "vote_count": 355,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tMILubgFL53xueQEa8nrUoUw71o.jpg",
+        "id": 77947,
+        "name": "Harrow",
+        "original_name": "Harrow",
+        "overview": "When a dark secret from this past threatens to be exposed, unorthodox and brilliant medical examiner, Doctor Daniel Harrow, must use all his forensic skills to keep it buried forever.",
+        "poster_path": "/z0H4iQBe1YL9I8pZF5jRifcF369.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 12.0022,
+        "first_air_date": "2018-03-09",
+        "softcore": false,
+        "vote_average": 7.585,
+        "vote_count": 205,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/v8YFr8BbU9qsO8PYIulzTeM6Qk.jpg",
+        "id": 46648,
+        "name": "محقق فذّ",
+        "original_name": "True Detective",
+        "overview": "مسلسل شرطة أمريكي من نوع الأنثولوجيا (كل موسم قصة وشخصيات مختلفة)، يستخدم خطوطًا زمنية متعددة، حيث يبدو أن التحقيقات تكشف أسرارًا شخصية ومهنية للأشخاص المتورطين، سواء كانوا من داخل القانون أو خارجه.",
+        "poster_path": "/3xkUxpRuK1aaysdNRB9soY3zQwh.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "popularity": 59.7602,
+        "first_air_date": "2014-01-12",
+        "softcore": false,
+        "vote_average": 8.291,
+        "vote_count": 4342,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bmOr48hnEV0vilp60sAHlXG6Ys5.jpg",
+        "id": 30704,
+        "name": "The Forgotten",
+        "original_name": "The Forgotten",
+        "overview": "A team of dedicated amateurs work on cases involving unidentified victims. After the police have given up, this group must first solve the puzzle of the victim's identity in order to then help catch the killer. They work to give the deceased back their names, lest they become—The Forgotten.",
+        "poster_path": "/beZJ5QIUkWAjhCb2O8kEc51eF5O.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 6.0295,
+        "first_air_date": "2009-09-22",
+        "softcore": false,
+        "vote_average": 6.1,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ywEk2WXTXELEAL4LcE6QhduJj09.jpg",
+        "id": 62505,
+        "name": "Unforgotten",
+        "original_name": "Unforgotten",
+        "overview": "London police detectives Cassie Stuart and Sunny Khan investigate historic cold cases involving missing persons, murder and long-hidden secrets.",
+        "poster_path": "/bfysfq7JDBWKLpkKPaOU2FpfmB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 19.2406,
+        "first_air_date": "2015-10-08",
+        "softcore": false,
+        "vote_average": 7.543,
+        "vote_count": 197,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u3HllpiOl4C9FnjSAQeh3ftB4cv.jpg",
+        "id": 228026,
+        "name": "Law & Order Toronto: Criminal Intent",
+        "original_name": "Law & Order Toronto: Criminal Intent",
+        "overview": "An elite squad of detectives investigate high-profile crime and corruption in metro Toronto.",
+        "poster_path": "/eqD7W5EGue5Nvg0BNEnoRyMQAcz.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 20.5468,
+        "first_air_date": "2024-02-22",
+        "softcore": false,
+        "vote_average": 7.4,
+        "vote_count": 42,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/23S5oKZjlXehjNLEhMQuxjwbyuA.jpg",
+        "id": 60585,
+        "name": "بوش",
+        "original_name": "Bosch",
+        "overview": "تدور أحداث القصة حول محقق الجرائم الجنائية بوش والذي يجسد شخصيته الفنان تيتوس ويليفر . يحقق بوش في جريمة مقتل طفل وففي نفس الأثناء يواجه قضية قتله لمجرم متسلسل في المحكمة الفدرالية، لتتنقل القصة ما بين التحري والمحاكمة.",
+        "poster_path": "/zCltiygaUiAkh5dpuZ2KIFA8WBI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          9648,
+          18,
+          80
+        ],
+        "popularity": 52.3387,
+        "first_air_date": "2015-01-14",
+        "softcore": false,
+        "vote_average": 7.933,
+        "vote_count": 754,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gTN0SAdXsDUE6SFFRo8QsJgXDIg.jpg",
+        "id": 1486,
+        "name": "21 Jump Street",
+        "original_name": "21 Jump Street",
+        "overview": "تدور أحداث مسلسل \"21 Jump Street\" حول مجموعة من رجال الشرطة الشباب الذين يستخدمون مظهرهم الشاب للتخفي وحل الجرائم التي تشمل المراهقين والشباب",
+        "poster_path": "/9w2y0146P5EjLw63FHGWRRpqQ6v.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 34.0052,
+        "first_air_date": "1987-04-12",
+        "softcore": false,
+        "vote_average": 7.27,
+        "vote_count": 204,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5PfCoV4e9DVRkOTowXAUi1yMn9k.jpg",
+        "id": 87773,
+        "name": "The Bay",
+        "original_name": "The Bay",
+        "overview": "Family Liaison Officer Lisa Armstrong becomes a little too emotionally involved with a case (to the point where she might compromise it) concerning a pair of missing Morecambe twins to whose distraught parents she is assigned.",
+        "poster_path": "/1ZbCq6t1aKssAhFOjvslUpt9W2x.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 10.2024,
+        "first_air_date": "2019-03-20",
+        "softcore": false,
+        "vote_average": 6.5,
+        "vote_count": 100,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hPluvztO5rqRWC02SUJ7Iob7xWh.jpg",
+        "id": 256317,
+        "name": "العد التنازلي",
+        "original_name": "Countdown",
+        "overview": "عندما يُقتل ضابط من وزارة الأمن الداخلي في وضح النهار، يُجنّد محقق شرطة لوس أنجلوس، مارك ميتشوم، في فرقة مهمّات سرية، إلى جانب عملاء سريين من شتى مؤسسات إنفاذ القانون، للتحقيق في الجريمة، لكن السعي خلف القاتل سرعان ما يكشف عن مؤامرة أكثر شراً مما كان في حسبان أحد، فينطلق سباق مع الزمن لإنقاذ مدينة يسكنها ملايين البشر.",
+        "poster_path": "/glUIY6h5u07LgO3ADEgLY1O180R.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648
+        ],
+        "popularity": 14.7066,
+        "first_air_date": "2025-06-25",
+        "softcore": false,
+        "vote_average": 7.278,
+        "vote_count": 151,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x0ys5kgsKVTuhPMntsZTOffj5MO.jpg",
+        "id": 95272,
+        "name": "Lincoln Rhyme: Hunt for the Bone Collector",
+        "original_name": "Lincoln Rhyme: Hunt for the Bone Collector",
+        "overview": "Former NYPD detective and forensic genius Lincoln Rhyme was at the top of his game until a serious accident at the hands of a notorious serial killer forced him out of the field. When Amelia Sachs, an intuitive young officer who has a gift for profiling, finds herself hot on the killer's trail, Rhyme finds a partner for this new game of cat and mouse.",
+        "poster_path": "/vIgxUeQRtnspj0BLm3H7rawSqPK.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "popularity": 8.4251,
+        "first_air_date": "2020-01-10",
+        "softcore": false,
+        "vote_average": 7.4,
+        "vote_count": 147,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iK7tPi9j4d34g5p6bNKmGVba95K.jpg",
+        "id": 1908,
+        "name": "Miami Vice",
+        "original_name": "Miami Vice",
+        "overview": "The story of the Miami Police Department's vice squad and its efforts to end drug trafficking and prostitution, centered on the unlikely partnership of Sonny Crockett and Ricardo Tubbs - who first meet when Tubbs is undercover in a drug cartel.",
+        "poster_path": "/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 54.0525,
+        "first_air_date": "1984-09-16",
+        "softcore": false,
+        "vote_average": 7.449,
+        "vote_count": 535,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nS5ZSmrX92lu1GYAlXZye1mkDfd.jpg",
+        "id": 1405,
+        "name": "دكستر",
+        "original_name": "Dexter",
+        "overview": "يعيش دكستر مورغان حياة مزدوجة في مدينة ميامي، حيث يعمل خبيرًا في تحليل أنماط الدم لدى الشرطة، بينما يخفي عن الجميع جانبًا مظلمًا من شخصيته. يستغل دكستر مهاراته وخبرته في التحقيق لتعقب القتلة والمجرمين الذين تمكنوا من الإفلات من العدالة، ثم يأخذ القانون بيده وفق قواعد صارمة وضعها له والده بالتبني. ومع استمراره في إخفاء جرائمه عن زملائه وأسرته، يجد دكستر نفسه أمام قتلة متسلسلين وأعداء يقتربون من كشف حقيقته، مما يهدد حياته السرية ويضعه في مواجهات خطيرة تختبر قدرته على السيطرة على جانبه المظلم.",
+        "poster_path": "/ivs37ueaO7jac4NXkfBRT9u3Say.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 134.6432,
+        "first_air_date": "2006-10-01",
+        "softcore": false,
+        "vote_average": 8.241,
+        "vote_count": 5826,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3qaIDtU8gtHBj4m2K4s4upMrplG.jpg",
+        "id": 2583,
+        "name": "Prime Suspect",
+        "original_name": "Prime Suspect",
+        "overview": "Highly skilled Detective Inspector Jane Tennison battles to prove herself in a male dominated world.",
+        "poster_path": "/vhlbnMgz9hBouXWmxBS2RjFC03S.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 16.7036,
+        "first_air_date": "1991-04-07",
+        "softcore": false,
+        "vote_average": 7.835,
+        "vote_count": 103,
+        "origin_country": [
+          "GB"
+        ]
+      }
+    ],
+    "total_pages": 34,
+    "total_results": 677
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/u4K0mJLCcJ2XIRkFLj01eOeVph8.jpg",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "id": 238581,
+        "origin_country": [
+          "ES"
+        ],
+        "original_language": "es",
+        "original_name": "Una vida menos en Canarias",
+        "overview": "",
+        "popularity": 1.6164,
+        "poster_path": "/9wRdLzrThgh3hpu6rKfGqHpoFbr.jpg",
+        "first_air_date": "2024-01-28",
+        "softcore": false,
+        "name": "Una vida menos en Canarias",
+        "vote_average": 5.357,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 28768,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Mr. Rose",
+        "overview": "",
+        "popularity": 1.5828,
+        "poster_path": "/teTXRfurpAmqQ2uIA6GXtEBbb0h.jpg",
+        "first_air_date": "1967-02-17",
+        "softcore": false,
+        "name": "Mr. Rose",
+        "vote_average": 7,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bblnBLNL8w45P8QYXsbC8b1GlLs.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 474,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Nash Bridges",
+        "overview": "",
+        "popularity": 31.1032,
+        "poster_path": "/hJeHSCFoxWN2Pt2lg56CKOi9g87.jpg",
+        "first_air_date": "1996-03-29",
+        "softcore": false,
+        "name": "Nash Bridges",
+        "vote_average": 6.557,
+        "vote_count": 114
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ylCMaSBPemstvqS13W3n57NcWvf.jpg",
+        "genre_ids": [
+          80,
+          9648,
+          18
+        ],
+        "id": 91830,
+        "origin_country": [
+          "RU"
+        ],
+        "original_language": "ru",
+        "original_name": "Вeликолепная пятёрка",
+        "overview": "",
+        "popularity": 48.3267,
+        "poster_path": "/7GOwhwqKpoFeGVCX3JVCv699zV7.jpg",
+        "first_air_date": "2019-05-27",
+        "softcore": false,
+        "name": "Вeликолепная пятёрка",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tnGkk8SH68n6DbcFg3J4oVKA5Ml.jpg",
+        "genre_ids": [
+          16,
+          9648,
+          35,
+          10751,
+          10762
+        ],
+        "id": 418,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "A Pup Named Scooby-Doo",
+        "overview": "الكلب الجبان المفضل في العالم، وهو جرو؟ صحيح! وقد عادت معه المجموعة القديمة. شاغي، دافني، فيلما، وفريدي جميعهم هنا كأطفال صغار - يلهون، ويحلون ألغازًا صغيرة، ويواجهون الغيلان والأشباح والعفاريت",
+        "popularity": 7.5693,
+        "poster_path": "/1KLZCKbql421IIORH1GGQn1R5Qh.jpg",
+        "first_air_date": "1988-09-10",
+        "softcore": false,
+        "name": "جرو إسمه سكوبي دو",
+        "vote_average": 7.542,
+        "vote_count": 295
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oWTJSWA79bgn4AqgCrgqroI2Tsj.jpg",
+        "genre_ids": [
+          16,
+          35,
+          80,
+          10765,
+          9648,
+          10759,
+          10762
+        ],
+        "id": 430,
+        "origin_country": [
+          "CA",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Adventures of Sam & Max: Freelance Police",
+        "overview": "",
+        "popularity": 4.1542,
+        "poster_path": "/iodMKLGmlNQSA1MHpK0yPzdnIP9.jpg",
+        "first_air_date": "1997-10-04",
+        "softcore": false,
+        "name": "The Adventures of Sam & Max: Freelance Police",
+        "vote_average": 8.3,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uU3tSAxLwjY1YTCavhj80r2C97j.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 396,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The District",
+        "overview": "",
+        "popularity": 23.8272,
+        "poster_path": "/hnd8bGqWZhtEdCwDf5YXdIDaJei.jpg",
+        "first_air_date": "2000-10-07",
+        "softcore": false,
+        "name": "The District",
+        "vote_average": 6.857,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          9648
+        ],
+        "id": 28683,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Eddie Capra Mysteries",
+        "overview": "",
+        "popularity": 3.298,
+        "poster_path": "/pd1mjIhb8IbgnNkBKVH0wKVeci5.jpg",
+        "first_air_date": "1978-09-08",
+        "softcore": false,
+        "name": "The Eddie Capra Mysteries",
+        "vote_average": 6.5,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80
+        ],
+        "id": 58786,
+        "origin_country": [
+          "DE"
+        ],
+        "original_language": "de",
+        "original_name": "Die Wache",
+        "overview": "",
+        "popularity": 21.2774,
+        "poster_path": null,
+        "first_air_date": "1994-01-03",
+        "softcore": false,
+        "name": "Die Wache",
+        "vote_average": 3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 58841,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Chicago P.D.",
+        "overview": "تدور أحداث المسلسل عن (مقاطعة 21) التي تجاور قسم شرطة (شيكاجو)، وهى المقاطعة التي تتألف من مجموعتين مختلفتين، الأولى منهما تتمثل في رجال شرطة بزيهم الرسمي، والثانية هي وحدة الاستخبارات.",
+        "popularity": 111.7367,
+        "poster_path": "/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+        "first_air_date": "2014-01-08",
+        "softcore": false,
+        "name": "شيكاغو بي.دي.",
+        "vote_average": 8.424,
+        "vote_count": 2628
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eciikZDLyEBQanGh3zpGNuYHtQ3.jpg",
+        "genre_ids": [
+          9648,
+          80,
+          18
+        ],
+        "id": 484,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Murder, She Wrote",
+        "overview": "",
+        "popularity": 58.7363,
+        "poster_path": "/3UxBFG4fiuZ0P9n2sCrjXh64Avy.jpg",
+        "first_air_date": "1984-09-30",
+        "softcore": false,
+        "name": "Murder, She Wrote",
+        "vote_average": 7.522,
+        "vote_count": 468
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2CAFagyKOpG6Xl2xt22ZvhlY8TS.jpg",
+        "genre_ids": [
+          10759,
+          18
+        ],
+        "id": 485,
+        "origin_country": [
+          "AU",
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Police Rescue",
+        "overview": "",
+        "popularity": 10.4215,
+        "poster_path": "/rTv6gOPCtrNn4Q83e0L4l3ppir4.jpg",
+        "first_air_date": "1991-02-14",
+        "softcore": false,
+        "name": "Police Rescue",
+        "vote_average": 6.7,
+        "vote_count": 13
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r2T5JhXySW6EdTO76hG6gbITD7O.jpg",
+        "genre_ids": [
+          18,
+          10759
+        ],
+        "id": 509,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "CHiPs",
+        "overview": "",
+        "popularity": 7.9522,
+        "poster_path": "/1464ScbUZQ22RjFtRtGiv4i2Zrs.jpg",
+        "first_air_date": "1977-09-15",
+        "softcore": false,
+        "name": "CHiPs",
+        "vote_average": 6.824,
+        "vote_count": 153
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gQYwrYJUf8Vq8biFFqkHCj4QsOk.jpg",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "id": 512,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Third Watch",
+        "overview": "",
+        "popularity": 39.3381,
+        "poster_path": "/rWQmgNLdyZGIL6Xuo9ImL0Kh6wt.jpg",
+        "first_air_date": "1999-09-23",
+        "softcore": false,
+        "name": "Third Watch",
+        "vote_average": 7.941,
+        "vote_count": 238
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/62TMbi34WJupGcmcWQ21ZScg42U.jpg",
+        "genre_ids": [
+          35,
+          80,
+          10759
+        ],
+        "id": 520,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Sledge Hammer!",
+        "overview": "",
+        "popularity": 12.8066,
+        "poster_path": "/exYBfVOkRDg9f7HlRIDZ6gy3A73.jpg",
+        "first_air_date": "1986-09-23",
+        "softcore": false,
+        "name": "Sledge Hammer!",
+        "vote_average": 8,
+        "vote_count": 179
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sCY4N87OYPe3UAMdpnODCb1STup.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 124601,
+        "origin_country": [
+          "DK"
+        ],
+        "original_language": "da",
+        "original_name": "Hvide Sande",
+        "overview": "",
+        "popularity": 5.3191,
+        "poster_path": "/evcZ0HndXg7SDpuWMHtSj1YFiaj.jpg",
+        "first_air_date": "2021-05-03",
+        "softcore": false,
+        "name": "Hvide Sande",
+        "vote_average": 6.286,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3Xtc2iqCBXoXFmD8GhVdYaIY111.jpg",
+        "genre_ids": [
+          80,
+          10759,
+          18
+        ],
+        "id": 124727,
+        "origin_country": [
+          "HK"
+        ],
+        "original_language": "cn",
+        "original_name": "逆天奇案",
+        "overview": "",
+        "popularity": 5.0136,
+        "poster_path": "/o8ygqy0d7xrW1Qhpc3Fdaio7Y2d.jpg",
+        "first_air_date": "2021-05-03",
+        "softcore": false,
+        "name": "逆天奇案",
+        "vote_average": 8.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "id": 304919,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Safe Houses",
+        "overview": "",
+        "popularity": 3.1985,
+        "poster_path": null,
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Safe Houses",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zAYP32L0uBWx136DzKURvpdTVB1.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 28727,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Angel Street",
+        "overview": "",
+        "popularity": 4.0426,
+        "poster_path": "/fKSHrrhwUuWEcUyfu1bGrlAiI2i.jpg",
+        "first_air_date": "1992-09-15",
+        "softcore": false,
+        "name": "Angel Street",
+        "vote_average": 7,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aTvLuNGRSBrFcQPlOnYy7YVy5lu.jpg",
+        "genre_ids": [
+          80,
+          99
+        ],
+        "id": 58818,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Cold Justice",
+        "overview": "",
+        "popularity": 8.948,
+        "poster_path": "/gfJL3QtpHvHtxkLA9WBzkYhzAGA.jpg",
+        "first_air_date": "2013-09-03",
+        "softcore": false,
+        "name": "Cold Justice",
+        "vote_average": 7.461,
+        "vote_count": 38
+      }
+    ],
+    "total_pages": 3013,
+    "total_results": 60243
+  },
+  "watch/providers": {
+    "results": {
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 33
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 46
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=AT",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 48
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 53
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=AU",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/nhp23IYeFqZm4J2ZseUzSPuZ1UM.png",
+            "provider_id": 246,
+            "provider_name": "7plus",
+            "display_priority": 19
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/1Hzele1xJnA7xfQyWKNQnTnWAio.png",
+            "provider_id": 385,
+            "provider_name": "BINGE",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/qRZkZY5kgqXaLr4QFp7ON0wG5rB.png",
+            "provider_id": 134,
+            "provider_name": "Foxtel Now",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 81
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 82
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=BG",
+        "ads": [
+          {
+            "logo_path": "/oO9SBd43N1eLfzQeVQOMX90BTRf.png",
+            "provider_id": 580,
+            "provider_name": "Nova Play",
+            "display_priority": 13
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+            "provider_id": 307,
+            "provider_name": "Globoplay",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 43
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 71
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 92
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 118
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 119
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fN4czqaMQNLeF6sSSIjGbAWzvwK.png",
+            "provider_id": 300,
+            "provider_name": "Pluto TV",
+            "display_priority": 95
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 44
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 41
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 42
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/gzlCSbeTdiLJNxdZuMKNhW8X7cy.png",
+            "provider_id": 1939,
+            "provider_name": "Lepsi TV",
+            "display_priority": 27
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=DE",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/er0P3HwuVruKgnOqF8CoNdAAPPD.png",
+            "provider_id": 2750,
+            "provider_name": "RTL+",
+            "display_priority": 19
+          },
+          {
+            "logo_path": "/4a1AfcgwF3QeEmRkgbpFj3QZdJn.png",
+            "provider_id": 2578,
+            "provider_name": "RTL+ Max Amazon Channel",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 90
+          },
+          {
+            "logo_path": "/pOFMfHSmQEKAHTAHDedHNxyufAa.png",
+            "provider_id": 1892,
+            "provider_name": "RTL Crime Amazon Channel",
+            "display_priority": 93
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 29
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/kxUmV9TCZHfukpVOMuN90Jibbnm.png",
+            "provider_id": 339,
+            "provider_name": "MovistarTV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/o1Z73d95pgJMpS3iCfRDtK5XJgp.png",
+            "provider_id": 1838,
+            "provider_name": "Tivify",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/j5w5U61YwOM6Adiaa5zuEVqrpP8.png",
+            "provider_id": 1754,
+            "provider_name": "TF1+",
+            "display_priority": 49
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 58
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 78
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 75
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 87
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 119
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 120
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 64
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=IE",
+        "buy": [
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 45
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 46
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 57
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 51
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 54
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=JP",
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 62
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 13
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 29
+          },
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 30
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/8mtdz2Y3NW5NfiSZiBFhngFSy3S.png",
+            "provider_id": 505,
+            "provider_name": "Player",
+            "display_priority": 11
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 29
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/uzJAlKOjD4PCqqx3N1fwkmu0Ttb.png",
+            "provider_id": 497,
+            "provider_name": "Tele2 Play",
+            "display_priority": 20
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/aj4EXUQKE0xT5F3JxblWDm0UemY.png",
+            "provider_id": 2686,
+            "provider_name": "Mewatch",
+            "display_priority": 43
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 30
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=US",
+        "ads": [
+          {
+            "logo_path": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+            "provider_id": 207,
+            "provider_name": "The Roku Channel",
+            "display_priority": 29
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+            "provider_id": 2616,
+            "provider_name": "Paramount Plus Essential",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 23
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+            "provider_id": 2616,
+            "provider_name": "Paramount Plus Essential",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 23
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 26
+          },
+          {
+            "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+            "provider_id": 633,
+            "provider_name": "Paramount+ Roku Premium Channel",
+            "display_priority": 62
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/1431-csi-crime-scene-investigation/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/xu4LyKTwasTbta1Z0qWtZG48yZ3.png",
+            "provider_id": 1853,
+            "provider_name": "Paramount Plus Apple TV channel",
+            "display_priority": 27
+          }
+        ]
+      }
+    }
+  }
+}

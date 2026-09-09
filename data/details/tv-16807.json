@@ -1,0 +1,1221 @@
+{
+  "adult": false,
+  "backdrop_path": "/m9lBl3aEn2nGt8qHQYL2sIJbvcB.jpg",
+  "created_by": [
+    {
+      "id": 1076483,
+      "credit_id": "642d8e4e58361b011153f0c0",
+      "name": "Armando Nogueira",
+      "original_name": "Armando Nogueira",
+      "gender": 2,
+      "profile_path": "/1t5oaBU82bUF9yBcDyzfVGj5EEE.jpg"
+    }
+  ],
+  "episode_run_time": [],
+  "first_air_date": "1969-09-01",
+  "genres": [
+    {
+      "id": 10763,
+      "name": "أخبار"
+    }
+  ],
+  "homepage": "http://jornalnacional.globo.com/",
+  "id": 16807,
+  "in_production": true,
+  "languages": [
+    "pt"
+  ],
+  "last_air_date": "2026-08-29",
+  "last_episode_to_air": {
+    "id": 7197321,
+    "name": "الحلقة 215",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-08",
+    "episode_number": 215,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 58,
+    "show_id": 16807,
+    "still_path": null
+  },
+  "name": "Jornal Nacional",
+  "next_episode_to_air": {
+    "id": 7197322,
+    "name": "الحلقة 216",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-09",
+    "episode_number": 216,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 58,
+    "show_id": 16807,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 60,
+      "logo_path": "/jJJDZcp2o0YTImhmHynN8wqe26S.png",
+      "name": "TV Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "number_of_episodes": 11371,
+  "number_of_seasons": 58,
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_name": "Jornal Nacional",
+  "overview": "",
+  "popularity": 182.681,
+  "poster_path": "/g0x9tcHp8SV8UH4yq40g5zu6phu.jpg",
+  "production_companies": [
+    {
+      "id": 46430,
+      "logo_path": "/tQZIt59BLw3b0b6rHJRqv4Dvrpd.png",
+      "name": "Estúdios Globo",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "1969-09-01",
+      "episode_count": 105,
+      "id": 313747,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 5
+    },
+    {
+      "air_date": "1970-01-01",
+      "episode_count": 313,
+      "id": 335609,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 2
+    },
+    {
+      "air_date": "1971-01-01",
+      "episode_count": 10,
+      "id": 335610,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1972-01-01",
+      "episode_count": 10,
+      "id": 335611,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1973-01-01",
+      "episode_count": 10,
+      "id": 335612,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1974-01-01",
+      "episode_count": 10,
+      "id": 335613,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1975-01-01",
+      "episode_count": 10,
+      "id": 335614,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1976-01-01",
+      "episode_count": 10,
+      "id": 335615,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1977-01-01",
+      "episode_count": 10,
+      "id": 335616,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1978-01-02",
+      "episode_count": 10,
+      "id": 335617,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1979-01-01",
+      "episode_count": 10,
+      "id": 335618,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1980-01-01",
+      "episode_count": 10,
+      "id": 335619,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1981-01-01",
+      "episode_count": 10,
+      "id": 335620,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1982-01-01",
+      "episode_count": 10,
+      "id": 335621,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1983-01-01",
+      "episode_count": 10,
+      "id": 335622,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1984-01-02",
+      "episode_count": 10,
+      "id": 335623,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1985-01-01",
+      "episode_count": 10,
+      "id": 335624,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1986-01-01",
+      "episode_count": 10,
+      "id": 335625,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1987-01-01",
+      "episode_count": 10,
+      "id": 335626,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1988-01-01",
+      "episode_count": 10,
+      "id": 335627,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1989-01-02",
+      "episode_count": 10,
+      "id": 335628,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1990-01-01",
+      "episode_count": 10,
+      "id": 335629,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1991-01-01",
+      "episode_count": 10,
+      "id": 335630,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1992-01-01",
+      "episode_count": 100,
+      "id": 335631,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1993-01-01",
+      "episode_count": 313,
+      "id": 335632,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1994-01-01",
+      "episode_count": 313,
+      "id": 335633,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1995-01-02",
+      "episode_count": 312,
+      "id": 335634,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1996-01-01",
+      "episode_count": 314,
+      "id": 335635,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1997-01-01",
+      "episode_count": 313,
+      "id": 335636,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1998-01-01",
+      "episode_count": 313,
+      "id": 335637,
+      "name": "الموسم 30",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 30,
+      "vote_average": 0
+    },
+    {
+      "air_date": "1999-01-01",
+      "episode_count": 313,
+      "id": 335638,
+      "name": "الموسم 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2000-01-01",
+      "episode_count": 313,
+      "id": 335639,
+      "name": "الموسم 32",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 32,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2001-01-01",
+      "episode_count": 313,
+      "id": 335640,
+      "name": "الموسم 33",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 33,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2002-01-01",
+      "episode_count": 313,
+      "id": 335641,
+      "name": "الموسم 34",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 34,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2003-01-01",
+      "episode_count": 313,
+      "id": 335642,
+      "name": "الموسم 35",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 35,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2004-01-01",
+      "episode_count": 314,
+      "id": 335643,
+      "name": "الموسم 36",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 36,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2005-01-01",
+      "episode_count": 313,
+      "id": 335644,
+      "name": "الموسم 37",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 37,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2006-01-02",
+      "episode_count": 312,
+      "id": 335645,
+      "name": "الموسم 38",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 38,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2007-01-01",
+      "episode_count": 313,
+      "id": 335646,
+      "name": "الموسم 39",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 39,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2008-01-01",
+      "episode_count": 314,
+      "id": 335647,
+      "name": "الموسم 40",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 40,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-01",
+      "episode_count": 313,
+      "id": 335648,
+      "name": "الموسم 41",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 41,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-01",
+      "episode_count": 313,
+      "id": 335649,
+      "name": "الموسم 42",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 42,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-01",
+      "episode_count": 313,
+      "id": 335650,
+      "name": "الموسم 43",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 43,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 313,
+      "id": 335651,
+      "name": "الموسم 44",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 44,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-01",
+      "episode_count": 313,
+      "id": 335652,
+      "name": "الموسم 45",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 45,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-01",
+      "episode_count": 313,
+      "id": 335653,
+      "name": "الموسم 46",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 46,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-01",
+      "episode_count": 313,
+      "id": 335654,
+      "name": "الموسم 47",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 47,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-01",
+      "episode_count": 314,
+      "id": 335655,
+      "name": "الموسم 48",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 48,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 311,
+      "id": 335656,
+      "name": "الموسم 49",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 49,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-01",
+      "episode_count": 313,
+      "id": 335657,
+      "name": "الموسم 50",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 50,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-01",
+      "episode_count": 313,
+      "id": 335658,
+      "name": "الموسم 51",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 51,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-01",
+      "episode_count": 314,
+      "id": 335659,
+      "name": "الموسم 52",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 52,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-01",
+      "episode_count": 313,
+      "id": 335660,
+      "name": "الموسم 53",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 53,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-01",
+      "episode_count": 313,
+      "id": 335661,
+      "name": "الموسم 54",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 54,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 312,
+      "id": 335662,
+      "name": "الموسم 55",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 55,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-01",
+      "episode_count": 314,
+      "id": 460742,
+      "name": "الموسم 56",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 56,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-01",
+      "episode_count": 313,
+      "id": 460743,
+      "name": "الموسم 57",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 57,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-01",
+      "episode_count": 313,
+      "id": 513396,
+      "name": "الموسم 58",
+      "overview": "",
+      "poster_path": "/59iVuixNWRgtkT1aN8BR9RrJOBR.jpg",
+      "season_number": 58,
+      "vote_average": 8
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "News",
+  "vote_average": 7,
+  "vote_count": 9,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2880178,
+        "known_for_department": "Acting",
+        "name": "Renata Vasconcellos",
+        "original_name": "Renata Vasconcellos",
+        "popularity": 0.4622,
+        "profile_path": "/pxbPvH81X12QknuN4FAYUCoygtL.jpg",
+        "character": "Self - Host",
+        "credit_id": "642b79b0f1b57100b614b937",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3968215,
+        "known_for_department": "Acting",
+        "name": "César Tralli",
+        "original_name": "César Tralli",
+        "popularity": 0.4573,
+        "profile_path": "/rsgX6mHBt7hP540uUZ4CBwR21ru.jpg",
+        "character": "Self - Host",
+        "credit_id": "69efd2e2bfa79b8fc926e94e",
+        "order": 9
+      }
+    ],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/n1yKf2VV9niUmsDK3oOuw5P8vte.jpg",
+        "id": 651,
+        "name": "60 دقيقة",
+        "original_name": "60 Minutes",
+        "overview": "برنامج تلفزيوني تحقيقي أمريكي، يعرض على قناة CBS الأمريكية منذ 24 سبتمبر 1968. يعد من أول برامج المجلات الإخبارية التلفزيونية (newsmagazine).",
+        "poster_path": "/vDlT8YU1pF8z37RfNaCOyJ5uO7l.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10763
+        ],
+        "popularity": 54.1828,
+        "first_air_date": "1968-09-24",
+        "softcore": false,
+        "vote_average": 6.5,
+        "vote_count": 84,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2ze7svJECVkbEYSRqQQjwmy8lwG.jpg",
+        "id": 1738,
+        "name": "60 Minutes Australia",
+        "original_name": "60 Minutes Australia",
+        "overview": "60 Minutes, an Australian version of the U.S. television newsmagazine 60 Minutes, airs on Sunday nights on the Nine Network and is presented in much the same way as the American program on which it is based. The New Zealand version of the show has also featured segments of the Australian version.\n\nGerald Stone, the founding executive producer, was given the job by Kerry Packer and was told: \"I don't give a f... what it takes. Just do it and get it right.\" After the first episode was broadcast on 11 February 1979, Packer was less than impressed, telling Stone: \"You've blown it, son. You better fix it fast.\" Over the years, Stone's award winning 60 Minutes revolutionised Australian current affairs reporting and enhanced the careers of Ray Martin, Ian Leslie, George Negus, and later Jana Wendt.\n\nSince it was first broadcast, 60 Minutes has won five Silver Logies, one Special Achievement Logie, and received nominations for a further six Logie awards.",
+        "poster_path": "/cRqVCZPAzaerPv4ysDrXdkyXZ8M.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10763
+        ],
+        "popularity": 21.2549,
+        "first_air_date": "1979-02-11",
+        "softcore": false,
+        "vote_average": 6.8,
+        "vote_count": 21,
+        "origin_country": [
+          "AU"
+        ]
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  },
+  "watch/providers": {
+    "results": {
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/16807-jornal-nacional/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/9A6Oxd3F7iXm7mds7CxYOBicojs.png",
+            "provider_id": 307,
+            "provider_name": "Globoplay",
+            "display_priority": 10
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/lXOL0wjZCPEjmUXJmNkXj15EULI.jpg",
+        "genre_ids": [
+          10763,
+          10767
+        ],
+        "id": 30739,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Canal Livre",
+        "overview": "",
+        "popularity": 1.0681,
+        "poster_path": "/zqw6wPf6cuH7LvOlieuvoGMMdoP.jpg",
+        "first_air_date": "1980-08-17",
+        "softcore": false,
+        "name": "Canal Livre",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gSPHZVWaA3HdXsOQ6nuYyTbIM1e.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 314603,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Jornal Das Dez",
+        "overview": "",
+        "popularity": 0.5439,
+        "poster_path": "/nAl1tUYETIvLIyqQqmMd7RHW8ne.jpg",
+        "first_air_date": "1996-10-15",
+        "softcore": false,
+        "name": "Jornal Das Dez",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gGA1t9r8qPZj6AXNN9AqL9xr3Qe.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 314605,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Jornal GloboNews - Edição Da Meia-Noite",
+        "overview": "",
+        "popularity": 1.1776,
+        "poster_path": "/x5tMW0rtjRKgbGIFo5KLaUyUJT2.jpg",
+        "first_air_date": "2012-09-21",
+        "softcore": false,
+        "name": "Jornal GloboNews - Edição Da Meia-Noite",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4ktW4gGK3SQm0Tk9EFFclKPWV9q.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 314606,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "GloboNews Em Pauta",
+        "overview": "",
+        "popularity": 1.3287,
+        "poster_path": "/ybe0TnL8HnAJstyXTB7WDZZPrZs.jpg",
+        "first_air_date": "2010-08-16",
+        "softcore": false,
+        "name": "GloboNews Em Pauta",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eQf1n0Qivellh5oIsLtncJWqyeF.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 314607,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Jornal GloboNews",
+        "overview": "",
+        "popularity": 0.6078,
+        "poster_path": "/ttegVrqNHCT9DEQDAOmngeWWrMb.jpg",
+        "first_air_date": "1996-07-30",
+        "softcore": false,
+        "name": "Jornal GloboNews",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zQ7reGSpII7xHzWRfgAzGSxsGhW.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 314610,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "GloboNews Em Ponto",
+        "overview": "",
+        "popularity": 1.0873,
+        "poster_path": null,
+        "first_air_date": "2018-07-18",
+        "softcore": false,
+        "name": "GloboNews Em Ponto",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7h2pWwB9093JyKAv9PS605nb6IE.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 314612,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Liderança S/A GloboNews",
+        "overview": "",
+        "popularity": 0.8497,
+        "poster_path": "/tJbjwsop5eRiUSzCbFmWQnUVmBn.jpg",
+        "first_air_date": "2025-04-05",
+        "softcore": false,
+        "name": "Liderança S/A GloboNews",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jfwcRYQIPm9ljfdn1n6hz8k2arS.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 314615,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Diálogos Com Mario Sergio Conti",
+        "overview": "",
+        "popularity": 0.8528,
+        "poster_path": "/3cQjOyY06fQ7oAdZ2pErMUZgvQR.jpg",
+        "first_air_date": "2014-04-10",
+        "softcore": false,
+        "name": "Diálogos Com Mario Sergio Conti",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mnHYotPjsgHcP7RJjkb617IYJUQ.jpg",
+        "genre_ids": [
+          99,
+          10763
+        ],
+        "id": 314616,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "GloboNews Especial",
+        "overview": "",
+        "popularity": 2.7406,
+        "poster_path": "/xLsKGGTfk9NG5DEFAMDEI11p33U.jpg",
+        "first_air_date": "2010-05-13",
+        "softcore": false,
+        "name": "GloboNews Especial",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jf8LIQAABpVBijGGN0Vmb1mEly5.jpg",
+        "genre_ids": [
+          10763,
+          10767
+        ],
+        "id": 314617,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Roberto D'Avila",
+        "overview": "",
+        "popularity": 0.608,
+        "poster_path": "/qRUSC7xVISZ9Uj37vfwm6x3NoDh.jpg",
+        "first_air_date": "2014-03-22",
+        "softcore": false,
+        "name": "Roberto D'Avila",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oy7FnGIGokPdvhFj3n6DXsxqab5.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 314618,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "GloboNews Miriam Leitão",
+        "overview": "",
+        "popularity": 0.6605,
+        "poster_path": "/7xO2dNfitiKZn0fFCj99HJ9x7Kz.jpg",
+        "first_air_date": "2012-05-03",
+        "softcore": false,
+        "name": "GloboNews Miriam Leitão",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9E2MFZFeBeZaM5Anaog44TJa36L.jpg",
+        "genre_ids": [
+          10767,
+          10763
+        ],
+        "id": 314708,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Bora Brasil",
+        "overview": "",
+        "popularity": 0.5305,
+        "poster_path": "/b36BsS6doaNYe0mIVMrOIhpTcuO.jpg",
+        "first_air_date": "2020-03-16",
+        "softcore": false,
+        "name": "Bora Brasil",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4UVCBDSuB4NhW6yAhbCFZWV8vT7.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 314709,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Brasil Urgente",
+        "overview": "",
+        "popularity": 0.512,
+        "poster_path": "/1mIsNJUQ4zPjlG54EKXVCx4EpLd.jpg",
+        "first_air_date": "2001-12-03",
+        "softcore": false,
+        "name": "Brasil Urgente",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p0N3k1dDwRwqEOKybjYHNocBSq8.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 322694,
+        "origin_country": [
+          "BR"
+        ],
+        "original_language": "pt",
+        "original_name": "Bom Dia Minas",
+        "overview": "",
+        "popularity": 22.5798,
+        "poster_path": "/iuJ7aEJO2xHELm8ksyBjw2TRC56.jpg",
+        "first_air_date": "1989-05-22",
+        "softcore": false,
+        "name": "Bom Dia Minas",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10767
+        ],
+        "id": 328611,
+        "origin_country": [
+          "PT"
+        ],
+        "original_language": "pt",
+        "original_name": "Olhos nos Olhos",
+        "overview": "",
+        "popularity": 6.6649,
+        "poster_path": "/yytQ4ZQuowYkC2Tw2rrc603RV21.jpg",
+        "first_air_date": "2011-09-19",
+        "softcore": false,
+        "name": "Olhos nos Olhos",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lYR7fIK9yn3C84elgNLELV5NNYn.jpg",
+        "genre_ids": [
+          10767,
+          10751
+        ],
+        "id": 330174,
+        "origin_country": [
+          "PT"
+        ],
+        "original_language": "pt",
+        "original_name": "na saúde e na doença",
+        "overview": "",
+        "popularity": 2.6306,
+        "poster_path": "/nR5Iw1VqonPxsjKCvRA2QHwIapt.jpg",
+        "first_air_date": "2026-07-05",
+        "softcore": false,
+        "name": "na saúde e na doença",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lKZx3YDrJHGEZD5P1t5PM0fFuzf.jpg",
+        "genre_ids": [
+          10763
+        ],
+        "id": 94,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Fox Online",
+        "overview": "",
+        "popularity": 0.5149,
+        "poster_path": "/3G6MCvgHAjP6zVZYQT93TiTp3ry.jpg",
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Fox Online",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10763
+        ],
+        "id": 96,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Rita Cosby: Live & Direct",
+        "overview": "",
+        "popularity": 0.7852,
+        "poster_path": null,
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Rita Cosby: Live & Direct",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dZZSswKKICxp46MqSRfR029j5SI.jpg",
+        "genre_ids": [
+          10763,
+          10767
+        ],
+        "id": 60,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Hardball with Chris Matthews",
+        "overview": "",
+        "popularity": 3.8475,
+        "poster_path": "/kEoxG0jgaMd5gDWxzfIgK3lmWE9.jpg",
+        "first_air_date": "",
+        "softcore": false,
+        "name": "Hardball with Chris Matthews",
+        "vote_average": 5.875,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2z85pmHUqfkktqDuqaxksGSW8S8.jpg",
+        "genre_ids": [
+          10763,
+          35
+        ],
+        "id": 70,
+        "origin_country": [
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "This Hour Has 22 Minutes",
+        "overview": "",
+        "popularity": 27.7611,
+        "poster_path": "/shWjVJtL7NBLcGiylwWwXLm9nlR.jpg",
+        "first_air_date": "1993-10-11",
+        "softcore": false,
+        "name": "This Hour Has 22 Minutes",
+        "vote_average": 6.7,
+        "vote_count": 53
+      }
+    ],
+    "total_pages": 112,
+    "total_results": 2234
+  }
+}

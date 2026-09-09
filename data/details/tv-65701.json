@@ -1,0 +1,2244 @@
+{
+  "adult": false,
+  "backdrop_path": "/hvFCS0dMeC3ffiF4uYTKzUAkvYL.jpg",
+  "created_by": [
+    {
+      "id": 1176585,
+      "credit_id": "56ce9a48c3a3681e390010af",
+      "name": "Rhett McLaughlin",
+      "original_name": "Rhett McLaughlin",
+      "gender": 2,
+      "profile_path": "/kbo15Tdm0nxLSdgoXL30dBsNSiG.jpg"
+    },
+    {
+      "id": 1176586,
+      "credit_id": "56ce9a52c3a3681e440014a9",
+      "name": "Link Neal",
+      "original_name": "Link Neal",
+      "gender": 2,
+      "profile_path": "/kRGfDZxFM1TLoovPY0gTrMWw6Tc.jpg"
+    }
+  ],
+  "episode_run_time": [
+    10
+  ],
+  "first_air_date": "2012-01-09",
+  "genres": [
+    {
+      "id": 35,
+      "name": "كوميديا"
+    }
+  ],
+  "homepage": "http://youtube.com/rhettandlink2",
+  "id": 65701,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2026-09-04",
+  "last_episode_to_air": {
+    "id": 7730947,
+    "name": "الحلقة 153",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-08",
+    "episode_number": 153,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 30,
+    "show_id": 65701,
+    "still_path": null
+  },
+  "name": "Good Mythical Morning",
+  "next_episode_to_air": {
+    "id": 7779865,
+    "name": "الحلقة 3",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-09",
+    "episode_number": 3,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 31,
+    "show_id": 65701,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 213,
+      "logo_path": "/wwemzKWzjKYJFfCeiB57q3r4Bcm.png",
+      "name": "Netflix",
+      "origin_country": ""
+    },
+    {
+      "id": 247,
+      "logo_path": "/i9YpTodhXMOAYo0TZrP0UrHeunc.png",
+      "name": "YouTube",
+      "origin_country": ""
+    },
+    {
+      "id": 9309,
+      "logo_path": "/nGBvrhfhGtipdl12f55t1oUwQQS.png",
+      "name": "Mythical Society",
+      "origin_country": "US"
+    }
+  ],
+  "number_of_episodes": 3440,
+  "number_of_seasons": 31,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_name": "Good Mythical Morning",
+  "overview": "",
+  "popularity": 165.9958,
+  "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+  "production_companies": [
+    {
+      "id": 83075,
+      "logo_path": "/uJnpQbI7KwoduL7pwl7s7nrBFat.png",
+      "name": "Mythical Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2014-01-08",
+      "episode_count": 829,
+      "id": 168953,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/wDpIMiIH2ehfq5sFHlWi7UzcBdc.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-09",
+      "episode_count": 129,
+      "id": 74857,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/cYBtw3YCXd02HpfELlDQ65AzKA3.jpg",
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-08-06",
+      "episode_count": 85,
+      "id": 80041,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-14",
+      "episode_count": 60,
+      "id": 80127,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-09-03",
+      "episode_count": 79,
+      "id": 180047,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-08",
+      "episode_count": 124,
+      "id": 80128,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-07-14",
+      "episode_count": 115,
+      "id": 80151,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-12",
+      "episode_count": 135,
+      "id": 80170,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 7,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2015-08-10",
+      "episode_count": 100,
+      "id": 80600,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-11",
+      "episode_count": 115,
+      "id": 80129,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-08-01",
+      "episode_count": 105,
+      "id": 79033,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-16",
+      "episode_count": 109,
+      "id": 84322,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-08-21",
+      "episode_count": 191,
+      "id": 91712,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": "/dSiBXGrzVXxEwPVKmuRS08BsuUh.jpg",
+      "season_number": 12,
+      "vote_average": 10
+    },
+    {
+      "air_date": "2018-01-08",
+      "episode_count": 214,
+      "id": 97950,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": "/z0beSI0A23BCi1bwGAs1wN7fKE4.jpg",
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-08-20",
+      "episode_count": 95,
+      "id": 155719,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": "/z0beSI0A23BCi1bwGAs1wN7fKE4.jpg",
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-07",
+      "episode_count": 125,
+      "id": 180049,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": "/z0beSI0A23BCi1bwGAs1wN7fKE4.jpg",
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-08-26",
+      "episode_count": 90,
+      "id": 180050,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": "/z0beSI0A23BCi1bwGAs1wN7fKE4.jpg",
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-13",
+      "episode_count": 144,
+      "id": 180051,
+      "name": "الموسم 17",
+      "overview": "",
+      "poster_path": "/z0beSI0A23BCi1bwGAs1wN7fKE4.jpg",
+      "season_number": 17,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-09-14",
+      "episode_count": 74,
+      "id": 168952,
+      "name": "الموسم 18",
+      "overview": "",
+      "poster_path": "/bzhrgL1y7uCF7hdFpm1Ygf7cjL2.jpg",
+      "season_number": 18,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-11",
+      "episode_count": 139,
+      "id": 173525,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": "/bzhrgL1y7uCF7hdFpm1Ygf7cjL2.jpg",
+      "season_number": 19,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-09-14",
+      "episode_count": 76,
+      "id": 209142,
+      "name": "الموسم 20",
+      "overview": "",
+      "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "season_number": 20,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-10",
+      "episode_count": 143,
+      "id": 239349,
+      "name": "الموسم 21",
+      "overview": "",
+      "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "season_number": 21,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-09-12",
+      "episode_count": 76,
+      "id": 307725,
+      "name": "الموسم 22",
+      "overview": "",
+      "poster_path": "/jMpBQr2aNOFAI6wsC47zsOG6qOh.jpg",
+      "season_number": 22,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-09",
+      "episode_count": 153,
+      "id": 323590,
+      "name": "الموسم 23",
+      "overview": "",
+      "poster_path": "/3D3M7wvy23RsDjNwIaQOrLhulAL.jpg",
+      "season_number": 23,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-09-11",
+      "episode_count": 76,
+      "id": 347090,
+      "name": "الموسم 24",
+      "overview": "",
+      "poster_path": "/9Ar4kNCupt0KPbPHe90YNYVSHun.jpg",
+      "season_number": 24,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-01-08",
+      "episode_count": 161,
+      "id": 373976,
+      "name": "الموسم 25",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 25,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2024-09-09",
+      "episode_count": 84,
+      "id": 417660,
+      "name": "الموسم 26",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 26,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-01-06",
+      "episode_count": 159,
+      "id": 436570,
+      "name": "الموسم 27",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 27,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-07-07",
+      "episode_count": 35,
+      "id": 466096,
+      "name": "الموسم 28",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 28,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2025-09-08",
+      "episode_count": 96,
+      "id": 474670,
+      "name": "الموسم 29",
+      "overview": "",
+      "poster_path": "/t6BntvwgG46nCeGEeoLXqjeMUtv.jpg",
+      "season_number": 29,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-01-05",
+      "episode_count": 153,
+      "id": 493244,
+      "name": "الموسم 30",
+      "overview": "",
+      "poster_path": "/uYktIx0ufQjVTwjqGfF6ByxFSMy.jpg",
+      "season_number": 30,
+      "vote_average": 2.8
+    },
+    {
+      "air_date": "2026-09-07",
+      "episode_count": 5,
+      "id": 542019,
+      "name": "الموسم 31",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 31,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 6.9,
+  "vote_count": 93,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1176586,
+        "known_for_department": "Acting",
+        "name": "Link Neal",
+        "original_name": "Link Neal",
+        "popularity": 0.8473,
+        "profile_path": "/kRGfDZxFM1TLoovPY0gTrMWw6Tc.jpg",
+        "character": "Self - Host",
+        "credit_id": "56ce9a869251413e5f0010bb",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1176585,
+        "known_for_department": "Acting",
+        "name": "Rhett McLaughlin",
+        "original_name": "Rhett McLaughlin",
+        "popularity": 1.0187,
+        "profile_path": "/kbo15Tdm0nxLSdgoXL30dBsNSiG.jpg",
+        "character": "Self - Host",
+        "credit_id": "56ce9a7f9251413e6d001155",
+        "order": 2
+      }
+    ],
+    "crew": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/iFB8TiYON7yC3qO6f0jfLd3YKVp.jpg",
+        "id": 9895,
+        "name": "Rowan & Martin's Laugh-In",
+        "original_name": "Rowan & Martin's Laugh-In",
+        "overview": "An American sketch comedy television program hosted by comedians Dan Rowan and Dick Martin.",
+        "poster_path": "/abMymAYr5R1yVeNl9NZs3x27RoY.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 18.2006,
+        "first_air_date": "1968-01-22",
+        "softcore": false,
+        "vote_average": 6.75,
+        "vote_count": 36,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/desDFpjZHiBc4ENHIPs3NLWctWS.jpg",
+        "id": 2299,
+        "name": "Nick Cannon Presents: Wild 'N Out",
+        "original_name": "Nick Cannon Presents: Wild 'N Out",
+        "overview": "Nick Cannon and an A-list celebrity lead a team of improv comedians as they compete against each other.",
+        "poster_path": "/9I00u4M54u5tulUQT6qVFOZKMvt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 31.4167,
+        "first_air_date": "2005-07-28",
+        "softcore": false,
+        "vote_average": 8,
+        "vote_count": 68,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lgKx2elyFNo28chTgMQwfzPB0gM.jpg",
+        "id": 2548,
+        "name": "Second City Television",
+        "original_name": "Second City Television",
+        "overview": "Second City Television is a Canadian television sketch comedy show offshoot from Toronto's Second City troupe that ran between 1976 and 1984.",
+        "poster_path": "/nTvV8fC0qsikn2x8OtHrweKzU3M.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 13.1905,
+        "first_air_date": "1976-09-21",
+        "softcore": false,
+        "vote_average": 7.766,
+        "vote_count": 32,
+        "origin_country": [
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qo5H027TuPR3FpTMLD2l9IOLjMy.jpg",
+        "id": 43082,
+        "name": "Key & Peele",
+        "original_name": "Key & Peele",
+        "overview": "Key & Peele is an American sketch comedy television show. It stars Keegan-Michael Key and Jordan Peele, both former cast members of MADtv. Each episode of the show consists of several pre-taped sketches starring the two actors, introduced by Key and Peele in front of a live studio audience.",
+        "poster_path": "/dt2Uf7yjKEAy5xSY86EvLY1ywNV.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 20.6969,
+        "first_air_date": "2012-01-31",
+        "softcore": false,
+        "vote_average": 7.673,
+        "vote_count": 255,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mDJgsLw4ZNkIRhXySfHr7hDyMXK.jpg",
+        "id": 260471,
+        "name": "Shifting Gears",
+        "original_name": "Shifting Gears",
+        "overview": "Matt is a stubborn, widowed owner of a classic car restoration shop. When Matt's estranged daughter Riley and her teenage kids move into his house, the real restoration begins.",
+        "poster_path": "/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 12.1355,
+        "first_air_date": "2025-01-08",
+        "softcore": false,
+        "vote_average": 6.435,
+        "vote_count": 77,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/r1hDvTOSVLmcHBZ3j8JjI4LgL4r.jpg",
+        "id": 905,
+        "name": "French & Saunders",
+        "original_name": "French & Saunders",
+        "overview": "French and Saunders is a British sketch comedy television series written by and starring comic duo Dawn French and Jennifer Saunders. It is also the name by which the performers are known on the occasions when they appear elsewhere as a double act.",
+        "poster_path": "/AcWD8oqasrJCqhRrscVsscp9yL7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.9125,
+        "first_air_date": "1987-03-09",
+        "softcore": false,
+        "vote_average": 7.425,
+        "vote_count": 40,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7itt3K5Hq7UvKeNrzniLCC4DdKB.jpg",
+        "id": 57607,
+        "name": "Kroll Show",
+        "original_name": "Kroll Show",
+        "overview": "Kroll Show is an American sketch comedy television series created by and starring comedian Nick Kroll.",
+        "poster_path": "/ge6QB1aUrOxWawe0ZsVfBdp9zNy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 6.1363,
+        "first_air_date": "2013-01-16",
+        "softcore": false,
+        "vote_average": 6.711,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w3ihDcCxjbVXPLUY1v4Dwb0OJzj.jpg",
+        "id": 971,
+        "name": "WKRP in Cincinnati",
+        "original_name": "WKRP in Cincinnati",
+        "overview": "When a Cincinnati radio station switches from sedate music to top-40 rock 'n' roll, its staff of oddball characters is forced to switch gears quickly. New programming director Andy Travis brings in a new DJ named Venus Flytrap to work with the station's burned-out veteran, Dr. Johnny Fever. Neurotic newsman Les Nessman, eager beaver Bailey Quarters, sleazy salesman Herb Tarlek, blonde bombshell Jennifer Marlowe, who serves as the station's ultra-capable receptionist, and station manager Arthur Carlson, whose domineering mother owns WKRP, round out the eccentric bunch.",
+        "poster_path": "/dP3eGvgzztqbSr73UDNLh0o35hS.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 11.7815,
+        "first_air_date": "1978-09-18",
+        "softcore": false,
+        "vote_average": 7.588,
+        "vote_count": 97,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sd6rmyVkO3qmrnzCGz43zAKZ8ve.jpg",
+        "id": 2537,
+        "name": "The Fast Show",
+        "original_name": "The Fast Show",
+        "overview": "The Fast Show is a multi BAFTA award winning sketch comedy show written and produced by Paul Whitehouse and Charlie Higson.",
+        "poster_path": "/v7qGNeI1lEFFTUCPUsxf5WMlist.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 6.0292,
+        "first_air_date": "1994-09-27",
+        "softcore": false,
+        "vote_average": 7.745,
+        "vote_count": 51,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eLIhwHOLBDeHoJFFHX4MddAJqdD.jpg",
+        "id": 2016,
+        "name": "Mama's Family",
+        "original_name": "Mama's Family",
+        "overview": "Thelma Harper and her spinster sister Fran open their home to Thelma's recently divorced son Vinton and his teenage son and daughter. It's quite an adjustment for everyone, especially the cranky, argumentative Thelma.",
+        "poster_path": "/hRzbRLRJ8VgEJyTVyoVwDfGOfVr.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 14.3798,
+        "first_air_date": "1983-01-22",
+        "softcore": false,
+        "vote_average": 7.529,
+        "vote_count": 52,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hs0q37NVgFkN8AMtXhKbtw3w4gR.jpg",
+        "id": 1849,
+        "name": "Benson",
+        "original_name": "Benson",
+        "overview": "A butler deals with life at the governor's mansion.",
+        "poster_path": "/pXQIwDfMMDF6GVJdgLm68Exm5wo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 14.2559,
+        "first_air_date": "1979-09-13",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 42,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9cusPHYQfwgI0fNbAhCjdngwBsb.jpg",
+        "id": 3968,
+        "name": "NewsRadio",
+        "original_name": "NewsRadio",
+        "overview": "The office politics and interpersonal relationships among the staff of WNYX NewsRadio, New York's #2 news radio station.",
+        "poster_path": "/nP698ZfQ9OqCXnxhEPapa8QOgdX.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 25.4068,
+        "first_air_date": "1995-03-21",
+        "softcore": false,
+        "vote_average": 7.364,
+        "vote_count": 143,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tMRdEsMg9MyXAkcufK9YJEeIaNW.jpg",
+        "id": 1400,
+        "name": "سينفيلد",
+        "original_name": "Seinfeld",
+        "overview": "مسلسل يدور في إطار درامي كوميدي عن حياة النجم (جيري سينفلد) اليومية برفقة مجموعة من أصدقائه بمدينة (نيويورك)، والمواقف التي يتعرض لها وما يتعرض له من مفارقات كوميدية.",
+        "poster_path": "/1xmkUIKCk8axWechuaOikGBhCT7.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 63.951,
+        "first_air_date": "1989-07-05",
+        "softcore": false,
+        "vote_average": 8.252,
+        "vote_count": 2441,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/i3Q1wvghlLktqiWZUF43RdnEF7z.jpg",
+        "id": 2852,
+        "name": "That Mitchell and Webb Look",
+        "original_name": "That Mitchell and Webb Look",
+        "overview": "A comedy sketch show featuring David Mitchell and Robert Webb.",
+        "poster_path": "/7TqlyrCZ5Pk2oQyj2QKI5slcsyQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 6.2644,
+        "first_air_date": "2006-09-14",
+        "softcore": false,
+        "vote_average": 7.707,
+        "vote_count": 116,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/suAy3jUAomvjG7p2p31cNgQYJhr.jpg",
+        "id": 17662,
+        "name": "Stewart Lee's Comedy Vehicle",
+        "original_name": "Stewart Lee's Comedy Vehicle",
+        "overview": "Stewart Lee's Comedy Vehicle is a comedy series created by Stewart Lee. The BBC Two series debuted on 16 March 2009, and featured stand-up routines filmed at The Mildmay Club in Newington Green, and sketches based on a weekly theme, featuring amongst others Simon Munnery, Kevin Eldon and Paul Putner with voice-over parts recorded by Peter Serafinowicz. The series is produced by Richard Webb and directed by Tim Kirkby. The programme is executive-produced by Armando Iannucci and script-edited by Chris Morris, marking a rare reformation of their creative double-act.",
+        "poster_path": "/qAz21k9HdRTsJ7Ilr9aHYNGEcJ9.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.2769,
+        "first_air_date": "2009-03-16",
+        "softcore": false,
+        "vote_average": 8.032,
+        "vote_count": 31,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lJSojr9b2KaddW1QI8q2bY6OXy.jpg",
+        "id": 72610,
+        "name": "Carpool Karaoke: المسلسل",
+        "original_name": "Carpool Karaoke: The Series",
+        "overview": "تعال في رحلة مليئة بالنجوم والأغاني في هذه السلسلة حائزة الـ\"إيمي\". في كل حلقة، يتشارك النجوم سيارة ويغنّون أغانيهم المفضلة وينطلقون في مغامرات عديدة.",
+        "poster_path": "/bA6tpDMoyQO8fRmXC8sHh7LQoqW.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 18.5795,
+        "first_air_date": "2017-08-08",
+        "softcore": false,
+        "vote_average": 6.1,
+        "vote_count": 34,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/geydxZs7Z1LzjxubhoiLvl8Es3.jpg",
+        "id": 2704,
+        "name": "2Point4 Children",
+        "original_name": "2point4 Children",
+        "overview": "They're just your average family. Stressed mum Bill, daft dad Ben, and two troublesome teens. Plus just a few crazy ideas, escapades and mishaps. The classic 90s sitcom.",
+        "poster_path": "/mCQh5bOzSEsRS3zXaRLfZTfgawA.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 7.94,
+        "first_air_date": "1991-09-03",
+        "softcore": false,
+        "vote_average": 7.3,
+        "vote_count": 21,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hpNiE5Dbf3RtESQXP0Wxb2rNL89.jpg",
+        "id": 1964,
+        "name": "The Jeffersons",
+        "original_name": "The Jeffersons",
+        "overview": "Sitcom following a successful African-American couple, George and Louise “Weezyö Jefferson as they “move on up” from working-class Queens to a ritzy Manhattan apartment. A spin-off of All in the Family.",
+        "poster_path": "/huCetHpJmTa7BnPo6WedWdfl3g5.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "popularity": 17.1344,
+        "first_air_date": "1975-01-18",
+        "softcore": false,
+        "vote_average": 7.317,
+        "vote_count": 126,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ipDqtcBJMZEpnPBwQjT6nIclcQE.jpg",
+        "id": 110,
+        "name": "Less than Perfect",
+        "original_name": "Less than Perfect",
+        "overview": "Claude Casey moved up in the secretarial world of television news, from temp to the anchor's desk. After her boss hires her full time, Claude realizes she may be in over her head in this world of assistants fighting to get ahead. But Claude is determined to prove that though she may not be perfect, she's not going down without a fight.",
+        "poster_path": "/xKKV8RNURtXipLmxa26PfazWuYy.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 14.4,
+        "first_air_date": "2002-10-01",
+        "softcore": false,
+        "vote_average": 6.726,
+        "vote_count": 31,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gwy5pUl8EH1vROVWfEo1TAmqHNK.jpg",
+        "id": 62649,
+        "name": "Superstore",
+        "original_name": "Superstore",
+        "overview": "A hilarious workplace comedy about a unique family of employees at a super-sized mega store. From the bright-eyed newbies and the seen-it-all veterans to the clueless summer hires and the in-it-for-life managers, together they hilariously tackle the day-to-day grind of rabid bargain hunters, riot-causing sales and nap-worthy training sessions.",
+        "poster_path": "/2tpY5qIYwH85njvjI5BnH4VNA6p.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          35
+        ],
+        "popularity": 33.6698,
+        "first_air_date": "2015-11-30",
+        "softcore": false,
+        "vote_average": 7.534,
+        "vote_count": 864,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 16,
+    "total_results": 304
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hpNiE5Dbf3RtESQXP0Wxb2rNL89.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 1964,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Jeffersons",
+        "overview": "",
+        "popularity": 17.1344,
+        "poster_path": "/huCetHpJmTa7BnPo6WedWdfl3g5.jpg",
+        "first_air_date": "1975-01-18",
+        "softcore": false,
+        "name": "The Jeffersons",
+        "vote_average": 7.317,
+        "vote_count": 126
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w2qfdUvIgidvvEPkSxz2406So5W.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 1912,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Strangers with Candy",
+        "overview": "",
+        "popularity": 7.8107,
+        "poster_path": "/wYQ9ugFYIj5zoIplo79YHf7v9Ed.jpg",
+        "first_air_date": "1999-04-07",
+        "softcore": false,
+        "name": "Strangers with Candy",
+        "vote_average": 7.444,
+        "vote_count": 45
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4Y2XnGhGnir8nx9pf7WGAAcho7K.jpg",
+        "genre_ids": [
+          35,
+          10751
+        ],
+        "id": 1921,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Gilligan's Island",
+        "overview": "",
+        "popularity": 15.6145,
+        "poster_path": "/7PjIzzCh43hNU77C8oKLdL7XXge.jpg",
+        "first_air_date": "1964-09-26",
+        "softcore": false,
+        "name": "Gilligan's Island",
+        "vote_average": 7.441,
+        "vote_count": 262
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4M7hvMrltcE9NaNJShJpvaNni51.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          35
+        ],
+        "id": 1960,
+        "origin_country": [
+          "CA",
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Dave the Barbarian",
+        "overview": "",
+        "popularity": 7.7795,
+        "poster_path": "/ipzGJybXsUyqP78Wn6zC1XXbyRy.jpg",
+        "first_air_date": "2004-01-23",
+        "softcore": false,
+        "name": "Dave the Barbarian",
+        "vote_average": 7.468,
+        "vote_count": 111
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aAHC2D9XaLcFtJ5cWPf1BYARuJn.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          10762
+        ],
+        "id": 1835,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Kenan & Kel",
+        "overview": "",
+        "popularity": 17.6455,
+        "poster_path": "/ftRkgMhF1CofVSLMeonh9Hjz7a4.jpg",
+        "first_air_date": "1996-08-17",
+        "softcore": false,
+        "name": "Kenan & Kel",
+        "vote_average": 8.064,
+        "vote_count": 407
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5MWFjQ3NuNtNeOE9FdrVLeNMNPs.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10765
+        ],
+        "id": 1877,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Phineas and Ferb",
+        "overview": "كل يوم، يشرع الأخوان غير الشقيقين الطيبين في عطلة صيفية في تنفيذ مشروع جديد ومبتكر، ما يثير استياء شقيقتهما المتسلطة سندس التي تحاول بكل جهد إفشالهما. وفي ذات الوقت، يخطط حيوانهم بيري خلد الماء مكافحة مخططات الدكتور شر أبو الأشرار.",
+        "popularity": 62.9298,
+        "poster_path": "/qxqMf1Rn7am0wwJdct6KXaCKfqx.jpg",
+        "first_air_date": "2007-08-17",
+        "softcore": false,
+        "name": "فارس وفادي",
+        "vote_average": 7.879,
+        "vote_count": 1057
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ApL9ZQyzbUJsx4eUwA8MoouWiwB.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 60793,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Selfie",
+        "overview": "",
+        "popularity": 6.1204,
+        "poster_path": "/wMHyfRltVBvmlkDqMZgMGURnwHn.jpg",
+        "first_air_date": "2014-09-30",
+        "softcore": false,
+        "name": "Selfie",
+        "vote_average": 6.448,
+        "vote_count": 105
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zPyVcPi5vFjjHbZsYYbbIG1I0oL.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 2140,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Everybody Loves Raymond",
+        "overview": "",
+        "popularity": 43.5814,
+        "poster_path": "/dcCnVVggEBfNpzHrqzDJqhE6tGP.jpg",
+        "first_air_date": "1996-09-13",
+        "softcore": false,
+        "name": "Everybody Loves Raymond",
+        "vote_average": 6.827,
+        "vote_count": 672
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gahwgNlUOWdA7pSgH0HJPEiVOsF.jpg",
+        "genre_ids": [
+          35,
+          16
+        ],
+        "id": 93292,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Duncanville",
+        "overview": "كحال معظم المراهقين في الخامسة عشرة من عمرهم، يرى دنكان مستقبلاً زاهراً: المال، الحرية، السيارات، والفتيات؛ لكن الواقع أقرب إلى: الفقر الدائم، والقيادة برفقة الأم، ورعاية أخته الصغيرة. ليس استثنائياً، لكن خياله واسعٌ لدرجة أنه لا يخلو من الدهشة",
+        "popularity": 8.2966,
+        "poster_path": "/fLJ74pNLxYrAMFBNI95VSDPiOGd.jpg",
+        "first_air_date": "2020-02-16",
+        "softcore": false,
+        "name": "دانكانفيل",
+        "vote_average": 7.696,
+        "vote_count": 281
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          10764,
+          35
+        ],
+        "id": 306291,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "마피아 댄스",
+        "overview": "",
+        "popularity": 2.5565,
+        "poster_path": "/d18ZdslBVgtrX8BgndltxcsdqQ7.jpg",
+        "first_air_date": "2018-08-18",
+        "softcore": false,
+        "name": "마피아 댄스",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3G1uNDOGJWLNTOzjkdVphVlRmli.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 2207,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Fawlty Towers",
+        "overview": "",
+        "popularity": 9.6651,
+        "poster_path": "/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
+        "first_air_date": "1975-09-19",
+        "softcore": false,
+        "name": "Fawlty Towers",
+        "vote_average": 8.282,
+        "vote_count": 845
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mLyW3UTgi2lsMdtueYODcfAB9Ku.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 2316,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Office",
+        "overview": "يتناول المسلسل في إطار كوميدي يوميات العمل المستمر في إحدى الشركات المتخصصة في الورق، والعلاقات التي تجمع بين موظفي الشركة أجمعين، وعلاقتهم بالمدير غريب الأطوار مايكل سكوت.",
+        "popularity": 163.7406,
+        "poster_path": "/dWkbUgxMQyrgzGywix5l71i6Feu.jpg",
+        "first_air_date": "2005-03-24",
+        "softcore": false,
+        "name": "المكتب",
+        "vote_average": 8.581,
+        "vote_count": 5454
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kP7pCxfml6erWC9aB72ALtNawJq.jpg",
+        "genre_ids": [
+          10751,
+          35,
+          16
+        ],
+        "id": 126824,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Patrick Star Show",
+        "overview": "تابعوا باتريك ستار الشاب وهو يعيش في منزل عائلته، حيث يقدم برنامجه المنوع الخاص لأهل الحي من غرفة نومه التي كانت في الأصل غرفة تلفزيون.",
+        "popularity": 32.6519,
+        "poster_path": "/44zbV1t35gxgcSN7sTlkUY85GC9.jpg",
+        "first_air_date": "2021-07-09",
+        "softcore": false,
+        "name": "The Patrick Star Show",
+        "vote_average": 5.923,
+        "vote_count": 52
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/c4zV2ysi5Qlns4CPjRJj3hBGMSx.jpg",
+        "genre_ids": [
+          10765,
+          35,
+          10759
+        ],
+        "id": 2287,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Batman",
+        "overview": "يعيش رجل الأعمال الثري بروس واين وتلميذه ديك غرايسون حياة مزدوجة: فهما في الواقع ثنائي مكافحة الجريمة باتمان وروبن. يقود عمود باتمان السري في قصر واين إلى كهف باتمان، حيث يتصل به مفوض الشرطة غوردون غالبًا ليُبلغه بأحدث حالات الطوارئ التي تُهدد مدينة غوثام. ينطلق باتمان وروبن مسرعين إلى مسرح الجريمة في سيارة باتمان، وعليهما (بمساعدة حزام باتمان الموثوق) إحباط جهود مجموعة متنوعة من المجرمين المحترفين، بمن فيهم ريدلر، والجوكر، وكات وومان، وبينغوين.",
+        "popularity": 38.2915,
+        "poster_path": "/1ZEJuuDh0Zpi5ELM3Zev0GBhQ3R.jpg",
+        "first_air_date": "1966-01-12",
+        "softcore": false,
+        "name": "باتمان",
+        "vote_average": 7.307,
+        "vote_count": 617
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uvZk7WWTICEmAzyryqtLH69AWRP.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 2336,
+        "origin_country": [
+          "PH"
+        ],
+        "original_language": "en",
+        "original_name": "Eat Bulaga!",
+        "overview": "",
+        "popularity": 2.1265,
+        "poster_path": null,
+        "first_air_date": "1999-07-30",
+        "softcore": false,
+        "name": "Eat Bulaga!",
+        "vote_average": 8,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oEiC3xXR9R6LPelS92Q9Tn6Bbs1.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 61161,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Black Jesus",
+        "overview": "",
+        "popularity": 6.3076,
+        "poster_path": "/4bc5xzWZZvUrbZD5oCQfvGz8Gak.jpg",
+        "first_air_date": "2014-08-07",
+        "softcore": false,
+        "name": "Black Jesus",
+        "vote_average": 5.784,
+        "vote_count": 44
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/u5jhkXclqQEJMdZiy3dcnNl6P14.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          10764
+        ],
+        "id": 2564,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Ant & Dec's Saturday Night Takeaway",
+        "overview": "",
+        "popularity": 12.6131,
+        "poster_path": "/fNLx9eH8EwyA92K6h2Bjvm0N1cN.jpg",
+        "first_air_date": "2002-06-08",
+        "softcore": false,
+        "name": "Ant & Dec's Saturday Night Takeaway",
+        "vote_average": 6.085,
+        "vote_count": 41
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uNTrRKIOyKYISthoeizghtXPEOK.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "id": 240411,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ダンダダン",
+        "overview": "في رهان لمعرفة حقيقة وجود الأشباح والكائنات الفضائية من عدمه، يواجه طالبان في المرحلة الثانوية مخاطر مروعة خارقة للطبيعة ويكتسبان قوى خارقة... وربما يقعان في الحب أيضًا.",
+        "popularity": 27.6925,
+        "poster_path": "/AnRpml5TmL0qkLbTNJRxEdkPgIr.jpg",
+        "first_air_date": "2024-10-04",
+        "softcore": false,
+        "name": "داندادان",
+        "vote_average": 8.513,
+        "vote_count": 941
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35
+        ],
+        "id": 2512,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Good Morning, Miami",
+        "overview": "",
+        "popularity": 7.2067,
+        "poster_path": "/lkpBHfRMdhZCYYpBYE21wMBgIlf.jpg",
+        "first_air_date": "2002-09-26",
+        "softcore": false,
+        "name": "Good Morning, Miami",
+        "vote_average": 6.889,
+        "vote_count": 9
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bJNyO3IYLIBugyYPIIR3kz9p4zv.jpg",
+        "genre_ids": [
+          35
+        ],
+        "id": 2525,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "TFI Friday",
+        "overview": "",
+        "popularity": 15.1609,
+        "poster_path": "/1g5f2OFtZmlGk1fL1zLb1OiKLXR.jpg",
+        "first_air_date": "1996-02-09",
+        "softcore": false,
+        "name": "TFI Friday",
+        "vote_average": 7.1,
+        "vote_count": 10
+      }
+    ],
+    "total_pages": 1628,
+    "total_results": 32541
+  },
+  "watch/providers": {
+    "results": {
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=AG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 13
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 2
+          },
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 92
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=BB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 10
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=BZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 91
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 109
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 17
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CU": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=CU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 24
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 12
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 8
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=FJ",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 31
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=GF",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=HK",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 28
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=HN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 7
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 19
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 20
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=KE",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "MW": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=MW",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 12
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 9
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=PG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=PH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 8
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=RU",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 8
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 13
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=TC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eWHpKZihdiY617s5LipWJWvN28U.png",
+            "provider_id": 188,
+            "provider_name": "YouTube Premium",
+            "display_priority": 33
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 151
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/65701-good-mythical-morning/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,4767 @@
+{
+  "adult": false,
+  "backdrop_path": "/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+  "created_by": [],
+  "episode_run_time": [
+    24
+  ],
+  "first_air_date": "2021-01-11",
+  "genres": [
+    {
+      "id": 10759,
+      "name": "حركة ومغامرة"
+    },
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
+    {
+      "id": 10765,
+      "name": "خيال علمي وفانتازيا"
+    }
+  ],
+  "homepage": "https://mushokutensei.jp",
+  "id": 94664,
+  "in_production": true,
+  "languages": [
+    "ja"
+  ],
+  "last_air_date": "2026-09-07",
+  "last_episode_to_air": {
+    "id": 7478563,
+    "name": "نقطة التحول 4",
+    "overview": "بعد إنقاذ \"ناناهوشي\"، يتلقى \"روديوس\" نصيحة تقوده للقاءٍ غامض سيقلب حياته!",
+    "vote_average": 5.5,
+    "vote_count": 2,
+    "air_date": "2026-09-07",
+    "episode_number": 11,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 24,
+    "season_number": 3,
+    "show_id": 94664,
+    "still_path": "/cVco0tzbJkJjx38r6JIZRDfT6cp.jpg"
+  },
+  "name": "موشوكو تينسي",
+  "next_episode_to_air": {
+    "id": 7478566,
+    "name": "الحلقة 12",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-14",
+    "episode_number": 12,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 94664,
+    "still_path": null
+  },
+  "networks": [
+    {
+      "id": 614,
+      "logo_path": "/hSdroyVthq3CynxTIIY7lnS8w1.png",
+      "name": "Tokyo MX",
+      "origin_country": "JP"
+    },
+    {
+      "id": 861,
+      "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+      "name": "BS11",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1137,
+      "logo_path": "/j12pSWPsDBxE1mmIpB7M8VRzk78.png",
+      "name": "KBS Kyoto",
+      "origin_country": "JP"
+    }
+  ],
+  "number_of_episodes": 61,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_name": "無職転生 ～異世界行ったら本気だす～",
+  "overview": "عندما تدهس شاحنة شابًا يبلغ من العمر 34 سنة، لا تنتهي قصته هناك. بل يعاد بعثه في عالم جديد كرضيع، ينتهز \"رودي\" كلّ فرصة ليعيش الحياة التي لطالما أرادها. مدعومًا بأصدقاء جُدد، وبعض القدرات السحرية المكتسبة حديثًا، والشجاعة لفعل الأشياء التي كان يحلم بها دائمًا، ينطلق في مغامرة ملحمية، مع تذكره لكل تجربته السابقة.",
+  "popularity": 133.819,
+  "poster_path": "/8RukSzEsRnNIPIOQflg5cBwx5f2.jpg",
+  "production_companies": [
+    {
+      "id": 124275,
+      "logo_path": "/b3gxPqVIVIeHDMLt1Lr0WvuxYwP.png",
+      "name": "Studio Bind",
+      "origin_country": "JP"
+    },
+    {
+      "id": 95809,
+      "logo_path": "/5ac8LhghlxYKbPSwbXJkgrNfjGF.png",
+      "name": "EGG FIRM",
+      "origin_country": "JP"
+    },
+    {
+      "id": 142186,
+      "logo_path": "/bdXTOuU7PdsDtQngyM7vb47zePs.png",
+      "name": "Hakuhodo DY Music & Pictures",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5809,
+      "logo_path": "/bViN2LqqtONjOTkYmPtnMNaVOtD.png",
+      "name": "Frontier Works",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2073,
+      "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 162011,
+      "logo_path": "/bg6yrVhnmv6eNE8cMWehyE9wAeb.png",
+      "name": "GREE Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 118502,
+      "logo_path": "/JQ5bx6n7Qmdmyqz6sqjo5Fz2iR.png",
+      "name": "BS11",
+      "origin_country": "JP"
+    },
+    {
+      "id": 151191,
+      "logo_path": "/wBA1v3dFtpRARIE7sYxc657x7rQ.png",
+      "name": "GREE",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2022-03-16",
+      "episode_count": 3,
+      "id": 219489,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/suYPdj3ygiNblzdlLQcc9LNPUVW.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-11",
+      "episode_count": 23,
+      "id": 134338,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg",
+      "season_number": 1,
+      "vote_average": 5
+    },
+    {
+      "air_date": "2023-07-10",
+      "episode_count": 24,
+      "id": 334394,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/4QXhxdeA4ahGVIBlp7xRkIyzCTa.jpg",
+      "season_number": 2,
+      "vote_average": 4.1
+    },
+    {
+      "air_date": "2026-07-04",
+      "episode_count": 14,
+      "id": 400493,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": "/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg",
+      "season_number": 3,
+      "vote_average": 4.4
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "أريد أن أعيش بجدّية.",
+  "type": "Scripted",
+  "vote_average": 8.4,
+  "vote_count": 1707,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1321070,
+        "known_for_department": "Acting",
+        "name": "内山夕実",
+        "original_name": "内山夕実",
+        "popularity": 2.0903,
+        "profile_path": "/JvavoF3YOLCf4LHfl4XvYobANE.jpg",
+        "character": "Rudeus Greyrat (voice)",
+        "credit_id": "5eecb1a159e8a90037c7e076",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 144655,
+        "known_for_department": "Acting",
+        "name": "杉田智和",
+        "original_name": "杉田智和",
+        "popularity": 3.351,
+        "profile_path": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg",
+        "character": "Rudeus Greyrat's Former Self (voice)",
+        "credit_id": "5fccd560cadb6b00401baf03",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1324646,
+        "known_for_department": "Acting",
+        "name": "加隈亜衣",
+        "original_name": "加隈亜衣",
+        "popularity": 2.5753,
+        "profile_path": "/o3tQSeeJAeafJNvQs2IKvpKY7av.jpg",
+        "character": "Eris Boreas Greyrat (voice)",
+        "credit_id": "5eecb1c9b84cdd00332e92e9",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1254671,
+        "known_for_department": "Acting",
+        "name": "茅野愛衣",
+        "original_name": "茅野愛衣",
+        "popularity": 3.8404,
+        "profile_path": "/l8ywp387rfdAS7mOExe3cEZnsk0.jpg",
+        "character": "Sylphiette (voice)",
+        "credit_id": "64a6f9d8957e6d00e2107ccd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1820616,
+        "known_for_department": "Acting",
+        "name": "小原好美",
+        "original_name": "小原好美",
+        "popularity": 2.899,
+        "profile_path": "/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg",
+        "character": "Roxy Migurdia (voice)",
+        "credit_id": "6a494b88a60040773eec9b5c",
+        "order": 5
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1494796,
+        "known_for_department": "Production",
+        "name": "大澤信博",
+        "original_name": "大澤信博",
+        "popularity": 0.445,
+        "profile_path": "/lzbV0Av7RlBDXsJJD4ytrX85ziC.jpg",
+        "credit_id": "6a6ec7b3d0f51b93a9206890",
+        "department": "Production",
+        "job": "Development Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3168033,
+        "known_for_department": "Production",
+        "name": "宿輪浩介",
+        "original_name": "宿輪浩介",
+        "popularity": 0.3692,
+        "profile_path": null,
+        "credit_id": "6a6ec7ab570d2bc126950303",
+        "department": "Production",
+        "job": "Development Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5170057,
+        "known_for_department": "Production",
+        "name": "羽川寛",
+        "original_name": "羽川寛",
+        "popularity": 0.5938,
+        "profile_path": null,
+        "credit_id": "6a6ec7a0763c48a3303d00d8",
+        "department": "Production",
+        "job": "Development Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3460274,
+        "known_for_department": "Production",
+        "name": "辻政英",
+        "original_name": "辻政英",
+        "popularity": 0.3792,
+        "profile_path": null,
+        "credit_id": "6a6ec792570d2bc1269502f5",
+        "department": "Production",
+        "job": "Development Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2759730,
+        "known_for_department": "Production",
+        "name": "工藤大丈",
+        "original_name": "工藤大丈",
+        "popularity": 0.5233,
+        "profile_path": "/frFLsK53vS5XReB95pi90qliwbu.jpg",
+        "credit_id": "6a6ec77b3c81dcf1e40c1638",
+        "department": "Production",
+        "job": "Development Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2044642,
+        "known_for_department": "Production",
+        "name": "大田圭二",
+        "original_name": "大田圭二",
+        "popularity": 0.6235,
+        "profile_path": "/15NZaRqZHSguv6wF2SvuFoYlkiO.jpg",
+        "credit_id": "6a6ec773441a6c8d980f7ab5",
+        "department": "Production",
+        "job": "Development Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3438552,
+        "known_for_department": "Production",
+        "name": "神部宗之",
+        "original_name": "神部宗之",
+        "popularity": 0.5067,
+        "profile_path": null,
+        "credit_id": "6a6ec76cd0f51b93a9206882",
+        "department": "Production",
+        "job": "Development Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6384400,
+        "known_for_department": "Production",
+        "name": "滝澤圭一",
+        "original_name": "滝澤圭一",
+        "popularity": 0.291,
+        "profile_path": null,
+        "credit_id": "6a6e84d4a7e1c9bf53e97b30",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3025877,
+        "known_for_department": "Visual Effects",
+        "name": "古川良太",
+        "original_name": "古川良太",
+        "popularity": 0.779,
+        "profile_path": null,
+        "credit_id": "6a479cbfbea961e4caa0c468",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3956574,
+        "known_for_department": "Production",
+        "name": "谷内直人",
+        "original_name": "谷内直人",
+        "popularity": 0.3647,
+        "profile_path": null,
+        "credit_id": "6a479ca0246939661a7440b8",
+        "department": "Writing",
+        "job": "Series Composition"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2879096,
+        "known_for_department": "Directing",
+        "name": "渋谷亮介",
+        "original_name": "渋谷亮介",
+        "popularity": 0.4722,
+        "profile_path": null,
+        "credit_id": "6a479c9829bdebcd36a47b8e",
+        "department": "Writing",
+        "job": "Series Composition"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2879096,
+        "known_for_department": "Directing",
+        "name": "渋谷亮介",
+        "original_name": "渋谷亮介",
+        "popularity": 0.4722,
+        "profile_path": null,
+        "credit_id": "661eb8e8c09e99017dafcfe1",
+        "department": "Directing",
+        "job": "Series Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3860350,
+        "known_for_department": "Production",
+        "name": "菱山光輝",
+        "original_name": "菱山光輝",
+        "popularity": 0.3643,
+        "profile_path": null,
+        "credit_id": "6644bc375c06e2c6423d2845",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2805390,
+        "known_for_department": "Visual Effects",
+        "name": "嶋田真恵",
+        "original_name": "嶋田真恵",
+        "popularity": 0.4581,
+        "profile_path": null,
+        "credit_id": "64203a816a34480112b976e3",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3980403,
+        "known_for_department": "Visual Effects",
+        "name": "シロタカ",
+        "original_name": "シロタカ",
+        "popularity": 0.689,
+        "profile_path": null,
+        "credit_id": "64203a31534661008579ce42",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1498115,
+        "known_for_department": "Sound",
+        "name": "يوشياكي فوجيساوا",
+        "original_name": "藤澤慶昌",
+        "popularity": 0.7385,
+        "profile_path": "/q8EUjY2Gwz0MXqhajjRhtrVSr8P.jpg",
+        "credit_id": "615b0c09eb14fa0043de15ca",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2937591,
+        "known_for_department": "Writing",
+        "name": "理不尽な孫の手",
+        "original_name": "理不尽な孫の手",
+        "popularity": 0.3205,
+        "profile_path": null,
+        "credit_id": "6048d670c4ad590058fe1159",
+        "department": "Writing",
+        "job": "Novel"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2580149,
+        "known_for_department": "Production",
+        "name": "畠山拓郎",
+        "original_name": "畠山拓郎",
+        "popularity": 0.3844,
+        "profile_path": null,
+        "credit_id": "5fff039042d8a5003c3e5c12",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2934603,
+        "known_for_department": "Production",
+        "name": "大須賀翔",
+        "original_name": "大須賀翔",
+        "popularity": 0.2949,
+        "profile_path": null,
+        "credit_id": "5fff036f42d8a5003f3e8127",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1735189,
+        "known_for_department": "Production",
+        "name": "大和田智之",
+        "original_name": "大和田智之",
+        "popularity": 0.8645,
+        "profile_path": "/sif9JEUD8RLZCXx8A2azaIq57Fg.jpg",
+        "credit_id": "5fff03033e09f3003b177c0d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2934600,
+        "known_for_department": "Production",
+        "name": "今井遼介",
+        "original_name": "今井遼介",
+        "popularity": 0.4891,
+        "profile_path": null,
+        "credit_id": "5fff0265223e20003fb01f6d",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1494123,
+        "known_for_department": "Production",
+        "name": "山中隆弘",
+        "original_name": "山中隆弘",
+        "popularity": 0.5948,
+        "profile_path": "/etb0mFotwGCtz5zJVo69sICF7Qh.jpg",
+        "credit_id": "5fff01cd3e09f3003e17a2db",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2794067,
+        "known_for_department": "Sound",
+        "name": "小林健樹",
+        "original_name": "小林健樹",
+        "popularity": 0.5169,
+        "profile_path": null,
+        "credit_id": "5fff0198ad59b5003ffb45a9",
+        "department": "Sound",
+        "job": "Music Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 570486,
+        "known_for_department": "Sound",
+        "name": "明田川仁",
+        "original_name": "明田川仁",
+        "popularity": 0.6501,
+        "profile_path": "/3YMIlDX7ICCPH6TGoaewb4AcBZM.jpg",
+        "credit_id": "5fff0129678259003f9b3aa0",
+        "department": "Sound",
+        "job": "Sound Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2123518,
+        "known_for_department": "Camera",
+        "name": "頓所信二",
+        "original_name": "頓所信二",
+        "popularity": 0.3392,
+        "profile_path": null,
+        "credit_id": "5fff0112dfe31d0040641545",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1583859,
+        "known_for_department": "Art",
+        "name": "三宅昌和",
+        "original_name": "三宅昌和",
+        "popularity": 0.4815,
+        "profile_path": "/69zzlMEuK9j55aFlCEK1Vsjx5M6.jpg",
+        "credit_id": "5f814c566082eb0038e3a658",
+        "department": "Art",
+        "job": "Art Direction"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1845351,
+        "known_for_department": "Visual Effects",
+        "name": "土居真紀子",
+        "original_name": "土居真紀子",
+        "popularity": 0.349,
+        "profile_path": null,
+        "credit_id": "5f814c279ae6130039c06eac",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1316309,
+        "known_for_department": "Editing",
+        "name": "三嶋章紀",
+        "original_name": "三嶋章紀",
+        "popularity": 0.8943,
+        "profile_path": null,
+        "credit_id": "5f814bd7021cee0037498ba5",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1807034,
+        "known_for_department": "Sound",
+        "name": "上野励",
+        "original_name": "上野励",
+        "popularity": 0.5231,
+        "profile_path": null,
+        "credit_id": "5f814b9b1065d30033d2fc91",
+        "department": "Sound",
+        "job": "Sound Effects"
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "iso_639_1": "ar",
+        "iso_3166_1": "SA",
+        "name": "",
+        "key": "U_5FAWLkETo",
+        "site": "YouTube",
+        "size": 1080,
+        "type": "Trailer",
+        "official": true,
+        "id": "6a73592d89fdce87febe2bd5",
+        "published_at": "2023-07-09T12:00:17.000Z"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/hABdMmk7ujczjxrRkCPCgWDt4ES.jpg",
+        "id": 123525,
+        "name": "The Faraway Paladin",
+        "original_name": "最果てのパラディン",
+        "overview": "In a city of the dead, long since ruined and far from human civilization, lives a single human child. His name is Will, and he's being raised by three undead: the hearty skeletal warrior, Blood; the graceful mummified priestess, Mary; and the crotchety spectral sorcerer, Gus. The three pour love into the boy, and teach him all they know. But one day, Will starts to wonder: \"Who am I?\" Will must unravel the mysteries of this faraway dead man's land, and unearth the secret pasts of the undead. He must learn the love and mercy of the good gods, and the bigotry and madness of the bad. And when he knows it all, the boy will take his first step on the path to becoming a Paladin.",
+        "poster_path": "/rzrtmcYoz1A3LtcvZXSI0mTtXzJ.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 12.0297,
+        "first_air_date": "2021-10-09",
+        "softcore": false,
+        "vote_average": 7.024,
+        "vote_count": 84,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7XloWeuHmw94BFzPf4oF59rvPZH.jpg",
+        "id": 113808,
+        "name": "Seirei Gensouki: Spirit Chronicles",
+        "original_name": "精霊幻想記",
+        "overview": "تتقاطع حياته الماضية مع حياته الحالية - صبي يحمل ذكريات حياتين يواجه مصيره! بعد مقتل والدته في سن مبكرة، كافح ريو اليتيم بكل قوته من أجل البقاء على قيد الحياة.",
+        "poster_path": "/dNki26bfC3ad6mRQZOxY8ysosrb.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          18,
+          10759,
+          10765
+        ],
+        "popularity": 19.3605,
+        "first_air_date": "2021-07-06",
+        "softcore": false,
+        "vote_average": 8.2,
+        "vote_count": 260,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ciPDoPMqd3icCBHsIlhIb3UyOd2.jpg",
+        "id": 111819,
+        "name": "الطريق في عالم آخر بتوجيه من القمر",
+        "original_name": "月が導く異世界道中",
+        "overview": "\"ماكوتو ميسومي\" طالب ثانوي عادي يعيش حياة طبيعية، لكنه يُستدعى فجأة إلى عالم آخر ليصبح بطلًا. إلا أن إلهة العالم الآخر تهينه بسبب اختلاف مظهره، وتجرده من لقب البطل، ثم تلقي به في البرية الواقعة عند أطراف العالم.\n\nوأثناء تجوله في البرية، يواجه \"ماكوتو\" التنانين والعناكب والأورك والأقزام، بالإضافة إلى مختلف القبائل غير البشرية. وبما أنه ينحدر من عالم مختلف، فإنه يمتلك القدرة على إطلاق قوى سحرية ومهارات قتالية تفوق الخيال.\n\nلكن كيف سيتعامل \"ماكوتو\" مع مختلف الأجناس التي يواجهها، وكيف سيتمكن من البقاء في بيئته الجديدة؟\n\nفي هذه المغامرة الفانتازية، يحاول \"ماكوتو\" تحويل العالم الآخر إلى مكان أفضل، رغم أن البشر والآلهة قد أداروا ظهورهم له.",
+        "poster_path": "/7XQ2dMEARAdUZQscnIJFPI54q3r.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          35
+        ],
+        "popularity": 14.7524,
+        "first_air_date": "2021-07-07",
+        "softcore": false,
+        "vote_average": 8.391,
+        "vote_count": 449,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k3V9eGCWmiOTKSQTBjG48pJhDHd.jpg",
+        "id": 207493,
+        "name": "The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far",
+        "original_name": "転生貴族の異世界冒険録～自重を知らない神々の使徒～",
+        "overview": "After dying in the act of stopping a crime in modern Japan, our hero is reincarnated as Cain von Silford, third son of a noble family in a world of swords and sorcery. In his new life, all children receive a blessing from the gods...but Cain is unexpectedly blessed with an absolutely enormous, over-the-top cornucopia of magical powers. If his dream of traveling the world as a free spirit is to come true, he can't reveal too much of his potential to the wrong people. A light-hearted, escapist adventure in another world begins!",
+        "poster_path": "/aH3EKIPW9XRaIJQeF7EYlOe7SEK.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "popularity": 8.6907,
+        "first_air_date": "2023-04-03",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 69,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ed9Mgo1gBO9Za0zAyNIpTvtjTDU.jpg",
+        "id": 213830,
+        "name": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
+        "original_name": "転生したら第七王子だったので、気ままに魔術を極めます",
+        "overview": "Prince Lloyd wasn't always a prince...in fact, his previous life is one he remembers perfectly: he was a sorcerer, of sorts. So when he was forced to reincarnate, he decided to continue his studies, prince of the realm or no! But his new life has its own sets of challenges...including being a 10-year-old! What's the 7th prince/sorcerer to do?!",
+        "poster_path": "/ruLkQB8i1yazHgO0QCWpyJRRTs9.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "popularity": 16.6594,
+        "first_air_date": "2024-04-02",
+        "softcore": false,
+        "vote_average": 7.7,
+        "vote_count": 115,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lCsYvxiYjS2CcusGjHnNdEm9SG1.jpg",
+        "id": 199920,
+        "name": "KamiKatsu: Working for God in a Godless World",
+        "original_name": "神無き世界のカミサマ活動",
+        "overview": "Yukito, the son of a questionable cult leader, lost his life due to the cult's ridiculous training practices. Now to his surprise, he was reincarnated into another world! It was an ideal world for him without the concept of \"God\" or \"religion\" BUT...! A unique \"reincarnating in other world\" adventure begins: creating a \"religion\" in a world without God?!",
+        "poster_path": "/d82CH1EMSoC2VvYSTxCZHPboJYq.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          9648,
+          10765
+        ],
+        "popularity": 7.3768,
+        "first_air_date": "2023-04-06",
+        "softcore": false,
+        "vote_average": 6.4,
+        "vote_count": 54,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7PqkW8dr5WV6VcU3UeWOlx0cQP8.jpg",
+        "id": 120155,
+        "name": "The Greatest Demon Lord Is Reborn as a Typical Nobody",
+        "original_name": "史上最強の大魔王、村人Aに転生する",
+        "overview": "In his past life, he was known as Demon Lord Varvatos, an all-powerful magic user and ruler. But he was lonely after the loss of his friends and loved ones during his rise to power, so in his dying moments, Varvatos cast a reincarnation spell so that he'd get a second chance at just being a normal guy. At first it looks like that's going to work – he's reborn thousands of years later as villager Ard. Unfortunately for him, his memories are still intact and he's not aware just how much has been lost over the time he spent not existing, and it looks like that's going to cost him his normal life.",
+        "poster_path": "/dtULGP3qRi932NzYGsp7u6q6zAS.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 9.7712,
+        "first_air_date": "2022-04-06",
+        "softcore": false,
+        "vote_average": 7.2,
+        "vote_count": 103,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/htD5SJpPOvkmAowU80KrWnN59WO.jpg",
+        "id": 119495,
+        "name": "البروز في الظل",
+        "original_name": "陰の実力者になりたくて！",
+        "overview": "الأبطال العظماء والأشرار الشيطانيون هم أنواع الشخصيات التي يتوق الناس إليها—ولكن ليس سيد كاجينو. يتوق إلى أن يصبح العقل المدبر الحقيقي وراء كل ذلك, سحب الأوتار, وجعل مكائده تقود القصة بأكملها. في حياته السابقة في اليابان الحديثة ، لم يكن قادرا على تحقيق أهدافه. ولكن الآن ، تولد من جديد في عالم من السحر ، وقال انه سوف تظهر سماحة حقيقية من الظل!\n\nبينما يتظاهر سيد بأنه مجرد شخصية غوغاء عادية أخرى ، يقوم بتجنيد أعضاء في منظمته (المزيفة) حديقة الظل ، بهدف القضاء على الطائفة الغامضة التي تتربص في الظل. مع الكثير من الإعلانات ، يقود سيد منظمته (المزيفة) ضد عبادة ديابولوس الخاطئة (لكنها حقيقية بشكل مدهش).",
+        "poster_path": "/7JKYmtLydAwo9ZsEmAknZiO4U8g.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
+        "popularity": 31.3901,
+        "first_air_date": "2022-10-05",
+        "softcore": false,
+        "vote_average": 8.073,
+        "vote_count": 328,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/k4jj6KGcxQzo26PSjfAdQguUTfN.jpg",
+        "id": 114477,
+        "name": "Harem in the Labyrinth of Another World",
+        "original_name": "異世界迷宮でハーレムを",
+        "overview": "كان ميتشيو كاغا، طالب المدرسة الثانوية، يتجول بلا هدف في الحياة والإنترنت، عندما وجد نفسه منقولًا من موقع ويب مشبوه إلى عالم خيالي - وُلد من جديد كرجل قوي يمكنه استخدام \"ج\"",
+        "poster_path": "/drAnsk5w2PX5x3ooPv7I2xr3ksq.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 17.0562,
+        "first_air_date": "2022-07-06",
+        "softcore": false,
+        "vote_average": 7.4,
+        "vote_count": 169,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6c1tMSLoWmy0rPic1j0cihExfmP.jpg",
+        "id": 155942,
+        "name": "سايتو العامل الماهر في عالم آخر",
+        "original_name": "便利屋斎藤さん、異世界に行く",
+        "overview": "لم يكن سايتو، العامل البسيط، شخصًا مميزًا قط. طوال حياته، كان تحصيله الدراسي متوسطًا، ومهاراته الرياضية عادية، ووظيفته روتينية... لكن مساره المتواضع ينقلب رأسًا على عقب عندما يستيقظ في عالم آخر. هنا، يرافقه محاربون وسحرة وجان في رحلات استكشافية إلى أعماق الأبراج المحصنة، ويدرك سايتو للمرة الأولى معنى أن يكون مطلوبًا. ففي النهاية، من غير العامل البسيط يمكن الوثوق به لفتح صناديق الكنوز المغلقة أو إصلاح معدات حلفائه؟ تبدأ القصة بكلمة \"شكرًا\" بسيطة، وهي قصة حياة شخص عادي مليئة بالإنجاز",
+        "poster_path": "/xp404PMU2cGsODMTIkkUizbYhcm.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 7.3054,
+        "first_air_date": "2023-01-08",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 64,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/56APRYRS4NdgrezZNnV6csySWC0.jpg",
+        "id": 209649,
+        "name": "Am I Actually the Strongest?",
+        "original_name": "実は俺、最強でした？",
+        "overview": "After being a shut-in, Haruto is reincarnated as a baby. And amazingly, that baby is a prince! However, he's abandoned in a forest on the day he's born because of his low magic level... What will be the fate of Haruto, who was inadvertently given 1000 times the normal amount of magic by the goddess of reincarnation without anyone noticing?!",
+        "poster_path": "/og42meOPOiq37wUSfQV0lqb1U0Q.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "popularity": 7.9457,
+        "first_air_date": "2023-07-02",
+        "softcore": false,
+        "vote_average": 7.426,
+        "vote_count": 108,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/e30T3teKp6VZlIXhI0AhTDksvoy.jpg",
+        "id": 99071,
+        "name": "Redo of Healer",
+        "original_name": "回復術士のやり直し",
+        "overview": "In a world of monsters, adventurers and magic, some of the most gifted healers are subjugated to brute force. Keyaru gains the ability to rewind time and turns the tables on those who’ve exploited him in this dark fantasy tale of vengeance and fury.",
+        "poster_path": "/9T7TT0w92RbeRP5QSnNq81HHxde.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          18,
+          80
+        ],
+        "popularity": 28.8199,
+        "first_air_date": "2021-01-13",
+        "softcore": false,
+        "vote_average": 8.287,
+        "vote_count": 1050,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mnNkpQ4J9bNubFQfReaI9SVV9QR.jpg",
+        "id": 80504,
+        "name": "Yuuna and the Haunted Hot Springs",
+        "original_name": "ゆらぎ荘の幽奈さん",
+        "overview": "Kogarashi Fuyuzora is a \"hands on\" psychic. Ever since the day he got possessed by an evil ghost, he has been burdened with debt. Needing a cheap room to rent, he winds up at a haunted hot springs inn, Yuragi Inn, where only incredibly beautiful girls reside. Amongst the residents is a ghost, Yuuna, who cannot move on to the spirit world. Despite the resistance from the current tenants that are all girls, Kogarashi manages to start his new life at Yuragi Inn.",
+        "poster_path": "/fuZemw0UoF8aMD77FSmDom3VvW1.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "popularity": 18.8898,
+        "first_air_date": "2018-07-14",
+        "softcore": false,
+        "vote_average": 7.198,
+        "vote_count": 63,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kwczoZpGHJm9Gzk52FWsGWHRhFQ.jpg",
+        "id": 249545,
+        "name": "Beheneko: The Elf-Girl's Cat Is Secretly an S-Ranked Monster!",
+        "original_name": "Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士（ペット）として暮らしてます",
+        "overview": "After dying in a fight against the forces of evil, a knight found himself reincarnated as one of the most powerful monsters in the world: a behemoth! Problem is, he has to grow up before he can really strut his stuff, and a baby behemoth looks an awful lot like…a housecat?! And when an elf adventurer decides to take him in, she may need his help as much as he needs hers!",
+        "poster_path": "/6EUZcmKU8JsRfsLQEDVBbiCuQ9G.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
+        "popularity": 8.4887,
+        "first_air_date": "2025-01-04",
+        "softcore": false,
+        "vote_average": 6.276,
+        "vote_count": 38,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7nq4Nu5kaggdGGYxzxGMxdI6aNJ.jpg",
+        "id": 60808,
+        "name": "لا لعب ، لا حياة",
+        "original_name": "ノーゲーム・ノーライフ",
+        "overview": "تدور أحداث الأنمي بشكل عام حول الأخوى سورا و شيرو بطلي الأنمي حيث ان كلاهما لم يذهب إلى المدرسة من قبل و يعتبران الحياة سوى لعبة غبية و حياتهما كانت بالكامل عبارة في غرفتهما يقضيان جل وقتهم في اللعب تحت إسم بلانك [ غير معروف ] و هكذا إلى ان اتى إله من عالم آخر يدعى بـ تيتو، لأخذهم معه إلى عالمه و في ذلك العالم كل شيء يتحدد و يقرر عن طريق الألعاب و من هناك يلتقي سورا وشيرو بستيفاني دولا [ ستاف ] ثم يصبحان ملك لإحدى الدول تلك عبر اللعب .",
+        "poster_path": "/7l8nKzWZrhlGAWUubbw4UJaRlLH.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          35
+        ],
+        "popularity": 10.3833,
+        "first_air_date": "2014-04-09",
+        "softcore": false,
+        "vote_average": 8.014,
+        "vote_count": 771,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uxOlf8zRKQ6TnEN1QxiORcJKcDf.jpg",
+        "id": 194718,
+        "name": "Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀",
+        "original_name": "英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～",
+        "overview": "After living a life devoted to serving his country and people, Inglis’ one wish to be free of a king’s burden and to train was actually heard, but as a beautiful girl! Reborn in the far future as a daughter to renowned knights, Inglis can now focus on mastering the martial arts. A wish has been granted, and Inglis will be on the front lines fulfilling the dream of becoming the strongest knight.",
+        "poster_path": "/zrnUnV0PFWnJ1G6wDvzkQL2HL9d.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 12.2757,
+        "first_air_date": "2023-01-10",
+        "softcore": false,
+        "vote_average": 6.777,
+        "vote_count": 56,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tNiN29L1IaLK5uQIGMgtQvUKQVt.jpg",
+        "id": 214540,
+        "name": "Dead Mount Death Play",
+        "original_name": "デッドマウント・デスプレイ",
+        "overview": "As a legendary hero nears victory against a necromancer known as The Corpse God, things take an unexpected turn with the dark sorcerer’s final gambit—reincarnation magic. This last-ditch effort catches the brave fighter off guard, and now he’s a boy named Polka Shinoyama in a whole new world! The showdown between good and evil just got epic.",
+        "poster_path": "/oOlg3bPWOKBgy5kgOTVe8pJz4HI.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 7.068,
+        "first_air_date": "2023-04-11",
+        "softcore": false,
+        "vote_average": 6.871,
+        "vote_count": 66,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/petHMm8TmcYiBy1JOTCncBcNk83.jpg",
+        "id": 237233,
+        "name": "الاسترخاء في عالم آخر مع قوى الغش الخارقة من المستوى 2",
+        "original_name": "Lv2からチートだった元勇者候補のまったり異世界ライフ",
+        "overview": "تستدعي مملكة كليرود السحرية مئات الأبطال من عوالم أخرى كل عام للقتال في حربهم ضد الظلام وجيشه من الشياطين الأقوياء. بانازا هو أحد هؤلاء الأبطال، تم استدعاؤه من العاصمة الملكية بالوما، ولكن هناك شيء غير صحيح - بانازا مجرد تاجر متوسط. ليس لديه سحر ولا قدرة على القتال، وإحصائياته سيئة للغاية. والأسوأ من ذلك، أن حادثًا ما يجعله غير قادر على العودة إلى المنزل! بعد رفضه كبطل وتقطعت به السبل في عالم آخر، وتركه ملك قاسٍ في أقصى أنحاء المملكة يريد رحيله فقط، يبدو مصير بانازا قاتمًا للغاية. ولكن ماذا سيحدث بمجرد أن يجد المرشح البطل الفاشل نفسه يتمتع بقوى غش خارقة بمجرد وصوله إلى المستوى الثاني؟",
+        "poster_path": "/z1ZeQES5IQHHxqzZlEle8DpyeEQ.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "popularity": 14.0322,
+        "first_air_date": "2024-04-08",
+        "softcore": false,
+        "vote_average": 7.286,
+        "vote_count": 105,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8gzjmLZSQHmCU0MylgSzrWSIqUf.jpg",
+        "id": 118821,
+        "name": "The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
+        "original_name": "世界最高の暗殺者、異世界貴族に転生する",
+        "overview": "The world's number one assassin has been reincarnated as the eldest son of a family of aristocrat assassins. In exchange for being reincarnated in another world, a goddess has imposed upon him one condition. \"Kill the Hero who is prophesied to destroy the world.\" This was to be the mission in his new life. The synergistic effect of the vast knowledge and experience he gained that made all manner of assassinations possible in the modern world, and the secret techniques and magic of the fantasy world's most powerful family of assassins turn him into the greatest assassin of all time.",
+        "poster_path": "/iusQCT2pje1Mc8A8LKnW1uZ5BOO.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "popularity": 9.1524,
+        "first_air_date": "2021-10-06",
+        "softcore": false,
+        "vote_average": 8.1,
+        "vote_count": 297,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/szgcMnJSa7HgM0UufecKsPC1Fbg.jpg",
+        "id": 117706,
+        "name": "The Fruit of Evolution: Before I Knew It, My Life Had It Made",
+        "original_name": "進化の実～知らないうちに勝ち組人生～",
+        "overview": "High school student Hiiragi Seiichi is bullied by his classmates for being a \"loser.\" One day, his entire school is suddenly transported to a video game-like world of swords and sorcery. When he accidentally eats \"the Fruit of Evolution,\" his life as a successful \"winner\" begins.",
+        "poster_path": "/5HcGeXvGybHdnKeMqKAJyCBknqI.jpg",
+        "media_type": "tv",
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "popularity": 11.2061,
+        "first_air_date": "2021-10-05",
+        "softcore": false,
+        "vote_average": 7.2,
+        "vote_count": 134,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    ],
+    "total_pages": 39,
+    "total_results": 771
+  },
+  "watch/providers": {
+    "results": {
+      "AD": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=AD",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ]
+      },
+      "AE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 17
+          }
+        ]
+      },
+      "AG": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=AG",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 11
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 11
+          }
+        ]
+      },
+      "AL": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=AL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 58
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 54
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 118
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 80
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "AZ": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=AZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BA": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BA",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ]
+      },
+      "BB": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BB",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 23
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 23
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 33
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 41
+          }
+        ]
+      },
+      "BF": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BF",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 3
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 3
+          }
+        ]
+      },
+      "BG": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BG",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 20
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 20
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BH",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ]
+      },
+      "BM": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 42
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 70
+          }
+        ]
+      },
+      "BS": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ]
+      },
+      "BY": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "BZ": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=BZ",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 9
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 9
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 91
+          }
+        ]
+      },
+      "CD": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CD",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 1
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 1
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CH",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 43
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 43
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 79
+          }
+        ]
+      },
+      "CI": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 44
+          }
+        ]
+      },
+      "CM": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 30
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 45
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 30
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 30
+          }
+        ]
+      },
+      "CU": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CV",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 12
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 12
+          }
+        ]
+      },
+      "CY": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CY",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 9
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 9
+          }
+        ]
+      },
+      "CZ": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=CZ",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          },
+          {
+            "logo_path": "/i2b7mxkUywkzwVVNUTPpIIKXsTt.png",
+            "provider_id": 2536,
+            "provider_name": "Oneplay",
+            "display_priority": 35
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 46
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 84
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 175
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 37
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 64
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=DO",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ]
+      },
+      "DZ": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=DZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ]
+      },
+      "EE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=EE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=EG",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 32
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 32
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 72
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 37
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 66
+          }
+        ]
+      },
+      "FJ": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=FJ",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 11
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 11
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 52
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 76
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=GB",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 86
+          }
+        ]
+      },
+      "GF": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=GF",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 10
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 10
+          }
+        ]
+      },
+      "GH": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=GH",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 14
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 14
+          }
+        ]
+      },
+      "GI": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=GI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ]
+      },
+      "GQ": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=GQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=GR",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 22
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 38
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=GT",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 30
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 30
+          }
+        ]
+      },
+      "GY": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=GY",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 2
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 2
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=HK",
+        "ads": [
+          {
+            "logo_path": "/eJ6QYYiZvSjGHibzaeyjY1rceKJ.png",
+            "provider_id": 625,
+            "provider_name": "LINE TV",
+            "display_priority": 30
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 35
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 35
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=HN",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=HR",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 32
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 32
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 47
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 42
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=ID",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/yEa5cB4KpN4LkiuNhbtsnUR6PX5.png",
+            "provider_id": 489,
+            "provider_name": "Vidio",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 32
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 32
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 38
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 70
+          }
+        ]
+      },
+      "IL": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=IL",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=IN",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 50
+          },
+          {
+            "logo_path": "/e4dDK8VBh4pbdPfwK9aeN9Rc7ar.png",
+            "provider_id": 2182,
+            "provider_name": "Anime Times Amazon Channel",
+            "display_priority": 57
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/ledoS6EgdjTNq8F1e6wubUQer18.png",
+            "provider_id": 2336,
+            "provider_name": "JioHotstar",
+            "display_priority": 3
+          }
+        ]
+      },
+      "IQ": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=IQ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IS": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=IS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 74
+          }
+        ]
+      },
+      "JM": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=JM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 23
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 23
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=JO",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ]
+      },
+      "JP": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=JP",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
+            "provider_id": 337,
+            "provider_name": "Disney Plus",
+            "display_priority": 3
+          },
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/3DGpCh83CR9lDzyKbNWlmUBexBF.png",
+            "provider_id": 84,
+            "provider_name": "U-NEXT",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 25
+          },
+          {
+            "logo_path": "/znUEdjHzuxK2WrNDkKS2Xgv1ooW.png",
+            "provider_id": 2494,
+            "provider_name": "dAnime Amazon Channel",
+            "display_priority": 45
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 71
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/m0tkTiV5TN7NWfazDEYc8NoVXSd.png",
+            "provider_id": 2683,
+            "provider_name": "FOD",
+            "display_priority": 80
+          }
+        ]
+      },
+      "KE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=KE",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 13
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 13
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/ppQIS7UMtBwJSspSoGqDR8wO1Gr.png",
+            "provider_id": 97,
+            "provider_name": "Watcha",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 27
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          },
+          {
+            "logo_path": "/w4ov8Zx73eu2TjHsDs5EmiuYKA4.png",
+            "provider_id": 1883,
+            "provider_name": "TVING",
+            "display_priority": 29
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ]
+      },
+      "KW": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=KW",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ]
+      },
+      "LC": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=LC",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 11
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 11
+          }
+        ]
+      },
+      "LI": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=LI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "LT": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=LT",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=LU",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 10
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 10
+          }
+        ]
+      },
+      "LV": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=LV",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ]
+      },
+      "LY": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=LY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ]
+      },
+      "MA": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=MA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ]
+      },
+      "MC": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=MC",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ]
+      },
+      "MD": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=MD",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ]
+      },
+      "ME": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=ME",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 5
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 5
+          }
+        ]
+      },
+      "MG": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=MG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MK": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=MK",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ]
+      },
+      "ML": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=ML",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MT": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=MT",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=MU",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png",
+            "provider_id": 1796,
+            "provider_name": "Netflix Standard with Ads",
+            "display_priority": 40
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 61
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=MY",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=MZ",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 14
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 14
+          }
+        ]
+      },
+      "NE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=NE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ]
+      },
+      "NG": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=NG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 10
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 10
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 44
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 55
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 56
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 51
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 30
+          }
+        ]
+      },
+      "PF": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=PF",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 10
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 10
+          }
+        ]
+      },
+      "PG": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=PG",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 3
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 3
+          }
+        ]
+      },
+      "PH": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=PH",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ]
+      },
+      "PK": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=PK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 44
+          }
+        ]
+      },
+      "PS": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=PS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 30
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 53
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=QA",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 28
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 37
+          }
+        ]
+      },
+      "RS": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=RS",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ]
+      },
+      "RU": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=RU",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "SC": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=SC",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 12
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 12
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 38
+          }
+        ]
+      },
+      "SG": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=SG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          },
+          {
+            "logo_path": "/aj4EXUQKE0xT5F3JxblWDm0UemY.png",
+            "provider_id": 2686,
+            "provider_name": "Mewatch",
+            "display_priority": 43
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ]
+      },
+      "SI": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=SI",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ]
+      },
+      "SK": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=SK",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 51
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 34
+          }
+        ]
+      },
+      "SM": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=SM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ]
+      },
+      "SN": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=SN",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 12
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 12
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=SV",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ]
+      },
+      "TC": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=TC",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 10
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 10
+          }
+        ]
+      },
+      "TD": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=TD",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 3
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 3
+          }
+        ]
+      },
+      "TH": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=TH",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ]
+      },
+      "TN": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=TN",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 27
+          }
+        ]
+      },
+      "TR": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=TR",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 25
+          }
+        ]
+      },
+      "TT": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=TT",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 12
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 12
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=TW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/bonc3GQiIbZVG9WyNYEYAI9mqFy.png",
+            "provider_id": 159,
+            "provider_name": "Catchplay",
+            "display_priority": 15
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/eJ6QYYiZvSjGHibzaeyjY1rceKJ.png",
+            "provider_id": 625,
+            "provider_name": "LINE TV",
+            "display_priority": 30
+          }
+        ]
+      },
+      "TZ": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=TZ",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 29
+          }
+        ]
+      },
+      "UA": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=UA",
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 7
+          }
+        ]
+      },
+      "UG": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=UG",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/44uAnmSqvA4yBOdbPWN8YgQHjWm.png",
+            "provider_id": 15,
+            "provider_name": "Hulu",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/qHLLmKo7udRgiSnIASVTwP2IxfJ.png",
+            "provider_id": 1968,
+            "provider_name": "Crunchyroll Amazon Channel",
+            "display_priority": 22
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=UY",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 30
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 30
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ]
+      },
+      "XK": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=XK",
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 5
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 5
+          }
+        ]
+      },
+      "YE": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=YE",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 26
+          }
+        ]
+      },
+      "ZA": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=ZA",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          },
+          {
+            "logo_path": "/uFL3c4Cq8M6WoLymlC5Y8bmGytV.png",
+            "provider_id": 283,
+            "provider_name": "Crunchyroll",
+            "display_priority": 24
+          }
+        ]
+      },
+      "ZM": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=ZM",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      },
+      "ZW": {
+        "link": "https://www.themoviedb.org/tv/94664/watch?locale=ZW",
+        "flatrate": [
+          {
+            "logo_path": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+            "provider_id": 8,
+            "provider_name": "Netflix",
+            "display_priority": 0
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ngq0PKrjUyoVBmeMTbkM8FQoa2N.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 60557,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Witches of East End",
+        "overview": "",
+        "popularity": 10.2853,
+        "poster_path": "/jBWSp8hw8CNUFWxTCawXzAhu2Hj.jpg",
+        "first_air_date": "2013-10-06",
+        "softcore": false,
+        "name": "Witches of East End",
+        "vote_average": 7.306,
+        "vote_count": 258
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gd2r6lQEv9gqjqGmlTRYNkkvstX.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "id": 93019,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "俺を好きなのはお前だけかよ",
+        "overview": "",
+        "popularity": 6.2151,
+        "poster_path": "/1Rt4Lyobg82l10F3OUqNux5PtEl.jpg",
+        "first_air_date": "2019-10-03",
+        "softcore": false,
+        "name": "俺を好きなのはお前だけかよ",
+        "vote_average": 8.442,
+        "vote_count": 292
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4U5cJTbXBzW1WxDUZErqU3VNNWl.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 208067,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "山田くんとLv999の恋をする",
+        "overview": "عد أن هجرها حبيبها، أوشكت \"أكاني\" على اعتزال اللعبة التي كانت تجمعهما، لكنها التقت باللاعب \"يامادا\" بالصدفة داخل الـ RPG. تبين أن \"يامادا\" أسطورة حقيقية وشاب جذاب في الواقع، لكن عيبه الوحيد هو هوسه التام بالألعاب وعدم مبالاته بالرومانسية. فهل يظل تركيزه منصباً على اللعبة بينما تنمو مشاعر \"أكاني\" نحوه؟",
+        "popularity": 15.3258,
+        "poster_path": "/qsanOnxFaZAwhR3zbXx3woWSXyN.jpg",
+        "first_air_date": "2023-04-02",
+        "softcore": false,
+        "name": "قصة حبي مع يامادا-كن عند المستوى 999",
+        "vote_average": 8.11,
+        "vote_count": 200
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wQcy20hJw1u1yw1zLN7Q1uWbpmu.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "id": 239761,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "先輩はおとこのこ",
+        "overview": "",
+        "popularity": 8.8067,
+        "poster_path": "/au90540MP5FlnZGZZM6Gszjwcnl.jpg",
+        "first_air_date": "2024-07-05",
+        "softcore": false,
+        "name": "先輩はおとこのこ",
+        "vote_average": 7.095,
+        "vote_count": 21
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rRu0Ogex93Fd3kFzxcLozhHqtZl.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "id": 239764,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "かつて魔法少女と悪は敵対していた。",
+        "overview": "",
+        "popularity": 4.8858,
+        "poster_path": "/9NivXf13bsUsL5ipeZwByuwJLcB.jpg",
+        "first_air_date": "2024-07-09",
+        "softcore": false,
+        "name": "かつて魔法少女と悪は敵対していた。",
+        "vote_average": 7.1,
+        "vote_count": 36
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gDtZQmfzvErZpeXOVeCBQE9WkSF.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          10765
+        ],
+        "id": 239770,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "Doctor Who",
+        "overview": "يسافر الدكتور ورفيقته عبر الزمان والمكان ويقابلان أصدقاء رائعين وخصوماً خطرين.",
+        "popularity": 19.561,
+        "poster_path": "/2JP6NSmBwxg75uTcIHiv5R8PpPi.jpg",
+        "first_air_date": "2024-05-11",
+        "softcore": false,
+        "name": "Doctor Who",
+        "vote_average": 6.372,
+        "vote_count": 331
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yNQT7fVLhopmytPytN6VVPgrMoX.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
+        "id": 239779,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "여신강림",
+        "overview": "",
+        "popularity": 4.1424,
+        "poster_path": "/kpbI1RUrcZOQzo0TRO0XI4ywa3J.jpg",
+        "first_air_date": "2024-08-07",
+        "softcore": false,
+        "name": "여신강림",
+        "vote_average": 8.25,
+        "vote_count": 92
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zRb5aPkZdwIlsv1n0UF4O1plcOr.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10765
+        ],
+        "id": 239830,
+        "origin_country": [
+          "TW"
+        ],
+        "original_language": "zh",
+        "original_name": "整個世界，只有你連上了我",
+        "overview": "",
+        "popularity": 6.2784,
+        "poster_path": "/5nEMD082wcpd1FJphnQD0OjL6bs.jpg",
+        "first_air_date": "2026-08-14",
+        "softcore": false,
+        "name": "整個世界，只有你連上了我",
+        "vote_average": 9,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dESXig57pMNT49NWfnniqBkTJEL.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 239837,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "アフリカのサラリーマン",
+        "overview": "",
+        "popularity": 1.2713,
+        "poster_path": "/95NnPpNHzVhyh6HPeUN7Ko6K4va.jpg",
+        "first_air_date": "2017-06-19",
+        "softcore": false,
+        "name": "アフリカのサラリーマン",
+        "vote_average": 7,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dWhXUMlQuSoASikDLbUfKyPtGeB.jpg",
+        "genre_ids": [
+          16,
+          18,
+          9648
+        ],
+        "id": 306121,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "神の雫",
+        "overview": "",
+        "popularity": 10.1826,
+        "poster_path": "/eJngpqzGzppVkR5XoM9uuPFOukn.jpg",
+        "first_air_date": "2026-04-10",
+        "softcore": false,
+        "name": "神の雫",
+        "vote_average": 6.8,
+        "vote_count": 5
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ek2gvRzKzD16uiQAXwkkl16BkI7.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "id": 126273,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "COBRA THE ANIMATION ザ・サイコガン",
+        "overview": "",
+        "popularity": 3.1571,
+        "poster_path": "/gQWHV1WuJTZgw3KtmWQWIszbX7N.jpg",
+        "first_air_date": "2008-08-28",
+        "softcore": false,
+        "name": "COBRA THE ANIMATION ザ・サイコガン",
+        "vote_average": 7,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3BBCWMfACKTDpaaMh3FCZuWrzI3.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "id": 126278,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "COBRA THE ANIMATION タイム・ドライブ",
+        "overview": "",
+        "popularity": 2.344,
+        "poster_path": "/jSNFUXlAoBRmBn1DQxK6fUc5GIL.jpg",
+        "first_air_date": "2009-04-24",
+        "softcore": false,
+        "name": "COBRA THE ANIMATION タイム・ドライブ",
+        "vote_average": 6.9,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7BP3aJUCk8Iv20YFAqHcbXpTMwR.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "id": 93149,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "プランダラ",
+        "overview": "في عالم ما بعد نهاية العالم الذي تهيمن عليها ما يسمى بـ\"الأرقام\"، سيكون لكل إنسان هويته المميزة بـ \"الكونت\"، التي يمكن أن تحدد أي رقم متعلق بحياتهم. قد تكون المسافة التي قطعها المرء أو مجاملاته التي قدمها له الآخرون، يمكن لهذا الكونت أن يقودهم إلى الهاوية عندما ينخفض  للصفر.",
+        "popularity": 7.5187,
+        "poster_path": "/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+        "first_air_date": "2020-01-09",
+        "softcore": false,
+        "name": "الناهب",
+        "vote_average": 8.27,
+        "vote_count": 790
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2gqmRyFc1srk8VWQDesQTslbWoX.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 208221,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ついでにとんちんかん",
+        "overview": "",
+        "popularity": 2.7101,
+        "poster_path": "/nMFg4BFReGpL9DbsiWHYlg1bJrI.jpg",
+        "first_air_date": "1987-10-17",
+        "softcore": false,
+        "name": "ついでにとんちんかん",
+        "vote_average": 6,
+        "vote_count": 1
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4ixh7PNNWd1VaohzKD7pcP33SiN.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 126437,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "アオアシ",
+        "overview": "اوي اشيتو هو لاعب كرة قدم شاب طموح من بلدة منعزلة في اليابان تبددت آماله في الالتحاق بمدرسة ثانوية لديها نادٍ جيد لكرة القدم ذالك عندما تسبب في حادث خلال مباراة حاسمة لفريقه مما أدى إلى خسارتهم وإقصائهم من البطولة ومع ذلك فإنه يلفت انتباه شخص مهم من طوكيو كان في زيارة كيف ستنتهي الأمور بالنسبة لـ اشيتو؟.",
+        "popularity": 24.8463,
+        "poster_path": "/zoQf7ZycPDtrxRWTLMlw7DMqgPI.jpg",
+        "first_air_date": "2022-04-09",
+        "softcore": false,
+        "name": "أواشي",
+        "vote_average": 7.8,
+        "vote_count": 69
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hmu5f2Psxg10l2tamUYfTWplLTJ.jpg",
+        "genre_ids": [
+          10765,
+          18,
+          10759
+        ],
+        "id": 2033,
+        "origin_country": [
+          "GB",
+          "CA"
+        ],
+        "original_language": "en",
+        "original_name": "Shoebox Zoo",
+        "overview": "",
+        "popularity": 5.3524,
+        "poster_path": "/hMGO9iOA5Vm8QEa4dGOzN6zWgE5.jpg",
+        "first_air_date": "2004-09-21",
+        "softcore": false,
+        "name": "Shoebox Zoo",
+        "vote_average": 7.7,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gc9EEHaHI6uA0PMIaOKExYQlMlR.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 208301,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "おらぁグズラだど",
+        "overview": "",
+        "popularity": 1.4071,
+        "poster_path": "/j2JNRisTAcZmXD1nUEdtaQfrSHs.jpg",
+        "first_air_date": "1987-10-12",
+        "softcore": false,
+        "name": "おらぁグズラだど",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9VF97vk4WPOAZ9s8nqK3PJYJgnN.jpg",
+        "genre_ids": [
+          9648,
+          18,
+          16
+        ],
+        "id": 93241,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Uzumaki",
+        "overview": "",
+        "popularity": 5.3011,
+        "poster_path": "/wtQIgqEQEIQnNqLVGTShUf7qLap.jpg",
+        "first_air_date": "2024-09-29",
+        "softcore": false,
+        "name": "Uzumaki",
+        "vote_average": 7.003,
+        "vote_count": 187
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hikJz6TqmnS2czz18QZKVgWmKs2.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765,
+          10768
+        ],
+        "id": 93256,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～",
+        "overview": "",
+        "popularity": 12.101,
+        "poster_path": "/leobb4kmAFpO1XUH739fkg6PEqH.jpg",
+        "first_air_date": "2019-10-02",
+        "softcore": false,
+        "name": "慎重勇者～この勇者が俺TUEEEくせに慎重すぎる～",
+        "vote_average": 8.159,
+        "vote_count": 305
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yYpQV25I7XB6S0POJOScPjxYWV5.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "id": 60572,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ポケットモンスター",
+        "overview": "انضم إلى - اش كاتشم -  برفقه شريكه - بيكاتشو - وهو يسافر عبر العديد من المناطق، ويلتقي بأصدقاء جدد ويواجه تحديات جديدة في سعيه إلى أن يصبح بوكيمون ماستر.",
+        "popularity": 76.3913,
+        "poster_path": "/x7ISTLv6ijdNtCyPndyRV2eK6eg.jpg",
+        "first_air_date": "1997-04-01",
+        "softcore": false,
+        "name": "بوكيمون",
+        "vote_average": 7.985,
+        "vote_count": 2250
+      }
+    ],
+    "total_pages": 1570,
+    "total_results": 31381
+  }
+}

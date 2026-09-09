@@ -1,0 +1,2158 @@
+{
+  "adult": false,
+  "backdrop_path": "/tBZMwg5oCJn8P0pStfuOMhhSQD3.jpg",
+  "belongs_to_collection": {
+    "id": 1762706,
+    "name": "The Thundermans Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "فيلم تلفازي"
+    },
+    {
+      "id": 10751,
+      "name": "عائلي"
+    },
+    {
+      "id": 878,
+      "name": "خيال علمي"
+    },
+    {
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 35,
+      "name": "كوميديا"
+    }
+  ],
+  "homepage": "",
+  "id": 1506560,
+  "imdb_id": "tt37752275",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Clash of the Thundermans",
+  "overview": "",
+  "popularity": 219.5836,
+  "poster_path": "/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+  "production_companies": [
+    {
+      "id": 270146,
+      "logo_path": "/4r6rIxegOrrVeJwqRxpzNrCRQMD.png",
+      "name": "Paramount Television Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-09-03",
+  "revenue": 0,
+  "runtime": 72,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Clash of the Thundermans",
+  "video": false,
+  "vote_average": 6.843,
+  "vote_count": 35,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1479143,
+        "known_for_department": "Acting",
+        "name": "كيرا كوسارين",
+        "original_name": "Kira Kosarin",
+        "popularity": 3.3853,
+        "profile_path": "/rWshWHUPTlw3zIsgzXe3oo94mDP.jpg",
+        "cast_id": 1,
+        "character": "Phoebe Thunderman",
+        "credit_id": "686345d28963085681ccd894",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277364,
+        "known_for_department": "Acting",
+        "name": "Jack Griffo",
+        "original_name": "Jack Griffo",
+        "popularity": 3.296,
+        "profile_path": "/tG3K8Lpwb0FXHEMLTvCbwUyH1LR.jpg",
+        "cast_id": 2,
+        "character": "Max Thunderman",
+        "credit_id": "686345e2edfc138c49f185f2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1666061,
+        "known_for_department": "Acting",
+        "name": "Maya Le Clark",
+        "original_name": "Maya Le Clark",
+        "popularity": 3.0036,
+        "profile_path": "/5FVWT2mKZYWk7dDmL9KGURwY3Bb.jpg",
+        "cast_id": 3,
+        "character": "Chloe Thunderman",
+        "credit_id": "686345eea2ac248de3bb3854",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 20389,
+        "known_for_department": "Acting",
+        "name": "Rosa Blasi",
+        "original_name": "Rosa Blasi",
+        "popularity": 2.0621,
+        "profile_path": "/lhRsVoOXAx0bwn6eJcx38njZEMS.jpg",
+        "cast_id": 14,
+        "character": "Barb Thunderman",
+        "credit_id": "688bb2a835993c71f07ce716",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 159275,
+        "known_for_department": "Acting",
+        "name": "Chris Tallman",
+        "original_name": "Chris Tallman",
+        "popularity": 2.0862,
+        "profile_path": "/7ft585219p5A3HdYFLyM3Dxawi1.jpg",
+        "cast_id": 15,
+        "character": "Hank Thunderman",
+        "credit_id": "688bb2b9d916254cd1260c19",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1567479,
+        "known_for_department": "Acting",
+        "name": "Diego Velazquez",
+        "original_name": "Diego Velazquez",
+        "popularity": 2.0903,
+        "profile_path": "/sYfMqj0BO6y5fNB80AAbKOfbMTR.jpg",
+        "cast_id": 12,
+        "character": "Billy Thunderman",
+        "credit_id": "688b94e5fe7d266eff3357d9",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1666059,
+        "known_for_department": "Acting",
+        "name": "Addison Riecke",
+        "original_name": "Addison Riecke",
+        "popularity": 2.1645,
+        "profile_path": "/bLZDfktybcMbC2qp46G9LJ5L1UX.jpg",
+        "cast_id": 11,
+        "character": "Nora Thunderman",
+        "credit_id": "688b94a0d9f4d6b3a42a6030",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 97452,
+        "known_for_department": "Acting",
+        "name": "Daniele Gaither",
+        "original_name": "Daniele Gaither",
+        "popularity": 1.1372,
+        "profile_path": "/jkQwV1jOwCCI5uTe99dS4ZfYc9p.jpg",
+        "cast_id": 39,
+        "character": "President Kickbutt",
+        "credit_id": "6a9a22b073802e3e9c24cad9",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 42160,
+        "known_for_department": "Acting",
+        "name": "أرييل وينتر",
+        "original_name": "Ariel Winter",
+        "popularity": 3.251,
+        "profile_path": "/1h0XaXnieP5CdTAeRGuALBJmD4R.jpg",
+        "cast_id": 10,
+        "character": "Cognita",
+        "credit_id": "688b94817dd24f94c209dcf5",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 74337,
+        "known_for_department": "Acting",
+        "name": "Dana Snyder",
+        "original_name": "Dana Snyder",
+        "popularity": 1.3101,
+        "profile_path": "/3s6O93oeY4QaAVUjrjSiBUKlMFu.jpg",
+        "cast_id": 21,
+        "character": "Dr. Colosso (voice)",
+        "credit_id": "6a99771fd81c485835628b52",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3254821,
+        "known_for_department": "Crew",
+        "name": "Ben Van Huis",
+        "original_name": "Ben Van Huis",
+        "popularity": 0.3068,
+        "profile_path": null,
+        "cast_id": 22,
+        "character": "The Replicator",
+        "credit_id": "6a9977703c932940bca596e3",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1449707,
+        "known_for_department": "Acting",
+        "name": "Piotr Michael",
+        "original_name": "Piotr Michael",
+        "popularity": 1.0379,
+        "profile_path": "/A1ph4jVLA1sQmpYOSZ3X0DdQvQs.jpg",
+        "cast_id": 23,
+        "character": "The Replicator (voice)",
+        "credit_id": "6a9979b55fd3f72e182ba143",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 58372,
+        "known_for_department": "Acting",
+        "name": "Clifton MaCabe Murray",
+        "original_name": "Clifton MaCabe Murray",
+        "popularity": 0.6487,
+        "profile_path": "/66H0GRktOECuMn1RE3qnpRAdKjq.jpg",
+        "cast_id": 24,
+        "character": "The Newsflash",
+        "credit_id": "6a997aa7aa868c3d844cde19",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1727374,
+        "known_for_department": "Acting",
+        "name": "Robyn Bradley",
+        "original_name": "Robyn Bradley",
+        "popularity": 0.7687,
+        "profile_path": "/zNCNn6lfhNCj7UY5UWajEegUydZ.jpg",
+        "cast_id": 16,
+        "character": "Mee Maw",
+        "credit_id": "68d1ca30769d642a2bcc3f99",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2886047,
+        "known_for_department": "Acting",
+        "name": "Peyton Amelia Feltham",
+        "original_name": "Peyton Amelia Feltham",
+        "popularity": 0.6582,
+        "profile_path": "/5HsbbpHuLjQN3Wr7V1ds5ldj9Ah.jpg",
+        "cast_id": 25,
+        "character": "Granite Girl",
+        "credit_id": "6a997ae5de15e955a3627908",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3299059,
+        "known_for_department": "Acting",
+        "name": "Marco Walker-Ng",
+        "original_name": "Marco Walker-Ng",
+        "popularity": 0.3173,
+        "profile_path": null,
+        "cast_id": 20,
+        "character": "Capt. Chisel",
+        "credit_id": "6a993cad0eab93b0672b9d49",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6454440,
+        "known_for_department": "Acting",
+        "name": "Tatyana Decker",
+        "original_name": "Tatyana Decker",
+        "popularity": 0.219,
+        "profile_path": null,
+        "cast_id": 26,
+        "character": "Lieutenant #1",
+        "credit_id": "6a997b27044b9d6bee2b9fe2",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2103775,
+        "known_for_department": "Acting",
+        "name": "Paul Almeida",
+        "original_name": "Paul Almeida",
+        "popularity": 0.5796,
+        "profile_path": "/jBdE6c8GqKBVZiESIDDFj99jSHv.jpg",
+        "cast_id": 27,
+        "character": "Lieutenant #2",
+        "credit_id": "6a997b365c8f5103d14cdc1b",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 55788,
+        "known_for_department": "Acting",
+        "name": "Keith Dallas",
+        "original_name": "Keith Dallas",
+        "popularity": 0.9019,
+        "profile_path": "/wF5r0FdmnKfg4O493VwMeZNvkJ6.jpg",
+        "cast_id": 28,
+        "character": "Ralph Riggins",
+        "credit_id": "6a997b6c7b49e437387ddab4",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3807559,
+        "known_for_department": "Acting",
+        "name": "Kingston Chan",
+        "original_name": "Kingston Chan",
+        "popularity": 0.5237,
+        "profile_path": "/lpoBCIuTOb38IKtEvoLwblZos9i.jpg",
+        "cast_id": 29,
+        "character": "Magnateen",
+        "credit_id": "6a997b7cef8cfc38c14a9503",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6454448,
+        "known_for_department": "Acting",
+        "name": "Liam Louis",
+        "original_name": "Liam Louis",
+        "popularity": 0.2077,
+        "profile_path": null,
+        "cast_id": 30,
+        "character": "Desk Boy",
+        "credit_id": "6a997baa436c2702daa5969c",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2346251,
+        "known_for_department": "Acting",
+        "name": "Grace Sunar",
+        "original_name": "Grace Sunar",
+        "popularity": 0.8486,
+        "profile_path": "/h3BMBFGepjl02Byo3jJsH9E69BX.jpg",
+        "cast_id": 31,
+        "character": "Sludgerella",
+        "credit_id": "6a997bc14595e5a817a59622",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6454453,
+        "known_for_department": "Acting",
+        "name": "Rajan Lalli",
+        "original_name": "Rajan Lalli",
+        "popularity": 0.1621,
+        "profile_path": null,
+        "cast_id": 32,
+        "character": "Toxic Todd",
+        "credit_id": "6a997bf5c0d74ffb32b2fa95",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1975740,
+        "known_for_department": "Acting",
+        "name": "Sebastian Billingsley-Rodriguez",
+        "original_name": "Sebastian Billingsley-Rodriguez",
+        "popularity": 0.8074,
+        "profile_path": "/xhPHlfkz0RgoUGDfMpvz2SCYMlf.jpg",
+        "cast_id": 33,
+        "character": "Kid Ricochet",
+        "credit_id": "6a997c121ea1a18a91b2f8ef",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1050696,
+        "known_for_department": "Acting",
+        "name": "Víctor Ayala",
+        "original_name": "Víctor Ayala",
+        "popularity": 0.4989,
+        "profile_path": "/a2Gui2H4tAscTz6aUxrCjPxwF9B.jpg",
+        "cast_id": 34,
+        "character": "Criminal",
+        "credit_id": "6a997c3726330a40634a95f2",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2560400,
+        "known_for_department": "Acting",
+        "name": "Gabriel Jacob-Cross",
+        "original_name": "Gabriel Jacob-Cross",
+        "popularity": 0.5925,
+        "profile_path": "/pgeOwhe0f7I0hD2VOVsTx1ASlbk.jpg",
+        "cast_id": 35,
+        "character": "Lucas",
+        "credit_id": "6a997c56737845e6f77dddde",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 25113,
+        "known_for_department": "Acting",
+        "name": "شيلبي يانج",
+        "original_name": "Shelby Young",
+        "popularity": 1.5872,
+        "profile_path": "/oh4VeJpkORXoGJdIohNpXJyO3kt.jpg",
+        "cast_id": 36,
+        "character": "Slideshow Narrator (voice)",
+        "credit_id": "6a997c717875d1a3f74a9668",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 81667,
+        "known_for_department": "Acting",
+        "name": "جينيفر هيل",
+        "original_name": "Jennifer Hale",
+        "popularity": 1.8824,
+        "profile_path": "/oNQCrdiSm0mABCcE5YaHwuZQK8X.jpg",
+        "cast_id": 37,
+        "character": "Thunder Monitor (voice)",
+        "credit_id": "6a997c887f95dbbd7ba59910",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 84490,
+        "known_for_department": "Acting",
+        "name": "David Kaye",
+        "original_name": "David Kaye",
+        "popularity": 1.5409,
+        "profile_path": "/izxtFSio5twcVA1oJWPvobxpcZj.jpg",
+        "cast_id": 38,
+        "character": "Max’s Computer (voice)",
+        "credit_id": "6a997c9be6e4e30ad2a595d5",
+        "order": 28
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1951095,
+        "known_for_department": "Directing",
+        "name": "Trevor Kirschner",
+        "original_name": "Trevor Kirschner",
+        "popularity": 0.8131,
+        "profile_path": "/t7R7wbZwc1DFqsVaRDFJBJh3hge.jpg",
+        "credit_id": "6863462f796e41ba06f83d8f",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1479143,
+        "known_for_department": "Acting",
+        "name": "كيرا كوسارين",
+        "original_name": "Kira Kosarin",
+        "popularity": 3.3853,
+        "profile_path": "/rWshWHUPTlw3zIsgzXe3oo94mDP.jpg",
+        "credit_id": "6863466bd3a66570da8c2271",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277364,
+        "known_for_department": "Acting",
+        "name": "Jack Griffo",
+        "original_name": "Jack Griffo",
+        "popularity": 3.296,
+        "profile_path": "/tG3K8Lpwb0FXHEMLTvCbwUyH1LR.jpg",
+        "credit_id": "6863469c92785b75168c2216",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222787,
+        "known_for_department": "Writing",
+        "name": "Jed Spingarn",
+        "original_name": "Jed Spingarn",
+        "popularity": 1.086,
+        "profile_path": null,
+        "credit_id": "686346b16bcae65b16414610",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222787,
+        "known_for_department": "Writing",
+        "name": "Jed Spingarn",
+        "original_name": "Jed Spingarn",
+        "popularity": 1.086,
+        "profile_path": null,
+        "credit_id": "686346bdc6ffe63cb84145f1",
+        "department": "Crew",
+        "job": "Creator"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1932506,
+        "known_for_department": "Writing",
+        "name": "Sean William Cunningham",
+        "original_name": "Sean William Cunningham",
+        "popularity": 0.6345,
+        "profile_path": null,
+        "credit_id": "686346de639362f0b24145cb",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1222787,
+        "known_for_department": "Writing",
+        "name": "Jed Spingarn",
+        "original_name": "Jed Spingarn",
+        "popularity": 1.086,
+        "profile_path": null,
+        "credit_id": "6a993c39044b9d6bee2b9cb3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1932506,
+        "known_for_department": "Writing",
+        "name": "Sean William Cunningham",
+        "original_name": "Sean William Cunningham",
+        "popularity": 0.6345,
+        "profile_path": null,
+        "credit_id": "6a993c6645547449b24a91bd",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1492938,
+        "known_for_department": "Directing",
+        "name": "Marc Dworkin",
+        "original_name": "Marc Dworkin",
+        "popularity": 0.6832,
+        "profile_path": null,
+        "credit_id": "6a993c8245547449b24a91c3",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 544355,
+        "known_for_department": "Sound",
+        "name": "Frederik Wiedmann",
+        "original_name": "Frederik Wiedmann",
+        "popularity": 0.8332,
+        "profile_path": "/CNkfFuNkHia02qUikqnDi4IBCM.jpg",
+        "credit_id": "6a9a234973802e3e9c24cadd",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 73001,
+        "known_for_department": "Camera",
+        "name": "Carlos González",
+        "original_name": "Carlos González",
+        "popularity": 0.4181,
+        "profile_path": null,
+        "credit_id": "6a9a23ca694f83885f04bac1",
+        "department": "Camera",
+        "job": "Director of Photography"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/eWMHecmPAbOCqALSrq45Jqj4BhF.jpg",
+        "id": 439058,
+        "title": "Hey Arnold! The Jungle Movie",
+        "original_title": "Hey Arnold! The Jungle Movie",
+        "overview": "When their trip to San Lorenzo takes a turn for the worst, Arnold and his classmate’s only hope of getting home is retracing the dangerous path that led to Arnold's parents' disappearance.",
+        "poster_path": "/asBhWDiqGxelve0DtMfMFIzR0Jm.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          16,
+          12,
+          10770,
+          14
+        ],
+        "popularity": 4.1059,
+        "release_date": "2018-04-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.637,
+        "vote_count": 204
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iHGukqqDLWSPE6HeJF4fob6r1D7.jpg",
+        "id": 556901,
+        "title": "Teen Titans Go! vs. Teen Titans",
+        "original_title": "Teen Titans Go! vs. Teen Titans",
+        "overview": "The comedic modern-day quintet takes on their 2003 counterparts when villains from each of their worlds join forces to pit the two Titan teams against each other. They'll need to set aside their differences and work together to combat Trigon, Hexagon, Santa Claus (that's right, Santa!) and time itself in order to save the multiverse.",
+        "poster_path": "/GWJEdzVC9aOBSOMF9NHodYxSsE.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          16,
+          35,
+          10751,
+          14,
+          878
+        ],
+        "popularity": 5.9134,
+        "release_date": "2019-07-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.514,
+        "vote_count": 533
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg",
+        "id": 791155,
+        "title": "المقر السري",
+        "original_title": "Secret Headquarters",
+        "overview": "عندما يخرج السر ، تبدأ المغامرة.\r أثناء التسكع بعد المدرسة ، يكتشف تشارلي وأصدقاؤه مقر أقوى بطل خارق في العالم مختبئا تحت منزله. عندما يهاجم الأشرار ، يجب عليهم التعاون للدفاع عن المقر وإنقاذ العالم.",
+        "poster_path": "/v6mvk0YC4o0PUdq82IbNRjIEEv3.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          878,
+          10751
+        ],
+        "popularity": 5.9212,
+        "release_date": "2022-08-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.336,
+        "vote_count": 433
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oFSQEG1lJTTISj3QKB7cJ9ANkFw.jpg",
+        "id": 1154598,
+        "title": "LEGO Marvel Avengers: Code Red",
+        "original_title": "LEGO Marvel Avengers: Code Red",
+        "overview": "The Avengers gather to celebrate their latest victory, but their celebration is quickly interrupted by the mysterious disappearance of Black Widow's father, Red Guardian. As the Avengers investigate, they discover that Red Guardian isn't the only one missing when they meet a dangerous new foe quite unlike anything they've ever encountered before.",
+        "poster_path": "/rDzig50dj7VpLwJ7SThbamETK1G.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          10751
+        ],
+        "popularity": 4.8212,
+        "release_date": "2023-10-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.54,
+        "vote_count": 164
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6SLyu9ygASsrOqkCpjAwtyG9PWW.jpg",
+        "id": 1094556,
+        "title": "The Thundermans Return",
+        "original_title": "The Thundermans Return",
+        "overview": "Twins Phoebe and Max are enjoying their superhero lifestyle, but when one 'save' goes awry, the Thundermans are sent back to Hiddenville. While Hank and Barb enjoy their return, and Billy and Nora look forward to a normal high school life, Max and Phoebe are determined to regain their superhero status.",
+        "poster_path": "/2J5eeroLDY0d45mVjpuGhcLZs3W.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          878,
+          28,
+          35
+        ],
+        "popularity": 10.6344,
+        "release_date": "2024-03-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.888,
+        "vote_count": 317
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/41objfan7PDTBG5MFXQl4ownQzJ.jpg",
+        "id": 308531,
+        "title": "سلاحف النينجا: الخروج من الظلال",
+        "original_title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+        "overview": "بعد هروب الشرير الخارق شريدر من الحجز ، ينضم إلى العالم المجنون باكستر ستوكمان واثنين من أتباعه الخافتين ، بيبوب وروكستيدي ، لإطلاق العنان لخطة شيطانية للسيطرة على العالم. بينما تستعد السلاحف لمواجهة التقطيع وطاقمه الجديد ، يجدون أنفسهم يواجهون شرا أكبر بنوايا مماثلة: كرانغ سيئ السمعة.",
+        "poster_path": "/euVaCiCWz3AALcQXHT6aUqdGUo6.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          35,
+          10751,
+          878
+        ],
+        "popularity": 9.9598,
+        "release_date": "2016-05-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.063,
+        "vote_count": 3876
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aKEINUeg3y324PxOwZfwM0uWmk7.jpg",
+        "id": 225925,
+        "title": "Spider-Man Strikes Back",
+        "original_title": "Spider-Man Strikes Back",
+        "overview": "At the New York State University, one of Peter Parker's tutors has accidentally given three students all the materials they need to create an atomic bomb. While Peter Parker tries to find out what's happened, the police suspect him of the crime, and Peter has to deal with an attractive journalist determined to get an interview with Spider-Man. Then dastardly millionaire Mr. White shows up, and will stop at nothing to get his hands on the atomic bomb. Spider-Man must defeat this scheming villain and stop him blowing up the World Trade Centre.",
+        "poster_path": "/mwRss4cA5m4fH6izoTwwPfF3ZOU.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          10751,
+          10770,
+          878
+        ],
+        "popularity": 2.1455,
+        "release_date": "1978-12-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.8,
+        "vote_count": 86
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yHGLk14roU8EQTytIwj8u5c6OvI.jpg",
+        "id": 913205,
+        "title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+        "original_title": "Teen Titans Go! & DC Super Hero Girls: Mayhem in the Multiverse",
+        "overview": "With the help of an ancient Kryptonian power, Lex Luthor unites the world’s Super-Villains to capture all of Earth's Super Heroes, until…only the DC Super Hero Girls are left to stop the Legion of Doom. Our heroes must cross dimensions to rescue their fellow Super Heroes from the Phantom Zone, but a fortuitous wrong turn leads them to Titans Tower – where they find much-needed allies in the Teen Titans!",
+        "poster_path": "/sCOt6rm6bcppXeYIHalAXJGIZZE.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          35
+        ],
+        "popularity": 4.0336,
+        "release_date": "2022-05-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.921,
+        "vote_count": 139
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cmQdrAsmZomfAl3v7WurDvZM7UK.jpg",
+        "id": 284019,
+        "title": "Phineas and Ferb: Mission Marvel",
+        "original_title": "Phineas and Ferb: Mission Marvel",
+        "overview": "Phineas and Ferb team up with the Avengers to save the world from Dr. Doofenshmirtz and a group of dangerous supervillains.",
+        "poster_path": "/da2AREjdecPInHzWeZ550X1aYDU.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          10751,
+          35,
+          10770,
+          28,
+          12,
+          878
+        ],
+        "popularity": 3.1038,
+        "release_date": "2013-08-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.547,
+        "vote_count": 201
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x8Kdi1OJbewkeGuijcSmUWrYyk2.jpg",
+        "id": 926670,
+        "title": "Henry Danger: The Movie",
+        "original_title": "Henry Danger: The Movie",
+        "overview": "Henry Hart meets a superfan—eager to fight crime with Kid Danger—who comes into possession of a device that can open up alternate realities. Facing a wild ride, Henry will need his best friend Jasper and his new superfan sidekick to find his way out or be stuck in another dimension forever.",
+        "poster_path": "/dFWj2rOGsqSIX1PHFghbCBgpMnk.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          35,
+          10751,
+          878
+        ],
+        "popularity": 7.5284,
+        "release_date": "2025-01-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.645,
+        "vote_count": 269
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/909eoRF1vXvoAzQLMSijjrf2ZJ.jpg",
+        "id": 230896,
+        "title": "الرجل الحديدي وهولك البطل",
+        "original_title": "Iron Man & Hulk: Heroes United",
+        "overview": "يجب على الرجل الحديدي الذي لا يقهر وهالك الخارق أن يوحدا قواهما لإنقاذ الأرض من أكبر تهديد واجهته حتى الآن.",
+        "poster_path": "/xCBBQMPxXsqIlZUAbpeSo1SVj6R.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          10751
+        ],
+        "popularity": 3.1594,
+        "release_date": "2013-12-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.939,
+        "vote_count": 222
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg",
+        "id": 260513,
+        "title": "الخارقون 2",
+        "original_title": "Incredibles 2",
+        "overview": "تنطلق إلاستيقيرل إلى العمل لإنقاذ اليوم، بينما يواجه السيد خارق أكبر تحد له حتى الآن - وهو ان يعتني بمشاكل أطفاله الثلاثة.",
+        "poster_path": "/s3IfCcxPPNaog6s62RhoadmzZRa.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          10751
+        ],
+        "popularity": 20.9413,
+        "release_date": "2018-06-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.453,
+        "vote_count": 13922
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j5IKfaaWd15dcrewlSSA0NRZpMG.jpg",
+        "id": 411736,
+        "title": "Batman: Return of the Caped Crusaders",
+        "original_title": "Batman: Return of the Caped Crusaders",
+        "overview": "Adam West and Burt Ward returns to their iconic roles of Batman and Robin. The film sees the superheroes going up against classic villains like The Joker, The Riddler, The Penguin and Catwoman, both in Gotham City… and in space.",
+        "poster_path": "/kXV5rVxxRYWHksELUi6dxzWG7Sj.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          16,
+          12,
+          10751,
+          878
+        ],
+        "popularity": 3.619,
+        "release_date": "2016-10-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.495,
+        "vote_count": 300
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rrQJwg3jFQasEilhmq8TMpGocb1.jpg",
+        "id": 51888,
+        "title": "Robot Chicken: Star Wars Episode III",
+        "original_title": "Robot Chicken: Star Wars Episode III",
+        "overview": "Millions of years from now, after Socrates, Shakespeare and the bible are long forgotten, only two great works will remain: the sci-fi cinema epic Star Wars and Adult Swim's stop-motion animated, cheap gag extravanganza Robot Chicken. And now, for the first time, they come together for the third time, in this all new special. That's right, all your mot beloved Star Wars characters are going back through the comedy meat grinder.",
+        "poster_path": "/htL6wH77hfO1N97n6MOwt9AD1oB.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          878,
+          16,
+          10770
+        ],
+        "popularity": 3.4789,
+        "release_date": "2010-12-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.452,
+        "vote_count": 168
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/x55HTVEkwqWB6TZ5HP6lSlpZjZg.jpg",
+        "id": 829400,
+        "title": "Psych 3: This Is Gus",
+        "original_title": "Psych 3: This Is Gus",
+        "overview": "In preparation for a shotgun wedding before the birth of Baby Guster, Shawn and Gus go rogue in an attempt to track down Selene’s estranged husband, as Lassiter grapples with the future of his career.",
+        "poster_path": "/9tJRcfdQKmq8krlxeJcQB33lvKA.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          80,
+          9648,
+          10770
+        ],
+        "popularity": 2.9859,
+        "release_date": "2021-11-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.856,
+        "vote_count": 146
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aJn9XeesqsrSLKcHfHP4u5985hn.jpg",
+        "id": 283995,
+        "title": "حرّاس المجرّة المجلد ٢",
+        "original_title": "Guardians of the Galaxy Vol. 2",
+        "overview": "يُكافح حراس المجرة للحفاظ على تماسكهم كفريق واحد، بينما يواجهون مشاكلهم العائلية الشخصية، ولا سيما لقاء ستار-لورد مع والده، الكائن السماوي الطموح إيغو.",
+        "poster_path": "/3kGckArA1uCjkbzwMmFFyGx0J4N.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "popularity": 27.5137,
+        "release_date": "2017-04-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.609,
+        "vote_count": 23404
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lM8PfMK1sgLPUkznjaqP0NupPKS.jpg",
+        "id": 138038,
+        "title": "Girl vs. Monster",
+        "original_title": "Girl vs. Monster",
+        "overview": "Skylar finds out that her parents are monster hunters after she accidentally releases some monsters from a secret containment chamber; so she and her techno friends must recapture all the monsters and also save her mom and dad from these monsters who are out for revenge.",
+        "poster_path": "/9CMRe7lE9bZxgz9cEwkPHmF8yc3.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          35,
+          10770,
+          878
+        ],
+        "popularity": 2.9546,
+        "release_date": "2012-10-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.338,
+        "vote_count": 287
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uxezSInaPoH20CyHx4TuY1LzGly.jpg",
+        "id": 71689,
+        "title": "فارس وفادي في البعد الثاني",
+        "original_title": "Phineas and Ferb the Movie: Across the 2nd Dimension",
+        "overview": "Phineas and Ferb get trapped in an alternate dimension where the evil Doofenshmirtz rules the tri-state area. They must find a way back home with the help of their pet platypus named Perry, who they discover is a secret agent.",
+        "poster_path": "/updMFSOZwEftfkJRpozwBlRlYI2.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          35,
+          10751,
+          878,
+          10770
+        ],
+        "popularity": 5.9512,
+        "release_date": "2011-08-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.114,
+        "vote_count": 621
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gAmPO9zCtXZjXmO5vMiphIb9Y3L.jpg",
+        "id": 17074,
+        "title": "The Batman/Superman Movie: World's Finest",
+        "original_title": "The Batman/Superman Movie: World's Finest",
+        "overview": "As the Joker visits Metropolis with a plan to kill Superman for Lex Luthor, Batman pursues the clown to Superman's turf.",
+        "poster_path": "/dQxwNGQ6pQLCUE5vaI9PwIZK6UC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          16,
+          10770,
+          878,
+          10751,
+          12
+        ],
+        "popularity": 3.4884,
+        "release_date": "1997-10-04",
+        "softcore": false,
+        "video": true,
+        "vote_average": 7.392,
+        "vote_count": 274
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wWLUUGtemgrRyH24v8lAkSR58US.jpg",
+        "id": 506574,
+        "title": "الاحفاد 3",
+        "original_title": "Descendants 3",
+        "overview": "تواجه مال وأصدقاؤها التحدي الأكبر بعد عندما تهدد قوة مظلمة لا يمكن فهمها شعب أورادون.",
+        "poster_path": "/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          10751,
+          10770,
+          12,
+          14
+        ],
+        "popularity": 7.1623,
+        "release_date": "2019-08-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.679,
+        "vote_count": 1657
+      }
+    ],
+    "total_pages": 35,
+    "total_results": 696
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+        "genre_ids": [
+          12,
+          28
+        ],
+        "id": 87,
+        "title": "إنديانا جونز ومعبد الموت",
+        "original_language": "en",
+        "original_title": "Indiana Jones and the Temple of Doom",
+        "overview": "بعد وصوله إلى الهند ، طلبت قرية يائسة من إنديانا جونز العثور على حجر صوفي. يوافق - ويعثر على عبادة سرية تخطط لخطة مروعة في سراديب الموتى في قصر قديم.",
+        "popularity": 17.0856,
+        "poster_path": "/gpdVNUaa4LhRMLfJOPj1AZdhAZ3.jpg",
+        "release_date": "1984-05-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.309,
+        "vote_count": 10355
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg",
+        "genre_ids": [
+          12,
+          28
+        ],
+        "id": 89,
+        "title": "إنديانا جونز والحملة الصليبية الأخيرة",
+        "original_language": "en",
+        "original_title": "Indiana Jones and the Last Crusade",
+        "overview": "يخوض المغامر وعالم الآثار (إنديانا جونز) مغامرة مثيرة من أجل الحصول على الكأس المقدس الأسطوري، ويصحبه في تلك المغامرة والده، وهذا الكأس الأسطوري يمتلك قدرة نادرة على شفاء من يشرب منه، ويروى عن هذا الكأس أن من يشرب منه ينال الخلود، ولأجل هذا الغرض يحارب إنديانا العديد من الأشرار ﻷجل هذا الكأس.",
+        "popularity": 15.1647,
+        "poster_path": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg",
+        "release_date": "1989-05-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.856,
+        "vote_count": 11329
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 121,
+        "title": "سيد الخواتم: البرجان",
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Two Towers",
+        "overview": "يسافر فرودو وسام إلى موردور لتدمير حلقة القوة الواحدة بينما يبحث جيملي وليجولاس وأراغورن عن ميري وبيبين المأسورين من قبل شركة مصفاة نفط عمان. طوال الوقت، ينتظر الساحر الشائن سارومان أعضاء الزمالة في برج أورثانك في إيسينغارد.",
+        "popularity": 33.7568,
+        "poster_path": "/cUwFwAGsKVgfLXhI2TpOC9gUrXc.jpg",
+        "release_date": "2002-12-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.428,
+        "vote_count": 24529
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 122,
+        "title": "سيد الخواتم: عودة الملك",
+        "original_language": "en",
+        "original_title": "The Lord of the Rings: The Return of the King",
+        "overview": "تم الكشف عن أراغورن باعتباره وريث الملوك القدامى حيث يكافح هو وقاندالف والأعضاء الآخرون في الشركة المكسورة لإنقاذ جوندور من قوات سورون. في هذه الأثناء ، يقترب فرودو وسام من الخاتم إلى قلب موردور ، عالم اللورد المظلم.",
+        "popularity": 46.3069,
+        "poster_path": "/4C4AoMSAI96wrnaLY5dzaL5uw09.jpg",
+        "release_date": "2003-12-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 27302
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8ln5VUVk7gnNGIb2VNgw8nICDVt.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
+        "id": 35,
+        "title": "فيلم آل سيمبسون",
+        "original_language": "en",
+        "original_title": "The Simpsons Movie",
+        "overview": "يعاني سكان مدينة سبرينجفيلد من التلوث البيئي في بحيرة المدينة، ويصدر عمدة المدينة أمر بمنع رمي النفايات فيها، لكن (هومر سمبسون) يلقى بفضلات خنزيره في البحيرة، ويحصل تفاعل كيماوي خطير وتصبح مستنقع، وتقنع مؤسسة حماية البيئة الرئيس بمعاقبة أهل المدينة عن طريق حجز المدينة تحت قبة زجاجية ضخمة.",
+        "popularity": 15.5172,
+        "poster_path": "/s3b8TZWwmkYc2KoJ5zk77qB6PzY.jpg",
+        "release_date": "2007-07-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.023,
+        "vote_count": 8709
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "id": 58,
+        "title": "قراصنة الكاريبي - صندوق الرجل الميت",
+        "original_language": "en",
+        "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+        "overview": "يشق الكابتن جاك سبارو طريقه للخروج من دين الدم مع الشبحي ديفي جونز لتجنب اللعن الأبدي.",
+        "popularity": 35.0408,
+        "poster_path": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+        "release_date": "2006-07-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.39,
+        "vote_count": 17552
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lzXDUU2Ky9xFbiqCtiVP65MeUDh.jpg",
+        "genre_ids": [
+          28,
+          80,
+          878,
+          35
+        ],
+        "id": 443780,
+        "title": "スレイブメン",
+        "original_language": "ja",
+        "original_title": "スレイブメン",
+        "overview": "",
+        "popularity": 0.9992,
+        "poster_path": "/wIzi2oFOeJrWrgrFeifBUAZDF98.jpg",
+        "release_date": "2017-03-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wgnpynygrjZNz2tLflaxITv6uQM.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 261684,
+        "title": "This Side of Heaven",
+        "original_language": "en",
+        "original_title": "This Side of Heaven",
+        "overview": "",
+        "popularity": 1.4681,
+        "poster_path": "/b9YHf1JRic7A5NU0sKMyaw6qELh.jpg",
+        "release_date": "1934-02-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bIA65PCRtIQfBvIoKohJbtOPl3M.jpg",
+        "genre_ids": [
+          28,
+          35,
+          80
+        ],
+        "id": 96,
+        "title": "شرطي بيفرلي هيلز 2",
+        "original_language": "en",
+        "original_title": "Beverly Hills Cop II",
+        "overview": "يعود الشرطي أكسل فولي إلى بيفرلي هيلز من جديد لمساعدة تاجارت وروزوود لأجل التحقيق في حادثة إطلاق نار على الرئيس بوجامل وسلسلة من جرائم الأبجدية المرتبطة به.",
+        "popularity": 8.0894,
+        "poster_path": "/egDakU8O5yUwpUJP9IMAUVtIDll.jpg",
+        "release_date": "1987-05-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.533,
+        "vote_count": 2903
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7Q2CmqIVJuDAESPPp76rWIiA0AD.jpg",
+        "genre_ids": [
+          28,
+          12,
+          18
+        ],
+        "id": 1011477,
+        "title": "Karate Kid: Legends",
+        "original_language": "en",
+        "original_title": "Karate Kid: Legends",
+        "overview": "بعد مأساة عائلية، يُجبر لي فونغ، عبقري الكونغ فو، على مغادرة منزله في بكين والانتقال إلى مدينة نيويورك مع والدته. عندما يحتاج صديق جديد لمساعدته، يشارك لي في مسابقة كاراتيه، لكن مهاراته وحدها لا تكفي. يستعين السيد هان، معلم الكونغ فو الخاص به، بفتى الكاراتيه الأصلي دانيال لاروسو للمساعدة، ويتعلم لي أسلوبًا جديدًا في القتال، جامعًا بين أسلوبيهما في أسلوب واحد للمواجهة القتالية الأبرز.",
+        "popularity": 13.406,
+        "poster_path": "/icQjiVeYijah43eieW7AwuLlxH8.jpg",
+        "release_date": "2025-05-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.968,
+        "vote_count": 1282
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749
+        ],
+        "id": 13,
+        "title": "فورست غامب",
+        "original_language": "en",
+        "original_title": "Forrest Gump",
+        "overview": "يعيش فورست غامب حياة استثنائية رغم بساطته وطيبة قلبه، فيخوض سلسلة من التجارب التي تأخذه من طفولته إلى مراحل مختلفة من تاريخ الولايات المتحدة. يشارك في الجيش ويخوض حرب فيتنام، ويصبح لاعب تنس طاولة بارعًا، ثم يدخل عالم الأعمال ويحقق نجاحًا غير متوقع، بينما يظل قلبه متعلقًا بحب طفولته جيني. وبينما تتغير حياته مع مرور السنوات، يجد فورست نفسه شاهدًا ومشاركًا في أحداث تاريخية كبيرة، دون أن يفقد بساطته وإخلاصه لمن يحب.",
+        "popularity": 36.6308,
+        "poster_path": "/qAfOKolnPqKcSrtNLQxUhbDVHwW.jpg",
+        "release_date": "1994-06-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 8.5,
+        "vote_count": 30411
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          878,
+          28
+        ],
+        "id": 443469,
+        "title": "Uchuu no Kishi Tekkaman Blade OVA: Burning Clock",
+        "original_language": "ja",
+        "original_title": "Uchuu no Kishi Tekkaman Blade OVA: Burning Clock",
+        "overview": "",
+        "popularity": 0.8678,
+        "poster_path": "/jmQdOSoxoItEcLaWAJ85z9lgvNB.jpg",
+        "release_date": "1999-11-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.5,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          878,
+          28
+        ],
+        "id": 443475,
+        "title": "Uchuu no Kishi Tekkaman Blade OVA: Twin Blood",
+        "original_language": "ja",
+        "original_title": "Uchuu no Kishi Tekkaman Blade OVA: Twin Blood",
+        "overview": "",
+        "popularity": 1.0102,
+        "poster_path": "/nJwqpAf1ekeIL6e3ZggGWyrtTH4.jpg",
+        "release_date": "1994-11-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.667,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/rLcbsv9hB9WyNU9npGSdMyXmRpB.jpg",
+        "genre_ids": [
+          10751,
+          16,
+          12,
+          35,
+          9648
+        ],
+        "id": 443484,
+        "title": "The Swan Princess: Royally Undercover",
+        "original_language": "en",
+        "original_title": "The Swan Princess: Royally Undercover",
+        "overview": "",
+        "popularity": 1.948,
+        "poster_path": "/yZDePc6NwkwBdrWejjBCG8AWoYF.jpg",
+        "release_date": "2017-03-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.64,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eNi2UOw9qg1ySBOJLPwVOdtz6yY.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878,
+          14,
+          18
+        ],
+        "id": 625985,
+        "title": "كامين رايدر زيو - المرة القادمة - : قيتس، ماجستي",
+        "original_language": "ja",
+        "original_title": "仮面ライダージオウ NEXT TIME ゲイツ、マジェスティ",
+        "overview": "في سبتمبر 2018، مجموعة من طلاب المدارس الثانوية متحمسين لتحقيق أحلامهم. يريد - سوقو توكيوا -  أن يصبح ملكًا، ويعمل - كيتو ميوكوين - (الذي يطلق عليه أصدقاءه باسم قيتس) ليصبح بطل في الجودو.",
+        "popularity": 1.1808,
+        "poster_path": "/mew5d3ZzFfVxFyPZ8ydJb18UOpr.jpg",
+        "release_date": "2020-02-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.679,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 1393756,
+        "title": "The Family Dreggs",
+        "original_language": "en",
+        "original_title": "The Family Dreggs",
+        "overview": "",
+        "popularity": 0.4808,
+        "poster_path": "/2cQUQPIoPx8f8fiOHD9aZEf3w9H.jpg",
+        "release_date": "2024-11-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5TgtoN4NjBsRD8PksQSDdWVjuWC.jpg",
+        "genre_ids": [
+          35,
+          10751,
+          10749
+        ],
+        "id": 889,
+        "title": "The Flintstones in Viva Rock Vegas",
+        "original_language": "en",
+        "original_title": "The Flintstones in Viva Rock Vegas",
+        "overview": "",
+        "popularity": 4.3163,
+        "poster_path": "/o4pijWLImp7TQ64Yg2nuUYzdiDy.jpg",
+        "release_date": "2000-04-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.837,
+        "vote_count": 839
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/w0HQPkEI8nD4oaTIcTyaRKvghs0.jpg",
+        "genre_ids": [
+          12,
+          35,
+          14,
+          27
+        ],
+        "id": 1395111,
+        "title": "Sekawan Limo 2: Gunung Klawih",
+        "original_language": "jv",
+        "original_title": "Sekawan Limo 2: Gunung Klawih",
+        "overview": "",
+        "popularity": 1.2714,
+        "poster_path": "/pQfM9snJ9EZGmkNf0CR2Mhqugz6.jpg",
+        "release_date": "2026-05-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.1,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fQ93o3wVSIe0dXMLTVTBHoqWwew.jpg",
+        "genre_ids": [
+          35,
+          18,
+          10749,
+          10751
+        ],
+        "id": 909,
+        "title": "Meet Me in St. Louis",
+        "original_language": "en",
+        "original_title": "Meet Me in St. Louis",
+        "overview": "",
+        "popularity": 3.1253,
+        "poster_path": "/ekVeUvG81pidsv2LMtWf5yYcNbq.jpg",
+        "release_date": "1944-11-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.022,
+        "vote_count": 437
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+        "genre_ids": [
+          27,
+          878
+        ],
+        "id": 923,
+        "title": "Dawn of the Dead",
+        "original_language": "en",
+        "original_title": "Dawn of the Dead",
+        "overview": "",
+        "popularity": 7.1245,
+        "poster_path": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+        "release_date": "1978-09-02",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.484,
+        "vote_count": 2369
+      }
+    ],
+    "total_pages": 14609,
+    "total_results": 292178
+  },
+  "watch/providers": {
+    "results": {
+      "AE": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=AE",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "AR": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 46
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 48
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 49
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 69
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 81
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 82
+          }
+        ]
+      },
+      "BH": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=BH",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 29
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=BO",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 6
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 71
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 118
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 119
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 42
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=CL",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 41
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=CO",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 42
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=CR",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=DE",
+        "ads": [
+          {
+            "logo_path": "/fXtgvU410LTT6NjQ4ERdUzoUHQC.png",
+            "provider_id": 304,
+            "provider_name": "Joyn",
+            "display_priority": 11
+          }
+        ],
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 14
+          }
+        ]
+      },
+      "DO": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=DO",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 25
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=EC",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 5
+          }
+        ]
+      },
+      "EG": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=EG",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/53JKjrhdG4z8DQ4pfdbHoAgPWeO.png",
+            "provider_id": 2241,
+            "provider_name": "Movistar Plus+",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/7OEtlOKTmjTXh40eHUES11Oc1i7.png",
+            "provider_id": 149,
+            "provider_name": "Movistar Plus+ Ficción Total ",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/3wF8xISfVlcrc8X3jaa3uMUFGAr.png",
+            "provider_id": 257,
+            "provider_name": "fuboTV",
+            "display_priority": 10
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 53
+          },
+          {
+            "logo_path": "/9yt7CjnySiiOtRFknNWCz3gSyXz.png",
+            "provider_id": 193,
+            "provider_name": "SFR Play",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 56
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 78
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 75
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 119
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 120
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=GG",
+        "flatrate": [
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 64
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=GT",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 6
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 45
+          },
+          {
+            "logo_path": "/ylBHMFuVsJqQ8JUzmfmPsEn97Ez.png",
+            "provider_id": 2304,
+            "provider_name": "Paramount Plus Basic with Ads",
+            "display_priority": 46
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 57
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 51
+          }
+        ]
+      },
+      "JO": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=JO",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "LB": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=LB",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 9
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 62
+          }
+        ]
+      },
+      "NI": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=NI",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 13
+          }
+        ]
+      },
+      "OM": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=OM",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 30
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=PE",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=PY",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 5
+          }
+        ]
+      },
+      "QA": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=QA",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 31
+          }
+        ]
+      },
+      "SA": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=SA",
+        "flatrate": [
+          {
+            "logo_path": "/3Gfphgh5Uvcvb3IgbwUn79CT8Un.png",
+            "provider_id": 629,
+            "provider_name": "OSN+",
+            "display_priority": 21
+          }
+        ]
+      },
+      "SV": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=SV",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 27
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/4N4BMd0Mm0kHAmF7RZgL5lW3cwc.png",
+            "provider_id": 2303,
+            "provider_name": "Paramount Plus Premium",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/uPWQPyF4nqwtfPNmGcFcenU57HG.png",
+            "provider_id": 2616,
+            "provider_name": "Paramount Plus Essential",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mfbhzQwmQKjm7bLZPF5CTeu3Ilc.png",
+            "provider_id": 2383,
+            "provider_name": "Philo",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png",
+            "provider_id": 582,
+            "provider_name": "Paramount+ Amazon Channel",
+            "display_priority": 26
+          },
+          {
+            "logo_path": "/tnZCMxbcKdxuVmjxefyXCaip7q3.png",
+            "provider_id": 633,
+            "provider_name": "Paramount+ Roku Premium Channel",
+            "display_priority": 62
+          }
+        ]
+      },
+      "UY": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=UY",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 3
+          }
+        ]
+      },
+      "VE": {
+        "link": "https://www.themoviedb.org/movie/1506560-clash-of-the-thundermans/watch?locale=VE",
+        "flatrate": [
+          {
+            "logo_path": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+            "provider_id": 531,
+            "provider_name": "Paramount Plus",
+            "display_priority": 7
+          }
+        ]
+      }
+    }
+  }
+}

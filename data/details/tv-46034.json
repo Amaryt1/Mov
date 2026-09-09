@@ -1,0 +1,748 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "created_by": [],
+  "episode_run_time": [
+    45
+  ],
+  "first_air_date": "2008-01-14",
+  "genres": [
+    {
+      "id": 10764,
+      "name": "واقع"
+    }
+  ],
+  "homepage": "",
+  "id": 46034,
+  "in_production": true,
+  "languages": [
+    "de"
+  ],
+  "last_air_date": "2023-12-29",
+  "last_episode_to_air": {
+    "id": 7459802,
+    "name": "الحلقة 4207",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-03",
+    "episode_number": 4207,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": 43,
+    "season_number": 19,
+    "show_id": 46034,
+    "still_path": "/zWJhumgIikEDEWQ2PJS74eeISpf.jpg"
+  },
+  "name": "Die Küchenschlacht",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 31,
+      "logo_path": "/2OHAgbf6QUj4cWjmFkFKu4jIsq1.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "number_of_episodes": 3606,
+  "number_of_seasons": 17,
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_name": "Die Küchenschlacht",
+  "overview": "",
+  "popularity": 118.0301,
+  "poster_path": "/j2n5W9DRdz68hqoWyHIpMUIBx7L.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2008-01-14",
+      "episode_count": 199,
+      "id": 362342,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 1,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2009-01-05",
+      "episode_count": 230,
+      "id": 362347,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2010-01-04",
+      "episode_count": 245,
+      "id": 362348,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2011-01-03",
+      "episode_count": 211,
+      "id": 362349,
+      "name": "الموسم 4",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 4,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2012-01-02",
+      "episode_count": 225,
+      "id": 362350,
+      "name": "الموسم 5",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 5,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2013-01-02",
+      "episode_count": 222,
+      "id": 362351,
+      "name": "الموسم 6",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 6,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2014-01-02",
+      "episode_count": 211,
+      "id": 362352,
+      "name": "الموسم 7",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 7,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2015-01-12",
+      "episode_count": 230,
+      "id": 362353,
+      "name": "الموسم 8",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 8,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2016-01-04",
+      "episode_count": 233,
+      "id": 362354,
+      "name": "الموسم 9",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 9,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-01-02",
+      "episode_count": 240,
+      "id": 362355,
+      "name": "الموسم 10",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 10,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2018-01-15",
+      "episode_count": 219,
+      "id": 362356,
+      "name": "الموسم 11",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 11,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2019-01-02",
+      "episode_count": 229,
+      "id": 362357,
+      "name": "الموسم 12",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 12,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2020-01-06",
+      "episode_count": 240,
+      "id": 362358,
+      "name": "الموسم 13",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 13,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2021-01-11",
+      "episode_count": 221,
+      "id": 362359,
+      "name": "الموسم 14",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 14,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2022-01-05",
+      "episode_count": 223,
+      "id": 362360,
+      "name": "الموسم 15",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 15,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2023-01-02",
+      "episode_count": 228,
+      "id": 362361,
+      "name": "الموسم 16",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 16,
+      "vote_average": 0
+    },
+    {
+      "air_date": null,
+      "episode_count": 2,
+      "id": 526391,
+      "name": "الموسم 19",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 19,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Reality",
+  "vote_average": 8,
+  "vote_count": 1,
+  "credits": {
+    "cast": [],
+    "crew": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  },
+  "watch/providers": {
+    "results": {
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/46034-die-kuchenschlacht/watch?locale=AT",
+        "free": [
+          {
+            "logo_path": "/sQsgEUFPgsuJaBf68OJ7s6ht6ta.png",
+            "provider_id": 537,
+            "provider_name": "ZDF",
+            "display_priority": 26
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/46034-die-kuchenschlacht/watch?locale=CH",
+        "free": [
+          {
+            "logo_path": "/sQsgEUFPgsuJaBf68OJ7s6ht6ta.png",
+            "provider_id": 537,
+            "provider_name": "ZDF",
+            "display_priority": 23
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/46034-die-kuchenschlacht/watch?locale=DE",
+        "free": [
+          {
+            "logo_path": "/sQsgEUFPgsuJaBf68OJ7s6ht6ta.png",
+            "provider_id": 537,
+            "provider_name": "ZDF",
+            "display_priority": 50
+          }
+        ]
+      }
+    }
+  },
+  "videos": {
+    "results": []
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/pLa2pcYnKA9xxWiWh1C08TXcDTY.jpg",
+        "id": 62705,
+        "name": "Married at First Sight",
+        "original_name": "Married at First Sight",
+        "overview": "Working with leading relationship experts, eight Australian singles are carefully match-made into four married couples, who each meet each other - for the very first time - at their wedding. We'll follow them as they marry, honeymoon, meet the in-laws and set up home, all the while getting to know one another more and more deeply, to see if the matchmakers have got it right and they will have a future together.",
+        "poster_path": "/2F0ADv2beVB4tRG0qx7YlWMvnDN.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 26.4819,
+        "first_air_date": "2015-05-18",
+        "softcore": false,
+        "vote_average": 7.4,
+        "vote_count": 25,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kiD4RDvt9kppAjvBy2LE4k86PDJ.jpg",
+        "id": 61575,
+        "name": "90 Day Fiancé",
+        "original_name": "90 Day Fiancé",
+        "overview": "Getting through customs is just the beginning. With just 90 days to wed on a fiancé visa, follow international couples as they attempt to overcome cultural barriers and family drama while in search of true love that knows no borders.",
+        "poster_path": "/wJVDf4ZysdxhoREQIHlOM4phRNp.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 25.8627,
+        "first_air_date": "2014-01-12",
+        "softcore": false,
+        "vote_average": 7.101,
+        "vote_count": 79,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kSFEIZS3HplqY1uN9U1GR0aEKlP.jpg",
+        "id": 62481,
+        "name": "Beat Bobby Flay",
+        "original_name": "Beat Bobby Flay",
+        "overview": "Two talented chefs go head-to-head for the chance to Beat Bobby Flay. To get to Bobby the chefs must first face off against each other, creating a spectacular dish with a secret ingredient of Bobby's choice. Judges Alex Guarnaschelli and Jeff Mauro know Bobby's strengths and his weaknesses. Their goal: Pick the chef who has the skills to take down Bobby Flay in his own arena. The winning chef gets to challenge Bobby with his or her surprise signature dish. If Bobby goes down, the winner can tell the world, \"I beat Bobby Flay!\"",
+        "poster_path": "/vY8Bep9K9oFSz0C9gnTVipfBciU.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 40.1073,
+        "first_air_date": "2013-08-24",
+        "softcore": false,
+        "vote_average": 6.259,
+        "vote_count": 29,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4TtoziZ70223yyb0FSIkVJoiGv8.jpg",
+        "id": 31306,
+        "name": "Say Yes to the Dress",
+        "original_name": "Say Yes to the Dress",
+        "overview": "Welcome to the world’s premier bridal salon, Kleinfeld Bridal. Part fashion show, part bridal story, part family therapy…Randy Fenoli &amp; a team of specialists guide brides through the process of selecting, altering &amp; delivering each dress in time for their perfect day.",
+        "poster_path": "/8mP8C5czmUnTdVQDokmSUNj95tP.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 13.0403,
+        "first_air_date": "2007-10-12",
+        "softcore": false,
+        "vote_average": 7.086,
+        "vote_count": 35,
+        "origin_country": [
+          "US",
+          "IT"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sBhM4huBFPWi8XQDJhKjP2D2SG1.jpg",
+        "id": 4535,
+        "name": "American Chopper",
+        "original_name": "American Chopper",
+        "overview": "Paul Teutul, Sr. and his son Paul Teutul, Jr. manufacture custom chopper-style motorcycles.",
+        "poster_path": "/y4HP3SGLHeYi2TBhnXcoRRyhhJA.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 10.7203,
+        "first_air_date": "2003-03-31",
+        "softcore": false,
+        "vote_average": 6.4,
+        "vote_count": 63,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nnqTB3gXswFHc1MeOYK05Dzqk2O.jpg",
+        "id": 61944,
+        "name": "Bring It!",
+        "original_name": "Bring It!",
+        "overview": "A spotlight on the elite world of hip-hop majorette competitions. Coach Dianna Williams (aka \"Miss D\") and her Dancing Dolls troupe refuse to lose, pushing themselves to the limit each week in the relentless pursuit of victory. Every pump, thrust and high kick on \"Bring It!\" highlights the triumphs and struggles of intense competition, where errors aren't tolerated, mediocrity isn’t excused and only a win is acceptable.",
+        "poster_path": "/gmk0oDoemqEfdXHbcrjHGNw3nfN.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.9014,
+        "first_air_date": "2014-05-03",
+        "softcore": false,
+        "vote_average": 8.8,
+        "vote_count": 27,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7xQR6ixywZofrEHKfI1z6CWKFsC.jpg",
+        "id": 3670,
+        "name": "Cops",
+        "original_name": "Cops",
+        "overview": "Follow real-life law enforcement officers from various regions and departments of the United States armed with nothing but with cameras to capture their actions, performing their daily duty to serve and protect the public.",
+        "poster_path": "/xtEQVy408xsVw5ZX6Yu35pwJ1Ja.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 62.9404,
+        "first_air_date": "1989-03-11",
+        "softcore": false,
+        "vote_average": 6.632,
+        "vote_count": 189,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/n9qvs8UTmht93Y8hZQdiU4Rb6NF.jpg",
+        "id": 62618,
+        "name": "Flip or Flop",
+        "original_name": "Flip or Flop",
+        "overview": "Tarek and Christina El Moussa buy distressed properties -- foreclosures, short sales and bank-owned homes -- remodel them and sell them at a profit. At least, that's the way it's supposed to work. Track the El Moussas' roller-coaster journey in each episode, beginning with a cash purchase at auction of a home -- often sight unseen -- and the fix-it-up process, to the nail-biting wait to find a buyer.",
+        "poster_path": "/hgbymM0HJrXZVFHPCSXD6XmKkUo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 7.5176,
+        "first_air_date": "2013-04-16",
+        "softcore": false,
+        "vote_average": 5.963,
+        "vote_count": 28,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kNgOD22e9suwWGAPSXFDnqBoSzB.jpg",
+        "id": 13162,
+        "name": "LA Ink",
+        "original_name": "LA Ink",
+        "overview": "LA Ink is an American reality show on TLC that followed the events of the High Voltage Tattoo tattoo studios in Los Angeles, California. The spin-off of TLC's Miami Ink, it premiered on August 7, 2007.\n\nIn August 2011, TLC announced that the show will end production, with Season 4 being its last and that the series is cancelled.",
+        "poster_path": "/3UZyb4QznF5l9e5HRonArfNTGrR.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 6.7328,
+        "first_air_date": "2007-08-07",
+        "softcore": false,
+        "vote_average": 6,
+        "vote_count": 24,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mTqKKHK7aDV5pTXAoROC8HaJaLP.jpg",
+        "id": 45669,
+        "name": "Counting Cars",
+        "original_name": "Counting Cars",
+        "overview": "Danny “The Count” Koker and his team restore, customize and sell cars in a hurry, scrambling to keep their Las Vegas shop in the black. From classics to exotics, from hotrods to choppers, Danny and the crew of Count’s Kustoms will stop at nothing to find and flip the greatest rides of all time.",
+        "poster_path": "/hHVAwZVjTFqJQDo8n6pEVdqGMWX.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.821,
+        "first_air_date": "2012-08-13",
+        "softcore": false,
+        "vote_average": 6.525,
+        "vote_count": 59,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kvsA42cCLFqTujAvJHTZlqaUxXF.jpg",
+        "id": 79679,
+        "name": "Gordon Ramsay's 24 Hours to Hell and Back",
+        "original_name": "Gordon Ramsay's 24 Hours to Hell and Back",
+        "overview": "Gordon Ramsay drives to struggling restaurants across the country in his state-of-the-art mobile kitchen and command center, Hell On Wheels, and tries to bring them back from the brink of disaster – all in just 24 hours.",
+        "poster_path": "/7TiwmRjAgnTXZUKIySVxsRltfZD.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.9184,
+        "first_air_date": "2018-06-13",
+        "softcore": false,
+        "vote_average": 7.329,
+        "vote_count": 38,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/arN9ZE0pAjWuyzfY9oSqvRQvfC5.jpg",
+        "id": 34996,
+        "name": "Teen Mom 2",
+        "original_name": "Teen Mom 2",
+        "overview": "Jenelle, Chelsea, Kailyn, and Leah are four young women navigating complicated lives. It's not always easy being a young mom.",
+        "poster_path": "/jkyDmoX6FK4JvoAeZ1Tg4X4nLTl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 19.1108,
+        "first_air_date": "2011-01-11",
+        "softcore": false,
+        "vote_average": 6.2,
+        "vote_count": 68,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hFWb6PVpoM7PMEFVqKnMXPHpu2m.jpg",
+        "id": 39424,
+        "name": "Extreme Couponing",
+        "original_name": "Extreme Couponing",
+        "overview": "Extreme Couponing is a scripted American reality television series produced by Sharp Media and currently airing on cable network TLC in the United States and Canada.",
+        "poster_path": "/hjuBoNc4hZuSiCmPTjZj0hc9pBv.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 4.7015,
+        "first_air_date": "2011-04-06",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xwqLM6RdXtqeu2TBFNWFQGRGXkA.jpg",
+        "id": 33927,
+        "name": "Love It or List It",
+        "original_name": "Love It or List It",
+        "overview": "When a house no longer feels like home, homeowners are left with a big financial and emotional question: renovate or sell it? Love It or List It helps fed-up homeowners decide. In each hour-long episode Realtor David Visentin and designer Hilary Farr compete for the homeowners' final decision to stay or go.",
+        "poster_path": "/itU2jGOa5ZxidqZEsHyKgI95Mvd.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 14.5079,
+        "first_air_date": "2008-09-08",
+        "softcore": false,
+        "vote_average": 6.4,
+        "vote_count": 23,
+        "origin_country": [
+          "US",
+          "CA"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8mOsaLN92QZNoKG5QH16RIS6uQh.jpg",
+        "id": 72095,
+        "name": "Fear Factor",
+        "original_name": "Fear Factor",
+        "overview": "This refresh of the breakthrough series is hosted by Ludacris and custom-created for a new generation. Filled with new stunts inspired by urban legends, popular scary movies and viral videos from today’s cultural zeitgeist, contestants will confront their fears, be pushed beyond their comfort zones and take action against some of their biggest stressors.",
+        "poster_path": "/jJ7rgZSPSRKvZKITrC9moKZi72J.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 3.4801,
+        "first_air_date": "2017-05-30",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bT3QDDmgQkWEJeJ7T6uONJAT3CG.jpg",
+        "id": 33665,
+        "name": "The Great Food Truck Race",
+        "original_name": "The Great Food Truck Race",
+        "overview": "The Great Food Truck Race is a reality television series, that originally aired on August 15, 2010, on Food Network, with Tyler Florence as the host. It features competing food trucks. The fourth season premiered on August 18, 2013.",
+        "poster_path": "/pOCKDH03m10eIjliYb9Q8KpRZZk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.4859,
+        "first_air_date": "2010-08-15",
+        "softcore": false,
+        "vote_average": 6.571,
+        "vote_count": 21,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pBHziUFN7lzRu8WyBJsNhrMKvFJ.jpg",
+        "id": 78075,
+        "name": "The Repair Shop",
+        "original_name": "The Repair Shop",
+        "overview": "The Repair Shop is a workshop of dreams, where broken or damaged cherished family heirlooms are brought back to life. Furniture restorers, horologists, metal workers, ceramicists, upholsterers, and all manner of skilled craftsmen and women have been brought together to work in one extraordinary space, restoring much-loved possessions to their former glory.",
+        "poster_path": "/qhw8IDjUIfkBZ7TKQUJYgxTOZGo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 19.72,
+        "first_air_date": "2017-03-27",
+        "softcore": false,
+        "vote_average": 7,
+        "vote_count": 29,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qgYK2c5Yl6h0K7s0ClLa3lIcKuV.jpg",
+        "id": 204082,
+        "name": "لعبة الحبّار: التحدي",
+        "original_name": "Squid Game: The Challenge",
+        "overview": "في برنامج المسابقات الواقعي هذا المستوحى من \"لعبة الحبّار\"، يضع 456 لاعبًا مهاراتهم على المحك للفوز بجائزة قدرها 4.56 مليون دولار من شأنها أن تغيّر مجرى حياتهم.",
+        "poster_path": "/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 9.1292,
+        "first_air_date": "2023-11-22",
+        "softcore": false,
+        "vote_average": 6.471,
+        "vote_count": 645,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nGDsZDEZW0Uc5XtyfC7m7tH5q95.jpg",
+        "id": 40026,
+        "name": "Dance Moms",
+        "original_name": "Dance Moms",
+        "overview": "Dance Moms is an American dance reality series that debuted on Lifetime on July 13, 2011. Created by Collins Avenue Productions, it is set in Pittsburgh, Pennsylvania, at the Abby Lee Dance Company, and follows children's early careers in dance show business and their mothers.",
+        "poster_path": "/eLtHnDXNCdBeyC5h1987C2FR3kQ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 39.0059,
+        "first_air_date": "2011-07-13",
+        "softcore": false,
+        "vote_average": 7.1,
+        "vote_count": 121,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3lDciKqPmB8EcIr0YWekBdTK2mN.jpg",
+        "id": 44470,
+        "name": "Bar Rescue",
+        "original_name": "Bar Rescue",
+        "overview": "Jon Taffer is the Gordon Ramsay of the bar and nightclub business. In each episode, Taffer helps transform a struggling bar into a vibrant, profitable business, utilizing his expertise as a nightlife consultant",
+        "poster_path": "/vf6BNtzaszynP4gzN6w36b1McFt.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10764
+        ],
+        "popularity": 15.7815,
+        "first_air_date": "2011-07-17",
+        "softcore": false,
+        "vote_average": 8,
+        "vote_count": 54,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 8,
+    "total_results": 153
+  }
+}

@@ -1,0 +1,1230 @@
+{
+  "adult": false,
+  "backdrop_path": "/mPy1xSASQ9NYWJdAGx2C2sOsnNw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "مغامرة"
+    },
+    {
+      "id": 14,
+      "name": "فانتازيا"
+    },
+    {
+      "id": 28,
+      "name": "حركة"
+    }
+  ],
+  "homepage": "",
+  "id": 1698863,
+  "imdb_id": "tt41605854",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Odyssey",
+  "overview": "",
+  "popularity": 57.6856,
+  "poster_path": "/b0z3ViIC5AkbJoqxmTpqyjgmoJs.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-07-03",
+  "revenue": 0,
+  "runtime": 86,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Odyssey",
+  "video": false,
+  "vote_average": 4.001,
+  "vote_count": 508,
+  "videos": {
+    "results": []
+  },
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1718171,
+        "known_for_department": "Acting",
+        "name": "Myrom Kingery",
+        "original_name": "Myrom Kingery",
+        "popularity": 1.2331,
+        "profile_path": "/85JIqcKjp0w36moa9kSdWo1OgnF.jpg",
+        "cast_id": 9,
+        "character": "Odysseus",
+        "credit_id": "6a5c67ad6b4bb43e8cfadd8e",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4499806,
+        "known_for_department": "Acting",
+        "name": "Morgan Flanagan",
+        "original_name": "Morgan Flanagan",
+        "popularity": 1.3257,
+        "profile_path": "/5Qb68qsULMlUz83At9cHixtLkDN.jpg",
+        "cast_id": 3,
+        "character": "Penelope",
+        "credit_id": "6a0d178da4d5e72a47833517",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3068552,
+        "known_for_department": "Acting",
+        "name": "Patrick Byrnes",
+        "original_name": "Patrick Byrnes",
+        "popularity": 0.6338,
+        "profile_path": "/l1JyqkyHC9Y1oXeK5JTF6p37DNc.jpg",
+        "cast_id": 2,
+        "character": "Telemachus",
+        "credit_id": "6a0d177404e2f24df98332b4",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23790,
+        "known_for_department": "Acting",
+        "name": "Dominic Keating",
+        "original_name": "Dominic Keating",
+        "popularity": 1.4419,
+        "profile_path": "/eRe4BJz9fTztlRKikDRHhmss6ee.jpg",
+        "cast_id": 5,
+        "character": "Antinous",
+        "credit_id": "6a0d17b26f82c851996a36b9",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2722294,
+        "known_for_department": "Acting",
+        "name": "Llana Barron",
+        "original_name": "Llana Barron",
+        "popularity": 1.24,
+        "profile_path": "/tXIYv38X8AZ6YP29yHHekcXckIU.jpg",
+        "cast_id": 1,
+        "character": "Athena",
+        "credit_id": "6a0d172aa1760e113d833afd",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 5056548,
+        "known_for_department": "Acting",
+        "name": "Jordan Iverach",
+        "original_name": "Jordan Iverach",
+        "popularity": 0.6016,
+        "profile_path": "/A9zFtB9YmU4izbD7eNtEqYfbhKZ.jpg",
+        "cast_id": 4,
+        "character": "Polites",
+        "credit_id": "6a0d179f8b248cb4c86a3e78",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4318191,
+        "known_for_department": "Acting",
+        "name": "Tony Wood",
+        "original_name": "Tony Wood",
+        "popularity": 0.7407,
+        "profile_path": "/4ySu5sdx5N89PklRG8aXtKssQUj.jpg",
+        "cast_id": 10,
+        "character": "Alkimos",
+        "credit_id": "6a5c67dd458c458cef212f62",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3135567,
+        "known_for_department": "Acting",
+        "name": "Ashton Rogers",
+        "original_name": "Ashton Rogers",
+        "popularity": 0.6576,
+        "profile_path": "/nwTE08tCgwxChDRjexUzGFchkg7.jpg",
+        "cast_id": 13,
+        "character": "Eurylochus",
+        "credit_id": "6a6b568196d47e90c5d2f5e4",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2953599,
+        "known_for_department": "Acting",
+        "name": "Angelo Kern",
+        "original_name": "Angelo Kern",
+        "popularity": 0.6808,
+        "profile_path": "/iaRjTXbY6fkFy3LicjQIvMjMIVH.jpg",
+        "cast_id": 8,
+        "character": "Lycaon",
+        "credit_id": "6a5c67a16b4bb43e8cfadd8a",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2831424,
+        "known_for_department": "Sound",
+        "name": "Martin Richard Chappell",
+        "original_name": "Martin Richard Chappell",
+        "popularity": 0.6628,
+        "profile_path": null,
+        "cast_id": 12,
+        "character": "Narrator",
+        "credit_id": "6a6b09e2f7b77936e827dc52",
+        "order": 9
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 228632,
+        "known_for_department": "Directing",
+        "name": "Marcel Walz",
+        "original_name": "Marcel Walz",
+        "popularity": 1.1862,
+        "profile_path": "/zorcLcvnUGTa4hirNuOhvYcg7lF.jpg",
+        "credit_id": "6a0d17dc8b248cb4c86a3e7d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2008336,
+        "known_for_department": "Writing",
+        "name": "Joshua Pruett",
+        "original_name": "Joshua Pruett",
+        "popularity": 0.9482,
+        "profile_path": null,
+        "credit_id": "6a0d17fea4d5e72a47833525",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 131286,
+        "known_for_department": "Directing",
+        "name": "Mark David",
+        "original_name": "Mark David",
+        "popularity": 0.5659,
+        "profile_path": "/cmNYk1fozoQe1vxM6uPGfIeSYpN.jpg",
+        "credit_id": "6a5c682941e76e029293da36",
+        "department": "Camera",
+        "job": "Director of Photography"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 9812,
+        "known_for_department": "Writing",
+        "name": "هوميروس",
+        "original_name": "Homer",
+        "popularity": 0.8739,
+        "profile_path": "/u60xNzQODN5t8Q5luKxA5Z46QIG.jpg",
+        "credit_id": "6a78d6177b98dda1e2b4eeb5",
+        "department": "Crew",
+        "job": "Poem"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/djSAd6HUm66eVNC3PiZbYwOpD5A.jpg",
+        "id": 81005,
+        "title": "Jack the Giant Slayer",
+        "original_title": "Jack the Giant Slayer",
+        "overview": "استعد لمغامرة عملاقة\r قصة حرب قديمة تشتعل من جديد عندما يفتح مزارع شاب عن غير قصد بوابة بين عالمنا وسباق مخيف من العمالقة. أطلق العمالقة العنان على الأرض لأول مرة منذ قرون ، ويسعون جاهدين لاستعادة الأرض التي فقدوها ذات مرة ، مما أجبر الشاب جاك على خوض معركة حياته لإيقافهم. يقاتل من أجل مملكة وشعبها وحب أميرة شجاعة ، ويواجه وجها لوجه المحاربين الذين لا يمكن إيقافهم الذين اعتقد أنهم موجودون فقط في الأسطورة - ويحصل على فرصة ليصبح أسطورة بنفسه.",
+        "poster_path": "/9jSI7saUX9Qz0JLh19jX2ulEwL7.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          28,
+          12
+        ],
+        "popularity": 11.609,
+        "release_date": "2013-02-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.91,
+        "vote_count": 5346
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+        "id": 58,
+        "title": "قراصنة الكاريبي - صندوق الرجل الميت",
+        "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+        "overview": "يشق الكابتن جاك سبارو طريقه للخروج من دين الدم مع الشبحي ديفي جونز لتجنب اللعن الأبدي.",
+        "poster_path": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "popularity": 35.0408,
+        "release_date": "2006-07-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.39,
+        "vote_count": 17553
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/btCaMm9aVW1PG485Ef8RMBBALzI.jpg",
+        "id": 258489,
+        "title": "أسطورة طرزان",
+        "original_title": "The Legend of Tarzan",
+        "overview": "بشري. طبيعة.  طرزان ، بعد أن تأقلم مع الحياة في لندن ، يتم استدعاؤه مرة أخرى إلى منزله السابق في الغابة للتحقيق في الأنشطة في معسكر التعدين.",
+        "poster_path": "/eJrfz178xBGlxjDGxnBXTzWWa4w.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          28,
+          12
+        ],
+        "popularity": 11.0668,
+        "release_date": "2016-06-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.925,
+        "vote_count": 6616
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/h7BSu8EH7fwQ9kWiMEGxYussBs0.jpg",
+        "id": 55872,
+        "title": "Tarzan and the Amazons",
+        "original_title": "Tarzan and the Amazons",
+        "overview": "A group of archaeologists asks Tarzan to help them find an ancient city in a hidden valley of women. He refuses, but Boy is tricked into doing the job. The queen of the women asks Tarzan to help them.",
+        "poster_path": "/3D9irZok7EQ2pLoJLwbVBdedEpQ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          28,
+          10749
+        ],
+        "popularity": 2.4389,
+        "release_date": "1945-04-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.413,
+        "vote_count": 98
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8tNX8s3j1O0eqilOQkuroRLyOZA.jpg",
+        "id": 458576,
+        "title": "صائد الوحش",
+        "original_title": "Monster Hunter",
+        "overview": "بوابة تنقل الملازم أرتميس ووحدة نخبة من الجنود إلى عالم غريب حيث تحكم الوحوش القوية بشراسة مميتة. يواجه الفريق خطرًا لا هوادة فيه ، ويواجه صيادًا غامضًا قد يكون أملهم الوحيد في إيجاد طريق للعودة إلى المنزل.",
+        "poster_path": "/tYy5Kkoyrt4KcyUjwHeGmyOMXvI.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          14,
+          12
+        ],
+        "popularity": 8.4608,
+        "release_date": "2020-12-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.511,
+        "vote_count": 3648
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kAhjS7czQu0gtMVwDqfSBR2KjTF.jpg",
+        "id": 9610,
+        "title": "كونان المدمر",
+        "original_title": "Conan the Destroyer",
+        "overview": "تُكلّف الملكة الشريرة تاراميس كونان بمهمة مرافقة أميرة مراهقة وحارسها الشخصي القوي إلى قلعة بعيدة لاستعادة بوق داغوث السحري. لكن دون علم كونان، تُخطط الملكة للتضحية بالأميرة عند عودتها، وتستولي على مملكتها بعد أن يقتل الحارس كونان. تفشل خطط الملكة في مراعاة قوة كونان ودهاءه، وقدرات رفاقه: الساحر غريب الأطوار أكيرو، والمحاربة زولا، ومالاك الأخرق. يجب على البطل وحلفائه، معًا، هزيمة أعداء من البشر وقوى خارقة للطبيعة في هذه الرحلة إلى أرض السيف والسحر",
+        "poster_path": "/m5i7S46DT1ESy7URkh2l92awGRr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "popularity": 7.2001,
+        "release_date": "1984-06-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.139,
+        "vote_count": 1723
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/epWA8i3MoWfdgrR8E7UiodEQM8q.jpg",
+        "id": 575094,
+        "title": "Abigail",
+        "original_title": "Abigail",
+        "overview": "A young girl Abigail lives in a city whose borders were closed many years ago because of an epidemic of a mysterious disease. Abby's father was one of the sick - and he was taken when she was six years old. Going against the authorities to find his father, Abby learns that her city is actually full of magic. And she discovers in herself extraordinary magical abilities.",
+        "poster_path": "/5Ggf38fEAhOCdgvfLOfUcfEQTQT.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          9648
+        ],
+        "popularity": 4.359,
+        "release_date": "2019-08-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.2,
+        "vote_count": 267
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+        "id": 285,
+        "title": "قراصنة الكاريبي - في نهاية العالم",
+        "original_title": "Pirates of the Caribbean: At World's End",
+        "overview": "عاد الكابتن باربوسا ، الذي كان يعتقد منذ فترة طويلة أنه قد مات ، إلى الحياة ويتجه إلى حافة الأرض مع ويل تيرنر وإليزابيث سوان. لكن لا شيء كما يبدو.",
+        "poster_path": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "popularity": 25.6028,
+        "release_date": "2007-05-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.277,
+        "vote_count": 15799
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg",
+        "id": 453395,
+        "title": "دكتور سترينج في جنون الأكوان المتعددة",
+        "original_title": "Doctor Strange in the Multiverse of Madness",
+        "overview": "يخوض (دكتور سترينج)، بمساعدة حلفاء من الماضي والحاضر، رحلة عبر العوالم الموازية والمخيفة للكون المتعدد، متجاوزاً حدود العقل ليواجه خصماً جديداً غامضاً.",
+        "poster_path": "/dPQDQjMyhleSuHZNyln4qLAaa5O.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          28,
+          12
+        ],
+        "popularity": 29.3092,
+        "release_date": "2022-05-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.224,
+        "vote_count": 10783
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/byQFTtskbR9COpluK1p3oImdsBt.jpg",
+        "id": 13064,
+        "title": "Airborne",
+        "original_title": "Airborne",
+        "overview": "Good-natured teen surfer Mitchell Goosen finds himself staying with his aunt and uncle in Cincinnati, Ohio when his parents head to Australia for work. There he meets his cousin, Wiley, and together they try to navigate the perils of high school—avoid the bullies, get the girl, and win a little respect.",
+        "poster_path": "/4TPCzvOoQmmParPjgHCiqqiVYIJ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          35
+        ],
+        "popularity": 3.0061,
+        "release_date": "1993-09-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.076,
+        "vote_count": 92
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uLtVbjvS1O7gXL8lUOwsFOH4man.jpg",
+        "id": 118340,
+        "title": "حرّاس المجرّة",
+        "original_title": "Guardians of the Galaxy",
+        "overview": "يتعين على مجموعة من المجرمين بين المجرات أن يتحدوا لإيقاف محارب متعصب يخطط لتطهير الكون.",
+        "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "popularity": 16.0987,
+        "release_date": "2014-07-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.907,
+        "vote_count": 30265
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hgg4VH9vtujHTh87wI5KIYNSwPy.jpg",
+        "id": 433941,
+        "title": "Dave Made a Maze",
+        "original_title": "Dave Made a Maze",
+        "overview": "Dave, an artist who has yet to complete anything significant in his career, builds a fort in his living room out of pure frustration, only to wind up trapped by the fantastical pitfalls, booby traps, and critters of his own creation. Ignoring his warnings, Dave’s girlfriend Annie leads a band of oddball explorers on a rescue mission. Once inside, they find themselves trapped in an ever-changing supernatural world, threatened by booby traps and pursued by a bloodthirsty Minotaur.",
+        "poster_path": "/f2sMi0iBt44E0M5jmSCaOAnGVZp.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          35,
+          12,
+          27,
+          14
+        ],
+        "popularity": 2.811,
+        "release_date": "2017-08-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.371,
+        "vote_count": 280
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/auJKGst3vXpJozHZh4nMFs0xWIU.jpg",
+        "id": 181812,
+        "title": "حرب النجوم: صعود سكاي ووكر",
+        "original_title": "Star Wars: The Rise of Skywalker",
+        "overview": "بعد ظهور تهديد جديد من الماضي، يعود الإمبراطور بالباتين ويهدد بإغراق المجرة في الظلام. تنطلق راي مع أصدقائها في مهمة للعثور على طريقه ومواجهة قواته، بينما تزداد المواجهة بينها وبين كايلو رين. وفي معركتهم الأخيرة، يتعين على راي أن تواجه ماضيها وتختار الطريق الذي سيحدد مصير الجيداي والمجرة.",
+        "poster_path": "/rqRDIBwn9dlmUVpWlwaQlfia6pJ.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "popularity": 17.6254,
+        "release_date": "2019-12-18",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.248,
+        "vote_count": 11123
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jAXel5sHK1bnv9lL1U4HOkdxuD9.jpg",
+        "id": 487186,
+        "title": "Halo: Nightfall",
+        "original_title": "Halo: Nightfall",
+        "overview": "Set between the events of Halo 4 and Halo 5: Guardians… Halo: Nightfall tells the dramatic story of legendary man hunter and Naval Intelligence Officer Jameson Locke and his team as they are caught in a horrific biological attack while investigating terrorist activity on the distant colony world of Sedra. As they unravel a plot that draws them to an ancient, hellish artifact, they will be forced to fight for their survival, question everything and ultimately choose between their loyalty and their lives.",
+        "poster_path": "/liLQ8EFzHN06eFZ9KQMDK6cmGaK.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "popularity": 3.0674,
+        "release_date": "2014-02-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 203
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/iP0capCU4w5nxCDl398CH7yR1r9.jpg",
+        "id": 9543,
+        "title": "Prince of Persia: The Sands of Time",
+        "original_title": "Prince of Persia: The Sands of Time",
+        "overview": "ينضم أمير مارق على مضض إلى أميرة غامضة ويتسابقان معًا ضد قوى الظلام لحماية خنجر قديم قادر على إطلاق رمال الزمن - هدية من الآلهة التي يمكنها عكس الزمن والسماح لمالكها بحكم العالم.",
+        "poster_path": "/siNGMLdOUNYLEGtlsnmQcpO2XZX.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "popularity": 10.6654,
+        "release_date": "2010-05-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.312,
+        "vote_count": 7315
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5BxrMNGl3YDiWgHCVJu8iLQoJDM.jpg",
+        "id": 445651,
+        "title": "The Darkest Minds",
+        "original_title": "The Darkest Minds",
+        "overview": "After a disease kills 98% of America's children, the surviving 2% develop superpowers and are placed in internment camps. A 16-year-old girl escapes her camp and joins a group of other teens on the run from the government.",
+        "poster_path": "/8NdQneXBYVbBKt81bFhXiyThe0h.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          18
+        ],
+        "popularity": 5.5783,
+        "release_date": "2018-07-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.023,
+        "vote_count": 2974
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/egg7KFi18TSQc1s24RMmR9i2zO6.jpg",
+        "id": 464052,
+        "title": "المرأة الأعجوبة ١٩٨٤",
+        "original_title": "Wonder Woman 1984",
+        "overview": "تتحول عملية سطو فاشلة على متجر إلى بداية معركة عالمية تخوضها \"المرأة الأعجوبة\" ضد قوة قديمة غامضة، تضع قواها الخارقة على المحك.",
+        "poster_path": "/e8mtpAnqT4Qbs1Ncm7hlZwJryA4.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          14
+        ],
+        "popularity": 13.4354,
+        "release_date": "2020-12-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.354,
+        "vote_count": 9240
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8GwGt5aXetp6xQTKTkzjuIax0tA.jpg",
+        "id": 51532,
+        "title": "Prince Charming",
+        "original_title": "Prince Charming",
+        "overview": "After an extramarital indiscretion, a fairy-tale prince and his sidekick are turned into frogs for all eternity or until the prince can convince a maiden to kiss and then marry him.",
+        "poster_path": "/sma7B0TJNGfXMzi5Ob9HZOsmsP8.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          10749
+        ],
+        "popularity": 2.6689,
+        "release_date": "2001-07-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.9,
+        "vote_count": 84
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg",
+        "id": 10195,
+        "title": "ثور",
+        "original_title": "Thor",
+        "overview": "تم طرد الإله القوي والمتغطرس ثور من أسغارد ليعيش بين البشر في ميدغارد (الأرض)، حيث سرعان ما أصبح أحد أفضل المدافعين عنهم.",
+        "poster_path": "/1FHQvc3OeqlalUkUdAdh1k4xaoO.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          12,
+          14,
+          28
+        ],
+        "popularity": 26.8413,
+        "release_date": "2011-04-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.771,
+        "vote_count": 22765
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fACoy2VWw9lz1UbqrgtbIcSYi5e.jpg",
+        "id": 266647,
+        "title": "Pan",
+        "original_title": "Pan",
+        "overview": "تدور أحداث الفيلم في إطار من الفانتازيا والمغامرات حول فتى يتيم ووحيد يجد نفسه بعالم (نيفرلاند)، حيث العجائب والأساطير تتجسد فيه، ليجد نفسه محاصرا بين المرح، والخطر الشديد من قِبَل مجموعة من القراصنة بقيادة (بلاك بيرد)، و(هوك) أيضًا، ليكتشف بعد ذلك مصيره الذي سيجعله (بيتر بان)، الفتى الأشهر على الإطلاق، وبطل (نيفرلاند) المغوار.",
+        "poster_path": "/w8i0mZR7MEL7c3bXSsuYg7VJsew.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          14,
+          12,
+          10751,
+          28
+        ],
+        "popularity": 7.4897,
+        "release_date": "2015-09-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.955,
+        "vote_count": 2885
+      }
+    ],
+    "total_pages": 22,
+    "total_results": 432
+  },
+  "watch/providers": {
+    "results": {
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/1698863-the-odyssey/watch?locale=CA",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+            "provider_id": 73,
+            "provider_name": "Tubi TV",
+            "display_priority": 19
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/movie/1698863-the-odyssey/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          },
+          {
+            "logo_path": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png",
+            "provider_id": 2100,
+            "provider_name": "Amazon Prime Video with Ads",
+            "display_priority": 79
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1698863-the-odyssey/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/9dEuvA8wg5TSeFBZlPxSVxFdimJ.png",
+            "provider_id": 73,
+            "provider_name": "Tubi TV",
+            "display_priority": 347
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          }
+        ]
+      }
+    }
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/9oLrsekWm3sfEGw5HOav6roW1h7.jpg",
+        "genre_ids": [
+          28,
+          12,
+          35,
+          53
+        ],
+        "id": 3132,
+        "title": "Bad Company",
+        "original_language": "en",
+        "original_title": "Bad Company",
+        "overview": "",
+        "popularity": 6.9676,
+        "poster_path": "/umu141mcfIEhRLgyQp7TWlGJFW.jpg",
+        "release_date": "2002-06-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.506,
+        "vote_count": 885
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/fZc7g1MT9pOg4yNkgyoJvE2qLB9.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          10770
+        ],
+        "id": 823087,
+        "title": "Ape vs. Monster",
+        "original_language": "en",
+        "original_title": "Ape vs. Monster",
+        "overview": "",
+        "popularity": 2.2566,
+        "poster_path": "/4gTMlGzfR22WPP7qygyuW3D5Pdq.jpg",
+        "release_date": "2021-04-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.791,
+        "vote_count": 146
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lsTeqTEUTHYForgPZcjAJ82EsHV.jpg",
+        "genre_ids": [
+          28
+        ],
+        "id": 277597,
+        "title": "Mercenaries",
+        "original_language": "en",
+        "original_title": "Mercenaries",
+        "overview": "",
+        "popularity": 2.4586,
+        "poster_path": "/eba3J71GIIXncTVzS3fMqjdMzfz.jpg",
+        "release_date": "2014-08-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.135,
+        "vote_count": 133
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/csljXcumBnpmrLCXtlrjrspEnIM.jpg",
+        "genre_ids": [
+          35,
+          12,
+          10749
+        ],
+        "id": 13523,
+        "title": "Sex Drive",
+        "original_language": "en",
+        "original_title": "Sex Drive",
+        "overview": "",
+        "popularity": 9.1089,
+        "poster_path": "/aO4swvDjqW635lesjYbytrEhBsn.jpg",
+        "release_date": "2008-10-16",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.397,
+        "vote_count": 1521
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/djAGTqHDR0y3yJJsVlpH6DOaNLt.jpg",
+        "genre_ids": [
+          28,
+          12,
+          14,
+          878
+        ],
+        "id": 655031,
+        "title": "The Final Level: Escaping Rancala",
+        "original_language": "en",
+        "original_title": "The Final Level: Escaping Rancala",
+        "overview": "",
+        "popularity": 1.4853,
+        "poster_path": "/xiL1me9l9prQcr3tTNBc5QEvGLk.jpg",
+        "release_date": "2019-12-07",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 31
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dCXyK3ZjUZPwvZejV4vjzhzv8Dp.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1228693,
+        "title": "മുറ",
+        "original_language": "ml",
+        "original_title": "മുറ",
+        "overview": "",
+        "popularity": 1.4623,
+        "poster_path": "/vTYG7BZfC61qT6tXXeo3Wa7In5r.jpg",
+        "release_date": "2024-11-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.688,
+        "vote_count": 8
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/f8y5SkbUIarZ5MxF5ErbNb39lsx.jpg",
+        "genre_ids": [
+          28,
+          27,
+          53
+        ],
+        "id": 35710,
+        "title": "Snakes on a Train",
+        "original_language": "en",
+        "original_title": "Snakes on a Train",
+        "overview": "",
+        "popularity": 1.6772,
+        "poster_path": "/dzNOdGwtMMq8NKBjxkd2yG59NJV.jpg",
+        "release_date": "2006-08-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 3.774,
+        "vote_count": 53
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tZiRd4IpoNiaoLXr2o2YfhTMjE2.jpg",
+        "genre_ids": [
+          12,
+          28
+        ],
+        "id": 662707,
+        "title": "Starbright",
+        "original_language": "en",
+        "original_title": "Starbright",
+        "overview": "",
+        "popularity": 8.4479,
+        "poster_path": "/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+        "release_date": "2026-02-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.7,
+        "vote_count": 20
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7UkesoE4ZCeWanPnQ5aOZLAgSEV.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 39522,
+        "title": "Mega Piranha",
+        "original_language": "en",
+        "original_title": "Mega Piranha",
+        "overview": "",
+        "popularity": 2.457,
+        "poster_path": "/vZB82Iqg28c5UxY3maGg1gGr3yF.jpg",
+        "release_date": "2010-04-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 3.211,
+        "vote_count": 168
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/GtblqNxBX0fUbLVNhempSYwCWe.jpg",
+        "genre_ids": [
+          14,
+          27
+        ],
+        "id": 1483,
+        "title": "Begotten",
+        "original_language": "en",
+        "original_title": "Begotten",
+        "overview": "",
+        "popularity": 4.9875,
+        "poster_path": "/y8GbJny4bBUimJxUGXqq3l3k4OV.jpg",
+        "release_date": "1991-06-05",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.976,
+        "vote_count": 370
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1D7zmoM11ydkL5Ml1TKYPWcOaYs.jpg",
+        "genre_ids": [
+          12,
+          35,
+          10751,
+          878
+        ],
+        "id": 14443,
+        "title": "The Garbage Pail Kids Movie",
+        "original_language": "en",
+        "original_title": "The Garbage Pail Kids Movie",
+        "overview": "",
+        "popularity": 2.5953,
+        "poster_path": "/v6PqKUptGhQjTTgqN2s2uPdNW0h.jpg",
+        "release_date": "1987-08-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 3.492,
+        "vote_count": 119
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2eZUHO2gEktRTaWQuxXF3NtLWjH.jpg",
+        "genre_ids": [
+          27,
+          878,
+          28
+        ],
+        "id": 460962,
+        "title": "Alien Convergence",
+        "original_language": "en",
+        "original_title": "Alien Convergence",
+        "overview": "",
+        "popularity": 1.5374,
+        "poster_path": "/96xgOCz2li0IiqKYcLQh5bK7CiU.jpg",
+        "release_date": "2017-06-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 3.8,
+        "vote_count": 53
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/9dq4oPQEK4fFkPafdhDKjTh06QJ.jpg",
+        "genre_ids": [
+          12,
+          14,
+          878
+        ],
+        "id": 869048,
+        "title": "Atoman",
+        "original_language": "fr",
+        "original_title": "Atoman",
+        "overview": "",
+        "popularity": 1.2348,
+        "poster_path": "/z2jq9twpkiaQnbaOYHrAQFZTdux.jpg",
+        "release_date": "2025-04-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 3.1,
+        "vote_count": 17
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/3fzK45ZAdVY9pemT4Go5NdpNUIs.jpg",
+        "genre_ids": [
+          27,
+          28,
+          53
+        ],
+        "id": 68212,
+        "title": "The Terror Experiment",
+        "original_language": "en",
+        "original_title": "The Terror Experiment",
+        "overview": "",
+        "popularity": 1.6711,
+        "poster_path": "/6p0Yox5Om8vVKxg61AI4Ar55C47.jpg",
+        "release_date": "2010-04-01",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.1,
+        "vote_count": 35
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ecvZ4XwZhrredkyvh7cAvI2jrfW.jpg",
+        "genre_ids": [
+          16,
+          12,
+          35,
+          10751,
+          14
+        ],
+        "id": 674942,
+        "title": "Homeward",
+        "original_language": "el",
+        "original_title": "Homeward",
+        "overview": "",
+        "popularity": 1.0814,
+        "poster_path": "/rtiZGBa1iAhKvz3rdTkLnhKEmRc.jpg",
+        "release_date": "2020-02-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5Axjq9PY7DaFYqCDfoagQmD18tW.jpg",
+        "genre_ids": [
+          16,
+          14,
+          12,
+          10751
+        ],
+        "id": 77742,
+        "title": "Наша Маша и Волшебный орех",
+        "original_language": "ru",
+        "original_title": "Наша Маша и Волшебный орех",
+        "overview": "",
+        "popularity": 1.0101,
+        "poster_path": "/fsBZT9725qBc3tLVnIdReIfemXk.jpg",
+        "release_date": "2009-12-10",
+        "softcore": false,
+        "video": false,
+        "vote_average": 3.714,
+        "vote_count": 7
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cfV68tSyuTbXJ3NRnILoj5JU2sR.jpg",
+        "genre_ids": [
+          28,
+          53
+        ],
+        "id": 1478052,
+        "title": "Ballerina Assassin",
+        "original_language": "en",
+        "original_title": "Ballerina Assassin",
+        "overview": "",
+        "popularity": 1.9774,
+        "poster_path": "/xZXHG1FoeDL54MqnxtamDXAUGih.jpg",
+        "release_date": "2025-05-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.393,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vsxNRlyovcME4gLl7xkXAvx1c2h.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12,
+          27
+        ],
+        "id": 1477953,
+        "title": "Jurassic Reborn",
+        "original_language": "en",
+        "original_title": "Jurassic Reborn",
+        "overview": "",
+        "popularity": 1.2333,
+        "poster_path": "/epZChWdhnWKMjqYIFZIAVZkCogd.jpg",
+        "release_date": "2025-06-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 4.3,
+        "vote_count": 15
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kUPsoth8j2UkChsp8UqHVya9v2Z.jpg",
+        "genre_ids": [
+          35,
+          14,
+          28,
+          12,
+          878
+        ],
+        "id": 514650,
+        "title": "Badang",
+        "original_language": "ms",
+        "original_title": "Badang",
+        "overview": "",
+        "popularity": 1.7969,
+        "poster_path": "/xtLDHuGmjFjNHxT19qrDXKxuI9Q.jpg",
+        "release_date": "2018-02-15",
+        "softcore": false,
+        "video": true,
+        "vote_average": 1,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wfdc6HVUiIluKxFxe7deJUvnwN0.jpg",
+        "genre_ids": [
+          27,
+          14,
+          53
+        ],
+        "id": 928015,
+        "title": "Dracula: The Original Living Vampire",
+        "original_language": "en",
+        "original_title": "Dracula: The Original Living Vampire",
+        "overview": "",
+        "popularity": 2.0548,
+        "poster_path": "/weZUBP2WvRwso1wTMNp3JK96ULS.jpg",
+        "release_date": "2022-01-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.057,
+        "vote_count": 115
+      }
+    ],
+    "total_pages": 4975,
+    "total_results": 99484
+  }
+}

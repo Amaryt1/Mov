@@ -1,0 +1,3669 @@
+{
+  "adult": false,
+  "backdrop_path": "/caBIySpwuFi2i7ynvHIlnxJLOdN.jpg",
+  "belongs_to_collection": {
+    "id": 1560779,
+    "name": "Batman: Knightfall Collection",
+    "poster_path": "/cqEmZZlr05YF9oKKEvh54Yh7z6p.jpg",
+    "backdrop_path": "/lMfPpoLkYxdwZ6ZBiZyW0f1uJjf.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "رسوم متحركة"
+    },
+    {
+      "id": 28,
+      "name": "حركة"
+    },
+    {
+      "id": 12,
+      "name": "مغامرة"
+    },
+    {
+      "id": 878,
+      "name": "خيال علمي"
+    },
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    }
+  ],
+  "homepage": "",
+  "id": 1560520,
+  "imdb_id": "tt32333324",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Batman: Knightfall Part 1: Knightfall",
+  "overview": "دُمِّرَ مصحّ أركام، وانطلق جميع نزلائه في مدينة غوثام. وبينما يسارع باتمان للقبض على بعضٍ من ألد أعدائه، يُدفع إلى أقصى حدود قدراته الجسدية والعقلية، ويخوض مواجهةً أخيرةً مع تهديدٍ جديد: الرجل الملقب بـ\"بين\".",
+  "popularity": 157.121,
+  "poster_path": "/5jUjHuUUn87iH7FovZDh0q6XvMp.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "name": "DC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2026-06-23",
+  "revenue": 0,
+  "runtime": 79,
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "باتمان: سقوط الفارس الجزء ١: سقوط الفارس",
+  "video": false,
+  "vote_average": 9.167,
+  "vote_count": 260,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 56675,
+        "known_for_department": "Acting",
+        "name": "Anson Mount",
+        "original_name": "Anson Mount",
+        "popularity": 3.411,
+        "profile_path": "/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg",
+        "cast_id": 13,
+        "character": "Batman / Bruce Wayne (voice)",
+        "credit_id": "6a3ae48ca616608eee8cdce1",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 829372,
+        "known_for_department": "Acting",
+        "name": "مايكل ماندو",
+        "original_name": "Michael Mando",
+        "popularity": 2.9296,
+        "profile_path": "/gvM2wG66bjEpiirdeQdyG9EzUfv.jpg",
+        "cast_id": 14,
+        "character": "Bane (voice)",
+        "credit_id": "6a3ae4ab411fdd0124f73402",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 59254,
+        "known_for_department": "Acting",
+        "name": "Pablo Schreiber",
+        "original_name": "Pablo Schreiber",
+        "popularity": 3.2131,
+        "profile_path": "/trKW3kwhwx4UeCNZg43A1x1h4Uv.jpg",
+        "cast_id": 15,
+        "character": "Azrael / Jean-Paul Valley (voice)",
+        "credit_id": "6a3ae4dc3c88daaf948cdcf6",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 34982,
+        "known_for_department": "Acting",
+        "name": "جيف بينيت",
+        "original_name": "Jeff Bennett",
+        "popularity": 5.3793,
+        "profile_path": "/6Fq3Q1e0Oz0j2J2fnFSl7fKCHd9.jpg",
+        "cast_id": 32,
+        "character": "Ventriloquist / Scarface / Vincent (voice)",
+        "credit_id": "6a8e17fabc0cc0c7f4e7f183",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4270359,
+        "known_for_department": "Acting",
+        "name": "Luis Bermudez",
+        "original_name": "Luis Bermudez",
+        "popularity": 0.7875,
+        "profile_path": "/cn1yzMsCrUatAqjDEIxTb8h38X9.jpg",
+        "cast_id": 33,
+        "character": "Catman / Doctor / Guard (voice)",
+        "credit_id": "6a8e180f27bf5f3ca1b4f045",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2547,
+        "known_for_department": "Acting",
+        "name": "Bruce Boxleitner",
+        "original_name": "Bruce Boxleitner",
+        "popularity": 2.6881,
+        "profile_path": "/1x99F4oJTFAFY2HR4PbQdxiGyMH.jpg",
+        "cast_id": 31,
+        "character": "Commissioner Jim Gordon (voice)",
+        "credit_id": "6a3c7c6d67917248bc663e2a",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1030995,
+        "known_for_department": "Acting",
+        "name": "Jessica Camacho",
+        "original_name": "Jessica Camacho",
+        "popularity": 2.976,
+        "profile_path": "/rmms55MpLdBWRDX8LLDTctgXUuA.jpg",
+        "cast_id": 34,
+        "character": "Renee Montoya (voice)",
+        "credit_id": "6a8e181fa90eb1045db50de1",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 31367,
+        "known_for_department": "Acting",
+        "name": "Anthony Crivello",
+        "original_name": "Anthony Crivello",
+        "popularity": 0.7677,
+        "profile_path": "/AmeKWIanHlHYEDXpDfySEk95Myo.jpg",
+        "cast_id": 35,
+        "character": "Franco Bertinelli / Priest / Prisoner (voice)",
+        "credit_id": "6a8e18677930b13e31460174",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 83854,
+        "known_for_department": "Acting",
+        "name": "ديفيد داستمالشيان",
+        "original_name": "David Dastmalchian",
+        "popularity": 2.6022,
+        "profile_path": "/nER1Vzhk51pGHb60KBF1Ja5tEXA.jpg",
+        "cast_id": 36,
+        "character": "The Riddler (voice)",
+        "credit_id": "6a8e18931b75308b34d2f5fc",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 973,
+        "known_for_department": "Acting",
+        "name": "Jason Flemyng",
+        "original_name": "Jason Flemyng",
+        "popularity": 2.8163,
+        "profile_path": "/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg",
+        "cast_id": 37,
+        "character": "Mad Hatter (voice)",
+        "credit_id": "6a8e18a511c427e0adb50e8e",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1277364,
+        "known_for_department": "Acting",
+        "name": "Jack Griffo",
+        "original_name": "Jack Griffo",
+        "popularity": 3.296,
+        "profile_path": "/tG3K8Lpwb0FXHEMLTvCbwUyH1LR.jpg",
+        "cast_id": 38,
+        "character": "Robin / Tim Drake (voice)",
+        "credit_id": "6a8e18c015bbe52f72ecaf55",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1720506,
+        "known_for_department": "Acting",
+        "name": "Jason Hightower",
+        "original_name": "Jason Hightower",
+        "popularity": 0.5677,
+        "profile_path": "/wdNUd3qVk66VunB2wH9iYLqgxhk.jpg",
+        "cast_id": 39,
+        "character": "The Riddler Henchman / Behemoth / Prisoner (voice)",
+        "credit_id": "6a8e18e336da739d62c85536",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5464743,
+        "known_for_department": "Acting",
+        "name": "Adriana Isabel",
+        "original_name": "Adriana Isabel",
+        "popularity": 0.2805,
+        "profile_path": null,
+        "cast_id": 40,
+        "character": "Bane's Mother (voice)",
+        "credit_id": "6a8e18f33ddc1c2ee0460170",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4003170,
+        "known_for_department": "Acting",
+        "name": "Noah Mendes",
+        "original_name": "Noah Mendes",
+        "popularity": 0.3548,
+        "profile_path": "/9kgtQm9p5aj1FcvEjNi5XKb1mtR.jpg",
+        "cast_id": 41,
+        "character": "Boy Bane (voice)",
+        "credit_id": "6a8e1901ddd5317d062f51df",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1379386,
+        "known_for_department": "Acting",
+        "name": "ماكس ميتلمان",
+        "original_name": "Max Mittelman",
+        "popularity": 1.1772,
+        "profile_path": "/zQqiIgestpxssPrUXQXkY2Sq0y8.jpg",
+        "cast_id": 42,
+        "character": "Jason Todd / Cop (voice)",
+        "credit_id": "6a8e191a46e5537ddc460276",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 80823,
+        "known_for_department": "Acting",
+        "name": "Andrew Morgado",
+        "original_name": "Andrew Morgado",
+        "popularity": 1.27,
+        "profile_path": "/or0uFYnXsFs5td9GYRukUN56sRy.jpg",
+        "cast_id": 43,
+        "character": "Victor Zsasz / Book Man / Cop (voice)",
+        "credit_id": "6a8e1936708bd32160460205",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1333195,
+        "known_for_department": "Acting",
+        "name": "Bayardo De Murguia",
+        "original_name": "Bayardo De Murguia",
+        "popularity": 0.6635,
+        "profile_path": "/lk9A9gi6l1jqPh6gA52NleRil3q.jpg",
+        "cast_id": 44,
+        "character": "Warden / Henchman (voice)",
+        "credit_id": "6a8e194a34e786815831b43a",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1256258,
+        "known_for_department": "Acting",
+        "name": "توكس أولاغوندوي",
+        "original_name": "Toks Olagundoye",
+        "popularity": 1.5985,
+        "profile_path": "/2tKnfTA0gh6QnTcHb18hj8o70uG.jpg",
+        "cast_id": 45,
+        "character": "Shondra Kingsolving (voice)",
+        "credit_id": "6a8e195cf5cdcf3b56e04f6d",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1451123,
+        "known_for_department": "Acting",
+        "name": "Stephen Oyoung",
+        "original_name": "Stephen Oyoung",
+        "popularity": 0.6911,
+        "profile_path": "/oMdNxSd8cSZaYhpaDkaYQ40Z5o0.jpg",
+        "cast_id": 46,
+        "character": "Chen (voice)",
+        "credit_id": "6a8e196d21e95abb70e04fe1",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2760821,
+        "known_for_department": "Acting",
+        "name": "Bill Rogers",
+        "original_name": "Bill Rogers",
+        "popularity": 0.4428,
+        "profile_path": "/bXxSUzXNSV5WR46ZL2bGmX7leSM.jpg",
+        "cast_id": 47,
+        "character": "Gino / Tony / Guard (voice)",
+        "credit_id": "6a8e197f27e7ec8a17111d9e",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 95001,
+        "known_for_department": "Acting",
+        "name": "Simon Templeman",
+        "original_name": "Simon Templeman",
+        "popularity": 1.6702,
+        "profile_path": "/g0c8inA8Kboiqr6uGRq4gcesrK5.jpg",
+        "cast_id": 48,
+        "character": "Alfred Pennyworth (voice)",
+        "credit_id": "6a8e1991f5cdcf3b56e04f75",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 971877,
+        "known_for_department": "Acting",
+        "name": "Mick Wingert",
+        "original_name": "Mick Wingert",
+        "popularity": 1.5601,
+        "profile_path": "/2Apga68BihekhCSPHNk5pXqC5Gq.jpg",
+        "cast_id": 49,
+        "character": "Harvey Bullock / Prisoner (voice)",
+        "credit_id": "6a8e19a05ac5ce56492f51c3",
+        "order": 21
+      }
+    ],
+    "crew": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2927725,
+        "known_for_department": "Directing",
+        "name": "Jeff Wamester",
+        "original_name": "Jeff Wamester",
+        "popularity": 1.1198,
+        "profile_path": "/uDLvW3b21oINAA5BJiWMf85cDCP.jpg",
+        "credit_id": "68e975e8d77dd7415873e29d",
+        "department": "Directing",
+        "job": "Director"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1674791,
+        "known_for_department": "Writing",
+        "name": "Jeremy Adams",
+        "original_name": "Jeremy Adams",
+        "popularity": 1.1615,
+        "profile_path": null,
+        "credit_id": "68e97609b25a0e889eaa1db8",
+        "department": "Writing",
+        "job": "Writer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 141043,
+        "known_for_department": "Production",
+        "name": "Sam Register",
+        "original_name": "Sam Register",
+        "popularity": 1.1896,
+        "profile_path": "/rCJa4fFOi3CcOGjljzn06XliSsz.jpg",
+        "credit_id": "68e9763e52b5a4328a5f6990",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 10949,
+        "known_for_department": "Production",
+        "name": "Michael Uslan",
+        "original_name": "Michael Uslan",
+        "popularity": 0.6942,
+        "profile_path": "/cXiiH0SSk5UHCvHOVAhHX7tNuls.jpg",
+        "credit_id": "68e97658c2abae75c973e194",
+        "department": "Production",
+        "job": "Executive Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 105642,
+        "known_for_department": "Directing",
+        "name": "Rick Morales",
+        "original_name": "Rick Morales",
+        "popularity": 0.6116,
+        "profile_path": "/qmzubkG4gb89WeFelMpa1VKvjfs.jpg",
+        "credit_id": "68e976bc8b51e76fb2aa1ecb",
+        "department": "Production",
+        "job": "Supervising Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 150856,
+        "known_for_department": "Writing",
+        "name": "Jim Krieg",
+        "original_name": "Jim Krieg",
+        "popularity": 1.1541,
+        "profile_path": null,
+        "credit_id": "68e976fa25c349579a41e6f5",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1996899,
+        "known_for_department": "Production",
+        "name": "Kimberly S. Moreau",
+        "original_name": "Kimberly S. Moreau",
+        "popularity": 0.5237,
+        "profile_path": null,
+        "credit_id": "68e97715d6c21bf539b7b4f0",
+        "department": "Production",
+        "job": "Producer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3794,
+        "known_for_department": "Writing",
+        "name": "بوب كين",
+        "original_name": "Bob Kane",
+        "popularity": 1.9616,
+        "profile_path": "/vuXwrlqaUydA4t5SFVdQkK9KsZL.jpg",
+        "credit_id": "68e97b2d3c874857acad7092",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 198034,
+        "known_for_department": "Writing",
+        "name": "بيل فينغر",
+        "original_name": "Bill Finger",
+        "popularity": 1.4208,
+        "profile_path": "/aU2Wv9QL9qNG0UQosl1MKpp1icV.jpg",
+        "credit_id": "68e97b3ef5bdead261eafcf6",
+        "department": "Writing",
+        "job": "Characters"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1715753,
+        "known_for_department": "Writing",
+        "name": "Doug Moench",
+        "original_name": "Doug Moench",
+        "popularity": 0.765,
+        "profile_path": "/t3wYsCIT8H8kB4xesQZDLtIxrJZ.jpg",
+        "credit_id": "6a3b29ff06f76f2c7378340c",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2137119,
+        "known_for_department": "Writing",
+        "name": "Chuck Dixon",
+        "original_name": "Chuck Dixon",
+        "popularity": 0.8112,
+        "profile_path": "/5JHEmJ386YGEMMdCRGOKKr2MunX.jpg",
+        "credit_id": "6a3b2a0575d6cc7d6fedb209",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1381571,
+        "known_for_department": "Writing",
+        "name": "Alan Grant",
+        "original_name": "Alan Grant",
+        "popularity": 0.7122,
+        "profile_path": "/m1QiXwVTYdQdfy8AvQ6LaWZkihF.jpg",
+        "credit_id": "6a3b2a0db0845bc4ddec4451",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 938689,
+        "known_for_department": "Acting",
+        "name": "دينيس أونيل",
+        "original_name": "Dennis O'Neil",
+        "popularity": 1.21,
+        "profile_path": "/ymnqFKFblIKkbFrjgIhaX3LQwBM.jpg",
+        "credit_id": "6a3b2a133b0fc079e78fbbbf",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 156223,
+        "known_for_department": "Writing",
+        "name": "Peter David",
+        "original_name": "Peter David",
+        "popularity": 0.6442,
+        "profile_path": null,
+        "credit_id": "6a3b2a1948f37bf6bd563aec",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1174324,
+        "known_for_department": "Writing",
+        "name": "Jo Duffy",
+        "original_name": "Jo Duffy",
+        "popularity": 0.5016,
+        "profile_path": null,
+        "credit_id": "6a3b2a294f4bc495f5563b84",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3291294,
+        "known_for_department": "Crew",
+        "name": "Jim Aparo",
+        "original_name": "Jim Aparo",
+        "popularity": 0.445,
+        "profile_path": null,
+        "credit_id": "6a3b2a30b4953d55c803ee8c",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2137326,
+        "known_for_department": "Writing",
+        "name": "Graham Nolan",
+        "original_name": "Graham Nolan",
+        "popularity": 0.5736,
+        "profile_path": "/hY5YrktiCbiKNPhaebHNRbpycew.jpg",
+        "credit_id": "6a3b2a3f29adf4627fec4505",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3451796,
+        "known_for_department": "Crew",
+        "name": "Norm Breyfogle",
+        "original_name": "Norm Breyfogle",
+        "popularity": 0.4515,
+        "profile_path": null,
+        "credit_id": "6a3b2a48ac20c0b87bec43cc",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6305325,
+        "known_for_department": "Writing",
+        "name": "Jim Balent",
+        "original_name": "Jim Balent",
+        "popularity": 0.5141,
+        "profile_path": null,
+        "credit_id": "6a3b2a52ac94e2a1d1563b56",
+        "department": "Writing",
+        "job": "Comic Book"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1641642,
+        "known_for_department": "Production",
+        "name": "Wes Gleason",
+        "original_name": "Wes Gleason",
+        "popularity": 0.5197,
+        "profile_path": null,
+        "credit_id": "6a8e1a5946e5537ddc46027d",
+        "department": "Production",
+        "job": "Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3638974,
+        "known_for_department": "Production",
+        "name": "Sarah Noonan",
+        "original_name": "Sarah Noonan",
+        "popularity": 0.524,
+        "profile_path": null,
+        "credit_id": "6a8e1ab636da739d62c8554b",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3151382,
+        "known_for_department": "Production",
+        "name": "Agnes Kim",
+        "original_name": "Agnes Kim",
+        "popularity": 0.4804,
+        "profile_path": null,
+        "credit_id": "6a8e1ac000703cababb4f032",
+        "department": "Production",
+        "job": "Additional Casting"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1183647,
+        "known_for_department": "Sound",
+        "name": "Eric V. Hachikian",
+        "original_name": "Eric V. Hachikian",
+        "popularity": 0.5477,
+        "profile_path": "/ioSy2PDzH3rDNHGm8AsQNP2OpYP.jpg",
+        "credit_id": "6a8e1af0fea71d0964d2f679",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1374902,
+        "known_for_department": "Sound",
+        "name": "John Jennings Boyd",
+        "original_name": "John Jennings Boyd",
+        "popularity": 0.7704,
+        "profile_path": null,
+        "credit_id": "6a8e1afee021dc2770694cde",
+        "department": "Sound",
+        "job": "Music"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3086574,
+        "known_for_department": "Editing",
+        "name": "Annie De Brock",
+        "original_name": "Annie De Brock",
+        "popularity": 0.4782,
+        "profile_path": null,
+        "credit_id": "6a8e1b1415bbe52f72ecaf73",
+        "department": "Editing",
+        "job": "Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2809643,
+        "known_for_department": "Sound",
+        "name": "Forest Christenson",
+        "original_name": "Forest Christenson",
+        "popularity": 0.4993,
+        "profile_path": null,
+        "credit_id": "6a8f79d0f743f4f4bbc53467",
+        "department": "Sound",
+        "job": "Original Music Composer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1459223,
+        "known_for_department": "Sound",
+        "name": "Rob McIntyre",
+        "original_name": "Rob McIntyre",
+        "popularity": 0.3877,
+        "profile_path": null,
+        "credit_id": "6a91c3ed750d4ad4193e5932",
+        "department": "Sound",
+        "job": "Supervising Sound Editor"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 4994623,
+        "known_for_department": "Sound",
+        "name": "Grace Stensland",
+        "original_name": "Grace Stensland",
+        "popularity": 0.8345,
+        "profile_path": null,
+        "credit_id": "6a91c408f11ff59afc4317d2",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3825293,
+        "known_for_department": "Sound",
+        "name": "Adam Cioffi",
+        "original_name": "Adam Cioffi",
+        "popularity": 0.4711,
+        "profile_path": null,
+        "credit_id": "6a91c4138b598aa65f26cfaf",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4912568,
+        "known_for_department": "Sound",
+        "name": "Marc Schmidt",
+        "original_name": "Marc Schmidt",
+        "popularity": 0.3068,
+        "profile_path": null,
+        "credit_id": "6a91c41df6026b28d5648532",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1914760,
+        "known_for_department": "Sound",
+        "name": "Jeff Halbert",
+        "original_name": "Jeff Halbert",
+        "popularity": 0.2965,
+        "profile_path": null,
+        "credit_id": "6a91c4281a078e22abc28857",
+        "department": "Sound",
+        "job": "Sound Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2340994,
+        "known_for_department": "Sound",
+        "name": "Matthew Festle",
+        "original_name": "Matthew Festle",
+        "popularity": 0.5587,
+        "profile_path": null,
+        "credit_id": "6a91c43a750d4ad4193e5935",
+        "department": "Sound",
+        "job": "Sound Effects Editor"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3210417,
+        "known_for_department": "Production",
+        "name": "Angela O'Sullivan",
+        "original_name": "Angela O'Sullivan",
+        "popularity": 0.4164,
+        "profile_path": null,
+        "credit_id": "6a9ad42b7382c3f22d1f9667",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933614,
+        "known_for_department": "Production",
+        "name": "Marlene Corpuz",
+        "original_name": "Marlene Corpuz",
+        "popularity": 0.3258,
+        "profile_path": null,
+        "credit_id": "6a9ad445ce6824719f40cf8e",
+        "department": "Production",
+        "job": "Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3208918,
+        "known_for_department": "Production",
+        "name": "Alicia Heraper",
+        "original_name": "Alicia Heraper",
+        "popularity": 0.3148,
+        "profile_path": null,
+        "credit_id": "6a9ad45bb42516e726e76603",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4258816,
+        "known_for_department": "Production",
+        "name": "Nayeli Fernandez",
+        "original_name": "Nayeli Fernandez",
+        "popularity": 0.307,
+        "profile_path": null,
+        "credit_id": "6a9ad47d6ebbdc515e428df8",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4471625,
+        "known_for_department": "Production",
+        "name": "Jennifer Y. Harrell",
+        "original_name": "Jennifer Y. Harrell",
+        "popularity": 0.3619,
+        "profile_path": null,
+        "credit_id": "6a9ad48cb2433b4ee61f9585",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 209181,
+        "known_for_department": "Directing",
+        "name": "Christopher Berkeley",
+        "original_name": "Christopher Berkeley",
+        "popularity": 0.8313,
+        "profile_path": "/emLQWuFQDHeT8TkwFedyte4ACEv.jpg",
+        "credit_id": "6a9ad4cf75700251047d6aa7",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3520033,
+        "known_for_department": "Art",
+        "name": "Joonki Park",
+        "original_name": "Joonki Park",
+        "popularity": 0.5346,
+        "profile_path": null,
+        "credit_id": "6a9ad4ef75700251047d6aab",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1923007,
+        "known_for_department": "Directing",
+        "name": "Chuck Drost",
+        "original_name": "Chuck Drost",
+        "popularity": 0.4429,
+        "profile_path": null,
+        "credit_id": "6a9ad5275df4c7e24362d99d",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1637776,
+        "known_for_department": "Directing",
+        "name": "Matt Peters",
+        "original_name": "Matt Peters",
+        "popularity": 0.7726,
+        "profile_path": "/twz7t4EyHuC3aTwQPedQI7ZBQXs.jpg",
+        "credit_id": "6a9ad53709c0ac3b1e68fa39",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 555883,
+        "known_for_department": "Directing",
+        "name": "Brandon McKinney",
+        "original_name": "Brandon McKinney",
+        "popularity": 0.3649,
+        "profile_path": null,
+        "credit_id": "6a9ad544251cbf64716e7208",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2007401,
+        "known_for_department": "Art",
+        "name": "Ruben Procopio",
+        "original_name": "Ruben Procopio",
+        "popularity": 0.3863,
+        "profile_path": null,
+        "credit_id": "6a9ad562eea760b80f62da9f",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3132643,
+        "known_for_department": "Directing",
+        "name": "Milo Neuman",
+        "original_name": "Milo Neuman",
+        "popularity": 0.4464,
+        "profile_path": null,
+        "credit_id": "6a9ad56c7382c3f22d1f9674",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2483592,
+        "known_for_department": "Art",
+        "name": "Vaughn Ross",
+        "original_name": "Vaughn Ross",
+        "popularity": 0.3623,
+        "profile_path": null,
+        "credit_id": "6a9ad599e41d547ea4428dde",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3348302,
+        "known_for_department": "Art",
+        "name": "Byron Peñaranda",
+        "original_name": "Byron Peñaranda",
+        "popularity": 0.3382,
+        "profile_path": null,
+        "credit_id": "6a9ad5a30201d683a16e732b",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1959905,
+        "known_for_department": "Art",
+        "name": "Adam Van Wyk",
+        "original_name": "Adam Van Wyk",
+        "popularity": 0.3729,
+        "profile_path": null,
+        "credit_id": "6a9ad5ad7382c3f22d1f9677",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3209098,
+        "known_for_department": "Art",
+        "name": "Jose Andres Velasco",
+        "original_name": "Jose Andres Velasco",
+        "popularity": 0.3233,
+        "profile_path": null,
+        "credit_id": "6a9ad5c156b753b2b468fb5f",
+        "department": "Writing",
+        "job": "Storyboard"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3210423,
+        "known_for_department": "Visual Effects",
+        "name": "Dusty Abell",
+        "original_name": "Dusty Abell",
+        "popularity": 0.4973,
+        "profile_path": null,
+        "credit_id": "6a9ad5e6b6ccbaf0e362dcb0",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4212117,
+        "known_for_department": "Art",
+        "name": "Zak Plucinski",
+        "original_name": "Zak Plucinski",
+        "popularity": 0.2823,
+        "profile_path": null,
+        "credit_id": "6a9ad5f18402bc79a0428e15",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2104087,
+        "known_for_department": "Visual Effects",
+        "name": "Jon Suzuki",
+        "original_name": "Jon Suzuki",
+        "popularity": 0.393,
+        "profile_path": null,
+        "credit_id": "6a9ad5fb77172e3bf51f9590",
+        "department": "Visual Effects",
+        "job": "Character Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3208945,
+        "known_for_department": "Art",
+        "name": "Art Lee",
+        "original_name": "Art Lee",
+        "popularity": 0.3223,
+        "profile_path": null,
+        "credit_id": "6a9ad653a9fcd37f081f9657",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3348240,
+        "known_for_department": "Visual Effects",
+        "name": "Austin Reinkens",
+        "original_name": "Austin Reinkens",
+        "popularity": 0.3162,
+        "profile_path": null,
+        "credit_id": "6a9ad65e6245dc1056e765be",
+        "department": "Art",
+        "job": "Prop Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2932135,
+        "known_for_department": "Art",
+        "name": "Elliott Byrne",
+        "original_name": "Elliott Byrne",
+        "popularity": 0.4808,
+        "profile_path": null,
+        "credit_id": "6a9ad676c1835cf01b1f97b4",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3208974,
+        "known_for_department": "Art",
+        "name": "John Paik",
+        "original_name": "John Paik",
+        "popularity": 0.3284,
+        "profile_path": null,
+        "credit_id": "6a9ad67d1fdbbdd9cfe76579",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3208962,
+        "known_for_department": "Art",
+        "name": "Rodel Gravo",
+        "original_name": "Rodel Gravo",
+        "popularity": 0.2777,
+        "profile_path": null,
+        "credit_id": "6a9ad68377172e3bf51f95a3",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5661185,
+        "known_for_department": "Art",
+        "name": "Solin Park",
+        "original_name": "Solin Park",
+        "popularity": 0.2865,
+        "profile_path": null,
+        "credit_id": "6a9ad69eb462c17f06e766a2",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2998965,
+        "known_for_department": "Visual Effects",
+        "name": "Brandon Hahn",
+        "original_name": "Brandon Hahn",
+        "popularity": 0.2555,
+        "profile_path": null,
+        "credit_id": "6a9ad6ba77172e3bf51f95b1",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3369830,
+        "known_for_department": "Art",
+        "name": "Jonard Soriano",
+        "original_name": "Jonard Soriano",
+        "popularity": 0.4767,
+        "profile_path": null,
+        "credit_id": "6a9ad6d356b753b2b468fb68",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5100045,
+        "known_for_department": "Art",
+        "name": "Oliver Tszeng",
+        "original_name": "Oliver Tszeng",
+        "popularity": 0.1935,
+        "profile_path": null,
+        "credit_id": "6a9ad6e9013518ae4c40d03c",
+        "department": "Art",
+        "job": "Background Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3208995,
+        "known_for_department": "Visual Effects",
+        "name": "Kim Bowen",
+        "original_name": "Kim Bowen",
+        "popularity": 0.312,
+        "profile_path": null,
+        "credit_id": "6a9ad79577172e3bf51f95c3",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3210433,
+        "known_for_department": "Visual Effects",
+        "name": "Craig Cuqro",
+        "original_name": "Craig Cuqro",
+        "popularity": 0.3572,
+        "profile_path": null,
+        "credit_id": "6a9ad79fe41d547ea4428dee",
+        "department": "Visual Effects",
+        "job": "Color Designer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2556570,
+        "known_for_department": "Visual Effects",
+        "name": "Matthew Girardi",
+        "original_name": "Matthew Girardi",
+        "popularity": 0.4617,
+        "profile_path": null,
+        "credit_id": "6a9ad7caafcdfc7bdf40d134",
+        "department": "Art",
+        "job": "Creative Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3348235,
+        "known_for_department": "Production",
+        "name": "Cali D. Abenido",
+        "original_name": "Cali D. Abenido",
+        "popularity": 0.3387,
+        "profile_path": null,
+        "credit_id": "6a9ad7ef165d1f6415428e84",
+        "department": "Production",
+        "job": "Line Producer"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4322661,
+        "known_for_department": "Crew",
+        "name": "Kenzie Bates",
+        "original_name": "Kenzie Bates",
+        "popularity": 0.4895,
+        "profile_path": null,
+        "credit_id": "6a9ad7fd165d1f6415428e87",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4322664,
+        "known_for_department": "Crew",
+        "name": "Charlie Carpenter",
+        "original_name": "Charlie Carpenter",
+        "popularity": 0.4261,
+        "profile_path": null,
+        "credit_id": "6a9ad816fddb6351de40cf7f",
+        "department": "Production",
+        "job": "Assistant Production Manager"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 1464461,
+        "known_for_department": "Visual Effects",
+        "name": "Mac Whiting",
+        "original_name": "Mac Whiting",
+        "popularity": 0.5674,
+        "profile_path": null,
+        "credit_id": "6a9ad824d43faeabdf535564",
+        "department": "Visual Effects",
+        "job": "Supervising Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3637950,
+        "known_for_department": "Visual Effects",
+        "name": "Ye Aung",
+        "original_name": "Ye Aung",
+        "popularity": 0.369,
+        "profile_path": null,
+        "credit_id": "6a9ad832a9fcd37f081f9673",
+        "department": "Visual Effects",
+        "job": "Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4150781,
+        "known_for_department": "Art",
+        "name": "Emily Kieber",
+        "original_name": "Emily Kieber",
+        "popularity": 0.4061,
+        "profile_path": null,
+        "credit_id": "6a9ad8aadf3a08ace97d6aaf",
+        "department": "Art",
+        "job": "Title Illustration"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1061554,
+        "known_for_department": "Directing",
+        "name": "안태근",
+        "original_name": "안태근",
+        "popularity": 0.5874,
+        "profile_path": null,
+        "credit_id": "6a9adda803807eee831cb0f1",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6381235,
+        "known_for_department": "Visual Effects",
+        "name": "Sun-Gi Kang",
+        "original_name": "Sun-Gi Kang",
+        "popularity": 0.3369,
+        "profile_path": null,
+        "credit_id": "6a9addf368a35c2dab2a0177",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 4539048,
+        "known_for_department": "Visual Effects",
+        "name": "Jae-Eui Kwak",
+        "original_name": "Jae-Eui Kwak",
+        "popularity": 0.3394,
+        "profile_path": null,
+        "credit_id": "6a9adf903208e1b213643820",
+        "department": "Visual Effects",
+        "job": "Animation Director"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 3289089,
+        "known_for_department": "Visual Effects",
+        "name": "Aldo Mita",
+        "original_name": "Aldo Mita",
+        "popularity": 0.3461,
+        "profile_path": null,
+        "credit_id": "6a9ae02d98d21055096dfefb",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3871833,
+        "known_for_department": "Visual Effects",
+        "name": "이범길",
+        "original_name": "이범길",
+        "popularity": 0.3458,
+        "profile_path": null,
+        "credit_id": "6a9ae0369a8f457f1c1984fd",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6456917,
+        "known_for_department": "Visual Effects",
+        "name": "Choi Kyung Ho",
+        "original_name": "Choi Kyung Ho",
+        "popularity": 0.1422,
+        "profile_path": null,
+        "credit_id": "6a9ae0dff4c6914e66a6b239",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 6456918,
+        "known_for_department": "Visual Effects",
+        "name": "Lee Jea Uk",
+        "original_name": "Lee Jea Uk",
+        "popularity": 0.1625,
+        "profile_path": null,
+        "credit_id": "6a9ae137a183ea731c6dfefc",
+        "department": "Visual Effects",
+        "job": "Key Animation"
+      }
+    ]
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/sGVOhdD4nlzJX5PV8xArhLSJZC9.jpg",
+        "id": 13851,
+        "title": "Batman: Gotham Knight",
+        "original_title": "Batman: Gotham Knight",
+        "overview": "Six interlocking stories reveal Bruce Wayne's earliest adventures as Batman and the steps he took to become the grim avenger of Gotham City.",
+        "poster_path": "/3i1o0sHBP0VUpuSVmkdCRKYoDBC.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          16,
+          18,
+          878
+        ],
+        "popularity": 4.313,
+        "release_date": "2008-07-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 790
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hdXQxlD4mep7qtC5TsvhIt840OV.jpg",
+        "id": 703771,
+        "title": "Deathstroke: Knights & Dragons - The Movie",
+        "original_title": "Deathstroke: Knights & Dragons - The Movie",
+        "overview": "يحاول القاتل Deathstroke إنقاذ عائلته من غضب H.I.V.E. وابن آوى القاتل.",
+        "poster_path": "/vFIHbiy55smzi50RmF8LQjmpGcx.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          878
+        ],
+        "popularity": 3.4305,
+        "release_date": "2020-08-04",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.983,
+        "vote_count": 480
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aAp0AkCBsMUDFCuLyd3MTcJ6ZV5.jpg",
+        "id": 472027,
+        "title": "Batman: The Dark Knight Returns",
+        "original_title": "Batman: The Dark Knight Returns",
+        "overview": "Batman has not been seen for ten years. A new breed of criminal ravages Gotham City, forcing fifty-five-year-old Bruce Wayne back into the cape and cowl, but does he still have what it takes to fight crime in a new era?",
+        "poster_path": "/o07IwF9s1Ch9EnyV7jqJHQ3BorU.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          9648,
+          878
+        ],
+        "popularity": 2.9911,
+        "release_date": "2013-10-08",
+        "softcore": false,
+        "video": true,
+        "vote_average": 8.119,
+        "vote_count": 164
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jYqOnJDPI7QD9cGbE6CwDTp1tID.jpg",
+        "id": 251519,
+        "title": "Son of Batman",
+        "original_title": "Son of Batman",
+        "overview": "Batman learns he has a violent, unruly pre-teen son, secretly raised by the terrorist group known as The League of Assassins.",
+        "poster_path": "/yHx8OLSKc3VtIBB5lIe90c0fHOX.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          12
+        ],
+        "popularity": 4.1075,
+        "release_date": "2014-05-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.083,
+        "vote_count": 1175
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wzZdAtGdnVgrbjiXEbhjarENs16.jpg",
+        "id": 828898,
+        "title": "The Venture Bros.: Radiant Is the Blood of the Baboon Heart",
+        "original_title": "The Venture Bros.: Radiant Is the Blood of the Baboon Heart",
+        "overview": "A nationwide manhunt for Hank Venture leads to untold dangers and unexpected revelations, while The Monarch is literally out for Dr Venture's blood. An imposing evil from the past reemerges to wreak havoc on the Ventures, The Guild, and even the Monarch marriage—it will take friends and foes alike to restore the Ventures' world to order… or end it once and for all.",
+        "poster_path": "/u3ZgJfyBpTox5U7RfhCDIXlHnO4.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          878
+        ],
+        "popularity": 3.5645,
+        "release_date": "2023-07-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.323,
+        "vote_count": 96
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zX0q1hPRon0SAIcRmTum06Khjll.jpg",
+        "id": 945937,
+        "title": "Fast Charlie",
+        "original_title": "Fast Charlie",
+        "overview": "قصة القاتل المأجور المخلص \"تشارلي سويفت\"، والذي يدخل في معركة كبيرة ودائرة من الانتقام حينما يتعرض زعيم العصابة الخاصة به للقتل.",
+        "poster_path": "/3y72ffwYRUPOj4yOQbiTaN897Tm.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          80,
+          18
+        ],
+        "popularity": 7.3455,
+        "release_date": "2023-12-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.221,
+        "vote_count": 333
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kU7ZiyeUwcpTkYj3UcxSqGdZmxY.jpg",
+        "id": 618353,
+        "title": "DC Showcase - Batman: Death in the Family",
+        "original_title": "DC Showcase - Batman: Death in the Family",
+        "overview": "Tragedy strikes the Batman's life again when Robin Jason Todd tracks down his birth mother only to run afoul of the Joker. An adaptation of the 1988 comic book storyline of the same name.",
+        "poster_path": "/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28
+        ],
+        "popularity": 5.0998,
+        "release_date": "2020-10-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.057,
+        "vote_count": 490
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/uS9apevOgs2fuYghf9szOoK1u63.jpg",
+        "id": 736073,
+        "title": "باتمان: الهالوين الطويل، الجزء الأول",
+        "original_title": "Batman: The Long Halloween, Part One",
+        "overview": "تدفع جريمة قتل وحشية في عيد الهالوين ، حارس جوثام الشاب ، باتمان ، إلى تشكيل اتفاق مع كابتن الشرطة جيمس جوردان ومحامي المقاطعة هارفي دينت من أجل القضاء على ذا رومان ، رئيس عائلة Falcone Crime الشهيرة والقوية. بعد حدوث المزيد من الوفيات في عيد الشكر وعيد الميلاد ، يتضح أنهم يتعاملون مع قاتل متسلسل - يصعب تمييز هويته مع كل دليل متضارب.",
+        "poster_path": "/sR7gppb0YGjwLvE6Vnj6wYv5MnW.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          9648,
+          28,
+          80
+        ],
+        "popularity": 4.557,
+        "release_date": "2021-06-21",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.445,
+        "vote_count": 723
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/j14Z0pP7tpuHZlVBSuUL7tq2SGb.jpg",
+        "id": 736074,
+        "title": "باتمان: الهالوين الطويل، الجزء الثاني",
+        "original_title": "Batman: The Long Halloween, Part Two",
+        "overview": "بينما يكافح القصاص الأهلي الشاب في مدينة غوثام، باتمان، لملاحقة قاتل متسلسل وحشي، يقع المدعي العام هارفي دينت في نزاع يتعلق بالعائلة الإجرامية في الصقور.",
+        "poster_path": "/5X1n5q08mZ7NpNpxehMFODxfNYq.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          9648,
+          28,
+          80
+        ],
+        "popularity": 4.2815,
+        "release_date": "2021-07-26",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.397,
+        "vote_count": 594
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/soRpXRJOYqBBsDYuH3mLYSIeufk.jpg",
+        "id": 1003581,
+        "title": "Justice League: Warworld",
+        "original_title": "Justice League: Warworld",
+        "overview": "Until now, the Justice League has been a loose association of superpowered individuals. But when they are swept away to Warworld, a place of unending brutal gladiatorial combat, Batman, Superman, Wonder Woman and the others must somehow unite to form an unbeatable resistance able to lead an entire planet to freedom.",
+        "poster_path": "/pHdSS5G3wDwJp6jWgMpbSjNiTbr.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          878,
+          12
+        ],
+        "popularity": 3.7324,
+        "release_date": "2023-07-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.731,
+        "vote_count": 310
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/svlnTWj4DS21Xwe9ieb2Q5islNt.jpg",
+        "id": 394355,
+        "title": "Hulk Vs.",
+        "original_title": "Hulk Vs.",
+        "overview": "Two stories featuring Marvel's anti-hero: .................. For ages, Odin has protected his kingdom of Asgard. But every winter, the All-Father must rest and regain his strength for one week. During this time, all of Asgard's foes try to claim the realm for their own, but they are always stopped by the mighty Thor. Loki, god of mischief, has kidnapped Dr. Bruce Banner and brought him to Asgard with the help of Amora the Enchantress. .................. Department H sends in Wolverine to track down a mysterious beast known by the US Military as the Hulk, who is rampaging across the Canadian wilderness. Surveying the extent of the damage to a destroyed town, Wolverine notices a toxic scent as well as the smell of gunpowder. He is then deployed to the wilderness to resume tracking the creature.",
+        "poster_path": "/cjUNXJIXBHmKjpI0oH5MmEKgOTt.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          16,
+          28,
+          12,
+          14
+        ],
+        "popularity": 2.7419,
+        "release_date": "2009-01-27",
+        "softcore": false,
+        "video": true,
+        "vote_average": 6.6,
+        "vote_count": 243
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ekdyrBffLhoFWkm5eUVAbIhDVh6.jpg",
+        "id": 1010830,
+        "title": "Batman: The Long Halloween Deluxe Edition",
+        "original_title": "Batman: The Long Halloween Deluxe Edition",
+        "overview": "Atrocious serial killings on holidays in Gotham City send The World's Greatest Detective into action - confronting both organized crime and a unified front of classic DC Super-Villains - while attempting to stop the mysterious murderer.",
+        "poster_path": "/15erh7z92WBiW6z8Xpb8WLaWhbD.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          9648,
+          28,
+          80,
+          53
+        ],
+        "popularity": 3.1382,
+        "release_date": "2022-09-19",
+        "softcore": false,
+        "video": true,
+        "vote_average": 7.093,
+        "vote_count": 54
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2jApwp78umL4dK9uSBJAngNDiG9.jpg",
+        "id": 382322,
+        "title": "باتمان: النكتة القاتلة",
+        "original_title": "Batman: The Killing Joke",
+        "overview": "يشن جوكر حربًا نفسية على باتمان ويترك ندوبًا على فارس الظلام حتى أن الوقت لن يندمل.",
+        "poster_path": "/lrQ3LeNIN0nmviZ692seNBUl1Pq.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          80,
+          18,
+          28,
+          53
+        ],
+        "popularity": 7.1329,
+        "release_date": "2016-07-24",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.604,
+        "vote_count": 1966
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/hACMcim5NtMH3S62sQAWkdLVpIK.jpg",
+        "id": 34813,
+        "title": "The Losers",
+        "original_title": "The Losers",
+        "overview": "On a mission deep in the Bolivian jungle, a team of elite commandos finds itself on the receiving end of a lethal betrayal. Now presumed dead, the men join forces with a mysterious operative named Aisha to hunt down their enemy and even the score.",
+        "poster_path": "/e5oD3fuQpjZ8Po6WNW0VkUJmW52.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          28,
+          12,
+          80,
+          9648,
+          53
+        ],
+        "popularity": 10.011,
+        "release_date": "2010-04-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.261,
+        "vote_count": 2046
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/4gWUlxECoziJ9TrGNfymNYxZf6Z.jpg",
+        "id": 831405,
+        "title": "Injustice",
+        "original_title": "Injustice",
+        "overview": "When Lois Lane is killed, an unhinged Superman decides to take control of the Earth. Determined to stop him, Batman creates a team of freedom-fighting heroes. But when superheroes go to war, can the world survive?",
+        "poster_path": "/rzrSeqqpm1BwJ3tcTznztBtLLSD.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          878,
+          14,
+          28
+        ],
+        "popularity": 3.0002,
+        "release_date": "2021-10-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.33,
+        "vote_count": 864
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7bf0HqO64dbzGKpK8sKJJDnv3TE.jpg",
+        "id": 630656,
+        "title": "The Death and Return of Superman",
+        "original_title": "The Death and Return of Superman",
+        "overview": "The Death of Superman and Reign of the Supermen now presented as an over two-hour unabridged and seamless animated feature. Witness the no-holds-barred battle between the Justice League and an unstoppable alien force known only as Doomsday, a battle that only Superman can finish and will forever change the face of Metropolis.",
+        "poster_path": "/qdEhhPYsfIeWSNTfzHShHOkDfDD.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          12,
+          16,
+          28,
+          18
+        ],
+        "popularity": 3.8025,
+        "release_date": "2019-10-01",
+        "softcore": false,
+        "video": true,
+        "vote_average": 6.74,
+        "vote_count": 1256
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vg3TwaY1rj0ETlFCTha8tm9tJVL.jpg",
+        "id": 640810,
+        "title": "DC Showcase Original Shorts Collection",
+        "original_title": "DC Showcase Original Shorts Collection",
+        "overview": "An anthology of DC Showcase stories consisting of a new Superman/Shazam feature and extended versions of older shorts.",
+        "poster_path": "/nUgkNrwa40aE8cKR47vzhYwoBBb.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          14,
+          878
+        ],
+        "popularity": 1.6367,
+        "release_date": "2010-11-09",
+        "softcore": false,
+        "video": true,
+        "vote_average": 7,
+        "vote_count": 40
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/zXm5UcAHzLuqpECitPnvIup1IRs.jpg",
+        "id": 487242,
+        "title": "Suicide Squad: Hell to Pay",
+        "original_title": "Suicide Squad: Hell to Pay",
+        "overview": "Amanda Waller's top-secret \"Task Force X\" — consisting of Deadshot, Bronze Tiger, Killer Frost, Captain Boomerang, Harley Quinn, and Copperhead — is on a mission to retrieve a mystical object so powerful that they're willing to risk their lives to steal it. However, the Suicide Squad isn't the only group of villains seeking to possess the object. It's a race for the golden prize, and second place isn't an option if they want to stay alive.",
+        "poster_path": "/va1IgsZeWBbKLsZcFwz3CM1MkMu.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          16,
+          14,
+          12
+        ],
+        "popularity": 5.4722,
+        "release_date": "2018-03-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.094,
+        "vote_count": 731
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/1YaG52CwGY3pKh76OBlwX0ymncg.jpg",
+        "id": 123025,
+        "title": "Batman: The Dark Knight Returns, Part 1",
+        "original_title": "Batman: The Dark Knight Returns, Part 1",
+        "overview": "باتمان لم يُر منذ عشر سنوات. سلالة جديدة من المجرمين تدمر مدينة جوثام ، وتجبر بروس واين البالغ من العمر 55 عامًا على العودة إلى الرأس والطربوش. ولكن ، هل لا يزال لديه ما يلزم لمكافحة الجريمة في عصر جديد؟",
+        "poster_path": "/rVr2Tdp2LcL3DheXUrVN345Myhg.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          16,
+          9648
+        ],
+        "popularity": 5.5299,
+        "release_date": "2012-09-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.741,
+        "vote_count": 1740
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ekRp1sEA8pnuzVHQkUESTgNSKdW.jpg",
+        "id": 932420,
+        "title": "الرمز ٨ الجزء الثاني",
+        "original_title": "Code 8 Part II",
+        "overview": "In a world where superpowered people are heavily policed by robots, an ex-con teams up with a drug lord he despises to protect a teen from a corrupt cop.",
+        "poster_path": "/h89INyaoH16CdlT7q7BtKikIFRy.jpg",
+        "media_type": "movie",
+        "original_language": "en",
+        "genre_ids": [
+          878,
+          28,
+          80
+        ],
+        "popularity": 6.0068,
+        "release_date": "2024-02-27",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.37,
+        "vote_count": 743
+      }
+    ],
+    "total_pages": 35,
+    "total_results": 686
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg",
+        "genre_ids": [
+          35,
+          14,
+          878
+        ],
+        "id": 75,
+        "title": "هجوم المريخ!",
+        "original_language": "en",
+        "original_title": "Mars Attacks!",
+        "overview": "أسطول من المركبات الفضائية المريخية يُحيط بالمدن الرئيسية في العالم، والبشرية جمعاء تنتظر لترى إن كان الزوار الفضائيون قد أتوا، كما يدّعون، \"بسلام\". يتلقى الرئيس الأمريكي جيمس ديل تأكيدات من أستاذ العلوم دونالد كيسلر بأن مهمة المريخيين سلمية. لكن عندما ينتهي تبادل سلمي بتدمير الكونغرس الأمريكي بالكامل، يدعو العسكريون إلى رد نووي شامل",
+        "popularity": 10.8877,
+        "poster_path": "/hll4O5vSAfnZDb6JbnP06GPtz7b.jpg",
+        "release_date": "1996-12-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.435,
+        "vote_count": 6033
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mKIkGoyuR71qz6FdiEiOjxvBQcS.jpg",
+        "genre_ids": [
+          878,
+          53,
+          9648
+        ],
+        "id": 63,
+        "title": "12 قردا",
+        "original_language": "en",
+        "original_title": "Twelve Monkeys",
+        "overview": "عام 2035. بعد بلاء الفيروس الذي يدمر الأرض ويقتل الملايين من الناس ، يلجأ الناجون إلى مجتمعات تحت الأرض ، رطبة وباردة. يتطوع السجين جيمس كول للسفر إلى الماضي والحصول على عينة من الفيروس ، وبفضله سيتمكن العلماء من تطوير علاج. خلال الرحلة يلتقي بطبيبة نفسية جميلة ومريض نفسي استثنائي. سيحاول كول العثور على \"جيش القرود الاثني عشر\" ، وهي مجموعة متطرفة مرتبطة بالمرض.",
+        "popularity": 16.7811,
+        "poster_path": "/kMtOiYboWr13vsXZSWeZiamgfYj.jpg",
+        "release_date": "1995-12-29",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.613,
+        "vote_count": 9369
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/jPu8yiadqgzwFPGKJmGo637ASVP.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 1724,
+        "title": "هولك المذهل",
+        "original_language": "en",
+        "original_title": "The Incredible Hulk",
+        "overview": "بروس بانر، عالم هارب من الحكومة الأمريكية، عليه أن يجد علاجاً للوحش الذي يتحول إليه كلما فقد أعصابه.",
+        "popularity": 28.9346,
+        "poster_path": "/783TC3fhSq7kMyWdPfuHZp9SfSR.jpg",
+        "release_date": "2008-06-12",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.26,
+        "vote_count": 13113
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 1771,
+        "title": "كابتن أمريكا: المنتقم الأول",
+        "original_language": "en",
+        "original_title": "Captain America: The First Avenger",
+        "overview": "خلال الحرب العالمية الثانية، يتحول \"ستيف روجرز\"، الشاب الضعيف القادم من بروكلين، إلى الجندي الخارق \"كابتن أمريكا\" للمساهمة في المجهود الحربي. لكن مهمته الحقيقية تبدأ عندما يواجه \"ريد سكال\"، قائد برنامج الأسلحة النازي وعدو هتلر الأكثر قسوة، والذي يسعى مع منظمته إلى تسخير قوة جهاز غامض ذي قدرات لا تُحصى لإخضاع العالم بأسره.",
+        "popularity": 17.1699,
+        "poster_path": "/zsXne3JCapkJxPAPPOaTlPJQLVI.jpg",
+        "release_date": "2011-07-22",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.011,
+        "vote_count": 23201
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 1924,
+        "title": "سوبرمان",
+        "original_language": "en",
+        "original_title": "Superman",
+        "overview": "يعمل كلارك كينت، ذو الطبع الهادئ، كمراسل في صحيفة \"ديلي بلانيت\" إلى جانب حبيبته لويس لين. يضطر كلارك إلى استدعاء شخصيته الخارقة عندما يطلق ليكس لوثر الشرير خطة للسيطرة على العالم",
+        "popularity": 15.7061,
+        "poster_path": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+        "release_date": "1978-12-14",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.165,
+        "vote_count": 4405
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8vQBXqDbb30qNpBcNYwTesSg75.jpg",
+        "genre_ids": [
+          878,
+          12,
+          28,
+          18
+        ],
+        "id": 1927,
+        "title": "هولك",
+        "original_language": "en",
+        "original_title": "Hulk",
+        "overview": "يعاني بروس بانر ، الباحث في علم الوراثة من ماضٍ مأساوي ، من التعرض الهائل للإشعاع في مختبره الذي يجعله يتحول إلى وحش أخضر مستعر عندما يغضب.",
+        "popularity": 15.2337,
+        "poster_path": "/UllIft2jLSBaay3zQyMV4GNdfy.jpg",
+        "release_date": "2003-06-19",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.6,
+        "vote_count": 6444
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/HVcza6tJtWFrLriuh3Ano4Vt46.jpg",
+        "genre_ids": [
+          28,
+          12,
+          878
+        ],
+        "id": 1930,
+        "title": "الرجل العنكبوت المذهل",
+        "original_language": "en",
+        "original_title": "The Amazing Spider-Man",
+        "overview": "يجد بيتر باركر دليلًا قد يساعده في فهم سبب اختفاء والديه عندما كان صغيرًا. ويأخذه طريقه إلى التصادم مع الدكتور كيرت كونرز، شريك والده السابق.",
+        "popularity": 36.979,
+        "poster_path": "/q5AEX2vfyibDKnaMiXHzkm49zgF.jpg",
+        "release_date": "2012-06-23",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.76,
+        "vote_count": 19062
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o2wYH40zW0JIYiYUTu6L4gsNy7E.jpg",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "id": 1979,
+        "title": "فانتستك ٤: ظهور سيلفر سيرفر",
+        "original_language": "en",
+        "original_title": "Fantastic Four: Rise of the Silver Surfer",
+        "overview": "يعود الـ\"فانتستك ٤\" إلى الشاشة الكبيرة بينما يواجه كوكب الأرض تهديدًا جديدًا من عدو قوي للغاية. إنه \"سيلفر سيرفر\"، الذي يبدو وكأنه قوة لا يمكن إيقافها. لكن الأمور ليست كما تبدو، فهناك أعداء قدامى وجدد يشكلون خطرًا أكبر مما يدركه هؤلاء الأبطال الشجعان.",
+        "popularity": 10.6997,
+        "poster_path": "/9wRfzTcMyyzkQxVDqBHv8RwuZOv.jpg",
+        "release_date": "2007-06-13",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.635,
+        "vote_count": 8563
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+        "genre_ids": [
+          28,
+          878,
+          12
+        ],
+        "id": 1726,
+        "title": "آيرون مان",
+        "original_language": "en",
+        "original_title": "Iron Man",
+        "overview": "بعد أن تم احتجازه أسيراً في كهف أفغاني، قام المهندس الملياردير توني ستارك بصنع بدلة درع فريدة من نوعها مزودة بأسلحة لمحاربة الشر.",
+        "popularity": 49.4058,
+        "poster_path": "/qyMgYhGLfxPQ5qADUcH0hdtGTLS.jpg",
+        "release_date": "2008-04-30",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.664,
+        "vote_count": 28777
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ofQyDtvprS9qtXtXhBQQoZIkiv0.jpg",
+        "genre_ids": [
+          35,
+          80,
+          12,
+          14
+        ],
+        "id": 1870,
+        "title": "Fantômas se déchaîne",
+        "original_language": "fr",
+        "original_title": "Fantômas se déchaîne",
+        "overview": "",
+        "popularity": 2.4305,
+        "poster_path": "/tM4FwCFaS4f07ADEq4SpNhbPyml.jpg",
+        "release_date": "1965-12-08",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 583
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/kmzppWh7ljL6K9fXW72bPN3gKwu.jpg",
+        "genre_ids": [
+          14,
+          28,
+          35
+        ],
+        "id": 1013860,
+        "title": "R.I.P.D. 2: Rise of the Damned",
+        "original_language": "en",
+        "original_title": "R.I.P.D. 2: Rise of the Damned",
+        "overview": "عندما يجد الشريف روي بولسيفر نفسه في الحياة الآخرة، ينضم إلى قوة شرطة خاصة ويعود إلى الأرض لإنقاذ البشرية من الموتى الأحياء.",
+        "popularity": 4.8166,
+        "poster_path": "/g4yJTzMtOBUTAR2Qnmj8TYIcFVq.jpg",
+        "release_date": "2022-11-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.254,
+        "vote_count": 684
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mFAAjb6AP115hrHYouZIIpmc1D0.jpg",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          10751
+        ],
+        "id": 1201602,
+        "title": "Snoopy Unleashed",
+        "original_language": "en",
+        "original_title": "Snoopy Unleashed",
+        "overview": "",
+        "popularity": 3.0615,
+        "poster_path": "/n5SVIWqNYuHVif8QKEXpAQZlwiz.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/2PuEmuXQF3XQZp8Ki2mGJXUGEOd.jpg",
+        "genre_ids": [
+          14,
+          12,
+          35,
+          10751
+        ],
+        "id": 2395,
+        "title": "Astérix aux Jeux olympiques",
+        "original_language": "fr",
+        "original_title": "Astérix aux Jeux olympiques",
+        "overview": "",
+        "popularity": 4.713,
+        "poster_path": "/qCy6c8UVEoUeA0cEn6Dkufd3mI9.jpg",
+        "release_date": "2008-01-25",
+        "softcore": false,
+        "video": false,
+        "vote_average": 5.239,
+        "vote_count": 2134
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/efhcb9m2xqrjbRTrPjIgF5l17EI.jpg",
+        "genre_ids": [
+          28,
+          16
+        ],
+        "id": 264170,
+        "title": "Batman: Strange Days",
+        "original_language": "en",
+        "original_title": "Batman: Strange Days",
+        "overview": "",
+        "popularity": 1.3069,
+        "poster_path": "/doNcszmSj14ik6owOlGx5Ul9hwC.jpg",
+        "release_date": "2014-04-09",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.95,
+        "vote_count": 111
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/p4GzAzjlL7lXIVGvayg7zvzGTSi.jpg",
+        "genre_ids": [
+          12,
+          28,
+          878
+        ],
+        "id": 2080,
+        "title": "اصول الإكس-مِن: وولفرين",
+        "original_language": "en",
+        "original_title": "X-Men Origins: Wolverine",
+        "overview": "بعد أن سعى لعيش حياة طبيعية طوال 200 عام، ينطلق (لوغان) لينتقم لمقتل شخص عزيز عليه، خاضعاً لبرنامج المتحولين السري (السلاح إكس)، ليتحول إلى (ولفرين).",
+        "popularity": 2.1001,
+        "poster_path": "/jiW3OPxmvLQbKoLPnhLNQdlOr7x.jpg",
+        "release_date": "2009-04-28",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.297,
+        "vote_count": 11513
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16,
+          10751,
+          28,
+          14,
+          12
+        ],
+        "id": 1575679,
+        "title": "극장판 마법천자문 제로",
+        "original_language": "ko",
+        "original_title": "극장판 마법천자문 제로",
+        "overview": "",
+        "popularity": 0.8838,
+        "poster_path": "/2qAUTY56SEnlo7V1TuMk5EMFsx8.jpg",
+        "release_date": "",
+        "softcore": false,
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/tqw3TdWNb6pvI4P4ysoejt84A7e.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 820880,
+        "title": "Aisha",
+        "original_language": "en",
+        "original_title": "Aisha",
+        "overview": "",
+        "popularity": 1.8499,
+        "poster_path": "/5tazlFOBWLxsFLdJbpZkRMwrMNz.jpg",
+        "release_date": "2022-11-17",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6,
+        "vote_count": 26
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+        "genre_ids": [
+          878,
+          12,
+          28
+        ],
+        "id": 447365,
+        "title": "حرّاس المجرّة المجلد ٣",
+        "original_language": "en",
+        "original_title": "Guardians of the Galaxy Vol. 3",
+        "overview": "لا يزال بيتر كويل يعاني من صدمة فقدان غامورا، فيحشد فريقه للدفاع عن الكون وعن أحد أفرادهم - وهي مهمة قد تعني نهاية الحراس إذا لم تنجح.",
+        "popularity": 38.5653,
+        "poster_path": "/a5WD4e0OKof3ZbiazFskYtn5LWf.jpg",
+        "release_date": "2023-05-03",
+        "softcore": false,
+        "video": false,
+        "vote_average": 7.931,
+        "vote_count": 8776
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pN3EKnDbFrem0OWjH5ohOhbekiA.jpg",
+        "genre_ids": [
+          80,
+          9648
+        ],
+        "id": 629696,
+        "title": "Женщина в белом",
+        "original_language": "ru",
+        "original_title": "Женщина в белом",
+        "overview": "",
+        "popularity": 0.9524,
+        "poster_path": "/8aNERAlf4s1X1fnUdwUZ0GRZ0ev.jpg",
+        "release_date": "1981-02-15",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.3,
+        "vote_count": 3
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eV6Yn7YdFwQ6JT5JfWKv5Kld4kZ.jpg",
+        "genre_ids": [
+          878,
+          28,
+          12
+        ],
+        "id": 3632,
+        "title": "Flash Gordon",
+        "original_language": "en",
+        "original_title": "Flash Gordon",
+        "overview": "",
+        "popularity": 2.6401,
+        "poster_path": "/9MPf3bzsw1EtUjlXUGArFD80Y9q.jpg",
+        "release_date": "1936-04-06",
+        "softcore": false,
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 47
+      }
+    ],
+    "total_pages": 22589,
+    "total_results": 451764
+  },
+  "watch/providers": {
+    "results": {
+      "AR": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=AR",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=AT",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/dSa84VG4VTMh2drouWvgucRsLYV.png",
+            "provider_id": 1856,
+            "provider_name": "Magenta TV",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 14
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=AU",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/hFTUerTxMwrM9RIo9z48qxCsi7z.png",
+            "provider_id": 436,
+            "provider_name": "Fetch TV",
+            "display_priority": 31
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=BE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 11
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 34
+          }
+        ]
+      },
+      "BO": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=BO",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=CA",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 55
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 79
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=CH",
+        "rent": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/omviag2i66PzB1VqDc48pbwTC8Z.png",
+            "provider_id": 150,
+            "provider_name": "blue TV",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 74
+          }
+        ]
+      },
+      "CL": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=CL",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 56
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 56
+          }
+        ]
+      },
+      "CO": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=CO",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ]
+      },
+      "CR": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=CR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "CV": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=CV",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 11
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 11
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=DE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/f1uWfExJA6DSAvuTL0YJ9Kyftfg.png",
+            "provider_id": 178,
+            "provider_name": "MagentaTV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/mjB4eyswPoC0XeJPUd1W1oitOlh.png",
+            "provider_id": 20,
+            "provider_name": "maxdome Store",
+            "display_priority": 18
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 22
+          },
+          {
+            "logo_path": "/kWgg0b4wHDr4pwSyOXVK8nAsNKB.png",
+            "provider_id": 1993,
+            "provider_name": "Videoload",
+            "display_priority": 104
+          },
+          {
+            "logo_path": "/iUGee0WhY5ZSBZZuCunNt0K7au2.png",
+            "provider_id": 2209,
+            "provider_name": "Freenet meinVOD",
+            "display_priority": 127
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=DK",
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 48
+          }
+        ]
+      },
+      "EC": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=EC",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=ES",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 33
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=FI",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 34
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 53
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=FR",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          },
+          {
+            "logo_path": "/uzTONLCUH92RRMSzs206OYtWVml.png",
+            "provider_id": 2286,
+            "provider_name": "VIVA by videofutur",
+            "display_priority": 77
+          },
+          {
+            "logo_path": "/yERf5EH3GjWMB0ZSWPaov1kCKrR.png",
+            "provider_id": 2307,
+            "provider_name": "Premiere Max",
+            "display_priority": 79
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 36
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=GB",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 18
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=GG",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GT": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=GT",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "HK": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=HK",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "HN": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=HN",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "ID": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=ID",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=IE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/nNkZ1JKe6vNhzti14KiKEUWHE6H.png",
+            "provider_id": 130,
+            "provider_name": "Sky Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 12
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 43
+          }
+        ]
+      },
+      "IN": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=IN",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ]
+      },
+      "LU": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=LU",
+        "rent": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 7
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 7
+          }
+        ]
+      },
+      "MU": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=MU",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 12
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 12
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=MX",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          }
+        ]
+      },
+      "MY": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=MY",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          }
+        ]
+      },
+      "MZ": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=MZ",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 13
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=NL",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 10
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 15
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 35
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=NO",
+        "rent": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 13
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 49
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=NZ",
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 57
+          }
+        ]
+      },
+      "PE": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=PE",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 5
+          }
+        ]
+      },
+      "PY": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=PY",
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=SE",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/c1J9PGGowXwW5AxAaZaGipeFu7U.png",
+            "provider_id": 76,
+            "provider_name": "Viaplay",
+            "display_priority": 7
+          },
+          {
+            "logo_path": "/872dfVu1biZISJ8rO143CZZutPR.png",
+            "provider_id": 35,
+            "provider_name": "Rakuten TV",
+            "display_priority": 14
+          },
+          {
+            "logo_path": "/fVuqy8kmzsULoJjc3ROOcurRH7S.png",
+            "provider_id": 426,
+            "provider_name": "SF Anytime",
+            "display_priority": 16
+          },
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 39
+          }
+        ]
+      },
+      "TW": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=TW",
+        "rent": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 8
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/1560520-batman-knightfall-part-1-knightfall/watch?locale=US",
+        "buy": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/aZRENwYILujqs0RVOZutTh0BVGV.png",
+            "provider_id": 3,
+            "provider_name": "Google Play Movies",
+            "display_priority": 20
+          },
+          {
+            "logo_path": "/5Maob4o5w8oZnNeYpCDyVFD3M7X.png",
+            "provider_id": 192,
+            "provider_name": "YouTube",
+            "display_priority": 21
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          }
+        ],
+        "rent": [
+          {
+            "logo_path": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png",
+            "provider_id": 10,
+            "provider_name": "Amazon Video",
+            "display_priority": 8
+          },
+          {
+            "logo_path": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png",
+            "provider_id": 2,
+            "provider_name": "Apple TV Store",
+            "display_priority": 9
+          },
+          {
+            "logo_path": "/wpOt6x0dRxTrIzuBosto4LGd7E9.png",
+            "provider_id": 7,
+            "provider_name": "Fandango At Home",
+            "display_priority": 37
+          },
+          {
+            "logo_path": "/blAEhvx3XX8sV0fFVFk88FFjubs.png",
+            "provider_id": 538,
+            "provider_name": "Plex",
+            "display_priority": 124
+          }
+        ]
+      }
+    }
+  }
+}

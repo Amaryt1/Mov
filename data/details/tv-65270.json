@@ -1,0 +1,572 @@
+{
+  "adult": false,
+  "backdrop_path": "/kCd0rmnNwCd3sgupO9DqSi9aHa0.jpg",
+  "created_by": [
+    {
+      "id": 2205887,
+      "credit_id": "5c2ba33092514122b46cccee",
+      "name": "한영롱",
+      "original_name": "한영롱",
+      "gender": 0,
+      "profile_path": null
+    }
+  ],
+  "episode_run_time": [
+    80
+  ],
+  "first_air_date": "2007-05-30",
+  "genres": [
+    {
+      "id": 10767,
+      "name": "حوار"
+    }
+  ],
+  "homepage": "http://www.imbc.com/broad/tv/ent/goldfish/",
+  "id": 65270,
+  "in_production": true,
+  "languages": [
+    "ko"
+  ],
+  "last_air_date": "2026-07-01",
+  "last_episode_to_air": {
+    "id": 7419708,
+    "name": "الحلقة 970",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-07-01",
+    "episode_number": 970,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 1,
+    "show_id": 65270,
+    "still_path": null
+  },
+  "name": "라디오스타",
+  "next_episode_to_air": null,
+  "networks": [
+    {
+      "id": 97,
+      "logo_path": "/pOSCKaZhndUFYtxHXjQOV6xJi1s.png",
+      "name": "MBC",
+      "origin_country": "KR"
+    }
+  ],
+  "number_of_episodes": 970,
+  "number_of_seasons": 2,
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_name": "라디오스타",
+  "overview": "",
+  "popularity": 201.0624,
+  "poster_path": "/ofo50w2DTFcPkOm3iguWGU3Y8cw.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2007-05-30",
+      "episode_count": 970,
+      "id": 73838,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/leUHS0LdVB0eXB5XDsocXmIp1On.jpg",
+      "season_number": 1,
+      "vote_average": 1
+    },
+    {
+      "air_date": null,
+      "episode_count": 0,
+      "id": 137519,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 2,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Talk Show",
+  "vote_average": 5.4,
+  "vote_count": 5,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1628212,
+        "known_for_department": "Acting",
+        "name": "김구라",
+        "original_name": "김구라",
+        "popularity": 0.7679,
+        "profile_path": "/eYj0vwQ99Pzfb91TX6CBgnV7Ne.jpg",
+        "character": "Self",
+        "credit_id": "574e2af192514113c60002bc",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2205888,
+        "known_for_department": "Acting",
+        "name": "김국진",
+        "original_name": "김국진",
+        "popularity": 1.1214,
+        "profile_path": "/aQuLoFCQ7XU6ovPtdrVykDS3Jxv.jpg",
+        "character": "Self",
+        "credit_id": "5c2ba407c3a3682908a159db",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1594569,
+        "known_for_department": "Acting",
+        "name": "유세윤",
+        "original_name": "유세윤",
+        "popularity": 0.9433,
+        "profile_path": "/5pP9ttOJnsCI9wrFC6mdiFsis7O.jpg",
+        "character": "Self",
+        "credit_id": "64cdf24c549dda00acefcd58",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1703372,
+        "known_for_department": "Acting",
+        "name": "장도연",
+        "original_name": "장도연",
+        "popularity": 1.5762,
+        "profile_path": "/jf5izJkEzXrBhoC6QxwTjH1uOlG.jpg",
+        "character": "",
+        "credit_id": "68e9d016be95e8ec311a2074",
+        "order": 3
+      }
+    ],
+    "crew": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [],
+    "total_pages": 1,
+    "total_results": 0
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/jtwWiskjpvuAYIq6jhuSwb16k1Q.jpg",
+        "id": 42021,
+        "name": "Talking Dead",
+        "original_name": "Talking Dead",
+        "overview": "Host Chris Hardwick discusses episodes of the AMC television series The Walking Dead with guests, including celebrity fans, cast members, and crew from the series.",
+        "poster_path": "/wEsDfVvYNsAgmJeynSQGuLKyhcJ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 16.0612,
+        "first_air_date": "2011-10-16",
+        "softcore": false,
+        "vote_average": 7.21,
+        "vote_count": 62,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8InkNNcz5MGZUgeuZA58nQ1glGJ.jpg",
+        "id": 80865,
+        "name": "13 Reasons Why: Beyond the Reasons",
+        "original_name": "13 Reasons Why: Beyond the Reasons",
+        "overview": "Cast members, writers, producers and mental health professionals discuss some of the difficult issues and themes explored in \"13 Reasons Why.\"",
+        "poster_path": "/aauFzhjAGSemDpDBSmWDJpkeQiw.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          10767
+        ],
+        "popularity": 2.1241,
+        "first_air_date": "2017-03-31",
+        "softcore": false,
+        "vote_average": 7.049,
+        "vote_count": 41,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 1,
+    "total_results": 2
+  },
+  "videos": {
+    "results": []
+  },
+  "watch/providers": {
+    "results": {
+      "AR": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=AR",
+        "flatrate": [
+          {
+            "logo_path": "/t4tushezwJkXCposaC73oZTwF5a.png",
+            "provider_id": 575,
+            "provider_name": "OnDemandKorea",
+            "display_priority": 23
+          }
+        ]
+      },
+      "AT": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=AT",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 137
+          }
+        ]
+      },
+      "AU": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=AU",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 89
+          }
+        ]
+      },
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=BE",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 47
+          }
+        ]
+      },
+      "BR": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=BR",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 76
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=CA",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 130
+          }
+        ]
+      },
+      "CH": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=CH",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 66
+          }
+        ]
+      },
+      "DE": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=DE",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 195
+          }
+        ]
+      },
+      "DK": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=DK",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 43
+          }
+        ]
+      },
+      "ES": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=ES",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 78
+          }
+        ]
+      },
+      "FI": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=FI",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 48
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=FR",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 83
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=GB",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 152
+          }
+        ]
+      },
+      "GR": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=GR",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 27
+          }
+        ]
+      },
+      "HR": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=HR",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 37
+          }
+        ]
+      },
+      "HU": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=HU",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 31
+          }
+        ]
+      },
+      "IE": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=IE",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 54
+          }
+        ]
+      },
+      "IT": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=IT",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 83
+          }
+        ]
+      },
+      "KR": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=KR",
+        "flatrate": [
+          {
+            "logo_path": "/mh1vBeclG7Eq15TjRnmyustqp3v.png",
+            "provider_id": 356,
+            "provider_name": "wavve",
+            "display_priority": 5
+          },
+          {
+            "logo_path": "/ppQIS7UMtBwJSspSoGqDR8wO1Gr.png",
+            "provider_id": 97,
+            "provider_name": "Watcha",
+            "display_priority": 6
+          },
+          {
+            "logo_path": "/w4ov8Zx73eu2TjHsDs5EmiuYKA4.png",
+            "provider_id": 1883,
+            "provider_name": "TVING",
+            "display_priority": 29
+          }
+        ]
+      },
+      "MX": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=MX",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 68
+          }
+        ]
+      },
+      "NL": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=NL",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 59
+          }
+        ]
+      },
+      "NO": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=NO",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 45
+          }
+        ]
+      },
+      "NZ": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=NZ",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 45
+          }
+        ]
+      },
+      "PA": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=PA",
+        "flatrate": [
+          {
+            "logo_path": "/AoNsevRecTdVv4xQEf1oLRGO2yh.png",
+            "provider_id": 344,
+            "provider_name": "Rakuten Viki",
+            "display_priority": 20
+          }
+        ]
+      },
+      "PL": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=PL",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 52
+          }
+        ]
+      },
+      "PT": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=PT",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 40
+          }
+        ]
+      },
+      "RO": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=RO",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 27
+          }
+        ]
+      },
+      "SE": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=SE",
+        "flatrate": [
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 50
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/65270/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/t4tushezwJkXCposaC73oZTwF5a.png",
+            "provider_id": 575,
+            "provider_name": "OnDemandKorea",
+            "display_priority": 135
+          },
+          {
+            "logo_path": "/aH7G4UQLcj4DQwK5mVhXfVTUzR2.png",
+            "provider_id": 2413,
+            "provider_name": "Kocowa Amazon Channel",
+            "display_priority": 263
+          },
+          {
+            "logo_path": "/tUXhi1QnIhdoPOTFUKKTrshUuiV.png",
+            "provider_id": 464,
+            "provider_name": "Kocowa",
+            "display_priority": 329
+          }
+        ]
+      }
+    }
+  }
+}

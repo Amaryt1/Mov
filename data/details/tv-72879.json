@@ -1,0 +1,2440 @@
+{
+  "adult": false,
+  "backdrop_path": "/g4qh9J4Z7d1kSTJN4ZorQr5JinH.jpg",
+  "created_by": [
+    {
+      "id": 1854808,
+      "credit_id": "596fdb90c3a3687162015107",
+      "name": "Eline Le Fur",
+      "original_name": "Eline Le Fur",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1854804,
+      "credit_id": "596fdb7fc3a3686fc700fd61",
+      "name": "Laure de Colbert",
+      "original_name": "Laure de Colbert",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1854807,
+      "credit_id": "596fdb8ac3a3686b5a02143f",
+      "name": "Nicolas Durand-Zouky",
+      "original_name": "Nicolas Durand-Zouky",
+      "gender": 0,
+      "profile_path": "/flEw3T9gD1dVEpNhPLWzGtCEZK1.jpg"
+    },
+    {
+      "id": 1751928,
+      "credit_id": "596fdb97c3a3687fc7026d76",
+      "name": "Fabienne Lesieur",
+      "original_name": "Fabienne Lesieur",
+      "gender": 1,
+      "profile_path": null
+    },
+    {
+      "id": 1854803,
+      "credit_id": "596fdb7ac3a3686b5a021428",
+      "name": "Frédéric Chansel",
+      "original_name": "Frédéric Chansel",
+      "gender": 0,
+      "profile_path": "/rMo7kBLrqS9NqdF8j7RBKlTUCxd.jpg"
+    }
+  ],
+  "episode_run_time": [
+    25
+  ],
+  "first_air_date": "2017-07-17",
+  "genres": [
+    {
+      "id": 80,
+      "name": "جريمة"
+    },
+    {
+      "id": 18,
+      "name": "دراما"
+    },
+    {
+      "id": 10766,
+      "name": "أوبرا صابونية"
+    }
+  ],
+  "homepage": "https://www.tf1.fr/tf1/demain-nous-appartient",
+  "id": 72879,
+  "in_production": true,
+  "languages": [
+    "fr"
+  ],
+  "last_air_date": "2026-08-28",
+  "last_episode_to_air": {
+    "id": 7763111,
+    "name": "الحلقة 7",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-08",
+    "episode_number": 7,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 72879,
+    "still_path": "/yGOms4hylcnDD0QWdDinxGVdB8E.jpg"
+  },
+  "name": "Demain nous appartient",
+  "next_episode_to_air": {
+    "id": 7763113,
+    "name": "الحلقة 8",
+    "overview": "",
+    "vote_average": 0,
+    "vote_count": 0,
+    "air_date": "2026-09-09",
+    "episode_number": 8,
+    "episode_type": "standard",
+    "production_code": "",
+    "runtime": null,
+    "season_number": 3,
+    "show_id": 72879,
+    "still_path": "/fgM3O2LpQ4hsolNBrmJAN5N6LVP.jpg"
+  },
+  "networks": [
+    {
+      "id": 290,
+      "logo_path": "/fqsd09CrijoGu6qfoNIdgUQmVGO.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "number_of_episodes": 2282,
+  "number_of_seasons": 3,
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_name": "Demain nous appartient",
+  "overview": "",
+  "popularity": 399.372,
+  "poster_path": "/7BjipkA48xXLauTg45QKiOb144a.jpg",
+  "production_companies": [
+    {
+      "id": 23448,
+      "logo_path": "/rKUrVCN0CkbrsaX3iO6bdx1cHYJ.png",
+      "name": "Telfrance",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22123,
+      "logo_path": "/zPTy6QDAlCKGeAALZoFEL3QAlut.png",
+      "name": "TF1",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": "2019-06-10",
+      "episode_count": 2,
+      "id": 127154,
+      "name": "العروض الخاصة",
+      "overview": "",
+      "poster_path": "/sG10mLNqedPw5nhmnXSje3ndY7H.jpg",
+      "season_number": 0,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2017-07-17",
+      "episode_count": 2020,
+      "id": 90541,
+      "name": "الموسم 1",
+      "overview": "",
+      "poster_path": "/zd4wQCN8rOC8zNd12IU2PLiRACx.jpg",
+      "season_number": 1,
+      "vote_average": 6.7
+    },
+    {
+      "air_date": "2025-09-01",
+      "episode_count": 260,
+      "id": 475463,
+      "name": "الموسم 2",
+      "overview": "",
+      "poster_path": "/pOebrjxXUqRF5wwhkdL4IjUdZEy.jpg",
+      "season_number": 2,
+      "vote_average": 0
+    },
+    {
+      "air_date": "2026-08-31",
+      "episode_count": 10,
+      "id": 539595,
+      "name": "الموسم 3",
+      "overview": "",
+      "poster_path": null,
+      "season_number": 3,
+      "vote_average": 0
+    }
+  ],
+  "softcore": false,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "",
+  "type": "Scripted",
+  "vote_average": 6.292,
+  "vote_count": 72,
+  "credits": {
+    "cast": [
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 236948,
+        "known_for_department": "Acting",
+        "name": "Ingrid Chauvin",
+        "original_name": "Ingrid Chauvin",
+        "popularity": 0.8094,
+        "profile_path": "/3jwzhV4LBAEDdXYTY80eUSBpPtv.jpg",
+        "character": "Chloé Delcourt",
+        "credit_id": "5a82f211c3a3684cd8012b51",
+        "order": 0
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1048672,
+        "known_for_department": "Acting",
+        "name": "Charlotte Valandrey",
+        "original_name": "Charlotte Valandrey",
+        "popularity": 0.9659,
+        "profile_path": "/fEvqPs4fPgbgAsAt5edoQwfzCOs.jpg",
+        "character": "Laurence",
+        "credit_id": "5a82f25a0e0a26083800bdb2",
+        "order": 1
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 304463,
+        "known_for_department": "Acting",
+        "name": "Alexandre Brasseur",
+        "original_name": "Alexandre Brasseur",
+        "popularity": 0.88,
+        "profile_path": "/6fmUMUKXkmGUMadlqK2kM7IMYBk.jpg",
+        "character": "Alex Bertrand",
+        "credit_id": "5a82f26f0e0a26083e00bf7e",
+        "order": 2
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1379939,
+        "known_for_department": "Acting",
+        "name": "Lorie Pester",
+        "original_name": "Lorie Pester",
+        "popularity": 1.307,
+        "profile_path": "/rojuzjvu695rwALgkyL6MU7ugay.jpg",
+        "character": "Lucie Salducci",
+        "credit_id": "5a82f280c3a3684cf10133cd",
+        "order": 3
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1811597,
+        "known_for_department": "Acting",
+        "name": "Samy Gharbi",
+        "original_name": "Samy Gharbi",
+        "popularity": 0.5772,
+        "profile_path": "/cfGW4kAMro1NR4UEWm8BBYxkdIF.jpg",
+        "character": "Karim Saeed",
+        "credit_id": "5a82f292c3a3684cdb014409",
+        "order": 4
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1167159,
+        "known_for_department": "Acting",
+        "name": "Solène Hébert",
+        "original_name": "Solène Hébert",
+        "popularity": 0.6747,
+        "profile_path": "/hz6L9ZjKHK6ViESZXnmZ3YGnNph.jpg",
+        "character": "Victoire Lazzari",
+        "credit_id": "5a82f2a70e0a26083800bdef",
+        "order": 5
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1977519,
+        "known_for_department": "Acting",
+        "name": "Clément Remiens",
+        "original_name": "Clément Remiens",
+        "popularity": 0.5835,
+        "profile_path": "/rm1HTRaUKpSxDHQ2ZqHymHkPd01.jpg",
+        "character": "Maxime Delcourt",
+        "credit_id": "5a82f2bbc3a3684cd50118ed",
+        "order": 6
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1383878,
+        "known_for_department": "Acting",
+        "name": "Juliette Tresanini",
+        "original_name": "Juliette Tresanini",
+        "popularity": 0.635,
+        "profile_path": "/c1t1omK78rr4ETivGyfrmufNxU4.jpg",
+        "character": "Sandrine Lazzari",
+        "credit_id": "5a82f2ce0e0a26084100bc2e",
+        "order": 7
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1382466,
+        "known_for_department": "Acting",
+        "name": "Cyril Garnier",
+        "original_name": "Cyril Garnier",
+        "popularity": 0.616,
+        "profile_path": "/5TdNV4VkZDA6VdjiZTbSu3TVUvc.jpg",
+        "character": "Thomas Delcourt",
+        "credit_id": "5f4835e2efca000035c17890",
+        "order": 8
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 584655,
+        "known_for_department": "Acting",
+        "name": "Luce Mouchel",
+        "original_name": "Luce Mouchel",
+        "popularity": 0.7032,
+        "profile_path": "/tPJML7kXpPXWeIPhgjRKroUUl3J.jpg",
+        "character": "Marianne Delcourt",
+        "credit_id": "5a82f2eb0e0a26084100bc51",
+        "order": 9
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 23943,
+        "known_for_department": "Acting",
+        "name": "Frédéric Diefenthal",
+        "original_name": "Frédéric Diefenthal",
+        "popularity": 1.2,
+        "profile_path": "/3sdQSCxXQTgPu6fqTImqGnebcuU.jpg",
+        "character": "Antoine Myriel",
+        "credit_id": "5ed37a8daaec7100216b4482",
+        "order": 10
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 558165,
+        "known_for_department": "Acting",
+        "name": "Anne Caillon",
+        "original_name": "Anne Caillon",
+        "popularity": 0.9845,
+        "profile_path": "/as1I1DFJUyv0xoicStG7rVixwMs.jpg",
+        "character": "Flore Vallorta",
+        "credit_id": "5a82f33f0e0a26083e00c070",
+        "order": 11
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1883063,
+        "known_for_department": "Acting",
+        "name": "Maud Baecker",
+        "original_name": "Maud Baecker",
+        "popularity": 0.9882,
+        "profile_path": "/9Mq2vQY96S9GU5CF2M6edTaUBtp.jpg",
+        "character": "Anna Delcourt",
+        "credit_id": "5a82f2fec3a3684cdf013cef",
+        "order": 12
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2049940,
+        "known_for_department": "Acting",
+        "name": "Marion Christmann",
+        "original_name": "Marion Christmann",
+        "popularity": 0.4721,
+        "profile_path": "/cg2a6o6kHXWESRBijDVW4P8yyFz.jpg",
+        "character": "Amanda",
+        "credit_id": "5ed37a5c528b2e001e6a3b56",
+        "order": 13
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2661116,
+        "known_for_department": "Acting",
+        "name": "Garance Teillet",
+        "original_name": "Garance Teillet",
+        "popularity": 0.2812,
+        "profile_path": "/fMsoQuhNPe3SF1BcazIpL4oHRzI.jpg",
+        "character": "Jessica Moreno",
+        "credit_id": "5ed37a0e1b157d001f544914",
+        "order": 14
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1679202,
+        "known_for_department": "Acting",
+        "name": "Joffrey Platel",
+        "original_name": "Joffrey Platel",
+        "popularity": 0.6631,
+        "profile_path": "/5RWMsRfDEcse0cqCRkaFNLKrHJL.jpg",
+        "character": "Bastien",
+        "credit_id": "5a82f315925141167b012170",
+        "order": 15
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2661115,
+        "known_for_department": "Acting",
+        "name": "Camille Genau",
+        "original_name": "Camille Genau",
+        "popularity": 0.3776,
+        "profile_path": "/mPNDlmmsXouZiamdYf4KSW7X0ub.jpg",
+        "character": "Sara Reynaud",
+        "credit_id": "5ed37a00fea0d7001e887fba",
+        "order": 16
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2661125,
+        "known_for_department": "Acting",
+        "name": "Raphaële Volkoff",
+        "original_name": "Raphaële Volkoff",
+        "popularity": 0.3227,
+        "profile_path": "/n0zlJxLBVWYSfpqko4E401yWvLs.jpg",
+        "character": "Roxane Thiemen",
+        "credit_id": "5ed37b3821c4ca0021e1a121",
+        "order": 17
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2661118,
+        "known_for_department": "Acting",
+        "name": "Hector Langevin",
+        "original_name": "Hector Langevin",
+        "popularity": 0.3072,
+        "profile_path": "/7rWSSV9vnS2wZJRDWpFsf6E1KC9.jpg",
+        "character": "Bart Vallorta",
+        "credit_id": "5ed37a30528b2e001f68030c",
+        "order": 18
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2000524,
+        "known_for_department": "Acting",
+        "name": "Orféo Campanella",
+        "original_name": "Orféo Campanella",
+        "popularity": 0.5743,
+        "profile_path": "/81S9XIXcFC90czsKxOPHOP8fFQ.jpg",
+        "character": "Baptiste",
+        "credit_id": "5aad577cc3a36846ba015d66",
+        "order": 19
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2661126,
+        "known_for_department": "Acting",
+        "name": "Joaquim Fossi",
+        "original_name": "Joaquim Fossi",
+        "popularity": 0.6217,
+        "profile_path": "/kINxTGEhLRu0A5WJxacSrSwb92p.jpg",
+        "character": "Dylan Moreno",
+        "credit_id": "5ed37b521b157d0020524488",
+        "order": 20
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 229139,
+        "known_for_department": "Acting",
+        "name": "Clémence Lassalas",
+        "original_name": "Clémence Lassalas",
+        "popularity": 0.545,
+        "profile_path": "/8wMlPn47VyL77oqOvAHe0ScnbxA.jpg",
+        "character": "Charlie Molina",
+        "credit_id": "5ed37a6421c4ca001fdf7b45",
+        "order": 21
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1074717,
+        "known_for_department": "Acting",
+        "name": "Martin Daquin",
+        "original_name": "Martin Daquin",
+        "popularity": 0.4734,
+        "profile_path": "/zewnUX8Z56hVlteMEDruZsej6n3.jpg",
+        "character": "Luke Molina",
+        "credit_id": "5ed37a70e4b576001f339608",
+        "order": 22
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2661124,
+        "known_for_department": "Acting",
+        "name": "Dembo Camilo",
+        "original_name": "Dembo Camilo",
+        "popularity": 0.2863,
+        "profile_path": "/l6UocJwUuYYZZ6tA4MrirpsquyV.jpg",
+        "character": "Souleymane",
+        "credit_id": "5ed37b1f5c071b001e30ce12",
+        "order": 23
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1363835,
+        "known_for_department": "Acting",
+        "name": "Franck Monsigny",
+        "original_name": "Franck Monsigny",
+        "popularity": 0.6194,
+        "profile_path": "/huxHf0F7oXQtcqtQZw6WcGCpnQi.jpg",
+        "character": "Martin Constant",
+        "credit_id": "5ed37aa8e4b576001f33969f",
+        "order": 24
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1642822,
+        "known_for_department": "Acting",
+        "name": "Mayel Elhajaoui",
+        "original_name": "Mayel Elhajaoui",
+        "popularity": 0.5958,
+        "profile_path": "/e2NdKv4MiXgTWIMDiKSEwft6INK.jpg",
+        "character": "Georges Caron",
+        "credit_id": "5ed37ab1aaec7100216b4496",
+        "order": 25
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 143001,
+        "known_for_department": "Acting",
+        "name": "Ariane Séguillon",
+        "original_name": "Ariane Séguillon",
+        "popularity": 0.5706,
+        "profile_path": "/wnrWp5nfzuMhvNpFIpijoj39kaN.jpg",
+        "character": "Christelle Moreno",
+        "credit_id": "5ed37ace528b2e00206d7487",
+        "order": 26
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2661123,
+        "known_for_department": "Acting",
+        "name": "Xavier Widhoff",
+        "original_name": "Xavier Widhoff",
+        "popularity": 0.5483,
+        "profile_path": "/3Npnnmyv7fgCto1myYBHFB8d9Ek.jpg",
+        "character": "Jules",
+        "credit_id": "5ed37b10e4b576001f33976d",
+        "order": 27
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 19080,
+        "known_for_department": "Acting",
+        "name": "Arnaud Henriet",
+        "original_name": "Arnaud Henriet",
+        "popularity": 0.8503,
+        "profile_path": "/wBcCaNPEY0O6Ixb3oOEeRGfJLHC.jpg",
+        "character": "Sylvain Moreno",
+        "credit_id": "5ed37ad8fea0d7001d87c578",
+        "order": 28
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1121105,
+        "known_for_department": "Acting",
+        "name": "Julie Debazac",
+        "original_name": "Julie Debazac",
+        "popularity": 0.7953,
+        "profile_path": "/hOhDmYqiShefbmTL8l7F6VEEHv0.jpg",
+        "character": "Aurore Daunier",
+        "credit_id": "5ed37ae71b157d001e53155d",
+        "order": 29
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 587143,
+        "known_for_department": "Acting",
+        "name": "Kamel Belghazi",
+        "original_name": "Kamel Belghazi",
+        "popularity": 0.4994,
+        "profile_path": "/o6xCB6Gnqw3Sdf1pPWLfjyLUk4z.jpg",
+        "character": "William Daunier",
+        "credit_id": "5ed37aeefea0d7001d87c582",
+        "order": 30
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2661121,
+        "known_for_department": "Acting",
+        "name": "Emma Smet",
+        "original_name": "Emma Smet",
+        "popularity": 0.804,
+        "profile_path": "/wu5sKoyPRIkTPAbBC0r25HVpT6Z.jpg",
+        "character": "Sofia Daunier",
+        "credit_id": "5ed37af5528b2e001e6a3c95",
+        "order": 31
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2661122,
+        "known_for_department": "Acting",
+        "name": "Maïna Grézanlé",
+        "original_name": "Maïna Grézanlé",
+        "popularity": 0.2812,
+        "profile_path": "/r5WKnOxYA0drVJPDZnKBgIgJaRu.jpg",
+        "character": "Manon Daunier",
+        "credit_id": "5ed37b0221c4ca0020e4cbb1",
+        "order": 32
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2661117,
+        "known_for_department": "Acting",
+        "name": "Lou",
+        "original_name": "Lou",
+        "popularity": 0.6084,
+        "profile_path": "/h38OrX0AGOWKCbcvrO0r3FRRJ3u.jpg",
+        "character": "Betty Moreno",
+        "credit_id": "5ed37a1f5c071b001d2b4a86",
+        "order": 33
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2541618,
+        "known_for_department": "Acting",
+        "name": "Gulliver Bevernaege-Benhadj",
+        "original_name": "Gulliver Bevernaege-Benhadj",
+        "popularity": 0.5462,
+        "profile_path": "/ciUegquKXYtdlz9MAMPuCuDoHur.jpg",
+        "character": "Mathias",
+        "credit_id": "5ed37ec15c071b001c2d8518",
+        "order": 34
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 999805,
+        "known_for_department": "Acting",
+        "name": "Vanessa Demouy",
+        "original_name": "Vanessa Demouy",
+        "popularity": 0.8337,
+        "profile_path": "/mqP32bfYSOzNiNDzZvxVodwN6xg.jpg",
+        "character": "Rose Latour",
+        "credit_id": "5ed380511b157d001f545701",
+        "order": 35
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 283238,
+        "known_for_department": "Acting",
+        "name": "Farouk Bermouga",
+        "original_name": "Farouk Bermouga",
+        "popularity": 0.468,
+        "profile_path": "/v4DmghjudqqqS3tUcAijBq3MlsL.jpg",
+        "character": "Victor Brunet",
+        "credit_id": "5ed38060528b2e001e6a4418",
+        "order": 36
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933238,
+        "known_for_department": "Acting",
+        "name": "Sylvie Filloux",
+        "original_name": "Sylvie Filloux",
+        "popularity": 0.6093,
+        "profile_path": "/kvH4itkbg6sMNYtbROuwkaxx34r.jpg",
+        "character": "Judith Delcourt-Bertrand",
+        "credit_id": "5ffd8a90fdc4fa004020d3e8",
+        "order": 37
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2933241,
+        "known_for_department": "Acting",
+        "name": "Loris Freeman",
+        "original_name": "Loris Freeman",
+        "popularity": 0.5444,
+        "profile_path": "/ufJClMc5M0gW8Yog9ohE2Rwp8xD.jpg",
+        "character": "Eddy Vallorta",
+        "credit_id": "5ffd8b11fdc4fa003f20153e",
+        "order": 38
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933242,
+        "known_for_department": "Acting",
+        "name": "Kenza Saïb Couton",
+        "original_name": "Kenza Saïb Couton",
+        "popularity": 0.519,
+        "profile_path": "/zLa20bI5hVnXvtUF6Dzl1Mwtxno.jpg",
+        "character": "Soraya Beddiar",
+        "credit_id": "5ffd8c1bc3c891004072452e",
+        "order": 39
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933244,
+        "known_for_department": "Acting",
+        "name": "Sahelle De Figueiredo",
+        "original_name": "Sahelle De Figueiredo",
+        "popularity": 0.6973,
+        "profile_path": "/gljh1bXRFoIf7I6mzOFIazVQWRu.jpg",
+        "character": "Noor Beddiar",
+        "credit_id": "5ffd8c9377d23b003ffb37b9",
+        "order": 40
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933247,
+        "known_for_department": "Acting",
+        "name": "Sonia Bendhaou",
+        "original_name": "Sonia Bendhaou",
+        "popularity": 0.4639,
+        "profile_path": "/2fotHtbuI7MFBH2txDsIohGBJ0b.jpg",
+        "character": "Yasmine Beddiar",
+        "credit_id": "5ffd8d6e470ead0041ba8563",
+        "order": 41
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933249,
+        "known_for_department": "Acting",
+        "name": "Sophie Michard",
+        "original_name": "Sophie Michard",
+        "popularity": 0.327,
+        "profile_path": "/pzwabl7ZRYYf6yCPJmDlX9GgnwE.jpg",
+        "character": "Béatrice Raynaud",
+        "credit_id": "5ffd8d91e19de9003f182195",
+        "order": 42
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2933258,
+        "known_for_department": "Acting",
+        "name": "Mathieu Alexandre",
+        "original_name": "Mathieu Alexandre",
+        "popularity": 0.2933,
+        "profile_path": "/tOKbSv59XzV3gRkXtonjRZXBBoQ.jpg",
+        "character": "Tristan Girard",
+        "credit_id": "5ffd9070470ead003fbb0984",
+        "order": 43
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2933328,
+        "known_for_department": "Acting",
+        "name": "Jean-Baptiste Lamour",
+        "original_name": "Jean-Baptiste Lamour",
+        "popularity": 0.4585,
+        "profile_path": "/dIGsNz7zqoTBFCl4FsINDSmj95r.jpg",
+        "character": "Arthur Lazzari-Moiret",
+        "credit_id": "5ffda6c3fdc4fa0041205e71",
+        "order": 44
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2933333,
+        "known_for_department": "Acting",
+        "name": "Liam Baty",
+        "original_name": "Liam Baty",
+        "popularity": 0.6321,
+        "profile_path": "/4TP9ydV6eKC5bQ9CJlKW6eIz5As.jpg",
+        "character": "Rémy Valski",
+        "credit_id": "5ffda7c5fcec2e003e197d4e",
+        "order": 45
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933353,
+        "known_for_department": "Acting",
+        "name": "Alice Révérend",
+        "original_name": "Alice Révérend",
+        "popularity": 0.5096,
+        "profile_path": "/6nQilscILEs1TxSfAgEzoV3VuQx.jpg",
+        "character": "Lola Brunet",
+        "credit_id": "5ffdae15c3c891003f71209f",
+        "order": 46
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2933356,
+        "known_for_department": "Acting",
+        "name": "Anouk Villemin",
+        "original_name": "Anouk Villemin",
+        "popularity": 0.6849,
+        "profile_path": "/gmG0Ngm2lJDy0lIu1BOdsp8m3LW.jpg",
+        "character": "Célia Fontaine",
+        "credit_id": "5ffdb143fcec2e00401c37c8",
+        "order": 47
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2933358,
+        "known_for_department": "Acting",
+        "name": "Benjamin Beauvais",
+        "original_name": "Benjamin Beauvais",
+        "popularity": 0.2827,
+        "profile_path": "/x4aq8WODOSxuslHiaXkw6uqBWl8.jpg",
+        "character": "Mattéo Gualandi",
+        "credit_id": "5ffdb38194d8a8003e28c622",
+        "order": 48
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2934429,
+        "known_for_department": "Acting",
+        "name": "Marie Catrix",
+        "original_name": "Marie Catrix",
+        "popularity": 0.3801,
+        "profile_path": "/22vTHe04DJrZRJfekflNxiUSmt8.jpg",
+        "character": "Morgane Guého",
+        "credit_id": "5ffec9b2fea0d7003d8d8997",
+        "order": 49
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 2934430,
+        "known_for_department": "Acting",
+        "name": "Arthur Legrand",
+        "original_name": "Arthur Legrand",
+        "popularity": 0.3444,
+        "profile_path": "/bXUUFFyZrQIOfEd7o5laoq4siom.jpg",
+        "character": "Gabriel Guého",
+        "credit_id": "5ffeca3f67825900409b1a0a",
+        "order": 50
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2934586,
+        "known_for_department": "Acting",
+        "name": "Laura Mathieu",
+        "original_name": "Laura Mathieu",
+        "popularity": 0.3903,
+        "profile_path": "/mTXVj5o2V5T6pXKpkGeGnWXJYTD.jpg",
+        "character": "Justine",
+        "credit_id": "5ffef8d73e09f3003e1790f1",
+        "order": 51
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2934588,
+        "known_for_department": "Acting",
+        "name": "Ludovic Charles",
+        "original_name": "Ludovic Charles",
+        "popularity": 0.3749,
+        "profile_path": "/myImYD4rk920Ypz2MYjp7tQrjiD.jpg",
+        "character": "Kylian Berthier",
+        "credit_id": "5ffefa0390cf51003e4db331",
+        "order": 52
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2934591,
+        "known_for_department": "Acting",
+        "name": "Boris Ravaine",
+        "original_name": "Boris Ravaine",
+        "popularity": 0.3705,
+        "profile_path": "/nGjdxY6TmY0bHglHzzYcm0s9K4B.jpg",
+        "character": "Thibault Dabboville",
+        "credit_id": "5ffefd75420228003ee65f49",
+        "order": 53
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2934592,
+        "known_for_department": "Acting",
+        "name": "Chanel Victor",
+        "original_name": "Chanel Victor",
+        "popularity": 0.5625,
+        "profile_path": "/2tka4azyVIpR3uGPHXsm2inSqoB.jpg",
+        "character": "Jenny Mendoza",
+        "credit_id": "5ffefdb13e09f3003c173058",
+        "order": 54
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2934700,
+        "known_for_department": "Acting",
+        "name": "Anatole Sarrazin",
+        "original_name": "Anatole Sarrazin",
+        "popularity": 0.2969,
+        "profile_path": "/4x43DcH8YVBWZsID5zSWX7ywI3Z.jpg",
+        "character": "Pierre Leroy",
+        "credit_id": "5fff2333594c94003e8fd416",
+        "order": 55
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2934705,
+        "known_for_department": "Acting",
+        "name": "Christiane Ludot",
+        "original_name": "Christiane Ludot",
+        "popularity": 0.6267,
+        "profile_path": null,
+        "character": "Françoise Salieri",
+        "credit_id": "5fff23bb223e20003db0b7ac",
+        "order": 56
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2934708,
+        "known_for_department": "Acting",
+        "name": "Siobhan Lacroix",
+        "original_name": "Siobhan Lacroix",
+        "popularity": 0.3539,
+        "profile_path": "/kpsylFFQQkq7YmpvHjSAUTQMNZq.jpg",
+        "character": "Coline Salien",
+        "credit_id": "5fff25ef223e20003fb06ab8",
+        "order": 57
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2934709,
+        "known_for_department": "Acting",
+        "name": "Charlotte Bizjak",
+        "original_name": "Charlotte Bizjak",
+        "popularity": 0.3568,
+        "profile_path": "/9f6SfRBZGtCJA3x6Vzr5T22sc1S.jpg",
+        "character": "Mila Trahor",
+        "credit_id": "5fff2606594c94003d8f9d7b",
+        "order": 58
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2934710,
+        "known_for_department": "Acting",
+        "name": "Gina Dimaria",
+        "original_name": "Gina Dimaria",
+        "popularity": 0.31,
+        "profile_path": null,
+        "character": "Nina Saeed",
+        "credit_id": "5fff2616420228003ee6ac82",
+        "order": 59
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2934718,
+        "known_for_department": "Acting",
+        "name": "Laura Dary",
+        "original_name": "Laura Dary",
+        "popularity": 0.3006,
+        "profile_path": "/apE5jjD2pGa56TMwb9BqVD1WJFi.jpg",
+        "character": "Laura Kléber",
+        "credit_id": "5fff28de35c30a003d4d0866",
+        "order": 60
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2936194,
+        "known_for_department": "Acting",
+        "name": "Antoine Cohaut",
+        "original_name": "Antoine Cohaut",
+        "popularity": 0.6865,
+        "profile_path": "/mX61EulxO3bMgmGDCyBxsl3oS8e.jpg",
+        "character": "Ben Girard",
+        "credit_id": "60005b217d5db5003bcbcbd3",
+        "order": 61
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 562158,
+        "known_for_department": "Acting",
+        "name": "Samira Lachhab",
+        "original_name": "Samira Lachhab",
+        "popularity": 0.9037,
+        "profile_path": "/wzlDQ5c98NrscrjH0GJvBLm92b1.jpg",
+        "character": "Leïla Beddiar",
+        "credit_id": "5f996ad65a07f5003732b26e",
+        "order": 62
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1240281,
+        "known_for_department": "Acting",
+        "name": "Christine Lemler",
+        "original_name": "Christine Lemler",
+        "popularity": 0.4647,
+        "profile_path": "/vvHHZ1JxSGKj0pCqpic4bfTEiFm.jpg",
+        "character": "Natalia Verrier",
+        "credit_id": "5ffefc7a4202280044e63432",
+        "order": 63
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1264822,
+        "known_for_department": "Acting",
+        "name": "Sara Ginac",
+        "original_name": "Sara Ginac",
+        "popularity": 0.4529,
+        "profile_path": "/c6vWsCkBbTv93GESJjTbCWI7QvD.jpg",
+        "character": "Lise Guého",
+        "credit_id": "5ffefd92223e20003db05a90",
+        "order": 64
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2494149,
+        "known_for_department": "Acting",
+        "name": "Martin Mille",
+        "original_name": "Martin Mille",
+        "popularity": 0.33,
+        "profile_path": "/6s92s84VHNV9Tn3Hl1FvAfMzL1Z.jpg",
+        "character": "Gabriel Guého",
+        "credit_id": "5fff29d7dfe31d00416524d8",
+        "order": 65
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2633253,
+        "known_for_department": "Acting",
+        "name": "Artemisia Toussaint",
+        "original_name": "Artemisia Toussaint",
+        "popularity": 0.4588,
+        "profile_path": "/juNaoIvZKeu769nvcrBhNO0tEMb.jpg",
+        "character": "Solenne Girard",
+        "credit_id": "60005a74326c19003e7f4bcf",
+        "order": 66
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2754722,
+        "known_for_department": "Acting",
+        "name": "Marysole Fertard",
+        "original_name": "Marysole Fertard",
+        "popularity": 0.8605,
+        "profile_path": "/uZphP8KT4xNLfZZ63NNsqEEH1D1.jpg",
+        "character": "Margot Robert",
+        "credit_id": "6151f59167203d0043f585fb",
+        "order": 67
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1674684,
+        "known_for_department": "Acting",
+        "name": "Donia Eden",
+        "original_name": "Donia Eden",
+        "popularity": 0.7464,
+        "profile_path": "/mhmnLinGtDLFDRKEwQOMStEN2gv.jpg",
+        "character": "Chemsa",
+        "credit_id": "61afe35b6d97e60043c3b8fb",
+        "order": 68
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1494074,
+        "known_for_department": "Acting",
+        "name": "Clémence Bretécher",
+        "original_name": "Clémence Bretécher",
+        "popularity": 0.5188,
+        "profile_path": "/nfbmKMYg89YdDVMMUhhGqESJdXW.jpg",
+        "character": "Estelle Lefèvre",
+        "credit_id": "62694172fea0d70a2dfc0dc7",
+        "order": 69
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1613260,
+        "known_for_department": "Acting",
+        "name": "Luna Lou",
+        "original_name": "Luna Lou",
+        "popularity": 0.7915,
+        "profile_path": "/sPEoKoI0YJSeM83g36A6ElBbXCE.jpg",
+        "character": "Emma Garnier",
+        "credit_id": "62e266e3e9da692ceea8fce0",
+        "order": 70
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 231436,
+        "known_for_department": "Acting",
+        "name": "Lisa Cipriani",
+        "original_name": "Lisa Cipriani",
+        "popularity": 0.3917,
+        "profile_path": "/vuKCQ6Wdl2GPHdqepBUKUjbnlRQ.jpg",
+        "character": "Eva",
+        "credit_id": "62f16249109cd000910cfc44",
+        "order": 71
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1428463,
+        "known_for_department": "Acting",
+        "name": "Dounia Coesens",
+        "original_name": "Dounia Coesens",
+        "popularity": 0.7869,
+        "profile_path": "/7uHFqxguxrt8tPYFaTPNAJ0Sa3u.jpg",
+        "character": "Romy Saeed",
+        "credit_id": "637bb40bfbe36f0091f35ed1",
+        "order": 72
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 237676,
+        "known_for_department": "Acting",
+        "name": "Xavier Deluc",
+        "original_name": "Xavier Deluc",
+        "popularity": 2.5546,
+        "profile_path": "/gzIuViUIacUQNtqTEc50ibraFtM.jpg",
+        "character": "Procureur Sébastien Perraud",
+        "credit_id": "637be85d1f027500cd412c1b",
+        "order": 73
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2970788,
+        "known_for_department": "Acting",
+        "name": "Naïma Rodric",
+        "original_name": "Naïma Rodric",
+        "popularity": 0.785,
+        "profile_path": "/b0b8yqMmhpXkVoeS7csqdSV9Cb4.jpg",
+        "character": "Lisa Hassan",
+        "credit_id": "637bee551f0275007642a136",
+        "order": 74
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 1867838,
+        "known_for_department": "Acting",
+        "name": "Louvia Bachelier",
+        "original_name": "Louvia Bachelier",
+        "popularity": 0.6969,
+        "profile_path": "/1ClAV2r3zUXeeTze4h11Deusu62.jpg",
+        "character": "Manon Daunier",
+        "credit_id": "637bf0574fd14100774baab7",
+        "order": 75
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 204676,
+        "known_for_department": "Acting",
+        "name": "Alexandre Varga",
+        "original_name": "Alexandre Varga",
+        "popularity": 0.9785,
+        "profile_path": "/wvg2ss6KmWjagy8ru2N6sXDVK3T.jpg",
+        "character": "Benjamin Ventura",
+        "credit_id": "637bf08e38469a00b4b9669c",
+        "order": 76
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 119379,
+        "known_for_department": "Acting",
+        "name": "Jennifer Lauret",
+        "original_name": "Jennifer Lauret",
+        "popularity": 0.6885,
+        "profile_path": "/5HRCno2FHbRiAAJGYgYml9qMVs9.jpg",
+        "character": "Maître Raphaëlle Perraud",
+        "credit_id": "637bf1d738469a00cdd256d4",
+        "order": 77
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2642179,
+        "known_for_department": "Acting",
+        "name": "Lucia Passaniti",
+        "original_name": "Lucia Passaniti",
+        "popularity": 0.9936,
+        "profile_path": "/2ylOCmoIB4le01t3lGD4tkI3xtE.jpg",
+        "character": "Noémie Matret",
+        "credit_id": "63a62e39839d9300d0a23577",
+        "order": 78
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 2676070,
+        "known_for_department": "Acting",
+        "name": "Dimitri Fouque",
+        "original_name": "Dimitri Fouque",
+        "popularity": 0.6067,
+        "profile_path": "/zVKY9802C9pD1FAQjNWJi3mQJ67.jpg",
+        "character": "Jack Dumas Roussel",
+        "credit_id": "64117151323eba00844b19db",
+        "order": 80
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3963435,
+        "known_for_department": "Acting",
+        "name": "Sasha Birdy",
+        "original_name": "Sasha Birdy",
+        "popularity": 0.4961,
+        "profile_path": "/jf6kfTA4tuInNiSSSVshRgcBuWT.jpg",
+        "character": "Rayane Saeed",
+        "credit_id": "64117176ede1b028635d015b",
+        "order": 81
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 43996,
+        "known_for_department": "Acting",
+        "name": "Jean-Baptiste Maunier",
+        "original_name": "Jean-Baptiste Maunier",
+        "popularity": 2.0938,
+        "profile_path": "/7MFns6ANxxkG55n75z4omK5voat.jpg",
+        "character": "Benoît Letellier",
+        "credit_id": "644a725ab1131f04e81a87dd",
+        "order": 82
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 3463903,
+        "known_for_department": "Acting",
+        "name": "Paloma Reynaud",
+        "original_name": "Paloma Reynaud",
+        "popularity": 0.6229,
+        "profile_path": "/iLQ80yJtMiQBKSV84Y9RsLQJW4b.jpg",
+        "character": "Luna Aznar",
+        "credit_id": "64625acfe3fa2f00e4043718",
+        "order": 83
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 79514,
+        "known_for_department": "Acting",
+        "name": "Camille De Pazzis",
+        "original_name": "Camille De Pazzis",
+        "popularity": 1.0054,
+        "profile_path": "/ef8LBF9m5NYM43oQXCFFal61FoJ.jpg",
+        "character": "Alma Guérin",
+        "credit_id": "646a04982bcf670172b1c1f4",
+        "order": 84
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 131401,
+        "known_for_department": "Acting",
+        "name": "Thaïs Kirby",
+        "original_name": "Thaïs Kirby",
+        "popularity": 0.3493,
+        "profile_path": "/p2V7M3CgmGAvYozicXgVrqZ6wRG.jpg",
+        "character": "Irène Lopez Diallo",
+        "credit_id": "64e4af72e894a6011ef65e4c",
+        "order": 85
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1837901,
+        "known_for_department": "Acting",
+        "name": "Youcef Agal",
+        "original_name": "Youcef Agal",
+        "popularity": 0.3666,
+        "profile_path": "/zqKQnhSWdUwSo5ySRpQQ5xlJp22.jpg",
+        "character": "Nordine Becker",
+        "credit_id": "6536d19f4083b300fd3e4cbc",
+        "order": 86
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 2896525,
+        "known_for_department": "Acting",
+        "name": "Elisa Ezzedine",
+        "original_name": "Elisa Ezzedine",
+        "popularity": 0.8587,
+        "profile_path": "/j4TDAWxHHSwWURE6bpHTz7ZzkmX.jpg",
+        "character": "Camille Meffre",
+        "credit_id": "65500d7367b61300c84b8042",
+        "order": 87
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 1914152,
+        "known_for_department": "Acting",
+        "name": "Kévin Levy",
+        "original_name": "Kévin Levy",
+        "popularity": 0.3717,
+        "profile_path": null,
+        "character": "Bruno Paoletti",
+        "credit_id": "6581df34df86a808dae8d2e1",
+        "order": 88
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 3275943,
+        "known_for_department": "Acting",
+        "name": "Adrien Gabeulet",
+        "original_name": "Adrien Gabeulet",
+        "popularity": 0.6879,
+        "profile_path": "/zdz63BpKMZhzNdQxub4G4IjXI1p.jpg",
+        "character": "Nathan Paoletti",
+        "credit_id": "6581df5ecedac408617d9066",
+        "order": 89
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 22165,
+        "known_for_department": "Acting",
+        "name": "Axel Kiener",
+        "original_name": "Axel Kiener",
+        "popularity": 0.7619,
+        "profile_path": "/r5eDmciwm6T4rl81lBa667eDSn4.jpg",
+        "character": "Samuel Chardeau",
+        "credit_id": "666f45b44cfc345a67a63494",
+        "order": 90
+      },
+      {
+        "adult": false,
+        "gender": 0,
+        "id": 5648289,
+        "known_for_department": "Acting",
+        "name": "Rayane Huber",
+        "original_name": "Rayane Huber",
+        "popularity": 0.2641,
+        "profile_path": null,
+        "character": "Dorian Curtis",
+        "credit_id": "68ac5fb379e32ab66d9db6c6",
+        "order": 91
+      },
+      {
+        "adult": false,
+        "gender": 1,
+        "id": 24576,
+        "known_for_department": "Acting",
+        "name": "Corinne Touzet",
+        "original_name": "Corinne Touzet",
+        "popularity": 1.0554,
+        "profile_path": null,
+        "character": "Annie Madori",
+        "credit_id": "68ac60275df27321711e510a",
+        "order": 92
+      },
+      {
+        "adult": false,
+        "gender": 2,
+        "id": 4130416,
+        "known_for_department": "Acting",
+        "name": "Pascal Frery",
+        "original_name": "Pascal Frery",
+        "popularity": 0.6045,
+        "profile_path": "/3a4GjYil3A8tNR3PHmmM6LXaqFc.jpg",
+        "character": "Yann Le Priol",
+        "credit_id": "6a883cf5a18c0f29b484d2e4",
+        "order": 93
+      }
+    ],
+    "crew": []
+  },
+  "videos": {
+    "results": []
+  },
+  "similar": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/4jrSbRpLqpvYJtLKncaxZVC47EW.jpg",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "id": 60622,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Fargo",
+        "overview": "تبدأ القصة في بلدة هادئة بولاية مينيسوتا عندما يلتقي ليستر نايغارد برجل غامض يدعى لورن مالفو، فيقوده هذا اللقاء إلى سلسلة من الأحداث العنيفة والجرائم التي تقلب حياته رأسًا على عقب. ومع تصاعد الفوضى، تبدأ الشرطة في التحقيق في سلسلة من جرائم القتل، بينما تتشابك حياة المجرمين والسكان العاديين في صراعات غير متوقعة. وبين الطمع والخداع والعنف، يجد ليستر نفسه منجرفًا إلى عالم الجريمة، في حين يسعى المحققون لكشف الحقيقة وإيقاف الأشخاص المسؤولين عن هذه الجرائم.",
+        "popularity": 67.4643,
+        "poster_path": "/dlqixQblNL0SJqt6W37Vz7vcEbD.jpg",
+        "first_air_date": "2014-04-15",
+        "softcore": false,
+        "name": "فارغو",
+        "vote_average": 8.29,
+        "vote_count": 3401
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7OCAlRz13R9HZIbXTNUfyEAYyvf.jpg",
+        "genre_ids": [
+          18,
+          35
+        ],
+        "id": 93097,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "동백꽃 필 무렵",
+        "overview": "عندما تشعر أنّ حبًّا جديدًا قد اقتحم حياتها، تسعى الأمّ العزباء \"دونغبايك\" إلى مواجهة الوصمات الاجتماعيّة التي تُحاصرها بشتّى الطُرق.",
+        "popularity": 13.0266,
+        "poster_path": "/mjXjqD83omUyeVXtc8X8AFyBZ7.jpg",
+        "first_air_date": "2019-09-18",
+        "softcore": false,
+        "name": "ربيع الكاميليا",
+        "vote_average": 8.132,
+        "vote_count": 68
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lhd12sUUEijkOq0agxdOXv602JR.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 60671,
+        "origin_country": [
+          "YU"
+        ],
+        "original_language": "sh",
+        "original_name": "Sivi dom",
+        "overview": "",
+        "popularity": 3.3604,
+        "poster_path": "/sgdZj4qQ4wNs6Dt5zPtvLVQFjX6.jpg",
+        "first_air_date": "1986-01-01",
+        "softcore": false,
+        "name": "Sivi dom",
+        "vote_average": 9,
+        "vote_count": 6
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/go7SlvUK85A4qNk3oGOhv8v2wyX.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 2222,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Division",
+        "overview": "",
+        "popularity": 22.4871,
+        "poster_path": "/5FE02HHz3Uv9T0yThBq1SahJ4yV.jpg",
+        "first_air_date": "2001-01-07",
+        "softcore": false,
+        "name": "The Division",
+        "vote_average": 7.1,
+        "vote_count": 14
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/buBASu9jVXV6ZJEPNL2sk1JAmRM.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 60884,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "こちら葛飾区亀有公園前派出所",
+        "overview": "",
+        "popularity": 2.3798,
+        "poster_path": "/u0Ds5l3dhCAhpNEuyCYivVT3Lva.jpg",
+        "first_air_date": "2009-08-01",
+        "softcore": false,
+        "name": "こちら葛飾区亀有公園前派出所",
+        "vote_average": 3,
+        "vote_count": 2
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/o5aZkYCvZ4DQQmTHGCkDf43Xv7G.jpg",
+        "genre_ids": [
+          35,
+          80
+        ],
+        "id": 2301,
+        "origin_country": [
+          "GB"
+        ],
+        "original_language": "en",
+        "original_name": "The Thin Blue Line",
+        "overview": "",
+        "popularity": 6.2802,
+        "poster_path": "/vsxilQmtIRP7bWTKQrmxLhNp4Rz.jpg",
+        "first_air_date": "1995-11-13",
+        "softcore": false,
+        "name": "The Thin Blue Line",
+        "vote_average": 7.155,
+        "vote_count": 116
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/30syjvXZ7QevfNzpSordlHh1VrM.jpg",
+        "genre_ids": [
+          10759,
+          18,
+          9648,
+          80
+        ],
+        "id": 60929,
+        "origin_country": [
+          "TR"
+        ],
+        "original_language": "tr",
+        "original_name": "Kara Para Aşk",
+        "overview": "بعد العثور على خطيبة شرطيّ ووالد مصمّمة مجوهرات ميّتان معًا، يواجه المفجوعان العواقب الخطيرة لعملية سرقة باءت بالفشل.",
+        "popularity": 9.6988,
+        "poster_path": "/Ajlbvxmsk9YZRPP2frleDfF44wc.jpg",
+        "first_air_date": "2014-03-12",
+        "softcore": false,
+        "name": "العشق الأسود",
+        "vote_average": 8.3,
+        "vote_count": 50
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/ruOjHs9oK0kDwFeKE1Omb3XymAo.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 126990,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ハコヅメ〜たたかう！交番女子〜",
+        "overview": "",
+        "popularity": 4.4212,
+        "poster_path": "/3ymPqgAHPW3jwBAHdxjjlMVJOI0.jpg",
+        "first_air_date": "2021-07-07",
+        "softcore": false,
+        "name": "ハコヅメ〜たたかう！交番女子〜",
+        "vote_average": 8.1,
+        "vote_count": 25
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/xixtD3RcTBHafCWGW2a1dFesLkq.jpg",
+        "genre_ids": [
+          10759,
+          35,
+          18
+        ],
+        "id": 305250,
+        "origin_country": [
+          "TH"
+        ],
+        "original_language": "th",
+        "original_name": "สารวัตรแม่ลูกอ่อน",
+        "overview": "",
+        "popularity": 1.8089,
+        "poster_path": "/bhhGpoDUxM5HaviAdjiHZpIQwMo.jpg",
+        "first_air_date": "2017-12-20",
+        "softcore": false,
+        "name": "สารวัตรแม่ลูกอ่อน",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/6bjMtp8oAp3Q5aKB6iWT2j4e64i.jpg",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "id": 125258,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "特案追缉",
+        "overview": "",
+        "popularity": 1.9737,
+        "poster_path": "/8gimFjUVD9bPIH0FnhfAoFoJnSK.jpg",
+        "first_air_date": "2020-05-04",
+        "softcore": false,
+        "name": "特案追缉",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7NNNXo0qG2SqH4JoG7GPvJ2hzes.jpg",
+        "genre_ids": [
+          10765,
+          18
+        ],
+        "id": 93740,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Foundation",
+        "overview": "يروي مسلسل Foundation، المستوحى من روايات Isaac Asimov، قصة مجموعة من المنفيين في رحلتهم لإنقاذ البشرية وإعادة بناء الحضارة في ظلّ سقوط الإمبراطورية المجرية.",
+        "popularity": 39.0881,
+        "poster_path": "/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg",
+        "first_air_date": "2021-09-23",
+        "softcore": false,
+        "name": "Foundation",
+        "vote_average": 7.706,
+        "vote_count": 1816
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/8CTifCAqWiGdVECXfT2YcDElNww.jpg",
+        "genre_ids": [
+          10764,
+          80
+        ],
+        "id": 210062,
+        "origin_country": [
+          "SE"
+        ],
+        "original_language": "sv",
+        "original_name": "Gränsbevakarna Sverige",
+        "overview": "",
+        "popularity": 5.002,
+        "poster_path": "/ustee4kjhWOpR7vXcyUhyMCxQsm.jpg",
+        "first_air_date": "2022-09-13",
+        "softcore": false,
+        "name": "Gränsbevakarna Sverige",
+        "vote_average": 6,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/oilobjVpXlSaDDj67raoNqdHrfB.jpg",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "id": 210213,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ガンニバル",
+        "overview": "",
+        "popularity": 10.7172,
+        "poster_path": "/i5N0LKem5gTUxyMfaly8NhK2GjR.jpg",
+        "first_air_date": "2022-12-28",
+        "softcore": false,
+        "name": "ガンニバル",
+        "vote_average": 7.7,
+        "vote_count": 83
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eVwD4s4dBOK5Jn7CzOLBTo0vXNH.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          10765
+        ],
+        "id": 63639,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "The Expanse",
+        "overview": "تدور الاحداث بعد مائتي عام في المستقبل بعد حالة شابة مفقودة تجلب مخبرًا متشددًا وقبطان سفينة مارقة في سباق عبر النظام الشمسي لفضح أكبر مؤامرة في تاريخ البشرية.",
+        "popularity": 48.6114,
+        "poster_path": "/5vQlVWkIMPhZ88OWchJsgwGEK9.jpg",
+        "first_air_date": "2015-12-14",
+        "softcore": false,
+        "name": "الامتداد",
+        "vote_average": 8.076,
+        "vote_count": 2919
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5vqZX640ttf7pCoK7g2dTMIHkjl.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 64320,
+        "origin_country": [
+          "KR"
+        ],
+        "original_language": "ko",
+        "original_name": "오 마이 비너스",
+        "overview": "",
+        "popularity": 6.5643,
+        "poster_path": "/dgxMHjTG8kBqppNYR0jssaa1MuQ.jpg",
+        "first_air_date": "2015-11-16",
+        "softcore": false,
+        "name": "오 마이 비너스",
+        "vote_average": 8.11,
+        "vote_count": 391
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wQlJJJ50gKphCci0SmoetUXmJN4.jpg",
+        "genre_ids": [
+          18
+        ],
+        "id": 210733,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "偷偷藏不住",
+        "overview": "",
+        "popularity": 13.1717,
+        "poster_path": "/aMyypY2MhgXeYAuwUXPFH49MkOb.jpg",
+        "first_air_date": "2023-06-20",
+        "softcore": false,
+        "name": "偷偷藏不住",
+        "vote_average": 8.5,
+        "vote_count": 254
+      },
+      {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          18,
+          9648
+        ],
+        "id": 210771,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "Owaraseru Mono",
+        "overview": "",
+        "popularity": 1.7306,
+        "poster_path": "/hG6lRGfWM3ZzUn4xc7gmnmmz6r9.jpg",
+        "first_air_date": "2022-09-22",
+        "softcore": false,
+        "name": "Owaraseru Mono",
+        "vote_average": 0,
+        "vote_count": 0
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/swJOGQfWIh5mmpjzRGckRqcvm1H.jpg",
+        "genre_ids": [
+          35,
+          18
+        ],
+        "id": 242335,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "おっさんずラブ-リターンズ-",
+        "overview": "",
+        "popularity": 2.7793,
+        "poster_path": "/4l73v45bSTyKDzOttID5FXZoZAm.jpg",
+        "first_air_date": "2024-01-05",
+        "softcore": false,
+        "name": "おっさんずラブ-リターンズ-",
+        "vote_average": 9.5,
+        "vote_count": 4
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/A6AuIxCNXdl8cbNhjAu5oLnAlgU.jpg",
+        "genre_ids": [
+          18,
+          9648,
+          80
+        ],
+        "id": 64852,
+        "origin_country": [
+          "IS"
+        ],
+        "original_language": "is",
+        "original_name": "Ófærð",
+        "overview": "تظهر جثة قتيل في بلدة صغيرة في أيسلندا في ذات الوقت الذي تضرب فيه عاصفة ثلجية كبيرة تفصل المنطقة عن بقية العالم.",
+        "popularity": 18.7244,
+        "poster_path": "/bTpSWcEqeTXH7Ipr2XUfGW36n02.jpg",
+        "first_air_date": "2015-12-27",
+        "softcore": false,
+        "name": "مُحاصرون",
+        "vote_average": 7.308,
+        "vote_count": 284
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vilotBs3cYDSjx26GSj4C2XVRj.jpg",
+        "genre_ids": [
+          10764,
+          99,
+          80
+        ],
+        "id": 64559,
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_name": "Nightwatch",
+        "overview": "",
+        "popularity": 3.0608,
+        "poster_path": "/2xVRRNcFv226vc8EAcrEhciVlmx.jpg",
+        "first_air_date": "2015-01-22",
+        "softcore": false,
+        "name": "Nightwatch",
+        "vote_average": 8,
+        "vote_count": 10
+      }
+    ],
+    "total_pages": 2924,
+    "total_results": 58478
+  },
+  "recommendations": {
+    "page": 1,
+    "results": [
+      {
+        "adult": false,
+        "backdrop_path": "/wPT3xuLb4OM5IKCAiHiMblxiqX.jpg",
+        "id": 2474,
+        "name": "A Touch of Frost",
+        "original_name": "A Touch of Frost",
+        "overview": "Jack Frost is a gritty, dogged and unconventional detective with sympathy for the underdog and an instinct for moral justice who attracts trouble like a magnet. Despite some animosity with his superintendent, Norman “Horn-rimmed Harry” Mullett, Frost and his ever-changing roster of assistants manage to solve cases via his clever mind, good heart, and cool touch.",
+        "poster_path": "/dgpUNSkIWdU1i9vjc7MQPfGBFLo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 38.4036,
+        "first_air_date": "1992-12-06",
+        "softcore": false,
+        "vote_average": 7.564,
+        "vote_count": 78,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/5FrnNiMyQIKeSYRD4hR5b0uRaTF.jpg",
+        "id": 925,
+        "name": "77 Sunset Strip",
+        "original_name": "77 Sunset Strip",
+        "overview": "Stu Bailey and Jeff Spencer are the wisecracking, womanizing private-detective heroes of this Warner Brothers drama. They work out of an office located at 77 Sunset Strip in Los Angeles, California, right next door to a snazzy restaurant where Kookie works as a valet. The finger-snapping, slang-talking Kookie occasionally helps Stu and Jeff with their cases, and eventually becomes a full-fledged member of the detective agency. Rex Randolph and J.R. Hale also join the firm, and Suzanne is their leggy secretary.",
+        "poster_path": "/3E533YY70yC3upv49XkeDcvd5z0.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 13.9628,
+        "first_air_date": "1958-10-10",
+        "softcore": false,
+        "vote_average": 7.2,
+        "vote_count": 26,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/btIdwkLbPlY89HZIVowWitM0VLM.jpg",
+        "id": 84007,
+        "name": "Carl Weber's The Family Business",
+        "original_name": "Carl Weber's The Family Business",
+        "overview": "Meet the Duncans, a prominent family from Jamaica, Queens. By day, they’re an upstanding family; by night, they live a dangerous secret life.",
+        "poster_path": "/A1WwpjcFynFe52KyD4sUb29KUrZ.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 12.2757,
+        "first_air_date": "2018-11-13",
+        "softcore": false,
+        "vote_average": 8.5,
+        "vote_count": 35,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/bUGTUoS4UIiznZvannNgLczSIvF.jpg",
+        "id": 95705,
+        "name": "Deadly Tropics",
+        "original_name": "Tropiques criminels",
+        "overview": "On the Caribbean island of Martinique, in the middle of the tropics, several mysterious murders occur. Now it is up to the two investigators Mélissa Sainte-Rose and Gaëlle Crivelli to solve the case - even if the two women have very different views of law.",
+        "poster_path": "/4x2AABez2NLO3XgPaYHdJbq7nnZ.jpg",
+        "media_type": "tv",
+        "original_language": "fr",
+        "genre_ids": [
+          80,
+          18
+        ],
+        "popularity": 10.9113,
+        "first_air_date": "2019-11-22",
+        "softcore": false,
+        "vote_average": 7.016,
+        "vote_count": 32,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/96v57BttdxvquxnVozkQUsGvawQ.jpg",
+        "id": 61511,
+        "name": "Father Brown",
+        "original_name": "Father Brown",
+        "overview": "Father Brown is based on G. K. Chesterton's detective stories about a Catholic priest who doubles as an amateur detective in order to try and solve mysteries.",
+        "poster_path": "/u8LUC3O1hiEDKP2SFZK68iYqMzl.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 35.804,
+        "first_air_date": "2013-01-14",
+        "softcore": false,
+        "vote_average": 7.649,
+        "vote_count": 141,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/lt6sueOPDt721p9nqtpXKa3VZGu.jpg",
+        "id": 3572,
+        "name": "Kojak",
+        "original_name": "Kojak",
+        "overview": "A bald, lollipop sucking police detective with a fiery righteous attitude battles crime in New York City.",
+        "poster_path": "/7F1eH97Bpi8zQbc172drbJCsOsG.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 14.5129,
+        "first_air_date": "1973-10-24",
+        "softcore": false,
+        "vote_average": 7.289,
+        "vote_count": 154,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/vgeDRVpSUa4Hvovg4C6dgm4dfUW.jpg",
+        "id": 112470,
+        "name": "Ici tout commence",
+        "original_name": "Ici tout commence",
+        "overview": "This television drama series is centered around the prestigious culinary school of renowned chef Auguste Armand. The show follows the lives of students and staff as they navigate the challenges and pressures of the culinary world—delving into their personal and professional lives, revealing secrets, rivalries, and complex relationships.",
+        "poster_path": "/v7nXPo2zdaIOfeIaERiOuTEt89N.jpg",
+        "media_type": "tv",
+        "original_language": "fr",
+        "genre_ids": [
+          10766,
+          18
+        ],
+        "popularity": 69.3117,
+        "first_air_date": "2020-11-02",
+        "softcore": false,
+        "vote_average": 6.788,
+        "vote_count": 92,
+        "origin_country": [
+          "FR"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/yxHPyiOGOcc3k2WGGAzrHnrq5kw.jpg",
+        "id": 58057,
+        "name": "Jack Irish",
+        "original_name": "Jack Irish",
+        "overview": "Jack Irish is a man getting his life back together again. A former criminal lawyer whose world imploded, he now spends his days as a part-time investigator, debt collector, apprentice cabinet maker, punter and sometime lover – the complete man really. An expert in finding those who don’t want to be found – dead or alive, Jack helps out his mates while avoiding the past. That is until the past finds him.",
+        "poster_path": "/9f66kq0vLHztRL44FcGCqyaqUJo.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 7.2649,
+        "first_air_date": "2016-02-11",
+        "softcore": false,
+        "vote_average": 6.525,
+        "vote_count": 40,
+        "origin_country": [
+          "AU"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7k21NnwnMnHQwJfv6WjDGnW8IvI.jpg",
+        "id": 85547,
+        "name": "London Kills",
+        "original_name": "London Kills",
+        "overview": "With a documentary style delivery, this drama tells the story of a team of top murder detectives with each episode featuring a different murder while also following a serialized story involving the lead detective’s missing wife.",
+        "poster_path": "/9YqT6OWah3zQfFMFQGLzQHDObcq.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 5.0736,
+        "first_air_date": "2019-02-25",
+        "softcore": false,
+        "vote_average": 6.528,
+        "vote_count": 36,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/eE8q2gfFrcvk99dbr8i3a62SjjW.jpg",
+        "id": 2468,
+        "name": "The Streets of San Francisco",
+        "original_name": "The Streets of San Francisco",
+        "overview": "Two police officers, the older Lt. Stone and the young upstart Inspector Keller, investigate murders and other serious crimes in San Francisco. Stone would become a second father to Keller as he learned the rigors and procedures of detective work.",
+        "poster_path": "/9Hpeu6FfEsWuy2rED3JuAMdNKhk.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759
+        ],
+        "popularity": 12.1481,
+        "first_air_date": "1972-09-23",
+        "softcore": false,
+        "vote_average": 7.075,
+        "vote_count": 106,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/aRimNw72sdpdvd0i3LqAxkwYdJ1.jpg",
+        "id": 4521,
+        "name": "Jake and the Fatman",
+        "original_name": "Jake and the Fatman",
+        "overview": "Jake and the Fatman is a television crime drama starring William Conrad as prosecutor J. L. \"Fatman\" McCabe and Joe Penny as investigator Jake Styles.\n\nThe series ran on CBS for five seasons from 1987 to 1992. Diagnosis: Murder was a spin-off of this series.",
+        "poster_path": "/3WBkepiTwgemGDZadyJTV5SmS4l.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          10759
+        ],
+        "popularity": 26.4975,
+        "first_air_date": "1987-09-26",
+        "softcore": false,
+        "vote_average": 6.2,
+        "vote_count": 55,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/pCF7Pyuy7bioVx1PIeRu9vTI1Tu.jpg",
+        "id": 2966,
+        "name": "Crime Story",
+        "original_name": "Crime Story",
+        "overview": "The hard-boiled saga of hair-trigger cop Lieutenant Mike Torello and his obsessive pursuit of ruthless gangster Ray Luca.",
+        "poster_path": "/he4iKKlgXnT7kPAjvYFeREiHPmj.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          10759,
+          9648
+        ],
+        "popularity": 14.2807,
+        "first_air_date": "1986-09-19",
+        "softcore": false,
+        "vote_average": 8,
+        "vote_count": 76,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/dW58Jn2Fi29P5tC0oSJ6YWhiV9E.jpg",
+        "id": 2875,
+        "name": "MacGyver",
+        "original_name": "MacGyver",
+        "overview": "He's everyone's favorite action hero... but he's a hero with a difference. Angus MacGyver is a secret agent whose wits are his deadliest weapon. Armed with only a knapsack filled with everyday items he picks up along the way, he improvises his way out of every peril the bad guys throw at him.\n\nMaking a bomb out of chewing gum? Fixing a speeding car's brakes... while he's riding in it? Using soda pop to cook up tear gas? That's all in a day's adventures for MacGyver. He's part Boy Scout, part genius. And all hero.",
+        "poster_path": "/zhgJNHbFxGkqdsKdkZLBrDWagOv.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 43.0114,
+        "first_air_date": "1985-09-29",
+        "softcore": false,
+        "vote_average": 7.709,
+        "vote_count": 960,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/gVAwcl83Ys1dtcFCiLuCLAx6xge.jpg",
+        "id": 2625,
+        "name": "Diagnosis: Murder",
+        "original_name": "Diagnosis: Murder",
+        "overview": "Dr. Mark Sloan is a good-natured, offbeat physician who is called upon to solve murders.",
+        "poster_path": "/5yhozeY2KgYXQQE9kfbiIyypYiI.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10751,
+          9648,
+          80
+        ],
+        "popularity": 52.9227,
+        "first_air_date": "1993-10-29",
+        "softcore": false,
+        "vote_average": 7.113,
+        "vote_count": 124,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/7XNP4WdsWA9iorQJtXQxZScljmt.jpg",
+        "id": 9894,
+        "name": "Mission: Impossible",
+        "original_name": "Mission: Impossible",
+        "overview": "Mission: Impossible is an American television series that chronicles the missions of a team of secret American government agents known as the Impossible Missions Force. The show is a revival of the 1966 TV series of the same name. The only actor to return for the series as a regular cast member was Peter Graves who played Jim Phelps, although two other cast members from the original series returned as guest stars. The only other regular cast member to return for every episode was the voice of \"The Tape\", Bob Johnson.",
+        "poster_path": "/4AZwDa0RZLIVsOgZxlgOqNUw3U6.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 9.3033,
+        "first_air_date": "1988-10-23",
+        "softcore": false,
+        "vote_average": 7.538,
+        "vote_count": 224,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+        "id": 764,
+        "name": "Midsomer Murders",
+        "original_name": "Midsomer Murders",
+        "overview": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+        "poster_path": "/pz7tsWxe0TTdfJnWPjZAEnrSl5M.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 192.0578,
+        "first_air_date": "1997-03-23",
+        "softcore": false,
+        "vote_average": 7.5,
+        "vote_count": 372,
+        "origin_country": [
+          "GB"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/sCa6Ja6rZrqGp7pZ55jaMyG9Poq.jpg",
+        "id": 9769,
+        "name": "Vega$",
+        "original_name": "Vega$",
+        "overview": "Private detective Dan Tanna drives around the streets of Las Vegas in a red 1957 Ford Thunderbird solving crimes and making Las Vegas a better place for residents and tourists alike.",
+        "poster_path": "/myE2ubvyqnX8ToL0KmC6TTBT7c4.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80
+        ],
+        "popularity": 13.0034,
+        "first_air_date": "1978-09-20",
+        "softcore": false,
+        "vote_average": 6.94,
+        "vote_count": 25,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/wtYUaMLKIr3eoR5UAbf3C1MiZF6.jpg",
+        "id": 1340,
+        "name": "Banacek",
+        "original_name": "Banacek",
+        "overview": "Banacek is an American detective TV series starring George Peppard that aired on the NBC network from 1972 to 1974. The series was part of the rotating NBC Wednesday Mystery Movie anthology. It alternated in its time slot with several other shows but was the only one to last beyond its first season.",
+        "poster_path": "/6lJ7GqQ4ebGTjzkG25AZIkuS1BH.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          80,
+          18,
+          9648
+        ],
+        "popularity": 8.2708,
+        "first_air_date": "1972-09-13",
+        "softcore": false,
+        "vote_average": 8.4,
+        "vote_count": 20,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/nGdcSYIgYaMSjqMu7CYAW025ygi.jpg",
+        "id": 1937,
+        "name": "Baywatch Nights",
+        "original_name": "Baywatch Nights",
+        "overview": "Baywatch Nights is an American police and science fiction drama series that aired in syndication from 1995 to 1997. Created by Douglas Schwartz, David Hasselhoff, and Gregory J. Bonann, the series is a spin-off from the popular television series, Baywatch.",
+        "poster_path": "/3UVQpYZ65r855CttLRCov8SKqBB.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          80,
+          9648
+        ],
+        "popularity": 18.4229,
+        "first_air_date": "1995-09-30",
+        "softcore": false,
+        "vote_average": 6.186,
+        "vote_count": 43,
+        "origin_country": [
+          "US"
+        ]
+      },
+      {
+        "adult": false,
+        "backdrop_path": "/mlEkLMkyL9ldRz4fnLANV4XsHsl.jpg",
+        "id": 2389,
+        "name": "Las Vegas",
+        "original_name": "Las Vegas",
+        "overview": "Ed Deline is a strict ex-CIA officer who went from being Head of Security to becoming President of Operations of the Montecito, whose job is to run the day-to-day operations of the casino. Following his departure, former Marine Danny McCoy, Ed's former protégé, becomes the Montecito's new President of Operations.",
+        "poster_path": "/AknZ6uDYvswlIrUKDm2Nte32xge.jpg",
+        "media_type": "tv",
+        "original_language": "en",
+        "genre_ids": [
+          18,
+          10759,
+          80
+        ],
+        "popularity": 39.0373,
+        "first_air_date": "2003-09-22",
+        "softcore": false,
+        "vote_average": 7.034,
+        "vote_count": 268,
+        "origin_country": [
+          "US"
+        ]
+      }
+    ],
+    "total_pages": 5,
+    "total_results": 99
+  },
+  "watch/providers": {
+    "results": {
+      "BE": {
+        "link": "https://www.themoviedb.org/tv/72879-demain-nous-appartient/watch?locale=BE",
+        "ads": [
+          {
+            "logo_path": "/i4rN5aI5cNEHVtmrJ4rEVlRNwBX.png",
+            "provider_id": 461,
+            "provider_name": "RTBF Auvio",
+            "display_priority": 13
+          }
+        ]
+      },
+      "CA": {
+        "link": "https://www.themoviedb.org/tv/72879-demain-nous-appartient/watch?locale=CA",
+        "free": [
+          {
+            "logo_path": "/7fJWXuoozIzLnMNUN2d2XsOiVo5.png",
+            "provider_id": 2665,
+            "provider_name": "TV5 Unis",
+            "display_priority": 139
+          }
+        ]
+      },
+      "FR": {
+        "link": "https://www.themoviedb.org/tv/72879-demain-nous-appartient/watch?locale=FR",
+        "rent": [
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          }
+        ],
+        "buy": [
+          {
+            "logo_path": "/51fX3l4yElitnfui0IkbMUmfmgF.png",
+            "provider_id": 58,
+            "provider_name": "Canal VOD",
+            "display_priority": 17
+          }
+        ]
+      },
+      "GB": {
+        "link": "https://www.themoviedb.org/tv/72879-demain-nous-appartient/watch?locale=GB",
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "GG": {
+        "link": "https://www.themoviedb.org/tv/72879-demain-nous-appartient/watch?locale=GG",
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 119,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 1
+          }
+        ]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/tv/72879-demain-nous-appartient/watch?locale=US",
+        "flatrate": [
+          {
+            "logo_path": "/gLOsC3f7mrM7tc7VFxrlxXOk3oq.png",
+            "provider_id": 2400,
+            "provider_name": "France Channel Amazon Channel",
+            "display_priority": 260
+          }
+        ],
+        "free": [
+          {
+            "logo_path": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
+            "provider_id": 9,
+            "provider_name": "Amazon Prime Video",
+            "display_priority": 3
+          }
+        ],
+        "ads": [
+          {
+            "logo_path": "/b7uhrYJtAe7b1ieJGg705vTbwrX.png",
+            "provider_id": 207,
+            "provider_name": "The Roku Channel",
+            "display_priority": 29
+          }
+        ]
+      }
+    }
+  }
+}
