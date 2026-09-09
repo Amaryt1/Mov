@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "policy": "catalog-and-authorized-playback-only",
+  "sources": [
+    {
+      "id": "tmdb",
+      "name": "TMDB",
+      "kind": "metadata",
+      "enabled": true,
+      "purpose": ["movies", "tv", "ratings", "genres", "credits", "recommendations", "watch-providers"]
+    },
+    {
+      "id": "jikan",
+      "name": "Jikan / MyAnimeList",
+      "kind": "metadata",
+      "enabled": true,
+      "purpose": ["anime", "episodes", "genres", "scores", "relations"]
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "kind": "authorized-embed",
+      "enabled": true,
+      "purpose": ["official-trailers"]
+    },
+    {
+      "id": "provider-links",
+      "name": "TMDB Watch Providers",
+      "kind": "official-provider-links",
+      "enabled": true,
+      "purpose": ["legal-watch-options-by-region"]
+    }
+  ],
+  "external-sites-reviewed": [
+    "fmfau.com",
+    "boomflix.qzz.io",
+    "bingebox.ac",
+    "aether.ist",
+    "popcornmovies.ac"
+  ],
+  "note": "External sites may be used as UI/architecture references only. Direct copyrighted stream extraction or republishing is not part of this project. New playback adapters must point to authorized or licensed video sources."
+}
